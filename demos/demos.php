@@ -219,6 +219,22 @@ function woostify_sites_local_import_files() {
 			'type'                         => 'free',
 			'page_builder'                 => 'elementor',
 		),
+		array(
+			'id'                           => 13,
+			'import_file_name'             => 'Randy',
+			'local_import_file'            => WOOSTIFY_SITES_DIR . 'demos/demo-14/demo-content.xml',
+			'local_import_widget_file'     => WOOSTIFY_SITES_DIR . 'demos/demo-14/widgets.wie',
+			'local_import_customizer_file' => WOOSTIFY_SITES_DIR . 'demos/demo-14/customizer.dat',
+			'import_preview_image_url'     => WOOSTIFY_SITES_URI . 'demos/demo-14/demo-14.png',
+			'import_notice'                => __( 'After you import this demo, you should update permalink.', 'woostify' ),
+			'preview_url'                  => 'https://woostify.com/demos/randy/',
+			'homepage'                     => 'Woostify',
+			'blog_page'                    => 'Blog',
+			'primary_menu'                 => 'Primary Menu',
+			'footer_menu'                  => 'Footer Menu',
+			'type'                         => 'pro',
+			'page_builder'                 => 'elementor',
+		),
 
 	);
 }
