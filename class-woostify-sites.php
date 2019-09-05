@@ -235,7 +235,7 @@ class Woostify_Sites {
 		if ( class_exists( 'TGM_Plugin_Activation' ) ) {
 			$this->tgmpa = isset( $GLOBALS['tgmpa'] ) ? $GLOBALS['tgmpa'] : TGM_Plugin_Activation::get_instance();
 		}
-		
+
 		add_action( 'admin_init', array( $this, 'woostify_sites_disable_default_elementor_color_font' ) );
 		add_action( 'admin_init', array( $this, 'woostify_sites_required_classes' ) );
 		add_action( 'admin_init', array( $this, 'woostify_sites_redirect' ), 30 );
@@ -1253,11 +1253,11 @@ class Woostify_Sites {
 								</a>
 							</li>
 
-							<!-- <li>
+							<li>
 								<a href="#" data-group="brizy" class="merlin__page-builder js-select-filter">
-									<?php //echo esc_html('Brizy'); ?>
+									<?php echo esc_html('Brizy'); ?>
 								</a>
-							</li> -->
+							</li>
 
 						</ul>
 					</div>
@@ -2641,7 +2641,7 @@ class Woostify_Sites {
 
 		if ( 'pro' === $import_type && defined( 'WOOSTIFY_PRO_VERSION' ) ) {
 			$modules_activated          = get_option( 'woostify_pro_fully_featured_activate' );
-			
+
 
 			if ( $modules_activated ) {
 				$import_info      = $this->get_import_data_info( $this->selected_index );

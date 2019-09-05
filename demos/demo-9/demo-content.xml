@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/5.2.2" created="2019-07-16 10:29" -->
+	<!-- generator="WordPress/5.2.2" created="2019-09-03 09:28" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
 	<title>Watch Shop</title>
 	<link>https://woostify.com/demos/watch</link>
 	<description>E-Commerce WordPress Theme</description>
-	<pubDate>Tue, 16 Jul 2019 10:29:21 +0000</pubDate>
+	<pubDate>Tue, 03 Sep 2019 09:28:02 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>https://woostify.com/demos/watch</wp:base_site_url>
@@ -4998,61 +4998,6 @@
 		<wp:is_sticky>0</wp:is_sticky>
 														</item>
 					<item>
-		<title></title>
-		<link>https://woostify.com/demos/watch/785/</link>
-		<pubDate>Fri, 12 Apr 2019 03:49:10 +0000</pubDate>
-		<dc:creator><![CDATA[woostify]]></dc:creator>
-		<guid isPermaLink="false">https://woostify.com/demos/watch/?p=785</guid>
-		<description></description>
-		<content:encoded><![CDATA[ ]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>785</wp:post_id>
-		<wp:post_date><![CDATA[2019-04-12 03:49:10]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2019-04-12 03:49:10]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[785]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>2</wp:menu_order>
-		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="nav_menu" nicename="main-menu"><![CDATA[Main Menu]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[772]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-		<wp:meta_value><![CDATA[page]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
 		<title>size</title>
 		<link>https://woostify.com/demos/watch/?elementor_library=size</link>
 		<pubDate>Sat, 04 May 2019 03:42:21 +0000</pubDate>
@@ -5542,16 +5487,21 @@
 		<content:encoded><![CDATA[FREE SHIPPING ON ORDERS OF $100 AND FREE RETURNS EVERY DAY		
 			Search		
 			<a href="https://woostify.com/demos/watch/" rel="home"><img width="149" height="34" src="https://woostify.com/demos/watch/wp-content/uploads/2019/06/logo.png" alt="Woostify logo" srcset="" /></a>		
+			<a href="https://woostify.com/demos/watch/wishlist/">
+			<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 -28 512.001 512"><path d="m256 455.515625c-7.289062 0-14.316406-2.640625-19.792969-7.4375-20.683593-18.085937-40.625-35.082031-58.21875-50.074219l-.089843-.078125c-51.582032-43.957031-96.125-81.917969-127.117188-119.3125-34.644531-41.804687-50.78125-81.441406-50.78125-124.742187 0-42.070313 14.425781-80.882813 40.617188-109.292969 26.503906-28.746094 62.871093-44.578125 102.414062-44.578125 29.554688 0 56.621094 9.34375 80.445312 27.769531 12.023438 9.300781 22.921876 20.683594 32.523438 33.960938 9.605469-13.277344 20.5-24.660157 32.527344-33.960938 23.824218-18.425781 50.890625-27.769531 80.445312-27.769531 39.539063 0 75.910156 15.832031 102.414063 44.578125 26.191406 28.410156 40.613281 67.222656 40.613281 109.292969 0 43.300781-16.132812 82.9375-50.777344 124.738281-30.992187 37.398437-75.53125 75.355469-127.105468 119.308594-17.625 15.015625-37.597657 32.039062-58.328126 50.167969-5.472656 4.789062-12.503906 7.429687-19.789062 7.429687zm-112.96875-425.523437c-31.066406 0-59.605469 12.398437-80.367188 34.914062-21.070312 22.855469-32.675781 54.449219-32.675781 88.964844 0 36.417968 13.535157 68.988281 43.882813 105.605468 29.332031 35.394532 72.960937 72.574219 123.476562 115.625l.09375.078126c17.660156 15.050781 37.679688 32.113281 58.515625 50.332031 20.960938-18.253907 41.011719-35.34375 58.707031-50.417969 50.511719-43.050781 94.136719-80.222656 123.46875-115.617188 30.34375-36.617187 43.878907-69.1875 43.878907-105.605468 0-34.515625-11.605469-66.109375-32.675781-88.964844-20.757813-22.515625-49.300782-34.914062-80.363282-34.914062-22.757812 0-43.652344 7.234374-62.101562 21.5-16.441406 12.71875-27.894532 28.796874-34.609375 40.046874-3.453125 5.785157-9.53125 9.238282-16.261719 9.238282s-12.808594-3.453125-16.261719-9.238282c-6.710937-11.25-18.164062-27.328124-34.609375-40.046874-18.449218-14.265626-39.34375-21.5-62.097656-21.5zm0 0"></path></svg>			</a>
 			<a href="#">
 							</a>
 					<ul id="menu-dashboard"><li id="menu-item-1105"><a href="https://woostify.com/demos/watch/shop/my-account/">My Account</a></li>
 <li id="menu-item-1106"><a href="https://woostify.com/demos/watch/shop/checkout/">Checkout</a></li>
 </ul>						<li>
-							<a href="https://woostify.com/demos/watch/wp-login.php?action=logout&#038;redirect_to=https%3A%2F%2Fwoostify.com%2Fdemos%2Fwatch%2F&#038;_wpnonce=3811222bd9">Logout</a>
+							<a href="https://woostify.com/demos/watch/wp-login.php?action=logout&#038;redirect_to=https%3A%2F%2Fwoostify.com%2Fdemos%2Fwatch%2F&#038;_wpnonce=f9f9b4c8fb">Logout</a>
 						</li>
 			<a href="https://woostify.com/demos/watch/shop/cart/">
 								0
 			</a>
+				<nav aria-label="Primary navigation">
+											<a href="https://woostify.com/demos/watch/wp-admin/nav-menus.php">Add a Primary Menu</a>
+									</nav>
 			<form role="search" method="get" action="https://woostify.com/demos/watch/">
 	<label for="woocommerce-product-search-field-0">Search for:</label>
 	<input type="search" id="woocommerce-product-search-field-0" placeholder="Search products&hellip;" value="" name="s" />
@@ -5576,32 +5526,7 @@
 </li>
 <li id="menu-item-24"><a href="https://woostify.com/demos/watch/blog">Blog</a></li>
 </ul>				</nav>
-						<a href="https://woostify.com/demos/watch/wp-login.php?action=logout&#038;redirect_to=https%3A%2F%2Fwoostify.com%2Fdemos%2Fwatch&#038;_wpnonce=3811222bd9">Logout</a>
-			<form role="search" method="get" action="https://woostify.com/demos/watch/">
-	<label for="woocommerce-product-search-field-1">Search for:</label>
-	<input type="search" id="woocommerce-product-search-field-1" placeholder="Search products&hellip;" value="" name="s" />
-	<button type="submit" value="Search">Search</button>
-	<input type="hidden" name="post_type" value="product" />
-</form>
-				<nav aria-label="Primary navigation">
-					<ul id="menu-main-menu-1"><li><a href="https://woostify.com/demos/watch">Home</a></li>
-<li><a href="https://woostify.com/demos/watch/shop/">Shop</a>
-<ul>
-	<li><a href="https://woostify.com/demos/watch/product/trendy-watch/">Products Variations</a></li>
-	<li><a href="https://woostify.com/demos/watch/shop/cart/">Cart</a></li>
-	<li><a href="https://woostify.com/demos/watch/shop/checkout/">Checkout</a></li>
-	<li><a href="https://woostify.com/demos/watch/shop/my-account/">My Account</a></li>
-</ul>
-</li>
-<li><a href="#">Pages</a>
-<ul>
-	<li><a href="https://woostify.com/demos/watch/about">About</a></li>
-	<li><a href="https://woostify.com/demos/watch/contact">Contact</a></li>
-</ul>
-</li>
-<li><a href="https://woostify.com/demos/watch/blog">Blog</a></li>
-</ul>				</nav>
-						<a href="https://woostify.com/demos/watch/wp-login.php?action=logout&#038;redirect_to=https%3A%2F%2Fwoostify.com%2Fdemos%2Fwatch&#038;_wpnonce=3811222bd9">Logout</a>]]></content:encoded>
+						<a href="https://woostify.com/demos/watch/wp-login.php?action=logout&#038;redirect_to=https%3A%2F%2Fwoostify.com%2Fdemos%2Fwatch&#038;_wpnonce=f9f9b4c8fb">Logout</a>]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>1096</wp:post_id>
 		<wp:post_date><![CDATA[2019-06-20 03:27:11]]></wp:post_date>
@@ -5637,7 +5562,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_elementor_version]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2.5.16]]></wp:meta_value>
+		<wp:meta_value><![CDATA[2.6.8]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
@@ -5645,7 +5570,11 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_elementor_data]]></wp:meta_key>
-		<wp:meta_value><![CDATA[[{"id":"df4cdd5","elType":"section","settings":{"content_position":"middle","background_background":"classic","background_color":"#06070b"},"elements":[{"id":"1ecd6f3","elType":"column","settings":{"_column_size":100},"elements":[{"id":"7bdcb57","elType":"widget","settings":{"title":"FREE SHIPPING ON ORDERS OF $100 AND FREE RETURNS EVERY DAY","header_size":"span","align":"center","title_color":"#ffffff","typography_typography":"custom"},"elements":[],"widgetType":"heading"}],"isInner":false}],"isInner":false},{"id":"35e11ce","elType":"section","settings":{"content_position":"middle","structure":"30","padding":{"unit":"px","top":"10","right":"0","bottom":"0","left":"0","isLinked":false},"padding_mobile":{"unit":"px","top":"0","right":"0","bottom":"5","left":"0","isLinked":false}},"elements":[{"id":"e58b6d1","elType":"column","settings":{"_column_size":33,"_inline_size":null,"_inline_size_mobile":20},"elements":[{"id":"f96d7b0","elType":"widget","settings":{"title":"Search","header_size":"span","_margin":{"unit":"px","top":"0","right":"10","bottom":"0","left":"0","isLinked":false},"_element_width":"auto","_element_vertical_align":"center","hide_tablet":"hidden-tablet","hide_mobile":"hidden-phone"},"elements":[],"widgetType":"heading"},{"id":"9d589e9","elType":"widget","settings":{"padding":{"unit":"px","top":"10","right":"10","bottom":"10","left":"10","isLinked":true},"_element_width":"auto","_element_vertical_align":"center","_margin_mobile":{"unit":"px","top":"10","right":"0","bottom":"0","left":"0","isLinked":false}},"elements":[],"widgetType":"woostify-search-icon"}],"isInner":false},{"id":"967d54c","elType":"column","settings":{"_column_size":33,"_inline_size":null,"_inline_size_mobile":60},"elements":[{"id":"e10a2e0","elType":"widget","settings":{"_margin_mobile":{"unit":"px","top":"5","right":"0","bottom":"0","left":"0","isLinked":false}},"elements":[],"widgetType":"woostify-logo-image"}],"isInner":false},{"id":"d4d5054","elType":"column","settings":{"_column_size":33,"_inline_size":null,"align":"flex-end","_inline_size_mobile":20},"elements":[{"id":"6cd3e41","elType":"widget","settings":{"type":"icon","padding":{"unit":"px","top":"10","right":"10","bottom":"10","left":"10","isLinked":true},"_element_width":"auto","_element_vertical_align":"center","menu_id":"43","hide_mobile":"hidden-phone"},"elements":[],"widgetType":"woostify-account-icon"},{"id":"db6f189","elType":"widget","settings":{"padding":{"unit":"px","top":"10","right":"10","bottom":"10","left":"10","isLinked":true},"type":"icon","icon":"eicon-bag-light","position_x_right":{"unit":"px","size":0,"sizes":[]},"position_y_top":{"unit":"px","size":3,"sizes":[]},"_element_width":"auto","_element_vertical_align":"center","hide_mobile":"hidden-phone"},"elements":[],"widgetType":"woostify-cart-icon"},{"id":"ce8c530","elType":"widget","settings":{"menu_id":"2","alignment":"center","parent_typo_typography":"custom","parent_typo_font_size":{"unit":"px","size":20,"sizes":[]},"prent_menu_text_color":"#000000","parent_typo_line_height":{"unit":"px","size":25,"sizes":[]},"sub_typo_typography":"custom","sub_typo_font_size":{"unit":"px","size":18,"sizes":[]},"_padding_tablet":{"unit":"px","top":"10","right":"10","bottom":"10","left":"10","isLinked":true},"_element_width":"auto","_element_vertical_align":"center","hide_desktop":"hidden-desktop","parent_typo_font_size_tablet":{"unit":"em","size":1.1,"sizes":[]},"sub_typo_font_size_tablet":{"unit":"px","size":14,"sizes":[]}},"elements":[],"widgetType":"woostify-nav-menu"}],"isInner":false}],"isInner":false},{"id":"29932e5","elType":"section","settings":{"gap":"no","background_background":"classic","hide_tablet":"hidden-tablet","hide_mobile":"hidden-phone","margin":{"unit":"px","top":"-8","right":0,"bottom":"0","left":0,"isLinked":false}},"elements":[{"id":"fccbfe3","elType":"column","settings":{"_column_size":100},"elements":[{"id":"b82946d","elType":"widget","settings":{"menu_id":"2","alignment":"center","parent_typo_typography":"custom","parent_typo_font_size":{"unit":"px","size":20,"sizes":[]},"prent_menu_text_color":"#000000","parent_typo_line_height":{"unit":"px","size":25,"sizes":[]},"sub_typo_typography":"custom","sub_typo_font_size":{"unit":"px","size":18,"sizes":[]}},"elements":[],"widgetType":"woostify-nav-menu"}],"isInner":false}],"isInner":false}]]]></wp:meta_value>
+		<wp:meta_value><![CDATA[[{"id":"df4cdd5","elType":"section","settings":{"content_position":"middle","background_background":"classic","background_color":"#06070b"},"elements":[{"id":"1ecd6f3","elType":"column","settings":{"_column_size":100},"elements":[{"id":"7bdcb57","elType":"widget","settings":{"title":"FREE SHIPPING ON ORDERS OF $100 AND FREE RETURNS EVERY DAY","header_size":"span","align":"center","title_color":"#ffffff","typography_typography":"custom"},"elements":[],"widgetType":"heading"}],"isInner":false}],"isInner":false},{"id":"35e11ce","elType":"section","settings":{"content_position":"middle","structure":"30","padding":{"unit":"px","top":"10","right":"0","bottom":"0","left":"0","isLinked":false},"padding_mobile":{"unit":"px","top":"0","right":"0","bottom":"5","left":"0","isLinked":false}},"elements":[{"id":"e58b6d1","elType":"column","settings":{"_column_size":33,"_inline_size":null,"_inline_size_mobile":20},"elements":[{"id":"f96d7b0","elType":"widget","settings":{"title":"Search","header_size":"span","_margin":{"unit":"px","top":"0","right":"10","bottom":"0","left":"0","isLinked":false},"_element_width":"auto","_element_vertical_align":"center","hide_tablet":"hidden-tablet","hide_mobile":"hidden-phone"},"elements":[],"widgetType":"heading"},{"id":"9d589e9","elType":"widget","settings":{"padding":{"unit":"px","top":"10","right":"10","bottom":"10","left":"10","isLinked":true},"_element_width":"auto","_element_vertical_align":"center","_margin_mobile":{"unit":"px","top":"10","right":"0","bottom":"0","left":"0","isLinked":false}},"elements":[],"widgetType":"woostify-search-icon"}],"isInner":false},{"id":"967d54c","elType":"column","settings":{"_column_size":33,"_inline_size":null,"_inline_size_mobile":60},"elements":[{"id":"e10a2e0","elType":"widget","settings":{"_margin_mobile":{"unit":"px","top":"5","right":"0","bottom":"0","left":"0","isLinked":false},"alignment":"center"},"elements":[],"widgetType":"woostify-logo-image"}],"isInner":false},{"id":"d4d5054","elType":"column","settings":{"_column_size":33,"_inline_size":null,"align":"flex-end","_inline_size_mobile":20},"elements":[{"id":"63a4c92","elType":"widget","settings":{"selected_icon":{"value":{"url":"https:\/\/woostify.com\/demos\/watch\/wp-content\/uploads\/2019\/06\/heart.svg","id":1494},"library":"svg"},"link":{"url":"https:\/\/woostify.com\/demos\/watch\/wishlist\/","is_external":"","nofollow":""},"primary_color":"#000000","size":{"unit":"px","size":22,"sizes":[]},"_padding":{"unit":"px","top":"15","right":"15","bottom":"0","left":"15","isLinked":false},"_element_width":"auto","hide_mobile":"hidden-phone"},"elements":[],"widgetType":"icon"},{"id":"6cd3e41","elType":"widget","settings":{"type":"icon","padding":{"unit":"px","top":"10","right":"10","bottom":"10","left":"10","isLinked":true},"_element_width":"auto","_element_vertical_align":"center","menu_id":"43","hide_mobile":"hidden-phone"},"elements":[],"widgetType":"woostify-account-icon"},{"id":"db6f189","elType":"widget","settings":{"padding":{"unit":"px","top":"10","right":"10","bottom":"10","left":"10","isLinked":true},"type":"icon","icon":"eicon-bag-light","position_x_right":{"unit":"px","size":0,"sizes":[]},"position_y_top":{"unit":"px","size":3,"sizes":[]},"_element_width":"auto","_element_vertical_align":"center","hide_mobile":"hidden-phone"},"elements":[],"widgetType":"woostify-cart-icon"},{"id":"ce8c530","elType":"widget","settings":{"alignment":"center","parent_typo_typography":"custom","parent_typo_font_size":{"unit":"px","size":20,"sizes":[]},"prent_menu_text_color":"#000000","parent_typo_line_height":{"unit":"px","size":25,"sizes":[]},"sub_typo_typography":"custom","sub_typo_font_size":{"unit":"px","size":18,"sizes":[]},"_padding_tablet":{"unit":"px","top":"10","right":"10","bottom":"10","left":"10","isLinked":true},"_element_width":"auto","_element_vertical_align":"center","hide_desktop":"hidden-desktop","parent_typo_font_size_tablet":{"unit":"em","size":1.1,"sizes":[]},"sub_typo_font_size_tablet":{"unit":"px","size":14,"sizes":[]}},"elements":[],"widgetType":"woostify-nav-menu"}],"isInner":false}],"isInner":false},{"id":"29932e5","elType":"section","settings":{"gap":"no","background_background":"classic","hide_tablet":"hidden-tablet","hide_mobile":"hidden-phone","margin":{"unit":"px","top":"-8","right":0,"bottom":"0","left":0,"isLinked":false}},"elements":[{"id":"fccbfe3","elType":"column","settings":{"_column_size":100},"elements":[{"id":"b82946d","elType":"widget","settings":{"menu_id":"main-menu","alignment":"center","parent_typo_typography":"custom","parent_typo_font_size":{"unit":"px","size":20,"sizes":[]},"prent_menu_text_color":"#000000","parent_typo_line_height":{"unit":"px","size":25,"sizes":[]},"sub_typo_typography":"custom","sub_typo_font_size":{"unit":"px","size":18,"sizes":[]}},"elements":[],"widgetType":"woostify-nav-menu"}],"isInner":false}],"isInner":false}]]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_elementor_elements_usage]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:9:{s:7:"heading";i:2;s:6:"column";i:5;s:7:"section";i:3;s:20:"woostify-search-icon";i:1;s:19:"woostify-logo-image";i:1;s:4:"icon";i:1;s:21:"woostify-account-icon";i:1;s:18:"woostify-cart-icon";i:1;s:17:"woostify-nav-menu";i:2;}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -5928,6 +5857,37 @@
 		</wp:postmeta>
 							</item>
 					<item>
+		<title>heart</title>
+		<link>https://woostify.com/demos/watch/header-footer-builder/header/heart/</link>
+		<pubDate>Fri, 26 Jul 2019 07:08:50 +0000</pubDate>
+		<dc:creator><![CDATA[woostify]]></dc:creator>
+		<guid isPermaLink="false">https://woostify.com/demos/watch/wp-content/uploads/2019/06/heart.svg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>1494</wp:post_id>
+		<wp:post_date><![CDATA[2019-07-26 07:08:50]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2019-07-26 07:08:50]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[heart]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>1096</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[https://woostify.com/demos/watch/wp-content/uploads/2019/06/heart.svg]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2019/06/heart.svg]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_elementor_inline_svg]]></wp:meta_key>
+		<wp:meta_value><![CDATA[<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 -28 512.001 512"><path d="m256 455.515625c-7.289062 0-14.316406-2.640625-19.792969-7.4375-20.683593-18.085937-40.625-35.082031-58.21875-50.074219l-.089843-.078125c-51.582032-43.957031-96.125-81.917969-127.117188-119.3125-34.644531-41.804687-50.78125-81.441406-50.78125-124.742187 0-42.070313 14.425781-80.882813 40.617188-109.292969 26.503906-28.746094 62.871093-44.578125 102.414062-44.578125 29.554688 0 56.621094 9.34375 80.445312 27.769531 12.023438 9.300781 22.921876 20.683594 32.523438 33.960938 9.605469-13.277344 20.5-24.660157 32.527344-33.960938 23.824218-18.425781 50.890625-27.769531 80.445312-27.769531 39.539063 0 75.910156 15.832031 102.414063 44.578125 26.191406 28.410156 40.613281 67.222656 40.613281 109.292969 0 43.300781-16.132812 82.9375-50.777344 124.738281-30.992187 37.398437-75.53125 75.355469-127.105468 119.308594-17.625 15.015625-37.597657 32.039062-58.328126 50.167969-5.472656 4.789062-12.503906 7.429687-19.789062 7.429687zm-112.96875-425.523437c-31.066406 0-59.605469 12.398437-80.367188 34.914062-21.070312 22.855469-32.675781 54.449219-32.675781 88.964844 0 36.417968 13.535157 68.988281 43.882813 105.605468 29.332031 35.394532 72.960937 72.574219 123.476562 115.625l.09375.078126c17.660156 15.050781 37.679688 32.113281 58.515625 50.332031 20.960938-18.253907 41.011719-35.34375 58.707031-50.417969 50.511719-43.050781 94.136719-80.222656 123.46875-115.617188 30.34375-36.617187 43.878907-69.1875 43.878907-105.605468 0-34.515625-11.605469-66.109375-32.675781-88.964844-20.757813-22.515625-49.300782-34.914062-80.363282-34.914062-22.757812 0-43.652344 7.234374-62.101562 21.5-16.441406 12.71875-27.894532 28.796874-34.609375 40.046874-3.453125 5.785157-9.53125 9.238282-16.261719 9.238282s-12.808594-3.453125-16.261719-9.238282c-6.710937-11.25-18.164062-27.328124-34.609375-40.046874-18.449218-14.265626-39.34375-21.5-62.097656-21.5zm0 0"></path></svg>]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
 		<title>Sample Page</title>
 		<link>https://woostify.com/demos/watch/sample-page/</link>
 		<pubDate>Tue, 09 Apr 2019 03:25:03 +0000</pubDate>
@@ -6020,39 +5980,8 @@
 										<img width="601" height="707" src="https://woostify.com/demos/watch/wp-content/uploads/2019/06/home-1.jpg" alt="" srcset="https://woostify.com/demos/watch/wp-content/uploads/2019/06/home-1.jpg 601w, https://woostify.com/demos/watch/wp-content/uploads/2019/06/home-1-255x300.jpg 255w, https://woostify.com/demos/watch/wp-content/uploads/2019/06/home-1-600x706.jpg 600w" sizes="(max-width: 601px) 100vw, 601px" />											
 			<h2>Trending Now</h2>		
 		<p>Donec tempus neque sit amet sem porttitor, ut condimentum nunc egestas. Integer accumsan leo placerat.</p>		
-			<ul data-tiny-slider='{"items":2,"autoplay":true,"autoplayTimeout":5000,"autoplayHoverPause":true,"controls":true,"nav":true,"speed":300,"loop":true,"gutter":15,"mouseDrag":true,"responsive":{"768":{"items":3,"gutter":15,"controls":true,"nav":true},"992":{"items":4,"gutter":15,"controls":true,"nav":true}}}'>
+			<ul data-tiny-slider='{"items":2,"autoplay":true,"autoplayTimeout":5000,"autoplayHoverPause":true,"controls":true,"nav":true,"speed":300,"loop":true,"gutter":15,"mouseDrag":true,"slideBy":1,"responsive":{"768":{"items":3,"gutter":15,"controls":true,"nav":true},"992":{"items":4,"gutter":15,"controls":true,"nav":true}}}'>
 				<li>
-					-13%				
-<a href="/demos/watch/wp-admin/admin-ajax.php?add_to_wishlist=323" rel="nofollow" data-product-id="323" data-product-type="simple" >
-        Add to Wishlist</a>
-<img src="https://woostify.com/demos/watch/wp-content/plugins/yith-woocommerce-wishlist/assets/images/wpspin_light.gif" alt="loading" width="16" height="16" style="visibility:hidden" />
-	        Product added!
-	        <a href="https://woostify.com/demos/watch/product/burberry-t-shirt/" rel="nofollow">
-	            Browse Wishlist	        </a>
-	        The product is already in the wishlist!
-	        <a href="https://woostify.com/demos/watch/product/burberry-t-shirt/" rel="nofollow">
-	            Browse Wishlist	        </a>
-			<a href="https://woostify.com/demos/watch/product/burberry-t-shirt/"><img width="300" height="500" src="https://woostify.com/demos/watch/wp-content/uploads/2019/01/p1-1-1-300x500.jpg" alt="Product image" data-origin_src="https://woostify.com/demos/watch/wp-content/uploads/2019/01/p1-1-1-300x500.jpg" />					
-				</a>			<h2>
-				<a href="https://woostify.com/demos/watch/product/burberry-t-shirt/">Cartier Watch</a>			</h2>
-							<del>&pound;40.00</del> <ins>&pound;35.00</ins>
-				<a href="/demos/watch/wp-admin/admin-ajax.php?add-to-cart=323" data-quantity="1" data-product_id="323" data-product_sku="Fsw9450" aria-label="Add &ldquo;Cartier Watch&rdquo; to your cart" rel="nofollow">Add to cart</a></li>
-<li>
-<a href="/demos/watch/wp-admin/admin-ajax.php?add_to_wishlist=1014" rel="nofollow" data-product-id="1014" data-product-type="simple" >
-        Add to Wishlist</a>
-<img src="https://woostify.com/demos/watch/wp-content/plugins/yith-woocommerce-wishlist/assets/images/wpspin_light.gif" alt="loading" width="16" height="16" style="visibility:hidden" />
-	        Product added!
-	        <a href="https://woostify.com/demos/watch/product/movado-sapphire-crystal/" rel="nofollow">
-	            Browse Wishlist	        </a>
-	        The product is already in the wishlist!
-	        <a href="https://woostify.com/demos/watch/product/movado-sapphire-crystal/" rel="nofollow">
-	            Browse Wishlist	        </a>
-			<a href="https://woostify.com/demos/watch/product/movado-sapphire-crystal/"><img width="300" height="500" src="https://woostify.com/demos/watch/wp-content/uploads/2019/01/p2-1-1-300x500.jpg" alt="Product image" data-origin_src="https://woostify.com/demos/watch/wp-content/uploads/2019/01/p2-1-1-300x500.jpg" />					
-				</a>			<h2>
-				<a href="https://woostify.com/demos/watch/product/movado-sapphire-crystal/">Movado Sapphire Crystal</a>			</h2>
-			Rated <strong>5.00</strong> out of 5				&pound;40.00
-				<a href="/demos/watch/wp-admin/admin-ajax.php?add-to-cart=1014" data-quantity="1" data-product_id="1014" data-product_sku="Fsw40089" aria-label="Add &ldquo;Movado Sapphire Crystal&rdquo; to your cart" rel="nofollow">Add to cart</a></li>
-<li>
 <a href="/demos/watch/wp-admin/admin-ajax.php?add_to_wishlist=1033" rel="nofollow" data-product-id="1033" data-product-type="simple" >
         Add to Wishlist</a>
 <img src="https://woostify.com/demos/watch/wp-content/plugins/yith-woocommerce-wishlist/assets/images/wpspin_light.gif" alt="loading" width="16" height="16" style="visibility:hidden" />
@@ -6062,11 +5991,12 @@
 	        The product is already in the wishlist!
 	        <a href="https://woostify.com/demos/watch/product/movado-sapphire-black/" rel="nofollow">
 	            Browse Wishlist	        </a>
-			<a href="https://woostify.com/demos/watch/product/movado-sapphire-black/"><img width="300" height="500" src="https://woostify.com/demos/watch/wp-content/uploads/2019/01/p3-1-1-300x500.jpg" alt="Product image" data-origin_src="https://woostify.com/demos/watch/wp-content/uploads/2019/01/p3-1-1-300x500.jpg" />					
-				</a>			<h2>
+			<a href="https://woostify.com/demos/watch/product/movado-sapphire-black/"><img width="300" height="500" src="https://woostify.com/demos/watch/wp-content/uploads/2019/01/p3-1-1-300x500.jpg" alt="Product image" data-origin_src="https://woostify.com/demos/watch/wp-content/uploads/2019/01/p3-1-1-300x500.jpg" /></a>
+			Quick View
+						<h2>
 				<a href="https://woostify.com/demos/watch/product/movado-sapphire-black/">Movado Sapphire Black</a>			</h2>
 							&pound;40.00
-				<a href="/demos/watch/wp-admin/admin-ajax.php?add-to-cart=1033" data-quantity="1" data-product_id="1033" data-product_sku="Fsw2745" aria-label="Add &ldquo;Movado Sapphire Black&rdquo; to your cart" rel="nofollow">Add to cart</a></li>
+				</li>
 <li>
 <a href="/demos/watch/wp-admin/admin-ajax.php?add_to_wishlist=1034" rel="nofollow" data-product-id="1034" data-product-type="simple" >
         Add to Wishlist</a>
@@ -6077,28 +6007,14 @@
 	        The product is already in the wishlist!
 	        <a href="https://woostify.com/demos/watch/product/movado-se-pilot/" rel="nofollow">
 	            Browse Wishlist	        </a>
-			<a href="https://woostify.com/demos/watch/product/movado-se-pilot/"><img width="300" height="500" src="https://woostify.com/demos/watch/wp-content/uploads/2019/01/p4-1-1-300x500.jpg" alt="Product image" data-origin_src="https://woostify.com/demos/watch/wp-content/uploads/2019/01/p4-1-1-300x500.jpg" />					
-				</a>			<h2>
+			<a href="https://woostify.com/demos/watch/product/movado-se-pilot/"><img width="300" height="500" src="https://woostify.com/demos/watch/wp-content/uploads/2019/01/p4-1-1-300x500.jpg" alt="Product image" data-origin_src="https://woostify.com/demos/watch/wp-content/uploads/2019/01/p4-1-1-300x500.jpg" /></a>
+			Quick View
+						<h2>
 				<a href="https://woostify.com/demos/watch/product/movado-se-pilot/">Movado Se Pilot</a>			</h2>
-			Rated <strong>5.00</strong> out of 5				&pound;40.00
-				<a href="/demos/watch/wp-admin/admin-ajax.php?add-to-cart=1034" data-quantity="1" data-product_id="1034" data-product_sku="Fsw850" aria-label="Add &ldquo;Movado Se Pilot&rdquo; to your cart" rel="nofollow">Add to cart</a></li>
+							&pound;40.00
+				</li>
 <li>
-<a href="/demos/watch/wp-admin/admin-ajax.php?add_to_wishlist=1035" rel="nofollow" data-product-id="1035" data-product-type="variable" >
-        Add to Wishlist</a>
-<img src="https://woostify.com/demos/watch/wp-content/plugins/yith-woocommerce-wishlist/assets/images/wpspin_light.gif" alt="loading" width="16" height="16" style="visibility:hidden" />
-	        Product added!
-	        <a href="https://woostify.com/demos/watch/product/movado-stainless-steel/" rel="nofollow">
-	            Browse Wishlist	        </a>
-	        The product is already in the wishlist!
-	        <a href="https://woostify.com/demos/watch/product/movado-stainless-steel/" rel="nofollow">
-	            Browse Wishlist	        </a>
-			<a href="https://woostify.com/demos/watch/product/movado-stainless-steel/"><img width="300" height="500" src="https://woostify.com/demos/watch/wp-content/uploads/2019/01/p5-1-1-300x500.jpg" alt="Product image" data-origin_src="https://woostify.com/demos/watch/wp-content/uploads/2019/01/p5-1-1-300x500.jpg" />					
-				</a>			<h2>
-				<a href="https://woostify.com/demos/watch/product/movado-stainless-steel/">Movado Stainless Steel</a>			</h2>
-							&pound;110.00 &ndash; &pound;125.00
-				<a href="https://woostify.com/demos/watch/product/movado-stainless-steel/" data-quantity="1" data-product_id="1035" data-product_sku="Fsw480" aria-label="Select options for &ldquo;Movado Stainless Steel&rdquo;" rel="nofollow">Select options</a></li>
-<li>
-<a href="/demos/watch/wp-admin/admin-ajax.php?add_to_wishlist=1058" rel="nofollow" data-product-id="1058" data-product-type="variable" >
+<a href="/demos/watch/wp-admin/admin-ajax.php?add_to_wishlist=1058" rel="nofollow" data-product-id="1058" data-product-type="simple" >
         Add to Wishlist</a>
 <img src="https://woostify.com/demos/watch/wp-content/plugins/yith-woocommerce-wishlist/assets/images/wpspin_light.gif" alt="loading" width="16" height="16" style="visibility:hidden" />
 	        Product added!
@@ -6107,11 +6023,12 @@
 	        The product is already in the wishlist!
 	        <a href="https://woostify.com/demos/watch/product/circa-innovation/" rel="nofollow">
 	            Browse Wishlist	        </a>
-			<a href="https://woostify.com/demos/watch/product/circa-innovation/"><img width="300" height="500" src="https://woostify.com/demos/watch/wp-content/uploads/2019/01/p6-1-1-300x500.jpg" alt="Product image" data-origin_src="https://woostify.com/demos/watch/wp-content/uploads/2019/01/p6-1-1-300x500.jpg" />					
-				</a>			<h2>
+			<a href="https://woostify.com/demos/watch/product/circa-innovation/"><img width="300" height="500" src="https://woostify.com/demos/watch/wp-content/uploads/2019/01/p6-1-1-300x500.jpg" alt="Product image" data-origin_src="https://woostify.com/demos/watch/wp-content/uploads/2019/01/p6-1-1-300x500.jpg" /></a>
+			Quick View
+						<h2>
 				<a href="https://woostify.com/demos/watch/product/circa-innovation/">Circa Innovation</a>			</h2>
-							&pound;120.00 &ndash; &pound;165.00
-				<a href="https://woostify.com/demos/watch/product/circa-innovation/" data-quantity="1" data-product_id="1058" data-product_sku="Fsw4505" aria-label="Select options for &ldquo;Circa Innovation&rdquo;" rel="nofollow">Select options</a></li>
+							&pound;180.00
+				</li>
 <li>
 <a href="/demos/watch/wp-admin/admin-ajax.php?add_to_wishlist=1059" rel="nofollow" data-product-id="1059" data-product-type="simple" >
         Add to Wishlist</a>
@@ -6122,49 +6039,20 @@
 	        The product is already in the wishlist!
 	        <a href="https://woostify.com/demos/watch/product/movado-galaxy/" rel="nofollow">
 	            Browse Wishlist	        </a>
-			<a href="https://woostify.com/demos/watch/product/movado-galaxy/"><img width="300" height="500" src="https://woostify.com/demos/watch/wp-content/uploads/2019/01/p7-1-2-300x500.jpg" alt="Product image" data-origin_src="https://woostify.com/demos/watch/wp-content/uploads/2019/01/p7-1-2-300x500.jpg" />					
-				</a>			<h2>
+			<a href="https://woostify.com/demos/watch/product/movado-galaxy/"><img width="300" height="500" src="https://woostify.com/demos/watch/wp-content/uploads/2019/01/p7-1-1-300x500.jpg" alt="Product image" data-origin_src="https://woostify.com/demos/watch/wp-content/uploads/2019/01/p7-1-1-300x500.jpg" /></a>
+			Quick View
+						<h2>
 				<a href="https://woostify.com/demos/watch/product/movado-galaxy/">Movado Galaxy</a>			</h2>
 							&pound;80.00
-				<a href="/demos/watch/wp-admin/admin-ajax.php?add-to-cart=1059" data-quantity="1" data-product_id="1059" data-product_sku="Fsw450" aria-label="Add &ldquo;Movado Galaxy&rdquo; to your cart" rel="nofollow">Add to cart</a></li>
-<li>
-<a href="/demos/watch/wp-admin/admin-ajax.php?add_to_wishlist=1385" rel="nofollow" data-product-id="1385" data-product-type="variable" >
-        Add to Wishlist</a>
-<img src="https://woostify.com/demos/watch/wp-content/plugins/yith-woocommerce-wishlist/assets/images/wpspin_light.gif" alt="loading" width="16" height="16" style="visibility:hidden" />
-	        Product added!
-	        <a href="https://woostify.com/demos/watch/product/trendy-watch/" rel="nofollow">
-	            Browse Wishlist	        </a>
-	        The product is already in the wishlist!
-	        <a href="https://woostify.com/demos/watch/product/trendy-watch/" rel="nofollow">
-	            Browse Wishlist	        </a>
-			<a href="https://woostify.com/demos/watch/product/trendy-watch/"><img width="300" height="500" src="https://woostify.com/demos/watch/wp-content/uploads/2019/07/p8-1-1-300x500.jpg" alt="Product image" data-origin_src="https://woostify.com/demos/watch/wp-content/uploads/2019/07/p8-1-1-300x500.jpg" />					
-				</a>			<h2>
-				<a href="https://woostify.com/demos/watch/product/trendy-watch/">Trendy watch</a>			</h2>
-							&pound;160.00 &ndash; &pound;195.00
-				<a href="https://woostify.com/demos/watch/product/trendy-watch/" data-quantity="1" data-product_id="1385" data-product_sku="FSG8525" aria-label="Select options for &ldquo;Trendy watch&rdquo;" rel="nofollow">Select options</a></li>
-<li>
-<a href="/demos/watch/wp-admin/admin-ajax.php?add_to_wishlist=1401" rel="nofollow" data-product-id="1401" data-product-type="variable" >
-        Add to Wishlist</a>
-<img src="https://woostify.com/demos/watch/wp-content/plugins/yith-woocommerce-wishlist/assets/images/wpspin_light.gif" alt="loading" width="16" height="16" style="visibility:hidden" />
-	        Product added!
-	        <a href="https://woostify.com/demos/watch/product/classic-clock/" rel="nofollow">
-	            Browse Wishlist	        </a>
-	        The product is already in the wishlist!
-	        <a href="https://woostify.com/demos/watch/product/classic-clock/" rel="nofollow">
-	            Browse Wishlist	        </a>
-			<a href="https://woostify.com/demos/watch/product/classic-clock/"><img width="300" height="500" src="https://woostify.com/demos/watch/wp-content/uploads/2019/07/p9-1-1-300x500.jpg" alt="Product image" data-origin_src="https://woostify.com/demos/watch/wp-content/uploads/2019/07/p9-1-1-300x500.jpg" />					
-				</a>			<h2>
-				<a href="https://woostify.com/demos/watch/product/classic-clock/">Classic clock</a>			</h2>
-							&pound;280.00 &ndash; &pound;300.00
-				<a href="https://woostify.com/demos/watch/product/classic-clock/" data-quantity="1" data-product_id="1401" data-product_sku="FSH0514" aria-label="Select options for &ldquo;Classic clock&rdquo;" rel="nofollow">Select options</a></li>
+				</li>
 			</ul>
 		https://www.youtube.com/watch?v=udlW0ZfVINo		
 			<h2>women's collection</h2>		
 			<a href="#" role="button">
 						Shop Now
 					</a>
-			<ul>
-<li>
+						<ul>
+			<li>
 					-13%				
 <a href="/demos/watch/wp-admin/admin-ajax.php?add_to_wishlist=323" rel="nofollow" data-product-id="323" data-product-type="simple" >
         Add to Wishlist</a>
@@ -6175,13 +6063,14 @@
 	        The product is already in the wishlist!
 	        <a href="https://woostify.com/demos/watch/product/burberry-t-shirt/" rel="nofollow">
 	            Browse Wishlist	        </a>
-			<a href="https://woostify.com/demos/watch/product/burberry-t-shirt/"><img width="300" height="500" src="https://woostify.com/demos/watch/wp-content/uploads/2019/01/p1-1-1-300x500.jpg" alt="Product image" data-origin_src="https://woostify.com/demos/watch/wp-content/uploads/2019/01/p1-1-1-300x500.jpg" />					
-				</a>			<h2>
+			<a href="https://woostify.com/demos/watch/product/burberry-t-shirt/"><img width="300" height="500" src="https://woostify.com/demos/watch/wp-content/uploads/2019/01/p1-1-1-300x500.jpg" alt="Product image" data-origin_src="https://woostify.com/demos/watch/wp-content/uploads/2019/01/p1-1-1-300x500.jpg" /></a>
+			Quick View
+						<h2>
 				<a href="https://woostify.com/demos/watch/product/burberry-t-shirt/">Cartier Watch</a>			</h2>
 							<del>&pound;40.00</del> <ins>&pound;35.00</ins>
-				<a href="/demos/watch/wp-admin/admin-ajax.php?add-to-cart=323" data-quantity="1" data-product_id="323" data-product_sku="Fsw9450" aria-label="Add &ldquo;Cartier Watch&rdquo; to your cart" rel="nofollow">Add to cart</a></li>
+				</li>
 <li>
-<a href="/demos/watch/wp-admin/admin-ajax.php?add_to_wishlist=1058" rel="nofollow" data-product-id="1058" data-product-type="variable" >
+<a href="/demos/watch/wp-admin/admin-ajax.php?add_to_wishlist=1058" rel="nofollow" data-product-id="1058" data-product-type="simple" >
         Add to Wishlist</a>
 <img src="https://woostify.com/demos/watch/wp-content/plugins/yith-woocommerce-wishlist/assets/images/wpspin_light.gif" alt="loading" width="16" height="16" style="visibility:hidden" />
 	        Product added!
@@ -6190,11 +6079,12 @@
 	        The product is already in the wishlist!
 	        <a href="https://woostify.com/demos/watch/product/circa-innovation/" rel="nofollow">
 	            Browse Wishlist	        </a>
-			<a href="https://woostify.com/demos/watch/product/circa-innovation/"><img width="300" height="500" src="https://woostify.com/demos/watch/wp-content/uploads/2019/01/p6-1-1-300x500.jpg" alt="Product image" data-origin_src="https://woostify.com/demos/watch/wp-content/uploads/2019/01/p6-1-1-300x500.jpg" />					
-				</a>			<h2>
+			<a href="https://woostify.com/demos/watch/product/circa-innovation/"><img width="300" height="500" src="https://woostify.com/demos/watch/wp-content/uploads/2019/01/p6-1-1-300x500.jpg" alt="Product image" data-origin_src="https://woostify.com/demos/watch/wp-content/uploads/2019/01/p6-1-1-300x500.jpg" /></a>
+			Quick View
+						<h2>
 				<a href="https://woostify.com/demos/watch/product/circa-innovation/">Circa Innovation</a>			</h2>
-							&pound;120.00 &ndash; &pound;165.00
-				<a href="https://woostify.com/demos/watch/product/circa-innovation/" data-quantity="1" data-product_id="1058" data-product_sku="Fsw4505" aria-label="Select options for &ldquo;Circa Innovation&rdquo;" rel="nofollow">Select options</a></li>
+							&pound;180.00
+				</li>
 <li>
 <a href="/demos/watch/wp-admin/admin-ajax.php?add_to_wishlist=1401" rel="nofollow" data-product-id="1401" data-product-type="variable" >
         Add to Wishlist</a>
@@ -6205,11 +6095,12 @@
 	        The product is already in the wishlist!
 	        <a href="https://woostify.com/demos/watch/product/classic-clock/" rel="nofollow">
 	            Browse Wishlist	        </a>
-			<a href="https://woostify.com/demos/watch/product/classic-clock/"><img width="300" height="500" src="https://woostify.com/demos/watch/wp-content/uploads/2019/07/p9-1-1-300x500.jpg" alt="Product image" data-origin_src="https://woostify.com/demos/watch/wp-content/uploads/2019/07/p9-1-1-300x500.jpg" />					
-				</a>			<h2>
+			<a href="https://woostify.com/demos/watch/product/classic-clock/"><img width="300" height="500" src="https://woostify.com/demos/watch/wp-content/uploads/2019/07/p9-1-1-300x500.jpg" alt="Product image" data-origin_src="https://woostify.com/demos/watch/wp-content/uploads/2019/07/p9-1-1-300x500.jpg" /></a>
+			Quick View
+						<h2>
 				<a href="https://woostify.com/demos/watch/product/classic-clock/">Classic clock</a>			</h2>
-							&pound;280.00 &ndash; &pound;300.00
-				<a href="https://woostify.com/demos/watch/product/classic-clock/" data-quantity="1" data-product_id="1401" data-product_sku="FSH0514" aria-label="Select options for &ldquo;Classic clock&rdquo;" rel="nofollow">Select options</a></li>
+							&pound;180.00 &ndash; &pound;225.00
+				</li>
 <li>
 <a href="/demos/watch/wp-admin/admin-ajax.php?add_to_wishlist=1059" rel="nofollow" data-product-id="1059" data-product-type="simple" >
         Add to Wishlist</a>
@@ -6220,11 +6111,12 @@
 	        The product is already in the wishlist!
 	        <a href="https://woostify.com/demos/watch/product/movado-galaxy/" rel="nofollow">
 	            Browse Wishlist	        </a>
-			<a href="https://woostify.com/demos/watch/product/movado-galaxy/"><img width="300" height="500" src="https://woostify.com/demos/watch/wp-content/uploads/2019/01/p7-1-2-300x500.jpg" alt="Product image" data-origin_src="https://woostify.com/demos/watch/wp-content/uploads/2019/01/p7-1-2-300x500.jpg" />					
-				</a>			<h2>
+			<a href="https://woostify.com/demos/watch/product/movado-galaxy/"><img width="300" height="500" src="https://woostify.com/demos/watch/wp-content/uploads/2019/01/p7-1-1-300x500.jpg" alt="Product image" data-origin_src="https://woostify.com/demos/watch/wp-content/uploads/2019/01/p7-1-1-300x500.jpg" /></a>
+			Quick View
+						<h2>
 				<a href="https://woostify.com/demos/watch/product/movado-galaxy/">Movado Galaxy</a>			</h2>
 							&pound;80.00
-				<a href="/demos/watch/wp-admin/admin-ajax.php?add-to-cart=1059" data-quantity="1" data-product_id="1059" data-product_sku="Fsw450" aria-label="Add &ldquo;Movado Galaxy&rdquo; to your cart" rel="nofollow">Add to cart</a></li>
+				</li>
 <li>
 <a href="/demos/watch/wp-admin/admin-ajax.php?add_to_wishlist=1033" rel="nofollow" data-product-id="1033" data-product-type="simple" >
         Add to Wishlist</a>
@@ -6235,11 +6127,12 @@
 	        The product is already in the wishlist!
 	        <a href="https://woostify.com/demos/watch/product/movado-sapphire-black/" rel="nofollow">
 	            Browse Wishlist	        </a>
-			<a href="https://woostify.com/demos/watch/product/movado-sapphire-black/"><img width="300" height="500" src="https://woostify.com/demos/watch/wp-content/uploads/2019/01/p3-1-1-300x500.jpg" alt="Product image" data-origin_src="https://woostify.com/demos/watch/wp-content/uploads/2019/01/p3-1-1-300x500.jpg" />					
-				</a>			<h2>
+			<a href="https://woostify.com/demos/watch/product/movado-sapphire-black/"><img width="300" height="500" src="https://woostify.com/demos/watch/wp-content/uploads/2019/01/p3-1-1-300x500.jpg" alt="Product image" data-origin_src="https://woostify.com/demos/watch/wp-content/uploads/2019/01/p3-1-1-300x500.jpg" /></a>
+			Quick View
+						<h2>
 				<a href="https://woostify.com/demos/watch/product/movado-sapphire-black/">Movado Sapphire Black</a>			</h2>
 							&pound;40.00
-				<a href="/demos/watch/wp-admin/admin-ajax.php?add-to-cart=1033" data-quantity="1" data-product_id="1033" data-product_sku="Fsw2745" aria-label="Add &ldquo;Movado Sapphire Black&rdquo; to your cart" rel="nofollow">Add to cart</a></li>
+				</li>
 <li>
 <a href="/demos/watch/wp-admin/admin-ajax.php?add_to_wishlist=1014" rel="nofollow" data-product-id="1014" data-product-type="simple" >
         Add to Wishlist</a>
@@ -6250,11 +6143,12 @@
 	        The product is already in the wishlist!
 	        <a href="https://woostify.com/demos/watch/product/movado-sapphire-crystal/" rel="nofollow">
 	            Browse Wishlist	        </a>
-			<a href="https://woostify.com/demos/watch/product/movado-sapphire-crystal/"><img width="300" height="500" src="https://woostify.com/demos/watch/wp-content/uploads/2019/01/p2-1-1-300x500.jpg" alt="Product image" data-origin_src="https://woostify.com/demos/watch/wp-content/uploads/2019/01/p2-1-1-300x500.jpg" />					
-				</a>			<h2>
+			<a href="https://woostify.com/demos/watch/product/movado-sapphire-crystal/"><img width="300" height="500" src="https://woostify.com/demos/watch/wp-content/uploads/2019/01/p2-1-1-300x500.jpg" alt="Product image" data-origin_src="https://woostify.com/demos/watch/wp-content/uploads/2019/01/p2-1-1-300x500.jpg" /></a>
+			Quick View
+						<h2>
 				<a href="https://woostify.com/demos/watch/product/movado-sapphire-crystal/">Movado Sapphire Crystal</a>			</h2>
-			Rated <strong>5.00</strong> out of 5				&pound;40.00
-				<a href="/demos/watch/wp-admin/admin-ajax.php?add-to-cart=1014" data-quantity="1" data-product_id="1014" data-product_sku="Fsw40089" aria-label="Add &ldquo;Movado Sapphire Crystal&rdquo; to your cart" rel="nofollow">Add to cart</a></li>
+							&pound;40.00
+				</li>
 </ul>
 			<h2>Sale 30% Off
 </h2>		
@@ -6336,7 +6230,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_elementor_version]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2.5.16]]></wp:meta_value>
+		<wp:meta_value><![CDATA[2.6.6]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
@@ -6344,7 +6238,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_elementor_data]]></wp:meta_key>
-		<wp:meta_value><![CDATA[[{"id":"2215fb4","elType":"section","settings":{"stretch_section":"section-stretched","layout":"full_width","margin":{"unit":"px","top":"0","right":0,"bottom":"0","left":0,"isLinked":false},"padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false},"custom_height":{"unit":"px","size":730,"sizes":[]},"background_background":"classic"},"elements":[{"id":"1d86a13","elType":"column","settings":{"_column_size":100,"margin":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false},"padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false}},"elements":[{"id":"c9f1f2c","elType":"widget","settings":{"slides":[{"title":"Inspired By Adventure","description":"High-Technology Ceramic","btn1_text":"Shop Now","btn1_link":{"url":"#"},"background_color":"","background_background":"classic","_id":"0dac58f","btn2_text":"","btn2_link":{"url":"","is_external":"","nofollow":""},"background_color_stop":{"unit":"%","size":0,"sizes":[]},"background_color_b":"#f2295b","background_color_b_stop":{"unit":"%","size":100,"sizes":[]},"background_gradient_type":"linear","background_gradient_angle":{"unit":"deg","size":180,"sizes":[]},"background_gradient_position":"center center","background_image":{"url":"https:\/\/woostify.com\/demos\/watch\/wp-content\/uploads\/2019\/06\/slider-1.jpg","id":855},"background_image_tablet":{"url":"","id":""},"background_image_mobile":{"url":"","id":""},"background_position":"","background_position_tablet":"","background_position_mobile":"","background_xpos":{"unit":"px","size":0,"sizes":[]},"background_xpos_tablet":{"unit":"px","size":0,"sizes":[]},"background_xpos_mobile":{"unit":"px","size":0,"sizes":[]},"background_ypos":{"unit":"px","size":0,"sizes":[]},"background_ypos_tablet":{"unit":"px","size":0,"sizes":[]},"background_ypos_mobile":{"unit":"px","size":0,"sizes":[]},"background_attachment":"","background_repeat":"","background_repeat_tablet":"","background_repeat_mobile":"","background_size":"cover","background_size_tablet":"","background_size_mobile":"","background_bg_width":{"unit":"%","size":100,"sizes":[]},"background_bg_width_tablet":{"unit":"px","size":"","sizes":[]},"background_bg_width_mobile":{"unit":"px","size":"","sizes":[]},"background_video_link":"","background_video_start":"","background_video_end":"","background_video_fallback":{"url":"","id":""},"custom":"yes","custom_content_animation":"default","custom_content_width":{"unit":"px","size":1170,"sizes":[]},"custom_content_width_tablet":{"unit":"px","size":"","sizes":[]},"custom_content_width_mobile":{"unit":"px","size":"","sizes":[]},"custom_horizontal_pos":"","custom_horizontal_pos_tablet":"center","custom_horizontal_pos_mobile":"","custom_vertical_pos":"","custom_vertical_pos_tablet":"center","custom_vertical_pos_mobile":"","custom_text_align":"","custom_text_align_tablet":"center","custom_text_align_mobile":""},{"title":"Inspired By Adventure","description":"High-Technology Ceramic","btn1_text":"Shop Now","btn1_link":{"url":"#"},"background_color":"","background_background":"classic","_id":"f1d8ed5","btn2_text":"","btn2_link":{"url":"","is_external":"","nofollow":""},"background_color_stop":{"unit":"%","size":0,"sizes":[]},"background_color_b":"#f2295b","background_color_b_stop":{"unit":"%","size":100,"sizes":[]},"background_gradient_type":"linear","background_gradient_angle":{"unit":"deg","size":180,"sizes":[]},"background_gradient_position":"center center","background_image":{"url":"https:\/\/woostify.com\/demos\/watch\/wp-content\/uploads\/2019\/06\/slider-4.jpg","id":866},"background_image_tablet":{"url":"","id":""},"background_image_mobile":{"url":"","id":""},"background_position":"","background_position_tablet":"","background_position_mobile":"","background_xpos":{"unit":"px","size":0,"sizes":[]},"background_xpos_tablet":{"unit":"px","size":0,"sizes":[]},"background_xpos_mobile":{"unit":"px","size":0,"sizes":[]},"background_ypos":{"unit":"px","size":0,"sizes":[]},"background_ypos_tablet":{"unit":"px","size":0,"sizes":[]},"background_ypos_mobile":{"unit":"px","size":0,"sizes":[]},"background_attachment":"","background_repeat":"","background_repeat_tablet":"","background_repeat_mobile":"","background_size":"cover","background_size_tablet":"","background_size_mobile":"","background_bg_width":{"unit":"%","size":100,"sizes":[]},"background_bg_width_tablet":{"unit":"px","size":"","sizes":[]},"background_bg_width_mobile":{"unit":"px","size":"","sizes":[]},"background_video_link":"","background_video_start":"","background_video_end":"","background_video_fallback":{"url":"","id":""},"custom":"yes","custom_content_animation":"swing","custom_content_width":{"unit":"px","size":1170,"sizes":[]},"custom_content_width_tablet":{"unit":"px","size":"","sizes":[]},"custom_content_width_mobile":{"unit":"px","size":"","sizes":[]},"custom_horizontal_pos":"flex-start","custom_horizontal_pos_tablet":"center","custom_horizontal_pos_mobile":"","custom_vertical_pos":"","custom_vertical_pos_tablet":"","custom_vertical_pos_mobile":"","custom_text_align":"","custom_text_align_tablet":"","custom_text_align_mobile":""}],"slider_height":{"unit":"px","size":730,"sizes":[]},"horizontal_pos":"flex-end","vertical_pos":"center","text_align":"left","title_typography_typography":"custom","title_typography_font_size":{"unit":"px","size":56,"sizes":[]},"title_typography_line_height":{"unit":"em","size":0,"sizes":[]},"button_typography_typography":"custom","button_typography_font_size":{"unit":"px","size":14,"sizes":[]},"button_typography_font_weight":"700","button_border_width":{"unit":"px","size":1,"sizes":[]},"button_border_radius":{"unit":"px","size":0,"sizes":[]},"button_color_hover":"#262626","button_bg_color_hover":"#ffffff","button_border_color_hover":"#ffffff","title_typography_font_family":"Josefin Sans","title_typography_font_weight":"500","description_typography_typography":"custom","description_typography_line_height":{"unit":"em","size":1.5,"sizes":[]},"button_typography_font_family":"Josefin Sans","button_typography_text_transform":"uppercase","button_color":"#303030","button_bg_color":"#ffffff","button_border_color":"#ffffff","_margin":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false},"content_animation":"shake","button_padding":{"unit":"px","top":"10","right":"10","bottom":"6","left":"10","isLinked":false},"slider_height_tablet":{"unit":"px","size":580,"sizes":[]},"slider_height_mobile":{"unit":"px","size":360,"sizes":[]},"container_width_tablet":{"unit":"%","size":100,"sizes":[]},"horizontal_pos_tablet":"center","vertical_pos_tablet":"center","text_align_tablet":"center","title_typography_font_size_mobile":{"unit":"em","size":2,"sizes":[]}},"elements":[],"widgetType":"woostify-slider"},{"id":"4c00f00","elType":"widget","settings":{"space":{"unit":"px","size":100,"sizes":[]},"space_mobile":{"unit":"px","size":40,"sizes":[]}},"elements":[],"widgetType":"spacer"}],"isInner":false}],"isInner":false},{"id":"b1e6283","elType":"section","settings":{"structure":"20","margin":{"unit":"px","top":"0","right":0,"bottom":"0","left":0,"isLinked":false}},"elements":[{"id":"72672ea","elType":"column","settings":{"_column_size":50,"_inline_size":null,"padding":{"unit":"px","top":"0","right":"0","bottom":"1","left":"0","isLinked":false}},"elements":[{"id":"ff1d628","elType":"widget","settings":{"space":{"unit":"px","size":120,"sizes":[]},"space_mobile":{"unit":"px","size":0,"sizes":[]}},"elements":[],"widgetType":"spacer"},{"id":"571a65d","elType":"widget","settings":{"title":"MEN'S COLLECTION","title_color":"#ffffff","typography_typography":"custom","typography_font_family":"Josefin Sans","header_size":"h3","typography_font_size":{"unit":"px","size":20,"sizes":[]},"_margin":{"unit":"px","top":"0","right":"0","bottom":"50","left":"0","isLinked":false},"_padding":{"unit":"px","top":"12","right":"020","bottom":"8","left":"20","isLinked":false},"_background_background":"classic","_background_color":"#303030","_element_width":"auto"},"elements":[],"widgetType":"heading"},{"id":"de4890f","elType":"widget","settings":{"title":"The Art - Classic Fusion","title_color":"#303030","typography_typography":"custom","typography_font_family":"Josefin Sans","header_size":"h3","typography_font_size":{"unit":"px","size":25,"sizes":[]}},"elements":[],"widgetType":"heading"},{"id":"1b5b854","elType":"widget","settings":{"title":"Tourbillon Power","title_color":"#303030","typography_typography":"custom","typography_font_family":"Josefin Sans","typography_font_size":{"unit":"px","size":40,"sizes":[]},"typography_font_weight":"700","typography_text_transform":"uppercase"},"elements":[],"widgetType":"heading"},{"id":"9e1b2c0","elType":"widget","settings":{"editor":"<p>In tincidunt massa sed enim mattis, pharetra sollicitudin lectus pellentesque. Curabitur sed ultrices nulla. In a dictum sem, eget faucibus ex. Aliquam erat volutpat. Nam dapibus fringilla felis, sodales convallis dolor efficitur consequat.<\/p>","_padding":{"unit":"px","top":"0","right":"70","bottom":"0","left":"0","isLinked":false}},"elements":[],"widgetType":"text-editor"},{"id":"9ff6b0e","elType":"widget","settings":{"text":"View Collection","size":"md","typography_typography":"custom","typography_font_family":"Josefin Sans","typography_font_size":{"unit":"px","size":15,"sizes":[]},"typography_text_transform":"uppercase","button_text_color":"#303030","background_color":"#ffffff","border_border":"solid","border_width":{"unit":"px","top":"1","right":"1","bottom":"1","left":"1","isLinked":true},"border_color":"#303030","border_radius":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true}},"elements":[],"widgetType":"button"},{"id":"b06bb26","elType":"widget","settings":{"space_mobile":{"unit":"px","size":20,"sizes":[]}},"elements":[],"widgetType":"spacer"}],"isInner":false},{"id":"d467cba","elType":"column","settings":{"_column_size":50,"_inline_size":null},"elements":[{"id":"55ef087","elType":"widget","settings":{"image":{"url":"https:\/\/woostify.com\/demos\/watch\/wp-content\/uploads\/2019\/06\/home-1.jpg","id":870}},"elements":[],"widgetType":"image"}],"isInner":false}],"isInner":false},{"id":"cab69ae","elType":"section","settings":{"margin":{"unit":"px","top":"0","right":0,"bottom":"0","left":0,"isLinked":false},"padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false}},"elements":[{"id":"c96ab17","elType":"column","settings":{"_column_size":100,"_inline_size":null},"elements":[{"id":"f6d48c4","elType":"widget","settings":{"space":{"unit":"px","size":80,"sizes":[]},"space_mobile":{"unit":"px","size":60,"sizes":[]}},"elements":[],"widgetType":"spacer"},{"id":"60a3024","elType":"widget","settings":{"title":"Trending Now","align":"center","title_color":"#262626","typography_typography":"custom","typography_font_weight":"400","_margin":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false},"typography_font_size":{"unit":"px","size":30,"sizes":[]},"typography_text_transform":"uppercase"},"elements":[],"widgetType":"heading"},{"id":"7ce1455","elType":"widget","settings":{"editor":"<p>Donec tempus neque sit amet sem porttitor, ut condimentum nunc egestas. Integer accumsan leo placerat.<\/p>","align":"center","text_color":"#666666","typography_typography":"custom","typography_font_family":"Poppins","typography_font_size":{"unit":"px","size":15,"sizes":[]},"_margin":{"unit":"px","top":"0","right":"0300","bottom":"30","left":"300","isLinked":false},"_margin_tablet":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true}},"elements":[],"widgetType":"text-editor"},{"id":"56444dd","elType":"widget","settings":{"arrows_position":{"unit":"px","size":-62,"sizes":[]},"dots_position":{"unit":"px","size":-35,"sizes":[]},"dots_bg_color":"#bcbcbc","count":8,"columns_mobile":"2"},"elements":[],"widgetType":"woostify-product-slider"},{"id":"bd7a79c","elType":"widget","settings":{"space":{"unit":"px","size":120,"sizes":[]},"space_tablet":{"unit":"px","size":80,"sizes":[]}},"elements":[],"widgetType":"spacer"}],"isInner":false}],"isInner":false},{"id":"6c9ffbe","elType":"section","settings":{"stretch_section":"section-stretched","background_background":"classic","background_position":"top center","background_repeat":"no-repeat","background_overlay_background":"classic","background_overlay_color":"rgba(2,2,2,0.4)","padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true},"layout":"full_width","gap":"no","custom_height":{"unit":"px","size":540,"sizes":[]},"background_overlay_opacity":{"unit":"px","size":0,"sizes":[]},"margin":{"unit":"px","top":"0","right":0,"bottom":"0","left":0,"isLinked":false},"background_size":"cover"},"elements":[{"id":"7c4c43c","elType":"column","settings":{"_column_size":100},"elements":[{"id":"4a3f0d1","elType":"widget","settings":{"youtube_url":"https:\/\/www.youtube.com\/watch?v=udlW0ZfVINo","vimeo_url":"https:\/\/vimeo.com\/235215203","dailymotion_url":"https:\/\/www.dailymotion.com\/video\/x6tqhqb","show_image_overlay":"yes","image_overlay":{"url":"https:\/\/woostify.com\/demos\/watch\/wp-content\/uploads\/2019\/06\/home-video.jpg","id":883},"rel":"yes","image_overlay_custom_dimension":{"width":"","height":"100"},"lightbox":"yes","aspect_ratio":"11","lightbox_video_width":{"unit":"%","size":100,"sizes":[]},"lightbox_content_animation":"fadeIn","play_icon_size_mobile":{"unit":"px","size":50,"sizes":[]}},"elements":[],"widgetType":"video"}],"isInner":false}],"isInner":false},{"id":"a227def","elType":"section","settings":{"stretch_section":"section-stretched","background_background":"classic","background_position":"top center","background_repeat":"no-repeat","background_overlay_background":"classic","background_overlay_color":"rgba(2,2,2,0.4)","padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false},"layout":"full_width","gap":"no","custom_height":{"unit":"px","size":540,"sizes":[]},"background_overlay_opacity":{"unit":"px","size":0,"sizes":[]},"margin":{"unit":"px","top":"0","right":0,"bottom":"0","left":0,"isLinked":false}},"elements":[{"id":"cb34683","elType":"column","settings":{"_column_size":100},"elements":[{"id":"c55d232","elType":"widget","settings":{"space":{"unit":"px","size":120,"sizes":[]},"space_tablet":{"unit":"px","size":80,"sizes":[]}},"elements":[],"widgetType":"spacer"}],"isInner":false}],"isInner":false},{"id":"1d6bcd2","elType":"section","settings":{"structure":"20","stretch_section":"section-stretched","layout":"full_width","margin":{"unit":"px","top":"0","right":0,"bottom":"0","left":0,"isLinked":false},"padding":{"unit":"px","top":"0","right":"150","bottom":"0","left":"150","isLinked":false},"padding_tablet":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true}},"elements":[{"id":"f62f760","elType":"column","settings":{"_column_size":50,"_inline_size":42.677,"background_background":"classic","background_image":{"url":"https:\/\/woostify.com\/demos\/watch\/wp-content\/uploads\/2019\/06\/home-4.jpg","id":893},"content_position":"center","align":"center","background_position":"top center","background_repeat":"no-repeat","background_size":"cover","padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false},"background_overlay_background":"classic","background_overlay_color":"rgba(0,0,0,0.3)","_inline_size_tablet":100},"elements":[{"id":"d378fc9","elType":"widget","settings":{"space_tablet":{"unit":"px","size":80,"sizes":[]}},"elements":[],"widgetType":"spacer"},{"id":"c0452e5","elType":"widget","settings":{"title":"women's collection","align":"center","title_color":"#ffffff","typography_typography":"custom","typography_font_size":{"unit":"px","size":25,"sizes":[]},"typography_font_weight":"bold","typography_text_transform":"uppercase","_margin":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false}},"elements":[],"widgetType":"heading"},{"id":"52cd22c","elType":"widget","settings":{"text":"Shop Now","size":"md","typography_typography":"custom","typography_font_family":"Josefin Sans","typography_font_size":{"unit":"px","size":15,"sizes":[]},"typography_text_transform":"uppercase","button_text_color":"#303030","background_color":"#ffffff","border_border":"solid","border_width":{"unit":"px","top":"1","right":"1","bottom":"1","left":"1","isLinked":true},"border_color":"#ffffff","border_radius":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true},"align":"center","icon":"fa fa-long-arrow-right","icon_align":"right","icon_indent":{"unit":"px","size":10,"sizes":[]},"typography_line_height":{"unit":"px","size":19,"sizes":[]},"text_padding":{"unit":"px","top":"15","right":"25","bottom":"10","left":"25","isLinked":false}},"elements":[],"widgetType":"button"},{"id":"88b0aab","elType":"widget","settings":{"space_tablet":{"unit":"px","size":80,"sizes":[]}},"elements":[],"widgetType":"spacer"}],"isInner":false},{"id":"3104e2f","elType":"column","settings":{"_column_size":50,"_inline_size":57.323,"margin":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false},"padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"40","isLinked":false},"_inline_size_tablet":100,"padding_tablet":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false},"padding_mobile":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false}},"elements":[{"id":"6ed22e8","elType":"widget","settings":{"col":"3","order_by":"name","_margin_mobile":{"unit":"px","top":"50","right":"0","bottom":"0","left":"0","isLinked":false}},"elements":[],"widgetType":"woostify-products"}],"isInner":false}],"isInner":false},{"id":"a97fb70","elType":"section","settings":{"stretch_section":"section-stretched","background_background":"classic","background_position":"top center","background_repeat":"no-repeat","background_overlay_background":"classic","background_overlay_color":"rgba(2,2,2,0.4)","padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false},"layout":"full_width","gap":"no","custom_height":{"unit":"px","size":540,"sizes":[]},"background_overlay_opacity":{"unit":"px","size":0,"sizes":[]},"margin":{"unit":"px","top":"0","right":0,"bottom":"0","left":0,"isLinked":false}},"elements":[{"id":"6086ea4","elType":"column","settings":{"_column_size":100},"elements":[{"id":"eb23704","elType":"widget","settings":{"space":{"unit":"px","size":120,"sizes":[]},"space_tablet":{"unit":"px","size":80,"sizes":[]},"space_mobile":{"unit":"px","size":60,"sizes":[]}},"elements":[],"widgetType":"spacer"}],"isInner":false}],"isInner":false},{"id":"88a9de4","elType":"section","settings":{"stretch_section":"section-stretched","layout":"full_width","background_background":"classic","background_image":{"url":"https:\/\/woostify.com\/demos\/watch\/wp-content\/uploads\/2019\/06\/home-5.jpg","id":895},"margin":{"unit":"px","top":"0","right":0,"bottom":"0","left":0,"isLinked":false},"structure":"20","background_position":"center center","background_repeat":"no-repeat","background_size":"cover"},"elements":[{"id":"1df3090","elType":"column","settings":{"_column_size":50,"_inline_size":null},"elements":[{"id":"9fa3450","elType":"widget","settings":{"space":{"unit":"px","size":150,"sizes":[]},"space_tablet":{"unit":"px","size":80,"sizes":[]},"space_mobile":{"unit":"px","size":60,"sizes":[]}},"elements":[],"widgetType":"spacer"},{"id":"42eae49","elType":"widget","settings":{"title":"Sale <span style=\"font-size:40px\">30%<\/span> Off\n","align":"center","title_color":"#ffffff","typography_typography":"custom","typography_font_size":{"unit":"px","size":25,"sizes":[]}},"elements":[],"widgetType":"heading"},{"id":"f604c78","elType":"widget","settings":{"title":"Deal of the day","align":"center","title_color":"#ffffff","typography_typography":"custom","typography_font_size":{"unit":"px","size":40,"sizes":[]},"typography_text_transform":"uppercase"},"elements":[],"widgetType":"heading"},{"id":"036ed23","elType":"widget","settings":{"space":{"unit":"px","size":20,"sizes":[]}},"elements":[],"widgetType":"spacer"},{"id":"ebdbbf6","elType":"widget","settings":{"days_text":"days","hours_text":"hours","mins_text":"mins","seconds_text":"seconds","item_background":"#ffffff","digits_typography_typography":"custom","digits_typography_font_size":{"unit":"px","size":42,"sizes":[]},"digits_typography_font_weight":"bold","digits_color":"#000000","label_color":"#000000","label_typography_typography":"custom","label_typography_font_family":"Josefin Sans","label_typography_font_size":{"unit":"px","size":20,"sizes":[]},"label_typography_font_weight":"400","item_margin_mobile":{"unit":"px","top":"0","right":"20","bottom":"20","left":"20","isLinked":false},"digits_padding_mobile":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true},"label_padding_mobile":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true}},"elements":[],"widgetType":"woostify-countdown"},{"id":"01a9ee7","elType":"widget","settings":{"space":{"unit":"px","size":20,"sizes":[]},"space_mobile":{"unit":"px","size":0,"sizes":[]}},"elements":[],"widgetType":"spacer"},{"id":"4087a90","elType":"widget","settings":{"text":"Shop Now","size":"md","typography_typography":"custom","typography_font_family":"Josefin Sans","typography_font_size":{"unit":"px","size":15,"sizes":[]},"typography_text_transform":"uppercase","button_text_color":"#ffffff","background_color":"rgba(255,255,255,0)","border_border":"solid","border_width":{"unit":"px","top":"1","right":"1","bottom":"1","left":"1","isLinked":true},"border_color":"#ffffff","border_radius":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true},"align":"center","icon":"fa fa-long-arrow-right","icon_align":"right","icon_indent":{"unit":"px","size":10,"sizes":[]},"typography_line_height":{"unit":"px","size":19,"sizes":[]}},"elements":[],"widgetType":"button"},{"id":"04de35f","elType":"widget","settings":{"space":{"unit":"px","size":150,"sizes":[]},"space_tablet":{"unit":"px","size":80,"sizes":[]},"space_mobile":{"unit":"px","size":0,"sizes":[]}},"elements":[],"widgetType":"spacer"}],"isInner":false},{"id":"6c6302d","elType":"column","settings":{"_column_size":50,"_inline_size":null},"elements":[{"id":"bbf292f","elType":"widget","settings":{"space":{"unit":"px","size":150,"sizes":[]},"space_tablet":{"unit":"px","size":80,"sizes":[]},"space_mobile":{"unit":"px","size":0,"sizes":[]}},"elements":[],"widgetType":"spacer"},{"id":"41c982b","elType":"widget","settings":{"space":{"unit":"px","size":150,"sizes":[]},"space_tablet":{"unit":"px","size":80,"sizes":[]},"space_mobile":{"unit":"px","size":0,"sizes":[]}},"elements":[],"widgetType":"spacer"}],"isInner":false}],"isInner":false},{"id":"3d11322","elType":"section","settings":{"margin":{"unit":"px","top":"0","right":0,"bottom":"0","left":0,"isLinked":false}},"elements":[{"id":"1c1e618","elType":"column","settings":{"_column_size":100},"elements":[{"id":"3f8ae97","elType":"widget","settings":{"space":{"unit":"px","size":110,"sizes":[]},"space_tablet":{"unit":"px","size":80,"sizes":[]},"space_mobile":{"unit":"px","size":60,"sizes":[]}},"elements":[],"widgetType":"spacer"},{"id":"c938559","elType":"widget","settings":{"title":"Latest news","align":"center","title_color":"#262626","typography_typography":"custom","typography_font_weight":"400","_margin":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false},"typography_font_size":{"unit":"px","size":30,"sizes":[]},"typography_text_transform":"uppercase"},"elements":[],"widgetType":"heading"},{"id":"88300d3","elType":"widget","settings":{"editor":"<p>Donec tempus neque sit amet sem porttitor, ut condimentum nunc egestas. Integer accumsan leo placerat.<\/p>","align":"center","text_color":"#666666","typography_typography":"custom","typography_font_family":"Poppins","typography_font_size":{"unit":"px","size":15,"sizes":[]},"_margin":{"unit":"px","top":"0","right":"0300","bottom":"30","left":"300","isLinked":false},"_margin_tablet":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true}},"elements":[],"widgetType":"text-editor"},{"id":"9b756e9","elType":"widget","settings":{"read_more_text":"Read More","count":3},"elements":[],"widgetType":"woostify-post"},{"id":"305192e","elType":"widget","settings":{"space":{"unit":"px","size":80,"sizes":[]},"space_mobile":{"unit":"px","size":0,"sizes":[]}},"elements":[],"widgetType":"spacer"}],"isInner":false}],"isInner":false},{"id":"08592f9","elType":"section","settings":{"stretch_section":"section-stretched","layout":"full_width","gap":"no"},"elements":[{"id":"57ab7d5","elType":"column","settings":{"_column_size":100},"elements":[{"id":"22e1056","elType":"widget","settings":{"wp_gallery":[{"id":900,"url":"https:\/\/woostify.com\/demos\/watch\/wp-content\/uploads\/2019\/06\/insta-1.jpg"},{"id":901,"url":"https:\/\/woostify.com\/demos\/watch\/wp-content\/uploads\/2019\/06\/insta-2.jpg"},{"id":902,"url":"https:\/\/woostify.com\/demos\/watch\/wp-content\/uploads\/2019\/06\/insta-3.jpg"},{"id":903,"url":"https:\/\/woostify.com\/demos\/watch\/wp-content\/uploads\/2019\/06\/insta-4.jpg"},{"id":904,"url":"https:\/\/woostify.com\/demos\/watch\/wp-content\/uploads\/2019\/06\/insta-5.jpg"},{"id":905,"url":"https:\/\/woostify.com\/demos\/watch\/wp-content\/uploads\/2019\/06\/insta-6.jpg"}],"thumbnail_size":"full","gallery_columns":"6","_margin":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false},"_padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false}},"elements":[],"widgetType":"image-gallery"}],"isInner":false}],"isInner":false}]]]></wp:meta_value>
+		<wp:meta_value><![CDATA[[{"id":"2215fb4","elType":"section","settings":{"stretch_section":"section-stretched","layout":"full_width","margin":{"unit":"px","top":"0","right":0,"bottom":"0","left":0,"isLinked":false},"padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false},"custom_height":{"unit":"px","size":730,"sizes":[]},"background_background":"classic"},"elements":[{"id":"1d86a13","elType":"column","settings":{"_column_size":100,"margin":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false},"padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false}},"elements":[{"id":"c9f1f2c","elType":"widget","settings":{"slides":[{"title":"Inspired By Adventure","description":"High-Technology Ceramic","btn1_text":"Shop Now","btn1_link":{"url":"#"},"background_color":"","background_background":"classic","_id":"0dac58f","btn2_text":"","btn2_link":{"url":"","is_external":"","nofollow":""},"background_color_stop":{"unit":"%","size":0,"sizes":[]},"background_color_b":"#f2295b","background_color_b_stop":{"unit":"%","size":100,"sizes":[]},"background_gradient_type":"linear","background_gradient_angle":{"unit":"deg","size":180,"sizes":[]},"background_gradient_position":"center center","background_image":{"url":"https:\/\/woostify.com\/demos\/watch\/wp-content\/uploads\/2019\/06\/slider-1.jpg","id":855},"background_image_tablet":{"url":"","id":""},"background_image_mobile":{"url":"","id":""},"background_position":"","background_position_tablet":"","background_position_mobile":"","background_xpos":{"unit":"px","size":0,"sizes":[]},"background_xpos_tablet":{"unit":"px","size":0,"sizes":[]},"background_xpos_mobile":{"unit":"px","size":0,"sizes":[]},"background_ypos":{"unit":"px","size":0,"sizes":[]},"background_ypos_tablet":{"unit":"px","size":0,"sizes":[]},"background_ypos_mobile":{"unit":"px","size":0,"sizes":[]},"background_attachment":"","background_repeat":"","background_repeat_tablet":"","background_repeat_mobile":"","background_size":"cover","background_size_tablet":"","background_size_mobile":"","background_bg_width":{"unit":"%","size":100,"sizes":[]},"background_bg_width_tablet":{"unit":"px","size":"","sizes":[]},"background_bg_width_mobile":{"unit":"px","size":"","sizes":[]},"background_video_link":"","background_video_start":"","background_video_end":"","background_video_fallback":{"url":"","id":""},"custom":"yes","custom_content_animation":"default","custom_content_width":{"unit":"px","size":1170,"sizes":[]},"custom_content_width_tablet":{"unit":"px","size":"","sizes":[]},"custom_content_width_mobile":{"unit":"px","size":"","sizes":[]},"custom_horizontal_pos":"","custom_horizontal_pos_tablet":"center","custom_horizontal_pos_mobile":"","custom_vertical_pos":"","custom_vertical_pos_tablet":"center","custom_vertical_pos_mobile":"","custom_text_align":"","custom_text_align_tablet":"center","custom_text_align_mobile":"","background_play_once":""},{"title":"Inspired By Adventure","description":"High-Technology Ceramic","btn1_text":"Shop Now","btn1_link":{"url":"#"},"background_color":"","background_background":"classic","_id":"f1d8ed5","btn2_text":"","btn2_link":{"url":"","is_external":"","nofollow":""},"background_color_stop":{"unit":"%","size":0,"sizes":[]},"background_color_b":"#f2295b","background_color_b_stop":{"unit":"%","size":100,"sizes":[]},"background_gradient_type":"linear","background_gradient_angle":{"unit":"deg","size":180,"sizes":[]},"background_gradient_position":"center center","background_image":{"url":"https:\/\/woostify.com\/demos\/watch\/wp-content\/uploads\/2019\/06\/slider-4.jpg","id":866},"background_image_tablet":{"url":"","id":""},"background_image_mobile":{"url":"","id":""},"background_position":"","background_position_tablet":"","background_position_mobile":"","background_xpos":{"unit":"px","size":0,"sizes":[]},"background_xpos_tablet":{"unit":"px","size":0,"sizes":[]},"background_xpos_mobile":{"unit":"px","size":0,"sizes":[]},"background_ypos":{"unit":"px","size":0,"sizes":[]},"background_ypos_tablet":{"unit":"px","size":0,"sizes":[]},"background_ypos_mobile":{"unit":"px","size":0,"sizes":[]},"background_attachment":"","background_repeat":"","background_repeat_tablet":"","background_repeat_mobile":"","background_size":"cover","background_size_tablet":"","background_size_mobile":"","background_bg_width":{"unit":"%","size":100,"sizes":[]},"background_bg_width_tablet":{"unit":"px","size":"","sizes":[]},"background_bg_width_mobile":{"unit":"px","size":"","sizes":[]},"background_video_link":"","background_video_start":"","background_video_end":"","background_video_fallback":{"url":"","id":""},"custom":"yes","custom_content_animation":"swing","custom_content_width":{"unit":"px","size":1170,"sizes":[]},"custom_content_width_tablet":{"unit":"px","size":"","sizes":[]},"custom_content_width_mobile":{"unit":"px","size":"","sizes":[]},"custom_horizontal_pos":"flex-start","custom_horizontal_pos_tablet":"center","custom_horizontal_pos_mobile":"","custom_vertical_pos":"","custom_vertical_pos_tablet":"","custom_vertical_pos_mobile":"","custom_text_align":"","custom_text_align_tablet":"","custom_text_align_mobile":"","background_play_once":""}],"slider_height":{"unit":"px","size":730,"sizes":[]},"horizontal_pos":"flex-end","vertical_pos":"center","text_align":"left","title_typography_typography":"custom","title_typography_font_size":{"unit":"px","size":56,"sizes":[]},"title_typography_line_height":{"unit":"em","size":0,"sizes":[]},"button_typography_typography":"custom","button_typography_font_size":{"unit":"px","size":14,"sizes":[]},"button_typography_font_weight":"700","button_border_width":{"unit":"px","size":1,"sizes":[]},"button_border_radius":{"unit":"px","size":0,"sizes":[]},"button_color_hover":"#262626","button_bg_color_hover":"#ffffff","button_border_color_hover":"#ffffff","title_typography_font_family":"Josefin Sans","title_typography_font_weight":"500","description_typography_typography":"custom","description_typography_line_height":{"unit":"em","size":1.5,"sizes":[]},"button_typography_font_family":"Josefin Sans","button_typography_text_transform":"uppercase","button_color":"#303030","button_bg_color":"#ffffff","button_border_color":"#ffffff","_margin":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false},"content_animation":"fadeInUp","button_padding":{"unit":"px","top":"10","right":"10","bottom":"6","left":"10","isLinked":false},"slider_height_tablet":{"unit":"px","size":580,"sizes":[]},"slider_height_mobile":{"unit":"px","size":360,"sizes":[]},"container_width_tablet":{"unit":"%","size":100,"sizes":[]},"horizontal_pos_tablet":"center","vertical_pos_tablet":"center","text_align_tablet":"center","title_typography_font_size_mobile":{"unit":"em","size":2,"sizes":[]}},"elements":[],"widgetType":"woostify-slider"},{"id":"4c00f00","elType":"widget","settings":{"space":{"unit":"px","size":100,"sizes":[]},"space_mobile":{"unit":"px","size":40,"sizes":[]}},"elements":[],"widgetType":"spacer"}],"isInner":false}],"isInner":false},{"id":"b1e6283","elType":"section","settings":{"structure":"20","margin":{"unit":"px","top":"0","right":0,"bottom":"0","left":0,"isLinked":false}},"elements":[{"id":"72672ea","elType":"column","settings":{"_column_size":50,"_inline_size":null,"padding":{"unit":"px","top":"0","right":"0","bottom":"1","left":"0","isLinked":false}},"elements":[{"id":"ff1d628","elType":"widget","settings":{"space":{"unit":"px","size":120,"sizes":[]},"space_mobile":{"unit":"px","size":0,"sizes":[]}},"elements":[],"widgetType":"spacer"},{"id":"571a65d","elType":"widget","settings":{"title":"MEN'S COLLECTION","title_color":"#ffffff","typography_typography":"custom","typography_font_family":"Josefin Sans","header_size":"h3","typography_font_size":{"unit":"px","size":20,"sizes":[]},"_margin":{"unit":"px","top":"0","right":"0","bottom":"50","left":"0","isLinked":false},"_padding":{"unit":"px","top":"12","right":"020","bottom":"8","left":"20","isLinked":false},"_background_background":"classic","_background_color":"#303030","_element_width":"auto"},"elements":[],"widgetType":"heading"},{"id":"de4890f","elType":"widget","settings":{"title":"The Art - Classic Fusion","title_color":"#303030","typography_typography":"custom","typography_font_family":"Josefin Sans","header_size":"h3","typography_font_size":{"unit":"px","size":25,"sizes":[]}},"elements":[],"widgetType":"heading"},{"id":"1b5b854","elType":"widget","settings":{"title":"Tourbillon Power","title_color":"#303030","typography_typography":"custom","typography_font_family":"Josefin Sans","typography_font_size":{"unit":"px","size":40,"sizes":[]},"typography_font_weight":"700","typography_text_transform":"uppercase"},"elements":[],"widgetType":"heading"},{"id":"9e1b2c0","elType":"widget","settings":{"editor":"<p>In tincidunt massa sed enim mattis, pharetra sollicitudin lectus pellentesque. Curabitur sed ultrices nulla. In a dictum sem, eget faucibus ex. Aliquam erat volutpat. Nam dapibus fringilla felis, sodales convallis dolor efficitur consequat.<\/p>","_padding":{"unit":"px","top":"0","right":"70","bottom":"0","left":"0","isLinked":false}},"elements":[],"widgetType":"text-editor"},{"id":"9ff6b0e","elType":"widget","settings":{"text":"View Collection","size":"md","typography_typography":"custom","typography_font_family":"Josefin Sans","typography_font_size":{"unit":"px","size":15,"sizes":[]},"typography_text_transform":"uppercase","button_text_color":"#303030","background_color":"#ffffff","border_border":"solid","border_width":{"unit":"px","top":"1","right":"1","bottom":"1","left":"1","isLinked":true},"border_color":"#303030","border_radius":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true}},"elements":[],"widgetType":"button"},{"id":"b06bb26","elType":"widget","settings":{"space_mobile":{"unit":"px","size":20,"sizes":[]}},"elements":[],"widgetType":"spacer"}],"isInner":false},{"id":"d467cba","elType":"column","settings":{"_column_size":50,"_inline_size":null},"elements":[{"id":"55ef087","elType":"widget","settings":{"image":{"url":"https:\/\/woostify.com\/demos\/watch\/wp-content\/uploads\/2019\/06\/home-1.jpg","id":870}},"elements":[],"widgetType":"image"}],"isInner":false}],"isInner":false},{"id":"cab69ae","elType":"section","settings":{"margin":{"unit":"px","top":"0","right":0,"bottom":"0","left":0,"isLinked":false},"padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false}},"elements":[{"id":"c96ab17","elType":"column","settings":{"_column_size":100,"_inline_size":null},"elements":[{"id":"f6d48c4","elType":"widget","settings":{"space":{"unit":"px","size":80,"sizes":[]},"space_mobile":{"unit":"px","size":60,"sizes":[]}},"elements":[],"widgetType":"spacer"},{"id":"60a3024","elType":"widget","settings":{"title":"Trending Now","align":"center","title_color":"#262626","typography_typography":"custom","typography_font_weight":"400","_margin":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false},"typography_font_size":{"unit":"px","size":30,"sizes":[]},"typography_text_transform":"uppercase"},"elements":[],"widgetType":"heading"},{"id":"7ce1455","elType":"widget","settings":{"editor":"<p>Donec tempus neque sit amet sem porttitor, ut condimentum nunc egestas. Integer accumsan leo placerat.<\/p>","align":"center","text_color":"#666666","typography_typography":"custom","typography_font_family":"Poppins","typography_font_size":{"unit":"px","size":15,"sizes":[]},"_margin":{"unit":"px","top":"0","right":"0300","bottom":"30","left":"300","isLinked":false},"_margin_tablet":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true}},"elements":[],"widgetType":"text-editor"},{"id":"56444dd","elType":"widget","settings":{"arrows_position":{"unit":"px","size":-62,"sizes":[]},"dots_position":{"unit":"px","size":-35,"sizes":[]},"dots_bg_color":"#bcbcbc","count":8,"columns_mobile":"2","product_cat_ids":["19","27"]},"elements":[],"widgetType":"woostify-product-slider"},{"id":"bd7a79c","elType":"widget","settings":{"space":{"unit":"px","size":120,"sizes":[]},"space_tablet":{"unit":"px","size":80,"sizes":[]}},"elements":[],"widgetType":"spacer"}],"isInner":false}],"isInner":false},{"id":"6c9ffbe","elType":"section","settings":{"stretch_section":"section-stretched","background_background":"classic","background_position":"top center","background_repeat":"no-repeat","background_overlay_background":"classic","background_overlay_color":"rgba(2,2,2,0.4)","padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true},"layout":"full_width","gap":"no","custom_height":{"unit":"px","size":540,"sizes":[]},"background_overlay_opacity":{"unit":"px","size":0,"sizes":[]},"margin":{"unit":"px","top":"0","right":0,"bottom":"0","left":0,"isLinked":false},"background_size":"cover"},"elements":[{"id":"7c4c43c","elType":"column","settings":{"_column_size":100},"elements":[{"id":"4a3f0d1","elType":"widget","settings":{"youtube_url":"https:\/\/www.youtube.com\/watch?v=udlW0ZfVINo","vimeo_url":"https:\/\/vimeo.com\/235215203","dailymotion_url":"https:\/\/www.dailymotion.com\/video\/x6tqhqb","show_image_overlay":"yes","image_overlay":{"url":"https:\/\/woostify.com\/demos\/watch\/wp-content\/uploads\/2019\/06\/home-video.jpg","id":883},"rel":"yes","image_overlay_custom_dimension":{"width":"","height":"100"},"lightbox":"yes","aspect_ratio":"11","lightbox_video_width":{"unit":"%","size":100,"sizes":[]},"lightbox_content_animation":"fadeIn","play_icon_size_mobile":{"unit":"px","size":50,"sizes":[]}},"elements":[],"widgetType":"video"}],"isInner":false}],"isInner":false},{"id":"a227def","elType":"section","settings":{"stretch_section":"section-stretched","background_background":"classic","background_position":"top center","background_repeat":"no-repeat","background_overlay_background":"classic","background_overlay_color":"rgba(2,2,2,0.4)","padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false},"layout":"full_width","gap":"no","custom_height":{"unit":"px","size":540,"sizes":[]},"background_overlay_opacity":{"unit":"px","size":0,"sizes":[]},"margin":{"unit":"px","top":"0","right":0,"bottom":"0","left":0,"isLinked":false}},"elements":[{"id":"cb34683","elType":"column","settings":{"_column_size":100},"elements":[{"id":"c55d232","elType":"widget","settings":{"space":{"unit":"px","size":120,"sizes":[]},"space_tablet":{"unit":"px","size":80,"sizes":[]}},"elements":[],"widgetType":"spacer"}],"isInner":false}],"isInner":false},{"id":"1d6bcd2","elType":"section","settings":{"structure":"20","stretch_section":"section-stretched","layout":"full_width","margin":{"unit":"px","top":"0","right":0,"bottom":"0","left":0,"isLinked":false},"padding":{"unit":"px","top":"0","right":"150","bottom":"0","left":"150","isLinked":false},"padding_tablet":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true}},"elements":[{"id":"f62f760","elType":"column","settings":{"_column_size":50,"_inline_size":42.677,"background_background":"classic","background_image":{"url":"https:\/\/woostify.com\/demos\/watch\/wp-content\/uploads\/2019\/06\/home-4.jpg","id":893},"content_position":"center","align":"center","background_position":"top center","background_repeat":"no-repeat","background_size":"cover","padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false},"background_overlay_background":"classic","background_overlay_color":"rgba(0,0,0,0.3)","_inline_size_tablet":100},"elements":[{"id":"d378fc9","elType":"widget","settings":{"space_tablet":{"unit":"px","size":80,"sizes":[]}},"elements":[],"widgetType":"spacer"},{"id":"c0452e5","elType":"widget","settings":{"title":"women's collection","align":"center","title_color":"#ffffff","typography_typography":"custom","typography_font_size":{"unit":"px","size":25,"sizes":[]},"typography_font_weight":"bold","typography_text_transform":"uppercase","_margin":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false}},"elements":[],"widgetType":"heading"},{"id":"52cd22c","elType":"widget","settings":{"text":"Shop Now","size":"md","typography_typography":"custom","typography_font_family":"Josefin Sans","typography_font_size":{"unit":"px","size":15,"sizes":[]},"typography_text_transform":"uppercase","button_text_color":"#303030","background_color":"#ffffff","border_border":"solid","border_width":{"unit":"px","top":"1","right":"1","bottom":"1","left":"1","isLinked":true},"border_color":"#ffffff","border_radius":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true},"align":"center","icon":"fa fa-long-arrow-right","icon_align":"right","icon_indent":{"unit":"px","size":10,"sizes":[]},"typography_line_height":{"unit":"px","size":19,"sizes":[]},"text_padding":{"unit":"px","top":"15","right":"25","bottom":"10","left":"25","isLinked":false},"selected_icon":{"value":"fas fa-long-arrow-alt-right","library":"fa-solid"}},"elements":[],"widgetType":"button"},{"id":"88b0aab","elType":"widget","settings":{"space_tablet":{"unit":"px","size":80,"sizes":[]}},"elements":[],"widgetType":"spacer"}],"isInner":false},{"id":"3104e2f","elType":"column","settings":{"_column_size":50,"_inline_size":57.323,"margin":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false},"padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"40","isLinked":false},"_inline_size_tablet":100,"padding_tablet":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false},"padding_mobile":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false}},"elements":[{"id":"6ed22e8","elType":"widget","settings":{"col":"3","order_by":"name","_margin_mobile":{"unit":"px","top":"50","right":"0","bottom":"0","left":"0","isLinked":false}},"elements":[],"widgetType":"woostify-products"}],"isInner":false}],"isInner":false},{"id":"a97fb70","elType":"section","settings":{"stretch_section":"section-stretched","background_background":"classic","background_position":"top center","background_repeat":"no-repeat","background_overlay_background":"classic","background_overlay_color":"rgba(2,2,2,0.4)","padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false},"layout":"full_width","gap":"no","custom_height":{"unit":"px","size":540,"sizes":[]},"background_overlay_opacity":{"unit":"px","size":0,"sizes":[]},"margin":{"unit":"px","top":"0","right":0,"bottom":"0","left":0,"isLinked":false}},"elements":[{"id":"6086ea4","elType":"column","settings":{"_column_size":100},"elements":[{"id":"eb23704","elType":"widget","settings":{"space":{"unit":"px","size":120,"sizes":[]},"space_tablet":{"unit":"px","size":80,"sizes":[]},"space_mobile":{"unit":"px","size":60,"sizes":[]}},"elements":[],"widgetType":"spacer"}],"isInner":false}],"isInner":false},{"id":"88a9de4","elType":"section","settings":{"stretch_section":"section-stretched","layout":"full_width","background_background":"classic","background_image":{"url":"https:\/\/woostify.com\/demos\/watch\/wp-content\/uploads\/2019\/06\/home-5.jpg","id":895},"margin":{"unit":"px","top":"0","right":0,"bottom":"0","left":0,"isLinked":false},"structure":"20","background_position":"center center","background_repeat":"no-repeat","background_size":"cover"},"elements":[{"id":"1df3090","elType":"column","settings":{"_column_size":50,"_inline_size":null},"elements":[{"id":"9fa3450","elType":"widget","settings":{"space":{"unit":"px","size":150,"sizes":[]},"space_tablet":{"unit":"px","size":80,"sizes":[]},"space_mobile":{"unit":"px","size":60,"sizes":[]}},"elements":[],"widgetType":"spacer"},{"id":"42eae49","elType":"widget","settings":{"title":"Sale <span style=\"font-size:40px\">30%<\/span> Off\n","align":"center","title_color":"#ffffff","typography_typography":"custom","typography_font_size":{"unit":"px","size":25,"sizes":[]}},"elements":[],"widgetType":"heading"},{"id":"f604c78","elType":"widget","settings":{"title":"Deal of the day","align":"center","title_color":"#ffffff","typography_typography":"custom","typography_font_size":{"unit":"px","size":40,"sizes":[]},"typography_text_transform":"uppercase"},"elements":[],"widgetType":"heading"},{"id":"036ed23","elType":"widget","settings":{"space":{"unit":"px","size":20,"sizes":[]}},"elements":[],"widgetType":"spacer"},{"id":"ebdbbf6","elType":"widget","settings":{"days_text":"days","hours_text":"hours","mins_text":"mins","seconds_text":"seconds","item_background":"#ffffff","digits_typography_typography":"custom","digits_typography_font_size":{"unit":"px","size":42,"sizes":[]},"digits_typography_font_weight":"bold","digits_color":"#000000","label_color":"#000000","label_typography_typography":"custom","label_typography_font_family":"Josefin Sans","label_typography_font_size":{"unit":"px","size":20,"sizes":[]},"label_typography_font_weight":"400","item_margin_mobile":{"unit":"px","top":"0","right":"20","bottom":"20","left":"20","isLinked":false},"digits_padding_mobile":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true},"label_padding_mobile":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true}},"elements":[],"widgetType":"woostify-countdown"},{"id":"01a9ee7","elType":"widget","settings":{"space":{"unit":"px","size":20,"sizes":[]},"space_mobile":{"unit":"px","size":0,"sizes":[]}},"elements":[],"widgetType":"spacer"},{"id":"4087a90","elType":"widget","settings":{"text":"Shop Now","size":"md","typography_typography":"custom","typography_font_family":"Josefin Sans","typography_font_size":{"unit":"px","size":15,"sizes":[]},"typography_text_transform":"uppercase","button_text_color":"#ffffff","background_color":"rgba(255,255,255,0)","border_border":"solid","border_width":{"unit":"px","top":"1","right":"1","bottom":"1","left":"1","isLinked":true},"border_color":"#ffffff","border_radius":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true},"align":"center","icon":"fa fa-long-arrow-right","icon_align":"right","icon_indent":{"unit":"px","size":10,"sizes":[]},"typography_line_height":{"unit":"px","size":19,"sizes":[]},"selected_icon":{"value":"fas fa-long-arrow-alt-right","library":"fa-solid"}},"elements":[],"widgetType":"button"},{"id":"04de35f","elType":"widget","settings":{"space":{"unit":"px","size":150,"sizes":[]},"space_tablet":{"unit":"px","size":80,"sizes":[]},"space_mobile":{"unit":"px","size":0,"sizes":[]}},"elements":[],"widgetType":"spacer"}],"isInner":false},{"id":"6c6302d","elType":"column","settings":{"_column_size":50,"_inline_size":null},"elements":[{"id":"bbf292f","elType":"widget","settings":{"space":{"unit":"px","size":150,"sizes":[]},"space_tablet":{"unit":"px","size":80,"sizes":[]},"space_mobile":{"unit":"px","size":0,"sizes":[]}},"elements":[],"widgetType":"spacer"},{"id":"41c982b","elType":"widget","settings":{"space":{"unit":"px","size":150,"sizes":[]},"space_tablet":{"unit":"px","size":80,"sizes":[]},"space_mobile":{"unit":"px","size":0,"sizes":[]}},"elements":[],"widgetType":"spacer"}],"isInner":false}],"isInner":false},{"id":"3d11322","elType":"section","settings":{"margin":{"unit":"px","top":"0","right":0,"bottom":"0","left":0,"isLinked":false}},"elements":[{"id":"1c1e618","elType":"column","settings":{"_column_size":100},"elements":[{"id":"3f8ae97","elType":"widget","settings":{"space":{"unit":"px","size":110,"sizes":[]},"space_tablet":{"unit":"px","size":80,"sizes":[]},"space_mobile":{"unit":"px","size":60,"sizes":[]}},"elements":[],"widgetType":"spacer"},{"id":"c938559","elType":"widget","settings":{"title":"Latest news","align":"center","title_color":"#262626","typography_typography":"custom","typography_font_weight":"400","_margin":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false},"typography_font_size":{"unit":"px","size":30,"sizes":[]},"typography_text_transform":"uppercase"},"elements":[],"widgetType":"heading"},{"id":"88300d3","elType":"widget","settings":{"editor":"<p>Donec tempus neque sit amet sem porttitor, ut condimentum nunc egestas. Integer accumsan leo placerat.<\/p>","align":"center","text_color":"#666666","typography_typography":"custom","typography_font_family":"Poppins","typography_font_size":{"unit":"px","size":15,"sizes":[]},"_margin":{"unit":"px","top":"0","right":"0300","bottom":"30","left":"300","isLinked":false},"_margin_tablet":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true}},"elements":[],"widgetType":"text-editor"},{"id":"9b756e9","elType":"widget","settings":{"read_more_text":"Read More","count":3},"elements":[],"widgetType":"woostify-post"},{"id":"305192e","elType":"widget","settings":{"space":{"unit":"px","size":80,"sizes":[]},"space_mobile":{"unit":"px","size":0,"sizes":[]}},"elements":[],"widgetType":"spacer"}],"isInner":false}],"isInner":false},{"id":"08592f9","elType":"section","settings":{"stretch_section":"section-stretched","layout":"full_width","gap":"no"},"elements":[{"id":"57ab7d5","elType":"column","settings":{"_column_size":100},"elements":[{"id":"22e1056","elType":"widget","settings":{"wp_gallery":[{"id":900,"url":"https:\/\/woostify.com\/demos\/watch\/wp-content\/uploads\/2019\/06\/insta-1.jpg"},{"id":901,"url":"https:\/\/woostify.com\/demos\/watch\/wp-content\/uploads\/2019\/06\/insta-2.jpg"},{"id":902,"url":"https:\/\/woostify.com\/demos\/watch\/wp-content\/uploads\/2019\/06\/insta-3.jpg"},{"id":903,"url":"https:\/\/woostify.com\/demos\/watch\/wp-content\/uploads\/2019\/06\/insta-4.jpg"},{"id":904,"url":"https:\/\/woostify.com\/demos\/watch\/wp-content\/uploads\/2019\/06\/insta-5.jpg"},{"id":905,"url":"https:\/\/woostify.com\/demos\/watch\/wp-content\/uploads\/2019\/06\/insta-6.jpg"}],"thumbnail_size":"full","gallery_columns":"6","_margin":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false},"_padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false}},"elements":[],"widgetType":"image-gallery"}],"isInner":false}],"isInner":false}]]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_oembed_13bd140357d62fbde9e37857e5359188]]></wp:meta_key>
@@ -6361,6 +6255,10 @@
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_oembed_time_3b08d1bddb0ff61310d5ad5c5ade28a7]]></wp:meta_key>
 		<wp:meta_value><![CDATA[1562229902]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_elementor_elements_usage]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:14:{s:15:"woostify-slider";i:1;s:6:"spacer";i:17;s:6:"column";i:13;s:7:"section";i:10;s:7:"heading";i:8;s:11:"text-editor";i:3;s:6:"button";i:3;s:5:"image";i:1;s:23:"woostify-product-slider";i:1;s:5:"video";i:1;s:17:"woostify-products";i:1;s:18:"woostify-countdown";i:1;s:13:"woostify-post";i:1;s:13:"image-gallery";i:1;}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -6577,122 +6475,6 @@ I’ve arrived on time to every lesson I’ve had to teach this year, bar one.&n
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[site-sidebar]]></wp:meta_key>
 		<wp:meta_value><![CDATA[default]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title>The anordain model 1</title>
-		<link>https://woostify.com/demos/watch/retro-fashion-a-look-back-to-1990s/</link>
-		<pubDate>Thu, 11 Apr 2019 08:42:13 +0000</pubDate>
-		<dc:creator><![CDATA[woostify]]></dc:creator>
-		<guid isPermaLink="false">https://woostify.com/demos/watch/?p=723</guid>
-		<description></description>
-		<content:encoded><![CDATA[<!-- wp:paragraph {"customTextColor":"#3e3e3e","fontSize":"woostify-heading-6"} -->
-<p style="color:#3e3e3e" class="has-text-color has-woostify-heading-6-font-size"><em>On the 25th of June 2017 I spent a nerve-wracking 6 hours taking my Introductory <br> Assessment. Three days later I found out that all the hard work, stress and focus had been worth it, as I had passed and was officially an Iyengar yoga teacher.</em></p>
-<!-- /wp:paragraph -->
-
-<!-- wp:spacer {"height":15} -->
-<div style="height:15px" aria-hidden="true" class="wp-block-spacer"></div>
-<!-- /wp:spacer -->
-
-<!-- wp:heading {"level":6} -->
-<h6>You get by with a help from your friends</h6>
-<!-- /wp:heading -->
-
-<!-- wp:spacer {"height":15} -->
-<div style="height:15px" aria-hidden="true" class="wp-block-spacer"></div>
-<!-- /wp:spacer -->
-
-<!-- wp:paragraph -->
-<p>I’ve had loads of support. My husband has had to step into the bedtime breach two evenings a week, as I head out the door to teach my evening classes. He never complains, in fact, he makes a point of asking how the lesson went when <br>
-I come home and root about for a snack.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:spacer {"height":15} -->
-<div style="height:15px" aria-hidden="true" class="wp-block-spacer"></div>
-<!-- /wp:spacer -->
-
-<!-- wp:paragraph -->
-<p>The little group of ‘guinea pigs’ that I taught during my training have stuck with me through thick and thin. They <br>
-committed wholeheartedly to being my loyal test students, and then, when I passed, insisted that the class carry on, with the difference being that they now paid me. They’ve been my students for nearly three years now, and I truly feel that we evolve together.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:spacer {"height":15} -->
-<div style="height:15px" aria-hidden="true" class="wp-block-spacer"></div>
-<!-- /wp:spacer -->
-
-<!-- wp:heading {"level":6} -->
-<h6>Grateful for the Good Bits</h6>
-<!-- /wp:heading -->
-
-<!-- wp:spacer {"height":15} -->
-<div style="height:15px" aria-hidden="true" class="wp-block-spacer"></div>
-<!-- /wp:spacer -->
-
-<!-- wp:paragraph -->
-<p>It’s easy to focus on the negative. But, as Mr Iyengar says: “Cultivate the positive, abjure the negative.” I’ve also had teaching successes and some really excellent good bits.<br>
-I’ve arrived on time to every lesson I’ve had to teach this year, bar one.&nbsp; I’ve successfully started a new class, which now has a steady core of students. </p>
-<!-- /wp:paragraph -->
-
-<!-- wp:spacer {"height":15} -->
-<div style="height:15px" aria-hidden="true" class="wp-block-spacer"></div>
-<!-- /wp:spacer -->
-
-<!-- wp:paragraph -->
-<p>I’ve taken a student up into headstand for the first time. I’ve seen my students progress and improve, both physically and mentally. I’ve got to the end of the class and felt the peace and stillness in the room during savasana, and been deeply grateful.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:spacer {"height":15} -->
-<div style="height:15px" aria-hidden="true" class="wp-block-spacer"></div>
-<!-- /wp:spacer -->
-
-<!-- wp:paragraph -->
-<p>Any yoga teacher will tell you that you know when you’ve taught a good class. There’s a sense of intense satisfaction and fulfilment, shared between you and your students. You’ve worked them hard, and they’ve worked hard themselves into the bargain.</p>
-<!-- /wp:paragraph -->]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>723</wp:post_id>
-		<wp:post_date><![CDATA[2019-04-11 08:42:13]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2019-04-11 08:42:13]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[retro-fashion-a-look-back-to-1990s]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[post]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[site-container]]></wp:meta_key>
-		<wp:meta_value><![CDATA[default]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[site-header-transparent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[default]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[site-page-header]]></wp:meta_key>
-		<wp:meta_value><![CDATA[default]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[site-sidebar]]></wp:meta_key>
-		<wp:meta_value><![CDATA[default]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1062]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_oembed_3b08d1bddb0ff61310d5ad5c5ade28a7]]></wp:meta_key>
-		<wp:meta_value><![CDATA[<iframe title="Đồng hồ Rolex hơn 100 tỷ đồng của vua Bảo Đại CHÍNH THỨC bán đấu giá thành công" width="500" height="281" src="https://www.youtube.com/embed/udlW0ZfVINo?feature=oembed" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_oembed_time_3b08d1bddb0ff61310d5ad5c5ade28a7]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1562314620]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -7021,6 +6803,61 @@ a lot of things for you to explore. The price is reasonable and customer service
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[site-sidebar]]></wp:meta_key>
 		<wp:meta_value><![CDATA[default]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title></title>
+		<link>https://woostify.com/demos/watch/785/</link>
+		<pubDate>Fri, 12 Apr 2019 03:49:10 +0000</pubDate>
+		<dc:creator><![CDATA[woostify]]></dc:creator>
+		<guid isPermaLink="false">https://woostify.com/demos/watch/?p=785</guid>
+		<description></description>
+		<content:encoded><![CDATA[ ]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>785</wp:post_id>
+		<wp:post_date><![CDATA[2019-04-12 03:49:10]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2019-04-12 03:49:10]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[785]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>2</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="nav_menu" nicename="main-menu"><![CDATA[Main Menu]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[772]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+		<wp:meta_value><![CDATA[page]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -7698,6 +7535,122 @@ a lot of things for you to explore. The price is reasonable and customer service
 		</wp:postmeta>
 							</item>
 					<item>
+		<title>The anordain model 1</title>
+		<link>https://woostify.com/demos/watch/retro-fashion-a-look-back-to-1990s/</link>
+		<pubDate>Thu, 11 Apr 2019 08:42:13 +0000</pubDate>
+		<dc:creator><![CDATA[woostify]]></dc:creator>
+		<guid isPermaLink="false">https://woostify.com/demos/watch/?p=723</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:paragraph {"customTextColor":"#3e3e3e","fontSize":"woostify-heading-6"} -->
+<p style="color:#3e3e3e" class="has-text-color has-woostify-heading-6-font-size"><em>On the 25th of June 2017 I spent a nerve-wracking 6 hours taking my Introductory <br> Assessment. Three days later I found out that all the hard work, stress and focus had been worth it, as I had passed and was officially an Iyengar yoga teacher.</em></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:spacer {"height":15} -->
+<div style="height:15px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:heading {"level":6} -->
+<h6>You get by with a help from your friends</h6>
+<!-- /wp:heading -->
+
+<!-- wp:spacer {"height":15} -->
+<div style="height:15px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:paragraph -->
+<p>I’ve had loads of support. My husband has had to step into the bedtime breach two evenings a week, as I head out the door to teach my evening classes. He never complains, in fact, he makes a point of asking how the lesson went when <br>
+I come home and root about for a snack.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:spacer {"height":15} -->
+<div style="height:15px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:paragraph -->
+<p>The little group of ‘guinea pigs’ that I taught during my training have stuck with me through thick and thin. They <br>
+committed wholeheartedly to being my loyal test students, and then, when I passed, insisted that the class carry on, with the difference being that they now paid me. They’ve been my students for nearly three years now, and I truly feel that we evolve together.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:spacer {"height":15} -->
+<div style="height:15px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:heading {"level":6} -->
+<h6>Grateful for the Good Bits</h6>
+<!-- /wp:heading -->
+
+<!-- wp:spacer {"height":15} -->
+<div style="height:15px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:paragraph -->
+<p>It’s easy to focus on the negative. But, as Mr Iyengar says: “Cultivate the positive, abjure the negative.” I’ve also had teaching successes and some really excellent good bits.<br>
+I’ve arrived on time to every lesson I’ve had to teach this year, bar one.&nbsp; I’ve successfully started a new class, which now has a steady core of students. </p>
+<!-- /wp:paragraph -->
+
+<!-- wp:spacer {"height":15} -->
+<div style="height:15px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:paragraph -->
+<p>I’ve taken a student up into headstand for the first time. I’ve seen my students progress and improve, both physically and mentally. I’ve got to the end of the class and felt the peace and stillness in the room during savasana, and been deeply grateful.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:spacer {"height":15} -->
+<div style="height:15px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:paragraph -->
+<p>Any yoga teacher will tell you that you know when you’ve taught a good class. There’s a sense of intense satisfaction and fulfilment, shared between you and your students. You’ve worked them hard, and they’ve worked hard themselves into the bargain.</p>
+<!-- /wp:paragraph -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>723</wp:post_id>
+		<wp:post_date><![CDATA[2019-04-11 08:42:13]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2019-04-11 08:42:13]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[retro-fashion-a-look-back-to-1990s]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[site-container]]></wp:meta_key>
+		<wp:meta_value><![CDATA[default]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[site-header-transparent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[default]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[site-page-header]]></wp:meta_key>
+		<wp:meta_value><![CDATA[default]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[site-sidebar]]></wp:meta_key>
+		<wp:meta_value><![CDATA[default]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1062]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_oembed_3b08d1bddb0ff61310d5ad5c5ade28a7]]></wp:meta_key>
+		<wp:meta_value><![CDATA[<iframe title="Đồng hồ Rolex hơn 100 tỷ đồng của vua Bảo Đại CHÍNH THỨC bán đấu giá thành công" width="500" height="281" src="https://www.youtube.com/embed/udlW0ZfVINo?feature=oembed" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_oembed_time_3b08d1bddb0ff61310d5ad5c5ade28a7]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1562314620]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
 		<title>Thought on the new Tag Heuer Autavia</title>
 		<link>https://woostify.com/demos/watch/retro-fashion-a-look-back-to-1990s-copy/</link>
 		<pubDate>Wed, 08 May 2019 04:07:14 +0000</pubDate>
@@ -7925,14 +7878,6 @@ I’ve arrived on time to every lesson I’ve had to teach this year, bar one.&n
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[1064]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_pingme]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_encloseme]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:comment>
 			<wp:comment_id>52</wp:comment_id>
@@ -10048,215 +9993,168 @@ I’ve arrived on time to every lesson I’ve had to teach this year, bar one.&n
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Trendy watch - 1-c, 24mm</title>
-		<link>https://woostify.com/demos/watch/product/trendy-watch/?attribute_pa_image=1-c&#038;attribute_pa_size=24mm</link>
-		<pubDate>Wed, 10 Jul 2019 09:39:45 +0000</pubDate>
+		<title>demo</title>
+		<link>https://woostify.com/demos/watch/demo/</link>
+		<pubDate>Tue, 30 Jul 2019 09:43:00 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
-		<guid isPermaLink="false">https://woostify.com/demos/watch/?post_type=product_variation&#038;p=1465</guid>
+		<guid isPermaLink="false">https://woostify.com/demos/watch/?p=1501</guid>
 		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[image: 1-c, size: 24mm]]></excerpt:encoded>
-		<wp:post_id>1465</wp:post_id>
-		<wp:post_date><![CDATA[2019-07-10 09:39:45]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2019-07-10 09:39:45]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[trendy-watch-6]]></wp:post_name>
+		<content:encoded><![CDATA[<ul data-tiny-slider='{"items":2,"autoplay":true,"autoplayTimeout":5000,"autoplayHoverPause":true,"controls":true,"nav":true,"speed":300,"loop":true,"gutter":15,"mouseDrag":true,"slideBy":1,"responsive":{"768":{"items":3,"gutter":15,"controls":true,"nav":true},"992":{"items":4,"gutter":15,"controls":true,"nav":true}}}'>
+				<li>
+					-13%				
+<a href="/demos/watch/wp-admin/admin-ajax.php?add_to_wishlist=323" rel="nofollow" data-product-id="323" data-product-type="simple" >
+        Add to Wishlist</a>
+<img src="https://woostify.com/demos/watch/wp-content/plugins/yith-woocommerce-wishlist/assets/images/wpspin_light.gif" alt="loading" width="16" height="16" style="visibility:hidden" />
+	        Product added!
+	        <a href="https://woostify.com/demos/watch/product/burberry-t-shirt/" rel="nofollow">
+	            Browse Wishlist	        </a>
+	        The product is already in the wishlist!
+	        <a href="https://woostify.com/demos/watch/product/burberry-t-shirt/" rel="nofollow">
+	            Browse Wishlist	        </a>
+			<a href="https://woostify.com/demos/watch/product/burberry-t-shirt/"><img width="300" height="500" src="https://woostify.com/demos/watch/wp-content/uploads/2019/01/p1-1-1-300x500.jpg" alt="Product image" data-origin_src="https://woostify.com/demos/watch/wp-content/uploads/2019/01/p1-1-1-300x500.jpg" /></a>
+			Quick View
+						<h2>
+				<a href="https://woostify.com/demos/watch/product/burberry-t-shirt/">Cartier Watch</a>			</h2>
+							<del>&pound;40.00</del> <ins>&pound;35.00</ins>
+				</li>
+<li>
+<a href="/demos/watch/wp-admin/admin-ajax.php?add_to_wishlist=1014" rel="nofollow" data-product-id="1014" data-product-type="simple" >
+        Add to Wishlist</a>
+<img src="https://woostify.com/demos/watch/wp-content/plugins/yith-woocommerce-wishlist/assets/images/wpspin_light.gif" alt="loading" width="16" height="16" style="visibility:hidden" />
+	        Product added!
+	        <a href="https://woostify.com/demos/watch/product/movado-sapphire-crystal/" rel="nofollow">
+	            Browse Wishlist	        </a>
+	        The product is already in the wishlist!
+	        <a href="https://woostify.com/demos/watch/product/movado-sapphire-crystal/" rel="nofollow">
+	            Browse Wishlist	        </a>
+			<a href="https://woostify.com/demos/watch/product/movado-sapphire-crystal/"><img width="300" height="500" src="https://woostify.com/demos/watch/wp-content/uploads/2019/01/p2-1-1-300x500.jpg" alt="Product image" data-origin_src="https://woostify.com/demos/watch/wp-content/uploads/2019/01/p2-1-1-300x500.jpg" /></a>
+			Quick View
+						<h2>
+				<a href="https://woostify.com/demos/watch/product/movado-sapphire-crystal/">Movado Sapphire Crystal</a>			</h2>
+							&pound;40.00
+				</li>
+<li>
+<a href="/demos/watch/wp-admin/admin-ajax.php?add_to_wishlist=1033" rel="nofollow" data-product-id="1033" data-product-type="simple" >
+        Add to Wishlist</a>
+<img src="https://woostify.com/demos/watch/wp-content/plugins/yith-woocommerce-wishlist/assets/images/wpspin_light.gif" alt="loading" width="16" height="16" style="visibility:hidden" />
+	        Product added!
+	        <a href="https://woostify.com/demos/watch/product/movado-sapphire-black/" rel="nofollow">
+	            Browse Wishlist	        </a>
+	        The product is already in the wishlist!
+	        <a href="https://woostify.com/demos/watch/product/movado-sapphire-black/" rel="nofollow">
+	            Browse Wishlist	        </a>
+			<a href="https://woostify.com/demos/watch/product/movado-sapphire-black/"><img width="300" height="500" src="https://woostify.com/demos/watch/wp-content/uploads/2019/01/p3-1-1-300x500.jpg" alt="Product image" data-origin_src="https://woostify.com/demos/watch/wp-content/uploads/2019/01/p3-1-1-300x500.jpg" /></a>
+			Quick View
+						<h2>
+				<a href="https://woostify.com/demos/watch/product/movado-sapphire-black/">Movado Sapphire Black</a>			</h2>
+							&pound;40.00
+				</li>
+<li>
+<a href="/demos/watch/wp-admin/admin-ajax.php?add_to_wishlist=1034" rel="nofollow" data-product-id="1034" data-product-type="simple" >
+        Add to Wishlist</a>
+<img src="https://woostify.com/demos/watch/wp-content/plugins/yith-woocommerce-wishlist/assets/images/wpspin_light.gif" alt="loading" width="16" height="16" style="visibility:hidden" />
+	        Product added!
+	        <a href="https://woostify.com/demos/watch/product/movado-se-pilot/" rel="nofollow">
+	            Browse Wishlist	        </a>
+	        The product is already in the wishlist!
+	        <a href="https://woostify.com/demos/watch/product/movado-se-pilot/" rel="nofollow">
+	            Browse Wishlist	        </a>
+			<a href="https://woostify.com/demos/watch/product/movado-se-pilot/"><img width="300" height="500" src="https://woostify.com/demos/watch/wp-content/uploads/2019/01/p4-1-1-300x500.jpg" alt="Product image" data-origin_src="https://woostify.com/demos/watch/wp-content/uploads/2019/01/p4-1-1-300x500.jpg" /></a>
+			Quick View
+						<h2>
+				<a href="https://woostify.com/demos/watch/product/movado-se-pilot/">Movado Se Pilot</a>			</h2>
+							&pound;40.00
+				</li>
+<li>
+<a href="/demos/watch/wp-admin/admin-ajax.php?add_to_wishlist=1035" rel="nofollow" data-product-id="1035" data-product-type="variable" >
+        Add to Wishlist</a>
+<img src="https://woostify.com/demos/watch/wp-content/plugins/yith-woocommerce-wishlist/assets/images/wpspin_light.gif" alt="loading" width="16" height="16" style="visibility:hidden" />
+	        Product added!
+	        <a href="https://woostify.com/demos/watch/product/movado-stainless-steel/" rel="nofollow">
+	            Browse Wishlist	        </a>
+	        The product is already in the wishlist!
+	        <a href="https://woostify.com/demos/watch/product/movado-stainless-steel/" rel="nofollow">
+	            Browse Wishlist	        </a>
+			<a href="https://woostify.com/demos/watch/product/movado-stainless-steel/"><img width="300" height="500" src="https://woostify.com/demos/watch/wp-content/uploads/2019/01/p5-1-1-300x500.jpg" alt="Product image" data-origin_src="https://woostify.com/demos/watch/wp-content/uploads/2019/01/p5-1-1-300x500.jpg" /></a>
+			Quick View
+						<h2>
+				<a href="https://woostify.com/demos/watch/product/movado-stainless-steel/">Movado Stainless Steel</a>			</h2>
+							&pound;110.00 &ndash; &pound;125.00
+				</li>
+<li>
+<a href="/demos/watch/wp-admin/admin-ajax.php?add_to_wishlist=1058" rel="nofollow" data-product-id="1058" data-product-type="simple" >
+        Add to Wishlist</a>
+<img src="https://woostify.com/demos/watch/wp-content/plugins/yith-woocommerce-wishlist/assets/images/wpspin_light.gif" alt="loading" width="16" height="16" style="visibility:hidden" />
+	        Product added!
+	        <a href="https://woostify.com/demos/watch/product/circa-innovation/" rel="nofollow">
+	            Browse Wishlist	        </a>
+	        The product is already in the wishlist!
+	        <a href="https://woostify.com/demos/watch/product/circa-innovation/" rel="nofollow">
+	            Browse Wishlist	        </a>
+			<a href="https://woostify.com/demos/watch/product/circa-innovation/"><img width="300" height="500" src="https://woostify.com/demos/watch/wp-content/uploads/2019/01/p6-1-1-300x500.jpg" alt="Product image" data-origin_src="https://woostify.com/demos/watch/wp-content/uploads/2019/01/p6-1-1-300x500.jpg" /></a>
+			Quick View
+						<h2>
+				<a href="https://woostify.com/demos/watch/product/circa-innovation/">Circa Innovation</a>			</h2>
+							&pound;180.00
+				</li>
+			</ul>]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>1501</wp:post_id>
+		<wp:post_date><![CDATA[2019-07-30 09:43:00]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2019-07-30 09:43:00]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[demo]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>1385</wp:post_parent>
+		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[product_variation]]></wp:post_type>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-														<wp:postmeta>
-		<wp:meta_key><![CDATA[_variation_description]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
+										<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[total_sales]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		<wp:meta_key><![CDATA[site-container]]></wp:meta_key>
+		<wp:meta_value><![CDATA[default]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_tax_status]]></wp:meta_key>
-		<wp:meta_value><![CDATA[taxable]]></wp:meta_value>
+		<wp:meta_key><![CDATA[site-header-transparent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[default]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_tax_class]]></wp:meta_key>
-		<wp:meta_value><![CDATA[parent]]></wp:meta_value>
+		<wp:meta_key><![CDATA[site-page-header]]></wp:meta_key>
+		<wp:meta_value><![CDATA[default]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_manage_stock]]></wp:meta_key>
-		<wp:meta_value><![CDATA[no]]></wp:meta_value>
+		<wp:meta_key><![CDATA[site-sidebar]]></wp:meta_key>
+		<wp:meta_value><![CDATA[default]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_backorders]]></wp:meta_key>
-		<wp:meta_value><![CDATA[no]]></wp:meta_value>
+		<wp:meta_key><![CDATA[_elementor_edit_mode]]></wp:meta_key>
+		<wp:meta_value><![CDATA[builder]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_sold_individually]]></wp:meta_key>
-		<wp:meta_value><![CDATA[no]]></wp:meta_value>
+		<wp:meta_key><![CDATA[_elementor_template_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[post]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_virtual]]></wp:meta_key>
-		<wp:meta_value><![CDATA[no]]></wp:meta_value>
+		<wp:meta_key><![CDATA[_elementor_version]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2.6.6]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_downloadable]]></wp:meta_key>
-		<wp:meta_value><![CDATA[no]]></wp:meta_value>
+		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+		<wp:meta_value><![CDATA[default]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_download_limit]]></wp:meta_key>
-		<wp:meta_value><![CDATA[-1]]></wp:meta_value>
+		<wp:meta_key><![CDATA[_elementor_elements_usage]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:3:{s:23:"woostify-product-slider";i:1;s:6:"column";i:1;s:7:"section";i:1;}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_download_expiry]]></wp:meta_key>
-		<wp:meta_value><![CDATA[-1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_stock]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_stock_status]]></wp:meta_key>
-		<wp:meta_value><![CDATA[instock]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wc_average_rating]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wc_review_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[attribute_pa_image]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1-c]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[attribute_pa_size]]></wp:meta_key>
-		<wp:meta_value><![CDATA[24mm]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_product_version]]></wp:meta_key>
-		<wp:meta_value><![CDATA[3.6.5]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_regular_price]]></wp:meta_key>
-		<wp:meta_value><![CDATA[205]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1390]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_price]]></wp:meta_key>
-		<wp:meta_value><![CDATA[205]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title>Trendy watch - 1-b, 26mm</title>
-		<link>https://woostify.com/demos/watch/product/trendy-watch/?attribute_pa_image=1-b&#038;attribute_pa_size=26mm</link>
-		<pubDate>Wed, 10 Jul 2019 09:39:47 +0000</pubDate>
-		<dc:creator><![CDATA[woostify]]></dc:creator>
-		<guid isPermaLink="false">https://woostify.com/demos/watch/?post_type=product_variation&#038;p=1466</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[image: 1-b, size: 26mm]]></excerpt:encoded>
-		<wp:post_id>1466</wp:post_id>
-		<wp:post_date><![CDATA[2019-07-10 09:39:47]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2019-07-10 09:39:47]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[trendy-watch-7]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>1385</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[product_variation]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														<wp:postmeta>
-		<wp:meta_key><![CDATA[_variation_description]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[total_sales]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_tax_status]]></wp:meta_key>
-		<wp:meta_value><![CDATA[taxable]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_tax_class]]></wp:meta_key>
-		<wp:meta_value><![CDATA[parent]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_manage_stock]]></wp:meta_key>
-		<wp:meta_value><![CDATA[no]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_backorders]]></wp:meta_key>
-		<wp:meta_value><![CDATA[no]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_sold_individually]]></wp:meta_key>
-		<wp:meta_value><![CDATA[no]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_virtual]]></wp:meta_key>
-		<wp:meta_value><![CDATA[no]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_downloadable]]></wp:meta_key>
-		<wp:meta_value><![CDATA[no]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_download_limit]]></wp:meta_key>
-		<wp:meta_value><![CDATA[-1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_download_expiry]]></wp:meta_key>
-		<wp:meta_value><![CDATA[-1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_stock]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_stock_status]]></wp:meta_key>
-		<wp:meta_value><![CDATA[instock]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wc_average_rating]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wc_review_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[attribute_pa_image]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1-b]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[attribute_pa_size]]></wp:meta_key>
-		<wp:meta_value><![CDATA[26mm]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_product_version]]></wp:meta_key>
-		<wp:meta_value><![CDATA[3.6.5]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_regular_price]]></wp:meta_key>
-		<wp:meta_value><![CDATA[195]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1389]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_price]]></wp:meta_key>
-		<wp:meta_value><![CDATA[195]]></wp:meta_value>
+		<wp:meta_key><![CDATA[_elementor_data]]></wp:meta_key>
+		<wp:meta_value><![CDATA[[{"id":"cbdd7a2","elType":"section","settings":[],"elements":[{"id":"91c3707","elType":"column","settings":{"_column_size":100},"elements":[{"id":"59a1620","elType":"widget","settings":[],"elements":[],"widgetType":"woostify-product-slider"}],"isInner":false}],"isInner":false}]]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -10508,15 +10406,87 @@ This e-mail was sent from a contact form on Ankle (https://woostify.com/demos/wa
 		<dc:creator><![CDATA[]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/watch/?post_type=side_guide&#038;p=824</guid>
 		<description></description>
-		<content:encoded><![CDATA[<h2>Size Guide</h2>		
-		<p>Lorem ipsum dolor sit amet, sumo expetenda consequuntur an eum.</p>		
-			<h2>Watch Case Diameter by Gender</h2>		
-									<a href="">Men's Size</a>
-									<a href="">Women's Size</a>
-									Men's Size
-					<table><tbody><tr><td>Size (mm)</td><td>38</td><td>40</td><td>42</td><td>44</td><td>46</td><td>48</td><td>50</td><td>52</td><td>54</td></tr><tr><td>wire lenght (cm)</td><td>3.80</td><td>4.0</td><td>4.20</td><td>4.40</td><td>4.60</td><td>4.80</td><td>5.0</td><td>5.20</td><td>5.40</td></tr><tr><td>Face Watch (in)</td><td>1.50</td><td>1.57</td><td>1.65</td><td>1.73</td><td>1.81</td><td>1.89</td><td>1.97</td><td>2.05</td><td>2.20</td></tr></tbody></table>
-									Women's Size
-					<table><tbody><tr><td>Size (mm)</td><td>22</td><td>24</td><td>26</td><td>28</td><td>30</td><td>32</td><td>34</td></tr><tr><td>Wire lenght (cm)</td><td>2.20</td><td>2.40</td><td>2.60</td><td>2.80</td><td>3.0</td><td>3.20</td><td>3.40</td></tr><tr><td>Face watch (in)</td><td>0.87</td><td>0.94</td><td>1.02</td><td>1.10</td><td>1.18</td><td>1.26</td><td>1.34</td></tr></tbody></table>]]></content:encoded>
+		<content:encoded><![CDATA[<h2>Size Guide</h2>
+Lorem ipsum dolor sit amet, sumo expetenda consequuntur an eum.
+<h2>Watch Case Diameter by Gender</h2>
+<a href="">Men's Size</a>
+<a href="">Women's Size</a>
+Men's Size
+<table>
+<tbody>
+<tr>
+<td>Size (mm)</td>
+<td>38</td>
+<td>40</td>
+<td>42</td>
+<td>44</td>
+<td>46</td>
+<td>48</td>
+<td>50</td>
+<td>52</td>
+<td>54</td>
+</tr>
+<tr>
+<td>wire lenght (cm)</td>
+<td>3.80</td>
+<td>4.0</td>
+<td>4.20</td>
+<td>4.40</td>
+<td>4.60</td>
+<td>4.80</td>
+<td>5.0</td>
+<td>5.20</td>
+<td>5.40</td>
+</tr>
+<tr>
+<td>Face Watch (in)</td>
+<td>1.50</td>
+<td>1.57</td>
+<td>1.65</td>
+<td>1.73</td>
+<td>1.81</td>
+<td>1.89</td>
+<td>1.97</td>
+<td>2.05</td>
+<td>2.20</td>
+</tr>
+</tbody>
+</table>
+Women's Size
+<table>
+<tbody>
+<tr>
+<td>Size (mm)</td>
+<td>22</td>
+<td>24</td>
+<td>26</td>
+<td>28</td>
+<td>30</td>
+<td>32</td>
+<td>34</td>
+</tr>
+<tr>
+<td>Wire lenght (cm)</td>
+<td>2.20</td>
+<td>2.40</td>
+<td>2.60</td>
+<td>2.80</td>
+<td>3.0</td>
+<td>3.20</td>
+<td>3.40</td>
+</tr>
+<tr>
+<td>Face watch (in)</td>
+<td>0.87</td>
+<td>0.94</td>
+<td>1.02</td>
+<td>1.10</td>
+<td>1.18</td>
+<td>1.26</td>
+<td>1.34</td>
+</tr>
+</tbody>
+</table>]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>824</wp:post_id>
 		<wp:post_date><![CDATA[2019-05-03 17:43:31]]></wp:post_date>
@@ -10558,24 +10528,28 @@ This e-mail was sent from a contact form on Ankle (https://woostify.com/demos/wa
 		<wp:meta_key><![CDATA[side-guide-default]]></wp:meta_key>
 		<wp:meta_value><![CDATA[on]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[side-guide-for-category]]></wp:meta_key>
+		<wp:meta_value><![CDATA[all]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
-		<title>Circa Innovation</title>
-		<link>https://woostify.com/demos/watch/product/circa-innovation/</link>
-		<pubDate>Fri, 05 Jul 2019 10:32:57 +0000</pubDate>
+		<title>Trendy watch - 1-c, 24mm</title>
+		<link>https://woostify.com/demos/watch/product/trendy-watch/?attribute_pa_image=1-c&#038;attribute_pa_size=24mm</link>
+		<pubDate>Wed, 10 Jul 2019 09:39:45 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
-		<guid isPermaLink="false">https://woostify.com/demos/watch/?post_type=product_variation&#038;p=1232</guid>
+		<guid isPermaLink="false">https://woostify.com/demos/watch/?post_type=product_variation&#038;p=1465</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>1232</wp:post_id>
-		<wp:post_date><![CDATA[2019-07-05 10:32:57]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2019-07-05 10:32:57]]></wp:post_date_gmt>
+		<excerpt:encoded><![CDATA[image: 1-c, size: 24mm]]></excerpt:encoded>
+		<wp:post_id>1465</wp:post_id>
+		<wp:post_date><![CDATA[2019-07-10 09:39:45]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2019-07-10 09:39:45]]></wp:post_date_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[circa-innovation__trashed]]></wp:post_name>
-		<wp:status><![CDATA[trash]]></wp:status>
-		<wp:post_parent>1058</wp:post_parent>
+		<wp:post_name><![CDATA[trendy-watch-6]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>1385</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
 		<wp:post_type><![CDATA[product_variation]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
@@ -10641,51 +10615,47 @@ This e-mail was sent from a contact form on Ankle (https://woostify.com/demos/wa
 		<wp:meta_value><![CDATA[0]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[attribute_pa_color]]></wp:meta_key>
-		<wp:meta_value><![CDATA[white]]></wp:meta_value>
+		<wp:meta_key><![CDATA[attribute_pa_image]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1-c]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[attribute_pa_size]]></wp:meta_key>
+		<wp:meta_value><![CDATA[24mm]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_product_version]]></wp:meta_key>
-		<wp:meta_value><![CDATA[3.6.4]]></wp:meta_value>
+		<wp:meta_value><![CDATA[3.6.5]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_regular_price]]></wp:meta_key>
-		<wp:meta_value><![CDATA[120]]></wp:meta_value>
+		<wp:meta_value><![CDATA[205]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1390]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_price]]></wp:meta_key>
-		<wp:meta_value><![CDATA[120]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_trash_meta_status]]></wp:meta_key>
-		<wp:meta_value><![CDATA[publish]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_trash_meta_time]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1562753570]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_desired_post_slug]]></wp:meta_key>
-		<wp:meta_value><![CDATA[circa-innovation]]></wp:meta_value>
+		<wp:meta_value><![CDATA[205]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Circa Innovation</title>
-		<link>https://woostify.com/demos/watch/product/circa-innovation/</link>
-		<pubDate>Fri, 05 Jul 2019 10:32:59 +0000</pubDate>
+		<title>Trendy watch - 1-b, 26mm</title>
+		<link>https://woostify.com/demos/watch/product/trendy-watch/?attribute_pa_image=1-b&#038;attribute_pa_size=26mm</link>
+		<pubDate>Wed, 10 Jul 2019 09:39:47 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
-		<guid isPermaLink="false">https://woostify.com/demos/watch/?post_type=product_variation&#038;p=1233</guid>
+		<guid isPermaLink="false">https://woostify.com/demos/watch/?post_type=product_variation&#038;p=1466</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>1233</wp:post_id>
-		<wp:post_date><![CDATA[2019-07-05 10:32:59]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2019-07-05 10:32:59]]></wp:post_date_gmt>
+		<excerpt:encoded><![CDATA[image: 1-b, size: 26mm]]></excerpt:encoded>
+		<wp:post_id>1466</wp:post_id>
+		<wp:post_date><![CDATA[2019-07-10 09:39:47]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2019-07-10 09:39:47]]></wp:post_date_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[circa-innovation-2__trashed]]></wp:post_name>
-		<wp:status><![CDATA[trash]]></wp:status>
-		<wp:post_parent>1058</wp:post_parent>
+		<wp:post_name><![CDATA[trendy-watch-7]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>1385</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
 		<wp:post_type><![CDATA[product_variation]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
@@ -10751,252 +10721,28 @@ This e-mail was sent from a contact form on Ankle (https://woostify.com/demos/wa
 		<wp:meta_value><![CDATA[0]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[attribute_pa_color]]></wp:meta_key>
-		<wp:meta_value><![CDATA[gray]]></wp:meta_value>
+		<wp:meta_key><![CDATA[attribute_pa_image]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1-b]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[attribute_pa_size]]></wp:meta_key>
+		<wp:meta_value><![CDATA[26mm]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_product_version]]></wp:meta_key>
-		<wp:meta_value><![CDATA[3.6.4]]></wp:meta_value>
+		<wp:meta_value><![CDATA[3.6.5]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_regular_price]]></wp:meta_key>
-		<wp:meta_value><![CDATA[140]]></wp:meta_value>
+		<wp:meta_value><![CDATA[195]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1389]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_price]]></wp:meta_key>
-		<wp:meta_value><![CDATA[140]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_trash_meta_status]]></wp:meta_key>
-		<wp:meta_value><![CDATA[publish]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_trash_meta_time]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1562753570]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_desired_post_slug]]></wp:meta_key>
-		<wp:meta_value><![CDATA[circa-innovation-2]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title>Circa Innovation</title>
-		<link>https://woostify.com/demos/watch/product/circa-innovation/</link>
-		<pubDate>Fri, 05 Jul 2019 10:33:00 +0000</pubDate>
-		<dc:creator><![CDATA[woostify]]></dc:creator>
-		<guid isPermaLink="false">https://woostify.com/demos/watch/?post_type=product_variation&#038;p=1234</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>1234</wp:post_id>
-		<wp:post_date><![CDATA[2019-07-05 10:33:00]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2019-07-05 10:33:00]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[circa-innovation-3__trashed]]></wp:post_name>
-		<wp:status><![CDATA[trash]]></wp:status>
-		<wp:post_parent>1058</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[product_variation]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														<wp:postmeta>
-		<wp:meta_key><![CDATA[_variation_description]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[total_sales]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_tax_status]]></wp:meta_key>
-		<wp:meta_value><![CDATA[taxable]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_tax_class]]></wp:meta_key>
-		<wp:meta_value><![CDATA[parent]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_manage_stock]]></wp:meta_key>
-		<wp:meta_value><![CDATA[no]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_backorders]]></wp:meta_key>
-		<wp:meta_value><![CDATA[no]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_sold_individually]]></wp:meta_key>
-		<wp:meta_value><![CDATA[no]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_virtual]]></wp:meta_key>
-		<wp:meta_value><![CDATA[no]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_downloadable]]></wp:meta_key>
-		<wp:meta_value><![CDATA[no]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_download_limit]]></wp:meta_key>
-		<wp:meta_value><![CDATA[-1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_download_expiry]]></wp:meta_key>
-		<wp:meta_value><![CDATA[-1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_stock]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_stock_status]]></wp:meta_key>
-		<wp:meta_value><![CDATA[instock]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wc_average_rating]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wc_review_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[attribute_pa_color]]></wp:meta_key>
-		<wp:meta_value><![CDATA[gold]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_product_version]]></wp:meta_key>
-		<wp:meta_value><![CDATA[3.6.4]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_regular_price]]></wp:meta_key>
-		<wp:meta_value><![CDATA[150]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_price]]></wp:meta_key>
-		<wp:meta_value><![CDATA[150]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_trash_meta_status]]></wp:meta_key>
-		<wp:meta_value><![CDATA[publish]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_trash_meta_time]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1562753569]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_desired_post_slug]]></wp:meta_key>
-		<wp:meta_value><![CDATA[circa-innovation-3]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title>Circa Innovation</title>
-		<link>https://woostify.com/demos/watch/product/circa-innovation/</link>
-		<pubDate>Fri, 05 Jul 2019 10:33:02 +0000</pubDate>
-		<dc:creator><![CDATA[woostify]]></dc:creator>
-		<guid isPermaLink="false">https://woostify.com/demos/watch/?post_type=product_variation&#038;p=1235</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>1235</wp:post_id>
-		<wp:post_date><![CDATA[2019-07-05 10:33:02]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2019-07-05 10:33:02]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[circa-innovation-4__trashed]]></wp:post_name>
-		<wp:status><![CDATA[trash]]></wp:status>
-		<wp:post_parent>1058</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[product_variation]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														<wp:postmeta>
-		<wp:meta_key><![CDATA[_variation_description]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[total_sales]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_tax_status]]></wp:meta_key>
-		<wp:meta_value><![CDATA[taxable]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_tax_class]]></wp:meta_key>
-		<wp:meta_value><![CDATA[parent]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_manage_stock]]></wp:meta_key>
-		<wp:meta_value><![CDATA[no]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_backorders]]></wp:meta_key>
-		<wp:meta_value><![CDATA[no]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_sold_individually]]></wp:meta_key>
-		<wp:meta_value><![CDATA[no]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_virtual]]></wp:meta_key>
-		<wp:meta_value><![CDATA[no]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_downloadable]]></wp:meta_key>
-		<wp:meta_value><![CDATA[no]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_download_limit]]></wp:meta_key>
-		<wp:meta_value><![CDATA[-1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_download_expiry]]></wp:meta_key>
-		<wp:meta_value><![CDATA[-1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_stock]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_stock_status]]></wp:meta_key>
-		<wp:meta_value><![CDATA[instock]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wc_average_rating]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wc_review_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[attribute_pa_color]]></wp:meta_key>
-		<wp:meta_value><![CDATA[black]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_product_version]]></wp:meta_key>
-		<wp:meta_value><![CDATA[3.6.4]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_regular_price]]></wp:meta_key>
-		<wp:meta_value><![CDATA[165]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_price]]></wp:meta_key>
-		<wp:meta_value><![CDATA[165]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_trash_meta_status]]></wp:meta_key>
-		<wp:meta_value><![CDATA[publish]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_trash_meta_time]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1562753569]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_desired_post_slug]]></wp:meta_key>
-		<wp:meta_value><![CDATA[circa-innovation-4]]></wp:meta_value>
+		<wp:meta_value><![CDATA[195]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>

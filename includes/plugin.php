@@ -2,30 +2,56 @@
 
 function woostify_site_plugin($selected_import_index)
 {
-		$default = array(
-			array(
-				'name'     => 'WooCommerce',
-				'slug'     => 'woocommerce',
-				'required' => true,
-			),
-			array(
-				'name'     => 'Elementor',
-				'slug'     => 'elementor',
-			),
-			array(
-				'name'     => 'Contact Form 7',
-				'slug'     => 'contact-form-7',
-			),
-			array(
-				'name'     => 'Variation Swatches',
-				'slug'     => 'variation-swatches-for-woocommerce',
-				'required' => false,
-			),
-		);
-		$added = array();
+		if ( $selected_import_index == 14 || $selected_import_index == 15 ) {
+			$default = array(
+				array(
+					'name'     => 'WooCommerce',
+					'slug'     => 'woocommerce',
+					'required' => true,
+				),
+				array(
+					'name'     => 'Brizy',
+					'slug'     => 'brizy',
+					'required' => false,
+				),
+				array(
+					'name'     => 'Contact Form 7',
+					'slug'     => 'contact-form-7',
+				),
+				array(
+					'name'     => 'Variation Swatches',
+					'slug'     => 'variation-swatches-for-woocommerce',
+					'required' => false,
+				),
+			);
+			$added = array();
+
+		}else {
+			$default = array(
+				array(
+					'name'     => 'WooCommerce',
+					'slug'     => 'woocommerce',
+					'required' => true,
+				),
+				array(
+					'name'     => 'Elementor',
+					'slug'     => 'elementor',
+				),
+				array(
+					'name'     => 'Contact Form 7',
+					'slug'     => 'contact-form-7',
+				),
+				array(
+					'name'     => 'Variation Swatches',
+					'slug'     => 'variation-swatches-for-woocommerce',
+					'required' => false,
+				),
+			);
+			$added = array();
+		}
 
 		// This required Plugin Demmo 1 Fashion, Yoga, Vogue, Lenvision
-		if ( $selected_import_index == 0 || $selected_import_index == 1 || $selected_import_index == 2 || $selected_import_index == 3) {
+		if ( $selected_import_index == 0 || $selected_import_index == 1 || $selected_import_index == 2 || $selected_import_index == 3 || $selected_import_index == 14) {
 			$added = array(
 				array(
 					'name'     => 'Instagram Feed',
