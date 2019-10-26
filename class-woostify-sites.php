@@ -2310,6 +2310,7 @@ class Woostify_Sites {
 
 		// Get menus
 		$locations['primary']     = $this->woostify_sites_get_menu_by_name( $selected_demo['primary_menu'] );
+		$locations['vertical']     = $this->woostify_sites_get_menu_by_name( $selected_demo['vertical_menu'] );
 		$locations['footer_menu'] = $this->woostify_sites_get_menu_by_name( $selected_demo['footer_menu'] );
 
 		// Loop through our nav menus.
