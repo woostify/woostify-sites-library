@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/5.3" created="2019-11-23 02:41" -->
+	<!-- generator="WordPress/5.3" created="2019-12-04 02:33" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
 	<title>Voge</title>
 	<link>https://woostify.com/demos/pro/fashion3</link>
 	<description>Just another Woostify Sites site</description>
-	<pubDate>Sat, 23 Nov 2019 02:41:42 +0000</pubDate>
+	<pubDate>Wed, 04 Dec 2019 02:33:54 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>http://woostify.com/demos/pro/</wp:base_site_url>
@@ -1491,10 +1491,8 @@
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/fashion3/wp-content/uploads/2019/01/vogue-slide1.jpg</guid>
 		<description></description>
-		<content:encoded><![CDATA[
-						]]></content:encoded>
-		<excerpt:encoded><![CDATA[
-						]]></excerpt:encoded>
+		<content:encoded><![CDATA[						]]></content:encoded>
+		<excerpt:encoded><![CDATA[						]]></excerpt:encoded>
 		<wp:post_id>390</wp:post_id>
 		<wp:post_date><![CDATA[2019-01-21 05:58:05]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-01-21 05:58:05]]></wp:post_date_gmt>
@@ -2355,10 +2353,8 @@
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/fashion3/wp-content/uploads/2019/01/vogue-slide2.jpg</guid>
 		<description></description>
-		<content:encoded><![CDATA[
-						]]></content:encoded>
-		<excerpt:encoded><![CDATA[
-						]]></excerpt:encoded>
+		<content:encoded><![CDATA[						]]></content:encoded>
+		<excerpt:encoded><![CDATA[						]]></excerpt:encoded>
 		<wp:post_id>433</wp:post_id>
 		<wp:post_date><![CDATA[2019-01-21 07:53:43]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-01-21 07:53:43]]></wp:post_date_gmt>
@@ -2961,10 +2957,8 @@
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/fashion3/wp-content/uploads/2019/03/vogue-for-her-1.jpg</guid>
 		<description></description>
-		<content:encoded><![CDATA[
-						]]></content:encoded>
-		<excerpt:encoded><![CDATA[
-						]]></excerpt:encoded>
+		<content:encoded><![CDATA[						]]></content:encoded>
+		<excerpt:encoded><![CDATA[						]]></excerpt:encoded>
 		<wp:post_id>556</wp:post_id>
 		<wp:post_date><![CDATA[2019-03-06 07:02:49]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-03-06 07:02:49]]></wp:post_date_gmt>
@@ -4196,10 +4190,8 @@
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/fashion3/wp-content/uploads/2019/03/vog-logo.png</guid>
 		<description></description>
-		<content:encoded><![CDATA[
-						]]></content:encoded>
-		<excerpt:encoded><![CDATA[
-						]]></excerpt:encoded>
+		<content:encoded><![CDATA[						]]></content:encoded>
+		<excerpt:encoded><![CDATA[						]]></excerpt:encoded>
 		<wp:post_id>634</wp:post_id>
 		<wp:post_date><![CDATA[2019-03-22 08:43:36]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-03-22 08:43:36]]></wp:post_date_gmt>
@@ -7059,304 +7051,171 @@ Commenter avatars come from <a href="https://gravatar.com">Gravatar</a>.]]></wp:
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/fashion3/?page_id=11</guid>
 		<description></description>
-		<content:encoded><![CDATA[
-				<h2>Winter Season Ready To Wear</h2>
+		<content:encoded><![CDATA[<h2>Winter Season Ready To Wear</h2>
 																		Sale up to 50% of all items. Money-back guarantee.
-																					<a href="https://woostify.com/demos/fashion3/shop/">Check Now</a>
+																					<a href="https://woostify.com/demos/pro/fashion3/shop/">Check Now</a>
 																			<h2>Ecologically Grown Cotton</h2>
 																		Perfect item for coming summer
-																					<a href="https://woostify.com/demos/fashion3/shop/">Shop Now</a>
+																					<a href="https://woostify.com/demos/pro/fashion3/shop/">Shop Now</a>
 			<h3>New Arrivals</h3>		
-			<ul>
+					<ul>
+		<li>
+				-13%			
+	<a href="javascript:void(0)" data-tinv-wl-list="[{&quot;ID&quot;:1,&quot;title&quot;:&quot;Default wishlist&quot;,&quot;url&quot;:&quot;https://woostify.com/demos/pro/fashion3/wishlist/79717D/&quot;,&quot;in&quot;:false}]" data-tinv-wl-product="323" data-tinv-wl-productvariation="0" data-tinv-wl-producttype="simple" data-tinv-wl-action="addto" rel="nofollow">Add to Wishlist</a>		Add to Wishlist
+		<a href="https://woostify.com/demos/pro/fashion3/product/burberry-t-shirt/">				
+			<img width="300" height="300" src="https://woostify.com/demos/pro/fashion3/wp-content/uploads/sites/3/2019/01/7-1-1-300x300.jpg" alt="Product image" data-src="https://woostify.com/demos/pro/fashion3/wp-content/uploads/sites/3/2019/01/7-1-1-300x300.jpg" srcset="https://woostify.com/demos/pro/fashion3/wp-content/uploads/sites/3/2019/01/7-1-1-300x300.jpg 300w, https://woostify.com/demos/pro/fashion3/wp-content/uploads/sites/3/2019/01/7-1-1-150x150.jpg 150w, https://woostify.com/demos/pro/fashion3/wp-content/uploads/sites/3/2019/01/7-1-1-100x100.jpg 100w" sizes="(max-width: 300px) 100vw, 300px" /></a>		<h2>
+			<a href="https://woostify.com/demos/pro/fashion3/product/burberry-t-shirt/">Burberry T-Shirt</a>		</h2>
+					<del>&pound;40.00</del> <ins>&pound;35.00</ins>
+			<a href="?add-to-cart=323" data-quantity="1" data-product_id="323" data-product_sku="" title="Add &ldquo;Burberry T-Shirt&rdquo; to your cart" rel="nofollow">Add to cart</a>		
+		</li>
 <li>
-					-13%				
-<a href="/demos/fashion3/wp-admin/admin-ajax.php?add_to_wishlist=323" rel="nofollow" data-product-id="323" data-product-type="simple" >
-        Add to Wishlist</a>
-<img src="https://woostify.com/demos/fashion3/wp-content/plugins/yith-woocommerce-wishlist/assets/images/wpspin_light.gif" alt="loading" width="16" height="16" style="visibility:hidden" />
-	        Product added!
-	        <a href="https://woostify.com/demos/fashion3/wishlist/" rel="nofollow">
-	            Browse Wishlist	        </a>
-	        The product is already in the wishlist!
-	        <a href="https://woostify.com/demos/fashion3/wishlist/" rel="nofollow">
-	            Browse Wishlist	        </a>
-			<a href="https://woostify.com/demos/fashion3/product/burberry-t-shirt/"><img width="300" height="300" src="https://woostify.com/demos/fashion3/wp-content/uploads/2019/01/7-1-1-300x300.jpg" alt="Product image" data-origin_src="https://woostify.com/demos/fashion3/wp-content/uploads/2019/01/7-1-1-300x300.jpg" srcset="https://woostify.com/demos/fashion3/wp-content/uploads/2019/01/7-1-1-300x300.jpg 300w, https://woostify.com/demos/fashion3/wp-content/uploads/2019/01/7-1-1-150x150.jpg 150w, https://woostify.com/demos/fashion3/wp-content/uploads/2019/01/7-1-1-100x100.jpg 100w" sizes="(max-width: 300px) 100vw, 300px" />					
-				</a>			<h2>
-				<a href="https://woostify.com/demos/fashion3/product/burberry-t-shirt/">Burberry T-Shirt</a>			</h2>
-							<del>&#036;40.00</del> <ins>&#036;35.00</ins>
-				<a href="/demos/fashion3/wp-admin/admin-ajax.php?add-to-cart=323" data-quantity="1" data-product_id="323" data-product_sku="" aria-label="Add &ldquo;Burberry T-Shirt&rdquo; to your cart" rel="nofollow">Add to cart</a></li>
+	<a href="javascript:void(0)" data-tinv-wl-list="[{&quot;ID&quot;:1,&quot;title&quot;:&quot;Default wishlist&quot;,&quot;url&quot;:&quot;https://woostify.com/demos/pro/fashion3/wishlist/79717D/&quot;,&quot;in&quot;:false}]" data-tinv-wl-product="324" data-tinv-wl-productvariation="0" data-tinv-wl-producttype="simple" data-tinv-wl-action="addto" rel="nofollow">Add to Wishlist</a>		Add to Wishlist
+		<a href="https://woostify.com/demos/pro/fashion3/product/sporty-backpack/">				
+			<img width="300" height="300" src="https://woostify.com/demos/pro/fashion3/wp-content/uploads/sites/3/2019/01/6-1-1-300x300.jpg" alt="Product image" data-src="https://woostify.com/demos/pro/fashion3/wp-content/uploads/sites/3/2019/01/6-1-1-300x300.jpg" srcset="https://woostify.com/demos/pro/fashion3/wp-content/uploads/sites/3/2019/01/6-1-1-300x300.jpg 300w, https://woostify.com/demos/pro/fashion3/wp-content/uploads/sites/3/2019/01/6-1-1-150x150.jpg 150w, https://woostify.com/demos/pro/fashion3/wp-content/uploads/sites/3/2019/01/6-1-1-100x100.jpg 100w" sizes="(max-width: 300px) 100vw, 300px" /></a>		<h2>
+			<a href="https://woostify.com/demos/pro/fashion3/product/sporty-backpack/">Sporty Backpack</a>		</h2>
+					&pound;42.00
+			<a href="?add-to-cart=324" data-quantity="1" data-product_id="324" data-product_sku="" title="Add &ldquo;Sporty Backpack&rdquo; to your cart" rel="nofollow">Add to cart</a>		
+		</li>
 <li>
-<a href="/demos/fashion3/wp-admin/admin-ajax.php?add_to_wishlist=324" rel="nofollow" data-product-id="324" data-product-type="simple" >
-        Add to Wishlist</a>
-<img src="https://woostify.com/demos/fashion3/wp-content/plugins/yith-woocommerce-wishlist/assets/images/wpspin_light.gif" alt="loading" width="16" height="16" style="visibility:hidden" />
-	        Product added!
-	        <a href="https://woostify.com/demos/fashion3/wishlist/" rel="nofollow">
-	            Browse Wishlist	        </a>
-	        The product is already in the wishlist!
-	        <a href="https://woostify.com/demos/fashion3/wishlist/" rel="nofollow">
-	            Browse Wishlist	        </a>
-			<a href="https://woostify.com/demos/fashion3/product/sporty-backpack/"><img width="300" height="300" src="https://woostify.com/demos/fashion3/wp-content/uploads/2019/01/6-1-1-300x300.jpg" alt="Product image" data-origin_src="https://woostify.com/demos/fashion3/wp-content/uploads/2019/01/6-1-1-300x300.jpg" srcset="https://woostify.com/demos/fashion3/wp-content/uploads/2019/01/6-1-1-300x300.jpg 300w, https://woostify.com/demos/fashion3/wp-content/uploads/2019/01/6-1-1-150x150.jpg 150w, https://woostify.com/demos/fashion3/wp-content/uploads/2019/01/6-1-1-100x100.jpg 100w" sizes="(max-width: 300px) 100vw, 300px" />					
-				</a>			<h2>
-				<a href="https://woostify.com/demos/fashion3/product/sporty-backpack/">Sporty Backpack</a>			</h2>
-							&#036;42.00
-				<a href="/demos/fashion3/wp-admin/admin-ajax.php?add-to-cart=324" data-quantity="1" data-product_id="324" data-product_sku="" aria-label="Add &ldquo;Sporty Backpack&rdquo; to your cart" rel="nofollow">Add to cart</a></li>
+	<a href="javascript:void(0)" data-tinv-wl-list="[{&quot;ID&quot;:1,&quot;title&quot;:&quot;Default wishlist&quot;,&quot;url&quot;:&quot;https://woostify.com/demos/pro/fashion3/wishlist/79717D/&quot;,&quot;in&quot;:false}]" data-tinv-wl-product="325" data-tinv-wl-productvariation="0" data-tinv-wl-producttype="variable" data-tinv-wl-action="addto" rel="nofollow">Add to Wishlist</a>		Add to Wishlist
+		<a href="https://woostify.com/demos/pro/fashion3/product/freddie-mercury-t-shirt/">				
+			<img width="300" height="300" src="https://woostify.com/demos/pro/fashion3/wp-content/uploads/sites/3/2019/01/5-1-1-300x300.jpg" alt="Product image" data-src="https://woostify.com/demos/pro/fashion3/wp-content/uploads/sites/3/2019/01/5-1-1-300x300.jpg" srcset="https://woostify.com/demos/pro/fashion3/wp-content/uploads/sites/3/2019/01/5-1-1-300x300.jpg 300w, https://woostify.com/demos/pro/fashion3/wp-content/uploads/sites/3/2019/01/5-1-1-150x150.jpg 150w, https://woostify.com/demos/pro/fashion3/wp-content/uploads/sites/3/2019/01/5-1-1-100x100.jpg 100w" sizes="(max-width: 300px) 100vw, 300px" /></a>		<h2>
+			<a href="https://woostify.com/demos/pro/fashion3/product/freddie-mercury-t-shirt/">Freddie Mercury T-Shirt</a>		</h2>
+					&pound;28.00
+			<a href="https://woostify.com/demos/pro/fashion3/product/freddie-mercury-t-shirt/" data-quantity="1" data-product_id="325" data-product_sku="" title="Select options for &ldquo;Freddie Mercury T-Shirt&rdquo;" rel="nofollow">Select options</a>		
+		</li>
 <li>
-<a href="/demos/fashion3/wp-admin/admin-ajax.php?add_to_wishlist=325" rel="nofollow" data-product-id="325" data-product-type="variable" >
-        Add to Wishlist</a>
-<img src="https://woostify.com/demos/fashion3/wp-content/plugins/yith-woocommerce-wishlist/assets/images/wpspin_light.gif" alt="loading" width="16" height="16" style="visibility:hidden" />
-	        Product added!
-	        <a href="https://woostify.com/demos/fashion3/wishlist/" rel="nofollow">
-	            Browse Wishlist	        </a>
-	        The product is already in the wishlist!
-	        <a href="https://woostify.com/demos/fashion3/wishlist/" rel="nofollow">
-	            Browse Wishlist	        </a>
-			<a href="https://woostify.com/demos/fashion3/product/freddie-mercury-t-shirt/"><img width="300" height="300" src="https://woostify.com/demos/fashion3/wp-content/uploads/2019/01/5-1-1-300x300.jpg" alt="Product image" data-origin_src="https://woostify.com/demos/fashion3/wp-content/uploads/2019/01/5-1-1-300x300.jpg" srcset="https://woostify.com/demos/fashion3/wp-content/uploads/2019/01/5-1-1-300x300.jpg 300w, https://woostify.com/demos/fashion3/wp-content/uploads/2019/01/5-1-1-150x150.jpg 150w, https://woostify.com/demos/fashion3/wp-content/uploads/2019/01/5-1-1-100x100.jpg 100w" sizes="(max-width: 300px) 100vw, 300px" />					
-				</a>			<h2>
-				<a href="https://woostify.com/demos/fashion3/product/freddie-mercury-t-shirt/">Freddie Mercury T-Shirt</a>			</h2>
-							&#036;28.00 &ndash; &#036;32.00
-				<a href="https://woostify.com/demos/fashion3/product/freddie-mercury-t-shirt/" data-quantity="1" data-product_id="325" data-product_sku="" aria-label="Select options for &ldquo;Freddie Mercury T-Shirt&rdquo;" rel="nofollow">Select options</a></li>
+	<a href="javascript:void(0)" data-tinv-wl-list="[{&quot;ID&quot;:1,&quot;title&quot;:&quot;Default wishlist&quot;,&quot;url&quot;:&quot;https://woostify.com/demos/pro/fashion3/wishlist/79717D/&quot;,&quot;in&quot;:false}]" data-tinv-wl-product="326" data-tinv-wl-productvariation="0" data-tinv-wl-producttype="variable" data-tinv-wl-action="addto" rel="nofollow">Add to Wishlist</a>		Add to Wishlist
+		<a href="https://woostify.com/demos/pro/fashion3/product/aviator-sunglasses/">				
+			<img width="300" height="300" src="https://woostify.com/demos/pro/fashion3/wp-content/uploads/sites/3/2019/01/4-1-300x300.jpg" alt="Product image" data-src="https://woostify.com/demos/pro/fashion3/wp-content/uploads/sites/3/2019/01/4-1-300x300.jpg" srcset="https://woostify.com/demos/pro/fashion3/wp-content/uploads/sites/3/2019/01/4-1-300x300.jpg 300w, https://woostify.com/demos/pro/fashion3/wp-content/uploads/sites/3/2019/01/4-1-150x150.jpg 150w, https://woostify.com/demos/pro/fashion3/wp-content/uploads/sites/3/2019/01/4-1-100x100.jpg 100w" sizes="(max-width: 300px) 100vw, 300px" /></a>		<h2>
+			<a href="https://woostify.com/demos/pro/fashion3/product/aviator-sunglasses/">Aviator Sunglasses</a>		</h2>
+		PinkOrange			&pound;32.00 &ndash; &pound;35.00
+			<a href="https://woostify.com/demos/pro/fashion3/product/aviator-sunglasses/" data-quantity="1" data-product_id="326" data-product_sku="" title="Select options for &ldquo;Aviator Sunglasses&rdquo;" rel="nofollow">Select options</a>		
+		</li>
 <li>
-<a href="/demos/fashion3/wp-admin/admin-ajax.php?add_to_wishlist=326" rel="nofollow" data-product-id="326" data-product-type="variable" >
-        Add to Wishlist</a>
-<img src="https://woostify.com/demos/fashion3/wp-content/plugins/yith-woocommerce-wishlist/assets/images/wpspin_light.gif" alt="loading" width="16" height="16" style="visibility:hidden" />
-	        Product added!
-	        <a href="https://woostify.com/demos/fashion3/wishlist/" rel="nofollow">
-	            Browse Wishlist	        </a>
-	        The product is already in the wishlist!
-	        <a href="https://woostify.com/demos/fashion3/wishlist/" rel="nofollow">
-	            Browse Wishlist	        </a>
-			<a href="https://woostify.com/demos/fashion3/product/aviator-sunglasses/"><img width="300" height="300" src="https://woostify.com/demos/fashion3/wp-content/uploads/2019/01/4-1-300x300.jpg" alt="Product image" data-origin_src="https://woostify.com/demos/fashion3/wp-content/uploads/2019/01/4-1-300x300.jpg" srcset="https://woostify.com/demos/fashion3/wp-content/uploads/2019/01/4-1-300x300.jpg 300w, https://woostify.com/demos/fashion3/wp-content/uploads/2019/01/4-1-150x150.jpg 150w, https://woostify.com/demos/fashion3/wp-content/uploads/2019/01/4-1-100x100.jpg 100w" sizes="(max-width: 300px) 100vw, 300px" />					
-				</a>			<h2>
-				<a href="https://woostify.com/demos/fashion3/product/aviator-sunglasses/">Aviator Sunglasses</a>			</h2>
-							&#036;32.00 &ndash; &#036;35.00
-				<a href="https://woostify.com/demos/fashion3/product/aviator-sunglasses/" data-quantity="1" data-product_id="326" data-product_sku="" aria-label="Select options for &ldquo;Aviator Sunglasses&rdquo;" rel="nofollow">Select options</a></li>
+				-23%			
+	<a href="javascript:void(0)" data-tinv-wl-list="[{&quot;ID&quot;:1,&quot;title&quot;:&quot;Default wishlist&quot;,&quot;url&quot;:&quot;https://woostify.com/demos/pro/fashion3/wishlist/79717D/&quot;,&quot;in&quot;:false}]" data-tinv-wl-product="327" data-tinv-wl-productvariation="0" data-tinv-wl-producttype="simple" data-tinv-wl-action="addto" rel="nofollow">Add to Wishlist</a>		Add to Wishlist
+		<a href="https://woostify.com/demos/pro/fashion3/product/t-shirt-with-colored-pocket/">				
+			<img width="300" height="300" src="https://woostify.com/demos/pro/fashion3/wp-content/uploads/sites/3/2019/01/3-1-1-300x300.jpg" alt="Product image" data-src="https://woostify.com/demos/pro/fashion3/wp-content/uploads/sites/3/2019/01/3-1-1-300x300.jpg" srcset="https://woostify.com/demos/pro/fashion3/wp-content/uploads/sites/3/2019/01/3-1-1-300x300.jpg 300w, https://woostify.com/demos/pro/fashion3/wp-content/uploads/sites/3/2019/01/3-1-1-150x150.jpg 150w, https://woostify.com/demos/pro/fashion3/wp-content/uploads/sites/3/2019/01/3-1-1-100x100.jpg 100w" sizes="(max-width: 300px) 100vw, 300px" /></a>		<h2>
+			<a href="https://woostify.com/demos/pro/fashion3/product/t-shirt-with-colored-pocket/">T-Shirt With Colored Pocket</a>		</h2>
+		Rated <strong>5.00</strong> out of 5			<del>&pound;35.00</del> <ins>&pound;27.00</ins>
+			<a href="?add-to-cart=327" data-quantity="1" data-product_id="327" data-product_sku="" title="Add &ldquo;T-Shirt With Colored Pocket&rdquo; to your cart" rel="nofollow">Add to cart</a>		
+		</li>
 <li>
-					-23%				
-<a href="/demos/fashion3/wp-admin/admin-ajax.php?add_to_wishlist=327" rel="nofollow" data-product-id="327" data-product-type="simple" >
-        Add to Wishlist</a>
-<img src="https://woostify.com/demos/fashion3/wp-content/plugins/yith-woocommerce-wishlist/assets/images/wpspin_light.gif" alt="loading" width="16" height="16" style="visibility:hidden" />
-	        Product added!
-	        <a href="https://woostify.com/demos/fashion3/wishlist/" rel="nofollow">
-	            Browse Wishlist	        </a>
-	        The product is already in the wishlist!
-	        <a href="https://woostify.com/demos/fashion3/wishlist/" rel="nofollow">
-	            Browse Wishlist	        </a>
-			<a href="https://woostify.com/demos/fashion3/product/t-shirt-with-colored-pocket/"><img width="300" height="300" src="https://woostify.com/demos/fashion3/wp-content/uploads/2019/01/3-1-1-300x300.jpg" alt="Product image" data-origin_src="https://woostify.com/demos/fashion3/wp-content/uploads/2019/01/3-1-1-300x300.jpg" srcset="https://woostify.com/demos/fashion3/wp-content/uploads/2019/01/3-1-1-300x300.jpg 300w, https://woostify.com/demos/fashion3/wp-content/uploads/2019/01/3-1-1-150x150.jpg 150w, https://woostify.com/demos/fashion3/wp-content/uploads/2019/01/3-1-1-100x100.jpg 100w" sizes="(max-width: 300px) 100vw, 300px" />					
-				</a>			<h2>
-				<a href="https://woostify.com/demos/fashion3/product/t-shirt-with-colored-pocket/">T-Shirt With Colored Pocket</a>			</h2>
-			Rated <strong>5.00</strong> out of 5				<del>&#036;35.00</del> <ins>&#036;27.00</ins>
-				<a href="/demos/fashion3/wp-admin/admin-ajax.php?add-to-cart=327" data-quantity="1" data-product_id="327" data-product_sku="" aria-label="Add &ldquo;T-Shirt With Colored Pocket&rdquo; to your cart" rel="nofollow">Add to cart</a></li>
+	<a href="javascript:void(0)" data-tinv-wl-list="[{&quot;ID&quot;:1,&quot;title&quot;:&quot;Default wishlist&quot;,&quot;url&quot;:&quot;https://woostify.com/demos/pro/fashion3/wishlist/79717D/&quot;,&quot;in&quot;:false}]" data-tinv-wl-product="328" data-tinv-wl-productvariation="0" data-tinv-wl-producttype="simple" data-tinv-wl-action="addto" rel="nofollow">Add to Wishlist</a>		Add to Wishlist
+		<a href="https://woostify.com/demos/pro/fashion3/product/trainers-multicolored-pieces/">				
+			<img width="300" height="300" src="https://woostify.com/demos/pro/fashion3/wp-content/uploads/sites/3/2019/01/2-1-1-300x300.jpg" alt="Product image" data-src="https://woostify.com/demos/pro/fashion3/wp-content/uploads/sites/3/2019/01/2-1-1-300x300.jpg" srcset="https://woostify.com/demos/pro/fashion3/wp-content/uploads/sites/3/2019/01/2-1-1-300x300.jpg 300w, https://woostify.com/demos/pro/fashion3/wp-content/uploads/sites/3/2019/01/2-1-1-150x150.jpg 150w, https://woostify.com/demos/pro/fashion3/wp-content/uploads/sites/3/2019/01/2-1-1-100x100.jpg 100w" sizes="(max-width: 300px) 100vw, 300px" /></a>		<h2>
+			<a href="https://woostify.com/demos/pro/fashion3/product/trainers-multicolored-pieces/">Trainers Multicolored Pieces</a>		</h2>
+		Rated <strong>5.00</strong> out of 5			&pound;24.00
+			<a href="?add-to-cart=328" data-quantity="1" data-product_id="328" data-product_sku="" title="Add &ldquo;Trainers Multicolored Pieces&rdquo; to your cart" rel="nofollow">Add to cart</a>		
+		</li>
 <li>
-<a href="/demos/fashion3/wp-admin/admin-ajax.php?add_to_wishlist=328" rel="nofollow" data-product-id="328" data-product-type="simple" >
-        Add to Wishlist</a>
-<img src="https://woostify.com/demos/fashion3/wp-content/plugins/yith-woocommerce-wishlist/assets/images/wpspin_light.gif" alt="loading" width="16" height="16" style="visibility:hidden" />
-	        Product added!
-	        <a href="https://woostify.com/demos/fashion3/wishlist/" rel="nofollow">
-	            Browse Wishlist	        </a>
-	        The product is already in the wishlist!
-	        <a href="https://woostify.com/demos/fashion3/wishlist/" rel="nofollow">
-	            Browse Wishlist	        </a>
-			<a href="https://woostify.com/demos/fashion3/product/trainers-multicolored-pieces/"><img width="300" height="300" src="https://woostify.com/demos/fashion3/wp-content/uploads/2019/01/2-1-1-300x300.jpg" alt="Product image" data-origin_src="https://woostify.com/demos/fashion3/wp-content/uploads/2019/01/2-1-1-300x300.jpg" srcset="https://woostify.com/demos/fashion3/wp-content/uploads/2019/01/2-1-1-300x300.jpg 300w, https://woostify.com/demos/fashion3/wp-content/uploads/2019/01/2-1-1-150x150.jpg 150w, https://woostify.com/demos/fashion3/wp-content/uploads/2019/01/2-1-1-100x100.jpg 100w" sizes="(max-width: 300px) 100vw, 300px" />					
-				</a>			<h2>
-				<a href="https://woostify.com/demos/fashion3/product/trainers-multicolored-pieces/">Trainers Multicolored Pieces</a>			</h2>
-			Rated <strong>5.00</strong> out of 5				&#036;24.00
-				<a href="/demos/fashion3/wp-admin/admin-ajax.php?add-to-cart=328" data-quantity="1" data-product_id="328" data-product_sku="" aria-label="Add &ldquo;Trainers Multicolored Pieces&rdquo; to your cart" rel="nofollow">Add to cart</a></li>
+	<a href="javascript:void(0)" data-tinv-wl-list="[{&quot;ID&quot;:1,&quot;title&quot;:&quot;Default wishlist&quot;,&quot;url&quot;:&quot;https://woostify.com/demos/pro/fashion3/wishlist/79717D/&quot;,&quot;in&quot;:false}]" data-tinv-wl-product="329" data-tinv-wl-productvariation="0" data-tinv-wl-producttype="simple" data-tinv-wl-action="addto" rel="nofollow">Add to Wishlist</a>		Add to Wishlist
+		<a href="https://woostify.com/demos/pro/fashion3/product/jacket-with-side-stripes/">				
+			<img width="300" height="300" src="https://woostify.com/demos/pro/fashion3/wp-content/uploads/sites/3/2019/01/1-1-1-300x300.jpg" alt="Product image" data-src="https://woostify.com/demos/pro/fashion3/wp-content/uploads/sites/3/2019/01/1-1-1-300x300.jpg" srcset="https://woostify.com/demos/pro/fashion3/wp-content/uploads/sites/3/2019/01/1-1-1-300x300.jpg 300w, https://woostify.com/demos/pro/fashion3/wp-content/uploads/sites/3/2019/01/1-1-1-150x150.jpg 150w, https://woostify.com/demos/pro/fashion3/wp-content/uploads/sites/3/2019/01/1-1-1-100x100.jpg 100w" sizes="(max-width: 300px) 100vw, 300px" /></a>		<h2>
+			<a href="https://woostify.com/demos/pro/fashion3/product/jacket-with-side-stripes/">Jacket With Side Stripes</a>		</h2>
+		Rated <strong>4.50</strong> out of 5			&pound;26.00
+			<a href="?add-to-cart=329" data-quantity="1" data-product_id="329" data-product_sku="" title="Add &ldquo;Jacket With Side Stripes&rdquo; to your cart" rel="nofollow">Add to cart</a>		
+		</li>
 <li>
-<a href="/demos/fashion3/wp-admin/admin-ajax.php?add_to_wishlist=329" rel="nofollow" data-product-id="329" data-product-type="simple" >
-        Add to Wishlist</a>
-<img src="https://woostify.com/demos/fashion3/wp-content/plugins/yith-woocommerce-wishlist/assets/images/wpspin_light.gif" alt="loading" width="16" height="16" style="visibility:hidden" />
-	        Product added!
-	        <a href="https://woostify.com/demos/fashion3/wishlist/" rel="nofollow">
-	            Browse Wishlist	        </a>
-	        The product is already in the wishlist!
-	        <a href="https://woostify.com/demos/fashion3/wishlist/" rel="nofollow">
-	            Browse Wishlist	        </a>
-			<a href="https://woostify.com/demos/fashion3/product/jacket-with-side-stripes/"><img width="300" height="300" src="https://woostify.com/demos/fashion3/wp-content/uploads/2019/01/1-1-1-300x300.jpg" alt="Product image" data-origin_src="https://woostify.com/demos/fashion3/wp-content/uploads/2019/01/1-1-1-300x300.jpg" srcset="https://woostify.com/demos/fashion3/wp-content/uploads/2019/01/1-1-1-300x300.jpg 300w, https://woostify.com/demos/fashion3/wp-content/uploads/2019/01/1-1-1-150x150.jpg 150w, https://woostify.com/demos/fashion3/wp-content/uploads/2019/01/1-1-1-100x100.jpg 100w" sizes="(max-width: 300px) 100vw, 300px" />					
-				</a>			<h2>
-				<a href="https://woostify.com/demos/fashion3/product/jacket-with-side-stripes/">Jacket With Side Stripes</a>			</h2>
-			Rated <strong>4.50</strong> out of 5				&#036;26.00
-				<a href="/demos/fashion3/wp-admin/admin-ajax.php?add-to-cart=329" data-quantity="1" data-product_id="329" data-product_sku="" aria-label="Add &ldquo;Jacket With Side Stripes&rdquo; to your cart" rel="nofollow">Add to cart</a></li>
-<li>
-					-13%				
-<a href="/demos/fashion3/wp-admin/admin-ajax.php?add_to_wishlist=432" rel="nofollow" data-product-id="432" data-product-type="simple" >
-        Add to Wishlist</a>
-<img src="https://woostify.com/demos/fashion3/wp-content/plugins/yith-woocommerce-wishlist/assets/images/wpspin_light.gif" alt="loading" width="16" height="16" style="visibility:hidden" />
-	        Product added!
-	        <a href="https://woostify.com/demos/fashion3/wishlist/" rel="nofollow">
-	            Browse Wishlist	        </a>
-	        The product is already in the wishlist!
-	        <a href="https://woostify.com/demos/fashion3/wishlist/" rel="nofollow">
-	            Browse Wishlist	        </a>
-			<a href="https://woostify.com/demos/fashion3/product/parka-with-hood/"><img width="300" height="300" src="https://woostify.com/demos/fashion3/wp-content/uploads/2019/01/8-1-300x300.jpg" alt="Product image" data-origin_src="https://woostify.com/demos/fashion3/wp-content/uploads/2019/01/8-1-300x300.jpg" srcset="https://woostify.com/demos/fashion3/wp-content/uploads/2019/01/8-1-300x300.jpg 300w, https://woostify.com/demos/fashion3/wp-content/uploads/2019/01/8-1-150x150.jpg 150w, https://woostify.com/demos/fashion3/wp-content/uploads/2019/01/8-1-100x100.jpg 100w" sizes="(max-width: 300px) 100vw, 300px" />					
-				</a>			<h2>
-				<a href="https://woostify.com/demos/fashion3/product/parka-with-hood/">Parka With Hood</a>			</h2>
-							<del>&#036;40.00</del> <ins>&#036;35.00</ins>
-				<a href="/demos/fashion3/wp-admin/admin-ajax.php?add-to-cart=432" data-quantity="1" data-product_id="432" data-product_sku="" aria-label="Add &ldquo;Parka With Hood&rdquo; to your cart" rel="nofollow">Add to cart</a></li>
+				-13%			
+	<a href="javascript:void(0)" data-tinv-wl-list="[{&quot;ID&quot;:1,&quot;title&quot;:&quot;Default wishlist&quot;,&quot;url&quot;:&quot;https://woostify.com/demos/pro/fashion3/wishlist/79717D/&quot;,&quot;in&quot;:false}]" data-tinv-wl-product="432" data-tinv-wl-productvariation="0" data-tinv-wl-producttype="simple" data-tinv-wl-action="addto" rel="nofollow">Add to Wishlist</a>		Add to Wishlist
+		<a href="https://woostify.com/demos/pro/fashion3/product/parka-with-hood/">				
+			<img width="300" height="300" src="https://woostify.com/demos/pro/fashion3/wp-content/uploads/sites/3/2019/01/8-1-300x300.jpg" alt="Product image" data-src="https://woostify.com/demos/pro/fashion3/wp-content/uploads/sites/3/2019/01/8-1-300x300.jpg" srcset="https://woostify.com/demos/pro/fashion3/wp-content/uploads/sites/3/2019/01/8-1-300x300.jpg 300w, https://woostify.com/demos/pro/fashion3/wp-content/uploads/sites/3/2019/01/8-1-150x150.jpg 150w, https://woostify.com/demos/pro/fashion3/wp-content/uploads/sites/3/2019/01/8-1-100x100.jpg 100w" sizes="(max-width: 300px) 100vw, 300px" /></a>		<h2>
+			<a href="https://woostify.com/demos/pro/fashion3/product/parka-with-hood/">Parka With Hood</a>		</h2>
+					<del>&pound;40.00</del> <ins>&pound;35.00</ins>
+			<a href="?add-to-cart=432" data-quantity="1" data-product_id="432" data-product_sku="" title="Add &ldquo;Parka With Hood&rdquo; to your cart" rel="nofollow">Add to cart</a>		
+		</li>
 </ul>
 			<h3>Featured Categories</h3>		
-							<a href="https://woostify.com/demos/fashion3/product-category/accessories/bags-backpacks/">
+							<a href="https://woostify.com/demos/pro/fashion3/product-category/accessories/bags-backpacks/">
 								<img src="https://woostify.com/demos/pro/fashion3/wp-content/uploads/sites/3/2019/01/vogue-cat-bag.jpg" alt="Product category image">
 								Bags &amp; Backpacks1 Product									
 																</a>
-							<a href="https://woostify.com/demos/fashion3/product-category/accessories/glasses/">
+							<a href="https://woostify.com/demos/pro/fashion3/product-category/accessories/glasses/">
 								<img src="https://woostify.com/demos/pro/fashion3/wp-content/uploads/sites/3/2019/01/vogue-cat-glasses.jpg" alt="Product category image">
 								Glasses1 Product									
 																</a>
-							<a href="https://woostify.com/demos/fashion3/product-category/shoes/">
+							<a href="https://woostify.com/demos/pro/fashion3/product-category/shoes/">
 								<img src="https://woostify.com/demos/pro/fashion3/wp-content/uploads/sites/3/2019/01/vogue-shoe.jpg" alt="Product category image">
 								Shoes1 Product									
 																</a>
 			<h3>Best Sellers</h3>		
-			<ul data-tiny-slider='{"items":4,"autoplay":"yes","autoplayText":["",""],"autoplayTimeout":5000,"autoplayHoverPause":true,"controls":false,"nav":true,"speed":300,"loop":"","gutter":15,"mouseDrag":true,"autoHeight":true,"responsive":{"240":{"items":2,"gutter":15},"767":{"items":3,"gutter":15},"1024":{"items":"3","gutter":30}}}'>
+			<ul data-tiny-slider='{"items":2,"autoplay":true,"autoplayTimeout":5000,"autoplayHoverPause":true,"controls":false,"nav":true,"speed":300,"loop":false,"gutter":15,"mouseDrag":true,"slideBy":1,"responsive":{"768":{"items":3,"gutter":15,"controls":false,"nav":true},"992":{"items":3,"gutter":30,"controls":false,"nav":true}}}'>
 				<li>
-					-13%				
-<a href="/demos/fashion3/wp-admin/admin-ajax.php?add_to_wishlist=323" rel="nofollow" data-product-id="323" data-product-type="simple" >
-        Add to Wishlist</a>
-<img src="https://woostify.com/demos/fashion3/wp-content/plugins/yith-woocommerce-wishlist/assets/images/wpspin_light.gif" alt="loading" width="16" height="16" style="visibility:hidden" />
-	        Product added!
-	        <a href="https://woostify.com/demos/fashion3/wishlist/" rel="nofollow">
-	            Browse Wishlist	        </a>
-	        The product is already in the wishlist!
-	        <a href="https://woostify.com/demos/fashion3/wishlist/" rel="nofollow">
-	            Browse Wishlist	        </a>
-			<a href="https://woostify.com/demos/fashion3/product/burberry-t-shirt/"><img width="300" height="300" src="https://woostify.com/demos/fashion3/wp-content/uploads/2019/01/7-1-1-300x300.jpg" alt="Product image" data-origin_src="https://woostify.com/demos/fashion3/wp-content/uploads/2019/01/7-1-1-300x300.jpg" srcset="https://woostify.com/demos/fashion3/wp-content/uploads/2019/01/7-1-1-300x300.jpg 300w, https://woostify.com/demos/fashion3/wp-content/uploads/2019/01/7-1-1-150x150.jpg 150w, https://woostify.com/demos/fashion3/wp-content/uploads/2019/01/7-1-1-100x100.jpg 100w" sizes="(max-width: 300px) 100vw, 300px" />					
-				</a>			<h2>
-				<a href="https://woostify.com/demos/fashion3/product/burberry-t-shirt/">Burberry T-Shirt</a>			</h2>
-							<del>&#036;40.00</del> <ins>&#036;35.00</ins>
-				<a href="/demos/fashion3/wp-admin/admin-ajax.php?add-to-cart=323" data-quantity="1" data-product_id="323" data-product_sku="" aria-label="Add &ldquo;Burberry T-Shirt&rdquo; to your cart" rel="nofollow">Add to cart</a></li>
+				-13%			
+	<a href="javascript:void(0)" data-tinv-wl-list="[{&quot;ID&quot;:1,&quot;title&quot;:&quot;Default wishlist&quot;,&quot;url&quot;:&quot;https://woostify.com/demos/pro/fashion3/wishlist/79717D/&quot;,&quot;in&quot;:false}]" data-tinv-wl-product="323" data-tinv-wl-productvariation="0" data-tinv-wl-producttype="simple" data-tinv-wl-action="addto" rel="nofollow">Add to Wishlist</a>		Add to Wishlist
+		<a href="https://woostify.com/demos/pro/fashion3/product/burberry-t-shirt/">				
+			<img width="300" height="300" src="https://woostify.com/demos/pro/fashion3/wp-content/uploads/sites/3/2019/01/7-1-1-300x300.jpg" alt="Product image" data-src="https://woostify.com/demos/pro/fashion3/wp-content/uploads/sites/3/2019/01/7-1-1-300x300.jpg" srcset="https://woostify.com/demos/pro/fashion3/wp-content/uploads/sites/3/2019/01/7-1-1-300x300.jpg 300w, https://woostify.com/demos/pro/fashion3/wp-content/uploads/sites/3/2019/01/7-1-1-150x150.jpg 150w, https://woostify.com/demos/pro/fashion3/wp-content/uploads/sites/3/2019/01/7-1-1-100x100.jpg 100w" sizes="(max-width: 300px) 100vw, 300px" /></a>		<h2>
+			<a href="https://woostify.com/demos/pro/fashion3/product/burberry-t-shirt/">Burberry T-Shirt</a>		</h2>
+					<del>&pound;40.00</del> <ins>&pound;35.00</ins>
+			<a href="?add-to-cart=323" data-quantity="1" data-product_id="323" data-product_sku="" title="Add &ldquo;Burberry T-Shirt&rdquo; to your cart" rel="nofollow">Add to cart</a>		
+		</li>
 <li>
-<a href="/demos/fashion3/wp-admin/admin-ajax.php?add_to_wishlist=324" rel="nofollow" data-product-id="324" data-product-type="simple" >
-        Add to Wishlist</a>
-<img src="https://woostify.com/demos/fashion3/wp-content/plugins/yith-woocommerce-wishlist/assets/images/wpspin_light.gif" alt="loading" width="16" height="16" style="visibility:hidden" />
-	        Product added!
-	        <a href="https://woostify.com/demos/fashion3/wishlist/" rel="nofollow">
-	            Browse Wishlist	        </a>
-	        The product is already in the wishlist!
-	        <a href="https://woostify.com/demos/fashion3/wishlist/" rel="nofollow">
-	            Browse Wishlist	        </a>
-			<a href="https://woostify.com/demos/fashion3/product/sporty-backpack/"><img width="300" height="300" src="https://woostify.com/demos/fashion3/wp-content/uploads/2019/01/6-1-1-300x300.jpg" alt="Product image" data-origin_src="https://woostify.com/demos/fashion3/wp-content/uploads/2019/01/6-1-1-300x300.jpg" srcset="https://woostify.com/demos/fashion3/wp-content/uploads/2019/01/6-1-1-300x300.jpg 300w, https://woostify.com/demos/fashion3/wp-content/uploads/2019/01/6-1-1-150x150.jpg 150w, https://woostify.com/demos/fashion3/wp-content/uploads/2019/01/6-1-1-100x100.jpg 100w" sizes="(max-width: 300px) 100vw, 300px" />					
-				</a>			<h2>
-				<a href="https://woostify.com/demos/fashion3/product/sporty-backpack/">Sporty Backpack</a>			</h2>
-							&#036;42.00
-				<a href="/demos/fashion3/wp-admin/admin-ajax.php?add-to-cart=324" data-quantity="1" data-product_id="324" data-product_sku="" aria-label="Add &ldquo;Sporty Backpack&rdquo; to your cart" rel="nofollow">Add to cart</a></li>
+	<a href="javascript:void(0)" data-tinv-wl-list="[{&quot;ID&quot;:1,&quot;title&quot;:&quot;Default wishlist&quot;,&quot;url&quot;:&quot;https://woostify.com/demos/pro/fashion3/wishlist/79717D/&quot;,&quot;in&quot;:false}]" data-tinv-wl-product="324" data-tinv-wl-productvariation="0" data-tinv-wl-producttype="simple" data-tinv-wl-action="addto" rel="nofollow">Add to Wishlist</a>		Add to Wishlist
+		<a href="https://woostify.com/demos/pro/fashion3/product/sporty-backpack/">				
+			<img width="300" height="300" src="https://woostify.com/demos/pro/fashion3/wp-content/uploads/sites/3/2019/01/6-1-1-300x300.jpg" alt="Product image" data-src="https://woostify.com/demos/pro/fashion3/wp-content/uploads/sites/3/2019/01/6-1-1-300x300.jpg" srcset="https://woostify.com/demos/pro/fashion3/wp-content/uploads/sites/3/2019/01/6-1-1-300x300.jpg 300w, https://woostify.com/demos/pro/fashion3/wp-content/uploads/sites/3/2019/01/6-1-1-150x150.jpg 150w, https://woostify.com/demos/pro/fashion3/wp-content/uploads/sites/3/2019/01/6-1-1-100x100.jpg 100w" sizes="(max-width: 300px) 100vw, 300px" /></a>		<h2>
+			<a href="https://woostify.com/demos/pro/fashion3/product/sporty-backpack/">Sporty Backpack</a>		</h2>
+					&pound;42.00
+			<a href="?add-to-cart=324" data-quantity="1" data-product_id="324" data-product_sku="" title="Add &ldquo;Sporty Backpack&rdquo; to your cart" rel="nofollow">Add to cart</a>		
+		</li>
 <li>
-<a href="/demos/fashion3/wp-admin/admin-ajax.php?add_to_wishlist=325" rel="nofollow" data-product-id="325" data-product-type="variable" >
-        Add to Wishlist</a>
-<img src="https://woostify.com/demos/fashion3/wp-content/plugins/yith-woocommerce-wishlist/assets/images/wpspin_light.gif" alt="loading" width="16" height="16" style="visibility:hidden" />
-	        Product added!
-	        <a href="https://woostify.com/demos/fashion3/wishlist/" rel="nofollow">
-	            Browse Wishlist	        </a>
-	        The product is already in the wishlist!
-	        <a href="https://woostify.com/demos/fashion3/wishlist/" rel="nofollow">
-	            Browse Wishlist	        </a>
-			<a href="https://woostify.com/demos/fashion3/product/freddie-mercury-t-shirt/"><img width="300" height="300" src="https://woostify.com/demos/fashion3/wp-content/uploads/2019/01/5-1-1-300x300.jpg" alt="Product image" data-origin_src="https://woostify.com/demos/fashion3/wp-content/uploads/2019/01/5-1-1-300x300.jpg" srcset="https://woostify.com/demos/fashion3/wp-content/uploads/2019/01/5-1-1-300x300.jpg 300w, https://woostify.com/demos/fashion3/wp-content/uploads/2019/01/5-1-1-150x150.jpg 150w, https://woostify.com/demos/fashion3/wp-content/uploads/2019/01/5-1-1-100x100.jpg 100w" sizes="(max-width: 300px) 100vw, 300px" />					
-				</a>			<h2>
-				<a href="https://woostify.com/demos/fashion3/product/freddie-mercury-t-shirt/">Freddie Mercury T-Shirt</a>			</h2>
-							&#036;28.00 &ndash; &#036;32.00
-				<a href="https://woostify.com/demos/fashion3/product/freddie-mercury-t-shirt/" data-quantity="1" data-product_id="325" data-product_sku="" aria-label="Select options for &ldquo;Freddie Mercury T-Shirt&rdquo;" rel="nofollow">Select options</a></li>
+	<a href="javascript:void(0)" data-tinv-wl-list="[{&quot;ID&quot;:1,&quot;title&quot;:&quot;Default wishlist&quot;,&quot;url&quot;:&quot;https://woostify.com/demos/pro/fashion3/wishlist/79717D/&quot;,&quot;in&quot;:false}]" data-tinv-wl-product="325" data-tinv-wl-productvariation="0" data-tinv-wl-producttype="variable" data-tinv-wl-action="addto" rel="nofollow">Add to Wishlist</a>		Add to Wishlist
+		<a href="https://woostify.com/demos/pro/fashion3/product/freddie-mercury-t-shirt/">				
+			<img width="300" height="300" src="https://woostify.com/demos/pro/fashion3/wp-content/uploads/sites/3/2019/01/5-1-1-300x300.jpg" alt="Product image" data-src="https://woostify.com/demos/pro/fashion3/wp-content/uploads/sites/3/2019/01/5-1-1-300x300.jpg" srcset="https://woostify.com/demos/pro/fashion3/wp-content/uploads/sites/3/2019/01/5-1-1-300x300.jpg 300w, https://woostify.com/demos/pro/fashion3/wp-content/uploads/sites/3/2019/01/5-1-1-150x150.jpg 150w, https://woostify.com/demos/pro/fashion3/wp-content/uploads/sites/3/2019/01/5-1-1-100x100.jpg 100w" sizes="(max-width: 300px) 100vw, 300px" /></a>		<h2>
+			<a href="https://woostify.com/demos/pro/fashion3/product/freddie-mercury-t-shirt/">Freddie Mercury T-Shirt</a>		</h2>
+					&pound;28.00
+			<a href="https://woostify.com/demos/pro/fashion3/product/freddie-mercury-t-shirt/" data-quantity="1" data-product_id="325" data-product_sku="" title="Select options for &ldquo;Freddie Mercury T-Shirt&rdquo;" rel="nofollow">Select options</a>		
+		</li>
 <li>
-<a href="/demos/fashion3/wp-admin/admin-ajax.php?add_to_wishlist=326" rel="nofollow" data-product-id="326" data-product-type="variable" >
-        Add to Wishlist</a>
-<img src="https://woostify.com/demos/fashion3/wp-content/plugins/yith-woocommerce-wishlist/assets/images/wpspin_light.gif" alt="loading" width="16" height="16" style="visibility:hidden" />
-	        Product added!
-	        <a href="https://woostify.com/demos/fashion3/wishlist/" rel="nofollow">
-	            Browse Wishlist	        </a>
-	        The product is already in the wishlist!
-	        <a href="https://woostify.com/demos/fashion3/wishlist/" rel="nofollow">
-	            Browse Wishlist	        </a>
-			<a href="https://woostify.com/demos/fashion3/product/aviator-sunglasses/"><img width="300" height="300" src="https://woostify.com/demos/fashion3/wp-content/uploads/2019/01/4-1-300x300.jpg" alt="Product image" data-origin_src="https://woostify.com/demos/fashion3/wp-content/uploads/2019/01/4-1-300x300.jpg" srcset="https://woostify.com/demos/fashion3/wp-content/uploads/2019/01/4-1-300x300.jpg 300w, https://woostify.com/demos/fashion3/wp-content/uploads/2019/01/4-1-150x150.jpg 150w, https://woostify.com/demos/fashion3/wp-content/uploads/2019/01/4-1-100x100.jpg 100w" sizes="(max-width: 300px) 100vw, 300px" />					
-				</a>			<h2>
-				<a href="https://woostify.com/demos/fashion3/product/aviator-sunglasses/">Aviator Sunglasses</a>			</h2>
-							&#036;32.00 &ndash; &#036;35.00
-				<a href="https://woostify.com/demos/fashion3/product/aviator-sunglasses/" data-quantity="1" data-product_id="326" data-product_sku="" aria-label="Select options for &ldquo;Aviator Sunglasses&rdquo;" rel="nofollow">Select options</a></li>
+	<a href="javascript:void(0)" data-tinv-wl-list="[{&quot;ID&quot;:1,&quot;title&quot;:&quot;Default wishlist&quot;,&quot;url&quot;:&quot;https://woostify.com/demos/pro/fashion3/wishlist/79717D/&quot;,&quot;in&quot;:false}]" data-tinv-wl-product="326" data-tinv-wl-productvariation="0" data-tinv-wl-producttype="variable" data-tinv-wl-action="addto" rel="nofollow">Add to Wishlist</a>		Add to Wishlist
+		<a href="https://woostify.com/demos/pro/fashion3/product/aviator-sunglasses/">				
+			<img width="300" height="300" src="https://woostify.com/demos/pro/fashion3/wp-content/uploads/sites/3/2019/01/4-1-300x300.jpg" alt="Product image" data-src="https://woostify.com/demos/pro/fashion3/wp-content/uploads/sites/3/2019/01/4-1-300x300.jpg" srcset="https://woostify.com/demos/pro/fashion3/wp-content/uploads/sites/3/2019/01/4-1-300x300.jpg 300w, https://woostify.com/demos/pro/fashion3/wp-content/uploads/sites/3/2019/01/4-1-150x150.jpg 150w, https://woostify.com/demos/pro/fashion3/wp-content/uploads/sites/3/2019/01/4-1-100x100.jpg 100w" sizes="(max-width: 300px) 100vw, 300px" /></a>		<h2>
+			<a href="https://woostify.com/demos/pro/fashion3/product/aviator-sunglasses/">Aviator Sunglasses</a>		</h2>
+		PinkOrange			&pound;32.00 &ndash; &pound;35.00
+			<a href="https://woostify.com/demos/pro/fashion3/product/aviator-sunglasses/" data-quantity="1" data-product_id="326" data-product_sku="" title="Select options for &ldquo;Aviator Sunglasses&rdquo;" rel="nofollow">Select options</a>		
+		</li>
 <li>
-					-23%				
-<a href="/demos/fashion3/wp-admin/admin-ajax.php?add_to_wishlist=327" rel="nofollow" data-product-id="327" data-product-type="simple" >
-        Add to Wishlist</a>
-<img src="https://woostify.com/demos/fashion3/wp-content/plugins/yith-woocommerce-wishlist/assets/images/wpspin_light.gif" alt="loading" width="16" height="16" style="visibility:hidden" />
-	        Product added!
-	        <a href="https://woostify.com/demos/fashion3/wishlist/" rel="nofollow">
-	            Browse Wishlist	        </a>
-	        The product is already in the wishlist!
-	        <a href="https://woostify.com/demos/fashion3/wishlist/" rel="nofollow">
-	            Browse Wishlist	        </a>
-			<a href="https://woostify.com/demos/fashion3/product/t-shirt-with-colored-pocket/"><img width="300" height="300" src="https://woostify.com/demos/fashion3/wp-content/uploads/2019/01/3-1-1-300x300.jpg" alt="Product image" data-origin_src="https://woostify.com/demos/fashion3/wp-content/uploads/2019/01/3-1-1-300x300.jpg" srcset="https://woostify.com/demos/fashion3/wp-content/uploads/2019/01/3-1-1-300x300.jpg 300w, https://woostify.com/demos/fashion3/wp-content/uploads/2019/01/3-1-1-150x150.jpg 150w, https://woostify.com/demos/fashion3/wp-content/uploads/2019/01/3-1-1-100x100.jpg 100w" sizes="(max-width: 300px) 100vw, 300px" />					
-				</a>			<h2>
-				<a href="https://woostify.com/demos/fashion3/product/t-shirt-with-colored-pocket/">T-Shirt With Colored Pocket</a>			</h2>
-			Rated <strong>5.00</strong> out of 5				<del>&#036;35.00</del> <ins>&#036;27.00</ins>
-				<a href="/demos/fashion3/wp-admin/admin-ajax.php?add-to-cart=327" data-quantity="1" data-product_id="327" data-product_sku="" aria-label="Add &ldquo;T-Shirt With Colored Pocket&rdquo; to your cart" rel="nofollow">Add to cart</a></li>
+				-23%			
+	<a href="javascript:void(0)" data-tinv-wl-list="[{&quot;ID&quot;:1,&quot;title&quot;:&quot;Default wishlist&quot;,&quot;url&quot;:&quot;https://woostify.com/demos/pro/fashion3/wishlist/79717D/&quot;,&quot;in&quot;:false}]" data-tinv-wl-product="327" data-tinv-wl-productvariation="0" data-tinv-wl-producttype="simple" data-tinv-wl-action="addto" rel="nofollow">Add to Wishlist</a>		Add to Wishlist
+		<a href="https://woostify.com/demos/pro/fashion3/product/t-shirt-with-colored-pocket/">				
+			<img width="300" height="300" src="https://woostify.com/demos/pro/fashion3/wp-content/uploads/sites/3/2019/01/3-1-1-300x300.jpg" alt="Product image" data-src="https://woostify.com/demos/pro/fashion3/wp-content/uploads/sites/3/2019/01/3-1-1-300x300.jpg" srcset="https://woostify.com/demos/pro/fashion3/wp-content/uploads/sites/3/2019/01/3-1-1-300x300.jpg 300w, https://woostify.com/demos/pro/fashion3/wp-content/uploads/sites/3/2019/01/3-1-1-150x150.jpg 150w, https://woostify.com/demos/pro/fashion3/wp-content/uploads/sites/3/2019/01/3-1-1-100x100.jpg 100w" sizes="(max-width: 300px) 100vw, 300px" /></a>		<h2>
+			<a href="https://woostify.com/demos/pro/fashion3/product/t-shirt-with-colored-pocket/">T-Shirt With Colored Pocket</a>		</h2>
+		Rated <strong>5.00</strong> out of 5			<del>&pound;35.00</del> <ins>&pound;27.00</ins>
+			<a href="?add-to-cart=327" data-quantity="1" data-product_id="327" data-product_sku="" title="Add &ldquo;T-Shirt With Colored Pocket&rdquo; to your cart" rel="nofollow">Add to cart</a>		
+		</li>
 <li>
-<a href="/demos/fashion3/wp-admin/admin-ajax.php?add_to_wishlist=328" rel="nofollow" data-product-id="328" data-product-type="simple" >
-        Add to Wishlist</a>
-<img src="https://woostify.com/demos/fashion3/wp-content/plugins/yith-woocommerce-wishlist/assets/images/wpspin_light.gif" alt="loading" width="16" height="16" style="visibility:hidden" />
-	        Product added!
-	        <a href="https://woostify.com/demos/fashion3/wishlist/" rel="nofollow">
-	            Browse Wishlist	        </a>
-	        The product is already in the wishlist!
-	        <a href="https://woostify.com/demos/fashion3/wishlist/" rel="nofollow">
-	            Browse Wishlist	        </a>
-			<a href="https://woostify.com/demos/fashion3/product/trainers-multicolored-pieces/"><img width="300" height="300" src="https://woostify.com/demos/fashion3/wp-content/uploads/2019/01/2-1-1-300x300.jpg" alt="Product image" data-origin_src="https://woostify.com/demos/fashion3/wp-content/uploads/2019/01/2-1-1-300x300.jpg" srcset="https://woostify.com/demos/fashion3/wp-content/uploads/2019/01/2-1-1-300x300.jpg 300w, https://woostify.com/demos/fashion3/wp-content/uploads/2019/01/2-1-1-150x150.jpg 150w, https://woostify.com/demos/fashion3/wp-content/uploads/2019/01/2-1-1-100x100.jpg 100w" sizes="(max-width: 300px) 100vw, 300px" />					
-				</a>			<h2>
-				<a href="https://woostify.com/demos/fashion3/product/trainers-multicolored-pieces/">Trainers Multicolored Pieces</a>			</h2>
-			Rated <strong>5.00</strong> out of 5				&#036;24.00
-				<a href="/demos/fashion3/wp-admin/admin-ajax.php?add-to-cart=328" data-quantity="1" data-product_id="328" data-product_sku="" aria-label="Add &ldquo;Trainers Multicolored Pieces&rdquo; to your cart" rel="nofollow">Add to cart</a></li>
-<li>
-<a href="/demos/fashion3/wp-admin/admin-ajax.php?add_to_wishlist=329" rel="nofollow" data-product-id="329" data-product-type="simple" >
-        Add to Wishlist</a>
-<img src="https://woostify.com/demos/fashion3/wp-content/plugins/yith-woocommerce-wishlist/assets/images/wpspin_light.gif" alt="loading" width="16" height="16" style="visibility:hidden" />
-	        Product added!
-	        <a href="https://woostify.com/demos/fashion3/wishlist/" rel="nofollow">
-	            Browse Wishlist	        </a>
-	        The product is already in the wishlist!
-	        <a href="https://woostify.com/demos/fashion3/wishlist/" rel="nofollow">
-	            Browse Wishlist	        </a>
-			<a href="https://woostify.com/demos/fashion3/product/jacket-with-side-stripes/"><img width="300" height="300" src="https://woostify.com/demos/fashion3/wp-content/uploads/2019/01/1-1-1-300x300.jpg" alt="Product image" data-origin_src="https://woostify.com/demos/fashion3/wp-content/uploads/2019/01/1-1-1-300x300.jpg" srcset="https://woostify.com/demos/fashion3/wp-content/uploads/2019/01/1-1-1-300x300.jpg 300w, https://woostify.com/demos/fashion3/wp-content/uploads/2019/01/1-1-1-150x150.jpg 150w, https://woostify.com/demos/fashion3/wp-content/uploads/2019/01/1-1-1-100x100.jpg 100w" sizes="(max-width: 300px) 100vw, 300px" />					
-				</a>			<h2>
-				<a href="https://woostify.com/demos/fashion3/product/jacket-with-side-stripes/">Jacket With Side Stripes</a>			</h2>
-			Rated <strong>4.50</strong> out of 5				&#036;26.00
-				<a href="/demos/fashion3/wp-admin/admin-ajax.php?add-to-cart=329" data-quantity="1" data-product_id="329" data-product_sku="" aria-label="Add &ldquo;Jacket With Side Stripes&rdquo; to your cart" rel="nofollow">Add to cart</a></li>
-<li>
-					-13%				
-<a href="/demos/fashion3/wp-admin/admin-ajax.php?add_to_wishlist=432" rel="nofollow" data-product-id="432" data-product-type="simple" >
-        Add to Wishlist</a>
-<img src="https://woostify.com/demos/fashion3/wp-content/plugins/yith-woocommerce-wishlist/assets/images/wpspin_light.gif" alt="loading" width="16" height="16" style="visibility:hidden" />
-	        Product added!
-	        <a href="https://woostify.com/demos/fashion3/wishlist/" rel="nofollow">
-	            Browse Wishlist	        </a>
-	        The product is already in the wishlist!
-	        <a href="https://woostify.com/demos/fashion3/wishlist/" rel="nofollow">
-	            Browse Wishlist	        </a>
-			<a href="https://woostify.com/demos/fashion3/product/parka-with-hood/"><img width="300" height="300" src="https://woostify.com/demos/fashion3/wp-content/uploads/2019/01/8-1-300x300.jpg" alt="Product image" data-origin_src="https://woostify.com/demos/fashion3/wp-content/uploads/2019/01/8-1-300x300.jpg" srcset="https://woostify.com/demos/fashion3/wp-content/uploads/2019/01/8-1-300x300.jpg 300w, https://woostify.com/demos/fashion3/wp-content/uploads/2019/01/8-1-150x150.jpg 150w, https://woostify.com/demos/fashion3/wp-content/uploads/2019/01/8-1-100x100.jpg 100w" sizes="(max-width: 300px) 100vw, 300px" />					
-				</a>			<h2>
-				<a href="https://woostify.com/demos/fashion3/product/parka-with-hood/">Parka With Hood</a>			</h2>
-							<del>&#036;40.00</del> <ins>&#036;35.00</ins>
-				<a href="/demos/fashion3/wp-admin/admin-ajax.php?add-to-cart=432" data-quantity="1" data-product_id="432" data-product_sku="" aria-label="Add &ldquo;Parka With Hood&rdquo; to your cart" rel="nofollow">Add to cart</a></li>
+	<a href="javascript:void(0)" data-tinv-wl-list="[{&quot;ID&quot;:1,&quot;title&quot;:&quot;Default wishlist&quot;,&quot;url&quot;:&quot;https://woostify.com/demos/pro/fashion3/wishlist/79717D/&quot;,&quot;in&quot;:false}]" data-tinv-wl-product="328" data-tinv-wl-productvariation="0" data-tinv-wl-producttype="simple" data-tinv-wl-action="addto" rel="nofollow">Add to Wishlist</a>		Add to Wishlist
+		<a href="https://woostify.com/demos/pro/fashion3/product/trainers-multicolored-pieces/">				
+			<img width="300" height="300" src="https://woostify.com/demos/pro/fashion3/wp-content/uploads/sites/3/2019/01/2-1-1-300x300.jpg" alt="Product image" data-src="https://woostify.com/demos/pro/fashion3/wp-content/uploads/sites/3/2019/01/2-1-1-300x300.jpg" srcset="https://woostify.com/demos/pro/fashion3/wp-content/uploads/sites/3/2019/01/2-1-1-300x300.jpg 300w, https://woostify.com/demos/pro/fashion3/wp-content/uploads/sites/3/2019/01/2-1-1-150x150.jpg 150w, https://woostify.com/demos/pro/fashion3/wp-content/uploads/sites/3/2019/01/2-1-1-100x100.jpg 100w" sizes="(max-width: 300px) 100vw, 300px" /></a>		<h2>
+			<a href="https://woostify.com/demos/pro/fashion3/product/trainers-multicolored-pieces/">Trainers Multicolored Pieces</a>		</h2>
+		Rated <strong>5.00</strong> out of 5			&pound;24.00
+			<a href="?add-to-cart=328" data-quantity="1" data-product_id="328" data-product_sku="" title="Add &ldquo;Trainers Multicolored Pieces&rdquo; to your cart" rel="nofollow">Add to cart</a>		
+		</li>
 			</ul>
 			<h3>From Our Blog</h3>		
-													<a href="https://woostify.com/demos/fashion3/september-l-a-wellness-events-you-dont-want-to-miss/">
-								<img width="768" height="400" alt="Post thumbnail" srcset="https://woostify.com/demos/fashion3/wp-content/uploads/2019/01/blog-4-768x400.jpg 768w, https://woostify.com/demos/fashion3/wp-content/uploads/2019/01/blog-4-300x156.jpg 300w, https://woostify.com/demos/fashion3/wp-content/uploads/2019/01/blog-4-1024x533.jpg 1024w, https://woostify.com/demos/fashion3/wp-content/uploads/2019/01/blog-4-600x313.jpg 600w" sizes="(max-width: 768px) 100vw, 768px" />							</a>
-											<a href="https://woostify.com/demos/fashion3/september-l-a-wellness-events-you-dont-want-to-miss/">January 2, 2019</a>
-											<a href="https://woostify.com/demos/fashion3/author/woostify/">
-												Sam Brinson											</a>
-																	<h3><a href="https://woostify.com/demos/fashion3/september-l-a-wellness-events-you-dont-want-to-miss/">Take a look at Naomi mannequin</a></h3>
-										On the 25th of June 2017 I spent a nerve-wracking 6 hours taking my Introductory&hellip;									
-													<a href="https://woostify.com/demos/fashion3/younlife-at-the-groove-come-and-say-hey/">
-								<img width="768" height="400" alt="Post thumbnail" srcset="https://woostify.com/demos/fashion3/wp-content/uploads/2019/01/blog-3-768x400.jpg 768w, https://woostify.com/demos/fashion3/wp-content/uploads/2019/01/blog-3-300x156.jpg 300w, https://woostify.com/demos/fashion3/wp-content/uploads/2019/01/blog-3-1024x533.jpg 1024w, https://woostify.com/demos/fashion3/wp-content/uploads/2019/01/blog-3-600x313.jpg 600w" sizes="(max-width: 768px) 100vw, 768px" />							</a>
-											<a href="https://woostify.com/demos/fashion3/younlife-at-the-groove-come-and-say-hey/">January 2, 2019</a>
-											<a href="https://woostify.com/demos/fashion3/author/woostify/">
-												Sam Brinson											</a>
-																	<h3><a href="https://woostify.com/demos/fashion3/younlife-at-the-groove-come-and-say-hey/">Show of the week: Milano is coming soon</a></h3>
-										On the 25th of June 2017 I spent a nerve-wracking 6 hours taking my Introductory&hellip;									
-													<a href="https://woostify.com/demos/fashion3/the-routine-that-will-make-you-like-yoga/">
-								<img width="768" height="400" alt="Post thumbnail" srcset="https://woostify.com/demos/fashion3/wp-content/uploads/2019/01/blog-2-768x400.jpg 768w, https://woostify.com/demos/fashion3/wp-content/uploads/2019/01/blog-2-300x156.jpg 300w, https://woostify.com/demos/fashion3/wp-content/uploads/2019/01/blog-2-1024x533.jpg 1024w, https://woostify.com/demos/fashion3/wp-content/uploads/2019/01/blog-2-600x313.jpg 600w" sizes="(max-width: 768px) 100vw, 768px" />							</a>
-											<a href="https://woostify.com/demos/fashion3/the-routine-that-will-make-you-like-yoga/">January 2, 2019</a>
-											<a href="https://woostify.com/demos/fashion3/author/woostify/">
-												Sam Brinson											</a>
-																	<h3><a href="https://woostify.com/demos/fashion3/the-routine-that-will-make-you-like-yoga/">Retro Fashion: A look back to 1990s</a></h3>
-										On the 25th of June 2017 I spent a nerve-wracking 6 hours taking my Introductory&hellip;									
+													<a href="https://woostify.com/demos/pro/fashion3/2019/01/02/september-l-a-wellness-events-you-dont-want-to-miss/">
+								<img width="768" height="400" alt="Post thumbnail" srcset="https://woostify.com/demos/pro/fashion3/wp-content/uploads/sites/3/2019/01/blog-4-768x400.jpg 768w, https://woostify.com/demos/pro/fashion3/wp-content/uploads/sites/3/2019/01/blog-4-300x156.jpg 300w, https://woostify.com/demos/pro/fashion3/wp-content/uploads/sites/3/2019/01/blog-4-1024x533.jpg 1024w, https://woostify.com/demos/pro/fashion3/wp-content/uploads/sites/3/2019/01/blog-4-1536x800.jpg 1536w, https://woostify.com/demos/pro/fashion3/wp-content/uploads/sites/3/2019/01/blog-4-600x313.jpg 600w, https://woostify.com/demos/pro/fashion3/wp-content/uploads/sites/3/2019/01/blog-4.jpg 1920w" sizes="(max-width: 768px) 100vw, 768px" />							</a>
+											<a href="https://woostify.com/demos/pro/fashion3/2019/01/02/september-l-a-wellness-events-you-dont-want-to-miss/">January 2, 2019</a>
+											<a href="https://woostify.com/demos/pro/fashion3/author/woostify/">
+												woostify											</a>
+																	<h3><a href="https://woostify.com/demos/pro/fashion3/2019/01/02/september-l-a-wellness-events-you-dont-want-to-miss/">Take a look at Naomi mannequin</a></h3>
+													<a href="https://woostify.com/demos/pro/fashion3/2019/01/02/younlife-at-the-groove-come-and-say-hey/">
+								<img width="768" height="400" alt="Post thumbnail" srcset="https://woostify.com/demos/pro/fashion3/wp-content/uploads/sites/3/2019/01/blog-3-768x400.jpg 768w, https://woostify.com/demos/pro/fashion3/wp-content/uploads/sites/3/2019/01/blog-3-300x156.jpg 300w, https://woostify.com/demos/pro/fashion3/wp-content/uploads/sites/3/2019/01/blog-3-1024x533.jpg 1024w, https://woostify.com/demos/pro/fashion3/wp-content/uploads/sites/3/2019/01/blog-3-1536x800.jpg 1536w, https://woostify.com/demos/pro/fashion3/wp-content/uploads/sites/3/2019/01/blog-3-600x313.jpg 600w, https://woostify.com/demos/pro/fashion3/wp-content/uploads/sites/3/2019/01/blog-3.jpg 1920w" sizes="(max-width: 768px) 100vw, 768px" />							</a>
+											<a href="https://woostify.com/demos/pro/fashion3/2019/01/02/younlife-at-the-groove-come-and-say-hey/">January 2, 2019</a>
+											<a href="https://woostify.com/demos/pro/fashion3/author/woostify/">
+												woostify											</a>
+																	<h3><a href="https://woostify.com/demos/pro/fashion3/2019/01/02/younlife-at-the-groove-come-and-say-hey/">Show of the week: Milano is coming soon</a></h3>
+													<a href="https://woostify.com/demos/pro/fashion3/2019/01/02/the-routine-that-will-make-you-like-yoga/">
+								<img width="768" height="400" alt="Post thumbnail" srcset="https://woostify.com/demos/pro/fashion3/wp-content/uploads/sites/3/2019/01/blog-2-768x400.jpg 768w, https://woostify.com/demos/pro/fashion3/wp-content/uploads/sites/3/2019/01/blog-2-300x156.jpg 300w, https://woostify.com/demos/pro/fashion3/wp-content/uploads/sites/3/2019/01/blog-2-1024x533.jpg 1024w, https://woostify.com/demos/pro/fashion3/wp-content/uploads/sites/3/2019/01/blog-2-1536x800.jpg 1536w, https://woostify.com/demos/pro/fashion3/wp-content/uploads/sites/3/2019/01/blog-2-600x313.jpg 600w, https://woostify.com/demos/pro/fashion3/wp-content/uploads/sites/3/2019/01/blog-2.jpg 1920w" sizes="(max-width: 768px) 100vw, 768px" />							</a>
+											<a href="https://woostify.com/demos/pro/fashion3/2019/01/02/the-routine-that-will-make-you-like-yoga/">January 2, 2019</a>
+											<a href="https://woostify.com/demos/pro/fashion3/author/woostify/">
+												woostify											</a>
+																	<h3><a href="https://woostify.com/demos/pro/fashion3/2019/01/02/the-routine-that-will-make-you-like-yoga/">Retro Fashion: A look back to 1990s</a></h3>
 			<a href="https://woostify.com/demos/fashion2/blog/" role="button">
 						View All Posts
 					</a>
-		[instagram-feed]		]]></content:encoded>
+		[instagram-feed]]]></content:encoded>
 		<excerpt:encoded><![CDATA[
 						]]></excerpt:encoded>
 		<wp:post_id>11</wp:post_id>
@@ -7372,10 +7231,6 @@ Commenter avatars come from <a href="https://gravatar.com">Gravatar</a>.]]></wp:
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
 														<wp:postmeta>
-		<wp:meta_key><![CDATA[_elementor_controls_usage]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[site-container]]></wp:meta_key>
 		<wp:meta_value><![CDATA[default]]></wp:meta_value>
 		</wp:postmeta>
@@ -7389,7 +7244,7 @@ Commenter avatars come from <a href="https://gravatar.com">Gravatar</a>.]]></wp:
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_elementor_template_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[post]]></wp:meta_value>
+		<wp:meta_value><![CDATA[wp-post]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
@@ -7397,11 +7252,11 @@ Commenter avatars come from <a href="https://gravatar.com">Gravatar</a>.]]></wp:
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_elementor_data]]></wp:meta_key>
-		<wp:meta_value><![CDATA[[{"id":"896416e","elType":"section","settings":{"stretch_section":"section-stretched","gap":"no","content_width":{"unit":"px","size":1174},"layout":"full_width"},"elements":[{"id":"d511549","elType":"column","settings":{"_column_size":100},"elements":[{"id":"6345319","elType":"widget","settings":{"slides":[{"title":"Winter Season Ready To Wear","description":"Sale up to 50% of all items. Money-back guarantee.","btn1_text":"Check Now","btn1_link":{"url":"https:\/\/woostify.com\/demos\/fashion3\/shop\/"},"background_color":"","background_background":"classic","_id":"b0c596e","btn2_text":"","btn2_link":{"url":"","is_external":"","nofollow":""},"background_color_stop":{"unit":"%","size":0},"background_color_b":"#f2295b","background_color_b_stop":{"unit":"%","size":100},"background_gradient_type":"linear","background_gradient_angle":{"unit":"deg","size":180},"background_gradient_position":"center center","background_image":{"url":"https:\/\/woostify.com\/demos\/fashion3\/wp-content\/uploads\/2019\/01\/vogue-slide1.jpg","id":390},"background_image_tablet":{"url":"","id":""},"background_image_mobile":{"url":"","id":""},"background_position":"center center","background_position_tablet":"","background_position_mobile":"","background_xpos":{"unit":"px","size":0},"background_xpos_tablet":{"unit":"px","size":0},"background_xpos_mobile":{"unit":"px","size":0},"background_ypos":{"unit":"px","size":0},"background_ypos_tablet":{"unit":"px","size":0},"background_ypos_mobile":{"unit":"px","size":0},"background_attachment":"","background_attachment_tablet":"","background_attachment_mobile":"","background_repeat":"no-repeat","background_repeat_tablet":"","background_repeat_mobile":"","background_size":"cover","background_size_tablet":"","background_size_mobile":"","background_bg_width":{"unit":"%","size":100},"background_bg_width_tablet":{"unit":"px","size":""},"background_bg_width_mobile":{"unit":"px","size":""},"background_video_link":"","background_video_start":"","background_video_end":"","background_video_fallback":{"url":"","id":""},"custom":"yes","custom_content_animation":"default","custom_horizontal_pos":"left","custom_vertical_pos":"center","custom_text_align":"left","custom_horizontal_pos_tablet":"","custom_horizontal_pos_mobile":"","custom_vertical_pos_tablet":"","custom_vertical_pos_mobile":"","custom_text_align_tablet":"","custom_text_align_mobile":"","custom_content_width":{"unit":"px","size":600,"sizes":[]},"custom_content_width_tablet":{"unit":"px","size":400,"sizes":[]},"custom_content_width_mobile":{"unit":"px","size":"","sizes":[]}},{"title":"Ecologically Grown Cotton","description":"Perfect item for coming summer","btn1_text":"Shop Now","btn1_link":{"url":"https:\/\/woostify.com\/demos\/fashion3\/shop\/"},"background_color":"","background_background":"classic","_id":"eab4318","btn2_text":"","btn2_link":{"url":"","is_external":"","nofollow":""},"background_color_stop":{"unit":"%","size":0},"background_color_b":"#f2295b","background_color_b_stop":{"unit":"%","size":100},"background_gradient_type":"linear","background_gradient_angle":{"unit":"deg","size":180},"background_gradient_position":"center center","background_image":{"url":"https:\/\/woostify.com\/demos\/fashion3\/wp-content\/uploads\/2019\/01\/vogue-slide2.jpg","id":433},"background_image_tablet":{"url":"","id":""},"background_image_mobile":{"url":"","id":""},"background_position":"center center","background_position_tablet":"","background_position_mobile":"","background_xpos":{"unit":"px","size":0},"background_xpos_tablet":{"unit":"px","size":0},"background_xpos_mobile":{"unit":"px","size":0},"background_ypos":{"unit":"px","size":0},"background_ypos_tablet":{"unit":"px","size":0},"background_ypos_mobile":{"unit":"px","size":0},"background_attachment":"","background_attachment_tablet":"","background_attachment_mobile":"","background_repeat":"no-repeat","background_repeat_tablet":"","background_repeat_mobile":"","background_size":"cover","background_size_tablet":"","background_size_mobile":"","background_bg_width":{"unit":"%","size":100},"background_bg_width_tablet":{"unit":"px","size":""},"background_bg_width_mobile":{"unit":"px","size":""},"background_video_link":"","background_video_start":"","background_video_end":"","background_video_fallback":{"url":"","id":""},"custom":"yes","custom_content_animation":"default","custom_horizontal_pos":"flex-end","custom_vertical_pos":"center","custom_text_align":"right","custom_horizontal_pos_tablet":"","custom_horizontal_pos_mobile":"","custom_vertical_pos_tablet":"","custom_vertical_pos_mobile":"","custom_text_align_tablet":"","custom_text_align_mobile":"","custom_content_width":{"unit":"px","size":600,"sizes":[]},"custom_content_width_tablet":{"unit":"px","size":"","sizes":[]},"custom_content_width_mobile":{"unit":"px","size":"","sizes":[]}}],"navigation":"dots","content_animation":"fadeInUp","slider_height":{"unit":"px","size":660},"slide_width":{"unit":"px","size":600},"slide_padding":{"unit":"px","top":"50","right":"50","bottom":"50","left":"50","isLinked":true},"description_color":"#acacac","button_typography_typography":"custom","button_typography_font_weight":"bold","button_border_width":{"unit":"px","size":1},"button_border_radius":{"unit":"px","size":0},"button_padding":{"unit":"px","top":"5","right":"25","bottom":"5","left":"25","isLinked":false},"button_bg_color":"#d21515","button_border_color":"#d21515","title_color":"#3e3e3e","description_space":{"unit":"px","size":40},"slide_width_tablet":{"unit":"%","size":80},"slide_padding_tablet":{"unit":"px","top":"50","right":"70","bottom":"50","left":"70","isLinked":false},"slide_padding_mobile":{"unit":"px","top":"50","right":"30","bottom":"50","left":"30","isLinked":false},"title_space":{"unit":"px","size":20},"title_typography_typography":"custom","title_typography_font_family":"Playfair Display","title_typography_font_size":{"unit":"px","size":60},"title_typography_font_weight":"300","title_typography_line_height":{"unit":"em","size":1.2},"title_typography_letter_spacing":{"unit":"px","size":1},"description_typography_typography":"custom","description_typography_font_family":"PT Sans","description_typography_font_size":{"unit":"px","size":18},"description_typography_line_height":{"unit":"em","size":1.3},"description_typography_letter_spacing":{"unit":"px","size":0.5},"button_typography_font_family":"PT Sans","button_typography_font_size":{"unit":"px","size":14},"slider_height_tablet":{"unit":"px","size":580,"sizes":[]},"slider_height_mobile":{"unit":"px","size":400,"sizes":[]},"horizontal_pos_tablet":"center","vertical_pos_tablet":"center","title_typography_font_size_mobile":{"unit":"px","size":30,"sizes":[]},"container_width":{"unit":"px","size":1170,"sizes":[]},"content_width":{"unit":"px","size":480,"sizes":[]},"timeout":50000},"elements":[],"widgetType":"woostify-slider"}],"isInner":false}],"isInner":false},{"id":"af0f93b","elType":"section","settings":{"margin":{"unit":"px","top":"80","right":0,"bottom":"0","left":0,"isLinked":false}},"elements":[{"id":"77a4548","elType":"column","settings":{"_column_size":100},"elements":[{"id":"1a2ea38","elType":"widget","settings":{"title":"New Arrivals","header_size":"h3","align":"center","typography_typography":"custom","title_color":"#3e3e3e","typography_font_family":"Playfair Display","typography_font_size":{"unit":"px","size":30},"typography_font_weight":"300","_margin":{"unit":"px","top":"0","right":"0","bottom":"50","left":"0","isLinked":false}},"elements":[],"widgetType":"heading"},{"id":"12d04c0","elType":"widget","settings":{"count":8,"_margin":{"unit":"px","top":"0","right":"0","bottom":"020","left":"0","isLinked":false}},"elements":[],"widgetType":"woostify-products"}],"isInner":false}],"isInner":false},{"id":"d6d34a0","elType":"section","settings":{"margin":{"unit":"px","top":"0","right":0,"bottom":"0","left":0,"isLinked":false},"stretch_section":"section-stretched","background_background":"classic","background_image":{"url":"https:\/\/woostify.com\/demos\/fashion3\/wp-content\/uploads\/2019\/02\/Rachel-B-0123_x.jpg","id":528},"background_attachment":"fixed","background_size":"cover","background_overlay_background":"classic","background_overlay_color":"rgba(0,0,0,0.82)","padding":{"unit":"px","top":"80","right":"0","bottom":"60","left":"0","isLinked":false},"background_color":"#5b5b5b"},"elements":[{"id":"7fc4148","elType":"column","settings":{"_column_size":100},"elements":[{"id":"58164e8","elType":"widget","settings":{"title":"Featured Categories","header_size":"h3","align":"center","typography_typography":"custom","title_color":"#ffffff","typography_font_family":"Playfair Display","typography_font_size":{"unit":"px","size":30},"typography_font_weight":"300","_margin":{"unit":"px","top":"0","right":"0","bottom":"50","left":"0","isLinked":false}},"elements":[],"widgetType":"heading"},{"id":"a96f17c","elType":"widget","settings":{"layout":"3","columns":"3","horizontal_pos":"center","button_text":"Shop now","exclude_category_ids":["44","45","54","56"],"vertical_pos":"flex-start","padding":{"unit":"px","top":"25","right":"20","bottom":"25","left":"20","isLinked":false},"title_typography":"custom","title_font_family":"Playfair Display","title_font_size":{"unit":"px","size":18},"title_font_weight":"400","overlay_text_color":"#3c3c3c","overlay_padding":{"unit":"px","top":"30","right":"80","bottom":"250","left":"80","isLinked":false},"_background_color":"#ffffff","category_ids":["55","69","70"],"content_bg_color":"#ffffff","space":{"unit":"px","top":"0","right":0,"bottom":"30","left":0,"isLinked":false},"margin":{"unit":"px","top":"30","right":"70","bottom":"30","left":"70","isLinked":false}},"elements":[],"widgetType":"woostify-product-category"}],"isInner":false}],"isInner":false},{"id":"caeadd4","elType":"section","settings":{"stretch_section":"section-stretched","background_background":"classic","background_image":{"url":"https:\/\/woostify.com\/demos\/fashion3\/wp-content\/uploads\/2019\/03\/vogue-for-her-1.jpg","id":556},"background_position":"center center","background_attachment":"fixed","background_size":"cover","margin":{"unit":"px","top":"0","right":0,"bottom":"070","left":0,"isLinked":false},"padding":{"unit":"px","top":"50","right":"0","bottom":"90","left":"0","isLinked":false}},"elements":[{"id":"7d36a3b","elType":"column","settings":{"_column_size":100},"elements":[{"id":"d369324","elType":"section","settings":{"structure":"21"},"elements":[{"id":"5901af6","elType":"column","settings":{"_column_size":33,"_inline_size":null},"elements":[],"isInner":true},{"id":"a68aaed","elType":"column","settings":{"_column_size":66,"_inline_size":null},"elements":[{"id":"4c88965","elType":"widget","settings":{"title":"Best Sellers","header_size":"h3","align":"center","typography_typography":"custom","typography_font_family":"Playfair Display","typography_font_size":{"unit":"px","size":30},"typography_font_weight":"300","_margin":{"unit":"px","top":"0","right":"0","bottom":"20","left":"0","isLinked":false},"title_color":"#3e3e3e"},"elements":[],"widgetType":"heading"}],"isInner":true}],"isInner":true},{"id":"d4b9eb4","elType":"section","settings":{"structure":"21"},"elements":[{"id":"eaa1b23","elType":"column","settings":{"_column_size":33,"_inline_size":null},"elements":[],"isInner":true},{"id":"38f0cdc","elType":"column","settings":{"_column_size":66,"_inline_size":null},"elements":[{"id":"b38eb1f","elType":"widget","settings":{"columns":"3","gap":{"unit":"px","size":30},"navigation":"dots","dots_size":{"unit":"px","size":8},"dots_position":{"unit":"px","size":-15},"dots_color":"#dd3333","_padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false},"loop":"","dots_bg_color":"rgba(0,0,0,0.26)"},"elements":[],"widgetType":"woostify-product-slider"}],"isInner":true}],"isInner":true}],"isInner":false}],"isInner":false},{"id":"89eeeb0","elType":"section","settings":[],"elements":[{"id":"e4d8367","elType":"column","settings":{"_column_size":100},"elements":[{"id":"14bbd64","elType":"widget","settings":{"title":"From Our Blog","header_size":"h3","align":"center","title_color":"#3e3e3e","typography_typography":"custom","typography_font_family":"Playfair Display","typography_font_size":{"unit":"px","size":30},"typography_font_weight":"300","_margin":{"unit":"px","top":"0","right":"0","bottom":"50","left":"0","isLinked":false}},"elements":[],"widgetType":"heading"},{"id":"5d58278","elType":"widget","settings":{"date":"yes","author":"yes","post_meta_typography":"custom","excerpt_color":"#acacac","read_more_text":"Read More","count":3},"elements":[],"widgetType":"woostify-post"},{"id":"96d22fd","elType":"widget","settings":{"space":{"unit":"px","size":40}},"elements":[],"widgetType":"spacer"},{"id":"e33074e","elType":"widget","settings":{"text":"View All Posts","link":{"url":"https:\/\/woostify.com\/demos\/fashion2\/blog\/","is_external":"","nofollow":""},"align":"center","typography_typography":"custom","typography_font_weight":"bold","background_color":"#d21515","border_radius":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true},"text_padding":{"unit":"px","top":"12","right":"23","bottom":"12","left":"23","isLinked":false},"typography_font_family":"PT Sans","typography_font_size":{"unit":"px","size":14}},"elements":[],"widgetType":"button"}],"isInner":false}],"isInner":false},{"id":"2b7df88","elType":"section","settings":[],"elements":[{"id":"412a3ce","elType":"column","settings":{"_column_size":100},"elements":[{"id":"1d6266e","elType":"widget","settings":[],"elements":[],"widgetType":"spacer"}],"isInner":false}],"isInner":false},{"id":"a68df59","elType":"section","settings":{"stretch_section":"section-stretched","layout":"full_width","gap":"no","border_border":"solid","border_width":{"unit":"px","top":"0","right":"55","bottom":"0","left":"55","isLinked":false},"border_color":"#ffffff"},"elements":[{"id":"a0c9858","elType":"column","settings":{"_column_size":100},"elements":[{"id":"18f62c3","elType":"widget","settings":{"shortcode":"[instagram-feed]"},"elements":[],"widgetType":"shortcode"}],"isInner":false}],"isInner":false}]]]></wp:meta_value>
+		<wp:meta_value><![CDATA[[{"id":"896416e","elType":"section","settings":{"stretch_section":"section-stretched","gap":"no","content_width":{"unit":"px","size":1174},"layout":"full_width"},"elements":[{"id":"d511549","elType":"column","settings":{"_column_size":100},"elements":[{"id":"6345319","elType":"widget","settings":{"slides":[{"title":"Winter Season Ready To Wear","description":"Sale up to 50% of all items. Money-back guarantee.","btn1_text":"Check Now","btn1_link":{"url":"https:\/\/woostify.com\/demos\/pro\/fashion3\/shop\/"},"background_color":"","background_background":"classic","_id":"b0c596e","btn2_text":"","btn2_link":{"url":"","is_external":"","nofollow":""},"background_color_stop":{"unit":"%","size":0},"background_color_b":"#f2295b","background_color_b_stop":{"unit":"%","size":100},"background_gradient_type":"linear","background_gradient_angle":{"unit":"deg","size":180},"background_gradient_position":"center center","background_image":{"url":"https:\/\/woostify.com\/demos\/pro\/fashion3\/wp-content\/uploads\/sites\/3\/2019\/01\/vogue-slide1.jpg","id":390},"background_image_tablet":{"url":"","id":""},"background_image_mobile":{"url":"","id":""},"background_position":"center center","background_position_tablet":"","background_position_mobile":"","background_xpos":{"unit":"px","size":0},"background_xpos_tablet":{"unit":"px","size":0},"background_xpos_mobile":{"unit":"px","size":0},"background_ypos":{"unit":"px","size":0},"background_ypos_tablet":{"unit":"px","size":0},"background_ypos_mobile":{"unit":"px","size":0},"background_attachment":"","background_attachment_tablet":"","background_attachment_mobile":"","background_repeat":"no-repeat","background_repeat_tablet":"","background_repeat_mobile":"","background_size":"cover","background_size_tablet":"","background_size_mobile":"","background_bg_width":{"unit":"%","size":100},"background_bg_width_tablet":{"unit":"px","size":""},"background_bg_width_mobile":{"unit":"px","size":""},"background_video_link":"","background_video_start":"","background_video_end":"","background_video_fallback":{"url":"","id":""},"custom":"yes","custom_content_animation":"default","custom_horizontal_pos":"left","custom_vertical_pos":"center","custom_text_align":"left","custom_horizontal_pos_tablet":"","custom_horizontal_pos_mobile":"","custom_vertical_pos_tablet":"","custom_vertical_pos_mobile":"","custom_text_align_tablet":"","custom_text_align_mobile":"","custom_content_width":{"unit":"px","size":600,"sizes":[]},"custom_content_width_tablet":{"unit":"px","size":400,"sizes":[]},"custom_content_width_mobile":{"unit":"px","size":"","sizes":[]},"background_play_once":"","background_play_on_mobile":"","background_slideshow_gallery":[],"background_slideshow_loop":"yes","background_slideshow_slide_duration":5000,"background_slideshow_slide_transition":"fade","background_slideshow_transition_duration":500,"background_slideshow_ken_burns":"","background_slideshow_ken_burns_zoom_direction":"in"},{"title":"Ecologically Grown Cotton","description":"Perfect item for coming summer","btn1_text":"Shop Now","btn1_link":{"url":"https:\/\/woostify.com\/demos\/pro\/fashion3\/shop\/"},"background_color":"","background_background":"classic","_id":"eab4318","btn2_text":"","btn2_link":{"url":"","is_external":"","nofollow":""},"background_color_stop":{"unit":"%","size":0},"background_color_b":"#f2295b","background_color_b_stop":{"unit":"%","size":100},"background_gradient_type":"linear","background_gradient_angle":{"unit":"deg","size":180},"background_gradient_position":"center center","background_image":{"url":"https:\/\/woostify.com\/demos\/pro\/fashion3\/wp-content\/uploads\/sites\/3\/2019\/01\/vogue-slide2.jpg","id":433},"background_image_tablet":{"url":"","id":""},"background_image_mobile":{"url":"","id":""},"background_position":"center center","background_position_tablet":"","background_position_mobile":"","background_xpos":{"unit":"px","size":0},"background_xpos_tablet":{"unit":"px","size":0},"background_xpos_mobile":{"unit":"px","size":0},"background_ypos":{"unit":"px","size":0},"background_ypos_tablet":{"unit":"px","size":0},"background_ypos_mobile":{"unit":"px","size":0},"background_attachment":"","background_attachment_tablet":"","background_attachment_mobile":"","background_repeat":"no-repeat","background_repeat_tablet":"","background_repeat_mobile":"","background_size":"cover","background_size_tablet":"","background_size_mobile":"","background_bg_width":{"unit":"%","size":100},"background_bg_width_tablet":{"unit":"px","size":""},"background_bg_width_mobile":{"unit":"px","size":""},"background_video_link":"","background_video_start":"","background_video_end":"","background_video_fallback":{"url":"","id":""},"custom":"yes","custom_content_animation":"default","custom_horizontal_pos":"flex-end","custom_vertical_pos":"center","custom_text_align":"right","custom_horizontal_pos_tablet":"","custom_horizontal_pos_mobile":"","custom_vertical_pos_tablet":"","custom_vertical_pos_mobile":"","custom_text_align_tablet":"","custom_text_align_mobile":"","custom_content_width":{"unit":"px","size":600,"sizes":[]},"custom_content_width_tablet":{"unit":"px","size":"","sizes":[]},"custom_content_width_mobile":{"unit":"px","size":"","sizes":[]},"background_play_once":"","background_play_on_mobile":"","background_slideshow_gallery":[],"background_slideshow_loop":"yes","background_slideshow_slide_duration":5000,"background_slideshow_slide_transition":"fade","background_slideshow_transition_duration":500,"background_slideshow_ken_burns":"","background_slideshow_ken_burns_zoom_direction":"in"}],"navigation":"dots","content_animation":"fadeInUp","slider_height":{"unit":"px","size":660},"slide_width":{"unit":"px","size":600},"slide_padding":{"unit":"px","top":"50","right":"50","bottom":"50","left":"50","isLinked":true},"description_color":"#acacac","button_typography_typography":"custom","button_typography_font_weight":"bold","button_border_width":{"unit":"px","size":1},"button_border_radius":{"unit":"px","size":0},"button_padding":{"unit":"px","top":"5","right":"25","bottom":"5","left":"25","isLinked":false},"button_bg_color":"#d21515","button_border_color":"#d21515","title_color":"#3e3e3e","description_space":{"unit":"px","size":40},"slide_width_tablet":{"unit":"%","size":80},"slide_padding_tablet":{"unit":"px","top":"50","right":"70","bottom":"50","left":"70","isLinked":false},"slide_padding_mobile":{"unit":"px","top":"50","right":"30","bottom":"50","left":"30","isLinked":false},"title_space":{"unit":"px","size":20},"title_typography_typography":"custom","title_typography_font_family":"Playfair Display","title_typography_font_size":{"unit":"px","size":60},"title_typography_font_weight":"300","title_typography_line_height":{"unit":"em","size":1.2},"title_typography_letter_spacing":{"unit":"px","size":1},"description_typography_typography":"custom","description_typography_font_family":"PT Sans","description_typography_font_size":{"unit":"px","size":18},"description_typography_line_height":{"unit":"em","size":1.3},"description_typography_letter_spacing":{"unit":"px","size":0.5},"button_typography_font_family":"PT Sans","button_typography_font_size":{"unit":"px","size":14},"slider_height_tablet":{"unit":"px","size":580,"sizes":[]},"slider_height_mobile":{"unit":"px","size":400,"sizes":[]},"horizontal_pos_tablet":"center","vertical_pos_tablet":"center","title_typography_font_size_mobile":{"unit":"px","size":30,"sizes":[]},"container_width":{"unit":"px","size":1170,"sizes":[]},"content_width":{"unit":"px","size":480,"sizes":[]},"timeout":50000},"elements":[],"widgetType":"woostify-slider"}],"isInner":false}],"isInner":false},{"id":"af0f93b","elType":"section","settings":{"margin":{"unit":"px","top":"80","right":0,"bottom":"0","left":0,"isLinked":false}},"elements":[{"id":"77a4548","elType":"column","settings":{"_column_size":100},"elements":[{"id":"1a2ea38","elType":"widget","settings":{"title":"New Arrivals","header_size":"h3","align":"center","typography_typography":"custom","title_color":"#3e3e3e","typography_font_family":"Playfair Display","typography_font_size":{"unit":"px","size":30},"typography_font_weight":"300","_margin":{"unit":"px","top":"0","right":"0","bottom":"50","left":"0","isLinked":false}},"elements":[],"widgetType":"heading"},{"id":"12d04c0","elType":"widget","settings":{"count":8,"_margin":{"unit":"px","top":"0","right":"0","bottom":"020","left":"0","isLinked":false}},"elements":[],"widgetType":"woostify-products"}],"isInner":false}],"isInner":false},{"id":"d6d34a0","elType":"section","settings":{"margin":{"unit":"px","top":"0","right":0,"bottom":"0","left":0,"isLinked":false},"stretch_section":"section-stretched","background_background":"classic","background_image":{"url":"https:\/\/woostify.com\/demos\/fashion3\/wp-content\/uploads\/2019\/02\/Rachel-B-0123_x.jpg","id":528},"background_attachment":"fixed","background_size":"cover","background_overlay_background":"classic","background_overlay_color":"rgba(0,0,0,0.82)","padding":{"unit":"px","top":"80","right":"0","bottom":"60","left":"0","isLinked":false},"background_color":"#5b5b5b"},"elements":[{"id":"7fc4148","elType":"column","settings":{"_column_size":100},"elements":[{"id":"58164e8","elType":"widget","settings":{"title":"Featured Categories","header_size":"h3","align":"center","typography_typography":"custom","title_color":"#ffffff","typography_font_family":"Playfair Display","typography_font_size":{"unit":"px","size":30},"typography_font_weight":"300","_margin":{"unit":"px","top":"0","right":"0","bottom":"50","left":"0","isLinked":false}},"elements":[],"widgetType":"heading"},{"id":"a96f17c","elType":"widget","settings":{"layout":"3","columns":"3","horizontal_pos":"center","button_text":"Shop now","exclude_category_ids":[],"vertical_pos":"flex-start","padding":{"unit":"px","top":"25","right":"20","bottom":"25","left":"20","isLinked":false},"title_typography":"custom","title_font_family":"Playfair Display","title_font_size":{"unit":"px","size":18},"title_font_weight":"400","overlay_text_color":"#3c3c3c","overlay_padding":{"unit":"px","top":"30","right":"80","bottom":"250","left":"80","isLinked":false},"_background_color":"#ffffff","category_ids":["59","60","62"],"content_bg_color":"#ffffff","space":{"unit":"px","top":"0","right":0,"bottom":"30","left":0,"isLinked":false},"margin":{"unit":"px","top":"30","right":"70","bottom":"30","left":"70","isLinked":false}},"elements":[],"widgetType":"woostify-product-category"}],"isInner":false}],"isInner":false},{"id":"caeadd4","elType":"section","settings":{"stretch_section":"section-stretched","background_background":"classic","background_image":{"url":"https:\/\/woostify.com\/demos\/pro\/fashion3\/wp-content\/uploads\/sites\/3\/2019\/03\/vogue-for-her-1.jpg","id":556},"background_position":"center center","background_attachment":"fixed","background_size":"cover","margin":{"unit":"px","top":"0","right":0,"bottom":"070","left":0,"isLinked":false},"padding":{"unit":"px","top":"50","right":"0","bottom":"90","left":"0","isLinked":false}},"elements":[{"id":"7d36a3b","elType":"column","settings":{"_column_size":100},"elements":[{"id":"d369324","elType":"section","settings":{"structure":"21"},"elements":[{"id":"5901af6","elType":"column","settings":{"_column_size":33,"_inline_size":null},"elements":[],"isInner":true},{"id":"a68aaed","elType":"column","settings":{"_column_size":66,"_inline_size":null},"elements":[{"id":"4c88965","elType":"widget","settings":{"title":"Best Sellers","header_size":"h3","align":"center","typography_typography":"custom","typography_font_family":"Playfair Display","typography_font_size":{"unit":"px","size":30},"typography_font_weight":"300","_margin":{"unit":"px","top":"0","right":"0","bottom":"20","left":"0","isLinked":false},"title_color":"#3e3e3e"},"elements":[],"widgetType":"heading"}],"isInner":true}],"isInner":true},{"id":"d4b9eb4","elType":"section","settings":{"structure":"21"},"elements":[{"id":"eaa1b23","elType":"column","settings":{"_column_size":33,"_inline_size":null},"elements":[],"isInner":true},{"id":"38f0cdc","elType":"column","settings":{"_column_size":66,"_inline_size":null},"elements":[{"id":"b38eb1f","elType":"widget","settings":{"columns":"3","gap":{"unit":"px","size":30},"navigation":"dots","dots_size":{"unit":"px","size":8},"dots_position":{"unit":"px","size":-15},"dots_color":"#dd3333","_padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false},"loop":"","dots_bg_color":"rgba(0,0,0,0.26)"},"elements":[],"widgetType":"woostify-product-slider"}],"isInner":true}],"isInner":true}],"isInner":false}],"isInner":false},{"id":"89eeeb0","elType":"section","settings":[],"elements":[{"id":"e4d8367","elType":"column","settings":{"_column_size":100},"elements":[{"id":"14bbd64","elType":"widget","settings":{"title":"From Our Blog","header_size":"h3","align":"center","title_color":"#3e3e3e","typography_typography":"custom","typography_font_family":"Playfair Display","typography_font_size":{"unit":"px","size":30},"typography_font_weight":"300","_margin":{"unit":"px","top":"0","right":"0","bottom":"50","left":"0","isLinked":false}},"elements":[],"widgetType":"heading"},{"id":"5d58278","elType":"widget","settings":{"date":"yes","author":"yes","post_meta_typography":"custom","excerpt_color":"#acacac","read_more_text":"Read More","count":3},"elements":[],"widgetType":"woostify-post"},{"id":"96d22fd","elType":"widget","settings":{"space":{"unit":"px","size":40}},"elements":[],"widgetType":"spacer"},{"id":"e33074e","elType":"widget","settings":{"text":"View All Posts","link":{"url":"https:\/\/woostify.com\/demos\/fashion2\/blog\/","is_external":"","nofollow":""},"align":"center","typography_typography":"custom","typography_font_weight":"bold","background_color":"#d21515","border_radius":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true},"text_padding":{"unit":"px","top":"12","right":"23","bottom":"12","left":"23","isLinked":false},"typography_font_family":"PT Sans","typography_font_size":{"unit":"px","size":14}},"elements":[],"widgetType":"button"}],"isInner":false}],"isInner":false},{"id":"2b7df88","elType":"section","settings":[],"elements":[{"id":"412a3ce","elType":"column","settings":{"_column_size":100},"elements":[{"id":"1d6266e","elType":"widget","settings":[],"elements":[],"widgetType":"spacer"}],"isInner":false}],"isInner":false},{"id":"a68df59","elType":"section","settings":{"stretch_section":"section-stretched","layout":"full_width","gap":"no","border_border":"solid","border_width":{"unit":"px","top":"0","right":"55","bottom":"0","left":"55","isLinked":false},"border_color":"#ffffff"},"elements":[{"id":"a0c9858","elType":"column","settings":{"_column_size":100},"elements":[{"id":"18f62c3","elType":"widget","settings":{"shortcode":"[instagram-feed]"},"elements":[],"widgetType":"shortcode"}],"isInner":false}],"isInner":false}]]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_elementor_version]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2.5.9]]></wp:meta_value>
+		<wp:meta_value><![CDATA[2.7.5]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[site-header-transparent]]></wp:meta_key>
@@ -7412,8 +7267,8 @@ Commenter avatars come from <a href="https://gravatar.com">Gravatar</a>.]]></wp:
 		<wp:meta_value><![CDATA[disabled]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_elementor_page_settings]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:12:{s:21:"background_color_stop";a:3:{s:4:"unit";s:1:"%";s:4:"size";i:0;s:5:"sizes";a:0:{}}s:23:"background_color_b_stop";a:3:{s:4:"unit";s:1:"%";s:4:"size";i:100;s:5:"sizes";a:0:{}}s:25:"background_gradient_angle";a:3:{s:4:"unit";s:3:"deg";s:4:"size";i:180;s:5:"sizes";a:0:{}}s:15:"background_xpos";a:3:{s:4:"unit";s:2:"px";s:4:"size";i:0;s:5:"sizes";a:0:{}}s:22:"background_xpos_tablet";a:3:{s:4:"unit";s:2:"px";s:4:"size";i:0;s:5:"sizes";a:0:{}}s:22:"background_xpos_mobile";a:3:{s:4:"unit";s:2:"px";s:4:"size";i:0;s:5:"sizes";a:0:{}}s:15:"background_ypos";a:3:{s:4:"unit";s:2:"px";s:4:"size";i:0;s:5:"sizes";a:0:{}}s:22:"background_ypos_tablet";a:3:{s:4:"unit";s:2:"px";s:4:"size";i:0;s:5:"sizes";a:0:{}}s:22:"background_ypos_mobile";a:3:{s:4:"unit";s:2:"px";s:4:"size";i:0;s:5:"sizes";a:0:{}}s:19:"background_bg_width";a:3:{s:4:"unit";s:1:"%";s:4:"size";i:100;s:5:"sizes";a:0:{}}s:26:"background_bg_width_tablet";a:3:{s:4:"unit";s:2:"px";s:4:"size";s:0:"";s:5:"sizes";a:0:{}}s:26:"background_bg_width_mobile";a:3:{s:4:"unit";s:2:"px";s:4:"size";s:0:"";s:5:"sizes";a:0:{}}}]]></wp:meta_value>
+		<wp:meta_key><![CDATA[_elementor_controls_usage]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:11:{s:15:"woostify-slider";a:3:{s:5:"count";i:1;s:15:"control_percent";i:14;s:8:"controls";a:2:{s:7:"content";a:2:{s:14:"slides_section";a:1:{s:6:"slides";i:1;}s:14:"slider_options";a:3:{s:10:"navigation";i:1;s:17:"content_animation";i:1;s:7:"timeout";i:1;}}s:5:"style";a:4:{s:12:"slider_style";a:10:{s:13:"slider_height";i:1;s:13:"slide_padding";i:1;s:20:"slide_padding_tablet";i:1;s:20:"slide_padding_mobile";i:1;s:20:"slider_height_tablet";i:1;s:20:"slider_height_mobile";i:1;s:21:"horizontal_pos_tablet";i:1;s:19:"vertical_pos_tablet";i:1;s:15:"container_width";i:1;s:13:"content_width";i:1;}s:17:"description_style";a:7:{s:17:"description_color";i:1;s:17:"description_space";i:1;s:33:"description_typography_typography";i:1;s:34:"description_typography_font_family";i:1;s:32:"description_typography_font_size";i:1;s:34:"description_typography_line_height";i:1;s:37:"description_typography_letter_spacing";i:1;}s:12:"button_style";a:9:{s:28:"button_typography_typography";i:1;s:29:"button_typography_font_weight";i:1;s:19:"button_border_width";i:1;s:20:"button_border_radius";i:1;s:14:"button_padding";i:1;s:15:"button_bg_color";i:1;s:19:"button_border_color";i:1;s:29:"button_typography_font_family";i:1;s:27:"button_typography_font_size";i:1;}s:11:"title_style";a:9:{s:11:"title_color";i:1;s:11:"title_space";i:1;s:27:"title_typography_typography";i:1;s:28:"title_typography_font_family";i:1;s:26:"title_typography_font_size";i:1;s:28:"title_typography_font_weight";i:1;s:28:"title_typography_line_height";i:1;s:31:"title_typography_letter_spacing";i:1;s:33:"title_typography_font_size_mobile";i:1;}}}}s:6:"column";a:3:{s:5:"count";i:11;s:15:"control_percent";i:0;s:8:"controls";a:1:{s:6:"layout";a:1:{s:6:"layout";a:1:{s:12:"_inline_size";i:4;}}}}s:7:"section";a:3:{s:5:"count";i:9;s:15:"control_percent";i:2;s:8:"controls";a:3:{s:6:"layout";a:2:{s:14:"section_layout";a:4:{s:15:"stretch_section";i:4;s:3:"gap";i:2;s:13:"content_width";i:1;s:6:"layout";i:2;}s:17:"section_structure";a:1:{s:9:"structure";i:2;}}s:8:"advanced";a:1:{s:16:"section_advanced";a:2:{s:6:"margin";i:3;s:7:"padding";i:2;}}s:5:"style";a:3:{s:18:"section_background";a:6:{s:21:"background_background";i:2;s:16:"background_image";i:2;s:21:"background_attachment";i:2;s:15:"background_size";i:2;s:16:"background_color";i:1;s:19:"background_position";i:1;}s:26:"section_background_overlay";a:2:{s:29:"background_overlay_background";i:1;s:24:"background_overlay_color";i:1;}s:14:"section_border";a:3:{s:13:"border_border";i:1;s:12:"border_width";i:1;s:12:"border_color";i:1;}}}}s:7:"heading";a:3:{s:5:"count";i:4;s:15:"control_percent";i:5;s:8:"controls";a:3:{s:7:"content";a:1:{s:13:"section_title";a:3:{s:5:"title";i:4;s:11:"header_size";i:4;s:5:"align";i:4;}}s:5:"style";a:1:{s:19:"section_title_style";a:5:{s:21:"typography_typography";i:4;s:11:"title_color";i:4;s:22:"typography_font_family";i:4;s:20:"typography_font_size";i:4;s:22:"typography_font_weight";i:4;}}s:8:"advanced";a:1:{s:14:"_section_style";a:1:{s:7:"_margin";i:4;}}}}s:17:"woostify-products";a:3:{s:5:"count";i:1;s:15:"control_percent";i:1;s:8:"controls";a:2:{s:7:"content";a:1:{s:13:"product_query";a:1:{s:5:"count";i:1;}}s:8:"advanced";a:1:{s:14:"_section_style";a:1:{s:7:"_margin";i:1;}}}}s:25:"woostify-product-category";a:3:{s:5:"count";i:1;s:15:"control_percent";i:6;s:8:"controls";a:2:{s:7:"content";a:3:{s:15:"product_general";a:2:{s:7:"columns";i:1;s:5:"space";i:1;}s:15:"product_content";a:9:{s:14:"horizontal_pos";i:1;s:12:"vertical_pos";i:1;s:7:"padding";i:1;s:16:"title_typography";i:1;s:17:"title_font_family";i:1;s:15:"title_font_size";i:1;s:17:"title_font_weight";i:1;s:16:"content_bg_color";i:1;s:6:"margin";i:1;}s:13:"product_query";a:2:{s:20:"exclude_category_ids";i:1;s:12:"category_ids";i:1;}}s:8:"advanced";a:1:{s:19:"_section_background";a:1:{s:17:"_background_color";i:1;}}}}s:23:"woostify-product-slider";a:3:{s:5:"count";i:1;s:15:"control_percent";i:4;s:8:"controls";a:2:{s:7:"content";a:2:{s:14:"slider_options";a:4:{s:7:"columns";i:1;s:3:"gap";i:1;s:10:"navigation";i:1;s:4:"loop";i:1;}s:4:"dots";a:4:{s:9:"dots_size";i:1;s:13:"dots_position";i:1;s:10:"dots_color";i:1;s:13:"dots_bg_color";i:1;}}s:8:"advanced";a:1:{s:14:"_section_style";a:1:{s:8:"_padding";i:1;}}}}s:13:"woostify-post";a:3:{s:5:"count";i:1;s:15:"control_percent";i:1;s:8:"controls";a:1:{s:7:"content";a:2:{s:17:"post_meta_section";a:4:{s:4:"date";i:1;s:6:"author";i:1;s:20:"post_meta_typography";i:1;s:13:"excerpt_color";i:1;}s:10:"post_query";a:1:{s:5:"count";i:1;}}}}s:6:"spacer";a:3:{s:5:"count";i:2;s:15:"control_percent";i:0;s:8:"controls";a:1:{s:7:"content";a:1:{s:14:"section_spacer";a:1:{s:5:"space";i:1;}}}}s:6:"button";a:3:{s:5:"count";i:1;s:15:"control_percent";i:5;s:8:"controls";a:2:{s:7:"content";a:1:{s:14:"section_button";a:3:{s:4:"text";i:1;s:4:"link";i:1;s:5:"align";i:1;}}s:5:"style";a:1:{s:13:"section_style";a:7:{s:21:"typography_typography";i:1;s:22:"typography_font_weight";i:1;s:16:"background_color";i:1;s:13:"border_radius";i:1;s:12:"text_padding";i:1;s:22:"typography_font_family";i:1;s:20:"typography_font_size";i:1;}}}}s:9:"shortcode";a:3:{s:5:"count";i:1;s:15:"control_percent";i:1;s:8:"controls";a:1:{s:7:"content";a:1:{s:17:"section_shortcode";a:1:{s:9:"shortcode";i:1;}}}}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
