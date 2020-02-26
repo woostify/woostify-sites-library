@@ -4,7 +4,7 @@ Tags: demo, theme demos, one click import
 Requires at least: 4.4
 Requires PHP: 5.3
 Tested up to: 5.1
-Stable tag: 1.1.6
+Stable tag: 1.1.7
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -40,6 +40,9 @@ It can also be installed manually.
 5. Navigate to _Appearance &rarr; Woostify Sites Library_ to import demo sites.
 
 == Changelog ==
+= 1.1.7 =
+* Fix missing apsero folder
+
 = 1.1.6 =
 * Add Appsero to deploy plugin
 
