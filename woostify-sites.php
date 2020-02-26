@@ -2,7 +2,7 @@
 /**
  * Plugin Name:  Woostify Sites Library
  * Description:  Import site demos built with Woostify theme
- * Version:      1.1.7
+ * Version:      1.1.8
  * Author:       Woostify
  * Author URI:   https://woostify.com
  * License:      GPLv2 or later
@@ -133,3 +133,26 @@ $wizard = new Woostify_Sites(
 );
 
 require_once WOOSTIFY_SITES_DIR . 'demos/demos.php';
+
+/**
+ * Initialize the tracker
+ *
+ * @return void
+ */
+function appsero_init_tracker_appsero_test() {
+
+    if ( ! class_exists( 'Appsero\Client' ) ) {
+        require_once __DIR__ . '/appsero/src/Client.php';
+    }
+
+    $client = new Appsero\Client( 'f9cd5d79-432c-4504-87a5-68eef11b2e2f', 'Woostify Sites Library', __FILE__ );
+
+    // Active insights
+    $client->insights()->hide_notice()->init();
+
+    // Active automatic updater
+    $client->updater();
+
+}
+
+appsero_init_tracker_appsero_test();
