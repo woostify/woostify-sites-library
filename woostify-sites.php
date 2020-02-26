@@ -133,3 +133,27 @@ $wizard = new Woostify_Sites(
 );
 
 require_once WOOSTIFY_SITES_DIR . 'demos/demos.php';
+
+
+/**
+ * Initialize the plugin tracker
+ *
+ * @return void
+ */
+function appsero_init_tracker_woostify_sites_library() {
+
+    if ( ! class_exists( 'Appsero\Client' ) ) {
+      require_once __DIR__ . '/appsero/src/Client.php';
+    }
+
+    $client = new Appsero\Client( '424aa9f8-2435-4fa7-a61c-fad11ff04249', 'Woostify Sites Library', __FILE__ );
+
+    // Active insights
+    $client->insights()->init();
+
+    // Active automatic updater
+    $client->updater();
+
+}
+
+appsero_init_tracker_woostify_sites_library();
