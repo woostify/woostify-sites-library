@@ -49,6 +49,9 @@ Integrating Appsero SDK **DOES NOT IMMEDIATELY** start gathering data, **without
 Learn more about how [Appsero collects and uses this data](https://appsero.com/privacy-policy/).
 
 == Changelog ==
+= 1.1.6 =
+* Add Appsero to deploy plugin
+
 = 1.1.5 =
 * Fix some demos with missing background images
  
