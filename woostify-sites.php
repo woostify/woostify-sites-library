@@ -2,12 +2,12 @@
 /**
  * Plugin Name:  Woostify Sites Library
  * Description:  Import site demos built with Woostify theme
- * Version:      1.2.0
+ * Version:      1.2.1
  * Author:       Woostify
  * Author URI:   https://woostify.com
  * License:      GPLv2 or later
  * License URI:  https://www.gnu.org/licenses/gpl-2.0.html
- * Text Domain:  woostify-sites
+ * Text Domain:  woostify-sites-library
  *
  * The following code is a derivative work from Merlin WP by the
  * Rich Tabor from ThemeBeans.com & the team at ProteusThemes.com and
@@ -24,7 +24,7 @@ if ( ! defined( 'WOOSTIFY_SITES_NAME' ) ) {
 }
 
 if ( ! defined( 'WOOSTIFY_SITES_VER' ) ) {
-	define( 'WOOSTIFY_SITES_VER', '1.1.1' );
+	define( 'WOOSTIFY_SITES_VER', '1.2.1' );
 }
 
 if ( ! defined( 'WOOSTIFY_SITES_FILE' ) ) {
