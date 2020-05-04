@@ -2931,14 +2931,32 @@ body.exiting .merlin__content--content .merlin__content__footer {
 	max-width: 179px;
 }
 
-.merlin__demos.scroll:after {
+.btn-merlin--loadmore {
+	border: 2px solid #0085ba;
+	color: #0085ba;
+	height: 45px;
+	padding: 0 20px;
+	display: flex;
+	align-items: center;
+	max-width: 250px;
+	margin: 0 auto;
+	box-shadow: none;
+	text-transform: uppercase;
+	border-radius: 5px;
+	cursor: pointer;
+	outline: transparent;
+
+}
+
+.btn-merlin--loadmore.loading:after {
 	border: 3px solid #f3f3f3;
 	border-radius: 50%;
 	border-top: 3px solid #3498db;
 	-webkit-animation: spin 0.3s linear infinite; /* Safari */
 	animation: spin 0.3s linear infinite;
 	display: block;
-	width: 20px;
-	height: 20px;
+	width: 15px;
+	height: 15px;
 	content: '';
+	margin-left: 8px;
 }

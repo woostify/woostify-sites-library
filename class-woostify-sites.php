@@ -484,6 +484,11 @@ class Woostify_Sites {
 			'something_went_wrong' => esc_html__( 'Something went wrong. Please refresh the page and try again!', 'woostify-sites-library' ),
 		);
 
+		$total_page = 1;
+		if ( $_SESSION['demo'] ) {
+			$total_page = count( $_SESSION['demo'] );
+		}
+
 		// Localize the javascript.
 		if ( class_exists( 'TGM_Plugin_Activation' ) ) {
 			// Check first if TMGPA is included.
@@ -495,10 +500,11 @@ class Woostify_Sites {
 						'update'  => wp_create_nonce( 'tgmpa-update' ),
 						'install' => wp_create_nonce( 'tgmpa-install' ),
 					),
-					'tgm_bulk_url'     => $this->tgmpa->get_tgmpa_url(),
-					'ajaxurl'          => admin_url( 'admin-ajax.php' ),
-					'wpnonce'          => wp_create_nonce( 'woostify_sites_nonce' ),
-					'texts'            => $texts,
+					'tgm_bulk_url' => $this->tgmpa->get_tgmpa_url(),
+					'ajaxurl'      => admin_url( 'admin-ajax.php' ),
+					'wpnonce'      => wp_create_nonce( 'woostify_sites_nonce' ),
+					'texts'        => $texts,
+					'total_page'   => $total_page,
 				)
 			);
 		} else {
@@ -510,6 +516,7 @@ class Woostify_Sites {
 					'ajaxurl' => admin_url( 'admin-ajax.php' ),
 					'wpnonce' => wp_create_nonce( 'woostify_sites_nonce' ),
 					'texts'   => $texts,
+					'total_page'   => $total_page,
 				)
 			);
 		}
@@ -1320,6 +1327,7 @@ class Woostify_Sites {
 					<?php endforeach; ?>
 
 				</div><!-- merlin__demos -->
+				<button type="button" class="btn-merlin--loadmore"><?php echo esc_html( 'Load More' ); ?></button>
 			<?php endif; ?>
 
 		</div>
@@ -2782,13 +2790,13 @@ class Woostify_Sites {
 
 	public function woostify_sites_load_more_demo()
 	{
-		$page = (isset($_POST['page'])) ? $_POST['page'] : 0;
-		$page = (int)$page;
+		$page = ( isset( $_POST['page'] ) ) ? $_POST['page'] : 1;
+		$page = (int) $page;
 		$demos = $_SESSION['demo'];
 		$html = '';
 		if ( count($demos) > $page ) {
 			foreach ($demos[$page] as $index => $demo) {
-				$html .= $this->woostify_demo_template($demo);
+				$html .= $this->woostify_demo_template( $demo );
 			}
 		}
 

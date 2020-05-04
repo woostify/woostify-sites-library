@@ -87,14 +87,42 @@ var Woostify_Sites = (function($){
                 return true;
             }
         });
-        var page = 0;
-        $(window).scroll(function() {
-            if($(window).scrollTop() + $(window).height() >= $(document).height()) {
-                page++;
-                console.log(page);
+        var page = 1;
+        var btnLoadMore = $( '.btn-merlin--loadmore' );
 
-                loadMoreDemo(page);
-            }
+        btnLoadMore.on('click', function(e) {
+            var pageBuilder = $('.merlin__other-page-builder').find('.active').attr('data-group'),
+                cat = $('.merlin__categories').find('.active').attr('data-group'),
+                data = {
+                    action: 'woostify_sites_load_more_demo',
+                    wpnonce: woostify_sites_params.wpnonce,
+                    page: page,
+                };
+
+            $.ajax({ // you can also use $.post here
+                url : woostify_sites_params.ajaxurl, // AJAX handler
+                data : data,
+                type : 'POST',
+                beforeSend : function ( xhr ) {
+                    btnLoadMore.addClass('loading')
+
+                },
+                success : function( response ){
+                    btnLoadMore.removeClass('loading');
+                    if( response ) {
+                        page++;
+                        $( '.merlin__demos' ).append(response.data);
+                        if (  page >= woostify_sites_params.total_page ) {
+                            btnLoadMore.remove();
+                        }
+                    } else {
+                        btnLoadMore.remove();
+                    }
+                },
+                error: function (e){
+                    alert( 'Opps!, Something went wrong, please try again later.' );
+                }
+            });
         });
 
 
@@ -165,36 +193,6 @@ var Woostify_Sites = (function($){
             } )
                 .fail( function() { alert( woostify_sites_params.texts.something_went_wrong ); } );
         } );
-
-
-        function loadMoreDemo(page) {
-            var pageBuilder = $('.merlin__other-page-builder').find('.active').attr('data-group'),
-                cat = $('.merlin__categories').find('.active').attr('data-group'),
-                data = {
-                    action: 'woostify_sites_load_more_demo',
-                    wpnonce: woostify_sites_params.wpnonce,
-                    page: page,
-                };
-
-            $.ajax({ // you can also use $.post here
-                url : woostify_sites_params.ajaxurl, // AJAX handler
-                data : data,
-                type : 'POST',
-                beforeSend : function ( xhr ) {
-                    $( '.merlin__demos' ).addClass('scroll');
-                },
-                success : function( response ){
-                    $( '.merlin__demos' ).removeClass('scroll');
-                    if( response ) {
-                        console.log(response.data);
-                        $( '.merlin__demos' ).append(response.data);
-                    }
-                },
-                error: function (e){
-                    alert( 'Opps!, Something went wrong, please try again later.' );
-                }
-            });
-        };
 
     }
 

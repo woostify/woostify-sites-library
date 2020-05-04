@@ -12,6 +12,7 @@
 package-lock.json
 node_modules/
 .tmp/
+.sublime-gulp-tmp.js
 
 # OS or Editor folders
 .DS_Store
