@@ -28,6 +28,13 @@ class Woostify_Sites {
 	protected $step = '';
 
 	/**
+	 * Total Page.
+	 *
+	 * @var string
+	 */
+	protected $total_page = 1;
+
+	/**
 	 * Steps.
 	 *
 	 * @var    array
@@ -251,6 +258,7 @@ class Woostify_Sites {
 		add_action( 'wp_ajax_woostify_site_filter_demo', array( $this, 'woostify_site_filter_demo' ), 10, 0 );
 		add_action( 'wp_ajax_woostify_sites_load_more_demo', array( $this, 'woostify_sites_load_more_demo' ), 10, 0 );
 		add_action( 'admin_init', array( $this, 'woostify_sites_start_session' ), 10, 0 );
+		add_action( 'init', array( $this, 'woostify_sites_set_cookie' ), 10, 0 );
 		add_action( 'wp_ajax_woostify_sites_get_total_content_import_items', array( $this, 'woostify_sites_ajax_get_total_content_import_items' ), 10, 0 );
 		add_action( 'wp_ajax_woostify_sites_update_selected_import_data_info', array( $this, 'woostify_sites_update_selected_import_data_info' ), 10, 0 );
 		add_action( 'wp_ajax_woostify_sites_plugins', array( $this, 'woostify_sites_ajax_plugins' ), 10, 0 );
@@ -1234,6 +1242,7 @@ class Woostify_Sites {
 			$demos = array_chunk( $demos, 6 );
 			$_SESSION['demo'] = $demos;
 		}
+		setcookie( "total_page", count( $demos ), time()+7200);
 		$html = '';
 		?>
 
@@ -1248,7 +1257,7 @@ class Woostify_Sites {
 
 			<h1><?php echo esc_html( $header ); ?></h1>
 
-
+			<?php var_dump( $_COOKIE['total_page'] ); ?>
 			<div class="merlin__filters">
 				<!-- All Filters -->
 				<div class="filters-wrap">
@@ -2721,6 +2730,7 @@ class Woostify_Sites {
 
 	public function woostify_site_filter_demo()
 	{
+		check_ajax_referer( 'woostify_sites_nonce' );
 		$page_builder = (isset($_POST['page_builder'])) ? $_POST['page_builder'] : 'elementor';
 		$category = (isset($_POST['category'])) ? $_POST['category'] : 'all';
 		$all_demo = $this->import_files;
@@ -2740,7 +2750,9 @@ class Woostify_Sites {
 		if ( ! empty( $demos ) ) {
 			$demos = array_chunk( $demos, 6 );
 			$_SESSION['demo'] = $demos;
-			foreach ($demos[0] as $demo) {
+			// $_COOKIE['total_page'] = count( $demos );
+			setcookie( "total_page", count( $demos ), time()+7200);
+			foreach ( $demos[0] as $demo ) {
 				$html .= $this->woostify_demo_template($demo);
 			}
 		} else {
@@ -2790,9 +2802,11 @@ class Woostify_Sites {
 
 	public function woostify_sites_load_more_demo()
 	{
+		check_ajax_referer( 'woostify_sites_nonce' );
 		$page = ( isset( $_POST['page'] ) ) ? $_POST['page'] : 1;
 		$page = (int) $page;
 		$demos = $_SESSION['demo'];
+		setcookie( "total_page", count($demos), time()+7200);
 		$html = '';
 		if ( count($demos) > $page ) {
 			foreach ($demos[$page] as $index => $demo) {
@@ -2808,5 +2822,15 @@ class Woostify_Sites {
 		if(!session_id()) {
 			session_start();
 		}
+	}
+
+	public function woostify_sites_set_cookie()
+	{
+		$total_page = 1;
+
+		if ( $_SESSION['demo'] ) {
+			$total_page = count( $_SESSION['demo'] );
+		}
+		setcookie( "total_page", $total_page, time()+7200);
 	}
 }

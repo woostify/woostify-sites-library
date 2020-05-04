@@ -94,8 +94,10 @@ var Woostify_Sites = (function($){
                 cat = $('.merlin__categories').find('.active').attr('data-group'),
                 data = {
                     action: 'woostify_sites_load_more_demo',
-                    wpnonce: woostify_sites_params.wpnonce,
+                    _ajax_nonce: woostify_sites_params.wpnonce,
                     page: page,
+                    category: cat,
+                    page_builder: pageBuilder,
                 };
 
             $.ajax({ // you can also use $.post here
@@ -110,12 +112,17 @@ var Woostify_Sites = (function($){
                     btnLoadMore.removeClass('loading');
                     if( response ) {
                         page++;
+                        console.log( getCookie( 'total_page' ) );
                         $( '.merlin__demos' ).append(response.data);
-                        if (  page >= woostify_sites_params.total_page ) {
-                            btnLoadMore.remove();
+                        if ( page >= woostify_sites_params.total_page ) {
+                            btnLoadMore.css( { 'display' : 'none' } );
+                            btnLoadMore.attr( 'disabled', 'disabled' );
+                            page = 1;
                         }
                     } else {
-                        btnLoadMore.remove();
+                        btnLoadMore.css( { 'display' : 'none' } );
+                        btnLoadMore.attr( 'disabled', 'disabled' );
+                        page = 1;
                     }
                 },
                 error: function (e){
@@ -134,7 +141,7 @@ var Woostify_Sites = (function($){
                 cat = $('.merlin__categories').find('.active').attr('data-group'),
                 data = {
                     action: 'woostify_site_filter_demo',
-                    wpnonce: woostify_sites_params.wpnonce,
+                    _ajax_nonce: woostify_sites_params.wpnonce,
                     page_builder: pageBuilder,
                     category: cat,
                 };
@@ -148,9 +155,21 @@ var Woostify_Sites = (function($){
                     $( '.merlin__demos' ).addClass('loading');
                 },
                 success : function( response ){
+                    console.log( getCookie( 'total_page' ) );
+                    var totalPage = parseInt( getCookie( 'total_page' ) );
                     $( '.merlin__demos' ).removeClass('loading');
                     if( response ) {
                         $( '.merlin__demos' ).html(response.data);
+                        if ( totalPage > page ) {
+                            btnLoadMore.css( { 'display' : 'flex' } );
+                            btnLoadMore.removeAttr( 'disabled' );
+                        } else {
+                            btnLoadMore.css( { 'display' : 'none' } );
+                            btnLoadMore.attr( 'disabled', 'disabled' );
+                        }
+                    } else {
+                        btnLoadMore.css( { 'display' : 'none' } );
+                        btnLoadMore.attr( 'disabled', 'disabled' );
                     }
                 },
                 error: function (e){
@@ -560,22 +579,6 @@ var Woostify_Sites = (function($){
             }
         }
 
-        function getCookie(cname) {
-          var name = cname + "=";
-          var decodedCookie = decodeURIComponent(document.cookie);
-          var ca = decodedCookie.split(';');
-          for(var i = 0; i <ca.length; i++) {
-            var c = ca[i];
-            while (c.charAt(0) == ' ') {
-              c = c.substring(1);
-            }
-            if (c.indexOf(name) == 0) {
-              return c.substring(name.length, c.length);
-            }
-          }
-          return "";
-        }
-
         return {
             init: function(btn){
                 if ( ! getCookie('demo') ) {
@@ -622,6 +625,22 @@ var Woostify_Sites = (function($){
                 find_next();
             }
         }
+    }
+
+    function getCookie(cname) {
+      var name = cname + "=";
+      var decodedCookie = decodeURIComponent(document.cookie);
+      var ca = decodedCookie.split(';');
+      for(var i = 0; i <ca.length; i++) {
+        var c = ca[i];
+        while (c.charAt(0) == ' ') {
+          c = c.substring(1);
+        }
+        if (c.indexOf(name) == 0) {
+          return c.substring(name.length, c.length);
+        }
+      }
+      return "";
     }
 
     function merlin_loading_button( btn ){
