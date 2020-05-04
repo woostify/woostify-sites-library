@@ -89,7 +89,6 @@ var Woostify_Sites = (function($){
         });
         var page = 1;
         var btnLoadMore = $( '.btn-merlin--loadmore' );
-
         btnLoadMore.on('click', function(e) {
             var pageBuilder = $('.merlin__other-page-builder').find('.active').attr('data-group'),
                 cat = $('.merlin__categories').find('.active').attr('data-group'),
@@ -128,7 +127,7 @@ var Woostify_Sites = (function($){
 
         btn_filter_link.on( 'click', function (e) {
             e.preventDefault();
-            page = 0;
+            page = 1;
             $(this).parents( '.filter-links' ).find( '.active' ).removeClass( 'active' );
             $(this).addClass('active');
             var pageBuilder = $('.merlin__other-page-builder').find('.active').attr('data-group'),
