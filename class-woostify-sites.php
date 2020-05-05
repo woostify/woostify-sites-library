@@ -1256,8 +1256,6 @@ class Woostify_Sites {
 			</svg>
 
 			<h1><?php echo esc_html( $header ); ?></h1>
-
-			<?php var_dump( $_COOKIE['total_page'] ); ?>
 			<div class="merlin__filters">
 				<!-- All Filters -->
 				<div class="filters-wrap">
