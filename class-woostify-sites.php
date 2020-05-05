@@ -1345,7 +1345,7 @@ class Woostify_Sites {
 
 			<footer class="merlin__content__footer <?php echo esc_attr( $class ); ?>">
 
-					<a href="<?php echo esc_url( $this->step_next_link() ); ?>" class="merlin__button merlin__button--next merlin__button--proceed merlin__button--colorchange js-select" data-callback="install_contents"><?php echo esc_html( $next ); ?></a>
+					<a href="<?php echo esc_url( $this->step_next_link() ); ?>" class="merlin__button merlin__button--next merlin__button--proceed merlin__button--colorchange js-select button-next" data-callback="install_contents"><?php echo esc_html( $next ); ?></a>
 
 				<?php wp_nonce_field( 'woostify-sites' ); ?>
 
@@ -2651,6 +2651,7 @@ class Woostify_Sites {
 	 * AJAX callback for the 'merlin_update_selected_import_data_info' action.
 	 */
 	public function woostify_sites_update_selected_import_data_info() {
+		check_ajax_referer( 'woostify_sites_nonce' );
 		$this->selected_index = ! isset( $_POST['selected_index'] ) ? false : intval( $_POST['selected_index'] );
 		$selected_index = ! isset( $_POST['selected_index'] ) ? false : intval( $_POST['selected_index'] );
 

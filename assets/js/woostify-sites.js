@@ -74,6 +74,11 @@ var Woostify_Sites = (function($){
 
         $(".button-next").on( "click", function(e) {
             e.preventDefault();
+            if ( ! getCookie('demo') || getCookie('demo') == 'undefined' ) {
+                alert('You have to select a demo before start importing.');
+                console.log(getCookie('demo'));
+                return;
+            }
             var loading_button = merlin_loading_button(this);
             if ( ! loading_button ) {
                 return false;
@@ -134,6 +139,8 @@ var Woostify_Sites = (function($){
 
         btn_filter_link.on( 'click', function (e) {
             e.preventDefault();
+            document.cookie = "demo=undefined";
+            console.log( getCookie('demo') );
             page = 1;
             $(this).parents( '.filter-links' ).find( '.active' ).removeClass( 'active' );
             $(this).addClass('active');
@@ -155,7 +162,8 @@ var Woostify_Sites = (function($){
                     $( '.merlin__demos' ).addClass('loading');
                 },
                 success : function( response ){
-                    console.log( getCookie( 'total_page' ) );
+                    console.log( $('.merlin__button--next') );
+                    $('.merlin__button--next').css({'display': 'none'});
                     var totalPage = parseInt( getCookie( 'total_page' ) );
                     $( '.merlin__demos' ).removeClass('loading');
                     if( response ) {
@@ -194,7 +202,7 @@ var Woostify_Sites = (function($){
 
             $.post( woostify_sites_params.ajaxurl, {
                 action: 'woostify_sites_update_selected_import_data_info',
-                wpnonce: woostify_sites_params.wpnonce,
+                _ajax_nonce: woostify_sites_params.wpnonce,
                 selected_index: current_index,
             }, function( response ) {
                 if ( response.data != 'success' ) {
@@ -205,9 +213,6 @@ var Woostify_Sites = (function($){
                     $('[data-callback="install_content"]').css({'display': 'block'});
                     $('.js-select').css({'display': 'block'});
                 }
-
-
-
             } )
                 .fail( function() { alert( woostify_sites_params.texts.something_went_wrong ); } );
         } );
@@ -450,11 +455,8 @@ var Woostify_Sites = (function($){
         var progress_bar_interval;
 
         function ajax_callback(response) {
-            
-            console.log(response);
+
             var currentSpan = $current_node.find("label");
-            console.log(currentSpan);
-            console.log($current_node);
             if(typeof response == "object" && typeof response.message !== "undefined"){
                 currentSpan.addClass(response.message.toLowerCase());
 
@@ -581,13 +583,11 @@ var Woostify_Sites = (function($){
 
         return {
             init: function(btn){
-                if ( ! getCookie('demo') ) {
+                if ( ! getCookie('demo') || getCookie('demo') == 'undefined' ) {
                     alert('You have to select a demo before start importing.');
                     console.log(getCookie('demo'));
                     return;
                 }
-
-                console.log(getCookie('demo'));
 
                 $(".merlin__drawer--import-content").addClass("installing");
                 $(".merlin__drawer--import-content").find("input").prop("disabled", true);
