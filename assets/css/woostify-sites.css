@@ -2964,3 +2964,8 @@ body.exiting .merlin__content--content .merlin__content__footer {
 	content: '';
 	margin-left: 8px;
 }
+
+.merlin__demo-cta,
+.merlin__demo-title {
+	max-width: 50%
+}
