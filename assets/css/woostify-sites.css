@@ -13,7 +13,6 @@
 	line-height: 1.7em;
 	margin: 0 auto;
 	padding: 0 !important;
-
 	-webkit-align-items: center;
 	align-items: center;
 	-webkit-box-align: center;
@@ -22,6 +21,11 @@
 	-ms-flex-pack: center;
 	-webkit-justify-content: center;
 	justify-content: center;
+}
+
+.merlin__body.merlin__body--contenido {
+	-webkit-align-items: flex-start;
+	align-items: flex-start;
 }
 
 h1 {
