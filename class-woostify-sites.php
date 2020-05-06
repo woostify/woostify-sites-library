@@ -783,7 +783,7 @@ class Woostify_Sites {
 		// Show the content importer, only if there's demo content added.
 		if ( ! empty( $this->import_files ) ) {
 			$this->steps['content'] = array(
-				'name' => esc_html__( 'Content', 'woostify-sites-library' ),
+				'name' => esc_html( 'Content' ),
 				'view' => array( $this, 'content' ),
 			);
 		}
