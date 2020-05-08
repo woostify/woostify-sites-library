@@ -1,10 +1,9 @@
 === Woostify Sites Library ===
-Contributors: Haintheme
+Contributors: woostify
 Tags: demo, theme demos, one click import
 Requires at least: 4.4
-Requires PHP: 5.3
-Tested up to: 5.1
-Stable tag: 1.2.2
+Requires PHP: 5.6
+Stable tag: 1.2.3
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -49,6 +48,10 @@ Integrating Appsero SDK **DOES NOT IMMEDIATELY** start gathering data, **without
 Learn more about how [Appsero collects and uses this data](https://appsero.com/privacy-policy/).
 
 == Changelog ==
+= 1.2.3 =
+* Fix issue on Spanish language
+* Update content for demo megashop, vouge
+
 = 1.2.2 =
 * Add load more button
 

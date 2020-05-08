@@ -2967,7 +2967,7 @@ body.exiting .merlin__content--content .merlin__content__footer {
 
 @media ( min-width: 992px ) {
 	.merlin__demo-title {
-		max-width: 50%
+		max-width: 120px
 	}
 }
 
