@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/5.3" created="2019-12-04 02:33" -->
+	<!-- generator="WordPress/5.4.1" created="2020-05-08 04:15" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,13 +29,13 @@
 	<title>Voge</title>
 	<link>https://woostify.com/demos/pro/fashion3</link>
 	<description>Just another Woostify Sites site</description>
-	<pubDate>Wed, 04 Dec 2019 02:33:54 +0000</pubDate>
+	<pubDate>Fri, 08 May 2020 04:15:09 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>http://woostify.com/demos/pro/</wp:base_site_url>
 	<wp:base_blog_url>https://woostify.com/demos/pro/fashion3</wp:base_blog_url>
 
-		<wp:author><wp:author_id>1</wp:author_id><wp:author_login><![CDATA[woostify]]></wp:author_login><wp:author_email><![CDATA[ngothaiduong2311@gmail.com]]></wp:author_email><wp:author_display_name><![CDATA[woostify]]></wp:author_display_name><wp:author_first_name><![CDATA[]]></wp:author_first_name><wp:author_last_name><![CDATA[]]></wp:author_last_name></wp:author>
+		<wp:author><wp:author_id>1</wp:author_id><wp:author_login><![CDATA[woostify]]></wp:author_login><wp:author_email><![CDATA[ngothaiduong2311@gmail.com]]></wp:author_email><wp:author_display_name><![CDATA[woostify]]></wp:author_display_name><wp:author_first_name><![CDATA[Tran]]></wp:author_first_name><wp:author_last_name><![CDATA[Thao]]></wp:author_last_name></wp:author>
 
 		<wp:category>
 		<wp:term_id>16</wp:term_id>
@@ -670,7 +670,7 @@
 	<wp:term><wp:term_id>73</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug><![CDATA[women]]></wp:term_slug><wp:term_name><![CDATA[Women]]></wp:term_name>
 </wp:term>
 
-	<generator>https://wordpress.org/?v=5.3</generator>
+	<generator>https://wordpress.org/?v=5.4.1</generator>
 
 <image>
 	<url>https://woostify.com/demos/pro/fashion3/wp-content/uploads/sites/3/2018/12/favicon.png</url>
@@ -3701,71 +3701,6 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title></title>
-		<link>https://woostify.com/demos/pro/fashion3/2018/12/28/133/</link>
-		<pubDate>Fri, 28 Dec 2018 08:29:54 +0000</pubDate>
-		<dc:creator><![CDATA[woostify]]></dc:creator>
-		<guid isPermaLink="false">https://woostify.com/demos/fashion3/?p=133</guid>
-		<description></description>
-		<content:encoded><![CDATA[
-				 		]]></content:encoded>
-		<excerpt:encoded><![CDATA[
-						]]></excerpt:encoded>
-		<wp:post_id>133</wp:post_id>
-		<wp:post_date><![CDATA[2018-12-28 08:29:54]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2018-12-28 08:29:54]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[133]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>4</wp:menu_order>
-		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="nav_menu" nicename="primary-menu"><![CDATA[Primary Menu]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_elementor_controls_usage]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[7]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-		<wp:meta_value><![CDATA[page]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wxr_import_user_slug]]></wp:meta_key>
-		<wp:meta_value><![CDATA[woostify]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
 		<title>Simple Subsbrice Form</title>
 		<link>https://woostify.com/demos/pro/fashion3/?elementor_library=simple-subsbrice-form</link>
 		<pubDate>Fri, 04 Jan 2019 02:37:26 +0000</pubDate>
@@ -3814,6 +3749,10 @@
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wxr_import_user_slug]]></wp:meta_key>
 		<wp:meta_value><![CDATA[woostify]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_elementor_controls_usage]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:5:{s:6:"spacer";a:3:{s:5:"count";i:4;s:15:"control_percent";i:0;s:8:"controls";a:1:{s:7:"content";a:1:{s:14:"section_spacer";a:1:{s:5:"space";i:3;}}}}s:7:"heading";a:3:{s:5:"count";i:2;s:15:"control_percent";i:2;s:8:"controls";a:2:{s:7:"content";a:1:{s:13:"section_title";a:3:{s:5:"title";i:2;s:5:"align";i:2;s:11:"header_size";i:1;}}s:5:"style";a:1:{s:19:"section_title_style";a:1:{s:11:"title_color";i:1;}}}}s:6:"column";a:3:{s:5:"count";i:4;s:15:"control_percent";i:0;s:8:"controls";a:1:{s:6:"layout";a:1:{s:6:"layout";a:1:{s:12:"_inline_size";i:3;}}}}s:9:"shortcode";a:3:{s:5:"count";i:1;s:15:"control_percent";i:1;s:8:"controls";a:1:{s:7:"content";a:1:{s:17:"section_shortcode";a:1:{s:9:"shortcode";i:1;}}}}s:7:"section";a:3:{s:5:"count";i:2;s:15:"control_percent";i:0;s:8:"controls";a:1:{s:6:"layout";a:1:{s:17:"section_structure";a:1:{s:9:"structure";i:1;}}}}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -4212,6 +4151,101 @@
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:94;s:6:"height";i:30;s:4:"file";s:20:"2019/03/vog-logo.png";s:5:"sizes";a:0:{}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wxr_import_user_slug]]></wp:meta_key>
+		<wp:meta_value><![CDATA[woostify]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title>Default Kit</title>
+		<link>https://woostify.com/demos/pro/fashion3/?elementor_library=default-kit</link>
+		<pubDate>Tue, 14 Apr 2020 03:51:14 +0000</pubDate>
+		<dc:creator><![CDATA[]]></dc:creator>
+		<guid isPermaLink="false">https://woostify.com/demos/pro/fashion3/?elementor_library=default-kit</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>668</wp:post_id>
+		<wp:post_date><![CDATA[2020-04-14 03:51:14]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-04-14 03:51:14]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[default-kit]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[elementor_library]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[_elementor_edit_mode]]></wp:meta_key>
+		<wp:meta_value><![CDATA[builder]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_elementor_template_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[kit]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title></title>
+		<link>https://woostify.com/demos/pro/fashion3/2018/12/28/133/</link>
+		<pubDate>Fri, 28 Dec 2018 08:29:54 +0000</pubDate>
+		<dc:creator><![CDATA[woostify]]></dc:creator>
+		<guid isPermaLink="false">https://woostify.com/demos/fashion3/?p=133</guid>
+		<description></description>
+		<content:encoded><![CDATA[
+				 		]]></content:encoded>
+		<excerpt:encoded><![CDATA[
+						]]></excerpt:encoded>
+		<wp:post_id>133</wp:post_id>
+		<wp:post_date><![CDATA[2018-12-28 08:29:54]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2018-12-28 08:29:54]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[133]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>4</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="nav_menu" nicename="primary-menu"><![CDATA[Primary Menu]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_elementor_controls_usage]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[7]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+		<wp:meta_value><![CDATA[page]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wxr_import_user_slug]]></wp:meta_key>
@@ -6754,38 +6788,6 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Privacy Policy</title>
-		<link>https://woostify.com/demos/pro/fashion3/?page_id=635</link>
-		<pubDate>Mon, 17 Dec 2018 09:37:41 +0000</pubDate>
-		<dc:creator><![CDATA[woostify]]></dc:creator>
-		<guid isPermaLink="false">https://woostify.com/demos/fashion3/?page_id=3</guid>
-		<description></description>
-		<content:encoded><![CDATA[
-				<!-- wp:heading --><h2>Who we are</h2><!-- /wp:heading --><!-- wp:paragraph --><p>Our website address is: https://woostify.com/demos/fashion3.</p><!-- /wp:paragraph --><!-- wp:heading --><h2>What personal data we collect and why we collect it</h2><!-- /wp:heading --><!-- wp:heading {"level":3} --><h3>Comments</h3><!-- /wp:heading --><!-- wp:paragraph --><p>When visitors leave comments on the site we collect the data shown in the comments form, and also the visitor&#8217;s IP address and browser user agent string to help spam detection.</p><!-- /wp:paragraph --><!-- wp:paragraph --><p>An anonymized string created from your email address (also called a hash) may be provided to the Gravatar service to see if you are using it. The Gravatar service privacy policy is available here: https://automattic.com/privacy/. After approval of your comment, your profile picture is visible to the public in the context of your comment.</p><!-- /wp:paragraph --><!-- wp:heading {"level":3} --><h3>Media</h3><!-- /wp:heading --><!-- wp:paragraph --><p>If you upload images to the website, you should avoid uploading images with embedded location data (EXIF GPS) included. Visitors to the website can download and extract any location data from images on the website.</p><!-- /wp:paragraph --><!-- wp:heading {"level":3} --><h3>Contact forms</h3><!-- /wp:heading --><!-- wp:heading {"level":3} --><h3>Cookies</h3><!-- /wp:heading --><!-- wp:paragraph --><p>If you leave a comment on our site you may opt-in to saving your name, email address and website in cookies. These are for your convenience so that you do not have to fill in your details again when you leave another comment. These cookies will last for one year.</p><!-- /wp:paragraph --><!-- wp:paragraph --><p>If you have an account and you log in to this site, we will set a temporary cookie to determine if your browser accepts cookies. This cookie contains no personal data and is discarded when you close your browser.</p><!-- /wp:paragraph --><!-- wp:paragraph --><p>When you log in, we will also set up several cookies to save your login information and your screen display choices. Login cookies last for two days, and screen options cookies last for a year. If you select &quot;Remember Me&quot;, your login will persist for two weeks. If you log out of your account, the login cookies will be removed.</p><!-- /wp:paragraph --><!-- wp:paragraph --><p>If you edit or publish an article, an additional cookie will be saved in your browser. This cookie includes no personal data and simply indicates the post ID of the article you just edited. It expires after 1 day.</p><!-- /wp:paragraph --><!-- wp:heading {"level":3} --><h3>Embedded content from other websites</h3><!-- /wp:heading --><!-- wp:paragraph --><p>Articles on this site may include embedded content (e.g. videos, images, articles, etc.). Embedded content from other websites behaves in the exact same way as if the visitor has visited the other website.</p><!-- /wp:paragraph --><!-- wp:paragraph --><p>These websites may collect data about you, use cookies, embed additional third-party tracking, and monitor your interaction with that embedded content, including tracking your interaction with the embedded content if you have an account and are logged in to that website.</p><!-- /wp:paragraph --><!-- wp:heading {"level":3} --><h3>Analytics</h3><!-- /wp:heading --><!-- wp:heading --><h2>Who we share your data with</h2><!-- /wp:heading --><!-- wp:heading --><h2>How long we retain your data</h2><!-- /wp:heading --><!-- wp:paragraph --><p>If you leave a comment, the comment and its metadata are retained indefinitely. This is so we can recognize and approve any follow-up comments automatically instead of holding them in a moderation queue.</p><!-- /wp:paragraph --><!-- wp:paragraph --><p>For users that register on our website (if any), we also store the personal information they provide in their user profile. All users can see, edit, or delete their personal information at any time (except they cannot change their username). Website administrators can also see and edit that information.</p><!-- /wp:paragraph --><!-- wp:heading --><h2>What rights you have over your data</h2><!-- /wp:heading --><!-- wp:paragraph --><p>If you have an account on this site, or have left comments, you can request to receive an exported file of the personal data we hold about you, including any data you have provided to us. You can also request that we erase any personal data we hold about you. This does not include any data we are obliged to keep for administrative, legal, or security purposes.</p><!-- /wp:paragraph --><!-- wp:heading --><h2>Where we send your data</h2><!-- /wp:heading --><!-- wp:paragraph --><p>Visitor comments may be checked through an automated spam detection service.</p><!-- /wp:paragraph --><!-- wp:heading --><h2>Your contact information</h2><!-- /wp:heading --><!-- wp:heading --><h2>Additional information</h2><!-- /wp:heading --><!-- wp:heading {"level":3} --><h3>How we protect your data</h3><!-- /wp:heading --><!-- wp:heading {"level":3} --><h3>What data breach procedures we have in place</h3><!-- /wp:heading --><!-- wp:heading {"level":3} --><h3>What third parties we receive data from</h3><!-- /wp:heading --><!-- wp:heading {"level":3} --><h3>What automated decision making and/or profiling we do with user data</h3><!-- /wp:heading --><!-- wp:heading {"level":3} --><h3>Industry regulatory disclosure requirements</h3><!-- /wp:heading -->		]]></content:encoded>
-		<excerpt:encoded><![CDATA[
-						]]></excerpt:encoded>
-		<wp:post_id>635</wp:post_id>
-		<wp:post_date><![CDATA[2018-12-17 09:37:41]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2018-12-17 09:37:41]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[privacy-policy]]></wp:post_name>
-		<wp:status><![CDATA[draft]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[page]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
-		<wp:meta_value><![CDATA[default]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wxr_import_user_slug]]></wp:meta_key>
-		<wp:meta_value><![CDATA[woostify]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
 		<title>Hello world!</title>
 		<link>https://woostify.com/demos/pro/fashion3/?p=1</link>
 		<pubDate>Wed, 20 Nov 2019 07:46:18 +0000</pubDate>
@@ -7052,170 +7054,170 @@ Commenter avatars come from <a href="https://gravatar.com">Gravatar</a>.]]></wp:
 		<guid isPermaLink="false">https://woostify.com/demos/fashion3/?page_id=11</guid>
 		<description></description>
 		<content:encoded><![CDATA[<h2>Winter Season Ready To Wear</h2>
-																		Sale up to 50% of all items. Money-back guarantee.
-																					<a href="https://woostify.com/demos/pro/fashion3/shop/">Check Now</a>
-																			<h2>Ecologically Grown Cotton</h2>
-																		Perfect item for coming summer
-																					<a href="https://woostify.com/demos/pro/fashion3/shop/">Shop Now</a>
-			<h3>New Arrivals</h3>		
-					<ul>
-		<li>
-				-13%			
-	<a href="javascript:void(0)" data-tinv-wl-list="[{&quot;ID&quot;:1,&quot;title&quot;:&quot;Default wishlist&quot;,&quot;url&quot;:&quot;https://woostify.com/demos/pro/fashion3/wishlist/79717D/&quot;,&quot;in&quot;:false}]" data-tinv-wl-product="323" data-tinv-wl-productvariation="0" data-tinv-wl-producttype="simple" data-tinv-wl-action="addto" rel="nofollow">Add to Wishlist</a>		Add to Wishlist
-		<a href="https://woostify.com/demos/pro/fashion3/product/burberry-t-shirt/">				
-			<img width="300" height="300" src="https://woostify.com/demos/pro/fashion3/wp-content/uploads/sites/3/2019/01/7-1-1-300x300.jpg" alt="Product image" data-src="https://woostify.com/demos/pro/fashion3/wp-content/uploads/sites/3/2019/01/7-1-1-300x300.jpg" srcset="https://woostify.com/demos/pro/fashion3/wp-content/uploads/sites/3/2019/01/7-1-1-300x300.jpg 300w, https://woostify.com/demos/pro/fashion3/wp-content/uploads/sites/3/2019/01/7-1-1-150x150.jpg 150w, https://woostify.com/demos/pro/fashion3/wp-content/uploads/sites/3/2019/01/7-1-1-100x100.jpg 100w" sizes="(max-width: 300px) 100vw, 300px" /></a>		<h2>
-			<a href="https://woostify.com/demos/pro/fashion3/product/burberry-t-shirt/">Burberry T-Shirt</a>		</h2>
-					<del>&pound;40.00</del> <ins>&pound;35.00</ins>
-			<a href="?add-to-cart=323" data-quantity="1" data-product_id="323" data-product_sku="" title="Add &ldquo;Burberry T-Shirt&rdquo; to your cart" rel="nofollow">Add to cart</a>		
-		</li>
-<li>
+Sale up to 50% of all items. Money-back guarantee.
+<a href="https://woostify.com/demos/pro/fashion3/shop/">Check Now</a>
+<h2>Ecologically Grown Cotton</h2>
+Perfect item for coming summer
+<a href="https://woostify.com/demos/pro/fashion3/shop/">Shop Now</a>
+<h3>New Arrivals</h3>
+<ul>
+ 	<li>
+				-13%
+<a href="javascript:void(0)" data-tinv-wl-list="[{&quot;ID&quot;:1,&quot;title&quot;:&quot;Default wishlist&quot;,&quot;url&quot;:&quot;https://woostify.com/demos/pro/fashion3/wishlist/79717D/&quot;,&quot;in&quot;:false}]" data-tinv-wl-product="323" data-tinv-wl-productvariation="0" data-tinv-wl-producttype="simple" data-tinv-wl-action="addto" rel="nofollow">Add to Wishlist</a>		Add to Wishlist
+<a href="https://woostify.com/demos/pro/fashion3/product/burberry-t-shirt/">
+<img width="300" height="300" src="https://woostify.com/demos/pro/fashion3/wp-content/uploads/sites/3/2019/01/7-1-1-300x300.jpg" alt="Product image" data-src="https://woostify.com/demos/pro/fashion3/wp-content/uploads/sites/3/2019/01/7-1-1-300x300.jpg" srcset="https://woostify.com/demos/pro/fashion3/wp-content/uploads/sites/3/2019/01/7-1-1-300x300.jpg 300w, https://woostify.com/demos/pro/fashion3/wp-content/uploads/sites/3/2019/01/7-1-1-150x150.jpg 150w, https://woostify.com/demos/pro/fashion3/wp-content/uploads/sites/3/2019/01/7-1-1-100x100.jpg 100w" sizes="(max-width: 300px) 100vw, 300px"></a>
+<h2>
+			<a href="https://woostify.com/demos/pro/fashion3/product/burberry-t-shirt/">Burberry T-Shirt</a></h2>
+<del>£40.00</del> <ins>£35.00</ins>
+<a href="?add-to-cart=323" data-quantity="1" data-product_id="323" data-product_sku="" title="Add “Burberry T-Shirt” to your cart" rel="nofollow">Add to cart</a></li>
+ 	<li>
 	<a href="javascript:void(0)" data-tinv-wl-list="[{&quot;ID&quot;:1,&quot;title&quot;:&quot;Default wishlist&quot;,&quot;url&quot;:&quot;https://woostify.com/demos/pro/fashion3/wishlist/79717D/&quot;,&quot;in&quot;:false}]" data-tinv-wl-product="324" data-tinv-wl-productvariation="0" data-tinv-wl-producttype="simple" data-tinv-wl-action="addto" rel="nofollow">Add to Wishlist</a>		Add to Wishlist
-		<a href="https://woostify.com/demos/pro/fashion3/product/sporty-backpack/">				
-			<img width="300" height="300" src="https://woostify.com/demos/pro/fashion3/wp-content/uploads/sites/3/2019/01/6-1-1-300x300.jpg" alt="Product image" data-src="https://woostify.com/demos/pro/fashion3/wp-content/uploads/sites/3/2019/01/6-1-1-300x300.jpg" srcset="https://woostify.com/demos/pro/fashion3/wp-content/uploads/sites/3/2019/01/6-1-1-300x300.jpg 300w, https://woostify.com/demos/pro/fashion3/wp-content/uploads/sites/3/2019/01/6-1-1-150x150.jpg 150w, https://woostify.com/demos/pro/fashion3/wp-content/uploads/sites/3/2019/01/6-1-1-100x100.jpg 100w" sizes="(max-width: 300px) 100vw, 300px" /></a>		<h2>
-			<a href="https://woostify.com/demos/pro/fashion3/product/sporty-backpack/">Sporty Backpack</a>		</h2>
-					&pound;42.00
-			<a href="?add-to-cart=324" data-quantity="1" data-product_id="324" data-product_sku="" title="Add &ldquo;Sporty Backpack&rdquo; to your cart" rel="nofollow">Add to cart</a>		
-		</li>
-<li>
+<a href="https://woostify.com/demos/pro/fashion3/product/sporty-backpack/">
+<img width="300" height="300" src="https://woostify.com/demos/pro/fashion3/wp-content/uploads/sites/3/2019/01/6-1-1-300x300.jpg" alt="Product image" data-src="https://woostify.com/demos/pro/fashion3/wp-content/uploads/sites/3/2019/01/6-1-1-300x300.jpg" srcset="https://woostify.com/demos/pro/fashion3/wp-content/uploads/sites/3/2019/01/6-1-1-300x300.jpg 300w, https://woostify.com/demos/pro/fashion3/wp-content/uploads/sites/3/2019/01/6-1-1-150x150.jpg 150w, https://woostify.com/demos/pro/fashion3/wp-content/uploads/sites/3/2019/01/6-1-1-100x100.jpg 100w" sizes="(max-width: 300px) 100vw, 300px"></a>
+<h2>
+			<a href="https://woostify.com/demos/pro/fashion3/product/sporty-backpack/">Sporty Backpack</a></h2>
+£42.00
+<a href="?add-to-cart=324" data-quantity="1" data-product_id="324" data-product_sku="" title="Add “Sporty Backpack” to your cart" rel="nofollow">Add to cart</a></li>
+ 	<li>
 	<a href="javascript:void(0)" data-tinv-wl-list="[{&quot;ID&quot;:1,&quot;title&quot;:&quot;Default wishlist&quot;,&quot;url&quot;:&quot;https://woostify.com/demos/pro/fashion3/wishlist/79717D/&quot;,&quot;in&quot;:false}]" data-tinv-wl-product="325" data-tinv-wl-productvariation="0" data-tinv-wl-producttype="variable" data-tinv-wl-action="addto" rel="nofollow">Add to Wishlist</a>		Add to Wishlist
-		<a href="https://woostify.com/demos/pro/fashion3/product/freddie-mercury-t-shirt/">				
-			<img width="300" height="300" src="https://woostify.com/demos/pro/fashion3/wp-content/uploads/sites/3/2019/01/5-1-1-300x300.jpg" alt="Product image" data-src="https://woostify.com/demos/pro/fashion3/wp-content/uploads/sites/3/2019/01/5-1-1-300x300.jpg" srcset="https://woostify.com/demos/pro/fashion3/wp-content/uploads/sites/3/2019/01/5-1-1-300x300.jpg 300w, https://woostify.com/demos/pro/fashion3/wp-content/uploads/sites/3/2019/01/5-1-1-150x150.jpg 150w, https://woostify.com/demos/pro/fashion3/wp-content/uploads/sites/3/2019/01/5-1-1-100x100.jpg 100w" sizes="(max-width: 300px) 100vw, 300px" /></a>		<h2>
-			<a href="https://woostify.com/demos/pro/fashion3/product/freddie-mercury-t-shirt/">Freddie Mercury T-Shirt</a>		</h2>
-					&pound;28.00
-			<a href="https://woostify.com/demos/pro/fashion3/product/freddie-mercury-t-shirt/" data-quantity="1" data-product_id="325" data-product_sku="" title="Select options for &ldquo;Freddie Mercury T-Shirt&rdquo;" rel="nofollow">Select options</a>		
-		</li>
-<li>
+<a href="https://woostify.com/demos/pro/fashion3/product/freddie-mercury-t-shirt/">
+<img width="300" height="300" src="https://woostify.com/demos/pro/fashion3/wp-content/uploads/sites/3/2019/01/5-1-1-300x300.jpg" alt="Product image" data-src="https://woostify.com/demos/pro/fashion3/wp-content/uploads/sites/3/2019/01/5-1-1-300x300.jpg" srcset="https://woostify.com/demos/pro/fashion3/wp-content/uploads/sites/3/2019/01/5-1-1-300x300.jpg 300w, https://woostify.com/demos/pro/fashion3/wp-content/uploads/sites/3/2019/01/5-1-1-150x150.jpg 150w, https://woostify.com/demos/pro/fashion3/wp-content/uploads/sites/3/2019/01/5-1-1-100x100.jpg 100w" sizes="(max-width: 300px) 100vw, 300px"></a>
+<h2>
+			<a href="https://woostify.com/demos/pro/fashion3/product/freddie-mercury-t-shirt/">Freddie Mercury T-Shirt</a></h2>
+£28.00
+<a href="https://woostify.com/demos/pro/fashion3/product/freddie-mercury-t-shirt/" data-quantity="1" data-product_id="325" data-product_sku="" title="Select options for “Freddie Mercury T-Shirt”" rel="nofollow">Select options</a></li>
+ 	<li>
 	<a href="javascript:void(0)" data-tinv-wl-list="[{&quot;ID&quot;:1,&quot;title&quot;:&quot;Default wishlist&quot;,&quot;url&quot;:&quot;https://woostify.com/demos/pro/fashion3/wishlist/79717D/&quot;,&quot;in&quot;:false}]" data-tinv-wl-product="326" data-tinv-wl-productvariation="0" data-tinv-wl-producttype="variable" data-tinv-wl-action="addto" rel="nofollow">Add to Wishlist</a>		Add to Wishlist
-		<a href="https://woostify.com/demos/pro/fashion3/product/aviator-sunglasses/">				
-			<img width="300" height="300" src="https://woostify.com/demos/pro/fashion3/wp-content/uploads/sites/3/2019/01/4-1-300x300.jpg" alt="Product image" data-src="https://woostify.com/demos/pro/fashion3/wp-content/uploads/sites/3/2019/01/4-1-300x300.jpg" srcset="https://woostify.com/demos/pro/fashion3/wp-content/uploads/sites/3/2019/01/4-1-300x300.jpg 300w, https://woostify.com/demos/pro/fashion3/wp-content/uploads/sites/3/2019/01/4-1-150x150.jpg 150w, https://woostify.com/demos/pro/fashion3/wp-content/uploads/sites/3/2019/01/4-1-100x100.jpg 100w" sizes="(max-width: 300px) 100vw, 300px" /></a>		<h2>
-			<a href="https://woostify.com/demos/pro/fashion3/product/aviator-sunglasses/">Aviator Sunglasses</a>		</h2>
-		PinkOrange			&pound;32.00 &ndash; &pound;35.00
-			<a href="https://woostify.com/demos/pro/fashion3/product/aviator-sunglasses/" data-quantity="1" data-product_id="326" data-product_sku="" title="Select options for &ldquo;Aviator Sunglasses&rdquo;" rel="nofollow">Select options</a>		
-		</li>
-<li>
-				-23%			
-	<a href="javascript:void(0)" data-tinv-wl-list="[{&quot;ID&quot;:1,&quot;title&quot;:&quot;Default wishlist&quot;,&quot;url&quot;:&quot;https://woostify.com/demos/pro/fashion3/wishlist/79717D/&quot;,&quot;in&quot;:false}]" data-tinv-wl-product="327" data-tinv-wl-productvariation="0" data-tinv-wl-producttype="simple" data-tinv-wl-action="addto" rel="nofollow">Add to Wishlist</a>		Add to Wishlist
-		<a href="https://woostify.com/demos/pro/fashion3/product/t-shirt-with-colored-pocket/">				
-			<img width="300" height="300" src="https://woostify.com/demos/pro/fashion3/wp-content/uploads/sites/3/2019/01/3-1-1-300x300.jpg" alt="Product image" data-src="https://woostify.com/demos/pro/fashion3/wp-content/uploads/sites/3/2019/01/3-1-1-300x300.jpg" srcset="https://woostify.com/demos/pro/fashion3/wp-content/uploads/sites/3/2019/01/3-1-1-300x300.jpg 300w, https://woostify.com/demos/pro/fashion3/wp-content/uploads/sites/3/2019/01/3-1-1-150x150.jpg 150w, https://woostify.com/demos/pro/fashion3/wp-content/uploads/sites/3/2019/01/3-1-1-100x100.jpg 100w" sizes="(max-width: 300px) 100vw, 300px" /></a>		<h2>
-			<a href="https://woostify.com/demos/pro/fashion3/product/t-shirt-with-colored-pocket/">T-Shirt With Colored Pocket</a>		</h2>
-		Rated <strong>5.00</strong> out of 5			<del>&pound;35.00</del> <ins>&pound;27.00</ins>
-			<a href="?add-to-cart=327" data-quantity="1" data-product_id="327" data-product_sku="" title="Add &ldquo;T-Shirt With Colored Pocket&rdquo; to your cart" rel="nofollow">Add to cart</a>		
-		</li>
-<li>
+<a href="https://woostify.com/demos/pro/fashion3/product/aviator-sunglasses/">
+<img width="300" height="300" src="https://woostify.com/demos/pro/fashion3/wp-content/uploads/sites/3/2019/01/4-1-300x300.jpg" alt="Product image" data-src="https://woostify.com/demos/pro/fashion3/wp-content/uploads/sites/3/2019/01/4-1-300x300.jpg" srcset="https://woostify.com/demos/pro/fashion3/wp-content/uploads/sites/3/2019/01/4-1-300x300.jpg 300w, https://woostify.com/demos/pro/fashion3/wp-content/uploads/sites/3/2019/01/4-1-150x150.jpg 150w, https://woostify.com/demos/pro/fashion3/wp-content/uploads/sites/3/2019/01/4-1-100x100.jpg 100w" sizes="(max-width: 300px) 100vw, 300px"></a>
+<h2>
+			<a href="https://woostify.com/demos/pro/fashion3/product/aviator-sunglasses/">Aviator Sunglasses</a></h2>
+PinkOrange			£32.00 – £35.00
+<a href="https://woostify.com/demos/pro/fashion3/product/aviator-sunglasses/" data-quantity="1" data-product_id="326" data-product_sku="" title="Select options for “Aviator Sunglasses”" rel="nofollow">Select options</a></li>
+ 	<li>
+				-23%
+<a href="javascript:void(0)" data-tinv-wl-list="[{&quot;ID&quot;:1,&quot;title&quot;:&quot;Default wishlist&quot;,&quot;url&quot;:&quot;https://woostify.com/demos/pro/fashion3/wishlist/79717D/&quot;,&quot;in&quot;:false}]" data-tinv-wl-product="327" data-tinv-wl-productvariation="0" data-tinv-wl-producttype="simple" data-tinv-wl-action="addto" rel="nofollow">Add to Wishlist</a>		Add to Wishlist
+<a href="https://woostify.com/demos/pro/fashion3/product/t-shirt-with-colored-pocket/">
+<img width="300" height="300" src="https://woostify.com/demos/pro/fashion3/wp-content/uploads/sites/3/2019/01/3-1-1-300x300.jpg" alt="Product image" data-src="https://woostify.com/demos/pro/fashion3/wp-content/uploads/sites/3/2019/01/3-1-1-300x300.jpg" srcset="https://woostify.com/demos/pro/fashion3/wp-content/uploads/sites/3/2019/01/3-1-1-300x300.jpg 300w, https://woostify.com/demos/pro/fashion3/wp-content/uploads/sites/3/2019/01/3-1-1-150x150.jpg 150w, https://woostify.com/demos/pro/fashion3/wp-content/uploads/sites/3/2019/01/3-1-1-100x100.jpg 100w" sizes="(max-width: 300px) 100vw, 300px"></a>
+<h2>
+			<a href="https://woostify.com/demos/pro/fashion3/product/t-shirt-with-colored-pocket/">T-Shirt With Colored Pocket</a></h2>
+Rated <strong>5.00</strong> out of 5			<del>£35.00</del> <ins>£27.00</ins>
+<a href="?add-to-cart=327" data-quantity="1" data-product_id="327" data-product_sku="" title="Add “T-Shirt With Colored Pocket” to your cart" rel="nofollow">Add to cart</a></li>
+ 	<li>
 	<a href="javascript:void(0)" data-tinv-wl-list="[{&quot;ID&quot;:1,&quot;title&quot;:&quot;Default wishlist&quot;,&quot;url&quot;:&quot;https://woostify.com/demos/pro/fashion3/wishlist/79717D/&quot;,&quot;in&quot;:false}]" data-tinv-wl-product="328" data-tinv-wl-productvariation="0" data-tinv-wl-producttype="simple" data-tinv-wl-action="addto" rel="nofollow">Add to Wishlist</a>		Add to Wishlist
-		<a href="https://woostify.com/demos/pro/fashion3/product/trainers-multicolored-pieces/">				
-			<img width="300" height="300" src="https://woostify.com/demos/pro/fashion3/wp-content/uploads/sites/3/2019/01/2-1-1-300x300.jpg" alt="Product image" data-src="https://woostify.com/demos/pro/fashion3/wp-content/uploads/sites/3/2019/01/2-1-1-300x300.jpg" srcset="https://woostify.com/demos/pro/fashion3/wp-content/uploads/sites/3/2019/01/2-1-1-300x300.jpg 300w, https://woostify.com/demos/pro/fashion3/wp-content/uploads/sites/3/2019/01/2-1-1-150x150.jpg 150w, https://woostify.com/demos/pro/fashion3/wp-content/uploads/sites/3/2019/01/2-1-1-100x100.jpg 100w" sizes="(max-width: 300px) 100vw, 300px" /></a>		<h2>
-			<a href="https://woostify.com/demos/pro/fashion3/product/trainers-multicolored-pieces/">Trainers Multicolored Pieces</a>		</h2>
-		Rated <strong>5.00</strong> out of 5			&pound;24.00
-			<a href="?add-to-cart=328" data-quantity="1" data-product_id="328" data-product_sku="" title="Add &ldquo;Trainers Multicolored Pieces&rdquo; to your cart" rel="nofollow">Add to cart</a>		
-		</li>
-<li>
+<a href="https://woostify.com/demos/pro/fashion3/product/trainers-multicolored-pieces/">
+<img width="300" height="300" src="https://woostify.com/demos/pro/fashion3/wp-content/uploads/sites/3/2019/01/2-1-1-300x300.jpg" alt="Product image" data-src="https://woostify.com/demos/pro/fashion3/wp-content/uploads/sites/3/2019/01/2-1-1-300x300.jpg" srcset="https://woostify.com/demos/pro/fashion3/wp-content/uploads/sites/3/2019/01/2-1-1-300x300.jpg 300w, https://woostify.com/demos/pro/fashion3/wp-content/uploads/sites/3/2019/01/2-1-1-150x150.jpg 150w, https://woostify.com/demos/pro/fashion3/wp-content/uploads/sites/3/2019/01/2-1-1-100x100.jpg 100w" sizes="(max-width: 300px) 100vw, 300px"></a>
+<h2>
+			<a href="https://woostify.com/demos/pro/fashion3/product/trainers-multicolored-pieces/">Trainers Multicolored Pieces</a></h2>
+Rated <strong>5.00</strong> out of 5			£24.00
+<a href="?add-to-cart=328" data-quantity="1" data-product_id="328" data-product_sku="" title="Add “Trainers Multicolored Pieces” to your cart" rel="nofollow">Add to cart</a></li>
+ 	<li>
 	<a href="javascript:void(0)" data-tinv-wl-list="[{&quot;ID&quot;:1,&quot;title&quot;:&quot;Default wishlist&quot;,&quot;url&quot;:&quot;https://woostify.com/demos/pro/fashion3/wishlist/79717D/&quot;,&quot;in&quot;:false}]" data-tinv-wl-product="329" data-tinv-wl-productvariation="0" data-tinv-wl-producttype="simple" data-tinv-wl-action="addto" rel="nofollow">Add to Wishlist</a>		Add to Wishlist
-		<a href="https://woostify.com/demos/pro/fashion3/product/jacket-with-side-stripes/">				
-			<img width="300" height="300" src="https://woostify.com/demos/pro/fashion3/wp-content/uploads/sites/3/2019/01/1-1-1-300x300.jpg" alt="Product image" data-src="https://woostify.com/demos/pro/fashion3/wp-content/uploads/sites/3/2019/01/1-1-1-300x300.jpg" srcset="https://woostify.com/demos/pro/fashion3/wp-content/uploads/sites/3/2019/01/1-1-1-300x300.jpg 300w, https://woostify.com/demos/pro/fashion3/wp-content/uploads/sites/3/2019/01/1-1-1-150x150.jpg 150w, https://woostify.com/demos/pro/fashion3/wp-content/uploads/sites/3/2019/01/1-1-1-100x100.jpg 100w" sizes="(max-width: 300px) 100vw, 300px" /></a>		<h2>
-			<a href="https://woostify.com/demos/pro/fashion3/product/jacket-with-side-stripes/">Jacket With Side Stripes</a>		</h2>
-		Rated <strong>4.50</strong> out of 5			&pound;26.00
-			<a href="?add-to-cart=329" data-quantity="1" data-product_id="329" data-product_sku="" title="Add &ldquo;Jacket With Side Stripes&rdquo; to your cart" rel="nofollow">Add to cart</a>		
-		</li>
-<li>
-				-13%			
-	<a href="javascript:void(0)" data-tinv-wl-list="[{&quot;ID&quot;:1,&quot;title&quot;:&quot;Default wishlist&quot;,&quot;url&quot;:&quot;https://woostify.com/demos/pro/fashion3/wishlist/79717D/&quot;,&quot;in&quot;:false}]" data-tinv-wl-product="432" data-tinv-wl-productvariation="0" data-tinv-wl-producttype="simple" data-tinv-wl-action="addto" rel="nofollow">Add to Wishlist</a>		Add to Wishlist
-		<a href="https://woostify.com/demos/pro/fashion3/product/parka-with-hood/">				
-			<img width="300" height="300" src="https://woostify.com/demos/pro/fashion3/wp-content/uploads/sites/3/2019/01/8-1-300x300.jpg" alt="Product image" data-src="https://woostify.com/demos/pro/fashion3/wp-content/uploads/sites/3/2019/01/8-1-300x300.jpg" srcset="https://woostify.com/demos/pro/fashion3/wp-content/uploads/sites/3/2019/01/8-1-300x300.jpg 300w, https://woostify.com/demos/pro/fashion3/wp-content/uploads/sites/3/2019/01/8-1-150x150.jpg 150w, https://woostify.com/demos/pro/fashion3/wp-content/uploads/sites/3/2019/01/8-1-100x100.jpg 100w" sizes="(max-width: 300px) 100vw, 300px" /></a>		<h2>
-			<a href="https://woostify.com/demos/pro/fashion3/product/parka-with-hood/">Parka With Hood</a>		</h2>
-					<del>&pound;40.00</del> <ins>&pound;35.00</ins>
-			<a href="?add-to-cart=432" data-quantity="1" data-product_id="432" data-product_sku="" title="Add &ldquo;Parka With Hood&rdquo; to your cart" rel="nofollow">Add to cart</a>		
-		</li>
+<a href="https://woostify.com/demos/pro/fashion3/product/jacket-with-side-stripes/">
+<img width="300" height="300" src="https://woostify.com/demos/pro/fashion3/wp-content/uploads/sites/3/2019/01/1-1-1-300x300.jpg" alt="Product image" data-src="https://woostify.com/demos/pro/fashion3/wp-content/uploads/sites/3/2019/01/1-1-1-300x300.jpg" srcset="https://woostify.com/demos/pro/fashion3/wp-content/uploads/sites/3/2019/01/1-1-1-300x300.jpg 300w, https://woostify.com/demos/pro/fashion3/wp-content/uploads/sites/3/2019/01/1-1-1-150x150.jpg 150w, https://woostify.com/demos/pro/fashion3/wp-content/uploads/sites/3/2019/01/1-1-1-100x100.jpg 100w" sizes="(max-width: 300px) 100vw, 300px"></a>
+<h2>
+			<a href="https://woostify.com/demos/pro/fashion3/product/jacket-with-side-stripes/">Jacket With Side Stripes</a></h2>
+Rated <strong>4.50</strong> out of 5			£26.00
+<a href="?add-to-cart=329" data-quantity="1" data-product_id="329" data-product_sku="" title="Add “Jacket With Side Stripes” to your cart" rel="nofollow">Add to cart</a></li>
+ 	<li>
+				-13%
+<a href="javascript:void(0)" data-tinv-wl-list="[{&quot;ID&quot;:1,&quot;title&quot;:&quot;Default wishlist&quot;,&quot;url&quot;:&quot;https://woostify.com/demos/pro/fashion3/wishlist/79717D/&quot;,&quot;in&quot;:false}]" data-tinv-wl-product="432" data-tinv-wl-productvariation="0" data-tinv-wl-producttype="simple" data-tinv-wl-action="addto" rel="nofollow">Add to Wishlist</a>		Add to Wishlist
+<a href="https://woostify.com/demos/pro/fashion3/product/parka-with-hood/">
+<img width="300" height="300" src="https://woostify.com/demos/pro/fashion3/wp-content/uploads/sites/3/2019/01/8-1-300x300.jpg" alt="Product image" data-src="https://woostify.com/demos/pro/fashion3/wp-content/uploads/sites/3/2019/01/8-1-300x300.jpg" srcset="https://woostify.com/demos/pro/fashion3/wp-content/uploads/sites/3/2019/01/8-1-300x300.jpg 300w, https://woostify.com/demos/pro/fashion3/wp-content/uploads/sites/3/2019/01/8-1-150x150.jpg 150w, https://woostify.com/demos/pro/fashion3/wp-content/uploads/sites/3/2019/01/8-1-100x100.jpg 100w" sizes="(max-width: 300px) 100vw, 300px"></a>
+<h2>
+			<a href="https://woostify.com/demos/pro/fashion3/product/parka-with-hood/">Parka With Hood</a></h2>
+<del>£40.00</del> <ins>£35.00</ins>
+<a href="?add-to-cart=432" data-quantity="1" data-product_id="432" data-product_sku="" title="Add “Parka With Hood” to your cart" rel="nofollow">Add to cart</a></li>
 </ul>
-			<h3>Featured Categories</h3>		
-							<a href="https://woostify.com/demos/pro/fashion3/product-category/accessories/bags-backpacks/">
-								<img src="https://woostify.com/demos/pro/fashion3/wp-content/uploads/sites/3/2019/01/vogue-cat-bag.jpg" alt="Product category image">
-								Bags &amp; Backpacks1 Product									
-																</a>
-							<a href="https://woostify.com/demos/pro/fashion3/product-category/accessories/glasses/">
-								<img src="https://woostify.com/demos/pro/fashion3/wp-content/uploads/sites/3/2019/01/vogue-cat-glasses.jpg" alt="Product category image">
-								Glasses1 Product									
-																</a>
-							<a href="https://woostify.com/demos/pro/fashion3/product-category/shoes/">
-								<img src="https://woostify.com/demos/pro/fashion3/wp-content/uploads/sites/3/2019/01/vogue-shoe.jpg" alt="Product category image">
-								Shoes1 Product									
-																</a>
-			<h3>Best Sellers</h3>		
-			<ul data-tiny-slider='{"items":2,"autoplay":true,"autoplayTimeout":5000,"autoplayHoverPause":true,"controls":false,"nav":true,"speed":300,"loop":false,"gutter":15,"mouseDrag":true,"slideBy":1,"responsive":{"768":{"items":3,"gutter":15,"controls":false,"nav":true},"992":{"items":3,"gutter":30,"controls":false,"nav":true}}}'>
-				<li>
-				-13%			
-	<a href="javascript:void(0)" data-tinv-wl-list="[{&quot;ID&quot;:1,&quot;title&quot;:&quot;Default wishlist&quot;,&quot;url&quot;:&quot;https://woostify.com/demos/pro/fashion3/wishlist/79717D/&quot;,&quot;in&quot;:false}]" data-tinv-wl-product="323" data-tinv-wl-productvariation="0" data-tinv-wl-producttype="simple" data-tinv-wl-action="addto" rel="nofollow">Add to Wishlist</a>		Add to Wishlist
-		<a href="https://woostify.com/demos/pro/fashion3/product/burberry-t-shirt/">				
-			<img width="300" height="300" src="https://woostify.com/demos/pro/fashion3/wp-content/uploads/sites/3/2019/01/7-1-1-300x300.jpg" alt="Product image" data-src="https://woostify.com/demos/pro/fashion3/wp-content/uploads/sites/3/2019/01/7-1-1-300x300.jpg" srcset="https://woostify.com/demos/pro/fashion3/wp-content/uploads/sites/3/2019/01/7-1-1-300x300.jpg 300w, https://woostify.com/demos/pro/fashion3/wp-content/uploads/sites/3/2019/01/7-1-1-150x150.jpg 150w, https://woostify.com/demos/pro/fashion3/wp-content/uploads/sites/3/2019/01/7-1-1-100x100.jpg 100w" sizes="(max-width: 300px) 100vw, 300px" /></a>		<h2>
-			<a href="https://woostify.com/demos/pro/fashion3/product/burberry-t-shirt/">Burberry T-Shirt</a>		</h2>
-					<del>&pound;40.00</del> <ins>&pound;35.00</ins>
-			<a href="?add-to-cart=323" data-quantity="1" data-product_id="323" data-product_sku="" title="Add &ldquo;Burberry T-Shirt&rdquo; to your cart" rel="nofollow">Add to cart</a>		
-		</li>
-<li>
+<h3>Featured Categories</h3>
+<a href="https://woostify.com/demos/pro/fashion3/product-category/accessories/bags-backpacks/">
+<img src="https://woostify.com/demos/pro/fashion3/wp-content/uploads/sites/3/2019/01/vogue-cat-bag.jpg" alt="Product category image">
+Bags &amp; Backpacks1 Product
+</a>
+<a href="https://woostify.com/demos/pro/fashion3/product-category/accessories/glasses/">
+<img src="https://woostify.com/demos/pro/fashion3/wp-content/uploads/sites/3/2019/01/vogue-cat-glasses.jpg" alt="Product category image">
+Glasses1 Product
+</a>
+<a href="https://woostify.com/demos/pro/fashion3/product-category/shoes/">
+<img src="https://woostify.com/demos/pro/fashion3/wp-content/uploads/sites/3/2019/01/vogue-shoe.jpg" alt="Product category image">
+Shoes1 Product
+</a>
+<h3>Best Sellers</h3>
+<ul data-tiny-slider="{&quot;items&quot;:2,&quot;autoplay&quot;:true,&quot;autoplayTimeout&quot;:5000,&quot;autoplayHoverPause&quot;:true,&quot;controls&quot;:false,&quot;nav&quot;:true,&quot;speed&quot;:300,&quot;loop&quot;:false,&quot;gutter&quot;:15,&quot;mouseDrag&quot;:true,&quot;slideBy&quot;:1,&quot;responsive&quot;:{&quot;768&quot;:{&quot;items&quot;:3,&quot;gutter&quot;:15,&quot;controls&quot;:false,&quot;nav&quot;:true},&quot;992&quot;:{&quot;items&quot;:3,&quot;gutter&quot;:30,&quot;controls&quot;:false,&quot;nav&quot;:true}}}">
+ 	<li>
+				-13%
+<a href="javascript:void(0)" data-tinv-wl-list="[{&quot;ID&quot;:1,&quot;title&quot;:&quot;Default wishlist&quot;,&quot;url&quot;:&quot;https://woostify.com/demos/pro/fashion3/wishlist/79717D/&quot;,&quot;in&quot;:false}]" data-tinv-wl-product="323" data-tinv-wl-productvariation="0" data-tinv-wl-producttype="simple" data-tinv-wl-action="addto" rel="nofollow">Add to Wishlist</a>		Add to Wishlist
+<a href="https://woostify.com/demos/pro/fashion3/product/burberry-t-shirt/">
+<img width="300" height="300" src="https://woostify.com/demos/pro/fashion3/wp-content/uploads/sites/3/2019/01/7-1-1-300x300.jpg" alt="Product image" data-src="https://woostify.com/demos/pro/fashion3/wp-content/uploads/sites/3/2019/01/7-1-1-300x300.jpg" srcset="https://woostify.com/demos/pro/fashion3/wp-content/uploads/sites/3/2019/01/7-1-1-300x300.jpg 300w, https://woostify.com/demos/pro/fashion3/wp-content/uploads/sites/3/2019/01/7-1-1-150x150.jpg 150w, https://woostify.com/demos/pro/fashion3/wp-content/uploads/sites/3/2019/01/7-1-1-100x100.jpg 100w" sizes="(max-width: 300px) 100vw, 300px"></a>
+<h2>
+			<a href="https://woostify.com/demos/pro/fashion3/product/burberry-t-shirt/">Burberry T-Shirt</a></h2>
+<del>£40.00</del> <ins>£35.00</ins>
+<a href="?add-to-cart=323" data-quantity="1" data-product_id="323" data-product_sku="" title="Add “Burberry T-Shirt” to your cart" rel="nofollow">Add to cart</a></li>
+ 	<li>
 	<a href="javascript:void(0)" data-tinv-wl-list="[{&quot;ID&quot;:1,&quot;title&quot;:&quot;Default wishlist&quot;,&quot;url&quot;:&quot;https://woostify.com/demos/pro/fashion3/wishlist/79717D/&quot;,&quot;in&quot;:false}]" data-tinv-wl-product="324" data-tinv-wl-productvariation="0" data-tinv-wl-producttype="simple" data-tinv-wl-action="addto" rel="nofollow">Add to Wishlist</a>		Add to Wishlist
-		<a href="https://woostify.com/demos/pro/fashion3/product/sporty-backpack/">				
-			<img width="300" height="300" src="https://woostify.com/demos/pro/fashion3/wp-content/uploads/sites/3/2019/01/6-1-1-300x300.jpg" alt="Product image" data-src="https://woostify.com/demos/pro/fashion3/wp-content/uploads/sites/3/2019/01/6-1-1-300x300.jpg" srcset="https://woostify.com/demos/pro/fashion3/wp-content/uploads/sites/3/2019/01/6-1-1-300x300.jpg 300w, https://woostify.com/demos/pro/fashion3/wp-content/uploads/sites/3/2019/01/6-1-1-150x150.jpg 150w, https://woostify.com/demos/pro/fashion3/wp-content/uploads/sites/3/2019/01/6-1-1-100x100.jpg 100w" sizes="(max-width: 300px) 100vw, 300px" /></a>		<h2>
-			<a href="https://woostify.com/demos/pro/fashion3/product/sporty-backpack/">Sporty Backpack</a>		</h2>
-					&pound;42.00
-			<a href="?add-to-cart=324" data-quantity="1" data-product_id="324" data-product_sku="" title="Add &ldquo;Sporty Backpack&rdquo; to your cart" rel="nofollow">Add to cart</a>		
-		</li>
-<li>
+<a href="https://woostify.com/demos/pro/fashion3/product/sporty-backpack/">
+<img width="300" height="300" src="https://woostify.com/demos/pro/fashion3/wp-content/uploads/sites/3/2019/01/6-1-1-300x300.jpg" alt="Product image" data-src="https://woostify.com/demos/pro/fashion3/wp-content/uploads/sites/3/2019/01/6-1-1-300x300.jpg" srcset="https://woostify.com/demos/pro/fashion3/wp-content/uploads/sites/3/2019/01/6-1-1-300x300.jpg 300w, https://woostify.com/demos/pro/fashion3/wp-content/uploads/sites/3/2019/01/6-1-1-150x150.jpg 150w, https://woostify.com/demos/pro/fashion3/wp-content/uploads/sites/3/2019/01/6-1-1-100x100.jpg 100w" sizes="(max-width: 300px) 100vw, 300px"></a>
+<h2>
+			<a href="https://woostify.com/demos/pro/fashion3/product/sporty-backpack/">Sporty Backpack</a></h2>
+£42.00
+<a href="?add-to-cart=324" data-quantity="1" data-product_id="324" data-product_sku="" title="Add “Sporty Backpack” to your cart" rel="nofollow">Add to cart</a></li>
+ 	<li>
 	<a href="javascript:void(0)" data-tinv-wl-list="[{&quot;ID&quot;:1,&quot;title&quot;:&quot;Default wishlist&quot;,&quot;url&quot;:&quot;https://woostify.com/demos/pro/fashion3/wishlist/79717D/&quot;,&quot;in&quot;:false}]" data-tinv-wl-product="325" data-tinv-wl-productvariation="0" data-tinv-wl-producttype="variable" data-tinv-wl-action="addto" rel="nofollow">Add to Wishlist</a>		Add to Wishlist
-		<a href="https://woostify.com/demos/pro/fashion3/product/freddie-mercury-t-shirt/">				
-			<img width="300" height="300" src="https://woostify.com/demos/pro/fashion3/wp-content/uploads/sites/3/2019/01/5-1-1-300x300.jpg" alt="Product image" data-src="https://woostify.com/demos/pro/fashion3/wp-content/uploads/sites/3/2019/01/5-1-1-300x300.jpg" srcset="https://woostify.com/demos/pro/fashion3/wp-content/uploads/sites/3/2019/01/5-1-1-300x300.jpg 300w, https://woostify.com/demos/pro/fashion3/wp-content/uploads/sites/3/2019/01/5-1-1-150x150.jpg 150w, https://woostify.com/demos/pro/fashion3/wp-content/uploads/sites/3/2019/01/5-1-1-100x100.jpg 100w" sizes="(max-width: 300px) 100vw, 300px" /></a>		<h2>
-			<a href="https://woostify.com/demos/pro/fashion3/product/freddie-mercury-t-shirt/">Freddie Mercury T-Shirt</a>		</h2>
-					&pound;28.00
-			<a href="https://woostify.com/demos/pro/fashion3/product/freddie-mercury-t-shirt/" data-quantity="1" data-product_id="325" data-product_sku="" title="Select options for &ldquo;Freddie Mercury T-Shirt&rdquo;" rel="nofollow">Select options</a>		
-		</li>
-<li>
+<a href="https://woostify.com/demos/pro/fashion3/product/freddie-mercury-t-shirt/">
+<img width="300" height="300" src="https://woostify.com/demos/pro/fashion3/wp-content/uploads/sites/3/2019/01/5-1-1-300x300.jpg" alt="Product image" data-src="https://woostify.com/demos/pro/fashion3/wp-content/uploads/sites/3/2019/01/5-1-1-300x300.jpg" srcset="https://woostify.com/demos/pro/fashion3/wp-content/uploads/sites/3/2019/01/5-1-1-300x300.jpg 300w, https://woostify.com/demos/pro/fashion3/wp-content/uploads/sites/3/2019/01/5-1-1-150x150.jpg 150w, https://woostify.com/demos/pro/fashion3/wp-content/uploads/sites/3/2019/01/5-1-1-100x100.jpg 100w" sizes="(max-width: 300px) 100vw, 300px"></a>
+<h2>
+			<a href="https://woostify.com/demos/pro/fashion3/product/freddie-mercury-t-shirt/">Freddie Mercury T-Shirt</a></h2>
+£28.00
+<a href="https://woostify.com/demos/pro/fashion3/product/freddie-mercury-t-shirt/" data-quantity="1" data-product_id="325" data-product_sku="" title="Select options for “Freddie Mercury T-Shirt”" rel="nofollow">Select options</a></li>
+ 	<li>
 	<a href="javascript:void(0)" data-tinv-wl-list="[{&quot;ID&quot;:1,&quot;title&quot;:&quot;Default wishlist&quot;,&quot;url&quot;:&quot;https://woostify.com/demos/pro/fashion3/wishlist/79717D/&quot;,&quot;in&quot;:false}]" data-tinv-wl-product="326" data-tinv-wl-productvariation="0" data-tinv-wl-producttype="variable" data-tinv-wl-action="addto" rel="nofollow">Add to Wishlist</a>		Add to Wishlist
-		<a href="https://woostify.com/demos/pro/fashion3/product/aviator-sunglasses/">				
-			<img width="300" height="300" src="https://woostify.com/demos/pro/fashion3/wp-content/uploads/sites/3/2019/01/4-1-300x300.jpg" alt="Product image" data-src="https://woostify.com/demos/pro/fashion3/wp-content/uploads/sites/3/2019/01/4-1-300x300.jpg" srcset="https://woostify.com/demos/pro/fashion3/wp-content/uploads/sites/3/2019/01/4-1-300x300.jpg 300w, https://woostify.com/demos/pro/fashion3/wp-content/uploads/sites/3/2019/01/4-1-150x150.jpg 150w, https://woostify.com/demos/pro/fashion3/wp-content/uploads/sites/3/2019/01/4-1-100x100.jpg 100w" sizes="(max-width: 300px) 100vw, 300px" /></a>		<h2>
-			<a href="https://woostify.com/demos/pro/fashion3/product/aviator-sunglasses/">Aviator Sunglasses</a>		</h2>
-		PinkOrange			&pound;32.00 &ndash; &pound;35.00
-			<a href="https://woostify.com/demos/pro/fashion3/product/aviator-sunglasses/" data-quantity="1" data-product_id="326" data-product_sku="" title="Select options for &ldquo;Aviator Sunglasses&rdquo;" rel="nofollow">Select options</a>		
-		</li>
-<li>
-				-23%			
-	<a href="javascript:void(0)" data-tinv-wl-list="[{&quot;ID&quot;:1,&quot;title&quot;:&quot;Default wishlist&quot;,&quot;url&quot;:&quot;https://woostify.com/demos/pro/fashion3/wishlist/79717D/&quot;,&quot;in&quot;:false}]" data-tinv-wl-product="327" data-tinv-wl-productvariation="0" data-tinv-wl-producttype="simple" data-tinv-wl-action="addto" rel="nofollow">Add to Wishlist</a>		Add to Wishlist
-		<a href="https://woostify.com/demos/pro/fashion3/product/t-shirt-with-colored-pocket/">				
-			<img width="300" height="300" src="https://woostify.com/demos/pro/fashion3/wp-content/uploads/sites/3/2019/01/3-1-1-300x300.jpg" alt="Product image" data-src="https://woostify.com/demos/pro/fashion3/wp-content/uploads/sites/3/2019/01/3-1-1-300x300.jpg" srcset="https://woostify.com/demos/pro/fashion3/wp-content/uploads/sites/3/2019/01/3-1-1-300x300.jpg 300w, https://woostify.com/demos/pro/fashion3/wp-content/uploads/sites/3/2019/01/3-1-1-150x150.jpg 150w, https://woostify.com/demos/pro/fashion3/wp-content/uploads/sites/3/2019/01/3-1-1-100x100.jpg 100w" sizes="(max-width: 300px) 100vw, 300px" /></a>		<h2>
-			<a href="https://woostify.com/demos/pro/fashion3/product/t-shirt-with-colored-pocket/">T-Shirt With Colored Pocket</a>		</h2>
-		Rated <strong>5.00</strong> out of 5			<del>&pound;35.00</del> <ins>&pound;27.00</ins>
-			<a href="?add-to-cart=327" data-quantity="1" data-product_id="327" data-product_sku="" title="Add &ldquo;T-Shirt With Colored Pocket&rdquo; to your cart" rel="nofollow">Add to cart</a>		
-		</li>
-<li>
+<a href="https://woostify.com/demos/pro/fashion3/product/aviator-sunglasses/">
+<img width="300" height="300" src="https://woostify.com/demos/pro/fashion3/wp-content/uploads/sites/3/2019/01/4-1-300x300.jpg" alt="Product image" data-src="https://woostify.com/demos/pro/fashion3/wp-content/uploads/sites/3/2019/01/4-1-300x300.jpg" srcset="https://woostify.com/demos/pro/fashion3/wp-content/uploads/sites/3/2019/01/4-1-300x300.jpg 300w, https://woostify.com/demos/pro/fashion3/wp-content/uploads/sites/3/2019/01/4-1-150x150.jpg 150w, https://woostify.com/demos/pro/fashion3/wp-content/uploads/sites/3/2019/01/4-1-100x100.jpg 100w" sizes="(max-width: 300px) 100vw, 300px"></a>
+<h2>
+			<a href="https://woostify.com/demos/pro/fashion3/product/aviator-sunglasses/">Aviator Sunglasses</a></h2>
+PinkOrange			£32.00 – £35.00
+<a href="https://woostify.com/demos/pro/fashion3/product/aviator-sunglasses/" data-quantity="1" data-product_id="326" data-product_sku="" title="Select options for “Aviator Sunglasses”" rel="nofollow">Select options</a></li>
+ 	<li>
+				-23%
+<a href="javascript:void(0)" data-tinv-wl-list="[{&quot;ID&quot;:1,&quot;title&quot;:&quot;Default wishlist&quot;,&quot;url&quot;:&quot;https://woostify.com/demos/pro/fashion3/wishlist/79717D/&quot;,&quot;in&quot;:false}]" data-tinv-wl-product="327" data-tinv-wl-productvariation="0" data-tinv-wl-producttype="simple" data-tinv-wl-action="addto" rel="nofollow">Add to Wishlist</a>		Add to Wishlist
+<a href="https://woostify.com/demos/pro/fashion3/product/t-shirt-with-colored-pocket/">
+<img width="300" height="300" src="https://woostify.com/demos/pro/fashion3/wp-content/uploads/sites/3/2019/01/3-1-1-300x300.jpg" alt="Product image" data-src="https://woostify.com/demos/pro/fashion3/wp-content/uploads/sites/3/2019/01/3-1-1-300x300.jpg" srcset="https://woostify.com/demos/pro/fashion3/wp-content/uploads/sites/3/2019/01/3-1-1-300x300.jpg 300w, https://woostify.com/demos/pro/fashion3/wp-content/uploads/sites/3/2019/01/3-1-1-150x150.jpg 150w, https://woostify.com/demos/pro/fashion3/wp-content/uploads/sites/3/2019/01/3-1-1-100x100.jpg 100w" sizes="(max-width: 300px) 100vw, 300px"></a>
+<h2>
+			<a href="https://woostify.com/demos/pro/fashion3/product/t-shirt-with-colored-pocket/">T-Shirt With Colored Pocket</a></h2>
+Rated <strong>5.00</strong> out of 5			<del>£35.00</del> <ins>£27.00</ins>
+<a href="?add-to-cart=327" data-quantity="1" data-product_id="327" data-product_sku="" title="Add “T-Shirt With Colored Pocket” to your cart" rel="nofollow">Add to cart</a></li>
+ 	<li>
 	<a href="javascript:void(0)" data-tinv-wl-list="[{&quot;ID&quot;:1,&quot;title&quot;:&quot;Default wishlist&quot;,&quot;url&quot;:&quot;https://woostify.com/demos/pro/fashion3/wishlist/79717D/&quot;,&quot;in&quot;:false}]" data-tinv-wl-product="328" data-tinv-wl-productvariation="0" data-tinv-wl-producttype="simple" data-tinv-wl-action="addto" rel="nofollow">Add to Wishlist</a>		Add to Wishlist
-		<a href="https://woostify.com/demos/pro/fashion3/product/trainers-multicolored-pieces/">				
-			<img width="300" height="300" src="https://woostify.com/demos/pro/fashion3/wp-content/uploads/sites/3/2019/01/2-1-1-300x300.jpg" alt="Product image" data-src="https://woostify.com/demos/pro/fashion3/wp-content/uploads/sites/3/2019/01/2-1-1-300x300.jpg" srcset="https://woostify.com/demos/pro/fashion3/wp-content/uploads/sites/3/2019/01/2-1-1-300x300.jpg 300w, https://woostify.com/demos/pro/fashion3/wp-content/uploads/sites/3/2019/01/2-1-1-150x150.jpg 150w, https://woostify.com/demos/pro/fashion3/wp-content/uploads/sites/3/2019/01/2-1-1-100x100.jpg 100w" sizes="(max-width: 300px) 100vw, 300px" /></a>		<h2>
-			<a href="https://woostify.com/demos/pro/fashion3/product/trainers-multicolored-pieces/">Trainers Multicolored Pieces</a>		</h2>
-		Rated <strong>5.00</strong> out of 5			&pound;24.00
-			<a href="?add-to-cart=328" data-quantity="1" data-product_id="328" data-product_sku="" title="Add &ldquo;Trainers Multicolored Pieces&rdquo; to your cart" rel="nofollow">Add to cart</a>		
-		</li>
-			</ul>
-			<h3>From Our Blog</h3>		
-													<a href="https://woostify.com/demos/pro/fashion3/2019/01/02/september-l-a-wellness-events-you-dont-want-to-miss/">
-								<img width="768" height="400" alt="Post thumbnail" srcset="https://woostify.com/demos/pro/fashion3/wp-content/uploads/sites/3/2019/01/blog-4-768x400.jpg 768w, https://woostify.com/demos/pro/fashion3/wp-content/uploads/sites/3/2019/01/blog-4-300x156.jpg 300w, https://woostify.com/demos/pro/fashion3/wp-content/uploads/sites/3/2019/01/blog-4-1024x533.jpg 1024w, https://woostify.com/demos/pro/fashion3/wp-content/uploads/sites/3/2019/01/blog-4-1536x800.jpg 1536w, https://woostify.com/demos/pro/fashion3/wp-content/uploads/sites/3/2019/01/blog-4-600x313.jpg 600w, https://woostify.com/demos/pro/fashion3/wp-content/uploads/sites/3/2019/01/blog-4.jpg 1920w" sizes="(max-width: 768px) 100vw, 768px" />							</a>
-											<a href="https://woostify.com/demos/pro/fashion3/2019/01/02/september-l-a-wellness-events-you-dont-want-to-miss/">January 2, 2019</a>
-											<a href="https://woostify.com/demos/pro/fashion3/author/woostify/">
-												woostify											</a>
-																	<h3><a href="https://woostify.com/demos/pro/fashion3/2019/01/02/september-l-a-wellness-events-you-dont-want-to-miss/">Take a look at Naomi mannequin</a></h3>
-													<a href="https://woostify.com/demos/pro/fashion3/2019/01/02/younlife-at-the-groove-come-and-say-hey/">
-								<img width="768" height="400" alt="Post thumbnail" srcset="https://woostify.com/demos/pro/fashion3/wp-content/uploads/sites/3/2019/01/blog-3-768x400.jpg 768w, https://woostify.com/demos/pro/fashion3/wp-content/uploads/sites/3/2019/01/blog-3-300x156.jpg 300w, https://woostify.com/demos/pro/fashion3/wp-content/uploads/sites/3/2019/01/blog-3-1024x533.jpg 1024w, https://woostify.com/demos/pro/fashion3/wp-content/uploads/sites/3/2019/01/blog-3-1536x800.jpg 1536w, https://woostify.com/demos/pro/fashion3/wp-content/uploads/sites/3/2019/01/blog-3-600x313.jpg 600w, https://woostify.com/demos/pro/fashion3/wp-content/uploads/sites/3/2019/01/blog-3.jpg 1920w" sizes="(max-width: 768px) 100vw, 768px" />							</a>
-											<a href="https://woostify.com/demos/pro/fashion3/2019/01/02/younlife-at-the-groove-come-and-say-hey/">January 2, 2019</a>
-											<a href="https://woostify.com/demos/pro/fashion3/author/woostify/">
-												woostify											</a>
-																	<h3><a href="https://woostify.com/demos/pro/fashion3/2019/01/02/younlife-at-the-groove-come-and-say-hey/">Show of the week: Milano is coming soon</a></h3>
-													<a href="https://woostify.com/demos/pro/fashion3/2019/01/02/the-routine-that-will-make-you-like-yoga/">
-								<img width="768" height="400" alt="Post thumbnail" srcset="https://woostify.com/demos/pro/fashion3/wp-content/uploads/sites/3/2019/01/blog-2-768x400.jpg 768w, https://woostify.com/demos/pro/fashion3/wp-content/uploads/sites/3/2019/01/blog-2-300x156.jpg 300w, https://woostify.com/demos/pro/fashion3/wp-content/uploads/sites/3/2019/01/blog-2-1024x533.jpg 1024w, https://woostify.com/demos/pro/fashion3/wp-content/uploads/sites/3/2019/01/blog-2-1536x800.jpg 1536w, https://woostify.com/demos/pro/fashion3/wp-content/uploads/sites/3/2019/01/blog-2-600x313.jpg 600w, https://woostify.com/demos/pro/fashion3/wp-content/uploads/sites/3/2019/01/blog-2.jpg 1920w" sizes="(max-width: 768px) 100vw, 768px" />							</a>
-											<a href="https://woostify.com/demos/pro/fashion3/2019/01/02/the-routine-that-will-make-you-like-yoga/">January 2, 2019</a>
-											<a href="https://woostify.com/demos/pro/fashion3/author/woostify/">
-												woostify											</a>
-																	<h3><a href="https://woostify.com/demos/pro/fashion3/2019/01/02/the-routine-that-will-make-you-like-yoga/">Retro Fashion: A look back to 1990s</a></h3>
-			<a href="https://woostify.com/demos/fashion2/blog/" role="button">
-						View All Posts
-					</a>
-		[instagram-feed]]]></content:encoded>
+<a href="https://woostify.com/demos/pro/fashion3/product/trainers-multicolored-pieces/">
+<img width="300" height="300" src="https://woostify.com/demos/pro/fashion3/wp-content/uploads/sites/3/2019/01/2-1-1-300x300.jpg" alt="Product image" data-src="https://woostify.com/demos/pro/fashion3/wp-content/uploads/sites/3/2019/01/2-1-1-300x300.jpg" srcset="https://woostify.com/demos/pro/fashion3/wp-content/uploads/sites/3/2019/01/2-1-1-300x300.jpg 300w, https://woostify.com/demos/pro/fashion3/wp-content/uploads/sites/3/2019/01/2-1-1-150x150.jpg 150w, https://woostify.com/demos/pro/fashion3/wp-content/uploads/sites/3/2019/01/2-1-1-100x100.jpg 100w" sizes="(max-width: 300px) 100vw, 300px"></a>
+<h2>
+			<a href="https://woostify.com/demos/pro/fashion3/product/trainers-multicolored-pieces/">Trainers Multicolored Pieces</a></h2>
+Rated <strong>5.00</strong> out of 5			£24.00
+<a href="?add-to-cart=328" data-quantity="1" data-product_id="328" data-product_sku="" title="Add “Trainers Multicolored Pieces” to your cart" rel="nofollow">Add to cart</a></li>
+</ul>
+<h3>From Our Blog</h3>
+<a href="https://woostify.com/demos/pro/fashion3/2019/01/02/september-l-a-wellness-events-you-dont-want-to-miss/">
+<img width="768" height="400" alt="Post thumbnail" srcset="https://woostify.com/demos/pro/fashion3/wp-content/uploads/sites/3/2019/01/blog-4-768x400.jpg 768w, https://woostify.com/demos/pro/fashion3/wp-content/uploads/sites/3/2019/01/blog-4-300x156.jpg 300w, https://woostify.com/demos/pro/fashion3/wp-content/uploads/sites/3/2019/01/blog-4-1024x533.jpg 1024w, https://woostify.com/demos/pro/fashion3/wp-content/uploads/sites/3/2019/01/blog-4-1536x800.jpg 1536w, https://woostify.com/demos/pro/fashion3/wp-content/uploads/sites/3/2019/01/blog-4-600x313.jpg 600w, https://woostify.com/demos/pro/fashion3/wp-content/uploads/sites/3/2019/01/blog-4.jpg 1920w" sizes="(max-width: 768px) 100vw, 768px">							</a>
+<a href="https://woostify.com/demos/pro/fashion3/2019/01/02/september-l-a-wellness-events-you-dont-want-to-miss/">January 2, 2019</a>
+<a href="https://woostify.com/demos/pro/fashion3/author/woostify/">
+woostify											</a>
+<h3><a href="https://woostify.com/demos/pro/fashion3/2019/01/02/september-l-a-wellness-events-you-dont-want-to-miss/">Take a look at Naomi mannequin</a></h3>
+<a href="https://woostify.com/demos/pro/fashion3/2019/01/02/younlife-at-the-groove-come-and-say-hey/">
+<img width="768" height="400" alt="Post thumbnail" srcset="https://woostify.com/demos/pro/fashion3/wp-content/uploads/sites/3/2019/01/blog-3-768x400.jpg 768w, https://woostify.com/demos/pro/fashion3/wp-content/uploads/sites/3/2019/01/blog-3-300x156.jpg 300w, https://woostify.com/demos/pro/fashion3/wp-content/uploads/sites/3/2019/01/blog-3-1024x533.jpg 1024w, https://woostify.com/demos/pro/fashion3/wp-content/uploads/sites/3/2019/01/blog-3-1536x800.jpg 1536w, https://woostify.com/demos/pro/fashion3/wp-content/uploads/sites/3/2019/01/blog-3-600x313.jpg 600w, https://woostify.com/demos/pro/fashion3/wp-content/uploads/sites/3/2019/01/blog-3.jpg 1920w" sizes="(max-width: 768px) 100vw, 768px">							</a>
+<a href="https://woostify.com/demos/pro/fashion3/2019/01/02/younlife-at-the-groove-come-and-say-hey/">January 2, 2019</a>
+<a href="https://woostify.com/demos/pro/fashion3/author/woostify/">
+woostify											</a>
+<h3><a href="https://woostify.com/demos/pro/fashion3/2019/01/02/younlife-at-the-groove-come-and-say-hey/">Show of the week: Milano is coming soon</a></h3>
+<a href="https://woostify.com/demos/pro/fashion3/2019/01/02/the-routine-that-will-make-you-like-yoga/">
+<img width="768" height="400" alt="Post thumbnail" srcset="https://woostify.com/demos/pro/fashion3/wp-content/uploads/sites/3/2019/01/blog-2-768x400.jpg 768w, https://woostify.com/demos/pro/fashion3/wp-content/uploads/sites/3/2019/01/blog-2-300x156.jpg 300w, https://woostify.com/demos/pro/fashion3/wp-content/uploads/sites/3/2019/01/blog-2-1024x533.jpg 1024w, https://woostify.com/demos/pro/fashion3/wp-content/uploads/sites/3/2019/01/blog-2-1536x800.jpg 1536w, https://woostify.com/demos/pro/fashion3/wp-content/uploads/sites/3/2019/01/blog-2-600x313.jpg 600w, https://woostify.com/demos/pro/fashion3/wp-content/uploads/sites/3/2019/01/blog-2.jpg 1920w" sizes="(max-width: 768px) 100vw, 768px">							</a>
+<a href="https://woostify.com/demos/pro/fashion3/2019/01/02/the-routine-that-will-make-you-like-yoga/">January 2, 2019</a>
+<a href="https://woostify.com/demos/pro/fashion3/author/woostify/">
+woostify											</a>
+<h3><a href="https://woostify.com/demos/pro/fashion3/2019/01/02/the-routine-that-will-make-you-like-yoga/">Retro Fashion: A look back to 1990s</a></h3>
+<a href="https://woostify.com/demos/fashion2/blog/" role="button">
+View All Posts
+</a>
+[instagram-feed]]]></content:encoded>
 		<excerpt:encoded><![CDATA[
 						]]></excerpt:encoded>
 		<wp:post_id>11</wp:post_id>
@@ -7268,7 +7270,11 @@ Commenter avatars come from <a href="https://gravatar.com">Gravatar</a>.]]></wp:
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_elementor_controls_usage]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:11:{s:15:"woostify-slider";a:3:{s:5:"count";i:1;s:15:"control_percent";i:14;s:8:"controls";a:2:{s:7:"content";a:2:{s:14:"slides_section";a:1:{s:6:"slides";i:1;}s:14:"slider_options";a:3:{s:10:"navigation";i:1;s:17:"content_animation";i:1;s:7:"timeout";i:1;}}s:5:"style";a:4:{s:12:"slider_style";a:10:{s:13:"slider_height";i:1;s:13:"slide_padding";i:1;s:20:"slide_padding_tablet";i:1;s:20:"slide_padding_mobile";i:1;s:20:"slider_height_tablet";i:1;s:20:"slider_height_mobile";i:1;s:21:"horizontal_pos_tablet";i:1;s:19:"vertical_pos_tablet";i:1;s:15:"container_width";i:1;s:13:"content_width";i:1;}s:17:"description_style";a:7:{s:17:"description_color";i:1;s:17:"description_space";i:1;s:33:"description_typography_typography";i:1;s:34:"description_typography_font_family";i:1;s:32:"description_typography_font_size";i:1;s:34:"description_typography_line_height";i:1;s:37:"description_typography_letter_spacing";i:1;}s:12:"button_style";a:9:{s:28:"button_typography_typography";i:1;s:29:"button_typography_font_weight";i:1;s:19:"button_border_width";i:1;s:20:"button_border_radius";i:1;s:14:"button_padding";i:1;s:15:"button_bg_color";i:1;s:19:"button_border_color";i:1;s:29:"button_typography_font_family";i:1;s:27:"button_typography_font_size";i:1;}s:11:"title_style";a:9:{s:11:"title_color";i:1;s:11:"title_space";i:1;s:27:"title_typography_typography";i:1;s:28:"title_typography_font_family";i:1;s:26:"title_typography_font_size";i:1;s:28:"title_typography_font_weight";i:1;s:28:"title_typography_line_height";i:1;s:31:"title_typography_letter_spacing";i:1;s:33:"title_typography_font_size_mobile";i:1;}}}}s:6:"column";a:3:{s:5:"count";i:11;s:15:"control_percent";i:0;s:8:"controls";a:1:{s:6:"layout";a:1:{s:6:"layout";a:1:{s:12:"_inline_size";i:4;}}}}s:7:"section";a:3:{s:5:"count";i:9;s:15:"control_percent";i:2;s:8:"controls";a:3:{s:6:"layout";a:2:{s:14:"section_layout";a:4:{s:15:"stretch_section";i:4;s:3:"gap";i:2;s:13:"content_width";i:1;s:6:"layout";i:2;}s:17:"section_structure";a:1:{s:9:"structure";i:2;}}s:8:"advanced";a:1:{s:16:"section_advanced";a:2:{s:6:"margin";i:3;s:7:"padding";i:2;}}s:5:"style";a:3:{s:18:"section_background";a:6:{s:21:"background_background";i:2;s:16:"background_image";i:2;s:21:"background_attachment";i:2;s:15:"background_size";i:2;s:16:"background_color";i:1;s:19:"background_position";i:1;}s:26:"section_background_overlay";a:2:{s:29:"background_overlay_background";i:1;s:24:"background_overlay_color";i:1;}s:14:"section_border";a:3:{s:13:"border_border";i:1;s:12:"border_width";i:1;s:12:"border_color";i:1;}}}}s:7:"heading";a:3:{s:5:"count";i:4;s:15:"control_percent";i:5;s:8:"controls";a:3:{s:7:"content";a:1:{s:13:"section_title";a:3:{s:5:"title";i:4;s:11:"header_size";i:4;s:5:"align";i:4;}}s:5:"style";a:1:{s:19:"section_title_style";a:5:{s:21:"typography_typography";i:4;s:11:"title_color";i:4;s:22:"typography_font_family";i:4;s:20:"typography_font_size";i:4;s:22:"typography_font_weight";i:4;}}s:8:"advanced";a:1:{s:14:"_section_style";a:1:{s:7:"_margin";i:4;}}}}s:17:"woostify-products";a:3:{s:5:"count";i:1;s:15:"control_percent";i:1;s:8:"controls";a:2:{s:7:"content";a:1:{s:13:"product_query";a:1:{s:5:"count";i:1;}}s:8:"advanced";a:1:{s:14:"_section_style";a:1:{s:7:"_margin";i:1;}}}}s:25:"woostify-product-category";a:3:{s:5:"count";i:1;s:15:"control_percent";i:6;s:8:"controls";a:2:{s:7:"content";a:3:{s:15:"product_general";a:2:{s:7:"columns";i:1;s:5:"space";i:1;}s:15:"product_content";a:9:{s:14:"horizontal_pos";i:1;s:12:"vertical_pos";i:1;s:7:"padding";i:1;s:16:"title_typography";i:1;s:17:"title_font_family";i:1;s:15:"title_font_size";i:1;s:17:"title_font_weight";i:1;s:16:"content_bg_color";i:1;s:6:"margin";i:1;}s:13:"product_query";a:2:{s:20:"exclude_category_ids";i:1;s:12:"category_ids";i:1;}}s:8:"advanced";a:1:{s:19:"_section_background";a:1:{s:17:"_background_color";i:1;}}}}s:23:"woostify-product-slider";a:3:{s:5:"count";i:1;s:15:"control_percent";i:4;s:8:"controls";a:2:{s:7:"content";a:2:{s:14:"slider_options";a:4:{s:7:"columns";i:1;s:3:"gap";i:1;s:10:"navigation";i:1;s:4:"loop";i:1;}s:4:"dots";a:4:{s:9:"dots_size";i:1;s:13:"dots_position";i:1;s:10:"dots_color";i:1;s:13:"dots_bg_color";i:1;}}s:8:"advanced";a:1:{s:14:"_section_style";a:1:{s:8:"_padding";i:1;}}}}s:13:"woostify-post";a:3:{s:5:"count";i:1;s:15:"control_percent";i:1;s:8:"controls";a:1:{s:7:"content";a:2:{s:17:"post_meta_section";a:4:{s:4:"date";i:1;s:6:"author";i:1;s:20:"post_meta_typography";i:1;s:13:"excerpt_color";i:1;}s:10:"post_query";a:1:{s:5:"count";i:1;}}}}s:6:"spacer";a:3:{s:5:"count";i:2;s:15:"control_percent";i:0;s:8:"controls";a:1:{s:7:"content";a:1:{s:14:"section_spacer";a:1:{s:5:"space";i:1;}}}}s:6:"button";a:3:{s:5:"count";i:1;s:15:"control_percent";i:5;s:8:"controls";a:2:{s:7:"content";a:1:{s:14:"section_button";a:3:{s:4:"text";i:1;s:4:"link";i:1;s:5:"align";i:1;}}s:5:"style";a:1:{s:13:"section_style";a:7:{s:21:"typography_typography";i:1;s:22:"typography_font_weight";i:1;s:16:"background_color";i:1;s:13:"border_radius";i:1;s:12:"text_padding";i:1;s:22:"typography_font_family";i:1;s:20:"typography_font_size";i:1;}}}}s:9:"shortcode";a:3:{s:5:"count";i:1;s:15:"control_percent";i:1;s:8:"controls";a:1:{s:7:"content";a:1:{s:17:"section_shortcode";a:1:{s:9:"shortcode";i:1;}}}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:11:{s:15:"woostify-slider";a:3:{s:5:"count";i:1;s:15:"control_percent";i:13;s:8:"controls";a:2:{s:7:"content";a:2:{s:14:"slides_section";a:1:{s:6:"slides";i:1;}s:14:"slider_options";a:3:{s:10:"navigation";i:1;s:17:"content_animation";i:1;s:7:"timeout";i:1;}}s:5:"style";a:4:{s:12:"slider_style";a:10:{s:13:"slider_height";i:1;s:13:"slide_padding";i:1;s:20:"slide_padding_tablet";i:1;s:20:"slide_padding_mobile";i:1;s:20:"slider_height_tablet";i:1;s:20:"slider_height_mobile";i:1;s:21:"horizontal_pos_tablet";i:1;s:19:"vertical_pos_tablet";i:1;s:15:"container_width";i:1;s:13:"content_width";i:1;}s:17:"description_style";a:7:{s:17:"description_color";i:1;s:17:"description_space";i:1;s:33:"description_typography_typography";i:1;s:34:"description_typography_font_family";i:1;s:32:"description_typography_font_size";i:1;s:34:"description_typography_line_height";i:1;s:37:"description_typography_letter_spacing";i:1;}s:12:"button_style";a:9:{s:28:"button_typography_typography";i:1;s:29:"button_typography_font_weight";i:1;s:19:"button_border_width";i:1;s:20:"button_border_radius";i:1;s:14:"button_padding";i:1;s:15:"button_bg_color";i:1;s:19:"button_border_color";i:1;s:29:"button_typography_font_family";i:1;s:27:"button_typography_font_size";i:1;}s:11:"title_style";a:9:{s:11:"title_color";i:1;s:11:"title_space";i:1;s:27:"title_typography_typography";i:1;s:28:"title_typography_font_family";i:1;s:26:"title_typography_font_size";i:1;s:28:"title_typography_font_weight";i:1;s:28:"title_typography_line_height";i:1;s:31:"title_typography_letter_spacing";i:1;s:33:"title_typography_font_size_mobile";i:1;}}}}s:6:"column";a:3:{s:5:"count";i:11;s:15:"control_percent";i:0;s:8:"controls";a:1:{s:6:"layout";a:1:{s:6:"layout";a:1:{s:12:"_inline_size";i:4;}}}}s:7:"section";a:3:{s:5:"count";i:9;s:15:"control_percent";i:2;s:8:"controls";a:3:{s:6:"layout";a:2:{s:14:"section_layout";a:4:{s:15:"stretch_section";i:4;s:3:"gap";i:2;s:13:"content_width";i:1;s:6:"layout";i:2;}s:17:"section_structure";a:1:{s:9:"structure";i:2;}}s:8:"advanced";a:1:{s:16:"section_advanced";a:2:{s:6:"margin";i:3;s:7:"padding";i:2;}}s:5:"style";a:3:{s:18:"section_background";a:6:{s:21:"background_background";i:2;s:16:"background_image";i:2;s:21:"background_attachment";i:2;s:15:"background_size";i:2;s:16:"background_color";i:1;s:19:"background_position";i:1;}s:26:"section_background_overlay";a:2:{s:29:"background_overlay_background";i:1;s:24:"background_overlay_color";i:1;}s:14:"section_border";a:3:{s:13:"border_border";i:1;s:12:"border_width";i:1;s:12:"border_color";i:1;}}}}s:7:"heading";a:3:{s:5:"count";i:4;s:15:"control_percent";i:4;s:8:"controls";a:3:{s:7:"content";a:1:{s:13:"section_title";a:3:{s:5:"title";i:4;s:11:"header_size";i:4;s:5:"align";i:4;}}s:5:"style";a:1:{s:19:"section_title_style";a:5:{s:21:"typography_typography";i:4;s:11:"title_color";i:4;s:22:"typography_font_family";i:4;s:20:"typography_font_size";i:4;s:22:"typography_font_weight";i:4;}}s:8:"advanced";a:1:{s:14:"_section_style";a:1:{s:7:"_margin";i:4;}}}}s:17:"woostify-products";a:3:{s:5:"count";i:1;s:15:"control_percent";i:1;s:8:"controls";a:2:{s:7:"content";a:1:{s:13:"product_query";a:1:{s:5:"count";i:1;}}s:8:"advanced";a:1:{s:14:"_section_style";a:1:{s:7:"_margin";i:1;}}}}s:25:"woostify-product-category";a:3:{s:5:"count";i:1;s:15:"control_percent";i:6;s:8:"controls";a:2:{s:7:"content";a:3:{s:15:"product_general";a:2:{s:7:"columns";i:1;s:5:"space";i:1;}s:15:"product_content";a:9:{s:14:"horizontal_pos";i:1;s:12:"vertical_pos";i:1;s:7:"padding";i:1;s:16:"title_typography";i:1;s:17:"title_font_family";i:1;s:15:"title_font_size";i:1;s:17:"title_font_weight";i:1;s:16:"content_bg_color";i:1;s:6:"margin";i:1;}s:13:"product_query";a:2:{s:20:"exclude_category_ids";i:1;s:12:"category_ids";i:1;}}s:8:"advanced";a:1:{s:19:"_section_background";a:1:{s:17:"_background_color";i:1;}}}}s:23:"woostify-product-slider";a:3:{s:5:"count";i:1;s:15:"control_percent";i:4;s:8:"controls";a:2:{s:7:"content";a:2:{s:14:"slider_options";a:4:{s:7:"columns";i:1;s:3:"gap";i:1;s:10:"navigation";i:1;s:4:"loop";i:1;}s:4:"dots";a:4:{s:9:"dots_size";i:1;s:13:"dots_position";i:1;s:10:"dots_color";i:1;s:13:"dots_bg_color";i:1;}}s:8:"advanced";a:1:{s:14:"_section_style";a:1:{s:8:"_padding";i:1;}}}}s:13:"woostify-post";a:3:{s:5:"count";i:1;s:15:"control_percent";i:1;s:8:"controls";a:1:{s:7:"content";a:2:{s:17:"post_meta_section";a:4:{s:4:"date";i:1;s:6:"author";i:1;s:20:"post_meta_typography";i:1;s:13:"excerpt_color";i:1;}s:10:"post_query";a:1:{s:5:"count";i:1;}}}}s:6:"spacer";a:3:{s:5:"count";i:2;s:15:"control_percent";i:0;s:8:"controls";a:1:{s:7:"content";a:1:{s:14:"section_spacer";a:1:{s:5:"space";i:1;}}}}s:6:"button";a:3:{s:5:"count";i:1;s:15:"control_percent";i:4;s:8:"controls";a:2:{s:7:"content";a:1:{s:14:"section_button";a:3:{s:4:"text";i:1;s:4:"link";i:1;s:5:"align";i:1;}}s:5:"style";a:1:{s:13:"section_style";a:7:{s:21:"typography_typography";i:1;s:22:"typography_font_weight";i:1;s:16:"background_color";i:1;s:13:"border_radius";i:1;s:12:"text_padding";i:1;s:22:"typography_font_family";i:1;s:20:"typography_font_size";i:1;}}}}s:9:"shortcode";a:3:{s:5:"count";i:1;s:15:"control_percent";i:1;s:8:"controls";a:1:{s:7:"content";a:1:{s:17:"section_shortcode";a:1:{s:9:"shortcode";i:1;}}}}}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -8036,7 +8042,7 @@ New Jersey		]]></content:encoded>
 		<wp:is_sticky>0</wp:is_sticky>
 														<wp:postmeta>
 		<wp:meta_key><![CDATA[_elementor_controls_usage]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:9:{s:6:"spacer";a:3:{s:5:"count";i:4;s:15:"control_percent";i:2;s:8:"controls";a:2:{s:7:"content";a:1:{s:14:"section_spacer";a:2:{s:5:"space";i:4;s:12:"space_mobile";i:4;}}s:8:"advanced";a:1:{s:14:"_section_style";a:2:{s:7:"_margin";i:1;s:15:"_padding_mobile";i:1;}}}}s:6:"column";a:3:{s:5:"count";i:16;s:15:"control_percent";i:0;s:8:"controls";a:3:{s:6:"layout";a:1:{s:6:"layout";a:2:{s:12:"_inline_size";i:13;s:19:"_inline_size_tablet";i:1;}}s:5:"style";a:2:{s:13:"section_style";a:3:{s:21:"background_background";i:1;s:16:"background_image";i:1;s:17:"background_repeat";i:1;}s:26:"section_background_overlay";a:1:{s:29:"background_overlay_background";i:1;}}s:8:"advanced";a:1:{s:16:"section_advanced";a:1:{s:6:"margin";i:1;}}}}s:7:"section";a:3:{s:5:"count";i:8;s:15:"control_percent";i:3;s:8:"controls";a:3:{s:6:"layout";a:2:{s:17:"section_structure";a:1:{s:9:"structure";i:6;}s:14:"section_layout";a:3:{s:15:"stretch_section";i:2;s:6:"layout";i:1;s:13:"content_width";i:1;}}s:8:"advanced";a:1:{s:16:"section_advanced";a:3:{s:6:"margin";i:6;s:7:"padding";i:1;s:14:"padding_mobile";i:1;}}s:5:"style";a:1:{s:18:"section_background";a:5:{s:21:"background_background";i:2;s:17:"background_repeat";i:2;s:16:"background_image";i:1;s:19:"background_position";i:1;s:15:"background_size";i:1;}}}}s:7:"heading";a:3:{s:5:"count";i:14;s:15:"control_percent";i:5;s:8:"controls";a:3:{s:7:"content";a:1:{s:13:"section_title";a:3:{s:5:"title";i:14;s:11:"header_size";i:3;s:5:"align";i:4;}}s:5:"style";a:1:{s:19:"section_title_style";a:6:{s:11:"title_color";i:14;s:21:"typography_typography";i:14;s:22:"typography_font_family";i:14;s:20:"typography_font_size";i:14;s:22:"typography_font_weight";i:14;s:22:"typography_line_height";i:3;}}s:8:"advanced";a:1:{s:14:"_section_style";a:1:{s:7:"_margin";i:14;}}}}s:11:"text-editor";a:3:{s:5:"count";i:6;s:15:"control_percent";i:3;s:8:"controls";a:3:{s:7:"content";a:1:{s:14:"section_editor";a:1:{s:6:"editor";i:6;}}s:8:"advanced";a:1:{s:14:"_section_style";a:1:{s:7:"_margin";i:6;}}s:5:"style";a:1:{s:13:"section_style";a:5:{s:10:"text_color";i:4;s:21:"typography_typography";i:4;s:22:"typography_font_family";i:4;s:20:"typography_font_size";i:4;s:22:"typography_line_height";i:4;}}}}s:6:"button";a:3:{s:5:"count";i:1;s:15:"control_percent";i:3;s:8:"controls";a:2:{s:7:"content";a:1:{s:14:"section_button";a:1:{s:4:"text";i:1;}}s:5:"style";a:1:{s:13:"section_style";a:5:{s:21:"typography_typography";i:1;s:22:"typography_font_family";i:1;s:22:"typography_font_weight";i:1;s:16:"background_color";i:1;s:13:"border_radius";i:1;}}}}s:5:"image";a:3:{s:5:"count";i:2;s:15:"control_percent";i:1;s:8:"controls";a:1:{s:7:"content";a:1:{s:13:"section_image";a:2:{s:5:"image";i:2;s:10:"image_size";i:1;}}}}s:9:"image-box";a:3:{s:5:"count";i:6;s:15:"control_percent";i:6;s:8:"controls";a:3:{s:7:"content";a:1:{s:13:"section_image";a:4:{s:5:"image";i:6;s:10:"title_text";i:6;s:16:"description_text";i:6;s:8:"position";i:6;}}s:5:"style";a:1:{s:21:"section_style_content";a:11:{s:18:"title_bottom_space";i:6;s:11:"title_color";i:6;s:27:"title_typography_typography";i:6;s:28:"title_typography_font_family";i:6;s:26:"title_typography_font_size";i:6;s:28:"title_typography_font_weight";i:6;s:28:"title_typography_line_height";i:6;s:17:"description_color";i:6;s:33:"description_typography_typography";i:6;s:34:"description_typography_font_family";i:6;s:34:"description_typography_line_height";i:6;}}s:8:"advanced";a:1:{s:14:"_section_style";a:1:{s:7:"_margin";i:6;}}}}s:11:"testimonial";a:3:{s:5:"count";i:1;s:15:"control_percent";i:9;s:8:"controls";a:3:{s:7:"content";a:1:{s:19:"section_testimonial";a:5:{s:19:"testimonial_content";i:1;s:17:"testimonial_image";i:1;s:16:"testimonial_name";i:1;s:15:"testimonial_job";i:1;s:26:"testimonial_image_position";i:1;}}s:5:"style";a:4:{s:33:"section_style_testimonial_content";a:6:{s:21:"content_content_color";i:1;s:29:"content_typography_typography";i:1;s:28:"content_typography_font_size";i:1;s:30:"content_typography_font_family";i:1;s:30:"content_typography_font_weight";i:1;s:30:"content_typography_line_height";i:1;}s:30:"section_style_testimonial_name";a:6:{s:15:"name_text_color";i:1;s:26:"name_typography_typography";i:1;s:27:"name_typography_font_weight";i:1;s:27:"name_typography_font_family";i:1;s:25:"name_typography_font_size";i:1;s:27:"name_typography_line_height";i:1;}s:31:"section_style_testimonial_image";a:1:{s:10:"image_size";i:1;}s:29:"section_style_testimonial_job";a:5:{s:14:"job_text_color";i:1;s:25:"job_typography_typography";i:1;s:26:"job_typography_font_family";i:1;s:24:"job_typography_font_size";i:1;s:26:"job_typography_line_height";i:1;}}s:8:"advanced";a:1:{s:14:"_section_style";a:1:{s:7:"_margin";i:1;}}}}}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[site-container]]></wp:meta_key>
@@ -8115,7 +8121,7 @@ Feel free to contact with us by using the form below
 		<wp:is_sticky>0</wp:is_sticky>
 														<wp:postmeta>
 		<wp:meta_key><![CDATA[_elementor_controls_usage]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:8:{s:7:"heading";a:3:{s:5:"count";i:2;s:15:"control_percent";i:3;s:8:"controls";a:2:{s:7:"content";a:1:{s:13:"section_title";a:2:{s:5:"title";i:2;s:11:"header_size";i:2;}}s:5:"style";a:1:{s:19:"section_title_style";a:5:{s:21:"typography_typography";i:2;s:20:"typography_font_size";i:2;s:11:"title_color";i:2;s:22:"typography_font_family";i:2;s:22:"typography_font_weight";i:2;}}}}s:11:"text-editor";a:3:{s:5:"count";i:2;s:15:"control_percent";i:3;s:8:"controls";a:3:{s:7:"content";a:1:{s:14:"section_editor";a:1:{s:6:"editor";i:2;}}s:5:"style";a:1:{s:13:"section_style";a:4:{s:10:"text_color";i:2;s:21:"typography_typography";i:2;s:22:"typography_font_family";i:2;s:20:"typography_font_size";i:2;}}s:8:"advanced";a:1:{s:14:"_section_style";a:1:{s:7:"_margin";i:2;}}}}s:8:"icon-box";a:3:{s:5:"count";i:3;s:15:"control_percent";i:8;s:8:"controls";a:3:{s:7:"content";a:1:{s:12:"section_icon";a:3:{s:10:"title_text";i:3;s:16:"description_text";i:3;s:8:"position";i:3;}}s:5:"style";a:2:{s:18:"section_style_icon";a:1:{s:13:"primary_color";i:3;}s:21:"section_style_content";a:15:{s:10:"text_align";i:3;s:26:"content_vertical_alignment";i:3;s:11:"title_color";i:3;s:27:"title_typography_typography";i:3;s:28:"title_typography_font_family";i:3;s:26:"title_typography_font_size";i:3;s:28:"title_typography_font_weight";i:3;s:31:"title_typography_text_transform";i:3;s:28:"title_typography_line_height";i:3;s:31:"title_typography_letter_spacing";i:3;s:17:"description_color";i:3;s:33:"description_typography_typography";i:3;s:34:"description_typography_font_family";i:3;s:32:"description_typography_font_size";i:3;s:34:"description_typography_line_height";i:3;}}s:8:"advanced";a:1:{s:14:"_section_style";a:1:{s:7:"_margin";i:3;}}}}s:7:"divider";a:3:{s:5:"count";i:2;s:15:"control_percent";i:1;s:8:"controls";a:2:{s:5:"style";a:1:{s:21:"section_divider_style";a:1:{s:5:"color";i:2;}}s:7:"content";a:1:{s:15:"section_divider";a:1:{s:5:"width";i:2;}}}}s:6:"column";a:3:{s:5:"count";i:4;s:15:"control_percent";i:0;s:8:"controls";a:1:{s:6:"layout";a:1:{s:6:"layout";a:1:{s:12:"_inline_size";i:2;}}}}s:9:"shortcode";a:3:{s:5:"count";i:1;s:15:"control_percent";i:1;s:8:"controls";a:1:{s:7:"content";a:1:{s:17:"section_shortcode";a:1:{s:9:"shortcode";i:1;}}}}s:7:"section";a:3:{s:5:"count";i:3;s:15:"control_percent";i:1;s:8:"controls";a:2:{s:6:"layout";a:2:{s:17:"section_structure";a:1:{s:9:"structure";i:1;}s:14:"section_layout";a:4:{s:15:"stretch_section";i:1;s:6:"layout";i:1;s:3:"gap";i:1;s:13:"custom_height";i:1;}}s:8:"advanced";a:1:{s:16:"section_advanced";a:1:{s:6:"margin";i:1;}}}}s:11:"google_maps";a:3:{s:5:"count";i:1;s:15:"control_percent";i:2;s:8:"controls";a:1:{s:7:"content";a:1:{s:11:"section_map";a:4:{s:6:"height";i:1;s:13:"height_tablet";i:1;s:13:"height_mobile";i:1;s:4:"zoom";i:1;}}}}}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[site-container]]></wp:meta_key>
@@ -8346,189 +8352,6 @@ Feel free to contact with us by using the form below
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Sporty Backpack</title>
-		<link>https://woostify.com/demos/pro/fashion3/product/sporty-backpack/</link>
-		<pubDate>Fri, 04 Jan 2019 09:04:11 +0000</pubDate>
-		<dc:creator><![CDATA[woostify]]></dc:creator>
-		<guid isPermaLink="false">https://woostify.com/demos/fashion3/?post_type=product&#038;p=324</guid>
-		<description></description>
-		<content:encoded><![CDATA[
-				- Material: Black/Brown:100% Rayon. Others:Polyester. Ruffle Waist Belted Peg Pants.
-- Features: High Waist, Elastic Waist with Drawstring Belt, Two Side Pockets, Straight Leg, Tapered/Carrot, Turn Up
-- Style: Casual, Work and Elegant. Comfy Fabric, Suit for Spring, Summer and Fall		]]></content:encoded>
-		<excerpt:encoded><![CDATA[
-				Our Be Inspired Yoga Block provides instant inspiration for your daily practice with an array of aspirational word and phrases. It extends, supports, and deepens stretches.		]]></excerpt:encoded>
-		<wp:post_id>324</wp:post_id>
-		<wp:post_date><![CDATA[2019-01-04 09:04:11]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2019-01-04 09:04:11]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[sporty-backpack]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[product]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="product_tag" nicename="backpack"><![CDATA[backpack]]></category>
-		<category domain="product_cat" nicename="bags-backpacks"><![CDATA[Bags &amp; Backpacks]]></category>
-		<category domain="product_visibility" nicename="featured"><![CDATA[featured]]></category>
-		<category domain="product_type" nicename="simple"><![CDATA[simple]]></category>
-		<category domain="product_tag" nicename="sport"><![CDATA[sport]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_elementor_controls_usage]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_sku]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_regular_price]]></wp:meta_key>
-		<wp:meta_value><![CDATA[42]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_sale_price]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_sale_price_dates_from]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_sale_price_dates_to]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[total_sales]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_tax_status]]></wp:meta_key>
-		<wp:meta_value><![CDATA[taxable]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_tax_class]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_manage_stock]]></wp:meta_key>
-		<wp:meta_value><![CDATA[no]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_backorders]]></wp:meta_key>
-		<wp:meta_value><![CDATA[no]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_low_stock_amount]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_sold_individually]]></wp:meta_key>
-		<wp:meta_value><![CDATA[no]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_weight]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_length]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_width]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_height]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_upsell_ids]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_crosssell_ids]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_purchase_note]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_default_attributes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_virtual]]></wp:meta_key>
-		<wp:meta_value><![CDATA[no]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_downloadable]]></wp:meta_key>
-		<wp:meta_value><![CDATA[no]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_product_image_gallery]]></wp:meta_key>
-		<wp:meta_value><![CDATA[419]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_download_limit]]></wp:meta_key>
-		<wp:meta_value><![CDATA[-1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_download_expiry]]></wp:meta_key>
-		<wp:meta_value><![CDATA[-1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_stock]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_stock_status]]></wp:meta_key>
-		<wp:meta_value><![CDATA[instock]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wc_average_rating]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wc_rating_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wc_review_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_downloadable_files]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_product_attributes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_product_version]]></wp:meta_key>
-		<wp:meta_value><![CDATA[3.5.6]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_price]]></wp:meta_key>
-		<wp:meta_value><![CDATA[42]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[418]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_old_slug]]></wp:meta_key>
-		<wp:meta_value><![CDATA[gfast-spliced-leggings-in-performance-cotton]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wxr_import_user_slug]]></wp:meta_key>
-		<wp:meta_value><![CDATA[woostify]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
 		<title>Wishlist</title>
 		<link>https://woostify.com/demos/pro/fashion3/wishlist/</link>
 		<pubDate>Fri, 18 Jan 2019 03:40:52 +0000</pubDate>
@@ -8705,6 +8528,38 @@ View All Posts
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
 														<wp:postmeta>
+		<wp:meta_key><![CDATA[_wxr_import_user_slug]]></wp:meta_key>
+		<wp:meta_value><![CDATA[woostify]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title>Privacy Policy</title>
+		<link>https://woostify.com/demos/pro/fashion3/?page_id=635</link>
+		<pubDate>Mon, 17 Dec 2018 09:37:41 +0000</pubDate>
+		<dc:creator><![CDATA[woostify]]></dc:creator>
+		<guid isPermaLink="false">https://woostify.com/demos/fashion3/?page_id=3</guid>
+		<description></description>
+		<content:encoded><![CDATA[
+				<!-- wp:heading --><h2>Who we are</h2><!-- /wp:heading --><!-- wp:paragraph --><p>Our website address is: https://woostify.com/demos/fashion3.</p><!-- /wp:paragraph --><!-- wp:heading --><h2>What personal data we collect and why we collect it</h2><!-- /wp:heading --><!-- wp:heading {"level":3} --><h3>Comments</h3><!-- /wp:heading --><!-- wp:paragraph --><p>When visitors leave comments on the site we collect the data shown in the comments form, and also the visitor&#8217;s IP address and browser user agent string to help spam detection.</p><!-- /wp:paragraph --><!-- wp:paragraph --><p>An anonymized string created from your email address (also called a hash) may be provided to the Gravatar service to see if you are using it. The Gravatar service privacy policy is available here: https://automattic.com/privacy/. After approval of your comment, your profile picture is visible to the public in the context of your comment.</p><!-- /wp:paragraph --><!-- wp:heading {"level":3} --><h3>Media</h3><!-- /wp:heading --><!-- wp:paragraph --><p>If you upload images to the website, you should avoid uploading images with embedded location data (EXIF GPS) included. Visitors to the website can download and extract any location data from images on the website.</p><!-- /wp:paragraph --><!-- wp:heading {"level":3} --><h3>Contact forms</h3><!-- /wp:heading --><!-- wp:heading {"level":3} --><h3>Cookies</h3><!-- /wp:heading --><!-- wp:paragraph --><p>If you leave a comment on our site you may opt-in to saving your name, email address and website in cookies. These are for your convenience so that you do not have to fill in your details again when you leave another comment. These cookies will last for one year.</p><!-- /wp:paragraph --><!-- wp:paragraph --><p>If you have an account and you log in to this site, we will set a temporary cookie to determine if your browser accepts cookies. This cookie contains no personal data and is discarded when you close your browser.</p><!-- /wp:paragraph --><!-- wp:paragraph --><p>When you log in, we will also set up several cookies to save your login information and your screen display choices. Login cookies last for two days, and screen options cookies last for a year. If you select &quot;Remember Me&quot;, your login will persist for two weeks. If you log out of your account, the login cookies will be removed.</p><!-- /wp:paragraph --><!-- wp:paragraph --><p>If you edit or publish an article, an additional cookie will be saved in your browser. This cookie includes no personal data and simply indicates the post ID of the article you just edited. It expires after 1 day.</p><!-- /wp:paragraph --><!-- wp:heading {"level":3} --><h3>Embedded content from other websites</h3><!-- /wp:heading --><!-- wp:paragraph --><p>Articles on this site may include embedded content (e.g. videos, images, articles, etc.). Embedded content from other websites behaves in the exact same way as if the visitor has visited the other website.</p><!-- /wp:paragraph --><!-- wp:paragraph --><p>These websites may collect data about you, use cookies, embed additional third-party tracking, and monitor your interaction with that embedded content, including tracking your interaction with the embedded content if you have an account and are logged in to that website.</p><!-- /wp:paragraph --><!-- wp:heading {"level":3} --><h3>Analytics</h3><!-- /wp:heading --><!-- wp:heading --><h2>Who we share your data with</h2><!-- /wp:heading --><!-- wp:heading --><h2>How long we retain your data</h2><!-- /wp:heading --><!-- wp:paragraph --><p>If you leave a comment, the comment and its metadata are retained indefinitely. This is so we can recognize and approve any follow-up comments automatically instead of holding them in a moderation queue.</p><!-- /wp:paragraph --><!-- wp:paragraph --><p>For users that register on our website (if any), we also store the personal information they provide in their user profile. All users can see, edit, or delete their personal information at any time (except they cannot change their username). Website administrators can also see and edit that information.</p><!-- /wp:paragraph --><!-- wp:heading --><h2>What rights you have over your data</h2><!-- /wp:heading --><!-- wp:paragraph --><p>If you have an account on this site, or have left comments, you can request to receive an exported file of the personal data we hold about you, including any data you have provided to us. You can also request that we erase any personal data we hold about you. This does not include any data we are obliged to keep for administrative, legal, or security purposes.</p><!-- /wp:paragraph --><!-- wp:heading --><h2>Where we send your data</h2><!-- /wp:heading --><!-- wp:paragraph --><p>Visitor comments may be checked through an automated spam detection service.</p><!-- /wp:paragraph --><!-- wp:heading --><h2>Your contact information</h2><!-- /wp:heading --><!-- wp:heading --><h2>Additional information</h2><!-- /wp:heading --><!-- wp:heading {"level":3} --><h3>How we protect your data</h3><!-- /wp:heading --><!-- wp:heading {"level":3} --><h3>What data breach procedures we have in place</h3><!-- /wp:heading --><!-- wp:heading {"level":3} --><h3>What third parties we receive data from</h3><!-- /wp:heading --><!-- wp:heading {"level":3} --><h3>What automated decision making and/or profiling we do with user data</h3><!-- /wp:heading --><!-- wp:heading {"level":3} --><h3>Industry regulatory disclosure requirements</h3><!-- /wp:heading -->		]]></content:encoded>
+		<excerpt:encoded><![CDATA[
+						]]></excerpt:encoded>
+		<wp:post_id>635</wp:post_id>
+		<wp:post_date><![CDATA[2018-12-17 09:37:41]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2018-12-17 09:37:41]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[privacy-policy]]></wp:post_name>
+		<wp:status><![CDATA[draft]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+		<wp:meta_value><![CDATA[default]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wxr_import_user_slug]]></wp:meta_key>
 		<wp:meta_value><![CDATA[woostify]]></wp:meta_value>
 		</wp:postmeta>
@@ -9099,6 +8954,189 @@ This e-mail was sent from a contact form on Woostify (https://woostify.com/demos
 		</wp:postmeta>
 							</item>
 					<item>
+		<title>Sporty Backpack</title>
+		<link>https://woostify.com/demos/pro/fashion3/product/sporty-backpack/</link>
+		<pubDate>Fri, 04 Jan 2019 09:04:11 +0000</pubDate>
+		<dc:creator><![CDATA[woostify]]></dc:creator>
+		<guid isPermaLink="false">https://woostify.com/demos/fashion3/?post_type=product&#038;p=324</guid>
+		<description></description>
+		<content:encoded><![CDATA[
+				- Material: Black/Brown:100% Rayon. Others:Polyester. Ruffle Waist Belted Peg Pants.
+- Features: High Waist, Elastic Waist with Drawstring Belt, Two Side Pockets, Straight Leg, Tapered/Carrot, Turn Up
+- Style: Casual, Work and Elegant. Comfy Fabric, Suit for Spring, Summer and Fall		]]></content:encoded>
+		<excerpt:encoded><![CDATA[
+				Our Be Inspired Yoga Block provides instant inspiration for your daily practice with an array of aspirational word and phrases. It extends, supports, and deepens stretches.		]]></excerpt:encoded>
+		<wp:post_id>324</wp:post_id>
+		<wp:post_date><![CDATA[2019-01-04 09:04:11]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2019-01-04 09:04:11]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[sporty-backpack]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[product]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="product_tag" nicename="backpack"><![CDATA[backpack]]></category>
+		<category domain="product_cat" nicename="bags-backpacks"><![CDATA[Bags &amp; Backpacks]]></category>
+		<category domain="product_visibility" nicename="featured"><![CDATA[featured]]></category>
+		<category domain="product_type" nicename="simple"><![CDATA[simple]]></category>
+		<category domain="product_tag" nicename="sport"><![CDATA[sport]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_elementor_controls_usage]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_sku]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_regular_price]]></wp:meta_key>
+		<wp:meta_value><![CDATA[42]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_sale_price]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_sale_price_dates_from]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_sale_price_dates_to]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[total_sales]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_tax_status]]></wp:meta_key>
+		<wp:meta_value><![CDATA[taxable]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_tax_class]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_manage_stock]]></wp:meta_key>
+		<wp:meta_value><![CDATA[no]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_backorders]]></wp:meta_key>
+		<wp:meta_value><![CDATA[no]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_low_stock_amount]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_sold_individually]]></wp:meta_key>
+		<wp:meta_value><![CDATA[no]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_weight]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_length]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_width]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_height]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_upsell_ids]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_crosssell_ids]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_purchase_note]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_default_attributes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_virtual]]></wp:meta_key>
+		<wp:meta_value><![CDATA[no]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_downloadable]]></wp:meta_key>
+		<wp:meta_value><![CDATA[no]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_product_image_gallery]]></wp:meta_key>
+		<wp:meta_value><![CDATA[419]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_download_limit]]></wp:meta_key>
+		<wp:meta_value><![CDATA[-1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_download_expiry]]></wp:meta_key>
+		<wp:meta_value><![CDATA[-1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_stock]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_stock_status]]></wp:meta_key>
+		<wp:meta_value><![CDATA[instock]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wc_average_rating]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wc_rating_count]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wc_review_count]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_downloadable_files]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_product_attributes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_product_version]]></wp:meta_key>
+		<wp:meta_value><![CDATA[3.5.6]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_price]]></wp:meta_key>
+		<wp:meta_value><![CDATA[42]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[418]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_slug]]></wp:meta_key>
+		<wp:meta_value><![CDATA[gfast-spliced-leggings-in-performance-cotton]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wxr_import_user_slug]]></wp:meta_key>
+		<wp:meta_value><![CDATA[woostify]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
 		<title>Freddie Mercury T-Shirt</title>
 		<link>https://woostify.com/demos/pro/fashion3/product/freddie-mercury-t-shirt/</link>
 		<pubDate>Fri, 04 Jan 2019 09:09:27 +0000</pubDate>
@@ -9322,8 +9360,7 @@ This e-mail was sent from a contact form on Woostify (https://woostify.com/demos
 		<category domain="product_visibility" nicename="featured"><![CDATA[featured]]></category>
 		<category domain="product_tag" nicename="glasses"><![CDATA[glasses]]></category>
 		<category domain="product_cat" nicename="glasses"><![CDATA[Glasses]]></category>
-		<category domain="pa_color" nicename="orange"><![CDATA[Orange]]></category>
-		<category domain="pa_color" nicename="pink"><![CDATA[Pink]]></category>
+		<category domain="product_visibility" nicename="outofstock"><![CDATA[outofstock]]></category>
 		<category domain="product_type" nicename="variable"><![CDATA[variable]]></category>
 						<wp:postmeta>
 		<wp:meta_key><![CDATA[_elementor_controls_usage]]></wp:meta_key>
@@ -9427,7 +9464,7 @@ This e-mail was sent from a contact form on Woostify (https://woostify.com/demos
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_stock_status]]></wp:meta_key>
-		<wp:meta_value><![CDATA[instock]]></wp:meta_value>
+		<wp:meta_value><![CDATA[outofstock]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wc_average_rating]]></wp:meta_key>
@@ -9446,12 +9483,8 @@ This e-mail was sent from a contact form on Woostify (https://woostify.com/demos
 		<wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_product_attributes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{s:8:"pa_color";a:6:{s:4:"name";s:8:"pa_color";s:5:"value";s:0:"";s:8:"position";i:0;s:10:"is_visible";i:1;s:12:"is_variation";i:1;s:11:"is_taxonomy";i:1;}}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_product_version]]></wp:meta_key>
-		<wp:meta_value><![CDATA[3.8.0]]></wp:meta_value>
+		<wp:meta_value><![CDATA[3.8.1]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
@@ -10330,181 +10363,6 @@ I like this very much. I think its high enough in the front to offer some suppor
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_price]]></wp:meta_key>
 		<wp:meta_value><![CDATA[35]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wxr_import_user_slug]]></wp:meta_key>
-		<wp:meta_value><![CDATA[woostify]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title>Aviator Sunglasses - Orange</title>
-		<link>https://woostify.com/demos/pro/fashion3/product/aviator-sunglasses/?attribute_pa_color=orange</link>
-		<pubDate>Wed, 20 Mar 2019 03:36:18 +0000</pubDate>
-		<dc:creator><![CDATA[woostify]]></dc:creator>
-		<guid isPermaLink="false">https://woostify.com/demos/fashion3/product/aviator-sunglasses/</guid>
-		<description></description>
-		<content:encoded><![CDATA[
-						]]></content:encoded>
-		<excerpt:encoded><![CDATA[color: Orange]]></excerpt:encoded>
-		<wp:post_id>589</wp:post_id>
-		<wp:post_date><![CDATA[2019-03-20 03:36:18]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2019-03-20 03:36:18]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[aviator-sunglasses-orange]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>326</wp:post_parent>
-		<wp:menu_order>2</wp:menu_order>
-		<wp:post_type><![CDATA[product_variation]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														<wp:postmeta>
-		<wp:meta_key><![CDATA[_elementor_controls_usage]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_variation_description]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_sku]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_regular_price]]></wp:meta_key>
-		<wp:meta_value><![CDATA[32]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_sale_price]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_sale_price_dates_from]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_sale_price_dates_to]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[total_sales]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_tax_status]]></wp:meta_key>
-		<wp:meta_value><![CDATA[taxable]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_tax_class]]></wp:meta_key>
-		<wp:meta_value><![CDATA[parent]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_manage_stock]]></wp:meta_key>
-		<wp:meta_value><![CDATA[no]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_backorders]]></wp:meta_key>
-		<wp:meta_value><![CDATA[no]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_low_stock_amount]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_sold_individually]]></wp:meta_key>
-		<wp:meta_value><![CDATA[no]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_weight]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_length]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_width]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_height]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_upsell_ids]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_crosssell_ids]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_purchase_note]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_default_attributes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_virtual]]></wp:meta_key>
-		<wp:meta_value><![CDATA[no]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_downloadable]]></wp:meta_key>
-		<wp:meta_value><![CDATA[no]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_product_image_gallery]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_download_limit]]></wp:meta_key>
-		<wp:meta_value><![CDATA[-1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_download_expiry]]></wp:meta_key>
-		<wp:meta_value><![CDATA[-1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_stock]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_stock_status]]></wp:meta_key>
-		<wp:meta_value><![CDATA[instock]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wc_average_rating]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wc_rating_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wc_review_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_downloadable_files]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[attribute_pa_color]]></wp:meta_key>
-		<wp:meta_value><![CDATA[orange]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_price]]></wp:meta_key>
-		<wp:meta_value><![CDATA[32]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_product_version]]></wp:meta_key>
-		<wp:meta_value><![CDATA[3.5.7]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[413]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wxr_import_user_slug]]></wp:meta_key>
@@ -11396,112 +11254,6 @@ I like this very much. I think its high enough in the front to offer some suppor
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wxr_import_user_slug]]></wp:meta_key>
 		<wp:meta_value><![CDATA[woostify]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title>Aviator Sunglasses - Pink</title>
-		<link>https://woostify.com/demos/pro/fashion3/product/aviator-sunglasses/?attribute_pa_color=pink</link>
-		<pubDate>Fri, 22 Nov 2019 08:54:53 +0000</pubDate>
-		<dc:creator><![CDATA[woostify]]></dc:creator>
-		<guid isPermaLink="false">https://woostify.com/demos/pro/fashion3/?post_type=product_variation&#038;p=642</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[color: Pink]]></excerpt:encoded>
-		<wp:post_id>642</wp:post_id>
-		<wp:post_date><![CDATA[2019-11-22 08:54:53]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2019-11-22 08:54:53]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[aviator-sunglasses]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>326</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[product_variation]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														<wp:postmeta>
-		<wp:meta_key><![CDATA[_elementor_controls_usage]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_variation_description]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[total_sales]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_tax_status]]></wp:meta_key>
-		<wp:meta_value><![CDATA[taxable]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_tax_class]]></wp:meta_key>
-		<wp:meta_value><![CDATA[parent]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_manage_stock]]></wp:meta_key>
-		<wp:meta_value><![CDATA[no]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_backorders]]></wp:meta_key>
-		<wp:meta_value><![CDATA[no]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_sold_individually]]></wp:meta_key>
-		<wp:meta_value><![CDATA[no]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_virtual]]></wp:meta_key>
-		<wp:meta_value><![CDATA[no]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_downloadable]]></wp:meta_key>
-		<wp:meta_value><![CDATA[no]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_download_limit]]></wp:meta_key>
-		<wp:meta_value><![CDATA[-1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_download_expiry]]></wp:meta_key>
-		<wp:meta_value><![CDATA[-1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_stock]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_stock_status]]></wp:meta_key>
-		<wp:meta_value><![CDATA[instock]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wc_average_rating]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wc_review_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[attribute_pa_color]]></wp:meta_key>
-		<wp:meta_value><![CDATA[pink]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_product_version]]></wp:meta_key>
-		<wp:meta_value><![CDATA[3.8.0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_regular_price]]></wp:meta_key>
-		<wp:meta_value><![CDATA[35]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[414]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_price]]></wp:meta_key>
-		<wp:meta_value><![CDATA[35]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 				</channel>
