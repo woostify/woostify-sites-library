@@ -480,13 +480,13 @@ class Woostify_Sites {
 		$suffix = ( ( true === $this->dev_mode ) ) ? '' : '.min';
 
 		// Enqueue styles.
-		wp_enqueue_style( 'woostify-sites-admin-styles', WOOSTIFY_SITES_URI . 'assets/css/woostify-sites' . $suffix . '.css', array( 'wp-admin' ), '1.0.0' );
+		wp_enqueue_style( 'woostify-sites-admin-styles', WOOSTIFY_SITES_URI . 'assets/css/woostify-sites.css', array( 'wp-admin' ), '1.0.0' );
 
 		// Enqueue javascript.
-		wp_enqueue_script( 'woostify-sites-admin-scripts', WOOSTIFY_SITES_URI . 'assets/js/woostify-sites' . $suffix . '.js', array( 'jquery-core' ), '1.0.0', true );
+		wp_enqueue_script( 'woostify-sites-admin-scripts', WOOSTIFY_SITES_URI . 'assets/js/woostify-sites.js', array( 'jquery-core' ), '1.0.0', true );
 
 		// Enqueue javascript.
-		wp_enqueue_script( 'woostify-sites-admin-scripts', WOOSTIFY_SITES_URI . 'assets/js/woostify-sites' . $suffix . '.js', array( 'jquery-core' ), '1.0.0', true );
+		wp_enqueue_script( 'woostify-sites-admin-scripts', WOOSTIFY_SITES_URI . 'assets/js/woostify-sites.js', array( 'jquery-core' ), '1.0.0', true );
 
 		$texts = array(
 			'something_went_wrong' => esc_html__( 'Something went wrong. Please refresh the page and try again!', 'woostify-sites-library' ),
@@ -1341,7 +1341,7 @@ class Woostify_Sites {
 
 		<form action="" method="post">
 
-			<footer class="merlin__content__footer <?php echo esc_attr( $class ); ?>">
+			<footer class="merlin__content__footer">
 
 					<a href="<?php echo esc_url( $this->step_next_link() ); ?>" class="merlin__button merlin__button--next merlin__button--proceed merlin__button--colorchange js-select button-next" data-callback="install_contents"><?php echo esc_html( $next ); ?></a>
 
@@ -2826,10 +2826,6 @@ class Woostify_Sites {
 	public function woostify_sites_set_cookie()
 	{
 		$total_page = 1;
-
-		if ( $_SESSION['demo'] ) {
-			$total_page = count( $_SESSION['demo'] );
-		}
 		setcookie( "total_page", $total_page, time()+7200);
 	}
 }
