@@ -257,7 +257,6 @@ class Woostify_Sites {
 		add_action( 'wp_ajax_woostify_sites_content', array( $this, 'woostify_sites_ajax_content' ), 10, 0 );
 		add_action( 'wp_ajax_woostify_site_filter_demo', array( $this, 'woostify_site_filter_demo' ), 10, 0 );
 		add_action( 'wp_ajax_woostify_sites_load_more_demo', array( $this, 'woostify_sites_load_more_demo' ), 10, 0 );
-		add_action( 'admin_init', array( $this, 'woostify_sites_start_session' ), 10, 0 );
 		add_action( 'init', array( $this, 'woostify_sites_set_cookie' ), 10, 0 );
 		add_action( 'wp_ajax_woostify_sites_get_total_content_import_items', array( $this, 'woostify_sites_ajax_get_total_content_import_items' ), 10, 0 );
 		add_action( 'wp_ajax_woostify_sites_update_selected_import_data_info', array( $this, 'woostify_sites_update_selected_import_data_info' ), 10, 0 );
@@ -2405,6 +2404,24 @@ class Woostify_Sites {
 	 */
 	public function woostify_sites_register_import_files() {
 		$this->import_files = $this->validate_import_file_info( apply_filters( 'woostify_sites_import_files', array() ) );
+
+		if( ! session_id() ) {
+			session_start();
+		}
+
+		$all_demo = $this->import_files;
+		$demos = array();
+		$_SESSION['demo'] = array();
+		foreach ($all_demo as $index => $demo) {
+			if ( $demo['page_builder'] == 'elementor' ) {
+				$demos[] = $demo;
+			}
+		}
+
+		if ( ! empty( $demos ) ) {
+			$demos = array_chunk( $demos, 6 );
+			$_SESSION['demo'] = $demos;
+		}
 	}
 
 	/**
@@ -2737,11 +2754,12 @@ class Woostify_Sites {
 		$demos = array();
 
 		foreach ($all_demo as $demo) {
-			if ( $category == 'all' && $demo['page_builder'] == $page_builder) {
-				$demos[] = $demo;
-			} else {
-				if ( $demo['type'] == $category && $demo['page_builder'] == $page_builder ) {
+
+			if ( $category === 'all' || $demo['type'] === $category ) {
+				if ( $demo['page_builder'] === $page_builder ) {
 					$demos[] = $demo;
+				} else {
+					return false;
 				}
 			}
 		}
@@ -2763,6 +2781,7 @@ class Woostify_Sites {
 
 	public function woostify_demo_template($demo)
 	{
+
 		$demo_name        = isset( $demo['import_file_name'] ) ? $demo['import_file_name'] : 'Untitled Demo';
 		$demo_image       = isset( $demo['import_preview_image_url'] ) ? $demo['import_preview_image_url'] : $this->theme->get_screenshot();
 		$demo_preview_url = isset( $demo['preview_url'] ) ? $demo['preview_url'] : '';
@@ -2802,24 +2821,56 @@ class Woostify_Sites {
 	public function woostify_sites_load_more_demo()
 	{
 		check_ajax_referer( 'woostify_sites_nonce' );
-		$page = ( isset( $_POST['page'] ) ) ? $_POST['page'] : 1;
-		$page = (int) $page;
-		$demos = $_SESSION['demo'];
-		setcookie( "total_page", count($demos), time()+7200);
+		$page     = ( isset( $_POST['page'] ) ) ? $_POST['page'] : 1;
+		$page     = (int) $page;
+		$page_builder = (isset($_POST['page_builder'])) ? $_POST['page_builder'] : 'elementor';
+		$category = (isset($_POST['category'])) ? $_POST['category'] : 'all';
+		$all_demo = $this->import_files;
 		$html = '';
-		if ( count($demos) > $page ) {
-			foreach ($demos[$page] as $index => $demo) {
-				$html .= $this->woostify_demo_template( $demo );
+		$demos = array();
+
+		foreach ($all_demo as $demo) {
+			if ( $category === 'all' || $demo['type'] === $category ) {
+				if ( $demo['page_builder'] === $page_builder ) {
+					$demos[] = $demo;
+				}
 			}
 		}
+
+		if ( ! empty( $demos ) ) {
+			$demos = array_chunk( $demos, 6 );
+			$_SESSION['demo'] = $demos;
+			setcookie( "total_page", count( $demos ), time()+7200);
+			foreach ( $demos[$page] as $demo ) {
+				$html .= $this->woostify_demo_template($demo);
+			}
+		} else {
+			$html = '<h3 class="noting-found">' . esc_html__('Sorry! There is no demo for your choice.') . '</h3>';
+		}
+
+		setcookie( "total_page", count($demos), time()+7200);
 
 		wp_send_json_success($html);
 	}
 
 	public function woostify_sites_start_session()
 	{
-		if(!session_id()) {
+		if( ! session_id() ) {
 			session_start();
+		}
+
+		$all_demo = $this->import_files;
+		$demos = array();
+		$_SESSION['demo'] = array();
+		foreach ($all_demo as $index => $demo) {
+			if ( $demo['page_builder'] == 'elementor' ) {
+				$demos[] = $demo;
+			}
+		}
+
+		if ( ! empty( $demos ) ) {
+			$demos = array_chunk( $demos, 6 );
+			$_SESSION['demo'] = $demos;
 		}
 	}
 
