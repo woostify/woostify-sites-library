@@ -115,9 +115,10 @@ var Woostify_Sites = (function($){
                 },
                 success : function( response ){
                     btnLoadMore.removeClass('loading');
+                    console.log( response );
                     if( response ) {
                         page++;
-                        console.log( getCookie( 'total_page' ) );
+                        
                         $( '.merlin__demos' ).append(response.data);
                         if ( page >= woostify_sites_params.total_page ) {
                             btnLoadMore.css( { 'display' : 'none' } );
@@ -145,14 +146,14 @@ var Woostify_Sites = (function($){
             $(this).parents( '.filter-links' ).find( '.active' ).removeClass( 'active' );
             $(this).addClass('active');
             var pageBuilder = $('.merlin__other-page-builder').find('.active').attr('data-group'),
-                cat = $('.merlin__categories').find('.active').attr('data-group'),
-                data = {
+                cat = $('.merlin__categories').find('.active').attr('data-group');
+            var data = {
                     action: 'woostify_site_filter_demo',
                     _ajax_nonce: woostify_sites_params.wpnonce,
                     page_builder: pageBuilder,
                     category: cat,
                 };
-                console.log( cat );
+                console.log( cat + '--' + pageBuilder );
 
             $.ajax({ // you can also use $.post here
                 url : woostify_sites_params.ajaxurl, // AJAX handler
@@ -163,7 +164,6 @@ var Woostify_Sites = (function($){
                     $( '.merlin__demos' ).addClass('loading');
                 },
                 success : function( response ){
-                    console.log( $('.merlin__button--next') );
                     $('.merlin__button--next').css({'display': 'none'});
                     var totalPage = parseInt( getCookie( 'total_page' ) );
                     $( '.merlin__demos' ).removeClass('loading');

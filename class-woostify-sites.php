@@ -2758,8 +2758,6 @@ class Woostify_Sites {
 			if ( $category === 'all' || $demo['type'] === $category ) {
 				if ( $demo['page_builder'] === $page_builder ) {
 					$demos[] = $demo;
-				} else {
-					return false;
 				}
 			}
 		}
