@@ -153,7 +153,6 @@ var Woostify_Sites = (function($){
                     page_builder: pageBuilder,
                     category: cat,
                 };
-                console.log( cat + '--' + pageBuilder );
 
             $.ajax({ // you can also use $.post here
                 url : woostify_sites_params.ajaxurl, // AJAX handler

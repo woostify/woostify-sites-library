@@ -2765,7 +2765,6 @@ class Woostify_Sites {
 		if ( ! empty( $demos ) ) {
 			$demos = array_chunk( $demos, 6 );
 			$_SESSION['demo'] = $demos;
-			// $_COOKIE['total_page'] = count( $demos );
 			setcookie( "total_page", count( $demos ), time()+7200);
 			foreach ( $demos[0] as $demo ) {
 				$html .= $this->woostify_demo_template($demo);
