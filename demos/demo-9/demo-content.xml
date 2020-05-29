@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/5.4.1" created="2020-05-20 03:41" -->
+	<!-- generator="WordPress/5.4.1" created="2020-05-27 04:33" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
 	<title>Watch</title>
 	<link>https://prodemo.woostify.com/watch</link>
 	<description>Just another Woostify Pro site</description>
-	<pubDate>Wed, 20 May 2020 03:41:47 +0000</pubDate>
+	<pubDate>Wed, 27 May 2020 04:33:45 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>http://prodemo.woostify.com/</wp:base_site_url>
@@ -497,6 +497,14 @@
 </wp:term>
 
 	<generator>https://wordpress.org/?v=5.4.1</generator>
+
+<image>
+	<url>https://prodemo.woostify.com/watch/wp-content/uploads/sites/9/2020/05/favicon.png</url>
+	<title>Watch</title>
+	<link>https://prodemo.woostify.com/watch</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
 
 		<item>
 		<title>Burberry T-Shirt 1</title>
@@ -3952,7 +3960,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:600;s:6:"height";i:800;s:4:"file";s:18:"2019/01/p1-1-2.jpg";s:5:"sizes";a:6:{s:6:"medium";a:4:{s:4:"file";s:18:"p1-1-2-225x300.jpg";s:5:"width";i:225;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";}s:9:"thumbnail";a:4:{s:4:"file";s:18:"p1-1-2-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:21:"woocommerce_thumbnail";a:5:{s:4:"file";s:18:"p1-1-2-300x300.jpg";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";s:9:"uncropped";b:0;}s:29:"woocommerce_gallery_thumbnail";a:4:{s:4:"file";s:18:"p1-1-2-100x100.jpg";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:10:"image/jpeg";}s:12:"shop_catalog";a:4:{s:4:"file";s:18:"p1-1-2-300x300.jpg";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";}s:14:"shop_thumbnail";a:4:{s:4:"file";s:18:"p1-1-2-100x100.jpg";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:600;s:6:"height";i:800;s:4:"file";s:18:"2019/01/p1-1-2.jpg";s:5:"sizes";a:6:{s:6:"medium";a:4:{s:4:"file";s:18:"p1-1-2-225x300.jpg";s:5:"width";i:225;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";}s:9:"thumbnail";a:4:{s:4:"file";s:18:"p1-1-2-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:21:"woocommerce_thumbnail";a:5:{s:4:"file";s:18:"p1-1-2-300x500.jpg";s:5:"width";i:300;s:6:"height";i:500;s:9:"mime-type";s:10:"image/jpeg";s:9:"uncropped";b:0;}s:29:"woocommerce_gallery_thumbnail";a:4:{s:4:"file";s:18:"p1-1-2-100x100.jpg";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:10:"image/jpeg";}s:12:"shop_catalog";a:4:{s:4:"file";s:18:"p1-1-2-300x300.jpg";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";}s:14:"shop_thumbnail";a:4:{s:4:"file";s:18:"p1-1-2-100x100.jpg";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -3983,7 +3991,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:600;s:6:"height";i:800;s:4:"file";s:18:"2019/01/p1-1-3.jpg";s:5:"sizes";a:6:{s:6:"medium";a:4:{s:4:"file";s:18:"p1-1-3-225x300.jpg";s:5:"width";i:225;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";}s:9:"thumbnail";a:4:{s:4:"file";s:18:"p1-1-3-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:21:"woocommerce_thumbnail";a:5:{s:4:"file";s:18:"p1-1-3-300x300.jpg";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";s:9:"uncropped";b:0;}s:29:"woocommerce_gallery_thumbnail";a:4:{s:4:"file";s:18:"p1-1-3-100x100.jpg";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:10:"image/jpeg";}s:12:"shop_catalog";a:4:{s:4:"file";s:18:"p1-1-3-300x300.jpg";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";}s:14:"shop_thumbnail";a:4:{s:4:"file";s:18:"p1-1-3-100x100.jpg";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:600;s:6:"height";i:800;s:4:"file";s:18:"2019/01/p1-1-3.jpg";s:5:"sizes";a:6:{s:6:"medium";a:4:{s:4:"file";s:18:"p1-1-3-225x300.jpg";s:5:"width";i:225;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";}s:9:"thumbnail";a:4:{s:4:"file";s:18:"p1-1-3-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:21:"woocommerce_thumbnail";a:5:{s:4:"file";s:18:"p1-1-3-300x500.jpg";s:5:"width";i:300;s:6:"height";i:500;s:9:"mime-type";s:10:"image/jpeg";s:9:"uncropped";b:0;}s:29:"woocommerce_gallery_thumbnail";a:4:{s:4:"file";s:18:"p1-1-3-100x100.jpg";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:10:"image/jpeg";}s:12:"shop_catalog";a:4:{s:4:"file";s:18:"p1-1-3-300x300.jpg";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";}s:14:"shop_thumbnail";a:4:{s:4:"file";s:18:"p1-1-3-100x100.jpg";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -4045,7 +4053,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:600;s:6:"height";i:800;s:4:"file";s:18:"2019/01/p2-1-2.jpg";s:5:"sizes";a:6:{s:6:"medium";a:4:{s:4:"file";s:18:"p2-1-2-225x300.jpg";s:5:"width";i:225;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";}s:9:"thumbnail";a:4:{s:4:"file";s:18:"p2-1-2-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:21:"woocommerce_thumbnail";a:5:{s:4:"file";s:18:"p2-1-2-300x300.jpg";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";s:9:"uncropped";b:0;}s:29:"woocommerce_gallery_thumbnail";a:4:{s:4:"file";s:18:"p2-1-2-100x100.jpg";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:10:"image/jpeg";}s:12:"shop_catalog";a:4:{s:4:"file";s:18:"p2-1-2-300x300.jpg";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";}s:14:"shop_thumbnail";a:4:{s:4:"file";s:18:"p2-1-2-100x100.jpg";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:600;s:6:"height";i:800;s:4:"file";s:18:"2019/01/p2-1-2.jpg";s:5:"sizes";a:6:{s:6:"medium";a:4:{s:4:"file";s:18:"p2-1-2-225x300.jpg";s:5:"width";i:225;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";}s:9:"thumbnail";a:4:{s:4:"file";s:18:"p2-1-2-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:21:"woocommerce_thumbnail";a:5:{s:4:"file";s:18:"p2-1-2-300x500.jpg";s:5:"width";i:300;s:6:"height";i:500;s:9:"mime-type";s:10:"image/jpeg";s:9:"uncropped";b:0;}s:29:"woocommerce_gallery_thumbnail";a:4:{s:4:"file";s:18:"p2-1-2-100x100.jpg";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:10:"image/jpeg";}s:12:"shop_catalog";a:4:{s:4:"file";s:18:"p2-1-2-300x300.jpg";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";}s:14:"shop_thumbnail";a:4:{s:4:"file";s:18:"p2-1-2-100x100.jpg";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -4076,7 +4084,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:600;s:6:"height";i:800;s:4:"file";s:18:"2019/01/p2-1-3.jpg";s:5:"sizes";a:6:{s:6:"medium";a:4:{s:4:"file";s:18:"p2-1-3-225x300.jpg";s:5:"width";i:225;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";}s:9:"thumbnail";a:4:{s:4:"file";s:18:"p2-1-3-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:21:"woocommerce_thumbnail";a:5:{s:4:"file";s:18:"p2-1-3-300x300.jpg";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";s:9:"uncropped";b:0;}s:29:"woocommerce_gallery_thumbnail";a:4:{s:4:"file";s:18:"p2-1-3-100x100.jpg";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:10:"image/jpeg";}s:12:"shop_catalog";a:4:{s:4:"file";s:18:"p2-1-3-300x300.jpg";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";}s:14:"shop_thumbnail";a:4:{s:4:"file";s:18:"p2-1-3-100x100.jpg";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:600;s:6:"height";i:800;s:4:"file";s:18:"2019/01/p2-1-3.jpg";s:5:"sizes";a:6:{s:6:"medium";a:4:{s:4:"file";s:18:"p2-1-3-225x300.jpg";s:5:"width";i:225;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";}s:9:"thumbnail";a:4:{s:4:"file";s:18:"p2-1-3-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:21:"woocommerce_thumbnail";a:5:{s:4:"file";s:18:"p2-1-3-300x500.jpg";s:5:"width";i:300;s:6:"height";i:500;s:9:"mime-type";s:10:"image/jpeg";s:9:"uncropped";b:0;}s:29:"woocommerce_gallery_thumbnail";a:4:{s:4:"file";s:18:"p2-1-3-100x100.jpg";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:10:"image/jpeg";}s:12:"shop_catalog";a:4:{s:4:"file";s:18:"p2-1-3-300x300.jpg";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";}s:14:"shop_thumbnail";a:4:{s:4:"file";s:18:"p2-1-3-100x100.jpg";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -4138,7 +4146,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:600;s:6:"height";i:800;s:4:"file";s:18:"2019/01/p3-1-2.jpg";s:5:"sizes";a:6:{s:6:"medium";a:4:{s:4:"file";s:18:"p3-1-2-225x300.jpg";s:5:"width";i:225;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";}s:9:"thumbnail";a:4:{s:4:"file";s:18:"p3-1-2-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:21:"woocommerce_thumbnail";a:5:{s:4:"file";s:18:"p3-1-2-300x300.jpg";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";s:9:"uncropped";b:0;}s:29:"woocommerce_gallery_thumbnail";a:4:{s:4:"file";s:18:"p3-1-2-100x100.jpg";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:10:"image/jpeg";}s:12:"shop_catalog";a:4:{s:4:"file";s:18:"p3-1-2-300x300.jpg";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";}s:14:"shop_thumbnail";a:4:{s:4:"file";s:18:"p3-1-2-100x100.jpg";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:600;s:6:"height";i:800;s:4:"file";s:18:"2019/01/p3-1-2.jpg";s:5:"sizes";a:6:{s:6:"medium";a:4:{s:4:"file";s:18:"p3-1-2-225x300.jpg";s:5:"width";i:225;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";}s:9:"thumbnail";a:4:{s:4:"file";s:18:"p3-1-2-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:21:"woocommerce_thumbnail";a:5:{s:4:"file";s:18:"p3-1-2-300x500.jpg";s:5:"width";i:300;s:6:"height";i:500;s:9:"mime-type";s:10:"image/jpeg";s:9:"uncropped";b:0;}s:29:"woocommerce_gallery_thumbnail";a:4:{s:4:"file";s:18:"p3-1-2-100x100.jpg";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:10:"image/jpeg";}s:12:"shop_catalog";a:4:{s:4:"file";s:18:"p3-1-2-300x300.jpg";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";}s:14:"shop_thumbnail";a:4:{s:4:"file";s:18:"p3-1-2-100x100.jpg";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -4169,7 +4177,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:600;s:6:"height";i:800;s:4:"file";s:18:"2019/01/p3-1-3.jpg";s:5:"sizes";a:6:{s:6:"medium";a:4:{s:4:"file";s:18:"p3-1-3-225x300.jpg";s:5:"width";i:225;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";}s:9:"thumbnail";a:4:{s:4:"file";s:18:"p3-1-3-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:21:"woocommerce_thumbnail";a:5:{s:4:"file";s:18:"p3-1-3-300x300.jpg";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";s:9:"uncropped";b:0;}s:29:"woocommerce_gallery_thumbnail";a:4:{s:4:"file";s:18:"p3-1-3-100x100.jpg";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:10:"image/jpeg";}s:12:"shop_catalog";a:4:{s:4:"file";s:18:"p3-1-3-300x300.jpg";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";}s:14:"shop_thumbnail";a:4:{s:4:"file";s:18:"p3-1-3-100x100.jpg";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:600;s:6:"height";i:800;s:4:"file";s:18:"2019/01/p3-1-3.jpg";s:5:"sizes";a:6:{s:6:"medium";a:4:{s:4:"file";s:18:"p3-1-3-225x300.jpg";s:5:"width";i:225;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";}s:9:"thumbnail";a:4:{s:4:"file";s:18:"p3-1-3-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:21:"woocommerce_thumbnail";a:5:{s:4:"file";s:18:"p3-1-3-300x500.jpg";s:5:"width";i:300;s:6:"height";i:500;s:9:"mime-type";s:10:"image/jpeg";s:9:"uncropped";b:0;}s:29:"woocommerce_gallery_thumbnail";a:4:{s:4:"file";s:18:"p3-1-3-100x100.jpg";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:10:"image/jpeg";}s:12:"shop_catalog";a:4:{s:4:"file";s:18:"p3-1-3-300x300.jpg";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";}s:14:"shop_thumbnail";a:4:{s:4:"file";s:18:"p3-1-3-100x100.jpg";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -4231,7 +4239,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:600;s:6:"height";i:800;s:4:"file";s:18:"2019/01/p4-1-2.jpg";s:5:"sizes";a:6:{s:6:"medium";a:4:{s:4:"file";s:18:"p4-1-2-225x300.jpg";s:5:"width";i:225;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";}s:9:"thumbnail";a:4:{s:4:"file";s:18:"p4-1-2-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:21:"woocommerce_thumbnail";a:5:{s:4:"file";s:18:"p4-1-2-300x300.jpg";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";s:9:"uncropped";b:0;}s:29:"woocommerce_gallery_thumbnail";a:4:{s:4:"file";s:18:"p4-1-2-100x100.jpg";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:10:"image/jpeg";}s:12:"shop_catalog";a:4:{s:4:"file";s:18:"p4-1-2-300x300.jpg";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";}s:14:"shop_thumbnail";a:4:{s:4:"file";s:18:"p4-1-2-100x100.jpg";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:600;s:6:"height";i:800;s:4:"file";s:18:"2019/01/p4-1-2.jpg";s:5:"sizes";a:6:{s:6:"medium";a:4:{s:4:"file";s:18:"p4-1-2-225x300.jpg";s:5:"width";i:225;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";}s:9:"thumbnail";a:4:{s:4:"file";s:18:"p4-1-2-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:21:"woocommerce_thumbnail";a:5:{s:4:"file";s:18:"p4-1-2-300x500.jpg";s:5:"width";i:300;s:6:"height";i:500;s:9:"mime-type";s:10:"image/jpeg";s:9:"uncropped";b:0;}s:29:"woocommerce_gallery_thumbnail";a:4:{s:4:"file";s:18:"p4-1-2-100x100.jpg";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:10:"image/jpeg";}s:12:"shop_catalog";a:4:{s:4:"file";s:18:"p4-1-2-300x300.jpg";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";}s:14:"shop_thumbnail";a:4:{s:4:"file";s:18:"p4-1-2-100x100.jpg";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -4262,7 +4270,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:600;s:6:"height";i:800;s:4:"file";s:18:"2019/01/p4-1-3.jpg";s:5:"sizes";a:6:{s:6:"medium";a:4:{s:4:"file";s:18:"p4-1-3-225x300.jpg";s:5:"width";i:225;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";}s:9:"thumbnail";a:4:{s:4:"file";s:18:"p4-1-3-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:21:"woocommerce_thumbnail";a:5:{s:4:"file";s:18:"p4-1-3-300x300.jpg";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";s:9:"uncropped";b:0;}s:29:"woocommerce_gallery_thumbnail";a:4:{s:4:"file";s:18:"p4-1-3-100x100.jpg";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:10:"image/jpeg";}s:12:"shop_catalog";a:4:{s:4:"file";s:18:"p4-1-3-300x300.jpg";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";}s:14:"shop_thumbnail";a:4:{s:4:"file";s:18:"p4-1-3-100x100.jpg";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:600;s:6:"height";i:800;s:4:"file";s:18:"2019/01/p4-1-3.jpg";s:5:"sizes";a:6:{s:6:"medium";a:4:{s:4:"file";s:18:"p4-1-3-225x300.jpg";s:5:"width";i:225;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";}s:9:"thumbnail";a:4:{s:4:"file";s:18:"p4-1-3-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:21:"woocommerce_thumbnail";a:5:{s:4:"file";s:18:"p4-1-3-300x500.jpg";s:5:"width";i:300;s:6:"height";i:500;s:9:"mime-type";s:10:"image/jpeg";s:9:"uncropped";b:0;}s:29:"woocommerce_gallery_thumbnail";a:4:{s:4:"file";s:18:"p4-1-3-100x100.jpg";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:10:"image/jpeg";}s:12:"shop_catalog";a:4:{s:4:"file";s:18:"p4-1-3-300x300.jpg";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";}s:14:"shop_thumbnail";a:4:{s:4:"file";s:18:"p4-1-3-100x100.jpg";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -4324,7 +4332,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:600;s:6:"height";i:800;s:4:"file";s:18:"2019/01/p5-1-2.jpg";s:5:"sizes";a:6:{s:6:"medium";a:4:{s:4:"file";s:18:"p5-1-2-225x300.jpg";s:5:"width";i:225;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";}s:9:"thumbnail";a:4:{s:4:"file";s:18:"p5-1-2-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:21:"woocommerce_thumbnail";a:5:{s:4:"file";s:18:"p5-1-2-300x300.jpg";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";s:9:"uncropped";b:0;}s:29:"woocommerce_gallery_thumbnail";a:4:{s:4:"file";s:18:"p5-1-2-100x100.jpg";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:10:"image/jpeg";}s:12:"shop_catalog";a:4:{s:4:"file";s:18:"p5-1-2-300x300.jpg";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";}s:14:"shop_thumbnail";a:4:{s:4:"file";s:18:"p5-1-2-100x100.jpg";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:600;s:6:"height";i:800;s:4:"file";s:18:"2019/01/p5-1-2.jpg";s:5:"sizes";a:6:{s:6:"medium";a:4:{s:4:"file";s:18:"p5-1-2-225x300.jpg";s:5:"width";i:225;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";}s:9:"thumbnail";a:4:{s:4:"file";s:18:"p5-1-2-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:21:"woocommerce_thumbnail";a:5:{s:4:"file";s:18:"p5-1-2-300x500.jpg";s:5:"width";i:300;s:6:"height";i:500;s:9:"mime-type";s:10:"image/jpeg";s:9:"uncropped";b:0;}s:29:"woocommerce_gallery_thumbnail";a:4:{s:4:"file";s:18:"p5-1-2-100x100.jpg";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:10:"image/jpeg";}s:12:"shop_catalog";a:4:{s:4:"file";s:18:"p5-1-2-300x300.jpg";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";}s:14:"shop_thumbnail";a:4:{s:4:"file";s:18:"p5-1-2-100x100.jpg";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -4355,7 +4363,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:600;s:6:"height";i:800;s:4:"file";s:18:"2019/01/p5-1-3.jpg";s:5:"sizes";a:6:{s:6:"medium";a:4:{s:4:"file";s:18:"p5-1-3-225x300.jpg";s:5:"width";i:225;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";}s:9:"thumbnail";a:4:{s:4:"file";s:18:"p5-1-3-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:21:"woocommerce_thumbnail";a:5:{s:4:"file";s:18:"p5-1-3-300x300.jpg";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";s:9:"uncropped";b:0;}s:29:"woocommerce_gallery_thumbnail";a:4:{s:4:"file";s:18:"p5-1-3-100x100.jpg";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:10:"image/jpeg";}s:12:"shop_catalog";a:4:{s:4:"file";s:18:"p5-1-3-300x300.jpg";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";}s:14:"shop_thumbnail";a:4:{s:4:"file";s:18:"p5-1-3-100x100.jpg";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:600;s:6:"height";i:800;s:4:"file";s:18:"2019/01/p5-1-3.jpg";s:5:"sizes";a:6:{s:6:"medium";a:4:{s:4:"file";s:18:"p5-1-3-225x300.jpg";s:5:"width";i:225;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";}s:9:"thumbnail";a:4:{s:4:"file";s:18:"p5-1-3-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:21:"woocommerce_thumbnail";a:5:{s:4:"file";s:18:"p5-1-3-300x500.jpg";s:5:"width";i:300;s:6:"height";i:500;s:9:"mime-type";s:10:"image/jpeg";s:9:"uncropped";b:0;}s:29:"woocommerce_gallery_thumbnail";a:4:{s:4:"file";s:18:"p5-1-3-100x100.jpg";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:10:"image/jpeg";}s:12:"shop_catalog";a:4:{s:4:"file";s:18:"p5-1-3-300x300.jpg";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";}s:14:"shop_thumbnail";a:4:{s:4:"file";s:18:"p5-1-3-100x100.jpg";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -4952,7 +4960,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:600;s:6:"height";i:800;s:4:"file";s:18:"2019/07/p8-1-1.jpg";s:5:"sizes";a:6:{s:6:"medium";a:4:{s:4:"file";s:18:"p8-1-1-225x300.jpg";s:5:"width";i:225;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";}s:9:"thumbnail";a:4:{s:4:"file";s:18:"p8-1-1-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:21:"woocommerce_thumbnail";a:5:{s:4:"file";s:18:"p8-1-1-300x300.jpg";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";s:9:"uncropped";b:0;}s:29:"woocommerce_gallery_thumbnail";a:4:{s:4:"file";s:18:"p8-1-1-100x100.jpg";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:10:"image/jpeg";}s:12:"shop_catalog";a:4:{s:4:"file";s:18:"p8-1-1-300x300.jpg";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";}s:14:"shop_thumbnail";a:4:{s:4:"file";s:18:"p8-1-1-100x100.jpg";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:600;s:6:"height";i:800;s:4:"file";s:18:"2019/07/p8-1-1.jpg";s:5:"sizes";a:6:{s:6:"medium";a:4:{s:4:"file";s:18:"p8-1-1-225x300.jpg";s:5:"width";i:225;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";}s:9:"thumbnail";a:4:{s:4:"file";s:18:"p8-1-1-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:21:"woocommerce_thumbnail";a:5:{s:4:"file";s:18:"p8-1-1-300x500.jpg";s:5:"width";i:300;s:6:"height";i:500;s:9:"mime-type";s:10:"image/jpeg";s:9:"uncropped";b:0;}s:29:"woocommerce_gallery_thumbnail";a:4:{s:4:"file";s:18:"p8-1-1-100x100.jpg";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:10:"image/jpeg";}s:12:"shop_catalog";a:4:{s:4:"file";s:18:"p8-1-1-300x300.jpg";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";}s:14:"shop_thumbnail";a:4:{s:4:"file";s:18:"p8-1-1-100x100.jpg";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -5334,65 +5342,6 @@
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wxr_import_user_slug]]></wp:meta_key>
 		<wp:meta_value><![CDATA[woostify]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title></title>
-		<link>https://prodemo.woostify.com/watch/2019/04/12/788/</link>
-		<pubDate>Fri, 12 Apr 2019 03:49:10 +0000</pubDate>
-		<dc:creator><![CDATA[woostify]]></dc:creator>
-		<guid isPermaLink="false">https://woostify.com/demos/watch/?p=788</guid>
-		<description></description>
-		<content:encoded><![CDATA[ ]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>788</wp:post_id>
-		<wp:post_date><![CDATA[2019-04-12 03:49:10]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2019-04-12 03:49:10]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[788]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>772</wp:post_parent>
-		<wp:menu_order>4</wp:menu_order>
-		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="nav_menu" nicename="main-menu"><![CDATA[Main Menu]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_elementor_controls_usage]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[785]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[776]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-		<wp:meta_value><![CDATA[page]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -5892,47 +5841,61 @@
 		<description></description>
 		<content:encoded><![CDATA[FREE SHIPPING ON ORDERS OF $100 AND FREE RETURNS EVERY DAY		
 			Search		
-			<a href="https://woostify.com/demos/watch/" rel="home"><img width="149" height="34" src="https://prodemo.woostify.com/watch/wp-content/uploads/sites/9/2019/06/logo.png" alt="Woostify logo" srcset="" /></a>		
+			<a href="https://prodemo.woostify.com/watch/" rel="home"><img width="149" height="34" src="https://prodemo.woostify.com/watch/wp-content/uploads/sites/9/2019/06/logo.png" alt="Woostify logo" srcset="" /></a>		
 			<a href="https://woostify.com/demos/watch/wishlist/">
-			<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 -28 512.001 512"><path d="m256 455.515625c-7.289062 0-14.316406-2.640625-19.792969-7.4375-20.683593-18.085937-40.625-35.082031-58.21875-50.074219l-.089843-.078125c-51.582032-43.957031-96.125-81.917969-127.117188-119.3125-34.644531-41.804687-50.78125-81.441406-50.78125-124.742187 0-42.070313 14.425781-80.882813 40.617188-109.292969 26.503906-28.746094 62.871093-44.578125 102.414062-44.578125 29.554688 0 56.621094 9.34375 80.445312 27.769531 12.023438 9.300781 22.921876 20.683594 32.523438 33.960938 9.605469-13.277344 20.5-24.660157 32.527344-33.960938 23.824218-18.425781 50.890625-27.769531 80.445312-27.769531 39.539063 0 75.910156 15.832031 102.414063 44.578125 26.191406 28.410156 40.613281 67.222656 40.613281 109.292969 0 43.300781-16.132812 82.9375-50.777344 124.738281-30.992187 37.398437-75.53125 75.355469-127.105468 119.308594-17.625 15.015625-37.597657 32.039062-58.328126 50.167969-5.472656 4.789062-12.503906 7.429687-19.789062 7.429687zm-112.96875-425.523437c-31.066406 0-59.605469 12.398437-80.367188 34.914062-21.070312 22.855469-32.675781 54.449219-32.675781 88.964844 0 36.417968 13.535157 68.988281 43.882813 105.605468 29.332031 35.394532 72.960937 72.574219 123.476562 115.625l.09375.078126c17.660156 15.050781 37.679688 32.113281 58.515625 50.332031 20.960938-18.253907 41.011719-35.34375 58.707031-50.417969 50.511719-43.050781 94.136719-80.222656 123.46875-115.617188 30.34375-36.617187 43.878907-69.1875 43.878907-105.605468 0-34.515625-11.605469-66.109375-32.675781-88.964844-20.757813-22.515625-49.300782-34.914062-80.363282-34.914062-22.757812 0-43.652344 7.234374-62.101562 21.5-16.441406 12.71875-27.894532 28.796874-34.609375 40.046874-3.453125 5.785157-9.53125 9.238282-16.261719 9.238282s-12.808594-3.453125-16.261719-9.238282c-6.710937-11.25-18.164062-27.328124-34.609375-40.046874-18.449218-14.265626-39.34375-21.5-62.097656-21.5zm0 0"></path></svg>			</a>
+						</a>
 			<a href="#">
 							</a>
-					<ul id="menu-dashboard"><li id="menu-item-1105"><a href="https://woostify.com/demos/watch/shop/my-account/">My Account</a></li>
-<li id="menu-item-1106"><a href="https://woostify.com/demos/watch/shop/checkout/">Checkout</a></li>
-</ul>						<li>
-							<a href="https://woostify.com/demos/watch/wp-login.php?action=logout&#038;redirect_to=https%3A%2F%2Fwoostify.com%2Fdemos%2Fwatch%2F&#038;_wpnonce=f9f9b4c8fb">Logout</a>
+					<ul>
+<li ><a href="https://prodemo.woostify.com/watch/">Home</a></li><li><a href="https://prodemo.woostify.com/watch/about/">About</a></li>
+<li><a href="https://prodemo.woostify.com/watch/blog/">Blog</a></li>
+<li><a href="https://prodemo.woostify.com/watch/contact/">Contact</a></li>
+<li><a href="https://prodemo.woostify.com/watch/sample-page/">Sample Page</a></li>
+<li><a href="https://prodemo.woostify.com/watch/sample-page-2/">Sample Page</a></li>
+<li><a href="https://prodemo.woostify.com/watch/sample-page-2-2/">Sample Page</a></li>
+<li><a href="https://prodemo.woostify.com/watch/shop/">Shop</a>
+<ul class='children'>
+	<li><a href="https://prodemo.woostify.com/watch/shop/cart/">Cart</a></li>
+	<li><a href="https://prodemo.woostify.com/watch/shop/checkout/">Checkout</a></li>
+	<li><a href="https://prodemo.woostify.com/watch/shop/my-account/">My Account</a></li>
+</ul>
+</li>
+<li><a href="https://prodemo.woostify.com/watch/wishlist/">Wishlist</a></li>
+</ul>
+						<li>
+							<a href="https://prodemo.woostify.com/watch/wp-login.php?action=logout&#038;redirect_to=https%3A%2F%2Fprodemo.woostify.com%2Fwatch%2F&#038;_wpnonce=cc800d6140">Logout</a>
 						</li>
-			<a href="https://woostify.com/demos/watch/shop/cart/">
+			<a href="https://prodemo.woostify.com/watch/shop/cart/">
 								0
 			</a>
 				<nav aria-label="Primary navigation">
-											<a href="https://woostify.com/demos/watch/wp-admin/nav-menus.php">Add a Primary Menu</a>
+											<a href="https://prodemo.woostify.com/watch/wp-admin/nav-menus.php">Add a Primary Menu</a>
 									</nav>
-			<form role="search" method="get" action="https://woostify.com/demos/watch/">
+			<form role="search" method="get" action="https://prodemo.woostify.com/watch/">
 	<label for="woocommerce-product-search-field-0">Search for:</label>
 	<input type="search" id="woocommerce-product-search-field-0" placeholder="Search products&hellip;" value="" name="s" />
 	<button type="submit" value="Search">Search</button>
 	<input type="hidden" name="post_type" value="product" />
 </form>
 				<nav aria-label="Primary navigation">
-					<ul id="menu-main-menu"><li id="menu-item-20"><a href="https://woostify.com/demos/watch">Home</a></li>
-<li id="menu-item-785"><a href="https://woostify.com/demos/watch/shop/">Shop</a>
+					<ul id="menu-main-menu"><li id="menu-item-1522"><a href="https://prodemo.woostify.com/watch/">Home</a></li>
+<li id="menu-item-785"><a href="https://prodemo.woostify.com/watch/shop/">Shop</a>
 <ul>
-	<li id="menu-item-1407"><a href="https://woostify.com/demos/watch/product/trendy-watch/">Products Variations</a></li>
-	<li id="menu-item-788"><a href="https://woostify.com/demos/watch/shop/cart/">Cart</a></li>
-	<li id="menu-item-787"><a href="https://woostify.com/demos/watch/shop/checkout/">Checkout</a></li>
-	<li id="menu-item-786"><a href="https://woostify.com/demos/watch/shop/my-account/">My Account</a></li>
+	<li id="menu-item-1407"><a href="https://woostify.com/demos/pro/watch/product/classic-clock/">Products Variations</a></li>
+	<li id="menu-item-788"><a href="https://prodemo.woostify.com/watch/shop/cart/">Cart</a></li>
+	<li id="menu-item-787"><a href="https://prodemo.woostify.com/watch/shop/checkout/">Checkout</a></li>
+	<li id="menu-item-786"><a href="https://prodemo.woostify.com/watch/shop/my-account/">My Account</a></li>
 </ul>
 </li>
 <li id="menu-item-23"><a href="#">Pages</a>
 <ul>
-	<li id="menu-item-694"><a href="https://woostify.com/demos/watch/about">About</a></li>
-	<li id="menu-item-25"><a href="https://woostify.com/demos/watch/contact">Contact</a></li>
+	<li id="menu-item-1517"><a href="https://prodemo.woostify.com/watch/about/">About</a></li>
+	<li id="menu-item-1518"><a href="https://prodemo.woostify.com/watch/contact/">Contact</a></li>
 </ul>
 </li>
-<li id="menu-item-24"><a href="https://woostify.com/demos/watch/blog">Blog</a></li>
+<li id="menu-item-1519"><a href="https://prodemo.woostify.com/watch/blog/">Blog</a></li>
 </ul>				</nav>
-						<a href="https://woostify.com/demos/watch/wp-login.php?action=logout&#038;redirect_to=https%3A%2F%2Fwoostify.com%2Fdemos%2Fwatch&#038;_wpnonce=f9f9b4c8fb">Logout</a>]]></content:encoded>
+						<a href="https://prodemo.woostify.com/watch/wp-login.php?action=logout&#038;redirect_to=https%3A%2F%2Fprodemo.woostify.com%2Fwatch&#038;_wpnonce=cc800d6140">Logout</a>]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>1096</wp:post_id>
 		<wp:post_date><![CDATA[2019-06-20 03:27:11]]></wp:post_date>
@@ -5948,7 +5911,7 @@
 		<wp:is_sticky>0</wp:is_sticky>
 														<wp:postmeta>
 		<wp:meta_key><![CDATA[_elementor_controls_usage]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:9:{s:7:"heading";a:3:{s:5:"count";i:2;s:15:"control_percent";i:3;s:8:"controls";a:3:{s:7:"content";a:1:{s:13:"section_title";a:3:{s:5:"title";i:2;s:11:"header_size";i:2;s:5:"align";i:1;}}s:5:"style";a:1:{s:19:"section_title_style";a:2:{s:11:"title_color";i:1;s:21:"typography_typography";i:1;}}s:8:"advanced";a:3:{s:14:"_section_style";a:1:{s:7:"_margin";i:1;}s:17:"_section_position";a:2:{s:14:"_element_width";i:1;s:23:"_element_vertical_align";i:1;}s:19:"_section_responsive";a:2:{s:11:"hide_tablet";i:1;s:11:"hide_mobile";i:1;}}}}s:6:"column";a:3:{s:5:"count";i:5;s:15:"control_percent";i:0;s:8:"controls";a:1:{s:6:"layout";a:1:{s:6:"layout";a:3:{s:12:"_inline_size";i:3;s:19:"_inline_size_mobile";i:3;s:5:"align";i:1;}}}}s:7:"section";a:3:{s:5:"count";i:3;s:15:"control_percent";i:2;s:8:"controls";a:3:{s:6:"layout";a:2:{s:14:"section_layout";a:2:{s:16:"content_position";i:2;s:3:"gap";i:1;}s:17:"section_structure";a:1:{s:9:"structure";i:1;}}s:5:"style";a:1:{s:18:"section_background";a:2:{s:21:"background_background";i:2;s:16:"background_color";i:1;}}s:8:"advanced";a:2:{s:16:"section_advanced";a:3:{s:7:"padding";i:1;s:14:"padding_mobile";i:1;s:6:"margin";i:1;}s:19:"_section_responsive";a:2:{s:11:"hide_tablet";i:1;s:11:"hide_mobile";i:1;}}}}s:20:"woostify-search-icon";a:3:{s:5:"count";i:1;s:15:"control_percent";i:2;s:8:"controls";a:2:{s:5:"style";a:1:{s:7:"general";a:1:{s:7:"padding";i:1;}}s:8:"advanced";a:2:{s:17:"_section_position";a:2:{s:14:"_element_width";i:1;s:23:"_element_vertical_align";i:1;}s:14:"_section_style";a:1:{s:14:"_margin_mobile";i:1;}}}}s:19:"woostify-logo-image";a:3:{s:5:"count";i:1;s:15:"control_percent";i:1;s:8:"controls";a:2:{s:8:"advanced";a:1:{s:14:"_section_style";a:1:{s:14:"_margin_mobile";i:1;}}s:5:"style";a:1:{s:7:"general";a:1:{s:9:"alignment";i:1;}}}}s:4:"icon";a:3:{s:5:"count";i:1;s:15:"control_percent";i:3;s:8:"controls";a:3:{s:7:"content";a:1:{s:12:"section_icon";a:2:{s:13:"selected_icon";i:1;s:4:"link";i:1;}}s:5:"style";a:1:{s:18:"section_style_icon";a:2:{s:13:"primary_color";i:1;s:4:"size";i:1;}}s:8:"advanced";a:3:{s:14:"_section_style";a:1:{s:8:"_padding";i:1;}s:17:"_section_position";a:1:{s:14:"_element_width";i:1;}s:19:"_section_responsive";a:1:{s:11:"hide_mobile";i:1;}}}}s:21:"woostify-account-icon";a:3:{s:5:"count";i:1;s:15:"control_percent";i:3;s:8:"controls";a:2:{s:5:"style";a:2:{s:4:"cart";a:1:{s:7:"padding";i:1;}s:4:"menu";a:1:{s:7:"menu_id";i:1;}}s:8:"advanced";a:2:{s:17:"_section_position";a:2:{s:14:"_element_width";i:1;s:23:"_element_vertical_align";i:1;}s:19:"_section_responsive";a:1:{s:11:"hide_mobile";i:1;}}}}s:18:"woostify-cart-icon";a:3:{s:5:"count";i:1;s:15:"control_percent";i:3;s:8:"controls";a:2:{s:5:"style";a:2:{s:7:"general";a:1:{s:7:"padding";i:1;}s:5:"count";a:2:{s:16:"position_x_right";i:1;s:14:"position_y_top";i:1;}}s:8:"advanced";a:2:{s:17:"_section_position";a:2:{s:14:"_element_width";i:1;s:23:"_element_vertical_align";i:1;}s:19:"_section_responsive";a:1:{s:11:"hide_mobile";i:1;}}}}s:17:"woostify-nav-menu";a:3:{s:5:"count";i:2;s:15:"control_percent";i:3;s:8:"controls";a:2:{s:5:"style";a:3:{s:7:"general";a:2:{s:9:"alignment";i:2;s:7:"menu_id";i:1;}s:6:"parent";a:5:{s:22:"parent_typo_typography";i:2;s:21:"parent_typo_font_size";i:2;s:21:"prent_menu_text_color";i:2;s:23:"parent_typo_line_height";i:2;s:28:"parent_typo_font_size_tablet";i:1;}s:3:"sub";a:3:{s:19:"sub_typo_typography";i:2;s:18:"sub_typo_font_size";i:2;s:25:"sub_typo_font_size_tablet";i:1;}}s:8:"advanced";a:3:{s:14:"_section_style";a:1:{s:15:"_padding_tablet";i:1;}s:17:"_section_position";a:2:{s:14:"_element_width";i:1;s:23:"_element_vertical_align";i:1;}s:19:"_section_responsive";a:1:{s:12:"hide_desktop";i:1;}}}}}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[woostify-header-footer-builder-template]]></wp:meta_key>
@@ -5964,11 +5927,11 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_elementor_template_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[post]]></wp:meta_value>
+		<wp:meta_value><![CDATA[wp-post]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_elementor_version]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2.6.8]]></wp:meta_value>
+		<wp:meta_value><![CDATA[2.9.8]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
@@ -5976,7 +5939,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_elementor_data]]></wp:meta_key>
-		<wp:meta_value><![CDATA[[{"id":"df4cdd5","elType":"section","settings":{"content_position":"middle","background_background":"classic","background_color":"#06070b"},"elements":[{"id":"1ecd6f3","elType":"column","settings":{"_column_size":100},"elements":[{"id":"7bdcb57","elType":"widget","settings":{"title":"FREE SHIPPING ON ORDERS OF $100 AND FREE RETURNS EVERY DAY","header_size":"span","align":"center","title_color":"#ffffff","typography_typography":"custom"},"elements":[],"widgetType":"heading"}],"isInner":false}],"isInner":false},{"id":"35e11ce","elType":"section","settings":{"content_position":"middle","structure":"30","padding":{"unit":"px","top":"10","right":"0","bottom":"0","left":"0","isLinked":false},"padding_mobile":{"unit":"px","top":"0","right":"0","bottom":"5","left":"0","isLinked":false}},"elements":[{"id":"e58b6d1","elType":"column","settings":{"_column_size":33,"_inline_size":null,"_inline_size_mobile":20},"elements":[{"id":"f96d7b0","elType":"widget","settings":{"title":"Search","header_size":"span","_margin":{"unit":"px","top":"0","right":"10","bottom":"0","left":"0","isLinked":false},"_element_width":"auto","_element_vertical_align":"center","hide_tablet":"hidden-tablet","hide_mobile":"hidden-phone"},"elements":[],"widgetType":"heading"},{"id":"9d589e9","elType":"widget","settings":{"padding":{"unit":"px","top":"10","right":"10","bottom":"10","left":"10","isLinked":true},"_element_width":"auto","_element_vertical_align":"center","_margin_mobile":{"unit":"px","top":"10","right":"0","bottom":"0","left":"0","isLinked":false}},"elements":[],"widgetType":"woostify-search-icon"}],"isInner":false},{"id":"967d54c","elType":"column","settings":{"_column_size":33,"_inline_size":null,"_inline_size_mobile":60},"elements":[{"id":"e10a2e0","elType":"widget","settings":{"_margin_mobile":{"unit":"px","top":"5","right":"0","bottom":"0","left":"0","isLinked":false},"alignment":"center"},"elements":[],"widgetType":"woostify-logo-image"}],"isInner":false},{"id":"d4d5054","elType":"column","settings":{"_column_size":33,"_inline_size":null,"align":"flex-end","_inline_size_mobile":20},"elements":[{"id":"63a4c92","elType":"widget","settings":{"selected_icon":{"value":{"url":"https:\/\/woostify.com\/demos\/watch\/wp-content\/uploads\/2019\/06\/heart.svg","id":1494},"library":"svg"},"link":{"url":"https:\/\/woostify.com\/demos\/watch\/wishlist\/","is_external":"","nofollow":""},"primary_color":"#000000","size":{"unit":"px","size":22,"sizes":[]},"_padding":{"unit":"px","top":"15","right":"15","bottom":"0","left":"15","isLinked":false},"_element_width":"auto","hide_mobile":"hidden-phone"},"elements":[],"widgetType":"icon"},{"id":"6cd3e41","elType":"widget","settings":{"type":"icon","padding":{"unit":"px","top":"10","right":"10","bottom":"10","left":"10","isLinked":true},"_element_width":"auto","_element_vertical_align":"center","menu_id":"43","hide_mobile":"hidden-phone"},"elements":[],"widgetType":"woostify-account-icon"},{"id":"db6f189","elType":"widget","settings":{"padding":{"unit":"px","top":"10","right":"10","bottom":"10","left":"10","isLinked":true},"type":"icon","icon":"eicon-bag-light","position_x_right":{"unit":"px","size":0,"sizes":[]},"position_y_top":{"unit":"px","size":3,"sizes":[]},"_element_width":"auto","_element_vertical_align":"center","hide_mobile":"hidden-phone"},"elements":[],"widgetType":"woostify-cart-icon"},{"id":"ce8c530","elType":"widget","settings":{"alignment":"center","parent_typo_typography":"custom","parent_typo_font_size":{"unit":"px","size":20,"sizes":[]},"prent_menu_text_color":"#000000","parent_typo_line_height":{"unit":"px","size":25,"sizes":[]},"sub_typo_typography":"custom","sub_typo_font_size":{"unit":"px","size":18,"sizes":[]},"_padding_tablet":{"unit":"px","top":"10","right":"10","bottom":"10","left":"10","isLinked":true},"_element_width":"auto","_element_vertical_align":"center","hide_desktop":"hidden-desktop","parent_typo_font_size_tablet":{"unit":"em","size":1.1,"sizes":[]},"sub_typo_font_size_tablet":{"unit":"px","size":14,"sizes":[]}},"elements":[],"widgetType":"woostify-nav-menu"}],"isInner":false}],"isInner":false},{"id":"29932e5","elType":"section","settings":{"gap":"no","background_background":"classic","hide_tablet":"hidden-tablet","hide_mobile":"hidden-phone","margin":{"unit":"px","top":"-8","right":0,"bottom":"0","left":0,"isLinked":false}},"elements":[{"id":"fccbfe3","elType":"column","settings":{"_column_size":100},"elements":[{"id":"b82946d","elType":"widget","settings":{"menu_id":"main-menu","alignment":"center","parent_typo_typography":"custom","parent_typo_font_size":{"unit":"px","size":20,"sizes":[]},"prent_menu_text_color":"#000000","parent_typo_line_height":{"unit":"px","size":25,"sizes":[]},"sub_typo_typography":"custom","sub_typo_font_size":{"unit":"px","size":18,"sizes":[]}},"elements":[],"widgetType":"woostify-nav-menu"}],"isInner":false}],"isInner":false}]]]></wp:meta_value>
+		<wp:meta_value><![CDATA[[{"id":"df4cdd5","elType":"section","settings":{"content_position":"middle","background_background":"classic","background_color":"#06070b"},"elements":[{"id":"1ecd6f3","elType":"column","settings":{"_column_size":100},"elements":[{"id":"7bdcb57","elType":"widget","settings":{"title":"FREE SHIPPING ON ORDERS OF $100 AND FREE RETURNS EVERY DAY","header_size":"span","align":"center","title_color":"#ffffff","typography_typography":"custom"},"elements":[],"widgetType":"heading"}],"isInner":false}],"isInner":false},{"id":"35e11ce","elType":"section","settings":{"content_position":"middle","structure":"30","padding":{"unit":"px","top":"10","right":"0","bottom":"0","left":"0","isLinked":false},"padding_mobile":{"unit":"px","top":"0","right":"0","bottom":"5","left":"0","isLinked":false}},"elements":[{"id":"e58b6d1","elType":"column","settings":{"_column_size":33,"_inline_size":null,"_inline_size_mobile":20},"elements":[{"id":"f96d7b0","elType":"widget","settings":{"title":"Search","header_size":"span","_margin":{"unit":"px","top":"0","right":"10","bottom":"0","left":"0","isLinked":false},"_element_width":"auto","_element_vertical_align":"center","hide_tablet":"hidden-tablet","hide_mobile":"hidden-phone"},"elements":[],"widgetType":"heading"},{"id":"9d589e9","elType":"widget","settings":{"padding":{"unit":"px","top":"10","right":"10","bottom":"10","left":"10","isLinked":true},"_element_width":"auto","_element_vertical_align":"center","_margin_mobile":{"unit":"px","top":"10","right":"0","bottom":"0","left":"0","isLinked":false}},"elements":[],"widgetType":"woostify-search-icon"}],"isInner":false},{"id":"967d54c","elType":"column","settings":{"_column_size":33,"_inline_size":null,"_inline_size_mobile":60},"elements":[{"id":"e10a2e0","elType":"widget","settings":{"_margin_mobile":{"unit":"px","top":"5","right":"0","bottom":"0","left":"0","isLinked":false},"alignment":"center"},"elements":[],"widgetType":"woostify-logo-image"}],"isInner":false},{"id":"d4d5054","elType":"column","settings":{"_column_size":33,"_inline_size":null,"align":"flex-end","_inline_size_mobile":20},"elements":[{"id":"63a4c92","elType":"widget","settings":{"selected_icon":{"value":{"url":"https:\/\/woostify.com\/demos\/watch\/wp-content\/uploads\/2019\/06\/heart.svg","id":1494},"library":"svg"},"link":{"url":"https:\/\/woostify.com\/demos\/watch\/wishlist\/","is_external":"","nofollow":""},"primary_color":"#000000","size":{"unit":"px","size":22,"sizes":[]},"_padding":{"unit":"px","top":"15","right":"15","bottom":"0","left":"15","isLinked":false},"_element_width":"auto","hide_mobile":"hidden-phone"},"elements":[],"widgetType":"icon"},{"id":"6cd3e41","elType":"widget","settings":{"padding":{"unit":"px","top":"10","right":"10","bottom":"10","left":"10","isLinked":true},"_element_width":"auto","_element_vertical_align":"center","menu_id":"43","hide_mobile":"hidden-phone"},"elements":[],"widgetType":"woostify-account-icon"},{"id":"db6f189","elType":"widget","settings":{"padding":{"unit":"px","top":"10","right":"10","bottom":"10","left":"10","isLinked":true},"position_x_right":{"unit":"px","size":0,"sizes":[]},"position_y_top":{"unit":"px","size":3,"sizes":[]},"_element_width":"auto","_element_vertical_align":"center","hide_mobile":"hidden-phone"},"elements":[],"widgetType":"woostify-cart-icon"},{"id":"ce8c530","elType":"widget","settings":{"alignment":"center","parent_typo_typography":"custom","parent_typo_font_size":{"unit":"px","size":20,"sizes":[]},"prent_menu_text_color":"#000000","parent_typo_line_height":{"unit":"px","size":25,"sizes":[]},"sub_typo_typography":"custom","sub_typo_font_size":{"unit":"px","size":18,"sizes":[]},"_padding_tablet":{"unit":"px","top":"10","right":"10","bottom":"10","left":"10","isLinked":true},"_element_width":"auto","_element_vertical_align":"center","hide_desktop":"hidden-desktop","parent_typo_font_size_tablet":{"unit":"em","size":1.1,"sizes":[]},"sub_typo_font_size_tablet":{"unit":"px","size":14,"sizes":[]}},"elements":[],"widgetType":"woostify-nav-menu"}],"isInner":false}],"isInner":false},{"id":"29932e5","elType":"section","settings":{"gap":"no","background_background":"classic","hide_tablet":"hidden-tablet","hide_mobile":"hidden-phone","margin":{"unit":"px","top":"-8","right":0,"bottom":"0","left":0,"isLinked":false}},"elements":[{"id":"fccbfe3","elType":"column","settings":{"_column_size":100},"elements":[{"id":"b82946d","elType":"widget","settings":{"menu_id":"main-menu","alignment":"center","parent_typo_typography":"custom","parent_typo_font_size":{"unit":"px","size":20,"sizes":[]},"prent_menu_text_color":"#000000","parent_typo_line_height":{"unit":"px","size":25,"sizes":[]},"sub_typo_typography":"custom","sub_typo_font_size":{"unit":"px","size":18,"sizes":[]}},"elements":[],"widgetType":"woostify-nav-menu"}],"isInner":false}],"isInner":false}]]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_elementor_elements_usage]]></wp:meta_key>
@@ -6329,6 +6292,37 @@
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_elementor_version]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2.9.8]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title>favicon</title>
+		<link>https://prodemo.woostify.com/watch/favicon/</link>
+		<pubDate>Wed, 27 May 2020 04:00:59 +0000</pubDate>
+		<dc:creator><![CDATA[woostify]]></dc:creator>
+		<guid isPermaLink="false">https://prodemo.woostify.com/watch/wp-content/uploads/sites/9/2020/05/favicon.png</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>1540</wp:post_id>
+		<wp:post_date><![CDATA[2020-05-27 04:00:59]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-05-27 04:00:59]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[favicon]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[https://prodemo.woostify.com/watch/wp-content/uploads/sites/9/2020/05/favicon.png]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2020/05/favicon.png]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:49;s:6:"height";i:60;s:4:"file";s:19:"2020/05/favicon.png";s:5:"sizes";a:0:{}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -6818,6 +6812,65 @@ a lot of things for you to explore. The price is reasonable and customer service
 		</wp:postmeta>
 							</item>
 					<item>
+		<title></title>
+		<link>https://prodemo.woostify.com/watch/2019/04/12/788/</link>
+		<pubDate>Fri, 12 Apr 2019 03:49:10 +0000</pubDate>
+		<dc:creator><![CDATA[woostify]]></dc:creator>
+		<guid isPermaLink="false">https://woostify.com/demos/watch/?p=788</guid>
+		<description></description>
+		<content:encoded><![CDATA[ ]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>788</wp:post_id>
+		<wp:post_date><![CDATA[2019-04-12 03:49:10]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2019-04-12 03:49:10]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[788]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>772</wp:post_parent>
+		<wp:menu_order>4</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="nav_menu" nicename="main-menu"><![CDATA[Main Menu]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_elementor_controls_usage]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[785]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[776]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+		<wp:meta_value><![CDATA[page]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
 		<title>Contact</title>
 		<link>https://prodemo.woostify.com/watch/contact/</link>
 		<pubDate>Wed, 17 Apr 2019 01:03:36 +0000</pubDate>
@@ -7025,58 +7078,6 @@ a lot of things for you to explore. The price is reasonable and customer service
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
 		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wxr_import_user_slug]]></wp:meta_key>
-		<wp:meta_value><![CDATA[woostify]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wxr_import_user_slug]]></wp:meta_key>
-		<wp:meta_value><![CDATA[woostify]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title>Wishlist</title>
-		<link>https://prodemo.woostify.com/watch/wishlist/</link>
-		<pubDate>Sat, 06 Jul 2019 08:57:51 +0000</pubDate>
-		<dc:creator><![CDATA[woostify]]></dc:creator>
-		<guid isPermaLink="false">https://woostify.com/demos/watch/?page_id=1322</guid>
-		<description></description>
-		<content:encoded><![CDATA[<!-- wp:paragraph -->
-<p>[ti_wishlistsview]</p>
-<!-- /wp:paragraph -->]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>1322</wp:post_id>
-		<wp:post_date><![CDATA[2019-07-06 08:57:51]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2019-07-06 08:57:51]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[wishlist]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[page]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														<wp:postmeta>
-		<wp:meta_key><![CDATA[_elementor_controls_usage]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[site-container]]></wp:meta_key>
-		<wp:meta_value><![CDATA[default]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[site-header-transparent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[default]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[site-page-header]]></wp:meta_key>
-		<wp:meta_value><![CDATA[default]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[site-sidebar]]></wp:meta_key>
-		<wp:meta_value><![CDATA[default]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wxr_import_user_slug]]></wp:meta_key>
@@ -9816,24 +9817,26 @@ I’ve arrived on time to every lesson I’ve had to teach this year, bar one.&n
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>Movado Stainless Steel</title>
-		<link>https://prodemo.woostify.com/watch/product/movado-stainless-steel/</link>
-		<pubDate>Fri, 05 Jul 2019 08:20:38 +0000</pubDate>
+		<title>Wishlist</title>
+		<link>https://prodemo.woostify.com/watch/wishlist/</link>
+		<pubDate>Sat, 06 Jul 2019 08:57:51 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
-		<guid isPermaLink="false">https://woostify.com/demos/watch/?post_type=product_variation&#038;p=1224</guid>
+		<guid isPermaLink="false">https://woostify.com/demos/watch/?page_id=1322</guid>
 		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
+		<content:encoded><![CDATA[<!-- wp:paragraph -->
+<p>[ti_wishlistsview]</p>
+<!-- /wp:paragraph -->]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>1224</wp:post_id>
-		<wp:post_date><![CDATA[2019-07-05 08:20:38]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2019-07-05 08:20:38]]></wp:post_date_gmt>
+		<wp:post_id>1322</wp:post_id>
+		<wp:post_date><![CDATA[2019-07-06 08:57:51]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2019-07-06 08:57:51]]></wp:post_date_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[movado-stainless-steel]]></wp:post_name>
+		<wp:post_name><![CDATA[wishlist]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>1035</wp:post_parent>
+		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[product_variation]]></wp:post_type>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
 														<wp:postmeta>
@@ -9841,80 +9844,20 @@ I’ve arrived on time to every lesson I’ve had to teach this year, bar one.&n
 		<wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_variation_description]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		<wp:meta_key><![CDATA[site-container]]></wp:meta_key>
+		<wp:meta_value><![CDATA[default]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[total_sales]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		<wp:meta_key><![CDATA[site-header-transparent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[default]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_tax_status]]></wp:meta_key>
-		<wp:meta_value><![CDATA[taxable]]></wp:meta_value>
+		<wp:meta_key><![CDATA[site-page-header]]></wp:meta_key>
+		<wp:meta_value><![CDATA[default]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_tax_class]]></wp:meta_key>
-		<wp:meta_value><![CDATA[parent]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_manage_stock]]></wp:meta_key>
-		<wp:meta_value><![CDATA[no]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_backorders]]></wp:meta_key>
-		<wp:meta_value><![CDATA[no]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_sold_individually]]></wp:meta_key>
-		<wp:meta_value><![CDATA[no]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_virtual]]></wp:meta_key>
-		<wp:meta_value><![CDATA[no]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_downloadable]]></wp:meta_key>
-		<wp:meta_value><![CDATA[no]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_download_limit]]></wp:meta_key>
-		<wp:meta_value><![CDATA[-1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_download_expiry]]></wp:meta_key>
-		<wp:meta_value><![CDATA[-1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_stock]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_stock_status]]></wp:meta_key>
-		<wp:meta_value><![CDATA[instock]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wc_average_rating]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wc_review_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[attribute_pa_color]]></wp:meta_key>
-		<wp:meta_value><![CDATA[pink]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_product_version]]></wp:meta_key>
-		<wp:meta_value><![CDATA[3.6.4]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_regular_price]]></wp:meta_key>
-		<wp:meta_value><![CDATA[125]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_price]]></wp:meta_key>
-		<wp:meta_value><![CDATA[125]]></wp:meta_value>
+		<wp:meta_key><![CDATA[site-sidebar]]></wp:meta_key>
+		<wp:meta_value><![CDATA[default]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wxr_import_user_slug]]></wp:meta_key>
@@ -10754,6 +10697,116 @@ This e-mail was sent from a contact form on Ankle (https://woostify.com/demos/wa
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_locale]]></wp:meta_key>
 		<wp:meta_value><![CDATA[en_US]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wxr_import_user_slug]]></wp:meta_key>
+		<wp:meta_value><![CDATA[woostify]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wxr_import_user_slug]]></wp:meta_key>
+		<wp:meta_value><![CDATA[woostify]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title>Movado Stainless Steel</title>
+		<link>https://prodemo.woostify.com/watch/product/movado-stainless-steel/</link>
+		<pubDate>Fri, 05 Jul 2019 08:20:38 +0000</pubDate>
+		<dc:creator><![CDATA[woostify]]></dc:creator>
+		<guid isPermaLink="false">https://woostify.com/demos/watch/?post_type=product_variation&#038;p=1224</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>1224</wp:post_id>
+		<wp:post_date><![CDATA[2019-07-05 08:20:38]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2019-07-05 08:20:38]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[movado-stainless-steel]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>1035</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[product_variation]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[_elementor_controls_usage]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_variation_description]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[total_sales]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_tax_status]]></wp:meta_key>
+		<wp:meta_value><![CDATA[taxable]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_tax_class]]></wp:meta_key>
+		<wp:meta_value><![CDATA[parent]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_manage_stock]]></wp:meta_key>
+		<wp:meta_value><![CDATA[no]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_backorders]]></wp:meta_key>
+		<wp:meta_value><![CDATA[no]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_sold_individually]]></wp:meta_key>
+		<wp:meta_value><![CDATA[no]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_virtual]]></wp:meta_key>
+		<wp:meta_value><![CDATA[no]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_downloadable]]></wp:meta_key>
+		<wp:meta_value><![CDATA[no]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_download_limit]]></wp:meta_key>
+		<wp:meta_value><![CDATA[-1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_download_expiry]]></wp:meta_key>
+		<wp:meta_value><![CDATA[-1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_stock]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_stock_status]]></wp:meta_key>
+		<wp:meta_value><![CDATA[instock]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wc_average_rating]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wc_review_count]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[attribute_pa_color]]></wp:meta_key>
+		<wp:meta_value><![CDATA[pink]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_product_version]]></wp:meta_key>
+		<wp:meta_value><![CDATA[3.6.4]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_regular_price]]></wp:meta_key>
+		<wp:meta_value><![CDATA[125]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_price]]></wp:meta_key>
+		<wp:meta_value><![CDATA[125]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wxr_import_user_slug]]></wp:meta_key>
