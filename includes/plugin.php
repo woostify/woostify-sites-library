@@ -17,12 +17,23 @@ function woostify_site_plugin($selected_import_index)
 			'slug'     => 'ti- woocommerce-wishlist',
 			'required' => false,
 		),
+		array(
+			'name'     => 'Elementor',
+			'slug'     => 'elementor',
+		),
 	);
 	$added = array();
 
+	if ( $selected_import_index == 15 ) {
+		$added[] = array(
+			'name'     => 'Dokan',
+			'slug'     => 'dokan-lite',
+			'required' => false,
+		);
+	}
 
 	// This required Plugin Demmo 1 Fashion, Yoga, Vogue, Lenvision
-	if ( $selected_import_index == 0 || $selected_import_index == 1 || $selected_import_index == 2 || $selected_import_index == 3 || $selected_import_index == 14) {
+	if ( $selected_import_index == 0 || $selected_import_index == 1 || $selected_import_index == 2 || $selected_import_index == 3 ) {
 		$added[] = array(
 				'name'     => 'Instagram Feed',
 				'slug'     => 'instagram-feed',
@@ -30,25 +41,20 @@ function woostify_site_plugin($selected_import_index)
 			);
 	}
 
-	if ( $selected_import_index == 14 || $selected_import_index == 15 ) {
-		$added[] = array(
-				'name'     => 'Brizy',
-				'slug'     => 'brizy',
-				'required' => false,
-			);
-	}else {
-		$added[] = array(
-			'name'     => 'Elementor',
-			'slug'     => 'elementor',
-		);
-	}
-
-	if ( $selected_import_index == 0 || $selected_import_index == 12 || $selected_import_index == 14 || $selected_import_index == 15 ) {
+	if ( $selected_import_index == 0 || $selected_import_index == 12 ) {
 		$added[] = array(
 				'name'     => 'Variation Swatches',
 				'slug'     => 'variation-swatches-for-woocommerce',
 				'required' => false,
 			);
+	}
+
+	if ( $selected_import_index == 15 ) {
+		$added[] = array(
+			'name'     => 'Current Switcher',
+			'slug'     => 'woocommerce-currency-switcher',
+			'required' => false,
+		);
 	}
 
 	if ( ! empty($added) ) {

@@ -1265,13 +1265,6 @@ class Woostify_Sites {
 									<?php echo esc_html('Elementor'); ?>
 								</a>
 							</li>
-
-							<li>
-								<a href="#" data-group="brizy" class="merlin__page-builder js-select-filter">
-									<?php echo esc_html('Brizy'); ?>
-								</a>
-							</li>
-
 						</ul>
 					</div>
 
