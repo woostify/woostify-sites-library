@@ -3,7 +3,7 @@ Contributors: woostify
 Tags: demo, theme demos, one click import
 Requires at least: 4.4
 Requires PHP: 5.6
-Stable tag: 1.2.6
+Stable tag: 1.2.7
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -48,6 +48,10 @@ Integrating Appsero SDK **DOES NOT IMMEDIATELY** start gathering data, **without
 Learn more about how [Appsero collects and uses this data](https://appsero.com/privacy-policy/).
 
 == Changelog ==
+= 1.2.7 =
+* Add Autocar demo & Meins demo
+* Remove Brizy demo
+
 = 1.2.6 =
 * Update Appsero client
 
