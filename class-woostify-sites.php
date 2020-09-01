@@ -2416,6 +2416,8 @@ class Woostify_Sites {
 			$demos = array_chunk( $demos, 6 );
 			$_SESSION['demo'] = $demos;
 		}
+
+		session_write_close();
 	}
 
 	/**
@@ -2863,6 +2865,7 @@ class Woostify_Sites {
 			$demos = array_chunk( $demos, 6 );
 			$_SESSION['demo'] = $demos;
 		}
+		session_write_close();
 	}
 
 	public function woostify_sites_set_cookie()
