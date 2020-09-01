@@ -14,7 +14,7 @@ function woostify_sites_local_import_files() {
 		array(
 			'id'                           => 0,
 			'import_file_name'             => 'Fashion',
-			'local_import_file'            => WOOSTIFY_SITES_DIR . 'demos/demo-1/demo-content.xml',
+			'local_import_file'            => WOOSTIFY_SITES_DIR . 'demos/demo-1/data.xml',
 			'local_import_widget_file'     => WOOSTIFY_SITES_DIR . 'demos/demo-1/widgets.wie',
 			'local_import_customizer_file' => WOOSTIFY_SITES_DIR . 'demos/demo-1/customizer.dat',
 			'import_preview_image_url'     => WOOSTIFY_SITES_URI . 'demos/demo-1/demo-11.jpg',
@@ -255,7 +255,7 @@ function woostify_sites_local_import_files() {
 		array(
 			'id'                           => 15,
 			'import_file_name'             => 'Auto Car',
-			'local_import_file'            => WOOSTIFY_SITES_DIR . 'demos/demo-16/demo-content.xml',
+			'local_import_file'            => WOOSTIFY_SITES_DIR . 'demos/demo-16/data.xml',
 			'local_import_widget_file'     => WOOSTIFY_SITES_DIR . 'demos/demo-16/widgets.wie',
 			'local_import_customizer_file' => WOOSTIFY_SITES_DIR . 'demos/demo-16/customizer.dat',
 			'import_preview_image_url'     => WOOSTIFY_SITES_URI . 'demos/demo-16/demo-16.png',
