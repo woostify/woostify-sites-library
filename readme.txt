@@ -4,7 +4,7 @@ Tags: demo, theme demos, one click import
 Requires at least: 4.4
 Requires PHP: 5.6
 Tested up to: 5.5
-Stable tag: 1.2.8
+Stable tag: 1.2.9
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -39,7 +39,7 @@ It can also be installed manually.
 4. Locate Woostify Sites Library in the list and click *Activate*.
 5. Navigate to _Appearance &rarr; Woostify Sites Library_ to import demo sites.
 
-## Privacy Policy 
+## Privacy Policy
 Woostify Sites Library uses [Appsero](https://appsero.com) SDK to collect some telemetry data upon user's confirmation. This helps us to troubleshoot problems faster & make product improvements.
 
 Appsero SDK **does not gather any data by default.** The SDK only starts gathering basic telemetry data **when a user allows it via the admin notice**. We collect the data to ensure a great user experience for all our users. 
@@ -49,6 +49,9 @@ Integrating Appsero SDK **DOES NOT IMMEDIATELY** start gathering data, **without
 Learn more about how [Appsero collects and uses this data](https://appsero.com/privacy-policy/).
 
 == Changelog ==
+= 1.2.9 =
+* Fix Site Health warning
+
 = 1.2.8 =
 * Fix Elementor template
 
