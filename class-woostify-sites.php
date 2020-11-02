@@ -373,6 +373,7 @@ class Woostify_Sites {
 		require_once WOOSTIFY_SITES_DIR . 'includes/class-woostify-sites-customizer-importer.php';
 		require_once WOOSTIFY_SITES_DIR . 'includes/class-woostify-sites-redux-importer.php';
 		require_once WOOSTIFY_SITES_DIR . 'includes/class-woostify-sites-hooks.php';
+		require_once WOOSTIFY_SITES_DIR . 'includes/class-woostify-sites-elementor.php';
 
 		$this->hooks = new Woostify_Sites_Hooks();
 
