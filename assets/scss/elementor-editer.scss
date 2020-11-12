@@ -1,0 +1,36 @@
+.woostify-sites-modal {
+	display: none;
+}
+
+.wooostify-template-library-templates-container .woostify-template-wrapper {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    -webkit-box-align: start;
+    -ms-flex-align: start;
+    align-items: flex-start;
+}
+
+.theme-name {
+	font-weight: 600;
+}
+
+.elementor-templates-modal .dialog-widget-content.woostify-widget-content {
+    position: unset;
+}
+
+.wooostify-template-library-templates-container  {
+    max-height: 90vh;
+    overflow-y: scroll;
+}
+
+#woostify-template-library-header-preview-back,
+#woostify-template-library-header-tools {
+    display: none;
+}
+
+.elementor-add-woostify-site-button {
+    background-color: #333333;
+}

@@ -13,6 +13,7 @@
 	line-height: 1.7em;
 	margin: 0 auto;
 	padding: 0 !important;
+
 	-webkit-align-items: center;
 	align-items: center;
 	-webkit-box-align: center;
@@ -21,11 +22,6 @@
 	-ms-flex-pack: center;
 	-webkit-justify-content: center;
 	justify-content: center;
-}
-
-.merlin__body.merlin__body--contenido {
-	-webkit-align-items: flex-start;
-	align-items: flex-start;
 }
 
 h1 {
@@ -2618,8 +2614,8 @@ body.exiting .merlin__content--content .merlin__content__footer {
 
 .js-merlin-progress-bar-percentage {
 	bottom: 0;
-	color: transparent;
-	display: none;
+	color: #46b450;
+	display: none !important;
 	left: 0;
 	line-height: 38px;
 	position: absolute;
@@ -2633,6 +2629,7 @@ body.exiting .merlin__content--content .merlin__content__footer {
 
 .merlin__button--next[data-callback="install_content"] {
 	background: #f1f1f1;
+	display: none;
 }
 
 .merlin__select-control-wrapper {
@@ -2865,109 +2862,3 @@ body.exiting .merlin__content--content .merlin__content__footer {
 .merlin__demo-button--primary:active {
 	color: #fff;
 }
-
-.js-select {
-	display: none;
-}
-
-.filters-wrap {
-	display: flex;
-	justify-content: space-between;
-	align-items: center;
-}
-
-.filter-links li>a.active {
-	color: #0085ba;
-	font-weight: 500;
-}
-
-.filter-links li>a:hover,
-.filter-links li>a:focus {
-	color: #0085ba;
-}
-
-.filter-links li>a:focus {
-	box-shadow: none;
-}
-
-.merlin__demos {
-	margin-top: 50px;
-	display: flex;
-	justify-content: center;
-}
-
-.merlin__demos.loading {
-	min-height: 400px;
-	
-}
-
-.merlin__demos.loading:before {
-	border: 3px solid #f3f3f3;
-	border-radius: 50%;
-	border-top: 3px solid #3498db;
-	-webkit-animation: spin 0.3s linear infinite; /* Safari */
-	animation: spin 0.3s linear infinite;
-	display: block;
-	width: 20px;
-	height: 20px;
-	content: '';
-}
-
-@-webkit-keyframes spin {
-	0% { -webkit-transform: rotate(0deg); }
-	100% { -webkit-transform: rotate(360deg); }
-}
-
-@keyframes spin {
-	0% { transform: rotate(0deg); }
-	100% { transform: rotate(360deg); }
-}
-
-.icon--content {
-	max-width: 175px;
-}
-
-.icon--welcome {
-	max-width: 165px;
-}
-
-.icon--plugins {
-	max-width: 179px;
-}
-
-.btn-merlin--loadmore {
-	border: 2px solid #0085ba;
-	color: #0085ba;
-	height: 45px;
-	padding: 0 20px;
-	display: flex;
-	align-items: center;
-	max-width: 250px;
-	margin: 0 auto;
-	box-shadow: none;
-	text-transform: uppercase;
-	border-radius: 5px;
-	cursor: pointer;
-	outline: transparent;
-
-}
-
-.btn-merlin--loadmore.loading:after {
-	border: 3px solid #f3f3f3;
-	border-radius: 50%;
-	border-top: 3px solid #3498db;
-	-webkit-animation: spin 0.3s linear infinite; /* Safari */
-	animation: spin 0.3s linear infinite;
-	display: block;
-	width: 15px;
-	height: 15px;
-	content: '';
-	margin-left: 8px;
-}
-
-@media ( min-width: 992px ) {
-	.merlin__demo-title {
-		max-width: 120px
-	}
-}
-
