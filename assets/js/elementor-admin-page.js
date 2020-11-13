@@ -59,9 +59,6 @@
 					type: 'GET',
 					url: admin.url,
 					data: data,
-					beforeSend: function (response) {
-						// $( '#woostify-sites-modal' ).html( response );
-					},
 					success: function (response) {
 						$('body').find('#wooostify-template-library-templates-container').html(response);
 					},
