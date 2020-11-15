@@ -45,6 +45,8 @@ class Woostify_Sites_Elementor {
 		add_action( 'elementor/editor/wp_head', array( $this, 'register_widget_style' ), 10 );
 		add_action( 'wp_ajax_woostify_get_template', array( $this, 'get_template' ) );
 		add_action( 'wp_ajax_nopriv_woostify_get_template', array( $this, 'get_template' ) );
+		add_action( 'wp_ajax_woostify_import_template', array( $this, 'import_template' ) );
+		add_action( 'wp_ajax_nopriv_woostify_import_template', array( $this, 'import_template' ) );
 	}
 
 
@@ -232,8 +234,56 @@ class Woostify_Sites_Elementor {
 		?>
 		<div class="woostify-template-wrapper">
 			<img src="<?php echo esc_url( $demo['import_preview_image_url'] ); ?>" alt="Image Preview">
+			<input type="hidden" id="woostify-demo-data" value="<?php echo esc_attr( $demo['id'] ); ?>" name="demo-data">
 		</div>
 		<?php
+		die();
+
+	}
+
+	public function import_template() {
+		check_ajax_referer( 'woostify_nonce_field' );
+		$id = $_POST['id'];
+		$all_demo = woostify_sites_local_import_files();
+		$demo = $all_demo[$id];
+		if ( ! current_user_can( 'edit_posts' ) ) {
+			wp_send_json_error( __( 'You are not allowed to perform this action', 'woostify-sites-library' ) );
+		}
+
+		if ( ! isset( $demo['preview_url'] ) ) {
+			wp_send_json_error( __( 'Invalid API URL', 'woostify-sites-library' ) );
+		}
+
+		$response = wp_remote_get( $demo['preview_url'] );
+
+		if ( is_wp_error( $response ) ) {
+			wp_send_json_error( wp_remote_retrieve_body( $response ) );
+		}
+
+		$body = wp_remote_retrieve_body( $response );
+		$data = json_decode( $body, true );
+		// if ( ! isset( $data['post-meta']['_elementor_data'] ) ) {
+		// 	wp_send_json_error( __( 'Invalid Post Meta', 'astra-sites' ) );
+		// }
+
+		// $meta    = json_decode( $data['post-meta']['_elementor_data'], true );
+		// $post_id = $_POST['id'];
+
+		// if ( empty( $post_id ) || empty( $meta ) ) {
+		// 	wp_send_json_error( __( 'Invalid Post ID or Elementor Meta', 'astra-sites' ) );
+		// }
+
+		// if ( isset( $data['astra-page-options-data'] ) && isset( $data['astra-page-options-data']['elementor_load_fa4_shim'] ) ) {
+		// 	update_option( 'elementor_load_fa4_shim', $data['astra-page-options-data']['elementor_load_fa4_shim'] );
+		// }
+
+		// $import      = new Astra_Sites_Elementor_Pages();
+		// $import_data = $import->import( $post_id, $meta );
+
+		// wp_send_json_success( $data ); //$import_data
+		wp_send_json_success( $demo );
+		die();
+
 	}
 
 }

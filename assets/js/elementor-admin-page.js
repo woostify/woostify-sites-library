@@ -45,7 +45,6 @@
 			btnBack.css( 'display', 'block' );
 			btnBack.siblings().css( 'display', 'none' );
 			action.css( 'display', 'block' );
-			
 			var id = theme.parents('.woostify-tempalte-item').attr('data-id');
 
 			var data     = {
@@ -65,6 +64,26 @@
 				}
 			);
 		});
+
+		$('body').on( 'click', '#woostify-template-library-header-import', function (e) {
+			var id = $( '#woostify-demo-data' ).val();
+			var data     = {
+				action: 'woostify_import_template',//woostify_modal_template
+				id: id,
+				_ajax_nonce: admin.nonce,
+			};
+
+			$.ajax(
+				{
+					type: 'POST',
+					url: admin.url,
+					data: data,
+					success: function (response) {
+						console.log( response );
+					},
+				}
+			);
+		} );
 
 		$('body').on( 'click', '.woostify-close-button', function (e) {
 			$( '#woostify-sites-modal' ).css('display', 'none');
