@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/5.5.1" created="2020-10-23 08:17" -->
+	<!-- generator="WordPress/5.5.3" created="2020-11-19 04:18" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -27,13 +27,13 @@
 
 <channel>
 	<title>Pezshop</title>
-	<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/pezshop</link>
+	<link>http://demo.woostify.com/pezshop</link>
 	<description>Just another Woostify Pro Demo Sites site</description>
-	<pubDate>Fri, 23 Oct 2020 08:17:03 +0000</pubDate>
+	<pubDate>Thu, 19 Nov 2020 04:18:57 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
-	<wp:base_site_url>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/</wp:base_site_url>
-	<wp:base_blog_url>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/pezshop</wp:base_blog_url>
+	<wp:base_site_url>http://demo.woostify.com/</wp:base_site_url>
+	<wp:base_blog_url>http://demo.woostify.com/pezshop</wp:base_blog_url>
 
 		<wp:author><wp:author_id>1</wp:author_id><wp:author_login><![CDATA[woostify]]></wp:author_login><wp:author_email><![CDATA[ngothaiduong2311@gmail.com]]></wp:author_email><wp:author_display_name><![CDATA[woostify]]></wp:author_display_name><wp:author_first_name><![CDATA[]]></wp:author_first_name><wp:author_last_name><![CDATA[]]></wp:author_last_name></wp:author>
 
@@ -726,19 +726,19 @@
 	<wp:term><wp:term_id>77</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug><![CDATA[women]]></wp:term_slug><wp:term_name><![CDATA[Women]]></wp:term_name>
 </wp:term>
 
-	<generator>https://wordpress.org/?v=5.5.1</generator>
+	<generator>https://wordpress.org/?v=5.5.3</generator>
 
 <image>
-	<url>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/pezshop/wp-content/uploads/sites/19/2018/12/favicon.png</url>
+	<url>http://demo.woostify.com/pezshop/wp-content/uploads/sites/19/2018/12/favicon.png</url>
 	<title>Pezshop</title>
-	<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/pezshop</link>
+	<link>http://demo.woostify.com/pezshop</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 
 		<item>
 		<title>favicon</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/pezshop/favicon/</link>
+		<link>http://demo.woostify.com/pezshop/favicon/</link>
 		<pubDate>Fri, 28 Dec 2018 04:30:25 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/pezshop/wp-content/uploads/2018/12/favicon.png</guid>
@@ -757,7 +757,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/pezshop/wp-content/uploads/sites/19/2018/12/favicon.png]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[http://demo.woostify.com/pezshop/wp-content/uploads/sites/19/2018/12/favicon.png]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2018/12/favicon.png]]></wp:meta_value>
@@ -781,7 +781,7 @@
 							</item>
 					<item>
 		<title>icon-1</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/pezshop/woostify/icon-1/</link>
+		<link>http://demo.woostify.com/pezshop/woostify/icon-1/</link>
 		<pubDate>Fri, 18 Jan 2019 02:45:27 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/pezshop/wp-content/uploads/2019/01/icon-1.jpg</guid>
@@ -800,7 +800,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/pezshop/wp-content/uploads/sites/19/2019/01/icon-1.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[http://demo.woostify.com/pezshop/wp-content/uploads/sites/19/2019/01/icon-1.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2019/01/icon-1.jpg]]></wp:meta_value>
@@ -812,7 +812,7 @@
 							</item>
 					<item>
 		<title>icon-2</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/pezshop/woostify/icon-2/</link>
+		<link>http://demo.woostify.com/pezshop/woostify/icon-2/</link>
 		<pubDate>Fri, 18 Jan 2019 02:45:30 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/pezshop/wp-content/uploads/2019/01/icon-2.jpg</guid>
@@ -831,7 +831,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/pezshop/wp-content/uploads/sites/19/2019/01/icon-2.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[http://demo.woostify.com/pezshop/wp-content/uploads/sites/19/2019/01/icon-2.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2019/01/icon-2.jpg]]></wp:meta_value>
@@ -843,7 +843,7 @@
 							</item>
 					<item>
 		<title>icon-3</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/pezshop/woostify/icon-3/</link>
+		<link>http://demo.woostify.com/pezshop/woostify/icon-3/</link>
 		<pubDate>Fri, 18 Jan 2019 02:45:38 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/pezshop/wp-content/uploads/2019/01/icon-3.jpg</guid>
@@ -862,7 +862,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/pezshop/wp-content/uploads/sites/19/2019/01/icon-3.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[http://demo.woostify.com/pezshop/wp-content/uploads/sites/19/2019/01/icon-3.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2019/01/icon-3.jpg]]></wp:meta_value>
@@ -874,7 +874,7 @@
 							</item>
 					<item>
 		<title>vogue-about-icon-1</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/pezshop/about/vogue-about-icon-1/</link>
+		<link>http://demo.woostify.com/pezshop/about/vogue-about-icon-1/</link>
 		<pubDate>Tue, 22 Jan 2019 03:13:39 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/pezshop/wp-content/uploads/2019/01/vogue-about-icon-1.png</guid>
@@ -893,7 +893,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/pezshop/wp-content/uploads/sites/19/2019/01/vogue-about-icon-1.png]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[http://demo.woostify.com/pezshop/wp-content/uploads/sites/19/2019/01/vogue-about-icon-1.png]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2019/01/vogue-about-icon-1.png]]></wp:meta_value>
@@ -905,7 +905,7 @@
 							</item>
 					<item>
 		<title>vogue-about-icon-2</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/pezshop/about/vogue-about-icon-2/</link>
+		<link>http://demo.woostify.com/pezshop/about/vogue-about-icon-2/</link>
 		<pubDate>Tue, 22 Jan 2019 03:25:11 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/pezshop/wp-content/uploads/2019/01/vogue-about-icon-2.png</guid>
@@ -924,7 +924,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/pezshop/wp-content/uploads/sites/19/2019/01/vogue-about-icon-2.png]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[http://demo.woostify.com/pezshop/wp-content/uploads/sites/19/2019/01/vogue-about-icon-2.png]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2019/01/vogue-about-icon-2.png]]></wp:meta_value>
@@ -936,7 +936,7 @@
 							</item>
 					<item>
 		<title>vogue-about-icon-3</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/pezshop/about/vogue-about-icon-3/</link>
+		<link>http://demo.woostify.com/pezshop/about/vogue-about-icon-3/</link>
 		<pubDate>Tue, 22 Jan 2019 03:25:15 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/pezshop/wp-content/uploads/2019/01/vogue-about-icon-3.png</guid>
@@ -955,7 +955,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/pezshop/wp-content/uploads/sites/19/2019/01/vogue-about-icon-3.png]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[http://demo.woostify.com/pezshop/wp-content/uploads/sites/19/2019/01/vogue-about-icon-3.png]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2019/01/vogue-about-icon-3.png]]></wp:meta_value>
@@ -967,7 +967,7 @@
 							</item>
 					<item>
 		<title>vogue-about-icon-4</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/pezshop/about/vogue-about-icon-4/</link>
+		<link>http://demo.woostify.com/pezshop/about/vogue-about-icon-4/</link>
 		<pubDate>Tue, 22 Jan 2019 03:25:17 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/pezshop/wp-content/uploads/2019/01/vogue-about-icon-4.png</guid>
@@ -986,7 +986,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/pezshop/wp-content/uploads/sites/19/2019/01/vogue-about-icon-4.png]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[http://demo.woostify.com/pezshop/wp-content/uploads/sites/19/2019/01/vogue-about-icon-4.png]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2019/01/vogue-about-icon-4.png]]></wp:meta_value>
@@ -998,7 +998,7 @@
 							</item>
 					<item>
 		<title>vogue-about-icon-5</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/pezshop/about/vogue-about-icon-5/</link>
+		<link>http://demo.woostify.com/pezshop/about/vogue-about-icon-5/</link>
 		<pubDate>Tue, 22 Jan 2019 03:25:21 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/pezshop/wp-content/uploads/2019/01/vogue-about-icon-5.png</guid>
@@ -1017,7 +1017,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/pezshop/wp-content/uploads/sites/19/2019/01/vogue-about-icon-5.png]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[http://demo.woostify.com/pezshop/wp-content/uploads/sites/19/2019/01/vogue-about-icon-5.png]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2019/01/vogue-about-icon-5.png]]></wp:meta_value>
@@ -1029,7 +1029,7 @@
 							</item>
 					<item>
 		<title>vogue-about-icon-6</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/pezshop/about/vogue-about-icon-6/</link>
+		<link>http://demo.woostify.com/pezshop/about/vogue-about-icon-6/</link>
 		<pubDate>Tue, 22 Jan 2019 03:25:25 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/pezshop/wp-content/uploads/2019/01/vogue-about-icon-6.png</guid>
@@ -1048,7 +1048,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/pezshop/wp-content/uploads/sites/19/2019/01/vogue-about-icon-6.png]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[http://demo.woostify.com/pezshop/wp-content/uploads/sites/19/2019/01/vogue-about-icon-6.png]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2019/01/vogue-about-icon-6.png]]></wp:meta_value>
@@ -1060,7 +1060,7 @@
 							</item>
 					<item>
 		<title>vogue-avatar</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/pezshop/about/vogue-avatar/</link>
+		<link>http://demo.woostify.com/pezshop/about/vogue-avatar/</link>
 		<pubDate>Tue, 22 Jan 2019 03:35:58 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/pezshop/wp-content/uploads/2019/01/vogue-avatar.png</guid>
@@ -1079,7 +1079,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/pezshop/wp-content/uploads/sites/19/2019/01/vogue-avatar.png]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[http://demo.woostify.com/pezshop/wp-content/uploads/sites/19/2019/01/vogue-avatar.png]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2019/01/vogue-avatar.png]]></wp:meta_value>
@@ -1091,7 +1091,7 @@
 							</item>
 					<item>
 		<title>pez-logo</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/pezshop/pez-logo/</link>
+		<link>http://demo.woostify.com/pezshop/pez-logo/</link>
 		<pubDate>Tue, 28 May 2019 01:46:34 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/pezshop/wp-content/uploads/2019/05/pez-logo.png</guid>
@@ -1110,7 +1110,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/pezshop/wp-content/uploads/sites/19/2019/05/pez-logo.png]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[http://demo.woostify.com/pezshop/wp-content/uploads/sites/19/2019/05/pez-logo.png]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2019/05/pez-logo.png]]></wp:meta_value>
@@ -1134,7 +1134,7 @@
 							</item>
 					<item>
 		<title>home-slide-1</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/pezshop/woostify/home-slide-1/</link>
+		<link>http://demo.woostify.com/pezshop/woostify/home-slide-1/</link>
 		<pubDate>Tue, 28 May 2019 01:58:27 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/pezshop/wp-content/uploads/2019/05/home-slide-1.jpg</guid>
@@ -1153,7 +1153,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/pezshop/wp-content/uploads/sites/19/2019/05/home-slide-1.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[http://demo.woostify.com/pezshop/wp-content/uploads/sites/19/2019/05/home-slide-1.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2019/05/home-slide-1.jpg]]></wp:meta_value>
@@ -1165,7 +1165,7 @@
 							</item>
 					<item>
 		<title>home-slide-2</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/pezshop/woostify/home-slide-2/</link>
+		<link>http://demo.woostify.com/pezshop/woostify/home-slide-2/</link>
 		<pubDate>Tue, 28 May 2019 01:58:30 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/pezshop/wp-content/uploads/2019/05/home-slide-2.jpg</guid>
@@ -1184,7 +1184,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/pezshop/wp-content/uploads/sites/19/2019/05/home-slide-2.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[http://demo.woostify.com/pezshop/wp-content/uploads/sites/19/2019/05/home-slide-2.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2019/05/home-slide-2.jpg]]></wp:meta_value>
@@ -1196,7 +1196,7 @@
 							</item>
 					<item>
 		<title>home-slide-3</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/pezshop/woostify/home-slide-3/</link>
+		<link>http://demo.woostify.com/pezshop/woostify/home-slide-3/</link>
 		<pubDate>Tue, 28 May 2019 01:58:33 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/pezshop/wp-content/uploads/2019/05/home-slide-3.jpg</guid>
@@ -1215,7 +1215,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/pezshop/wp-content/uploads/sites/19/2019/05/home-slide-3.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[http://demo.woostify.com/pezshop/wp-content/uploads/sites/19/2019/05/home-slide-3.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2019/05/home-slide-3.jpg]]></wp:meta_value>
@@ -1227,7 +1227,7 @@
 							</item>
 					<item>
 		<title>home-cat-accessories</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/pezshop/home-cat-accessories/</link>
+		<link>http://demo.woostify.com/pezshop/home-cat-accessories/</link>
 		<pubDate>Tue, 28 May 2019 03:19:21 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/pezshop/wp-content/uploads/2019/05/home-cat-accessories.png</guid>
@@ -1246,7 +1246,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/pezshop/wp-content/uploads/sites/19/2019/05/home-cat-accessories.png]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[http://demo.woostify.com/pezshop/wp-content/uploads/sites/19/2019/05/home-cat-accessories.png]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2019/05/home-cat-accessories.png]]></wp:meta_value>
@@ -1270,7 +1270,7 @@
 							</item>
 					<item>
 		<title>home-cat-pet-food</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/pezshop/home-cat-pet-food/</link>
+		<link>http://demo.woostify.com/pezshop/home-cat-pet-food/</link>
 		<pubDate>Tue, 28 May 2019 03:19:24 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/pezshop/wp-content/uploads/2019/05/home-cat-pet-food.png</guid>
@@ -1289,7 +1289,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/pezshop/wp-content/uploads/sites/19/2019/05/home-cat-pet-food.png]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[http://demo.woostify.com/pezshop/wp-content/uploads/sites/19/2019/05/home-cat-pet-food.png]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2019/05/home-cat-pet-food.png]]></wp:meta_value>
@@ -1313,7 +1313,7 @@
 							</item>
 					<item>
 		<title>home-cat-pet-toy</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/pezshop/home-cat-pet-toy/</link>
+		<link>http://demo.woostify.com/pezshop/home-cat-pet-toy/</link>
 		<pubDate>Tue, 28 May 2019 03:19:26 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/pezshop/wp-content/uploads/2019/05/home-cat-pet-toy.png</guid>
@@ -1332,7 +1332,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/pezshop/wp-content/uploads/sites/19/2019/05/home-cat-pet-toy.png]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[http://demo.woostify.com/pezshop/wp-content/uploads/sites/19/2019/05/home-cat-pet-toy.png]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2019/05/home-cat-pet-toy.png]]></wp:meta_value>
@@ -1356,7 +1356,7 @@
 							</item>
 					<item>
 		<title>product-1</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/pezshop/?attachment_id=691</link>
+		<link>http://demo.woostify.com/pezshop/?attachment_id=691</link>
 		<pubDate>Wed, 29 May 2019 07:22:59 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/pezshop/wp-content/uploads/2019/01/product-1.jpg</guid>
@@ -1375,7 +1375,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/pezshop/wp-content/uploads/sites/19/2019/01/product-1.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[http://demo.woostify.com/pezshop/wp-content/uploads/sites/19/2019/01/product-1.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2019/01/product-1.jpg]]></wp:meta_value>
@@ -1387,7 +1387,7 @@
 							</item>
 					<item>
 		<title>product-2</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/pezshop/?attachment_id=692</link>
+		<link>http://demo.woostify.com/pezshop/?attachment_id=692</link>
 		<pubDate>Wed, 29 May 2019 07:23:03 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/pezshop/wp-content/uploads/2019/01/product-2.jpg</guid>
@@ -1406,7 +1406,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/pezshop/wp-content/uploads/sites/19/2019/01/product-2.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[http://demo.woostify.com/pezshop/wp-content/uploads/sites/19/2019/01/product-2.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2019/01/product-2.jpg]]></wp:meta_value>
@@ -1418,7 +1418,7 @@
 							</item>
 					<item>
 		<title>product-3</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/pezshop/?attachment_id=693</link>
+		<link>http://demo.woostify.com/pezshop/?attachment_id=693</link>
 		<pubDate>Wed, 29 May 2019 07:23:06 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/pezshop/wp-content/uploads/2019/01/product-3.jpg</guid>
@@ -1437,7 +1437,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/pezshop/wp-content/uploads/sites/19/2019/01/product-3.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[http://demo.woostify.com/pezshop/wp-content/uploads/sites/19/2019/01/product-3.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2019/01/product-3.jpg]]></wp:meta_value>
@@ -1449,7 +1449,7 @@
 							</item>
 					<item>
 		<title>product-4</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/pezshop/?attachment_id=694</link>
+		<link>http://demo.woostify.com/pezshop/?attachment_id=694</link>
 		<pubDate>Wed, 29 May 2019 07:23:09 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/pezshop/wp-content/uploads/2019/01/product-4.jpg</guid>
@@ -1468,7 +1468,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/pezshop/wp-content/uploads/sites/19/2019/01/product-4.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[http://demo.woostify.com/pezshop/wp-content/uploads/sites/19/2019/01/product-4.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2019/01/product-4.jpg]]></wp:meta_value>
@@ -1480,7 +1480,7 @@
 							</item>
 					<item>
 		<title>product-5</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/pezshop/?attachment_id=695</link>
+		<link>http://demo.woostify.com/pezshop/?attachment_id=695</link>
 		<pubDate>Wed, 29 May 2019 07:23:12 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/pezshop/wp-content/uploads/2019/01/product-5.jpg</guid>
@@ -1499,7 +1499,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/pezshop/wp-content/uploads/sites/19/2019/01/product-5.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[http://demo.woostify.com/pezshop/wp-content/uploads/sites/19/2019/01/product-5.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2019/01/product-5.jpg]]></wp:meta_value>
@@ -1511,7 +1511,7 @@
 							</item>
 					<item>
 		<title>product-6</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/pezshop/?attachment_id=696</link>
+		<link>http://demo.woostify.com/pezshop/?attachment_id=696</link>
 		<pubDate>Wed, 29 May 2019 07:23:15 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/pezshop/wp-content/uploads/2019/01/product-6.jpg</guid>
@@ -1530,7 +1530,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/pezshop/wp-content/uploads/sites/19/2019/01/product-6.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[http://demo.woostify.com/pezshop/wp-content/uploads/sites/19/2019/01/product-6.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2019/01/product-6.jpg]]></wp:meta_value>
@@ -1542,7 +1542,7 @@
 							</item>
 					<item>
 		<title>blog-1</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/pezshop/2019/01/02/september-l-a-wellness-events-you-dont-want-to-miss/blog-1/</link>
+		<link>http://demo.woostify.com/pezshop/2019/01/02/september-l-a-wellness-events-you-dont-want-to-miss/blog-1/</link>
 		<pubDate>Wed, 29 May 2019 08:00:12 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/pezshop/wp-content/uploads/2019/01/blog-1.jpg</guid>
@@ -1561,7 +1561,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/pezshop/wp-content/uploads/sites/19/2019/01/blog-1.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[http://demo.woostify.com/pezshop/wp-content/uploads/sites/19/2019/01/blog-1.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2019/01/blog-1.jpg]]></wp:meta_value>
@@ -1573,7 +1573,7 @@
 							</item>
 					<item>
 		<title>blog-2</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/pezshop/2019/01/02/september-l-a-wellness-events-you-dont-want-to-miss/blog-2/</link>
+		<link>http://demo.woostify.com/pezshop/2019/01/02/september-l-a-wellness-events-you-dont-want-to-miss/blog-2/</link>
 		<pubDate>Wed, 29 May 2019 08:00:18 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/pezshop/wp-content/uploads/2019/01/blog-2.jpg</guid>
@@ -1592,7 +1592,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/pezshop/wp-content/uploads/sites/19/2019/01/blog-2.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[http://demo.woostify.com/pezshop/wp-content/uploads/sites/19/2019/01/blog-2.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2019/01/blog-2.jpg]]></wp:meta_value>
@@ -1604,7 +1604,7 @@
 							</item>
 					<item>
 		<title>page-hero-banner</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/pezshop/page-hero-banner/</link>
+		<link>http://demo.woostify.com/pezshop/page-hero-banner/</link>
 		<pubDate>Wed, 29 May 2019 08:29:33 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/pezshop/wp-content/uploads/2019/05/page-hero-banner.jpg</guid>
@@ -1623,7 +1623,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/pezshop/wp-content/uploads/sites/19/2019/05/page-hero-banner.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[http://demo.woostify.com/pezshop/wp-content/uploads/sites/19/2019/05/page-hero-banner.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2019/05/page-hero-banner.jpg]]></wp:meta_value>
@@ -1647,7 +1647,7 @@
 							</item>
 					<item>
 		<title>home-feature-1</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/pezshop/woostify/home-feature-1/</link>
+		<link>http://demo.woostify.com/pezshop/woostify/home-feature-1/</link>
 		<pubDate>Wed, 29 May 2019 08:42:52 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/pezshop/wp-content/uploads/2019/05/home-feature-1.png</guid>
@@ -1666,7 +1666,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/pezshop/wp-content/uploads/sites/19/2019/05/home-feature-1.png]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[http://demo.woostify.com/pezshop/wp-content/uploads/sites/19/2019/05/home-feature-1.png]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2019/05/home-feature-1.png]]></wp:meta_value>
@@ -1678,7 +1678,7 @@
 							</item>
 					<item>
 		<title>home-feature-2</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/pezshop/woostify/home-feature-2/</link>
+		<link>http://demo.woostify.com/pezshop/woostify/home-feature-2/</link>
 		<pubDate>Wed, 29 May 2019 08:42:54 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/pezshop/wp-content/uploads/2019/05/home-feature-2.png</guid>
@@ -1697,7 +1697,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/pezshop/wp-content/uploads/sites/19/2019/05/home-feature-2.png]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[http://demo.woostify.com/pezshop/wp-content/uploads/sites/19/2019/05/home-feature-2.png]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2019/05/home-feature-2.png]]></wp:meta_value>
@@ -1709,7 +1709,7 @@
 							</item>
 					<item>
 		<title>home-feature-3</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/pezshop/woostify/home-feature-3/</link>
+		<link>http://demo.woostify.com/pezshop/woostify/home-feature-3/</link>
 		<pubDate>Wed, 29 May 2019 08:42:56 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/pezshop/wp-content/uploads/2019/05/home-feature-3.png</guid>
@@ -1728,7 +1728,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/pezshop/wp-content/uploads/sites/19/2019/05/home-feature-3.png]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[http://demo.woostify.com/pezshop/wp-content/uploads/sites/19/2019/05/home-feature-3.png]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2019/05/home-feature-3.png]]></wp:meta_value>
@@ -1740,7 +1740,7 @@
 							</item>
 					<item>
 		<title>about-1</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/pezshop/about/about-1/</link>
+		<link>http://demo.woostify.com/pezshop/about/about-1/</link>
 		<pubDate>Wed, 29 May 2019 10:21:00 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/pezshop/wp-content/uploads/2019/05/about-1.jpg</guid>
@@ -1759,7 +1759,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/pezshop/wp-content/uploads/sites/19/2019/05/about-1.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[http://demo.woostify.com/pezshop/wp-content/uploads/sites/19/2019/05/about-1.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2019/05/about-1.jpg]]></wp:meta_value>
@@ -1771,7 +1771,7 @@
 							</item>
 					<item>
 		<title>about-2</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/pezshop/about/about-2/</link>
+		<link>http://demo.woostify.com/pezshop/about/about-2/</link>
 		<pubDate>Wed, 29 May 2019 10:21:13 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/pezshop/wp-content/uploads/2019/05/about-2.jpg</guid>
@@ -1790,7 +1790,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/pezshop/wp-content/uploads/sites/19/2019/05/about-2.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[http://demo.woostify.com/pezshop/wp-content/uploads/sites/19/2019/05/about-2.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2019/05/about-2.jpg]]></wp:meta_value>
@@ -1802,7 +1802,7 @@
 							</item>
 					<item>
 		<title>about-3</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/pezshop/about/about-3/</link>
+		<link>http://demo.woostify.com/pezshop/about/about-3/</link>
 		<pubDate>Wed, 29 May 2019 10:21:19 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/pezshop/wp-content/uploads/2019/05/about-3.png</guid>
@@ -1821,7 +1821,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/pezshop/wp-content/uploads/sites/19/2019/05/about-3.png]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[http://demo.woostify.com/pezshop/wp-content/uploads/sites/19/2019/05/about-3.png]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2019/05/about-3.png]]></wp:meta_value>
@@ -1833,7 +1833,7 @@
 							</item>
 					<item>
 		<title>about-4</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/pezshop/about/about-4/</link>
+		<link>http://demo.woostify.com/pezshop/about/about-4/</link>
 		<pubDate>Wed, 29 May 2019 10:21:28 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/pezshop/wp-content/uploads/2019/05/about-4.jpg</guid>
@@ -1852,7 +1852,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/pezshop/wp-content/uploads/sites/19/2019/05/about-4.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[http://demo.woostify.com/pezshop/wp-content/uploads/sites/19/2019/05/about-4.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2019/05/about-4.jpg]]></wp:meta_value>
@@ -1864,7 +1864,7 @@
 							</item>
 					<item>
 		<title>about-signature</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/pezshop/about/about-signature/</link>
+		<link>http://demo.woostify.com/pezshop/about/about-signature/</link>
 		<pubDate>Wed, 29 May 2019 10:27:30 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/pezshop/wp-content/uploads/2019/05/about-signature.png</guid>
@@ -1883,7 +1883,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/pezshop/wp-content/uploads/sites/19/2019/05/about-signature.png]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[http://demo.woostify.com/pezshop/wp-content/uploads/sites/19/2019/05/about-signature.png]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2019/05/about-signature.png]]></wp:meta_value>
@@ -1895,7 +1895,7 @@
 							</item>
 					<item>
 		<title>home-feature-white-1</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/pezshop/about/home-feature-white-1/</link>
+		<link>http://demo.woostify.com/pezshop/about/home-feature-white-1/</link>
 		<pubDate>Thu, 30 May 2019 09:49:02 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/pezshop/wp-content/uploads/2019/05/home-feature-white-1.png</guid>
@@ -1914,7 +1914,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/pezshop/wp-content/uploads/sites/19/2019/05/home-feature-white-1.png]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[http://demo.woostify.com/pezshop/wp-content/uploads/sites/19/2019/05/home-feature-white-1.png]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2019/05/home-feature-white-1.png]]></wp:meta_value>
@@ -1926,7 +1926,7 @@
 							</item>
 					<item>
 		<title>home-feature-white-2</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/pezshop/about/home-feature-white-2/</link>
+		<link>http://demo.woostify.com/pezshop/about/home-feature-white-2/</link>
 		<pubDate>Thu, 30 May 2019 09:49:04 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/pezshop/wp-content/uploads/2019/05/home-feature-white-2.png</guid>
@@ -1945,7 +1945,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/pezshop/wp-content/uploads/sites/19/2019/05/home-feature-white-2.png]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[http://demo.woostify.com/pezshop/wp-content/uploads/sites/19/2019/05/home-feature-white-2.png]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2019/05/home-feature-white-2.png]]></wp:meta_value>
@@ -1957,7 +1957,7 @@
 							</item>
 					<item>
 		<title>home-feature-white-3</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/pezshop/about/home-feature-white-3/</link>
+		<link>http://demo.woostify.com/pezshop/about/home-feature-white-3/</link>
 		<pubDate>Thu, 30 May 2019 09:49:06 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/pezshop/wp-content/uploads/2019/05/home-feature-white-3.png</guid>
@@ -1976,7 +1976,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/pezshop/wp-content/uploads/sites/19/2019/05/home-feature-white-3.png]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[http://demo.woostify.com/pezshop/wp-content/uploads/sites/19/2019/05/home-feature-white-3.png]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2019/05/home-feature-white-3.png]]></wp:meta_value>
@@ -1988,7 +1988,7 @@
 							</item>
 					<item>
 		<title>1-1</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/pezshop/?attachment_id=750</link>
+		<link>http://demo.woostify.com/pezshop/?attachment_id=750</link>
 		<pubDate>Mon, 03 Jun 2019 08:49:46 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/pezshop/wp-content/uploads/2019/01/1-1.jpg</guid>
@@ -2007,7 +2007,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/pezshop/wp-content/uploads/sites/19/2019/01/1-1.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[http://demo.woostify.com/pezshop/wp-content/uploads/sites/19/2019/01/1-1.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2019/01/1-1.jpg]]></wp:meta_value>
@@ -2019,7 +2019,7 @@
 							</item>
 					<item>
 		<title>1-2</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/pezshop/?attachment_id=751</link>
+		<link>http://demo.woostify.com/pezshop/?attachment_id=751</link>
 		<pubDate>Mon, 03 Jun 2019 08:49:48 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/pezshop/wp-content/uploads/2019/01/1-2.jpg</guid>
@@ -2038,7 +2038,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/pezshop/wp-content/uploads/sites/19/2019/01/1-2.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[http://demo.woostify.com/pezshop/wp-content/uploads/sites/19/2019/01/1-2.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2019/01/1-2.jpg]]></wp:meta_value>
@@ -2050,7 +2050,7 @@
 							</item>
 					<item>
 		<title>1-3</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/pezshop/?attachment_id=752</link>
+		<link>http://demo.woostify.com/pezshop/?attachment_id=752</link>
 		<pubDate>Mon, 03 Jun 2019 08:49:49 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/pezshop/wp-content/uploads/2019/01/1-3.jpg</guid>
@@ -2069,7 +2069,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/pezshop/wp-content/uploads/sites/19/2019/01/1-3.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[http://demo.woostify.com/pezshop/wp-content/uploads/sites/19/2019/01/1-3.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2019/01/1-3.jpg]]></wp:meta_value>
@@ -2081,7 +2081,7 @@
 							</item>
 					<item>
 		<title>2-1</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/pezshop/?attachment_id=756</link>
+		<link>http://demo.woostify.com/pezshop/?attachment_id=756</link>
 		<pubDate>Mon, 03 Jun 2019 09:04:59 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/pezshop/wp-content/uploads/2019/01/2-1.jpg</guid>
@@ -2100,7 +2100,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/pezshop/wp-content/uploads/sites/19/2019/01/2-1.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[http://demo.woostify.com/pezshop/wp-content/uploads/sites/19/2019/01/2-1.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2019/01/2-1.jpg]]></wp:meta_value>
@@ -2112,7 +2112,7 @@
 							</item>
 					<item>
 		<title>2-2</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/pezshop/?attachment_id=757</link>
+		<link>http://demo.woostify.com/pezshop/?attachment_id=757</link>
 		<pubDate>Mon, 03 Jun 2019 09:05:01 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/pezshop/wp-content/uploads/2019/01/2-2.jpg</guid>
@@ -2131,7 +2131,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/pezshop/wp-content/uploads/sites/19/2019/01/2-2.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[http://demo.woostify.com/pezshop/wp-content/uploads/sites/19/2019/01/2-2.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2019/01/2-2.jpg]]></wp:meta_value>
@@ -2143,7 +2143,7 @@
 							</item>
 					<item>
 		<title>3-1</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/pezshop/?attachment_id=759</link>
+		<link>http://demo.woostify.com/pezshop/?attachment_id=759</link>
 		<pubDate>Mon, 03 Jun 2019 09:32:46 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/pezshop/wp-content/uploads/2019/01/3-1.jpg</guid>
@@ -2162,7 +2162,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/pezshop/wp-content/uploads/sites/19/2019/01/3-1.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[http://demo.woostify.com/pezshop/wp-content/uploads/sites/19/2019/01/3-1.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2019/01/3-1.jpg]]></wp:meta_value>
@@ -2174,7 +2174,7 @@
 							</item>
 					<item>
 		<title>3-2</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/pezshop/?attachment_id=760</link>
+		<link>http://demo.woostify.com/pezshop/?attachment_id=760</link>
 		<pubDate>Mon, 03 Jun 2019 09:32:48 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/pezshop/wp-content/uploads/2019/01/3-2.jpg</guid>
@@ -2193,7 +2193,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/pezshop/wp-content/uploads/sites/19/2019/01/3-2.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[http://demo.woostify.com/pezshop/wp-content/uploads/sites/19/2019/01/3-2.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2019/01/3-2.jpg]]></wp:meta_value>
@@ -2205,7 +2205,7 @@
 							</item>
 					<item>
 		<title>3-3</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/pezshop/?attachment_id=761</link>
+		<link>http://demo.woostify.com/pezshop/?attachment_id=761</link>
 		<pubDate>Mon, 03 Jun 2019 09:32:49 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/pezshop/wp-content/uploads/2019/01/3-3.jpg</guid>
@@ -2224,7 +2224,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/pezshop/wp-content/uploads/sites/19/2019/01/3-3.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[http://demo.woostify.com/pezshop/wp-content/uploads/sites/19/2019/01/3-3.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2019/01/3-3.jpg]]></wp:meta_value>
@@ -2236,7 +2236,7 @@
 							</item>
 					<item>
 		<title>4-1</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/pezshop/?attachment_id=762</link>
+		<link>http://demo.woostify.com/pezshop/?attachment_id=762</link>
 		<pubDate>Mon, 03 Jun 2019 09:38:10 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/pezshop/wp-content/uploads/2019/01/4-1.jpg</guid>
@@ -2255,7 +2255,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/pezshop/wp-content/uploads/sites/19/2019/01/4-1.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[http://demo.woostify.com/pezshop/wp-content/uploads/sites/19/2019/01/4-1.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2019/01/4-1.jpg]]></wp:meta_value>
@@ -2267,7 +2267,7 @@
 							</item>
 					<item>
 		<title>4-2</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/pezshop/?attachment_id=763</link>
+		<link>http://demo.woostify.com/pezshop/?attachment_id=763</link>
 		<pubDate>Mon, 03 Jun 2019 09:38:12 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/pezshop/wp-content/uploads/2019/01/4-2.jpg</guid>
@@ -2286,7 +2286,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/pezshop/wp-content/uploads/sites/19/2019/01/4-2.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[http://demo.woostify.com/pezshop/wp-content/uploads/sites/19/2019/01/4-2.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2019/01/4-2.jpg]]></wp:meta_value>
@@ -2298,7 +2298,7 @@
 							</item>
 					<item>
 		<title>5-1</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/pezshop/?attachment_id=764</link>
+		<link>http://demo.woostify.com/pezshop/?attachment_id=764</link>
 		<pubDate>Mon, 03 Jun 2019 09:41:03 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/pezshop/wp-content/uploads/2019/01/5-1.jpg</guid>
@@ -2317,7 +2317,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/pezshop/wp-content/uploads/sites/19/2019/01/5-1.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[http://demo.woostify.com/pezshop/wp-content/uploads/sites/19/2019/01/5-1.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2019/01/5-1.jpg]]></wp:meta_value>
@@ -2329,7 +2329,7 @@
 							</item>
 					<item>
 		<title>5-2</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/pezshop/?attachment_id=765</link>
+		<link>http://demo.woostify.com/pezshop/?attachment_id=765</link>
 		<pubDate>Mon, 03 Jun 2019 09:41:05 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/pezshop/wp-content/uploads/2019/01/5-2.jpg</guid>
@@ -2348,7 +2348,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/pezshop/wp-content/uploads/sites/19/2019/01/5-2.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[http://demo.woostify.com/pezshop/wp-content/uploads/sites/19/2019/01/5-2.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2019/01/5-2.jpg]]></wp:meta_value>
@@ -2360,7 +2360,7 @@
 							</item>
 					<item>
 		<title>6-1</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/pezshop/?attachment_id=770</link>
+		<link>http://demo.woostify.com/pezshop/?attachment_id=770</link>
 		<pubDate>Mon, 03 Jun 2019 09:51:34 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/pezshop/wp-content/uploads/2019/06/6-1.jpg</guid>
@@ -2379,7 +2379,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/pezshop/wp-content/uploads/sites/19/2019/06/6-1.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[http://demo.woostify.com/pezshop/wp-content/uploads/sites/19/2019/06/6-1.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2019/06/6-1.jpg]]></wp:meta_value>
@@ -2391,7 +2391,7 @@
 							</item>
 					<item>
 		<title>6-2</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/pezshop/?attachment_id=771</link>
+		<link>http://demo.woostify.com/pezshop/?attachment_id=771</link>
 		<pubDate>Mon, 03 Jun 2019 09:51:35 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/pezshop/wp-content/uploads/2019/06/6-2.jpg</guid>
@@ -2410,7 +2410,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/pezshop/wp-content/uploads/sites/19/2019/06/6-2.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[http://demo.woostify.com/pezshop/wp-content/uploads/sites/19/2019/06/6-2.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2019/06/6-2.jpg]]></wp:meta_value>
@@ -2422,7 +2422,7 @@
 							</item>
 					<item>
 		<title>7-1</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/pezshop/?attachment_id=776</link>
+		<link>http://demo.woostify.com/pezshop/?attachment_id=776</link>
 		<pubDate>Mon, 03 Jun 2019 09:56:11 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/pezshop/wp-content/uploads/2019/06/7-1.jpg</guid>
@@ -2441,7 +2441,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/pezshop/wp-content/uploads/sites/19/2019/06/7-1.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[http://demo.woostify.com/pezshop/wp-content/uploads/sites/19/2019/06/7-1.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2019/06/7-1.jpg]]></wp:meta_value>
@@ -2453,7 +2453,7 @@
 							</item>
 					<item>
 		<title>7-2</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/pezshop/?attachment_id=777</link>
+		<link>http://demo.woostify.com/pezshop/?attachment_id=777</link>
 		<pubDate>Mon, 03 Jun 2019 09:56:13 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/pezshop/wp-content/uploads/2019/06/7-2.jpg</guid>
@@ -2472,7 +2472,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/pezshop/wp-content/uploads/sites/19/2019/06/7-2.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[http://demo.woostify.com/pezshop/wp-content/uploads/sites/19/2019/06/7-2.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2019/06/7-2.jpg]]></wp:meta_value>
@@ -2484,7 +2484,7 @@
 							</item>
 					<item>
 		<title>8-1</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/pezshop/?attachment_id=782</link>
+		<link>http://demo.woostify.com/pezshop/?attachment_id=782</link>
 		<pubDate>Mon, 03 Jun 2019 10:02:00 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/pezshop/wp-content/uploads/2019/06/8-1.jpg</guid>
@@ -2503,7 +2503,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/pezshop/wp-content/uploads/sites/19/2019/06/8-1.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[http://demo.woostify.com/pezshop/wp-content/uploads/sites/19/2019/06/8-1.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2019/06/8-1.jpg]]></wp:meta_value>
@@ -2515,7 +2515,7 @@
 							</item>
 					<item>
 		<title>8-2</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/pezshop/?attachment_id=783</link>
+		<link>http://demo.woostify.com/pezshop/?attachment_id=783</link>
 		<pubDate>Mon, 03 Jun 2019 10:02:02 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/pezshop/wp-content/uploads/2019/06/8-2.jpg</guid>
@@ -2534,7 +2534,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/pezshop/wp-content/uploads/sites/19/2019/06/8-2.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[http://demo.woostify.com/pezshop/wp-content/uploads/sites/19/2019/06/8-2.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2019/06/8-2.jpg]]></wp:meta_value>
@@ -2546,7 +2546,7 @@
 							</item>
 					<item>
 		<title>8-3</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/pezshop/?attachment_id=784</link>
+		<link>http://demo.woostify.com/pezshop/?attachment_id=784</link>
 		<pubDate>Mon, 03 Jun 2019 10:02:03 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/pezshop/wp-content/uploads/2019/06/8-3.jpg</guid>
@@ -2565,7 +2565,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/pezshop/wp-content/uploads/sites/19/2019/06/8-3.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[http://demo.woostify.com/pezshop/wp-content/uploads/sites/19/2019/06/8-3.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2019/06/8-3.jpg]]></wp:meta_value>
@@ -2577,7 +2577,7 @@
 							</item>
 					<item>
 		<title>9-1</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/pezshop/?attachment_id=788</link>
+		<link>http://demo.woostify.com/pezshop/?attachment_id=788</link>
 		<pubDate>Mon, 03 Jun 2019 10:14:53 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/pezshop/wp-content/uploads/2019/06/9-1.jpg</guid>
@@ -2596,7 +2596,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/pezshop/wp-content/uploads/sites/19/2019/06/9-1.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[http://demo.woostify.com/pezshop/wp-content/uploads/sites/19/2019/06/9-1.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2019/06/9-1.jpg]]></wp:meta_value>
@@ -2608,7 +2608,7 @@
 							</item>
 					<item>
 		<title>9-2</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/pezshop/?attachment_id=789</link>
+		<link>http://demo.woostify.com/pezshop/?attachment_id=789</link>
 		<pubDate>Mon, 03 Jun 2019 10:14:55 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/pezshop/wp-content/uploads/2019/06/9-2.jpg</guid>
@@ -2627,7 +2627,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/pezshop/wp-content/uploads/sites/19/2019/06/9-2.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[http://demo.woostify.com/pezshop/wp-content/uploads/sites/19/2019/06/9-2.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2019/06/9-2.jpg]]></wp:meta_value>
@@ -2639,7 +2639,7 @@
 							</item>
 					<item>
 		<title>10-1</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/pezshop/?attachment_id=792</link>
+		<link>http://demo.woostify.com/pezshop/?attachment_id=792</link>
 		<pubDate>Mon, 03 Jun 2019 10:32:05 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/pezshop/wp-content/uploads/2019/06/10-1.jpg</guid>
@@ -2658,7 +2658,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/pezshop/wp-content/uploads/sites/19/2019/06/10-1.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[http://demo.woostify.com/pezshop/wp-content/uploads/sites/19/2019/06/10-1.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2019/06/10-1.jpg]]></wp:meta_value>
@@ -2670,7 +2670,7 @@
 							</item>
 					<item>
 		<title>woocommerce-placeholder</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/pezshop/woocommerce-placeholder/</link>
+		<link>http://demo.woostify.com/pezshop/woocommerce-placeholder/</link>
 		<pubDate>Thu, 22 Oct 2020 04:03:13 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/pezshop/wp-content/uploads/sites/19/2020/10/woocommerce-placeholder.png</guid>
@@ -2689,7 +2689,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/pezshop/wp-content/uploads/sites/19/woocommerce-placeholder.png]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[http://demo.woostify.com/pezshop/wp-content/uploads/sites/19/woocommerce-placeholder.png]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[woocommerce-placeholder.png]]></wp:meta_value>
@@ -2701,7 +2701,7 @@
 							</item>
 					<item>
 		<title>Simple Subsbrice Form</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/pezshop/?elementor_library=simple-subsbrice-form</link>
+		<link>http://demo.woostify.com/pezshop/?elementor_library=simple-subsbrice-form</link>
 		<pubDate>Fri, 04 Jan 2019 02:37:26 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/pezshop/?elementor_library=simple-subsbrice-form</guid>
@@ -2758,7 +2758,7 @@
 							</item>
 					<item>
 		<title>woocommerce-placeholder</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/pezshop/woocommerce-placeholder-2/</link>
+		<link>http://demo.woostify.com/pezshop/woocommerce-placeholder-2/</link>
 		<pubDate>Tue, 19 May 2020 07:18:16 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://prodemo.woostify.com/pezshop/wp-content/uploads/sites/8/2020/05/woocommerce-placeholder.png</guid>
@@ -2777,7 +2777,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/pezshop/wp-content/uploads/sites/19/2020/05/woocommerce-placeholder.png]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[http://demo.woostify.com/pezshop/wp-content/uploads/sites/19/2020/05/woocommerce-placeholder.png]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2020/05/woocommerce-placeholder.png]]></wp:meta_value>
@@ -2793,7 +2793,7 @@
 							</item>
 					<item>
 		<title>woocommerce-placeholder</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/pezshop/woocommerce-placeholder-2-2/</link>
+		<link>http://demo.woostify.com/pezshop/woocommerce-placeholder-2-2/</link>
 		<pubDate>Wed, 20 Nov 2019 10:05:37 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/pro/pezshop/wp-content/uploads/sites/10/2019/11/woocommerce-placeholder.png</guid>
@@ -2812,7 +2812,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/pezshop/wp-content/uploads/sites/19/2019/11/woocommerce-placeholder.png]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[http://demo.woostify.com/pezshop/wp-content/uploads/sites/19/2019/11/woocommerce-placeholder.png]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2019/11/woocommerce-placeholder.png]]></wp:meta_value>
@@ -2832,7 +2832,7 @@
 							</item>
 					<item>
 		<title>10-2</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/pezshop/?attachment_id=795</link>
+		<link>http://demo.woostify.com/pezshop/?attachment_id=795</link>
 		<pubDate>Mon, 03 Jun 2019 10:32:07 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/pezshop/wp-content/uploads/2019/06/10-2.jpg</guid>
@@ -2851,7 +2851,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/pezshop/wp-content/uploads/sites/19/2019/06/10-2.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[http://demo.woostify.com/pezshop/wp-content/uploads/sites/19/2019/06/10-2.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2019/06/10-2.jpg]]></wp:meta_value>
@@ -2863,7 +2863,7 @@
 							</item>
 					<item>
 		<title>11-1</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/pezshop/?attachment_id=796</link>
+		<link>http://demo.woostify.com/pezshop/?attachment_id=796</link>
 		<pubDate>Tue, 04 Jun 2019 10:25:15 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/pezshop/wp-content/uploads/2019/06/11-1.jpg</guid>
@@ -2882,7 +2882,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/pezshop/wp-content/uploads/sites/19/2019/06/11-1.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[http://demo.woostify.com/pezshop/wp-content/uploads/sites/19/2019/06/11-1.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2019/06/11-1.jpg]]></wp:meta_value>
@@ -2894,7 +2894,7 @@
 							</item>
 					<item>
 		<title>11-2</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/pezshop/?attachment_id=797</link>
+		<link>http://demo.woostify.com/pezshop/?attachment_id=797</link>
 		<pubDate>Tue, 04 Jun 2019 10:25:17 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/pezshop/wp-content/uploads/2019/06/11-2.jpg</guid>
@@ -2913,7 +2913,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/pezshop/wp-content/uploads/sites/19/2019/06/11-2.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[http://demo.woostify.com/pezshop/wp-content/uploads/sites/19/2019/06/11-2.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2019/06/11-2.jpg]]></wp:meta_value>
@@ -2925,7 +2925,7 @@
 							</item>
 					<item>
 		<title>12-1</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/pezshop/?attachment_id=799</link>
+		<link>http://demo.woostify.com/pezshop/?attachment_id=799</link>
 		<pubDate>Tue, 04 Jun 2019 10:28:15 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/pezshop/wp-content/uploads/2019/06/12-1.jpg</guid>
@@ -2944,7 +2944,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/pezshop/wp-content/uploads/sites/19/2019/06/12-1.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[http://demo.woostify.com/pezshop/wp-content/uploads/sites/19/2019/06/12-1.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2019/06/12-1.jpg]]></wp:meta_value>
@@ -2956,7 +2956,7 @@
 							</item>
 					<item>
 		<title>12-2</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/pezshop/?attachment_id=800</link>
+		<link>http://demo.woostify.com/pezshop/?attachment_id=800</link>
 		<pubDate>Tue, 04 Jun 2019 10:28:17 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/pezshop/wp-content/uploads/2019/06/12-2.jpg</guid>
@@ -2975,7 +2975,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/pezshop/wp-content/uploads/sites/19/2019/06/12-2.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[http://demo.woostify.com/pezshop/wp-content/uploads/sites/19/2019/06/12-2.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2019/06/12-2.jpg]]></wp:meta_value>
@@ -2987,7 +2987,7 @@
 							</item>
 					<item>
 		<title>woocommerce-placeholder</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/pezshop/woocommerce-placeholder-2-2-2/</link>
+		<link>http://demo.woostify.com/pezshop/woocommerce-placeholder-2-2-2/</link>
 		<pubDate>Wed, 05 Jun 2019 02:16:50 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/pezshop/wp-content/uploads/2019/06/woocommerce-placeholder.png</guid>
@@ -3006,7 +3006,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/pezshop/wp-content/uploads/sites/19/2019/06/woocommerce-placeholder.png]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[http://demo.woostify.com/pezshop/wp-content/uploads/sites/19/2019/06/woocommerce-placeholder.png]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2019/06/woocommerce-placeholder.png]]></wp:meta_value>
@@ -3030,7 +3030,7 @@
 							</item>
 					<item>
 		<title>Footer</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/pezshop/?elementor_library=footer</link>
+		<link>http://demo.woostify.com/pezshop/?elementor_library=footer</link>
 		<pubDate>Thu, 06 Jun 2019 02:36:17 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/pezshop/?elementor_library=footer</guid>
@@ -3080,7 +3080,7 @@
 							</item>
 					<item>
 		<title>Footer</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/pezshop/header-footer-builder/footer/</link>
+		<link>http://demo.woostify.com/pezshop/header-footer-builder/footer/</link>
 		<pubDate>Thu, 06 Jun 2019 03:17:19 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/pezshop/?post_type=hf_builder&#038;p=805</guid>
@@ -3199,7 +3199,7 @@
 							</item>
 					<item>
 		<title>Header</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/pezshop/header-footer-builder/header/</link>
+		<link>http://demo.woostify.com/pezshop/header-footer-builder/header/</link>
 		<pubDate>Fri, 14 Jun 2019 10:00:44 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/pezshop/?post_type=hf_builder&#038;p=835</guid>
@@ -3308,7 +3308,7 @@
 							</item>
 					<item>
 		<title>bg-repeat-mobile</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/pezshop/woostify/bg-repeat-mobile/</link>
+		<link>http://demo.woostify.com/pezshop/woostify/bg-repeat-mobile/</link>
 		<pubDate>Mon, 17 Jun 2019 03:12:24 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/pezshop/wp-content/uploads/2019/06/bg-repeat-mobile.jpg</guid>
@@ -3327,7 +3327,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/pezshop/wp-content/uploads/sites/19/2019/06/bg-repeat-mobile.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[http://demo.woostify.com/pezshop/wp-content/uploads/sites/19/2019/06/bg-repeat-mobile.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2019/06/bg-repeat-mobile.jpg]]></wp:meta_value>
@@ -3339,7 +3339,7 @@
 							</item>
 					<item>
 		<title>bg-paw</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/pezshop/woostify/bg-paw/</link>
+		<link>http://demo.woostify.com/pezshop/woostify/bg-paw/</link>
 		<pubDate>Mon, 17 Jun 2019 10:03:03 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/pezshop/wp-content/uploads/2019/06/bg-paw.jpg</guid>
@@ -3358,7 +3358,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/pezshop/wp-content/uploads/sites/19/2019/06/bg-paw.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[http://demo.woostify.com/pezshop/wp-content/uploads/sites/19/2019/06/bg-paw.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2019/06/bg-paw.jpg]]></wp:meta_value>
@@ -3370,7 +3370,7 @@
 							</item>
 					<item>
 		<title>item-dog-and-cat</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/pezshop/woostify/item-dog-and-cat/</link>
+		<link>http://demo.woostify.com/pezshop/woostify/item-dog-and-cat/</link>
 		<pubDate>Mon, 17 Jun 2019 10:09:28 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/pezshop/wp-content/uploads/2019/06/item-dog-and-cat.png</guid>
@@ -3389,7 +3389,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/pezshop/wp-content/uploads/sites/19/2019/06/item-dog-and-cat.png]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[http://demo.woostify.com/pezshop/wp-content/uploads/sites/19/2019/06/item-dog-and-cat.png]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2019/06/item-dog-and-cat.png]]></wp:meta_value>
@@ -3401,7 +3401,7 @@
 							</item>
 					<item>
 		<title>pet-shop-bg</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/pezshop/woostify/pet-shop-bg/</link>
+		<link>http://demo.woostify.com/pezshop/woostify/pet-shop-bg/</link>
 		<pubDate>Sat, 22 Jun 2019 02:18:52 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/pezshop/wp-content/uploads/2019/06/pet-shop-bg.jpg</guid>
@@ -3420,7 +3420,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/pezshop/wp-content/uploads/sites/19/2019/06/pet-shop-bg.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[http://demo.woostify.com/pezshop/wp-content/uploads/sites/19/2019/06/pet-shop-bg.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2019/06/pet-shop-bg.jpg]]></wp:meta_value>
@@ -3432,7 +3432,7 @@
 							</item>
 					<item>
 		<title>about-pet</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/pezshop/about/about-pet/</link>
+		<link>http://demo.woostify.com/pezshop/about/about-pet/</link>
 		<pubDate>Sat, 22 Jun 2019 06:18:32 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/pezshop/wp-content/uploads/2019/06/about-pet.jpg</guid>
@@ -3451,7 +3451,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/pezshop/wp-content/uploads/sites/19/2019/06/about-pet.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[http://demo.woostify.com/pezshop/wp-content/uploads/sites/19/2019/06/about-pet.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2019/06/about-pet.jpg]]></wp:meta_value>
@@ -3463,7 +3463,7 @@
 							</item>
 					<item>
 		<title>Default Kit</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/pezshop/?elementor_library=default-kit</link>
+		<link>http://demo.woostify.com/pezshop/?elementor_library=default-kit</link>
 		<pubDate>Tue, 19 May 2020 07:22:51 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://prodemo.woostify.com/pezshop/?elementor_library=default-kit</guid>
@@ -3501,7 +3501,7 @@
 							</item>
 					<item>
 		<title>Default Kit</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/pezshop/?elementor_library=default-kit-2</link>
+		<link>http://demo.woostify.com/pezshop/?elementor_library=default-kit-2</link>
 		<pubDate>Thu, 22 Oct 2020 04:06:16 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/pezshop/?elementor_library=default-kit-2</guid>
@@ -3535,7 +3535,7 @@
 							</item>
 					<item>
 		<title></title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/pezshop/2018/12/28/128/</link>
+		<link>http://demo.woostify.com/pezshop/2018/12/28/128/</link>
 		<pubDate>Fri, 28 Dec 2018 08:29:54 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/pezshop/?p=128</guid>
@@ -3606,7 +3606,7 @@
 							</item>
 					<item>
 		<title>Home</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/pezshop/2018/12/28/home/</link>
+		<link>http://demo.woostify.com/pezshop/2018/12/28/home/</link>
 		<pubDate>Fri, 28 Dec 2018 08:29:54 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/pezshop/?p=129</guid>
@@ -3677,7 +3677,7 @@
 							</item>
 					<item>
 		<title>Sizing Charts</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/pezshop/2019/01/02/sizing-charts/</link>
+		<link>http://demo.woostify.com/pezshop/2019/01/02/sizing-charts/</link>
 		<pubDate>Wed, 02 Jan 2019 08:04:53 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/pezshop/?p=165</guid>
@@ -3748,7 +3748,7 @@
 							</item>
 					<item>
 		<title>Guides &amp; Expert Advice</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/pezshop/2019/01/02/guides-expert-advice/</link>
+		<link>http://demo.woostify.com/pezshop/2019/01/02/guides-expert-advice/</link>
 		<pubDate>Wed, 02 Jan 2019 08:04:53 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/pezshop/?p=166</guid>
@@ -3819,7 +3819,7 @@
 							</item>
 					<item>
 		<title>Returns</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/pezshop/2019/01/02/returns/</link>
+		<link>http://demo.woostify.com/pezshop/2019/01/02/returns/</link>
 		<pubDate>Wed, 02 Jan 2019 08:04:53 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/pezshop/?p=167</guid>
@@ -3890,7 +3890,7 @@
 							</item>
 					<item>
 		<title>Shipping</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/pezshop/2019/01/02/shipping/</link>
+		<link>http://demo.woostify.com/pezshop/2019/01/02/shipping/</link>
 		<pubDate>Wed, 02 Jan 2019 08:04:53 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/pezshop/?p=168</guid>
@@ -3961,7 +3961,7 @@
 							</item>
 					<item>
 		<title>Contact Us</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/pezshop/2019/01/02/contact-us/</link>
+		<link>http://demo.woostify.com/pezshop/2019/01/02/contact-us/</link>
 		<pubDate>Wed, 02 Jan 2019 08:04:53 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/pezshop/?p=169</guid>
@@ -4032,7 +4032,7 @@
 							</item>
 					<item>
 		<title>What&#039;s New</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/pezshop/2019/01/02/whats-new/</link>
+		<link>http://demo.woostify.com/pezshop/2019/01/02/whats-new/</link>
 		<pubDate>Wed, 02 Jan 2019 08:07:41 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/pezshop/?p=171</guid>
@@ -4103,7 +4103,7 @@
 							</item>
 					<item>
 		<title>Shop By Brand</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/pezshop/2019/01/02/shop-by-brand/</link>
+		<link>http://demo.woostify.com/pezshop/2019/01/02/shop-by-brand/</link>
 		<pubDate>Wed, 02 Jan 2019 08:07:41 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/pezshop/?p=172</guid>
@@ -4174,7 +4174,7 @@
 							</item>
 					<item>
 		<title>Subscribe To Our Emails</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/pezshop/2019/01/02/subscribe-to-our-emails/</link>
+		<link>http://demo.woostify.com/pezshop/2019/01/02/subscribe-to-our-emails/</link>
 		<pubDate>Wed, 02 Jan 2019 08:07:41 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/pezshop/?p=173</guid>
@@ -4245,7 +4245,7 @@
 							</item>
 					<item>
 		<title>Gift Cards</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/pezshop/2019/01/02/gift-cards/</link>
+		<link>http://demo.woostify.com/pezshop/2019/01/02/gift-cards/</link>
 		<pubDate>Wed, 02 Jan 2019 08:07:41 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/pezshop/?p=174</guid>
@@ -4316,7 +4316,7 @@
 							</item>
 					<item>
 		<title>Why Shop At Yoga&#039;n&#039;Life</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/pezshop/2019/01/02/why-shop-at-yoganlife/</link>
+		<link>http://demo.woostify.com/pezshop/2019/01/02/why-shop-at-yoganlife/</link>
 		<pubDate>Wed, 02 Jan 2019 08:07:41 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/pezshop/?p=175</guid>
@@ -4387,7 +4387,7 @@
 							</item>
 					<item>
 		<title>Company Information</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/pezshop/2019/01/02/company-information/</link>
+		<link>http://demo.woostify.com/pezshop/2019/01/02/company-information/</link>
 		<pubDate>Wed, 02 Jan 2019 08:11:05 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/pezshop/?p=176</guid>
@@ -4458,7 +4458,7 @@
 							</item>
 					<item>
 		<title>Career</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/pezshop/2019/01/02/career/</link>
+		<link>http://demo.woostify.com/pezshop/2019/01/02/career/</link>
 		<pubDate>Wed, 02 Jan 2019 08:11:05 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/pezshop/?p=177</guid>
@@ -4529,7 +4529,7 @@
 							</item>
 					<item>
 		<title>Testimonials</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/pezshop/2019/01/02/testimonials/</link>
+		<link>http://demo.woostify.com/pezshop/2019/01/02/testimonials/</link>
 		<pubDate>Wed, 02 Jan 2019 08:11:05 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/pezshop/?p=178</guid>
@@ -4600,7 +4600,7 @@
 							</item>
 					<item>
 		<title>Terms of Use</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/pezshop/2019/01/03/terms-of-use/</link>
+		<link>http://demo.woostify.com/pezshop/2019/01/03/terms-of-use/</link>
 		<pubDate>Thu, 03 Jan 2019 03:22:20 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/pezshop/?p=195</guid>
@@ -4671,7 +4671,7 @@
 							</item>
 					<item>
 		<title>Privacy Policy</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/pezshop/2019/01/03/privacy-policy/</link>
+		<link>http://demo.woostify.com/pezshop/2019/01/03/privacy-policy/</link>
 		<pubDate>Thu, 03 Jan 2019 03:22:20 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/pezshop/?p=196</guid>
@@ -4742,7 +4742,7 @@
 							</item>
 					<item>
 		<title>Accessibility Statement</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/pezshop/2019/01/03/accessibility-statement/</link>
+		<link>http://demo.woostify.com/pezshop/2019/01/03/accessibility-statement/</link>
 		<pubDate>Thu, 03 Jan 2019 03:22:20 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/pezshop/?p=197</guid>
@@ -4813,7 +4813,7 @@
 							</item>
 					<item>
 		<title>Company Information</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/pezshop/2019/01/03/company-information-2/</link>
+		<link>http://demo.woostify.com/pezshop/2019/01/03/company-information-2/</link>
 		<pubDate>Thu, 03 Jan 2019 03:22:20 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/pezshop/?p=198</guid>
@@ -4884,7 +4884,7 @@
 							</item>
 					<item>
 		<title></title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/pezshop/2019/01/03/260/</link>
+		<link>http://demo.woostify.com/pezshop/2019/01/03/260/</link>
 		<pubDate>Thu, 03 Jan 2019 10:28:53 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/pezshop/?p=260</guid>
@@ -4955,7 +4955,7 @@
 							</item>
 					<item>
 		<title></title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/pezshop/2019/01/03/261/</link>
+		<link>http://demo.woostify.com/pezshop/2019/01/03/261/</link>
 		<pubDate>Thu, 03 Jan 2019 10:28:53 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/pezshop/?p=261</guid>
@@ -5026,7 +5026,7 @@
 							</item>
 					<item>
 		<title>Dress</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/pezshop/2019/01/25/dress/</link>
+		<link>http://demo.woostify.com/pezshop/2019/01/25/dress/</link>
 		<pubDate>Fri, 25 Jan 2019 10:05:36 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/pezshop/?p=484</guid>
@@ -5097,7 +5097,7 @@
 							</item>
 					<item>
 		<title>Jumpsuits</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/pezshop/2019/01/25/jumpsuits/</link>
+		<link>http://demo.woostify.com/pezshop/2019/01/25/jumpsuits/</link>
 		<pubDate>Fri, 25 Jan 2019 10:05:37 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/pezshop/?p=485</guid>
@@ -5168,7 +5168,7 @@
 							</item>
 					<item>
 		<title>Shirts</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/pezshop/2019/01/25/shirts/</link>
+		<link>http://demo.woostify.com/pezshop/2019/01/25/shirts/</link>
 		<pubDate>Fri, 25 Jan 2019 10:05:37 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/pezshop/?p=486</guid>
@@ -5239,7 +5239,7 @@
 							</item>
 					<item>
 		<title>Sweatshirts</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/pezshop/2019/01/25/sweatshirts/</link>
+		<link>http://demo.woostify.com/pezshop/2019/01/25/sweatshirts/</link>
 		<pubDate>Fri, 25 Jan 2019 10:05:37 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/pezshop/?p=487</guid>
@@ -5310,7 +5310,7 @@
 							</item>
 					<item>
 		<title>Top</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/pezshop/2019/01/25/top/</link>
+		<link>http://demo.woostify.com/pezshop/2019/01/25/top/</link>
 		<pubDate>Fri, 25 Jan 2019 10:05:37 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/pezshop/?p=488</guid>
@@ -5381,7 +5381,7 @@
 							</item>
 					<item>
 		<title>Jackets</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/pezshop/2019/01/25/jackets/</link>
+		<link>http://demo.woostify.com/pezshop/2019/01/25/jackets/</link>
 		<pubDate>Fri, 25 Jan 2019 10:07:03 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/pezshop/?p=489</guid>
@@ -5452,7 +5452,7 @@
 							</item>
 					<item>
 		<title>Jeans</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/pezshop/2019/01/25/jeans/</link>
+		<link>http://demo.woostify.com/pezshop/2019/01/25/jeans/</link>
 		<pubDate>Fri, 25 Jan 2019 10:07:03 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/pezshop/?p=490</guid>
@@ -5523,7 +5523,7 @@
 							</item>
 					<item>
 		<title>Leather</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/pezshop/2019/01/25/leather/</link>
+		<link>http://demo.woostify.com/pezshop/2019/01/25/leather/</link>
 		<pubDate>Fri, 25 Jan 2019 10:07:03 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/pezshop/?p=491</guid>
@@ -5594,7 +5594,7 @@
 							</item>
 					<item>
 		<title>Sleeves</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/pezshop/2019/01/25/sleeves/</link>
+		<link>http://demo.woostify.com/pezshop/2019/01/25/sleeves/</link>
 		<pubDate>Fri, 25 Jan 2019 10:07:03 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/pezshop/?p=492</guid>
@@ -5665,7 +5665,7 @@
 							</item>
 					<item>
 		<title>Shorts</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/pezshop/2019/01/25/shorts/</link>
+		<link>http://demo.woostify.com/pezshop/2019/01/25/shorts/</link>
 		<pubDate>Fri, 25 Jan 2019 10:07:03 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/pezshop/?p=493</guid>
@@ -5736,7 +5736,7 @@
 							</item>
 					<item>
 		<title>Trousers</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/pezshop/2019/01/25/troursers/</link>
+		<link>http://demo.woostify.com/pezshop/2019/01/25/troursers/</link>
 		<pubDate>Fri, 25 Jan 2019 10:07:36 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/pezshop/?p=494</guid>
@@ -5807,7 +5807,7 @@
 							</item>
 					<item>
 		<title>Swimwear</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/pezshop/2019/01/25/swimwear/</link>
+		<link>http://demo.woostify.com/pezshop/2019/01/25/swimwear/</link>
 		<pubDate>Fri, 25 Jan 2019 10:08:17 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/pezshop/?p=495</guid>
@@ -5878,7 +5878,7 @@
 							</item>
 					<item>
 		<title>Blouses</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/pezshop/2019/01/25/blouses/</link>
+		<link>http://demo.woostify.com/pezshop/2019/01/25/blouses/</link>
 		<pubDate>Fri, 25 Jan 2019 10:08:17 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/pezshop/?p=496</guid>
@@ -5949,7 +5949,7 @@
 							</item>
 					<item>
 		<title>Skirts</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/pezshop/2019/01/25/skirts/</link>
+		<link>http://demo.woostify.com/pezshop/2019/01/25/skirts/</link>
 		<pubDate>Fri, 25 Jan 2019 10:08:17 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/pezshop/?p=497</guid>
@@ -6020,7 +6020,7 @@
 							</item>
 					<item>
 		<title>Shoes</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/pezshop/2019/01/25/shoes/</link>
+		<link>http://demo.woostify.com/pezshop/2019/01/25/shoes/</link>
 		<pubDate>Fri, 25 Jan 2019 10:09:16 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/pezshop/?p=498</guid>
@@ -6091,7 +6091,7 @@
 							</item>
 					<item>
 		<title>Bags &amp; Backpacks</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/pezshop/2019/01/25/bags-backpacks/</link>
+		<link>http://demo.woostify.com/pezshop/2019/01/25/bags-backpacks/</link>
 		<pubDate>Fri, 25 Jan 2019 10:09:16 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/pezshop/?p=499</guid>
@@ -6162,7 +6162,7 @@
 							</item>
 					<item>
 		<title>Watches</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/pezshop/2019/01/25/watches/</link>
+		<link>http://demo.woostify.com/pezshop/2019/01/25/watches/</link>
 		<pubDate>Fri, 25 Jan 2019 10:09:16 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/pezshop/?p=500</guid>
@@ -6233,7 +6233,7 @@
 							</item>
 					<item>
 		<title>Hats</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/pezshop/2019/01/25/hats/</link>
+		<link>http://demo.woostify.com/pezshop/2019/01/25/hats/</link>
 		<pubDate>Fri, 25 Jan 2019 10:09:16 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/pezshop/?p=501</guid>
@@ -6304,7 +6304,7 @@
 							</item>
 					<item>
 		<title>Scarves</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/pezshop/2019/01/25/scarves/</link>
+		<link>http://demo.woostify.com/pezshop/2019/01/25/scarves/</link>
 		<pubDate>Fri, 25 Jan 2019 10:09:16 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/pezshop/?p=502</guid>
@@ -6375,7 +6375,7 @@
 							</item>
 					<item>
 		<title>Hello world!</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/pezshop/?p=1</link>
+		<link>http://demo.woostify.com/pezshop/?p=1</link>
 		<pubDate>Thu, 22 Oct 2020 04:03:04 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/pezshop/?p=1</guid>
@@ -6414,7 +6414,7 @@ Commenter avatars come from <a href="https://gravatar.com">Gravatar</a>.]]></wp:
 					</item>
 					<item>
 		<title>Shop</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/pezshop/shop/</link>
+		<link>http://demo.woostify.com/pezshop/shop/</link>
 		<pubDate>Thu, 22 Oct 2020 04:03:14 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/pezshop/shop/</guid>
@@ -6436,7 +6436,7 @@ Commenter avatars come from <a href="https://gravatar.com">Gravatar</a>.]]></wp:
 														</item>
 					<item>
 		<title>Cart</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/pezshop/cart/</link>
+		<link>http://demo.woostify.com/pezshop/cart/</link>
 		<pubDate>Thu, 22 Oct 2020 04:03:14 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/pezshop/cart/</guid>
@@ -6458,7 +6458,7 @@ Commenter avatars come from <a href="https://gravatar.com">Gravatar</a>.]]></wp:
 														</item>
 					<item>
 		<title>Checkout</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/pezshop/checkout/</link>
+		<link>http://demo.woostify.com/pezshop/checkout/</link>
 		<pubDate>Thu, 22 Oct 2020 04:03:14 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/pezshop/checkout/</guid>
@@ -6480,7 +6480,7 @@ Commenter avatars come from <a href="https://gravatar.com">Gravatar</a>.]]></wp:
 														</item>
 					<item>
 		<title>My account</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/pezshop/my-account/</link>
+		<link>http://demo.woostify.com/pezshop/my-account/</link>
 		<pubDate>Thu, 22 Oct 2020 04:03:14 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/pezshop/my-account/</guid>
@@ -6502,7 +6502,7 @@ Commenter avatars come from <a href="https://gravatar.com">Gravatar</a>.]]></wp:
 														</item>
 					<item>
 		<title>Woostify</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/pezshop/</link>
+		<link>http://demo.woostify.com/pezshop/</link>
 		<pubDate>Tue, 18 Dec 2018 03:58:40 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/pezshop/?page_id=11</guid>
@@ -6657,7 +6657,7 @@ Commenter avatars come from <a href="https://gravatar.com">Gravatar</a>.]]></wp:
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_elementor_data]]></wp:meta_key>
-		<wp:meta_value><![CDATA[[{"id":"896416e","elType":"section","settings":{"stretch_section":"section-stretched","gap":"no","content_width":{"unit":"px","size":1174},"layout":"full_width","margin":{"unit":"px","top":"0","right":0,"bottom":"70","left":0,"isLinked":false}},"elements":[{"id":"d511549","elType":"column","settings":{"_column_size":100},"elements":[{"id":"6345319","elType":"widget","settings":{"slides":[{"title":"Quality Pet Supplies","description":"Sale up to 50% of all items. Money-back guarantee.","btn1_text":"Check Now","btn1_link":{"url":"https:\/\/woostify.com\/demos\/pro\/pezshop\/shop\/"},"background_color":"","background_background":"classic","_id":"b0c596e","btn2_text":"","btn2_link":{"url":"","is_external":"","nofollow":""},"background_color_stop":{"unit":"%","size":0},"background_color_b":"#f2295b","background_color_b_stop":{"unit":"%","size":100},"background_gradient_type":"linear","background_gradient_angle":{"unit":"deg","size":180},"background_gradient_position":"center center","background_image":{"url":"http:\/\/prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link\/pezshop\/wp-content\/uploads\/sites\/19\/2019\/05\/home-slide-1.jpg","id":660},"background_image_tablet":{"url":"","id":""},"background_image_mobile":{"url":"","id":""},"background_position":"center center","background_position_tablet":"","background_position_mobile":"","background_xpos":{"unit":"px","size":0},"background_xpos_tablet":{"unit":"px","size":0},"background_xpos_mobile":{"unit":"px","size":0},"background_ypos":{"unit":"px","size":0},"background_ypos_tablet":{"unit":"px","size":0},"background_ypos_mobile":{"unit":"px","size":0},"background_attachment":"","background_attachment_tablet":"","background_attachment_mobile":"","background_repeat":"no-repeat","background_repeat_tablet":"","background_repeat_mobile":"","background_size":"cover","background_size_tablet":"","background_size_mobile":"","background_bg_width":{"unit":"%","size":100},"background_bg_width_tablet":{"unit":"px","size":""},"background_bg_width_mobile":{"unit":"px","size":""},"background_video_link":"","background_video_start":"","background_video_end":"","background_video_fallback":{"url":"","id":""},"custom":"yes","custom_content_animation":"default","custom_horizontal_pos":"left","custom_vertical_pos":"center","custom_text_align":"left","custom_horizontal_pos_tablet":"","custom_horizontal_pos_mobile":"","custom_vertical_pos_tablet":"","custom_vertical_pos_mobile":"","custom_text_align_tablet":"","custom_text_align_mobile":"","custom_content_width":{"unit":"px","size":600,"sizes":[]},"custom_content_width_tablet":{"unit":"px","size":400,"sizes":[]},"custom_content_width_mobile":{"unit":"px","size":"","sizes":[]},"background_play_once":"","background_play_on_mobile":"","background_slideshow_gallery":[],"background_slideshow_loop":"yes","background_slideshow_slide_duration":5000,"background_slideshow_slide_transition":"fade","background_slideshow_transition_duration":500,"background_slideshow_ken_burns":"","background_slideshow_ken_burns_zoom_direction":"in","background_slideshow_background_size":"","background_slideshow_background_size_tablet":"","background_slideshow_background_size_mobile":"","background_slideshow_background_position":"","background_slideshow_background_position_tablet":"","background_slideshow_background_position_mobile":""},{"title":"Throw A Party!","description":"","btn1_text":"Shop Now","btn1_link":{"url":"https:\/\/woostify.com\/demos\/pro\/pezshop\/shop\/"},"background_color":"","background_background":"classic","_id":"eab4318","btn2_text":"","btn2_link":{"url":"","is_external":"","nofollow":""},"background_color_stop":{"unit":"%","size":0},"background_color_b":"#f2295b","background_color_b_stop":{"unit":"%","size":100},"background_gradient_type":"linear","background_gradient_angle":{"unit":"deg","size":180},"background_gradient_position":"center center","background_image":{"url":"http:\/\/prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link\/pezshop\/wp-content\/uploads\/sites\/19\/2019\/05\/home-slide-2.jpg","id":661},"background_image_tablet":{"url":"","id":""},"background_image_mobile":{"url":"","id":""},"background_position":"center center","background_position_tablet":"","background_position_mobile":"","background_xpos":{"unit":"px","size":0},"background_xpos_tablet":{"unit":"px","size":0},"background_xpos_mobile":{"unit":"px","size":0},"background_ypos":{"unit":"px","size":0},"background_ypos_tablet":{"unit":"px","size":0},"background_ypos_mobile":{"unit":"px","size":0},"background_attachment":"","background_attachment_tablet":"","background_attachment_mobile":"","background_repeat":"no-repeat","background_repeat_tablet":"","background_repeat_mobile":"","background_size":"cover","background_size_tablet":"","background_size_mobile":"","background_bg_width":{"unit":"%","size":100},"background_bg_width_tablet":{"unit":"px","size":""},"background_bg_width_mobile":{"unit":"px","size":""},"background_video_link":"","background_video_start":"","background_video_end":"","background_video_fallback":{"url":"","id":""},"custom":"yes","custom_content_animation":"default","custom_horizontal_pos":"flex-start","custom_vertical_pos":"center","custom_text_align":"center","custom_horizontal_pos_tablet":"","custom_horizontal_pos_mobile":"","custom_vertical_pos_tablet":"","custom_vertical_pos_mobile":"","custom_text_align_tablet":"","custom_text_align_mobile":"","custom_content_width":{"unit":"px","size":600,"sizes":[]},"custom_content_width_tablet":{"unit":"px","size":"","sizes":[]},"custom_content_width_mobile":{"unit":"px","size":"","sizes":[]},"background_play_once":"","background_play_on_mobile":"","background_slideshow_gallery":[],"background_slideshow_loop":"yes","background_slideshow_slide_duration":5000,"background_slideshow_slide_transition":"fade","background_slideshow_transition_duration":500,"background_slideshow_ken_burns":"","background_slideshow_ken_burns_zoom_direction":"in","background_slideshow_background_size":"","background_slideshow_background_size_tablet":"","background_slideshow_background_size_mobile":"","background_slideshow_background_position":"","background_slideshow_background_position_tablet":"","background_slideshow_background_position_mobile":""}],"navigation":"dots","content_animation":"fadeInUp","slider_height":{"unit":"px","size":660},"slide_width":{"unit":"px","size":600},"slide_padding":{"unit":"px","top":"50","right":"50","bottom":"50","left":"50","isLinked":true},"button_typography_typography":"custom","button_typography_font_weight":"bold","button_border_width":{"unit":"px","size":1},"button_border_radius":{"unit":"px","size":50},"button_padding":{"unit":"px","top":"5","right":"25","bottom":"5","left":"25","isLinked":false},"button_bg_color":"#0659a9","button_border_color":"#0659a9","title_color":"#0659a9","description_space":{"unit":"px","size":40},"slide_width_tablet":{"unit":"%","size":80},"slide_padding_tablet":{"unit":"px","top":"50","right":"70","bottom":"50","left":"70","isLinked":false},"slide_padding_mobile":{"unit":"px","top":"50","right":"30","bottom":"50","left":"30","isLinked":false},"title_space":{"unit":"px","size":20},"title_typography_typography":"custom","title_typography_font_family":"Dancing Script","title_typography_font_size":{"unit":"px","size":80},"title_typography_font_weight":"700","title_typography_line_height":{"unit":"em","size":1.2},"title_typography_letter_spacing":{"unit":"px","size":1},"description_typography_typography":"custom","description_typography_font_family":"PT Sans","description_typography_font_size":{"unit":"px","size":18},"description_typography_line_height":{"unit":"em","size":1.3},"description_typography_letter_spacing":{"unit":"px","size":0.5},"button_typography_font_family":"PT Sans","button_typography_font_size":{"unit":"px","size":14},"slider_height_tablet":{"unit":"px","size":580,"sizes":[]},"slider_height_mobile":{"unit":"px","size":400,"sizes":[]},"horizontal_pos_tablet":"center","vertical_pos_tablet":"center","title_typography_font_size_mobile":{"unit":"px","size":30,"sizes":[]},"container_width":{"unit":"px","size":1170,"sizes":[]},"content_width":{"unit":"px","size":480,"sizes":[]},"horizontal_pos":"flex-start","vertical_pos":"center","text_align":"left"},"elements":[],"widgetType":"woostify-slider"}],"isInner":false}],"isInner":false},{"id":"be3ddf0","elType":"section","settings":{"gap":"no","structure":"20","margin":{"unit":"px","top":"0","right":0,"bottom":"80","left":0,"isLinked":false}},"elements":[{"id":"5698930","elType":"column","settings":{"_column_size":50,"_inline_size":50.085},"elements":[{"id":"4963dca","elType":"section","settings":[],"elements":[{"id":"689a3c0","elType":"column","settings":{"_column_size":100,"_inline_size":null},"elements":[{"id":"6618480","elType":"widget","settings":{"title":"Pet Foods","title_color":"#010101","typography_typography":"custom","typography_font_size":{"unit":"px","size":18,"sizes":[]},"typography_font_weight":"900","_element_width":"auto","_position":"absolute","_offset_x":{"size":0,"unit":"px"},"_offset_y":{"size":574,"unit":"px"},"link":{"url":"https:\/\/woostify.com\/demos\/pro\/pezshop\/shop\/","is_external":"","nofollow":""},"_padding":{"unit":"px","top":"18","right":"30","bottom":"19","left":"30","isLinked":false},"_background_background":"classic","_background_color":"#ffffff","_offset_orientation_v":"end","_offset_y_end":{"unit":"px","size":40,"sizes":[]}},"elements":[],"widgetType":"heading"},{"id":"56a3c43","elType":"widget","settings":{"image":{"url":"https:\/\/woostify.com\/demos\/pezshop\/wp-content\/uploads\/2019\/05\/home-cat-pet-food.png","id":668},"link_to":"custom","link":{"url":"https:\/\/woostify.com\/demos\/pro\/pezshop\/shop\/","is_external":"","nofollow":""},"hover_animation":"wobble-horizontal"},"elements":[],"widgetType":"image"}],"isInner":true}],"isInner":true}],"isInner":false},{"id":"de124ff","elType":"column","settings":{"_column_size":50,"_inline_size":49.915},"elements":[{"id":"20f0ed9","elType":"section","settings":[],"elements":[{"id":"eb5cdd9","elType":"column","settings":{"_column_size":100,"_inline_size":null},"elements":[{"id":"5eedea0","elType":"widget","settings":{"image":{"url":"https:\/\/woostify.com\/demos\/pezshop\/wp-content\/uploads\/2019\/05\/home-cat-pet-toy.png","id":669},"link_to":"custom","link":{"url":"https:\/\/woostify.com\/demos\/pro\/pezshop\/shop\/","is_external":"","nofollow":""},"hover_animation":"wobble-vertical"},"elements":[],"widgetType":"image"},{"id":"608eadc","elType":"widget","settings":{"title":"- Pet Toys","title_color":"#010101","typography_typography":"custom","typography_font_size":{"unit":"px","size":18,"sizes":[]},"typography_font_weight":"900","_element_width":"auto","_position":"absolute","_offset_x":{"size":0,"unit":"px"},"_offset_y":{"size":574,"unit":"px"},"link":{"url":"https:\/\/woostify.com\/demos\/pro\/pezshop\/shop\/","is_external":"","nofollow":""},"_padding":{"unit":"px","top":"18","right":"30","bottom":"19","left":"30","isLinked":false},"_background_background":"classic","_background_color":"#ffffff","_offset_orientation_v":"end","_offset_y_end":{"size":40,"unit":"px"}},"elements":[],"widgetType":"heading"}],"isInner":true}],"isInner":true},{"id":"98bd840","elType":"section","settings":{"gap":"narrow"},"elements":[{"id":"63591c6","elType":"column","settings":{"_column_size":100,"_inline_size":null},"elements":[{"id":"4509a8a","elType":"widget","settings":{"image":{"url":"https:\/\/woostify.com\/demos\/pezshop\/wp-content\/uploads\/2019\/05\/home-cat-accessories.png","id":667},"link_to":"custom","link":{"url":"https:\/\/woostify.com\/demos\/pro\/pezshop\/shop\/","is_external":"","nofollow":""},"hover_animation":"wobble-vertical","_animation":"fadeIn"},"elements":[],"widgetType":"image"},{"id":"1450d76","elType":"widget","settings":{"title":"- Accessories","title_color":"#010101","typography_typography":"custom","typography_font_size":{"unit":"px","size":18,"sizes":[]},"typography_font_weight":"900","_element_width":"auto","_position":"absolute","_offset_x":{"size":0,"unit":"px"},"_offset_y":{"size":574,"unit":"px"},"link":{"url":"https:\/\/woostify.com\/demos\/pro\/pezshop\/shop\/","is_external":"","nofollow":""},"_padding":{"unit":"px","top":"18","right":"30","bottom":"19","left":"30","isLinked":false},"_background_background":"classic","_background_color":"#ffffff","_offset_orientation_v":"end","_offset_y_end":{"size":40,"unit":"px"},"_offset_x_tablet":{"size":0,"unit":"px"},"_offset_y_end_tablet":{"size":40,"unit":"px"}},"elements":[],"widgetType":"heading"}],"isInner":true}],"isInner":true}],"isInner":false}],"isInner":false},{"id":"af0f93b","elType":"section","settings":{"margin":{"unit":"px","top":"80","right":0,"bottom":"0","left":0,"isLinked":false}},"elements":[{"id":"77a4548","elType":"column","settings":{"_column_size":100},"elements":[{"id":"160ce28","elType":"section","settings":[],"elements":[{"id":"42458f2","elType":"column","settings":{"_column_size":100,"_inline_size":null,"align":"center"},"elements":[{"id":"611248f","elType":"widget","settings":{"icon":"fa fa-paw","primary_color":"#ffaf35","size":{"unit":"px","size":35,"sizes":[]},"_element_width":"auto","_element_vertical_align":"center"},"elements":[],"widgetType":"icon"},{"id":"1a2ea38","elType":"widget","settings":{"title":"Best Sellers","header_size":"h3","align":"center","typography_typography":"custom","title_color":"#ffaf35","typography_font_family":"Fredoka One","typography_font_size":{"unit":"px","size":30},"typography_font_weight":"300","_margin":{"unit":"px","top":"0","right":"20","bottom":"0","left":"20","isLinked":false},"_element_width":"auto","_element_vertical_align":"center"},"elements":[],"widgetType":"heading"},{"id":"a1a5eaf","elType":"widget","settings":{"icon":"fa fa-paw","primary_color":"#ffaf35","size":{"unit":"px","size":35,"sizes":[]},"_element_width":"auto","_element_vertical_align":"center"},"elements":[],"widgetType":"icon"}],"isInner":true}],"isInner":true},{"id":"6fa45ed","elType":"widget","settings":[],"elements":[],"widgetType":"spacer"},{"id":"12d04c0","elType":"widget","settings":{"count":8,"_margin":{"unit":"px","top":"0","right":"0","bottom":"020","left":"0","isLinked":false}},"elements":[],"widgetType":"woostify-products"}],"isInner":false}],"isInner":false},{"id":"325c638","elType":"section","settings":{"margin":{"unit":"px","top":"0","right":0,"bottom":"0","left":0,"isLinked":false},"stretch_section":"section-stretched","background_background":"classic","background_size":"cover","background_overlay_background":"classic","padding":{"unit":"px","top":"20","right":"0","bottom":"50","left":"0","isLinked":false},"layout":"full_width","gap":"no","custom_height":{"unit":"px","size":601,"sizes":[]},"background_image":{"url":"http:\/\/prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link\/pezshop\/wp-content\/uploads\/sites\/19\/2019\/06\/pet-shop-bg.jpg","id":904},"background_position":"center center","background_repeat":"no-repeat","background_overlay_opacity":{"unit":"px","size":0,"sizes":[]},"background_image_tablet":{"url":"https:\/\/woostify.com\/demos\/pezshop\/wp-content\/uploads\/2019\/06\/bg-repeat-mobile.jpg","id":849},"background_repeat_tablet":"repeat","shape_divider_top_height":{"unit":"px","size":107,"sizes":[]},"height":"min-height"},"elements":[{"id":"7872638","elType":"column","settings":{"_column_size":100,"background_background":"classic"},"elements":[{"id":"fec7899","elType":"section","settings":{"layout":"full_width","structure":"20","padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false}},"elements":[{"id":"d19818c","elType":"column","settings":{"_column_size":50,"_inline_size":null,"_inline_size_tablet":100},"elements":[],"isInner":true},{"id":"d2210ff","elType":"column","settings":{"_column_size":50,"_inline_size":null,"align":"center","_inline_size_tablet":100},"elements":[{"id":"86adbf0","elType":"widget","settings":{"title":"Hurry Up!","align":"center","title_color":"#ffffff","typography_typography":"custom","typography_font_family":"Poppins","typography_font_size":{"unit":"px","size":30,"sizes":[]},"_element_width":"auto","_element_vertical_align":"flex-end"},"elements":[],"widgetType":"heading"},{"id":"7e83685","elType":"widget","settings":{"title":"Sale 50% Off","align":"center","title_color":"#ffaf35","typography_typography":"custom","typography_font_family":"Dancing Script","_margin":{"unit":"px","top":"0","right":"10","bottom":"0","left":"10","isLinked":false},"_element_width":"auto"},"elements":[],"widgetType":"heading"},{"id":"81de48f","elType":"widget","settings":{"title":"All Items","align":"center","title_color":"#ffffff","typography_typography":"custom","typography_font_family":"Poppins","typography_font_size":{"unit":"px","size":29,"sizes":[]},"_element_width":"auto","_element_vertical_align":"flex-end"},"elements":[],"widgetType":"heading"},{"id":"73330d1","elType":"widget","settings":{"space":{"unit":"px","size":30,"sizes":[]}},"elements":[],"widgetType":"spacer"},{"id":"84474ce","elType":"widget","settings":{"days_text":"days","hours_text":"hours","mins_text":"mins","seconds_text":"seconds","align":"","digits_color":"#0659a9","digits_typography_typography":"custom","digits_typography_font_family":"Baloo Bhai","digits_typography_font_size":{"unit":"px","size":40,"sizes":[]},"label_color":"#0659a9","label_typography_typography":"custom","label_typography_font_family":"Baloo Bhai","label_typography_font_size":{"unit":"px","size":19,"sizes":[]},"item_background":"#ffffff","date":"10\/03\/2019","item_border_radius":{"unit":"px","top":"25","right":"30","bottom":"20","left":"15","isLinked":false},"item_margin":{"unit":"px","top":"10","right":"10","bottom":"10","left":"10","isLinked":true}},"elements":[],"widgetType":"woostify-countdown"},{"id":"f097ea0","elType":"widget","settings":{"space":{"unit":"px","size":30,"sizes":[]}},"elements":[],"widgetType":"spacer"},{"id":"56f0ac4","elType":"widget","settings":{"text":"Shop now","link":{"url":"https:\/\/woostify.com\/demos\/pro\/pezshop\/shop\/","is_external":"","nofollow":""},"align":"center","typography_typography":"custom","typography_font_family":"Baloo Bhai","typography_font_size":{"unit":"px","size":15,"sizes":[]},"typography_text_transform":"uppercase","button_text_color":"#ffffff","background_color":"#ffaf35","hover_color":"#ffaf35","button_background_hover_color":"rgba(0,0,0,0)","border_border":"solid","border_width":{"unit":"px","top":"2","right":"2","bottom":"2","left":"2","isLinked":true},"border_color":"#ffaf35","border_radius":{"unit":"px","top":"30","right":"30","bottom":"30","left":"30","isLinked":true},"text_padding":{"unit":"px","top":"17","right":"40","bottom":"18","left":"40","isLinked":false}},"elements":[],"widgetType":"button"}],"isInner":true}],"isInner":true}],"isInner":false}],"isInner":false},{"id":"946f768","elType":"section","settings":[],"elements":[{"id":"8388592","elType":"column","settings":{"_column_size":100},"elements":[{"id":"1c29801","elType":"widget","settings":{"space":{"unit":"px","size":30,"sizes":[]}},"elements":[],"widgetType":"spacer"}],"isInner":false}],"isInner":false},{"id":"6275463","elType":"section","settings":{"structure":"30","margin":{"unit":"px","top":"0","right":0,"bottom":"85","left":0,"isLinked":false}},"elements":[{"id":"d3f38f5","elType":"column","settings":{"_column_size":33,"_inline_size":null},"elements":[{"id":"4bb2ed5","elType":"widget","settings":{"image":{"url":"https:\/\/woostify.com\/demos\/pezshop\/wp-content\/uploads\/2019\/05\/home-feature-1.png","id":719},"_margin":{"unit":"px","top":"0","right":"0","bottom":"20","left":"0","isLinked":false}},"elements":[],"widgetType":"image"},{"id":"db06ae3","elType":"widget","settings":{"title":"Free Shipping","align":"center","typography_typography":"custom","typography_font_size":{"unit":"px","size":18,"sizes":[]}},"elements":[],"widgetType":"heading"},{"id":"c0b5209","elType":"widget","settings":{"editor":"<p>Free shipping for all orders over $100.00<\/p>","align":"center","typography_typography":"custom"},"elements":[],"widgetType":"text-editor"}],"isInner":false},{"id":"6dce650","elType":"column","settings":{"_column_size":33,"_inline_size":null},"elements":[{"id":"13aaf0c","elType":"widget","settings":{"image":{"url":"https:\/\/woostify.com\/demos\/pezshop\/wp-content\/uploads\/2019\/05\/home-feature-2.png","id":720},"_margin":{"unit":"px","top":"0","right":"0","bottom":"20","left":"0","isLinked":false}},"elements":[],"widgetType":"image"},{"id":"e36f461","elType":"widget","settings":{"title":"Secure Payment","align":"center","typography_typography":"custom","typography_font_size":{"unit":"px","size":18,"sizes":[]}},"elements":[],"widgetType":"heading"},{"id":"7055384","elType":"widget","settings":{"editor":"<p>Accept Paypal, Visa, MasterCard &amp; more<\/p>","align":"center","typography_typography":"custom"},"elements":[],"widgetType":"text-editor"}],"isInner":false},{"id":"bb31aa1","elType":"column","settings":{"_column_size":33,"_inline_size":null},"elements":[{"id":"527b317","elType":"widget","settings":{"image":{"url":"https:\/\/woostify.com\/demos\/pezshop\/wp-content\/uploads\/2019\/05\/home-feature-3.png","id":721},"_margin":{"unit":"px","top":"0","right":"0","bottom":"20","left":"0","isLinked":false}},"elements":[],"widgetType":"image"},{"id":"67d7f7c","elType":"widget","settings":{"title":"Money Back Guarantee","align":"center","typography_typography":"custom","typography_font_size":{"unit":"px","size":18,"sizes":[]}},"elements":[],"widgetType":"heading"},{"id":"eba4a93","elType":"widget","settings":{"editor":"<p>100% no risk shopping with 30 days refund\u00a0<\/p>","align":"center","typography_typography":"custom"},"elements":[],"widgetType":"text-editor"}],"isInner":false}],"isInner":false},{"id":"89eeeb0","elType":"section","settings":{"margin":{"unit":"px","top":"0","right":0,"bottom":"80","left":0,"isLinked":false}},"elements":[{"id":"e4d8367","elType":"column","settings":{"_column_size":100},"elements":[{"id":"14bbd64","elType":"widget","settings":{"title":"From Our Blog","header_size":"h3","align":"center","title_color":"#ffaf35","typography_typography":"custom","typography_font_family":"Fredoka One","typography_font_size":{"unit":"px","size":30},"typography_font_weight":"300","_margin":{"unit":"px","top":"0","right":"0","bottom":"50","left":"0","isLinked":false}},"elements":[],"widgetType":"heading"},{"id":"5d58278","elType":"widget","settings":{"date":"yes","author":"yes","post_meta_typography":"custom","excerpt_color":"#acacac","read_more_text":"Read More","count":3,"_margin":{"unit":"px","top":"0","right":"0","bottom":"20","left":"0","isLinked":false},"columns":"2"},"elements":[],"widgetType":"woostify-post"}],"isInner":false}],"isInner":false}]]]></wp:meta_value>
+		<wp:meta_value><![CDATA[[{"id":"896416e","elType":"section","settings":{"stretch_section":"section-stretched","gap":"no","content_width":{"unit":"px","size":1174},"layout":"full_width","margin":{"unit":"px","top":"0","right":0,"bottom":"70","left":0,"isLinked":false}},"elements":[{"id":"d511549","elType":"column","settings":{"_column_size":100},"elements":[{"id":"6345319","elType":"widget","settings":{"slides":[{"title":"Quality Pet Supplies","description":"Sale up to 50% of all items. Money-back guarantee.","btn1_text":"Check Now","btn1_link":{"url":"https:\/\/woostify.com\/demos\/pro\/pezshop\/shop\/"},"background_color":"","background_background":"classic","_id":"b0c596e","btn2_text":"","btn2_link":{"url":"","is_external":"","nofollow":""},"background_color_stop":{"unit":"%","size":0},"background_color_b":"#f2295b","background_color_b_stop":{"unit":"%","size":100},"background_gradient_type":"linear","background_gradient_angle":{"unit":"deg","size":180},"background_gradient_position":"center center","background_image":{"url":"https:\/\/demo.woostify.com\/pezshop\/wp-content\/uploads\/sites\/19\/2019\/05\/home-slide-1.jpg","id":660},"background_image_tablet":{"url":"","id":""},"background_image_mobile":{"url":"","id":""},"background_position":"center center","background_position_tablet":"","background_position_mobile":"","background_xpos":{"unit":"px","size":0},"background_xpos_tablet":{"unit":"px","size":0},"background_xpos_mobile":{"unit":"px","size":0},"background_ypos":{"unit":"px","size":0},"background_ypos_tablet":{"unit":"px","size":0},"background_ypos_mobile":{"unit":"px","size":0},"background_attachment":"","background_attachment_tablet":"","background_attachment_mobile":"","background_repeat":"no-repeat","background_repeat_tablet":"","background_repeat_mobile":"","background_size":"cover","background_size_tablet":"","background_size_mobile":"","background_bg_width":{"unit":"%","size":100},"background_bg_width_tablet":{"unit":"px","size":""},"background_bg_width_mobile":{"unit":"px","size":""},"background_video_link":"","background_video_start":"","background_video_end":"","background_video_fallback":{"url":"","id":""},"custom":"yes","custom_content_animation":"default","custom_horizontal_pos":"left","custom_vertical_pos":"center","custom_text_align":"left","custom_horizontal_pos_tablet":"","custom_horizontal_pos_mobile":"","custom_vertical_pos_tablet":"","custom_vertical_pos_mobile":"","custom_text_align_tablet":"","custom_text_align_mobile":"","custom_content_width":{"unit":"px","size":600,"sizes":[]},"custom_content_width_tablet":{"unit":"px","size":400,"sizes":[]},"custom_content_width_mobile":{"unit":"px","size":"","sizes":[]},"background_play_once":"","background_play_on_mobile":"","background_slideshow_gallery":[],"background_slideshow_loop":"yes","background_slideshow_slide_duration":5000,"background_slideshow_slide_transition":"fade","background_slideshow_transition_duration":500,"background_slideshow_ken_burns":"","background_slideshow_ken_burns_zoom_direction":"in","background_slideshow_background_size":"","background_slideshow_background_size_tablet":"","background_slideshow_background_size_mobile":"","background_slideshow_background_position":"","background_slideshow_background_position_tablet":"","background_slideshow_background_position_mobile":""},{"title":"Throw A Party!","description":"","btn1_text":"Shop Now","btn1_link":{"url":"https:\/\/woostify.com\/demos\/pro\/pezshop\/shop\/"},"background_color":"","background_background":"classic","_id":"eab4318","btn2_text":"","btn2_link":{"url":"","is_external":"","nofollow":""},"background_color_stop":{"unit":"%","size":0},"background_color_b":"#f2295b","background_color_b_stop":{"unit":"%","size":100},"background_gradient_type":"linear","background_gradient_angle":{"unit":"deg","size":180},"background_gradient_position":"center center","background_image":{"url":"https:\/\/demo.woostify.com\/pezshop\/wp-content\/uploads\/sites\/19\/2019\/05\/home-slide-2.jpg","id":661},"background_image_tablet":{"url":"","id":""},"background_image_mobile":{"url":"","id":""},"background_position":"center center","background_position_tablet":"","background_position_mobile":"","background_xpos":{"unit":"px","size":0},"background_xpos_tablet":{"unit":"px","size":0},"background_xpos_mobile":{"unit":"px","size":0},"background_ypos":{"unit":"px","size":0},"background_ypos_tablet":{"unit":"px","size":0},"background_ypos_mobile":{"unit":"px","size":0},"background_attachment":"","background_attachment_tablet":"","background_attachment_mobile":"","background_repeat":"no-repeat","background_repeat_tablet":"","background_repeat_mobile":"","background_size":"cover","background_size_tablet":"","background_size_mobile":"","background_bg_width":{"unit":"%","size":100},"background_bg_width_tablet":{"unit":"px","size":""},"background_bg_width_mobile":{"unit":"px","size":""},"background_video_link":"","background_video_start":"","background_video_end":"","background_video_fallback":{"url":"","id":""},"custom":"yes","custom_content_animation":"default","custom_horizontal_pos":"flex-start","custom_vertical_pos":"center","custom_text_align":"center","custom_horizontal_pos_tablet":"","custom_horizontal_pos_mobile":"","custom_vertical_pos_tablet":"","custom_vertical_pos_mobile":"","custom_text_align_tablet":"","custom_text_align_mobile":"","custom_content_width":{"unit":"px","size":600,"sizes":[]},"custom_content_width_tablet":{"unit":"px","size":"","sizes":[]},"custom_content_width_mobile":{"unit":"px","size":"","sizes":[]},"background_play_once":"","background_play_on_mobile":"","background_slideshow_gallery":[],"background_slideshow_loop":"yes","background_slideshow_slide_duration":5000,"background_slideshow_slide_transition":"fade","background_slideshow_transition_duration":500,"background_slideshow_ken_burns":"","background_slideshow_ken_burns_zoom_direction":"in","background_slideshow_background_size":"","background_slideshow_background_size_tablet":"","background_slideshow_background_size_mobile":"","background_slideshow_background_position":"","background_slideshow_background_position_tablet":"","background_slideshow_background_position_mobile":""}],"navigation":"dots","content_animation":"fadeInUp","slider_height":{"unit":"px","size":660},"slide_width":{"unit":"px","size":600},"slide_padding":{"unit":"px","top":"50","right":"50","bottom":"50","left":"50","isLinked":true},"button_typography_typography":"custom","button_typography_font_weight":"bold","button_border_width":{"unit":"px","size":1},"button_border_radius":{"unit":"px","size":50},"button_padding":{"unit":"px","top":"5","right":"25","bottom":"5","left":"25","isLinked":false},"button_bg_color":"#0659a9","button_border_color":"#0659a9","title_color":"#0659a9","description_space":{"unit":"px","size":40},"slide_width_tablet":{"unit":"%","size":80},"slide_padding_tablet":{"unit":"px","top":"50","right":"70","bottom":"50","left":"70","isLinked":false},"slide_padding_mobile":{"unit":"px","top":"50","right":"30","bottom":"50","left":"30","isLinked":false},"title_space":{"unit":"px","size":20},"title_typography_typography":"custom","title_typography_font_family":"Dancing Script","title_typography_font_size":{"unit":"px","size":80},"title_typography_font_weight":"700","title_typography_line_height":{"unit":"em","size":1.2},"title_typography_letter_spacing":{"unit":"px","size":1},"description_typography_typography":"custom","description_typography_font_family":"PT Sans","description_typography_font_size":{"unit":"px","size":18},"description_typography_line_height":{"unit":"em","size":1.3},"description_typography_letter_spacing":{"unit":"px","size":0.5},"button_typography_font_family":"PT Sans","button_typography_font_size":{"unit":"px","size":14},"slider_height_tablet":{"unit":"px","size":580,"sizes":[]},"slider_height_mobile":{"unit":"px","size":400,"sizes":[]},"horizontal_pos_tablet":"center","vertical_pos_tablet":"center","title_typography_font_size_mobile":{"unit":"px","size":30,"sizes":[]},"container_width":{"unit":"px","size":1170,"sizes":[]},"content_width":{"unit":"px","size":480,"sizes":[]},"horizontal_pos":"flex-start","vertical_pos":"center","text_align":"left"},"elements":[],"widgetType":"woostify-slider"}],"isInner":false}],"isInner":false},{"id":"be3ddf0","elType":"section","settings":{"gap":"no","structure":"20","margin":{"unit":"px","top":"0","right":0,"bottom":"80","left":0,"isLinked":false}},"elements":[{"id":"5698930","elType":"column","settings":{"_column_size":50,"_inline_size":50.085},"elements":[{"id":"4963dca","elType":"section","settings":[],"elements":[{"id":"689a3c0","elType":"column","settings":{"_column_size":100,"_inline_size":null},"elements":[{"id":"6618480","elType":"widget","settings":{"title":"Pet Foods","title_color":"#010101","typography_typography":"custom","typography_font_size":{"unit":"px","size":18,"sizes":[]},"typography_font_weight":"900","_element_width":"auto","_position":"absolute","_offset_x":{"size":0,"unit":"px"},"_offset_y":{"size":574,"unit":"px"},"link":{"url":"https:\/\/woostify.com\/demos\/pro\/pezshop\/shop\/","is_external":"","nofollow":""},"_padding":{"unit":"px","top":"18","right":"30","bottom":"19","left":"30","isLinked":false},"_background_background":"classic","_background_color":"#ffffff","_offset_orientation_v":"end","_offset_y_end":{"unit":"px","size":40,"sizes":[]}},"elements":[],"widgetType":"heading"},{"id":"56a3c43","elType":"widget","settings":{"image":{"url":"https:\/\/woostify.com\/demos\/pezshop\/wp-content\/uploads\/2019\/05\/home-cat-pet-food.png","id":668},"link_to":"custom","link":{"url":"https:\/\/woostify.com\/demos\/pro\/pezshop\/shop\/","is_external":"","nofollow":""},"hover_animation":"wobble-horizontal"},"elements":[],"widgetType":"image"}],"isInner":true}],"isInner":true}],"isInner":false},{"id":"de124ff","elType":"column","settings":{"_column_size":50,"_inline_size":49.915},"elements":[{"id":"20f0ed9","elType":"section","settings":[],"elements":[{"id":"eb5cdd9","elType":"column","settings":{"_column_size":100,"_inline_size":null},"elements":[{"id":"5eedea0","elType":"widget","settings":{"image":{"url":"https:\/\/woostify.com\/demos\/pezshop\/wp-content\/uploads\/2019\/05\/home-cat-pet-toy.png","id":669},"link_to":"custom","link":{"url":"https:\/\/woostify.com\/demos\/pro\/pezshop\/shop\/","is_external":"","nofollow":""},"hover_animation":"wobble-vertical"},"elements":[],"widgetType":"image"},{"id":"608eadc","elType":"widget","settings":{"title":"- Pet Toys","title_color":"#010101","typography_typography":"custom","typography_font_size":{"unit":"px","size":18,"sizes":[]},"typography_font_weight":"900","_element_width":"auto","_position":"absolute","_offset_x":{"size":0,"unit":"px"},"_offset_y":{"size":574,"unit":"px"},"link":{"url":"https:\/\/woostify.com\/demos\/pro\/pezshop\/shop\/","is_external":"","nofollow":""},"_padding":{"unit":"px","top":"18","right":"30","bottom":"19","left":"30","isLinked":false},"_background_background":"classic","_background_color":"#ffffff","_offset_orientation_v":"end","_offset_y_end":{"size":40,"unit":"px"}},"elements":[],"widgetType":"heading"}],"isInner":true}],"isInner":true},{"id":"98bd840","elType":"section","settings":{"gap":"narrow"},"elements":[{"id":"63591c6","elType":"column","settings":{"_column_size":100,"_inline_size":null},"elements":[{"id":"4509a8a","elType":"widget","settings":{"image":{"url":"https:\/\/woostify.com\/demos\/pezshop\/wp-content\/uploads\/2019\/05\/home-cat-accessories.png","id":667},"link_to":"custom","link":{"url":"https:\/\/woostify.com\/demos\/pro\/pezshop\/shop\/","is_external":"","nofollow":""},"hover_animation":"wobble-vertical","_animation":"fadeIn"},"elements":[],"widgetType":"image"},{"id":"1450d76","elType":"widget","settings":{"title":"- Accessories","title_color":"#010101","typography_typography":"custom","typography_font_size":{"unit":"px","size":18,"sizes":[]},"typography_font_weight":"900","_element_width":"auto","_position":"absolute","_offset_x":{"size":0,"unit":"px"},"_offset_y":{"size":574,"unit":"px"},"link":{"url":"https:\/\/woostify.com\/demos\/pro\/pezshop\/shop\/","is_external":"","nofollow":""},"_padding":{"unit":"px","top":"18","right":"30","bottom":"19","left":"30","isLinked":false},"_background_background":"classic","_background_color":"#ffffff","_offset_orientation_v":"end","_offset_y_end":{"size":40,"unit":"px"},"_offset_x_tablet":{"size":0,"unit":"px"},"_offset_y_end_tablet":{"size":40,"unit":"px"}},"elements":[],"widgetType":"heading"}],"isInner":true}],"isInner":true}],"isInner":false}],"isInner":false},{"id":"af0f93b","elType":"section","settings":{"margin":{"unit":"px","top":"80","right":0,"bottom":"0","left":0,"isLinked":false}},"elements":[{"id":"77a4548","elType":"column","settings":{"_column_size":100},"elements":[{"id":"160ce28","elType":"section","settings":[],"elements":[{"id":"42458f2","elType":"column","settings":{"_column_size":100,"_inline_size":null,"align":"center"},"elements":[{"id":"611248f","elType":"widget","settings":{"icon":"fa fa-paw","primary_color":"#ffaf35","size":{"unit":"px","size":35,"sizes":[]},"_element_width":"auto","_element_vertical_align":"center"},"elements":[],"widgetType":"icon"},{"id":"1a2ea38","elType":"widget","settings":{"title":"Best Sellers","header_size":"h3","align":"center","typography_typography":"custom","title_color":"#ffaf35","typography_font_family":"Fredoka One","typography_font_size":{"unit":"px","size":30},"typography_font_weight":"300","_margin":{"unit":"px","top":"0","right":"20","bottom":"0","left":"20","isLinked":false},"_element_width":"auto","_element_vertical_align":"center"},"elements":[],"widgetType":"heading"},{"id":"a1a5eaf","elType":"widget","settings":{"icon":"fa fa-paw","primary_color":"#ffaf35","size":{"unit":"px","size":35,"sizes":[]},"_element_width":"auto","_element_vertical_align":"center"},"elements":[],"widgetType":"icon"}],"isInner":true}],"isInner":true},{"id":"6fa45ed","elType":"widget","settings":[],"elements":[],"widgetType":"spacer"},{"id":"12d04c0","elType":"widget","settings":{"count":8,"_margin":{"unit":"px","top":"0","right":"0","bottom":"020","left":"0","isLinked":false}},"elements":[],"widgetType":"woostify-products"}],"isInner":false}],"isInner":false},{"id":"325c638","elType":"section","settings":{"margin":{"unit":"px","top":"0","right":0,"bottom":"0","left":0,"isLinked":false},"stretch_section":"section-stretched","background_background":"classic","background_size":"cover","background_overlay_background":"classic","padding":{"unit":"px","top":"20","right":"0","bottom":"50","left":"0","isLinked":false},"layout":"full_width","gap":"no","custom_height":{"unit":"px","size":601,"sizes":[]},"background_image":{"url":"https:\/\/demo.woostify.com\/pezshop\/wp-content\/uploads\/sites\/19\/2019\/06\/pet-shop-bg.jpg","id":904},"background_position":"center center","background_repeat":"no-repeat","background_overlay_opacity":{"unit":"px","size":0,"sizes":[]},"background_image_tablet":{"url":"https:\/\/woostify.com\/demos\/pezshop\/wp-content\/uploads\/2019\/06\/bg-repeat-mobile.jpg","id":849},"background_repeat_tablet":"repeat","shape_divider_top_height":{"unit":"px","size":107,"sizes":[]},"height":"min-height"},"elements":[{"id":"7872638","elType":"column","settings":{"_column_size":100,"background_background":"classic"},"elements":[{"id":"fec7899","elType":"section","settings":{"layout":"full_width","structure":"20","padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false}},"elements":[{"id":"d19818c","elType":"column","settings":{"_column_size":50,"_inline_size":null,"_inline_size_tablet":100},"elements":[],"isInner":true},{"id":"d2210ff","elType":"column","settings":{"_column_size":50,"_inline_size":null,"align":"center","_inline_size_tablet":100},"elements":[{"id":"86adbf0","elType":"widget","settings":{"title":"Hurry Up!","align":"center","title_color":"#ffffff","typography_typography":"custom","typography_font_family":"Poppins","typography_font_size":{"unit":"px","size":30,"sizes":[]},"_element_width":"auto","_element_vertical_align":"flex-end"},"elements":[],"widgetType":"heading"},{"id":"7e83685","elType":"widget","settings":{"title":"Sale 50% Off","align":"center","title_color":"#ffaf35","typography_typography":"custom","typography_font_family":"Dancing Script","_margin":{"unit":"px","top":"0","right":"10","bottom":"0","left":"10","isLinked":false},"_element_width":"auto"},"elements":[],"widgetType":"heading"},{"id":"81de48f","elType":"widget","settings":{"title":"All Items","align":"center","title_color":"#ffffff","typography_typography":"custom","typography_font_family":"Poppins","typography_font_size":{"unit":"px","size":29,"sizes":[]},"_element_width":"auto","_element_vertical_align":"flex-end"},"elements":[],"widgetType":"heading"},{"id":"73330d1","elType":"widget","settings":{"space":{"unit":"px","size":30,"sizes":[]}},"elements":[],"widgetType":"spacer"},{"id":"84474ce","elType":"widget","settings":{"days_text":"days","hours_text":"hours","mins_text":"mins","seconds_text":"seconds","align":"","digits_color":"#0659a9","digits_typography_typography":"custom","digits_typography_font_family":"Baloo Bhai","digits_typography_font_size":{"unit":"px","size":40,"sizes":[]},"label_color":"#0659a9","label_typography_typography":"custom","label_typography_font_family":"Baloo Bhai","label_typography_font_size":{"unit":"px","size":19,"sizes":[]},"item_background":"#ffffff","date":"10\/03\/2019","item_border_radius":{"unit":"px","top":"25","right":"30","bottom":"20","left":"15","isLinked":false},"item_margin":{"unit":"px","top":"10","right":"10","bottom":"10","left":"10","isLinked":true}},"elements":[],"widgetType":"woostify-countdown"},{"id":"f097ea0","elType":"widget","settings":{"space":{"unit":"px","size":30,"sizes":[]}},"elements":[],"widgetType":"spacer"},{"id":"56f0ac4","elType":"widget","settings":{"text":"Shop now","link":{"url":"https:\/\/woostify.com\/demos\/pro\/pezshop\/shop\/","is_external":"","nofollow":""},"align":"center","typography_typography":"custom","typography_font_family":"Baloo Bhai","typography_font_size":{"unit":"px","size":15,"sizes":[]},"typography_text_transform":"uppercase","button_text_color":"#ffffff","background_color":"#ffaf35","hover_color":"#ffaf35","button_background_hover_color":"rgba(0,0,0,0)","border_border":"solid","border_width":{"unit":"px","top":"2","right":"2","bottom":"2","left":"2","isLinked":true},"border_color":"#ffaf35","border_radius":{"unit":"px","top":"30","right":"30","bottom":"30","left":"30","isLinked":true},"text_padding":{"unit":"px","top":"17","right":"40","bottom":"18","left":"40","isLinked":false}},"elements":[],"widgetType":"button"}],"isInner":true}],"isInner":true}],"isInner":false}],"isInner":false},{"id":"946f768","elType":"section","settings":[],"elements":[{"id":"8388592","elType":"column","settings":{"_column_size":100},"elements":[{"id":"1c29801","elType":"widget","settings":{"space":{"unit":"px","size":30,"sizes":[]}},"elements":[],"widgetType":"spacer"}],"isInner":false}],"isInner":false},{"id":"6275463","elType":"section","settings":{"structure":"30","margin":{"unit":"px","top":"0","right":0,"bottom":"85","left":0,"isLinked":false}},"elements":[{"id":"d3f38f5","elType":"column","settings":{"_column_size":33,"_inline_size":null},"elements":[{"id":"4bb2ed5","elType":"widget","settings":{"image":{"url":"https:\/\/woostify.com\/demos\/pezshop\/wp-content\/uploads\/2019\/05\/home-feature-1.png","id":719},"_margin":{"unit":"px","top":"0","right":"0","bottom":"20","left":"0","isLinked":false}},"elements":[],"widgetType":"image"},{"id":"db06ae3","elType":"widget","settings":{"title":"Free Shipping","align":"center","typography_typography":"custom","typography_font_size":{"unit":"px","size":18,"sizes":[]}},"elements":[],"widgetType":"heading"},{"id":"c0b5209","elType":"widget","settings":{"editor":"<p>Free shipping for all orders over $100.00<\/p>","align":"center","typography_typography":"custom"},"elements":[],"widgetType":"text-editor"}],"isInner":false},{"id":"6dce650","elType":"column","settings":{"_column_size":33,"_inline_size":null},"elements":[{"id":"13aaf0c","elType":"widget","settings":{"image":{"url":"https:\/\/woostify.com\/demos\/pezshop\/wp-content\/uploads\/2019\/05\/home-feature-2.png","id":720},"_margin":{"unit":"px","top":"0","right":"0","bottom":"20","left":"0","isLinked":false}},"elements":[],"widgetType":"image"},{"id":"e36f461","elType":"widget","settings":{"title":"Secure Payment","align":"center","typography_typography":"custom","typography_font_size":{"unit":"px","size":18,"sizes":[]}},"elements":[],"widgetType":"heading"},{"id":"7055384","elType":"widget","settings":{"editor":"<p>Accept Paypal, Visa, MasterCard &amp; more<\/p>","align":"center","typography_typography":"custom"},"elements":[],"widgetType":"text-editor"}],"isInner":false},{"id":"bb31aa1","elType":"column","settings":{"_column_size":33,"_inline_size":null},"elements":[{"id":"527b317","elType":"widget","settings":{"image":{"url":"https:\/\/woostify.com\/demos\/pezshop\/wp-content\/uploads\/2019\/05\/home-feature-3.png","id":721},"_margin":{"unit":"px","top":"0","right":"0","bottom":"20","left":"0","isLinked":false}},"elements":[],"widgetType":"image"},{"id":"67d7f7c","elType":"widget","settings":{"title":"Money Back Guarantee","align":"center","typography_typography":"custom","typography_font_size":{"unit":"px","size":18,"sizes":[]}},"elements":[],"widgetType":"heading"},{"id":"eba4a93","elType":"widget","settings":{"editor":"<p>100% no risk shopping with 30 days refund\u00a0<\/p>","align":"center","typography_typography":"custom"},"elements":[],"widgetType":"text-editor"}],"isInner":false}],"isInner":false},{"id":"89eeeb0","elType":"section","settings":{"margin":{"unit":"px","top":"0","right":0,"bottom":"80","left":0,"isLinked":false}},"elements":[{"id":"e4d8367","elType":"column","settings":{"_column_size":100},"elements":[{"id":"14bbd64","elType":"widget","settings":{"title":"From Our Blog","header_size":"h3","align":"center","title_color":"#ffaf35","typography_typography":"custom","typography_font_family":"Fredoka One","typography_font_size":{"unit":"px","size":30},"typography_font_weight":"300","_margin":{"unit":"px","top":"0","right":"0","bottom":"50","left":"0","isLinked":false}},"elements":[],"widgetType":"heading"},{"id":"5d58278","elType":"widget","settings":{"date":"yes","author":"yes","post_meta_typography":"custom","excerpt_color":"#acacac","read_more_text":"Read More","count":3,"_margin":{"unit":"px","top":"0","right":"0","bottom":"20","left":"0","isLinked":false},"columns":"2"},"elements":[],"widgetType":"woostify-post"}],"isInner":false}],"isInner":false}]]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_elementor_version]]></wp:meta_key>
@@ -6678,7 +6678,7 @@ Commenter avatars come from <a href="https://gravatar.com">Gravatar</a>.]]></wp:
 							</item>
 					<item>
 		<title>Blog</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/pezshop/blog/</link>
+		<link>http://demo.woostify.com/pezshop/blog/</link>
 		<pubDate>Tue, 18 Dec 2018 03:59:01 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/pezshop/?page_id=13</guid>
@@ -6732,7 +6732,7 @@ Commenter avatars come from <a href="https://gravatar.com">Gravatar</a>.]]></wp:
 							</item>
 					<item>
 		<title>Pet nutrition and animal wellness</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/pezshop/2019/01/02/september-l-a-wellness-events-you-dont-want-to-miss/</link>
+		<link>http://demo.woostify.com/pezshop/2019/01/02/september-l-a-wellness-events-you-dont-want-to-miss/</link>
 		<pubDate>Wed, 02 Jan 2019 04:47:12 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/pezshop/?p=154</guid>
@@ -6866,7 +6866,7 @@ I’ve arrived on time to every lesson I’ve had to teach this year, bar one.&n
 							</item>
 					<item>
 		<title>Pet health and fitness tracker</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/pezshop/2019/01/02/younlife-at-the-groove-come-and-say-hey/</link>
+		<link>http://demo.woostify.com/pezshop/2019/01/02/younlife-at-the-groove-come-and-say-hey/</link>
 		<pubDate>Wed, 02 Jan 2019 04:47:52 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/pezshop/?p=156</guid>
@@ -7000,7 +7000,7 @@ I’ve arrived on time to every lesson I’ve had to teach this year, bar one.&n
 							</item>
 					<item>
 		<title>About</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/pezshop/about/</link>
+		<link>http://demo.woostify.com/pezshop/about/</link>
 		<pubDate>Thu, 03 Jan 2019 03:25:35 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/pezshop/?page_id=199</guid>
@@ -7094,7 +7094,7 @@ I’ve arrived on time to every lesson I’ve had to teach this year, bar one.&n
 							</item>
 					<item>
 		<title>Contact Us</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/pezshop/contact-us/</link>
+		<link>http://demo.woostify.com/pezshop/contact-us/</link>
 		<pubDate>Thu, 03 Jan 2019 03:25:53 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/pezshop/?page_id=201</guid>
@@ -7184,7 +7184,7 @@ I’ve arrived on time to every lesson I’ve had to teach this year, bar one.&n
 							</item>
 					<item>
 		<title>Self-warming Bed</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/pezshop/product/self-warming-bed/</link>
+		<link>http://demo.woostify.com/pezshop/product/self-warming-bed/</link>
 		<pubDate>Fri, 04 Jan 2019 09:00:48 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/pezshop/?post_type=product&#038;p=323</guid>
@@ -7368,7 +7368,7 @@ I’ve arrived on time to every lesson I’ve had to teach this year, bar one.&n
 							</item>
 					<item>
 		<title>Wishlist</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/pezshop/wishlist/</link>
+		<link>http://demo.woostify.com/pezshop/wishlist/</link>
 		<pubDate>Fri, 18 Jan 2019 03:40:52 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/pezshop/?page_id=375</guid>
@@ -7424,7 +7424,7 @@ I’ve arrived on time to every lesson I’ve had to teach this year, bar one.&n
 							</item>
 					<item>
 		<title>Rosie</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/pezshop/?page_id=477</link>
+		<link>http://demo.woostify.com/pezshop/?page_id=477</link>
 		<pubDate></pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/pezshop/?page_id=477</guid>
@@ -7528,7 +7528,7 @@ View All Posts
 							</item>
 					<item>
 		<title>Hello world!</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/pezshop/?p=914</link>
+		<link>http://demo.woostify.com/pezshop/?p=914</link>
 		<pubDate>Wed, 20 Nov 2019 10:05:19 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/pro/pezshop/?p=1</guid>
@@ -7575,7 +7575,7 @@ Commenter avatars come from <a href=\"https://gravatar.com\" rel=\"nofollow ugc\
 					</item>
 					<item>
 		<title>Hello world!</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/pezshop/?p=924</link>
+		<link>http://demo.woostify.com/pezshop/?p=924</link>
 		<pubDate>Tue, 19 May 2020 07:18:02 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://prodemo.woostify.com/pezshop/?p=1</guid>
@@ -7618,7 +7618,7 @@ Commenter avatars come from <a href=\"https://gravatar.com\" rel=\"nofollow ugc\
 					</item>
 					<item>
 		<title></title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/pezshop/2020/10/22/945/</link>
+		<link>http://demo.woostify.com/pezshop/2020/10/22/945/</link>
 		<pubDate>Thu, 22 Oct 2020 04:33:27 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/pezshop/?p=945</guid>
@@ -7673,7 +7673,7 @@ Commenter avatars come from <a href=\"https://gravatar.com\" rel=\"nofollow ugc\
 							</item>
 					<item>
 		<title></title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/pezshop/2020/10/22/946/</link>
+		<link>http://demo.woostify.com/pezshop/2020/10/22/946/</link>
 		<pubDate>Thu, 22 Oct 2020 04:33:27 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/pezshop/?p=946</guid>
@@ -7728,7 +7728,7 @@ Commenter avatars come from <a href=\"https://gravatar.com\" rel=\"nofollow ugc\
 							</item>
 					<item>
 		<title></title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/pezshop/2020/10/22/947/</link>
+		<link>http://demo.woostify.com/pezshop/2020/10/22/947/</link>
 		<pubDate>Thu, 22 Oct 2020 04:33:27 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/pezshop/?p=947</guid>
@@ -7783,7 +7783,7 @@ Commenter avatars come from <a href=\"https://gravatar.com\" rel=\"nofollow ugc\
 							</item>
 					<item>
 		<title></title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/pezshop/2020/10/22/948/</link>
+		<link>http://demo.woostify.com/pezshop/2020/10/22/948/</link>
 		<pubDate>Thu, 22 Oct 2020 04:33:27 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/pezshop/?p=948</guid>
@@ -7838,7 +7838,7 @@ Commenter avatars come from <a href=\"https://gravatar.com\" rel=\"nofollow ugc\
 							</item>
 					<item>
 		<title>Cat Scratcher</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/pezshop/product/cat-scratcher/</link>
+		<link>http://demo.woostify.com/pezshop/product/cat-scratcher/</link>
 		<pubDate>Fri, 04 Jan 2019 09:04:11 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/pezshop/?post_type=product&#038;p=324</guid>
@@ -8031,7 +8031,7 @@ Commenter avatars come from <a href=\"https://gravatar.com\" rel=\"nofollow ugc\
 							</item>
 					<item>
 		<title>Turtle Ball Body Dog Toy</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/pezshop/product/turtle-ball-body/</link>
+		<link>http://demo.woostify.com/pezshop/product/turtle-ball-body/</link>
 		<pubDate>Fri, 04 Jan 2019 09:09:27 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/pezshop/?post_type=product&#038;p=325</guid>
@@ -8238,7 +8238,7 @@ Commenter avatars come from <a href=\"https://gravatar.com\" rel=\"nofollow ugc\
 							</item>
 					<item>
 		<title>Science Diet Dog Treat</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/pezshop/product/science-diet-dog-treat/</link>
+		<link>http://demo.woostify.com/pezshop/product/science-diet-dog-treat/</link>
 		<pubDate>Fri, 04 Jan 2019 09:11:37 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/pezshop/?post_type=product&#038;p=326</guid>
@@ -8441,7 +8441,7 @@ Commenter avatars come from <a href=\"https://gravatar.com\" rel=\"nofollow ugc\
 							</item>
 					<item>
 		<title>Pork Chomps Rawhide</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/pezshop/product/pork-chomps-rawhide/</link>
+		<link>http://demo.woostify.com/pezshop/product/pork-chomps-rawhide/</link>
 		<pubDate>Fri, 04 Jan 2019 09:13:06 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/pezshop/?post_type=product&#038;p=327</guid>
@@ -8683,7 +8683,7 @@ This tank top is very cute and great to wear when you are working out! I ordered
 					</item>
 					<item>
 		<title>Turtle Ball Body Dog Toy - Size S</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/pezshop/product/turtle-ball-body/?attribute_pa_size=size-s</link>
+		<link>http://demo.woostify.com/pezshop/product/turtle-ball-body/?attribute_pa_size=size-s</link>
 		<pubDate>Wed, 20 Mar 2019 03:37:36 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/pezshop/product/freddie-mercury-t-shirt/</guid>
@@ -8861,7 +8861,7 @@ This tank top is very cute and great to wear when you are working out! I ordered
 							</item>
 					<item>
 		<title>Self-warming Bed - Gray</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/pezshop/product/self-warming-bed/?attribute_pa_color=gray</link>
+		<link>http://demo.woostify.com/pezshop/product/self-warming-bed/?attribute_pa_color=gray</link>
 		<pubDate>Mon, 03 Jun 2019 08:49:53 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/pezshop/?post_type=product_variation&#038;p=753</guid>
@@ -8979,7 +8979,7 @@ This tank top is very cute and great to wear when you are working out! I ordered
 							</item>
 					<item>
 		<title>Self-warming Bed - Black</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/pezshop/product/self-warming-bed/?attribute_pa_color=black</link>
+		<link>http://demo.woostify.com/pezshop/product/self-warming-bed/?attribute_pa_color=black</link>
 		<pubDate>Mon, 03 Jun 2019 08:50:05 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/pezshop/?post_type=product_variation&#038;p=754</guid>
@@ -9097,7 +9097,7 @@ This tank top is very cute and great to wear when you are working out! I ordered
 							</item>
 					<item>
 		<title>Self-warming Bed - Orange</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/pezshop/product/self-warming-bed/?attribute_pa_color=orange</link>
+		<link>http://demo.woostify.com/pezshop/product/self-warming-bed/?attribute_pa_color=orange</link>
 		<pubDate>Mon, 03 Jun 2019 08:50:07 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/pezshop/?post_type=product_variation&#038;p=755</guid>
@@ -9216,7 +9216,7 @@ This tank top is very cute and great to wear when you are working out! I ordered
 							</item>
 					<item>
 		<title>Backpack Crate</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/pezshop/product/backpack-crate/</link>
+		<link>http://demo.woostify.com/pezshop/product/backpack-crate/</link>
 		<pubDate>Mon, 03 Jun 2019 09:50:45 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/pezshop/?post_type=product&#038;p=766</guid>
@@ -9343,7 +9343,7 @@ This tank top is very cute and great to wear when you are working out! I ordered
 							</item>
 					<item>
 		<title>Backpack Crate - Yellow</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/pezshop/product/backpack-crate/?attribute_pa_color=yellow</link>
+		<link>http://demo.woostify.com/pezshop/product/backpack-crate/?attribute_pa_color=yellow</link>
 		<pubDate>Mon, 03 Jun 2019 09:50:45 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/pezshop/?post_type=product_variation&#038;p=767</guid>
@@ -9461,7 +9461,7 @@ This tank top is very cute and great to wear when you are working out! I ordered
 							</item>
 					<item>
 		<title>Backpack Crate - Pink</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/pezshop/product/backpack-crate/?attribute_pa_color=pink</link>
+		<link>http://demo.woostify.com/pezshop/product/backpack-crate/?attribute_pa_color=pink</link>
 		<pubDate>Mon, 03 Jun 2019 09:50:45 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/pezshop/?post_type=product_variation&#038;p=768</guid>
@@ -9579,7 +9579,7 @@ This tank top is very cute and great to wear when you are working out! I ordered
 							</item>
 					<item>
 		<title>Ball Bed</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/pezshop/product/ball-bed/</link>
+		<link>http://demo.woostify.com/pezshop/product/ball-bed/</link>
 		<pubDate>Mon, 03 Jun 2019 09:54:01 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/pezshop/?post_type=product&#038;p=773</guid>
@@ -9706,7 +9706,7 @@ This tank top is very cute and great to wear when you are working out! I ordered
 							</item>
 					<item>
 		<title>Ball Bed - Navy</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/pezshop/product/ball-bed/?attribute_pa_color=navy</link>
+		<link>http://demo.woostify.com/pezshop/product/ball-bed/?attribute_pa_color=navy</link>
 		<pubDate>Mon, 03 Jun 2019 09:54:01 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/pezshop/?post_type=product_variation&#038;p=774</guid>
@@ -9824,7 +9824,7 @@ This tank top is very cute and great to wear when you are working out! I ordered
 							</item>
 					<item>
 		<title>Ball Bed - White</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/pezshop/product/ball-bed/?attribute_pa_color=white</link>
+		<link>http://demo.woostify.com/pezshop/product/ball-bed/?attribute_pa_color=white</link>
 		<pubDate>Mon, 03 Jun 2019 09:54:01 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/pezshop/?post_type=product_variation&#038;p=775</guid>
@@ -9942,7 +9942,7 @@ This tank top is very cute and great to wear when you are working out! I ordered
 							</item>
 					<item>
 		<title>Dog Leash</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/pezshop/product/dog-leash/</link>
+		<link>http://demo.woostify.com/pezshop/product/dog-leash/</link>
 		<pubDate>Mon, 03 Jun 2019 10:01:32 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/pezshop/?post_type=product&#038;p=778</guid>
@@ -10070,7 +10070,7 @@ This tank top is very cute and great to wear when you are working out! I ordered
 							</item>
 					<item>
 		<title>Dog Leash - Red</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/pezshop/product/dog-leash/?attribute_pa_color=red</link>
+		<link>http://demo.woostify.com/pezshop/product/dog-leash/?attribute_pa_color=red</link>
 		<pubDate>Mon, 03 Jun 2019 10:01:33 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/pezshop/?post_type=product_variation&#038;p=779</guid>
@@ -10188,7 +10188,7 @@ This tank top is very cute and great to wear when you are working out! I ordered
 							</item>
 					<item>
 		<title>Flexible Jacket</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/pezshop/product/flexible-jacket/</link>
+		<link>http://demo.woostify.com/pezshop/product/flexible-jacket/</link>
 		<pubDate>Mon, 03 Jun 2019 10:14:13 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/pezshop/?post_type=product&#038;p=785</guid>
@@ -10315,7 +10315,7 @@ This tank top is very cute and great to wear when you are working out! I ordered
 							</item>
 					<item>
 		<title>Undercoat Shedding Tool</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/pezshop/product/undercoat-shedding-tool/</link>
+		<link>http://demo.woostify.com/pezshop/product/undercoat-shedding-tool/</link>
 		<pubDate>Mon, 03 Jun 2019 10:31:34 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/pezshop/?post_type=product&#038;p=791</guid>
@@ -10439,7 +10439,7 @@ This tank top is very cute and great to wear when you are working out! I ordered
 							</item>
 					<item>
 		<title>Digestive Support Food Supplement</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/pezshop/product/digestive-support-food-supplement/</link>
+		<link>http://demo.woostify.com/pezshop/product/digestive-support-food-supplement/</link>
 		<pubDate>Tue, 04 Jun 2019 10:27:31 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/pezshop/?post_type=product&#038;p=798</guid>
@@ -10563,7 +10563,7 @@ This tank top is very cute and great to wear when you are working out! I ordered
 							</item>
 					<item>
 		<title>Feather Teaser Cat Toy</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/pezshop/product/feather-teaser-cat-toy/</link>
+		<link>http://demo.woostify.com/pezshop/product/feather-teaser-cat-toy/</link>
 		<pubDate>Tue, 04 Jun 2019 10:24:40 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/pezshop/?post_type=product&#038;p=795</guid>
@@ -10687,7 +10687,7 @@ This tank top is very cute and great to wear when you are working out! I ordered
 							</item>
 					<item>
 		<title>Contact form 1</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/pezshop/?post_type=wpcf7_contact_form&#038;p=8</link>
+		<link>http://demo.woostify.com/pezshop/?post_type=wpcf7_contact_form&#038;p=8</link>
 		<pubDate>Thu, 22 Oct 2020 04:04:02 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/pezshop/?post_type=wpcf7_contact_form&#038;p=8</guid>
@@ -10804,7 +10804,7 @@ This e-mail was sent from a contact form on [_site_title] ([_site_url])";s:9:"re
 							</item>
 					<item>
 		<title>Contact Form</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/pezshop/?post_type=wpcf7_contact_form&#038;p=238</link>
+		<link>http://demo.woostify.com/pezshop/?post_type=wpcf7_contact_form&#038;p=238</link>
 		<pubDate>Thu, 03 Jan 2019 08:03:04 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/pezshop/?post_type=wpcf7_contact_form&#038;p=238</guid>
@@ -10953,7 +10953,7 @@ This e-mail was sent from a contact form on Woostify (https://woostify.com/demos
 							</item>
 					<item>
 		<title>Subsbrice Form</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/pezshop/?post_type=wpcf7_contact_form&#038;p=262</link>
+		<link>http://demo.woostify.com/pezshop/?post_type=wpcf7_contact_form&#038;p=262</link>
 		<pubDate>Fri, 04 Jan 2019 01:48:09 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/pezshop/?post_type=wpcf7_contact_form&#038;p=262</guid>
@@ -11084,7 +11084,7 @@ This e-mail was sent from a contact form on Woostify (https://woostify.com/demos
 							</item>
 					<item>
 		<title>Order &#8211; May 12, 2019 @ 02:47 AM</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/pezshop/?post_type=shop_order&#038;p=635</link>
+		<link>http://demo.woostify.com/pezshop/?post_type=shop_order&#038;p=635</link>
 		<pubDate>Sun, 12 May 2019 02:47:15 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/pezshop/?post_type=shop_order&#038;p=635</guid>
@@ -11324,7 +11324,7 @@ This e-mail was sent from a contact form on Woostify (https://woostify.com/demos
 					</item>
 					<item>
 		<title>Dog Leash - Green</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/pezshop/product/dog-leash/?attribute_pa_color=green</link>
+		<link>http://demo.woostify.com/pezshop/product/dog-leash/?attribute_pa_color=green</link>
 		<pubDate>Mon, 03 Jun 2019 10:01:33 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/pezshop/?post_type=product_variation&#038;p=780</guid>
@@ -11442,7 +11442,7 @@ This e-mail was sent from a contact form on Woostify (https://woostify.com/demos
 							</item>
 					<item>
 		<title>Dog Leash - Black</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/pezshop/product/dog-leash/?attribute_pa_color=black</link>
+		<link>http://demo.woostify.com/pezshop/product/dog-leash/?attribute_pa_color=black</link>
 		<pubDate>Mon, 03 Jun 2019 10:01:33 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/pezshop/?post_type=product_variation&#038;p=781</guid>
@@ -11561,7 +11561,7 @@ This e-mail was sent from a contact form on Woostify (https://woostify.com/demos
 							</item>
 					<item>
 		<title>Flexible Jacket - Dark Green</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/pezshop/product/flexible-jacket/?attribute_pa_color=dark-green</link>
+		<link>http://demo.woostify.com/pezshop/product/flexible-jacket/?attribute_pa_color=dark-green</link>
 		<pubDate>Mon, 03 Jun 2019 10:14:14 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/pezshop/?post_type=product_variation&#038;p=786</guid>
@@ -11679,7 +11679,7 @@ This e-mail was sent from a contact form on Woostify (https://woostify.com/demos
 							</item>
 					<item>
 		<title>Flexible Jacket - Navy</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/pezshop/product/flexible-jacket/?attribute_pa_color=navy</link>
+		<link>http://demo.woostify.com/pezshop/product/flexible-jacket/?attribute_pa_color=navy</link>
 		<pubDate>Mon, 03 Jun 2019 10:14:14 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/pezshop/?post_type=product_variation&#038;p=787</guid>
@@ -11797,7 +11797,7 @@ This e-mail was sent from a contact form on Woostify (https://woostify.com/demos
 							</item>
 					<item>
 		<title>Contact form 1</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/pezshop/?post_type=wpcf7_contact_form&#038;p=917</link>
+		<link>http://demo.woostify.com/pezshop/?post_type=wpcf7_contact_form&#038;p=917</link>
 		<pubDate>Wed, 20 Nov 2019 10:10:37 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/pro/pezshop/?post_type=wpcf7_contact_form&#038;p=5</guid>

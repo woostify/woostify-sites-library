@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/5.5.1" created="2020-10-23 08:20" -->
+	<!-- generator="WordPress/5.5.3" created="2020-11-19 04:16" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -27,13 +27,13 @@
 
 <channel>
 	<title>Cosmetica</title>
-	<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/cosmetica</link>
+	<link>http://demo.woostify.com/cosmetica</link>
 	<description>Just another Woostify Pro Demo Sites site</description>
-	<pubDate>Fri, 23 Oct 2020 08:20:31 +0000</pubDate>
+	<pubDate>Thu, 19 Nov 2020 04:16:46 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
-	<wp:base_site_url>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/</wp:base_site_url>
-	<wp:base_blog_url>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/cosmetica</wp:base_blog_url>
+	<wp:base_site_url>http://demo.woostify.com/</wp:base_site_url>
+	<wp:base_blog_url>http://demo.woostify.com/cosmetica</wp:base_blog_url>
 
 		<wp:author><wp:author_id>1</wp:author_id><wp:author_login><![CDATA[woostify]]></wp:author_login><wp:author_email><![CDATA[ngothaiduong2311@gmail.com]]></wp:author_email><wp:author_display_name><![CDATA[woostify]]></wp:author_display_name><wp:author_first_name><![CDATA[]]></wp:author_first_name><wp:author_last_name><![CDATA[]]></wp:author_last_name></wp:author>
 
@@ -1165,19 +1165,19 @@
 	<wp:term><wp:term_id>105</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug><![CDATA[shop]]></wp:term_slug><wp:term_name><![CDATA[Shop]]></wp:term_name>
 </wp:term>
 
-	<generator>https://wordpress.org/?v=5.5.1</generator>
+	<generator>https://wordpress.org/?v=5.5.3</generator>
 
 <image>
-	<url>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/cosmetica/wp-content/uploads/sites/25/2018/12/favicon.png</url>
+	<url>http://demo.woostify.com/cosmetica/wp-content/uploads/sites/25/2018/12/favicon.png</url>
 	<title>Cosmetica</title>
-	<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/cosmetica</link>
+	<link>http://demo.woostify.com/cosmetica</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 
 		<item>
 		<title>favicon</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/cosmetica/favicon/</link>
+		<link>http://demo.woostify.com/cosmetica/favicon/</link>
 		<pubDate>Fri, 28 Dec 2018 04:30:25 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/cosmetica/wp-content/uploads/2018/12/favicon.png</guid>
@@ -1196,7 +1196,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/cosmetica/wp-content/uploads/sites/25/2018/12/favicon.png]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[http://demo.woostify.com/cosmetica/wp-content/uploads/sites/25/2018/12/favicon.png]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2018/12/favicon.png]]></wp:meta_value>
@@ -1220,7 +1220,7 @@
 							</item>
 					<item>
 		<title>cropped-lens-logo.png</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/cosmetica/cropped-lens-logo-png/</link>
+		<link>http://demo.woostify.com/cosmetica/cropped-lens-logo-png/</link>
 		<pubDate>Wed, 20 Feb 2019 03:10:32 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/cosmetica/wp-content/uploads/2019/02/cropped-lens-logo.png</guid>
@@ -1239,7 +1239,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/cosmetica/wp-content/uploads/sites/25/2019/02/cropped-lens-logo.png]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[http://demo.woostify.com/cosmetica/wp-content/uploads/sites/25/2019/02/cropped-lens-logo.png]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2019/02/cropped-lens-logo.png]]></wp:meta_value>
@@ -1267,7 +1267,7 @@
 							</item>
 					<item>
 		<title>cmt-logo</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/cosmetica/cmt-logo/</link>
+		<link>http://demo.woostify.com/cosmetica/cmt-logo/</link>
 		<pubDate>Wed, 06 Mar 2019 01:24:52 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/cosmetica/wp-content/uploads/2019/03/cmt-logo.png</guid>
@@ -1286,7 +1286,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/cosmetica/wp-content/uploads/sites/25/2019/03/cmt-logo.png]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[http://demo.woostify.com/cosmetica/wp-content/uploads/sites/25/2019/03/cmt-logo.png]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2019/03/cmt-logo.png]]></wp:meta_value>
@@ -1310,7 +1310,7 @@
 							</item>
 					<item>
 		<title>cmt-home-slider-1</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/cosmetica/woostify/cmt-home-slider-1/</link>
+		<link>http://demo.woostify.com/cosmetica/woostify/cmt-home-slider-1/</link>
 		<pubDate>Wed, 06 Mar 2019 01:33:03 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/cosmetica/wp-content/uploads/2019/03/cmt-home-slider-1.jpg</guid>
@@ -1329,7 +1329,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/cosmetica/wp-content/uploads/sites/25/2019/03/cmt-home-slider-1.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[http://demo.woostify.com/cosmetica/wp-content/uploads/sites/25/2019/03/cmt-home-slider-1.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2019/03/cmt-home-slider-1.jpg]]></wp:meta_value>
@@ -1341,7 +1341,7 @@
 							</item>
 					<item>
 		<title>cmt-home-cat</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/cosmetica/woostify/cmt-home-cat/</link>
+		<link>http://demo.woostify.com/cosmetica/woostify/cmt-home-cat/</link>
 		<pubDate>Wed, 06 Mar 2019 01:52:38 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/cosmetica/wp-content/uploads/2019/03/cmt-home-cat.jpg</guid>
@@ -1360,7 +1360,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/cosmetica/wp-content/uploads/sites/25/2019/03/cmt-home-cat.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[http://demo.woostify.com/cosmetica/wp-content/uploads/sites/25/2019/03/cmt-home-cat.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2019/03/cmt-home-cat.jpg]]></wp:meta_value>
@@ -1372,7 +1372,7 @@
 							</item>
 					<item>
 		<title>cmt-about-1</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/cosmetica/about/cmt-about-1/</link>
+		<link>http://demo.woostify.com/cosmetica/about/cmt-about-1/</link>
 		<pubDate>Mon, 18 Mar 2019 04:32:40 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/cosmetica/wp-content/uploads/2019/03/cmt-about-1.jpg</guid>
@@ -1391,7 +1391,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/cosmetica/wp-content/uploads/sites/25/2019/03/cmt-about-1.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[http://demo.woostify.com/cosmetica/wp-content/uploads/sites/25/2019/03/cmt-about-1.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2019/03/cmt-about-1.jpg]]></wp:meta_value>
@@ -1403,7 +1403,7 @@
 							</item>
 					<item>
 		<title>cmt-page-heading</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/cosmetica/about/cmt-page-heading/</link>
+		<link>http://demo.woostify.com/cosmetica/about/cmt-page-heading/</link>
 		<pubDate>Mon, 18 Mar 2019 04:35:21 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/cosmetica/wp-content/uploads/2019/03/cmt-page-heading.jpg</guid>
@@ -1422,7 +1422,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/cosmetica/wp-content/uploads/sites/25/2019/03/cmt-page-heading.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[http://demo.woostify.com/cosmetica/wp-content/uploads/sites/25/2019/03/cmt-page-heading.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2019/03/cmt-page-heading.jpg]]></wp:meta_value>
@@ -1434,7 +1434,7 @@
 							</item>
 					<item>
 		<title>cmt-about-2</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/cosmetica/about/cmt-about-2/</link>
+		<link>http://demo.woostify.com/cosmetica/about/cmt-about-2/</link>
 		<pubDate>Mon, 18 Mar 2019 04:50:14 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/cosmetica/wp-content/uploads/2019/03/cmt-about-2.jpg</guid>
@@ -1453,7 +1453,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/cosmetica/wp-content/uploads/sites/25/2019/03/cmt-about-2.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[http://demo.woostify.com/cosmetica/wp-content/uploads/sites/25/2019/03/cmt-about-2.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2019/03/cmt-about-2.jpg]]></wp:meta_value>
@@ -1465,7 +1465,7 @@
 							</item>
 					<item>
 		<title>cmt-about-3</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/cosmetica/about/cmt-about-3/</link>
+		<link>http://demo.woostify.com/cosmetica/about/cmt-about-3/</link>
 		<pubDate>Mon, 18 Mar 2019 04:52:44 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/cosmetica/wp-content/uploads/2019/03/cmt-about-3.jpg</guid>
@@ -1484,7 +1484,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/cosmetica/wp-content/uploads/sites/25/2019/03/cmt-about-3.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[http://demo.woostify.com/cosmetica/wp-content/uploads/sites/25/2019/03/cmt-about-3.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2019/03/cmt-about-3.jpg]]></wp:meta_value>
@@ -1496,7 +1496,7 @@
 							</item>
 					<item>
 		<title>cmt-about-4</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/cosmetica/about/cmt-about-4/</link>
+		<link>http://demo.woostify.com/cosmetica/about/cmt-about-4/</link>
 		<pubDate>Mon, 18 Mar 2019 04:52:46 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/cosmetica/wp-content/uploads/2019/03/cmt-about-4.jpg</guid>
@@ -1515,7 +1515,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/cosmetica/wp-content/uploads/sites/25/2019/03/cmt-about-4.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[http://demo.woostify.com/cosmetica/wp-content/uploads/sites/25/2019/03/cmt-about-4.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2019/03/cmt-about-4.jpg]]></wp:meta_value>
@@ -1527,7 +1527,7 @@
 							</item>
 					<item>
 		<title>cmt-about-5</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/cosmetica/about/cmt-about-5/</link>
+		<link>http://demo.woostify.com/cosmetica/about/cmt-about-5/</link>
 		<pubDate>Mon, 18 Mar 2019 04:52:47 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/cosmetica/wp-content/uploads/2019/03/cmt-about-5.jpg</guid>
@@ -1546,7 +1546,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/cosmetica/wp-content/uploads/sites/25/2019/03/cmt-about-5.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[http://demo.woostify.com/cosmetica/wp-content/uploads/sites/25/2019/03/cmt-about-5.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2019/03/cmt-about-5.jpg]]></wp:meta_value>
@@ -1558,7 +1558,7 @@
 							</item>
 					<item>
 		<title>1-1</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/cosmetica/?attachment_id=712</link>
+		<link>http://demo.woostify.com/cosmetica/?attachment_id=712</link>
 		<pubDate>Thu, 21 Mar 2019 02:47:35 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/cosmetica/wp-content/uploads/2019/03/1-1.jpg</guid>
@@ -1577,7 +1577,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/cosmetica/wp-content/uploads/sites/25/2019/03/1-1.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[http://demo.woostify.com/cosmetica/wp-content/uploads/sites/25/2019/03/1-1.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2019/03/1-1.jpg]]></wp:meta_value>
@@ -1589,7 +1589,7 @@
 							</item>
 					<item>
 		<title>1-2</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/cosmetica/?attachment_id=713</link>
+		<link>http://demo.woostify.com/cosmetica/?attachment_id=713</link>
 		<pubDate>Thu, 21 Mar 2019 02:47:37 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/cosmetica/wp-content/uploads/2019/03/1-2.jpg</guid>
@@ -1608,7 +1608,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/cosmetica/wp-content/uploads/sites/25/2019/03/1-2.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[http://demo.woostify.com/cosmetica/wp-content/uploads/sites/25/2019/03/1-2.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2019/03/1-2.jpg]]></wp:meta_value>
@@ -1620,7 +1620,7 @@
 							</item>
 					<item>
 		<title>2-1</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/cosmetica/?attachment_id=714</link>
+		<link>http://demo.woostify.com/cosmetica/?attachment_id=714</link>
 		<pubDate>Thu, 21 Mar 2019 02:47:38 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/cosmetica/wp-content/uploads/2019/03/2-1.jpg</guid>
@@ -1639,7 +1639,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/cosmetica/wp-content/uploads/sites/25/2019/03/2-1.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[http://demo.woostify.com/cosmetica/wp-content/uploads/sites/25/2019/03/2-1.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2019/03/2-1.jpg]]></wp:meta_value>
@@ -1651,7 +1651,7 @@
 							</item>
 					<item>
 		<title>2-2</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/cosmetica/?attachment_id=715</link>
+		<link>http://demo.woostify.com/cosmetica/?attachment_id=715</link>
 		<pubDate>Thu, 21 Mar 2019 02:47:40 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/cosmetica/wp-content/uploads/2019/03/2-2.jpg</guid>
@@ -1670,7 +1670,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/cosmetica/wp-content/uploads/sites/25/2019/03/2-2.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[http://demo.woostify.com/cosmetica/wp-content/uploads/sites/25/2019/03/2-2.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2019/03/2-2.jpg]]></wp:meta_value>
@@ -1682,7 +1682,7 @@
 							</item>
 					<item>
 		<title>3-1</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/cosmetica/?attachment_id=719</link>
+		<link>http://demo.woostify.com/cosmetica/?attachment_id=719</link>
 		<pubDate>Thu, 21 Mar 2019 02:54:50 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/cosmetica/wp-content/uploads/2019/03/3-1.jpg</guid>
@@ -1701,7 +1701,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/cosmetica/wp-content/uploads/sites/25/2019/03/3-1.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[http://demo.woostify.com/cosmetica/wp-content/uploads/sites/25/2019/03/3-1.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2019/03/3-1.jpg]]></wp:meta_value>
@@ -1713,7 +1713,7 @@
 							</item>
 					<item>
 		<title>3-2</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/cosmetica/?attachment_id=720</link>
+		<link>http://demo.woostify.com/cosmetica/?attachment_id=720</link>
 		<pubDate>Thu, 21 Mar 2019 02:54:53 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/cosmetica/wp-content/uploads/2019/03/3-2.jpg</guid>
@@ -1732,7 +1732,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/cosmetica/wp-content/uploads/sites/25/2019/03/3-2.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[http://demo.woostify.com/cosmetica/wp-content/uploads/sites/25/2019/03/3-2.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2019/03/3-2.jpg]]></wp:meta_value>
@@ -1744,7 +1744,7 @@
 							</item>
 					<item>
 		<title>3-3</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/cosmetica/?attachment_id=721</link>
+		<link>http://demo.woostify.com/cosmetica/?attachment_id=721</link>
 		<pubDate>Thu, 21 Mar 2019 02:54:55 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/cosmetica/wp-content/uploads/2019/03/3-3.jpg</guid>
@@ -1763,7 +1763,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/cosmetica/wp-content/uploads/sites/25/2019/03/3-3.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[http://demo.woostify.com/cosmetica/wp-content/uploads/sites/25/2019/03/3-3.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2019/03/3-3.jpg]]></wp:meta_value>
@@ -1775,7 +1775,7 @@
 							</item>
 					<item>
 		<title>4-1</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/cosmetica/?attachment_id=723</link>
+		<link>http://demo.woostify.com/cosmetica/?attachment_id=723</link>
 		<pubDate>Thu, 21 Mar 2019 02:57:34 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/cosmetica/wp-content/uploads/2019/03/4-1.jpg</guid>
@@ -1794,7 +1794,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/cosmetica/wp-content/uploads/sites/25/2019/03/4-1.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[http://demo.woostify.com/cosmetica/wp-content/uploads/sites/25/2019/03/4-1.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2019/03/4-1.jpg]]></wp:meta_value>
@@ -1806,7 +1806,7 @@
 							</item>
 					<item>
 		<title>4-2</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/cosmetica/?attachment_id=724</link>
+		<link>http://demo.woostify.com/cosmetica/?attachment_id=724</link>
 		<pubDate>Thu, 21 Mar 2019 02:57:36 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/cosmetica/wp-content/uploads/2019/03/4-2.jpg</guid>
@@ -1825,7 +1825,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/cosmetica/wp-content/uploads/sites/25/2019/03/4-2.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[http://demo.woostify.com/cosmetica/wp-content/uploads/sites/25/2019/03/4-2.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2019/03/4-2.jpg]]></wp:meta_value>
@@ -1837,7 +1837,7 @@
 							</item>
 					<item>
 		<title>5-1</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/cosmetica/?attachment_id=726</link>
+		<link>http://demo.woostify.com/cosmetica/?attachment_id=726</link>
 		<pubDate>Thu, 21 Mar 2019 03:01:08 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/cosmetica/wp-content/uploads/2019/03/5-1.jpg</guid>
@@ -1856,7 +1856,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/cosmetica/wp-content/uploads/sites/25/2019/03/5-1.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[http://demo.woostify.com/cosmetica/wp-content/uploads/sites/25/2019/03/5-1.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2019/03/5-1.jpg]]></wp:meta_value>
@@ -1868,7 +1868,7 @@
 							</item>
 					<item>
 		<title>5-2</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/cosmetica/?attachment_id=727</link>
+		<link>http://demo.woostify.com/cosmetica/?attachment_id=727</link>
 		<pubDate>Thu, 21 Mar 2019 03:01:11 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/cosmetica/wp-content/uploads/2019/03/5-2.jpg</guid>
@@ -1887,7 +1887,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/cosmetica/wp-content/uploads/sites/25/2019/03/5-2.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[http://demo.woostify.com/cosmetica/wp-content/uploads/sites/25/2019/03/5-2.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2019/03/5-2.jpg]]></wp:meta_value>
@@ -1899,7 +1899,7 @@
 							</item>
 					<item>
 		<title>6-1</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/cosmetica/?attachment_id=729</link>
+		<link>http://demo.woostify.com/cosmetica/?attachment_id=729</link>
 		<pubDate>Thu, 21 Mar 2019 03:03:07 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/cosmetica/wp-content/uploads/2019/03/6-1.jpg</guid>
@@ -1918,7 +1918,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/cosmetica/wp-content/uploads/sites/25/2019/03/6-1.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[http://demo.woostify.com/cosmetica/wp-content/uploads/sites/25/2019/03/6-1.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2019/03/6-1.jpg]]></wp:meta_value>
@@ -1930,7 +1930,7 @@
 							</item>
 					<item>
 		<title>6-2</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/cosmetica/?attachment_id=730</link>
+		<link>http://demo.woostify.com/cosmetica/?attachment_id=730</link>
 		<pubDate>Thu, 21 Mar 2019 03:03:09 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/cosmetica/wp-content/uploads/2019/03/6-2.jpg</guid>
@@ -1949,7 +1949,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/cosmetica/wp-content/uploads/sites/25/2019/03/6-2.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[http://demo.woostify.com/cosmetica/wp-content/uploads/sites/25/2019/03/6-2.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2019/03/6-2.jpg]]></wp:meta_value>
@@ -1961,7 +1961,7 @@
 							</item>
 					<item>
 		<title>6-3</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/cosmetica/?attachment_id=731</link>
+		<link>http://demo.woostify.com/cosmetica/?attachment_id=731</link>
 		<pubDate>Thu, 21 Mar 2019 03:03:11 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/cosmetica/wp-content/uploads/2019/03/6-3.jpg</guid>
@@ -1980,7 +1980,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/cosmetica/wp-content/uploads/sites/25/2019/03/6-3.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[http://demo.woostify.com/cosmetica/wp-content/uploads/sites/25/2019/03/6-3.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2019/03/6-3.jpg]]></wp:meta_value>
@@ -1992,7 +1992,7 @@
 							</item>
 					<item>
 		<title>ins-1</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/cosmetica/ins-1/</link>
+		<link>http://demo.woostify.com/cosmetica/ins-1/</link>
 		<pubDate>Thu, 21 Mar 2019 03:11:26 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/cosmetica/wp-content/uploads/2019/03/ins-1.jpg</guid>
@@ -2011,7 +2011,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/cosmetica/wp-content/uploads/sites/25/2019/03/ins-1.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[http://demo.woostify.com/cosmetica/wp-content/uploads/sites/25/2019/03/ins-1.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2019/03/ins-1.jpg]]></wp:meta_value>
@@ -2035,7 +2035,7 @@
 							</item>
 					<item>
 		<title>ins-2</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/cosmetica/ins-2/</link>
+		<link>http://demo.woostify.com/cosmetica/ins-2/</link>
 		<pubDate>Thu, 21 Mar 2019 03:13:14 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/cosmetica/wp-content/uploads/2019/03/ins-2.jpg</guid>
@@ -2054,7 +2054,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/cosmetica/wp-content/uploads/sites/25/2019/03/ins-2.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[http://demo.woostify.com/cosmetica/wp-content/uploads/sites/25/2019/03/ins-2.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2019/03/ins-2.jpg]]></wp:meta_value>
@@ -2078,7 +2078,7 @@
 							</item>
 					<item>
 		<title>ins-3</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/cosmetica/ins-3/</link>
+		<link>http://demo.woostify.com/cosmetica/ins-3/</link>
 		<pubDate>Thu, 21 Mar 2019 03:13:17 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/cosmetica/wp-content/uploads/2019/03/ins-3.jpg</guid>
@@ -2097,7 +2097,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/cosmetica/wp-content/uploads/sites/25/2019/03/ins-3.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[http://demo.woostify.com/cosmetica/wp-content/uploads/sites/25/2019/03/ins-3.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2019/03/ins-3.jpg]]></wp:meta_value>
@@ -2121,7 +2121,7 @@
 							</item>
 					<item>
 		<title>ins-4</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/cosmetica/ins-4/</link>
+		<link>http://demo.woostify.com/cosmetica/ins-4/</link>
 		<pubDate>Thu, 21 Mar 2019 03:13:18 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/cosmetica/wp-content/uploads/2019/03/ins-4.jpg</guid>
@@ -2140,7 +2140,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/cosmetica/wp-content/uploads/sites/25/2019/03/ins-4.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[http://demo.woostify.com/cosmetica/wp-content/uploads/sites/25/2019/03/ins-4.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2019/03/ins-4.jpg]]></wp:meta_value>
@@ -2164,7 +2164,7 @@
 							</item>
 					<item>
 		<title>ins-5</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/cosmetica/ins-5/</link>
+		<link>http://demo.woostify.com/cosmetica/ins-5/</link>
 		<pubDate>Thu, 21 Mar 2019 03:13:21 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/cosmetica/wp-content/uploads/2019/03/ins-5.jpg</guid>
@@ -2183,7 +2183,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/cosmetica/wp-content/uploads/sites/25/2019/03/ins-5.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[http://demo.woostify.com/cosmetica/wp-content/uploads/sites/25/2019/03/ins-5.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2019/03/ins-5.jpg]]></wp:meta_value>
@@ -2207,7 +2207,7 @@
 							</item>
 					<item>
 		<title>ins-6</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/cosmetica/ins-6/</link>
+		<link>http://demo.woostify.com/cosmetica/ins-6/</link>
 		<pubDate>Thu, 21 Mar 2019 03:13:24 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/cosmetica/wp-content/uploads/2019/03/ins-6.jpg</guid>
@@ -2226,7 +2226,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/cosmetica/wp-content/uploads/sites/25/2019/03/ins-6-scaled-1.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[http://demo.woostify.com/cosmetica/wp-content/uploads/sites/25/2019/03/ins-6-scaled-1.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2019/03/ins-6-scaled-1.jpg]]></wp:meta_value>
@@ -2250,7 +2250,7 @@
 							</item>
 					<item>
 		<title>ins-7</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/cosmetica/ins-7/</link>
+		<link>http://demo.woostify.com/cosmetica/ins-7/</link>
 		<pubDate>Thu, 21 Mar 2019 03:13:27 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/cosmetica/wp-content/uploads/2019/03/ins-7.jpg</guid>
@@ -2269,7 +2269,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/cosmetica/wp-content/uploads/sites/25/2019/03/ins-7.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[http://demo.woostify.com/cosmetica/wp-content/uploads/sites/25/2019/03/ins-7.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2019/03/ins-7.jpg]]></wp:meta_value>
@@ -2293,7 +2293,7 @@
 							</item>
 					<item>
 		<title>ins-8</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/cosmetica/ins-8/</link>
+		<link>http://demo.woostify.com/cosmetica/ins-8/</link>
 		<pubDate>Thu, 21 Mar 2019 03:13:29 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/cosmetica/wp-content/uploads/2019/03/ins-8.jpg</guid>
@@ -2312,7 +2312,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/cosmetica/wp-content/uploads/sites/25/2019/03/ins-8.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[http://demo.woostify.com/cosmetica/wp-content/uploads/sites/25/2019/03/ins-8.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2019/03/ins-8.jpg]]></wp:meta_value>
@@ -2336,7 +2336,7 @@
 							</item>
 					<item>
 		<title>ins-2</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/cosmetica/ins-2-2/</link>
+		<link>http://demo.woostify.com/cosmetica/ins-2-2/</link>
 		<pubDate>Thu, 21 Mar 2019 03:17:24 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/cosmetica/wp-content/uploads/2019/03/ins-2-1.jpg</guid>
@@ -2355,7 +2355,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/cosmetica/wp-content/uploads/sites/25/2019/03/ins-2-1.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[http://demo.woostify.com/cosmetica/wp-content/uploads/sites/25/2019/03/ins-2-1.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2019/03/ins-2-1.jpg]]></wp:meta_value>
@@ -2379,7 +2379,7 @@
 							</item>
 					<item>
 		<title>ins-8</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/cosmetica/ins-8-2/</link>
+		<link>http://demo.woostify.com/cosmetica/ins-8-2/</link>
 		<pubDate>Thu, 21 Mar 2019 03:17:26 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/cosmetica/wp-content/uploads/2019/03/ins-8-1.jpg</guid>
@@ -2398,7 +2398,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/cosmetica/wp-content/uploads/sites/25/2019/03/ins-8-1.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[http://demo.woostify.com/cosmetica/wp-content/uploads/sites/25/2019/03/ins-8-1.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2019/03/ins-8-1.jpg]]></wp:meta_value>
@@ -2422,7 +2422,7 @@
 							</item>
 					<item>
 		<title>ins-8</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/cosmetica/ins-8-3/</link>
+		<link>http://demo.woostify.com/cosmetica/ins-8-3/</link>
 		<pubDate>Thu, 21 Mar 2019 03:18:07 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/cosmetica/wp-content/uploads/2019/03/ins-8-2.jpg</guid>
@@ -2441,7 +2441,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/cosmetica/wp-content/uploads/sites/25/2019/03/ins-8-2.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[http://demo.woostify.com/cosmetica/wp-content/uploads/sites/25/2019/03/ins-8-2.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2019/03/ins-8-2.jpg]]></wp:meta_value>
@@ -2465,7 +2465,7 @@
 							</item>
 					<item>
 		<title>cmt-blog-1</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/cosmetica/2019/01/02/younlife-at-the-groove-come-and-say-hey/cmt-blog-1/</link>
+		<link>http://demo.woostify.com/cosmetica/2019/01/02/younlife-at-the-groove-come-and-say-hey/cmt-blog-1/</link>
 		<pubDate>Thu, 21 Mar 2019 03:25:10 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/cosmetica/wp-content/uploads/2019/01/cmt-blog-1.jpg</guid>
@@ -2484,7 +2484,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/cosmetica/wp-content/uploads/sites/25/2019/01/cmt-blog-1.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[http://demo.woostify.com/cosmetica/wp-content/uploads/sites/25/2019/01/cmt-blog-1.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2019/01/cmt-blog-1.jpg]]></wp:meta_value>
@@ -2496,7 +2496,7 @@
 							</item>
 					<item>
 		<title>cmt-blog-2</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/cosmetica/2019/01/02/younlife-at-the-groove-come-and-say-hey/cmt-blog-2/</link>
+		<link>http://demo.woostify.com/cosmetica/2019/01/02/younlife-at-the-groove-come-and-say-hey/cmt-blog-2/</link>
 		<pubDate>Thu, 21 Mar 2019 03:25:14 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/cosmetica/wp-content/uploads/2019/01/cmt-blog-2.jpg</guid>
@@ -2515,7 +2515,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/cosmetica/wp-content/uploads/sites/25/2019/01/cmt-blog-2.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[http://demo.woostify.com/cosmetica/wp-content/uploads/sites/25/2019/01/cmt-blog-2.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2019/01/cmt-blog-2.jpg]]></wp:meta_value>
@@ -2527,7 +2527,7 @@
 							</item>
 					<item>
 		<title>cmt-blog-3</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/cosmetica/2019/01/02/younlife-at-the-groove-come-and-say-hey/cmt-blog-3/</link>
+		<link>http://demo.woostify.com/cosmetica/2019/01/02/younlife-at-the-groove-come-and-say-hey/cmt-blog-3/</link>
 		<pubDate>Thu, 21 Mar 2019 03:25:16 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/cosmetica/wp-content/uploads/2019/01/cmt-blog-3.jpg</guid>
@@ -2546,7 +2546,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/cosmetica/wp-content/uploads/sites/25/2019/01/cmt-blog-3.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[http://demo.woostify.com/cosmetica/wp-content/uploads/sites/25/2019/01/cmt-blog-3.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2019/01/cmt-blog-3.jpg]]></wp:meta_value>
@@ -2558,7 +2558,7 @@
 							</item>
 					<item>
 		<title>cmt-blog-4</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/cosmetica/2019/01/28/winter-is-coming/cmt-blog-4/</link>
+		<link>http://demo.woostify.com/cosmetica/2019/01/28/winter-is-coming/cmt-blog-4/</link>
 		<pubDate>Thu, 21 Mar 2019 03:29:24 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/cosmetica/wp-content/uploads/2019/01/cmt-blog-4.jpg</guid>
@@ -2577,7 +2577,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/cosmetica/wp-content/uploads/sites/25/2019/01/cmt-blog-4.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[http://demo.woostify.com/cosmetica/wp-content/uploads/sites/25/2019/01/cmt-blog-4.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2019/01/cmt-blog-4.jpg]]></wp:meta_value>
@@ -2589,7 +2589,7 @@
 							</item>
 					<item>
 		<title>7-1</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/cosmetica/?attachment_id=778</link>
+		<link>http://demo.woostify.com/cosmetica/?attachment_id=778</link>
 		<pubDate>Thu, 21 Mar 2019 09:19:26 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/cosmetica/wp-content/uploads/2019/03/7-1.jpg</guid>
@@ -2608,7 +2608,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/cosmetica/wp-content/uploads/sites/25/2019/03/7-1.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[http://demo.woostify.com/cosmetica/wp-content/uploads/sites/25/2019/03/7-1.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2019/03/7-1.jpg]]></wp:meta_value>
@@ -2620,7 +2620,7 @@
 							</item>
 					<item>
 		<title>7-2</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/cosmetica/?attachment_id=779</link>
+		<link>http://demo.woostify.com/cosmetica/?attachment_id=779</link>
 		<pubDate>Thu, 21 Mar 2019 09:19:30 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/cosmetica/wp-content/uploads/2019/03/7-2.jpg</guid>
@@ -2639,7 +2639,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/cosmetica/wp-content/uploads/sites/25/2019/03/7-2.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[http://demo.woostify.com/cosmetica/wp-content/uploads/sites/25/2019/03/7-2.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2019/03/7-2.jpg]]></wp:meta_value>
@@ -2651,7 +2651,7 @@
 							</item>
 					<item>
 		<title>8-1</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/cosmetica/?attachment_id=780</link>
+		<link>http://demo.woostify.com/cosmetica/?attachment_id=780</link>
 		<pubDate>Thu, 21 Mar 2019 09:19:33 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/cosmetica/wp-content/uploads/2019/03/8-1.jpg</guid>
@@ -2670,7 +2670,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/cosmetica/wp-content/uploads/sites/25/2019/03/8-1.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[http://demo.woostify.com/cosmetica/wp-content/uploads/sites/25/2019/03/8-1.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2019/03/8-1.jpg]]></wp:meta_value>
@@ -2682,7 +2682,7 @@
 							</item>
 					<item>
 		<title>8-2</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/cosmetica/?attachment_id=781</link>
+		<link>http://demo.woostify.com/cosmetica/?attachment_id=781</link>
 		<pubDate>Thu, 21 Mar 2019 09:19:34 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/cosmetica/wp-content/uploads/2019/03/8-2.jpg</guid>
@@ -2701,7 +2701,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/cosmetica/wp-content/uploads/sites/25/2019/03/8-2.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[http://demo.woostify.com/cosmetica/wp-content/uploads/sites/25/2019/03/8-2.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2019/03/8-2.jpg]]></wp:meta_value>
@@ -2713,7 +2713,7 @@
 							</item>
 					<item>
 		<title>9-1</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/cosmetica/?attachment_id=783</link>
+		<link>http://demo.woostify.com/cosmetica/?attachment_id=783</link>
 		<pubDate>Thu, 21 Mar 2019 09:19:36 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/cosmetica/wp-content/uploads/2019/03/9-1.jpg</guid>
@@ -2732,7 +2732,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/cosmetica/wp-content/uploads/sites/25/2019/03/9-1.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[http://demo.woostify.com/cosmetica/wp-content/uploads/sites/25/2019/03/9-1.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2019/03/9-1.jpg]]></wp:meta_value>
@@ -2744,7 +2744,7 @@
 							</item>
 					<item>
 		<title>9-2</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/cosmetica/?attachment_id=784</link>
+		<link>http://demo.woostify.com/cosmetica/?attachment_id=784</link>
 		<pubDate>Thu, 21 Mar 2019 09:19:37 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/cosmetica/wp-content/uploads/2019/03/9-2.jpg</guid>
@@ -2763,7 +2763,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/cosmetica/wp-content/uploads/sites/25/2019/03/9-2.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[http://demo.woostify.com/cosmetica/wp-content/uploads/sites/25/2019/03/9-2.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2019/03/9-2.jpg]]></wp:meta_value>
@@ -2775,7 +2775,7 @@
 							</item>
 					<item>
 		<title>10-1</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/cosmetica/?attachment_id=785</link>
+		<link>http://demo.woostify.com/cosmetica/?attachment_id=785</link>
 		<pubDate>Thu, 21 Mar 2019 09:19:39 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/cosmetica/wp-content/uploads/2019/03/10-1.jpg</guid>
@@ -2794,7 +2794,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/cosmetica/wp-content/uploads/sites/25/2019/03/10-1.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[http://demo.woostify.com/cosmetica/wp-content/uploads/sites/25/2019/03/10-1.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2019/03/10-1.jpg]]></wp:meta_value>
@@ -2806,7 +2806,7 @@
 							</item>
 					<item>
 		<title>10-2</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/cosmetica/?attachment_id=786</link>
+		<link>http://demo.woostify.com/cosmetica/?attachment_id=786</link>
 		<pubDate>Thu, 21 Mar 2019 09:19:40 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/cosmetica/wp-content/uploads/2019/03/10-2.jpg</guid>
@@ -2825,7 +2825,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/cosmetica/wp-content/uploads/sites/25/2019/03/10-2.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[http://demo.woostify.com/cosmetica/wp-content/uploads/sites/25/2019/03/10-2.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2019/03/10-2.jpg]]></wp:meta_value>
@@ -2837,7 +2837,7 @@
 							</item>
 					<item>
 		<title>10-3</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/cosmetica/?attachment_id=787</link>
+		<link>http://demo.woostify.com/cosmetica/?attachment_id=787</link>
 		<pubDate>Thu, 21 Mar 2019 09:19:41 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/cosmetica/wp-content/uploads/2019/03/10-3.jpg</guid>
@@ -2856,7 +2856,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/cosmetica/wp-content/uploads/sites/25/2019/03/10-3.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[http://demo.woostify.com/cosmetica/wp-content/uploads/sites/25/2019/03/10-3.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2019/03/10-3.jpg]]></wp:meta_value>
@@ -2868,7 +2868,7 @@
 							</item>
 					<item>
 		<title>11-1</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/cosmetica/?attachment_id=788</link>
+		<link>http://demo.woostify.com/cosmetica/?attachment_id=788</link>
 		<pubDate>Thu, 21 Mar 2019 09:19:42 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/cosmetica/wp-content/uploads/2019/03/11-1.jpg</guid>
@@ -2887,7 +2887,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/cosmetica/wp-content/uploads/sites/25/2019/03/11-1.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[http://demo.woostify.com/cosmetica/wp-content/uploads/sites/25/2019/03/11-1.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2019/03/11-1.jpg]]></wp:meta_value>
@@ -2899,7 +2899,7 @@
 							</item>
 					<item>
 		<title>11-2</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/cosmetica/?attachment_id=789</link>
+		<link>http://demo.woostify.com/cosmetica/?attachment_id=789</link>
 		<pubDate>Thu, 21 Mar 2019 09:19:43 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/cosmetica/wp-content/uploads/2019/03/11-2.jpg</guid>
@@ -2918,7 +2918,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/cosmetica/wp-content/uploads/sites/25/2019/03/11-2.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[http://demo.woostify.com/cosmetica/wp-content/uploads/sites/25/2019/03/11-2.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2019/03/11-2.jpg]]></wp:meta_value>
@@ -2930,7 +2930,7 @@
 							</item>
 					<item>
 		<title>12-1</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/cosmetica/?attachment_id=790</link>
+		<link>http://demo.woostify.com/cosmetica/?attachment_id=790</link>
 		<pubDate>Thu, 21 Mar 2019 09:19:45 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/cosmetica/wp-content/uploads/2019/03/12-1.jpg</guid>
@@ -2949,7 +2949,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/cosmetica/wp-content/uploads/sites/25/2019/03/12-1.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[http://demo.woostify.com/cosmetica/wp-content/uploads/sites/25/2019/03/12-1.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2019/03/12-1.jpg]]></wp:meta_value>
@@ -2961,7 +2961,7 @@
 							</item>
 					<item>
 		<title>12-2</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/cosmetica/?attachment_id=791</link>
+		<link>http://demo.woostify.com/cosmetica/?attachment_id=791</link>
 		<pubDate>Thu, 21 Mar 2019 09:19:46 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/cosmetica/wp-content/uploads/2019/03/12-2.jpg</guid>
@@ -2980,7 +2980,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/cosmetica/wp-content/uploads/sites/25/2019/03/12-2.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[http://demo.woostify.com/cosmetica/wp-content/uploads/sites/25/2019/03/12-2.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2019/03/12-2.jpg]]></wp:meta_value>
@@ -2992,7 +2992,7 @@
 							</item>
 					<item>
 		<title>12-3</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/cosmetica/?attachment_id=792</link>
+		<link>http://demo.woostify.com/cosmetica/?attachment_id=792</link>
 		<pubDate>Thu, 21 Mar 2019 09:19:47 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/cosmetica/wp-content/uploads/2019/03/12-3.jpg</guid>
@@ -3011,7 +3011,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/cosmetica/wp-content/uploads/sites/25/2019/03/12-3.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[http://demo.woostify.com/cosmetica/wp-content/uploads/sites/25/2019/03/12-3.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2019/03/12-3.jpg]]></wp:meta_value>
@@ -3023,7 +3023,7 @@
 							</item>
 					<item>
 		<title>cmt-logo-@2x</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/cosmetica/cmt-logo-2x/</link>
+		<link>http://demo.woostify.com/cosmetica/cmt-logo-2x/</link>
 		<pubDate>Fri, 22 Mar 2019 08:40:16 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/cosmetica/wp-content/uploads/2019/03/cmt-logo-@2x.png</guid>
@@ -3042,7 +3042,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/cosmetica/wp-content/uploads/sites/25/2019/03/cmt-logo-@2x.png]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[http://demo.woostify.com/cosmetica/wp-content/uploads/sites/25/2019/03/cmt-logo-@2x.png]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2019/03/cmt-logo-@2x.png]]></wp:meta_value>
@@ -3066,7 +3066,7 @@
 							</item>
 					<item>
 		<title>shop-banner-1</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/cosmetica/woostify/shop-banner-1/</link>
+		<link>http://demo.woostify.com/cosmetica/woostify/shop-banner-1/</link>
 		<pubDate>Mon, 25 Mar 2019 02:39:57 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/cosmetica/wp-content/uploads/2019/03/shop-banner-1.jpg</guid>
@@ -3085,7 +3085,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/cosmetica/wp-content/uploads/sites/25/2019/03/shop-banner-1.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[http://demo.woostify.com/cosmetica/wp-content/uploads/sites/25/2019/03/shop-banner-1.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2019/03/shop-banner-1.jpg]]></wp:meta_value>
@@ -3097,7 +3097,7 @@
 							</item>
 					<item>
 		<title>shop-banner-2</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/cosmetica/woostify/shop-banner-2/</link>
+		<link>http://demo.woostify.com/cosmetica/woostify/shop-banner-2/</link>
 		<pubDate>Mon, 25 Mar 2019 02:39:59 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/cosmetica/wp-content/uploads/2019/03/shop-banner-2.jpg</guid>
@@ -3116,7 +3116,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/cosmetica/wp-content/uploads/sites/25/2019/03/shop-banner-2.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[http://demo.woostify.com/cosmetica/wp-content/uploads/sites/25/2019/03/shop-banner-2.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2019/03/shop-banner-2.jpg]]></wp:meta_value>
@@ -3128,7 +3128,7 @@
 							</item>
 					<item>
 		<title>shop-banner-3</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/cosmetica/woostify/shop-banner-3/</link>
+		<link>http://demo.woostify.com/cosmetica/woostify/shop-banner-3/</link>
 		<pubDate>Mon, 25 Mar 2019 02:40:00 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/cosmetica/wp-content/uploads/2019/03/shop-banner-3.jpg</guid>
@@ -3147,7 +3147,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/cosmetica/wp-content/uploads/sites/25/2019/03/shop-banner-3.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[http://demo.woostify.com/cosmetica/wp-content/uploads/sites/25/2019/03/shop-banner-3.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2019/03/shop-banner-3.jpg]]></wp:meta_value>
@@ -3159,7 +3159,7 @@
 							</item>
 					<item>
 		<title>cmt-home-slider2</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/cosmetica/woostify/cmt-home-slider2/</link>
+		<link>http://demo.woostify.com/cosmetica/woostify/cmt-home-slider2/</link>
 		<pubDate>Mon, 25 Mar 2019 08:16:33 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/cosmetica/wp-content/uploads/2019/03/cmt-home-slider2.jpg</guid>
@@ -3178,7 +3178,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/cosmetica/wp-content/uploads/sites/25/2019/03/cmt-home-slider2.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[http://demo.woostify.com/cosmetica/wp-content/uploads/sites/25/2019/03/cmt-home-slider2.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2019/03/cmt-home-slider2.jpg]]></wp:meta_value>
@@ -3190,7 +3190,7 @@
 							</item>
 					<item>
 		<title>woocommerce-placeholder</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/cosmetica/woocommerce-placeholder-2-2/</link>
+		<link>http://demo.woostify.com/cosmetica/woocommerce-placeholder-2-2/</link>
 		<pubDate>Thu, 23 May 2019 04:45:27 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/cosmetica/wp-content/uploads/2019/05/woocommerce-placeholder.png</guid>
@@ -3209,7 +3209,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/cosmetica/wp-content/uploads/sites/25/2019/05/woocommerce-placeholder.png]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[http://demo.woostify.com/cosmetica/wp-content/uploads/sites/25/2019/05/woocommerce-placeholder.png]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2019/05/woocommerce-placeholder.png]]></wp:meta_value>
@@ -3233,7 +3233,7 @@
 							</item>
 					<item>
 		<title>woocommerce-placeholder</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/cosmetica/woocommerce-placeholder/</link>
+		<link>http://demo.woostify.com/cosmetica/woocommerce-placeholder/</link>
 		<pubDate>Thu, 22 Oct 2020 04:14:37 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/cosmetica/wp-content/uploads/sites/25/2020/10/woocommerce-placeholder.png</guid>
@@ -3252,7 +3252,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/cosmetica/wp-content/uploads/sites/25/woocommerce-placeholder.png]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[http://demo.woostify.com/cosmetica/wp-content/uploads/sites/25/woocommerce-placeholder.png]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[woocommerce-placeholder.png]]></wp:meta_value>
@@ -3264,7 +3264,7 @@
 							</item>
 					<item>
 		<title></title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/cosmetica/2018/12/28/128/</link>
+		<link>http://demo.woostify.com/cosmetica/2018/12/28/128/</link>
 		<pubDate>Fri, 28 Dec 2018 08:29:54 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/cosmetica/?p=128</guid>
@@ -3335,7 +3335,7 @@
 							</item>
 					<item>
 		<title>Home</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/cosmetica/2018/12/28/home/</link>
+		<link>http://demo.woostify.com/cosmetica/2018/12/28/home/</link>
 		<pubDate>Fri, 28 Dec 2018 08:29:54 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/cosmetica/?p=129</guid>
@@ -3406,7 +3406,7 @@
 							</item>
 					<item>
 		<title>Shoe Finder</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/cosmetica/2019/01/02/sizing-charts/</link>
+		<link>http://demo.woostify.com/cosmetica/2019/01/02/sizing-charts/</link>
 		<pubDate>Wed, 02 Jan 2019 08:04:53 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/cosmetica/?p=165</guid>
@@ -3477,7 +3477,7 @@
 							</item>
 					<item>
 		<title>Bra Findert</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/cosmetica/2019/01/02/guides-expert-advice/</link>
+		<link>http://demo.woostify.com/cosmetica/2019/01/02/guides-expert-advice/</link>
 		<pubDate>Wed, 02 Jan 2019 08:04:53 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/cosmetica/?p=166</guid>
@@ -3548,7 +3548,7 @@
 							</item>
 					<item>
 		<title>Sports Bra Fit Guide</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/cosmetica/2019/01/02/returns/</link>
+		<link>http://demo.woostify.com/cosmetica/2019/01/02/returns/</link>
 		<pubDate>Wed, 02 Jan 2019 08:04:53 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/cosmetica/?p=167</guid>
@@ -3619,7 +3619,7 @@
 							</item>
 					<item>
 		<title>Size Charts</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/cosmetica/2019/01/02/shipping/</link>
+		<link>http://demo.woostify.com/cosmetica/2019/01/02/shipping/</link>
 		<pubDate>Wed, 02 Jan 2019 08:04:53 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/cosmetica/?p=168</guid>
@@ -3690,7 +3690,7 @@
 							</item>
 					<item>
 		<title>About Us</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/cosmetica/2019/01/02/whats-new/</link>
+		<link>http://demo.woostify.com/cosmetica/2019/01/02/whats-new/</link>
 		<pubDate>Wed, 02 Jan 2019 08:07:41 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/cosmetica/?p=171</guid>
@@ -3761,7 +3761,7 @@
 							</item>
 					<item>
 		<title>Product Development</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/cosmetica/2019/01/02/shop-by-brand/</link>
+		<link>http://demo.woostify.com/cosmetica/2019/01/02/shop-by-brand/</link>
 		<pubDate>Wed, 02 Jan 2019 08:07:41 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/cosmetica/?p=172</guid>
@@ -3832,7 +3832,7 @@
 							</item>
 					<item>
 		<title>Social Good</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/cosmetica/2019/01/02/subscribe-to-our-emails/</link>
+		<link>http://demo.woostify.com/cosmetica/2019/01/02/subscribe-to-our-emails/</link>
 		<pubDate>Wed, 02 Jan 2019 08:07:41 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/cosmetica/?p=173</guid>
@@ -3903,7 +3903,7 @@
 							</item>
 					<item>
 		<title>Corporate Responsibility</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/cosmetica/2019/01/02/gift-cards/</link>
+		<link>http://demo.woostify.com/cosmetica/2019/01/02/gift-cards/</link>
 		<pubDate>Wed, 02 Jan 2019 08:07:41 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/cosmetica/?p=174</guid>
@@ -3974,7 +3974,7 @@
 							</item>
 					<item>
 		<title>Careers</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/cosmetica/2019/01/02/why-shop-at-yoganlife/</link>
+		<link>http://demo.woostify.com/cosmetica/2019/01/02/why-shop-at-yoganlife/</link>
 		<pubDate>Wed, 02 Jan 2019 08:07:41 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/cosmetica/?p=175</guid>
@@ -4045,7 +4045,7 @@
 							</item>
 					<item>
 		<title>Simple Subsbrice Form</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/cosmetica/?elementor_library=simple-subsbrice-form</link>
+		<link>http://demo.woostify.com/cosmetica/?elementor_library=simple-subsbrice-form</link>
 		<pubDate>Fri, 04 Jan 2019 02:37:26 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/cosmetica/?elementor_library=simple-subsbrice-form</guid>
@@ -4102,7 +4102,7 @@
 							</item>
 					<item>
 		<title>woostify</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/cosmetica/2019/02/20/woostify/</link>
+		<link>http://demo.woostify.com/cosmetica/2019/02/20/woostify/</link>
 		<pubDate>Wed, 20 Feb 2019 07:20:06 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/cosmetica/woostify/</guid>
@@ -4151,7 +4151,7 @@ footer .elementor-text-editor p a{
 							</item>
 					<item>
 		<title>woocommerce-placeholder</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/cosmetica/woocommerce-placeholder-2-3/</link>
+		<link>http://demo.woostify.com/cosmetica/woocommerce-placeholder-2-3/</link>
 		<pubDate>Wed, 20 Nov 2019 10:05:35 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/pro/cosmetica/wp-content/uploads/sites/9/2019/11/woocommerce-placeholder.png</guid>
@@ -4170,7 +4170,7 @@ footer .elementor-text-editor p a{
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/cosmetica/wp-content/uploads/sites/25/2019/11/woocommerce-placeholder.png]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[http://demo.woostify.com/cosmetica/wp-content/uploads/sites/25/2019/11/woocommerce-placeholder.png]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2019/11/woocommerce-placeholder.png]]></wp:meta_value>
@@ -4190,7 +4190,7 @@ footer .elementor-text-editor p a{
 							</item>
 					<item>
 		<title>woocommerce-placeholder</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/cosmetica/woocommerce-placeholder-2/</link>
+		<link>http://demo.woostify.com/cosmetica/woocommerce-placeholder-2/</link>
 		<pubDate>Tue, 19 May 2020 07:08:05 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://prodemo.woostify.com/cosmetica/wp-content/uploads/sites/7/2020/05/woocommerce-placeholder.png</guid>
@@ -4209,7 +4209,7 @@ footer .elementor-text-editor p a{
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/cosmetica/wp-content/uploads/sites/25/2020/05/woocommerce-placeholder.png]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[http://demo.woostify.com/cosmetica/wp-content/uploads/sites/25/2020/05/woocommerce-placeholder.png]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2020/05/woocommerce-placeholder.png]]></wp:meta_value>
@@ -4225,7 +4225,7 @@ footer .elementor-text-editor p a{
 							</item>
 					<item>
 		<title>custom footer</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/cosmetica/?elementor_library=custom-footer</link>
+		<link>http://demo.woostify.com/cosmetica/?elementor_library=custom-footer</link>
 		<pubDate>Wed, 28 Aug 2019 04:39:35 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/cosmetica/?elementor_library=custom-footer</guid>
@@ -4292,7 +4292,7 @@ footer .elementor-text-editor p a{
 							</item>
 					<item>
 		<title>Footer New</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/cosmetica/header-footer-builder/footer-new/</link>
+		<link>http://demo.woostify.com/cosmetica/header-footer-builder/footer-new/</link>
 		<pubDate>Wed, 28 Aug 2019 04:40:42 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/cosmetica/?post_type=hf_builder&#038;p=833</guid>
@@ -4446,7 +4446,7 @@ footer .elementor-text-editor p a{
 							</item>
 					<item>
 		<title>Default Kit</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/cosmetica/?elementor_library=default-kit</link>
+		<link>http://demo.woostify.com/cosmetica/?elementor_library=default-kit</link>
 		<pubDate>Tue, 19 May 2020 07:14:14 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://prodemo.woostify.com/cosmetica/?elementor_library=default-kit</guid>
@@ -4484,7 +4484,7 @@ footer .elementor-text-editor p a{
 							</item>
 					<item>
 		<title>Default Kit</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/cosmetica/?elementor_library=default-kit-2</link>
+		<link>http://demo.woostify.com/cosmetica/?elementor_library=default-kit-2</link>
 		<pubDate>Thu, 22 Oct 2020 04:21:27 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/cosmetica/?elementor_library=default-kit-2</guid>
@@ -4518,7 +4518,7 @@ footer .elementor-text-editor p a{
 							</item>
 					<item>
 		<title>Women&#039;s Shoe</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/cosmetica/2019/01/02/company-information/</link>
+		<link>http://demo.woostify.com/cosmetica/2019/01/02/company-information/</link>
 		<pubDate>Wed, 02 Jan 2019 08:11:05 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/cosmetica/?p=176</guid>
@@ -4589,7 +4589,7 @@ footer .elementor-text-editor p a{
 							</item>
 					<item>
 		<title>Men&#039;s Shoe</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/cosmetica/2019/01/02/career/</link>
+		<link>http://demo.woostify.com/cosmetica/2019/01/02/career/</link>
 		<pubDate>Wed, 02 Jan 2019 08:11:05 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/cosmetica/?p=177</guid>
@@ -4660,7 +4660,7 @@ footer .elementor-text-editor p a{
 							</item>
 					<item>
 		<title>Kid&#039;s Shoe</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/cosmetica/2019/01/02/testimonials/</link>
+		<link>http://demo.woostify.com/cosmetica/2019/01/02/testimonials/</link>
 		<pubDate>Wed, 02 Jan 2019 08:11:05 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/cosmetica/?p=178</guid>
@@ -4731,7 +4731,7 @@ footer .elementor-text-editor p a{
 							</item>
 					<item>
 		<title>Terms of Use</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/cosmetica/2019/01/03/terms-of-use/</link>
+		<link>http://demo.woostify.com/cosmetica/2019/01/03/terms-of-use/</link>
 		<pubDate>Thu, 03 Jan 2019 03:22:20 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/cosmetica/?p=195</guid>
@@ -4802,7 +4802,7 @@ footer .elementor-text-editor p a{
 							</item>
 					<item>
 		<title>Privacy Policy</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/cosmetica/2019/01/03/privacy-policy/</link>
+		<link>http://demo.woostify.com/cosmetica/2019/01/03/privacy-policy/</link>
 		<pubDate>Thu, 03 Jan 2019 03:22:20 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/cosmetica/?p=196</guid>
@@ -4873,7 +4873,7 @@ footer .elementor-text-editor p a{
 							</item>
 					<item>
 		<title>Accessibility Statement</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/cosmetica/2019/01/03/accessibility-statement/</link>
+		<link>http://demo.woostify.com/cosmetica/2019/01/03/accessibility-statement/</link>
 		<pubDate>Thu, 03 Jan 2019 03:22:20 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/cosmetica/?p=197</guid>
@@ -4944,7 +4944,7 @@ footer .elementor-text-editor p a{
 							</item>
 					<item>
 		<title>Company Information</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/cosmetica/2019/01/03/company-information-2/</link>
+		<link>http://demo.woostify.com/cosmetica/2019/01/03/company-information-2/</link>
 		<pubDate>Thu, 03 Jan 2019 03:22:20 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/cosmetica/?p=198</guid>
@@ -5015,7 +5015,7 @@ footer .elementor-text-editor p a{
 							</item>
 					<item>
 		<title></title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/cosmetica/2019/01/03/260/</link>
+		<link>http://demo.woostify.com/cosmetica/2019/01/03/260/</link>
 		<pubDate>Thu, 03 Jan 2019 10:28:53 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/cosmetica/?p=260</guid>
@@ -5086,7 +5086,7 @@ footer .elementor-text-editor p a{
 							</item>
 					<item>
 		<title></title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/cosmetica/2019/01/03/261/</link>
+		<link>http://demo.woostify.com/cosmetica/2019/01/03/261/</link>
 		<pubDate>Thu, 03 Jan 2019 10:28:53 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/cosmetica/?p=261</guid>
@@ -5157,7 +5157,7 @@ footer .elementor-text-editor p a{
 							</item>
 					<item>
 		<title>Offers</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/cosmetica/2019/02/26/offers/</link>
+		<link>http://demo.woostify.com/cosmetica/2019/02/26/offers/</link>
 		<pubDate>Tue, 26 Feb 2019 02:17:14 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/cosmetica/?p=647</guid>
@@ -5228,7 +5228,7 @@ footer .elementor-text-editor p a{
 							</item>
 					<item>
 		<title>eGift Cards</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/cosmetica/2019/02/26/egift-cards/</link>
+		<link>http://demo.woostify.com/cosmetica/2019/02/26/egift-cards/</link>
 		<pubDate>Tue, 26 Feb 2019 02:17:14 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/cosmetica/?p=648</guid>
@@ -5299,7 +5299,7 @@ footer .elementor-text-editor p a{
 							</item>
 					<item>
 		<title>Press Releases</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/cosmetica/2019/02/26/press-releases/</link>
+		<link>http://demo.woostify.com/cosmetica/2019/02/26/press-releases/</link>
 		<pubDate>Tue, 26 Feb 2019 02:19:56 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/cosmetica/?p=649</guid>
@@ -5370,7 +5370,7 @@ footer .elementor-text-editor p a{
 							</item>
 					<item>
 		<title>Events</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/cosmetica/2019/02/26/events/</link>
+		<link>http://demo.woostify.com/cosmetica/2019/02/26/events/</link>
 		<pubDate>Tue, 26 Feb 2019 02:21:20 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/cosmetica/?p=650</guid>
@@ -5441,7 +5441,7 @@ footer .elementor-text-editor p a{
 							</item>
 					<item>
 		<title>Out Athletes</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/cosmetica/2019/02/26/out-athletes/</link>
+		<link>http://demo.woostify.com/cosmetica/2019/02/26/out-athletes/</link>
 		<pubDate>Tue, 26 Feb 2019 02:21:20 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/cosmetica/?p=651</guid>
@@ -5512,7 +5512,7 @@ footer .elementor-text-editor p a{
 							</item>
 					<item>
 		<title>Inspiring Coaches</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/cosmetica/2019/02/26/inspiring-coaches/</link>
+		<link>http://demo.woostify.com/cosmetica/2019/02/26/inspiring-coaches/</link>
 		<pubDate>Tue, 26 Feb 2019 02:21:20 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/cosmetica/?p=652</guid>
@@ -5583,7 +5583,7 @@ footer .elementor-text-editor p a{
 							</item>
 					<item>
 		<title>Shoebox Pro</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/cosmetica/2019/02/26/shoebox-pro/</link>
+		<link>http://demo.woostify.com/cosmetica/2019/02/26/shoebox-pro/</link>
 		<pubDate>Tue, 26 Feb 2019 02:21:20 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/cosmetica/?p=653</guid>
@@ -5654,7 +5654,7 @@ footer .elementor-text-editor p a{
 							</item>
 					<item>
 		<title>Blog</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/cosmetica/2019/02/26/blog/</link>
+		<link>http://demo.woostify.com/cosmetica/2019/02/26/blog/</link>
 		<pubDate>Tue, 26 Feb 2019 02:21:20 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/cosmetica/?p=654</guid>
@@ -5725,7 +5725,7 @@ footer .elementor-text-editor p a{
 							</item>
 					<item>
 		<title>Catalog</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/cosmetica/2019/02/26/catalog/</link>
+		<link>http://demo.woostify.com/cosmetica/2019/02/26/catalog/</link>
 		<pubDate>Tue, 26 Feb 2019 02:21:20 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/cosmetica/?p=655</guid>
@@ -5796,7 +5796,7 @@ footer .elementor-text-editor p a{
 							</item>
 					<item>
 		<title>Corporate Sales</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/cosmetica/2019/02/26/corporate-sales/</link>
+		<link>http://demo.woostify.com/cosmetica/2019/02/26/corporate-sales/</link>
 		<pubDate>Tue, 26 Feb 2019 02:21:20 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/cosmetica/?p=656</guid>
@@ -5867,7 +5867,7 @@ footer .elementor-text-editor p a{
 							</item>
 					<item>
 		<title></title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/cosmetica/2020/10/22/859/</link>
+		<link>http://demo.woostify.com/cosmetica/2020/10/22/859/</link>
 		<pubDate>Thu, 22 Oct 2020 04:53:34 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/cosmetica/?p=859</guid>
@@ -5922,7 +5922,7 @@ footer .elementor-text-editor p a{
 							</item>
 					<item>
 		<title>Hello world!</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/cosmetica/?p=1</link>
+		<link>http://demo.woostify.com/cosmetica/?p=1</link>
 		<pubDate>Thu, 22 Oct 2020 04:14:28 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/cosmetica/?p=1</guid>
@@ -5961,7 +5961,7 @@ Commenter avatars come from <a href="https://gravatar.com">Gravatar</a>.]]></wp:
 					</item>
 					<item>
 		<title>Shop</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/cosmetica/shop/</link>
+		<link>http://demo.woostify.com/cosmetica/shop/</link>
 		<pubDate>Thu, 22 Oct 2020 04:14:38 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/cosmetica/shop/</guid>
@@ -5983,7 +5983,7 @@ Commenter avatars come from <a href="https://gravatar.com">Gravatar</a>.]]></wp:
 														</item>
 					<item>
 		<title>Cart</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/cosmetica/cart/</link>
+		<link>http://demo.woostify.com/cosmetica/cart/</link>
 		<pubDate>Thu, 22 Oct 2020 04:14:38 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/cosmetica/cart/</guid>
@@ -6005,7 +6005,7 @@ Commenter avatars come from <a href="https://gravatar.com">Gravatar</a>.]]></wp:
 														</item>
 					<item>
 		<title>Checkout</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/cosmetica/checkout/</link>
+		<link>http://demo.woostify.com/cosmetica/checkout/</link>
 		<pubDate>Thu, 22 Oct 2020 04:14:38 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/cosmetica/checkout/</guid>
@@ -6027,7 +6027,7 @@ Commenter avatars come from <a href="https://gravatar.com">Gravatar</a>.]]></wp:
 														</item>
 					<item>
 		<title>My account</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/cosmetica/my-account/</link>
+		<link>http://demo.woostify.com/cosmetica/my-account/</link>
 		<pubDate>Thu, 22 Oct 2020 04:14:38 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/cosmetica/my-account/</guid>
@@ -6049,7 +6049,7 @@ Commenter avatars come from <a href="https://gravatar.com">Gravatar</a>.]]></wp:
 														</item>
 					<item>
 		<title>Woostify</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/cosmetica/</link>
+		<link>http://demo.woostify.com/cosmetica/</link>
 		<pubDate>Tue, 18 Dec 2018 03:58:40 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/cosmetica/?page_id=11</guid>
@@ -6204,7 +6204,7 @@ Collection</strong></h2>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_elementor_data]]></wp:meta_key>
-		<wp:meta_value><![CDATA[[{"id":"5066c91","elType":"section","settings":{"margin":{"unit":"px","top":"0","right":0,"bottom":"0","left":0,"isLinked":false},"stretch_section":"section-stretched","background_background":"classic","background_color":"#e5f9f5"},"elements":[{"id":"500378d","elType":"column","settings":{"_column_size":100},"elements":[{"id":"35b9a39","elType":"widget","settings":{"editor":"<p><strong>Free shipping<\/strong> on all orders over $75.00<\/p>","align":"center","text_color":"#151515","typography_typography":"custom","typography_font_size":{"unit":"px","size":15},"typography_text_transform":"uppercase","_margin":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false},"_padding":{"unit":"px","top":"10","right":"0","bottom":"0","left":"0","isLinked":false}},"elements":[],"widgetType":"text-editor"}],"isInner":false}],"isInner":false},{"id":"e5495a9","elType":"section","settings":{"stretch_section":"section-stretched","layout":"full_width","gap":"no","margin":{"unit":"px","top":"0","right":0,"bottom":"0","left":0,"isLinked":true},"padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true}},"elements":[{"id":"767658e","elType":"column","settings":{"_column_size":100},"elements":[{"id":"fd0c95a","elType":"widget","settings":{"slides":[{"title":"Welcome to Cosmetica","description":"True taste of a girl's beauty","btn1_text":"Shop Now","btn1_link":{"url":"https:\/\/woostify.com\/demos\/pro\/cosmetica\/shop\/"},"background_color":"","background_background":"classic","_id":"5e6b43d","btn2_text":"","btn2_link":{"url":"","is_external":"","nofollow":""},"background_color_stop":{"unit":"%","size":0},"background_color_b":"#f2295b","background_color_b_stop":{"unit":"%","size":100},"background_gradient_type":"linear","background_gradient_angle":{"unit":"deg","size":180},"background_gradient_position":"center center","background_image":{"url":"http:\/\/prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link\/cosmetica\/wp-content\/uploads\/sites\/25\/2019\/03\/cmt-home-slider-1.jpg","id":678},"background_image_tablet":{"url":"","id":""},"background_image_mobile":{"url":"","id":""},"background_position":"","background_position_tablet":"","background_position_mobile":"","background_xpos":{"unit":"px","size":0},"background_xpos_tablet":{"unit":"px","size":0},"background_xpos_mobile":{"unit":"px","size":0},"background_ypos":{"unit":"px","size":0},"background_ypos_tablet":{"unit":"px","size":0},"background_ypos_mobile":{"unit":"px","size":0},"background_attachment":"","background_repeat":"","background_repeat_tablet":"","background_repeat_mobile":"","background_size":"cover","background_size_tablet":"","background_size_mobile":"","background_bg_width":{"unit":"%","size":100},"background_bg_width_tablet":{"unit":"px","size":""},"background_bg_width_mobile":{"unit":"px","size":""},"background_video_link":"","background_video_start":"","background_video_end":"","background_video_fallback":{"url":"","id":""},"custom":"","custom_content_animation":"default","custom_horizontal_pos":"","custom_vertical_pos":"","custom_text_align":"center","custom_horizontal_pos_tablet":"","custom_horizontal_pos_mobile":"","custom_vertical_pos_tablet":"","custom_vertical_pos_mobile":"","custom_text_align_tablet":"","custom_text_align_mobile":"","custom_content_width":{"unit":"px","size":1170,"sizes":[]},"custom_content_width_tablet":{"unit":"px","size":"","sizes":[]},"custom_content_width_mobile":{"unit":"px","size":"","sizes":[]},"background_play_once":"","background_play_on_mobile":"","background_slideshow_gallery":[],"background_slideshow_loop":"yes","background_slideshow_slide_duration":5000,"background_slideshow_slide_transition":"fade","background_slideshow_transition_duration":500,"background_slideshow_ken_burns":"","background_slideshow_ken_burns_zoom_direction":"in","background_slideshow_background_size":"","background_slideshow_background_size_tablet":"","background_slideshow_background_size_mobile":"","background_slideshow_background_position":"","background_slideshow_background_position_tablet":"","background_slideshow_background_position_mobile":""},{"title":"Welcome to Cosmetica","description":"Shine the moments","btn1_text":"Shop Now","btn1_link":{"url":"https:\/\/woostify.com\/demos\/pro\/cosmetica\/shop\/"},"background_color":"","background_background":"classic","_id":"7439751","btn2_text":"","btn2_link":{"url":"","is_external":"","nofollow":""},"background_color_stop":{"unit":"%","size":0},"background_color_b":"#f2295b","background_color_b_stop":{"unit":"%","size":100},"background_gradient_type":"linear","background_gradient_angle":{"unit":"deg","size":180},"background_gradient_position":"center center","background_image":{"url":"http:\/\/prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link\/cosmetica\/wp-content\/uploads\/sites\/25\/2019\/03\/cmt-home-slider2.jpg","id":819},"background_image_tablet":{"url":"","id":""},"background_image_mobile":{"url":"","id":""},"background_position":"","background_position_tablet":"","background_position_mobile":"","background_xpos":{"unit":"px","size":0},"background_xpos_tablet":{"unit":"px","size":0},"background_xpos_mobile":{"unit":"px","size":0},"background_ypos":{"unit":"px","size":0},"background_ypos_tablet":{"unit":"px","size":0},"background_ypos_mobile":{"unit":"px","size":0},"background_attachment":"","background_repeat":"","background_repeat_tablet":"","background_repeat_mobile":"","background_size":"cover","background_size_tablet":"","background_size_mobile":"","background_bg_width":{"unit":"%","size":100},"background_bg_width_tablet":{"unit":"px","size":""},"background_bg_width_mobile":{"unit":"px","size":""},"background_video_link":"","background_video_start":"","background_video_end":"","background_video_fallback":{"url":"","id":""},"custom":"","custom_content_animation":"default","custom_horizontal_pos":"","custom_vertical_pos":"","custom_text_align":"center","custom_horizontal_pos_tablet":"","custom_horizontal_pos_mobile":"","custom_vertical_pos_tablet":"","custom_vertical_pos_mobile":"","custom_text_align_tablet":"","custom_text_align_mobile":"","custom_content_width":{"unit":"px","size":1170,"sizes":[]},"custom_content_width_tablet":{"unit":"px","size":"","sizes":[]},"custom_content_width_mobile":{"unit":"px","size":"","sizes":[]},"background_play_once":"","background_play_on_mobile":"","background_slideshow_gallery":[],"background_slideshow_loop":"yes","background_slideshow_slide_duration":5000,"background_slideshow_slide_transition":"fade","background_slideshow_transition_duration":500,"background_slideshow_ken_burns":"","background_slideshow_ken_burns_zoom_direction":"in","background_slideshow_background_size":"","background_slideshow_background_size_tablet":"","background_slideshow_background_size_mobile":"","background_slideshow_background_position":"","background_slideshow_background_position_tablet":"","background_slideshow_background_position_mobile":""}],"slider_height":{"unit":"px","size":600},"slide_width":{"unit":"%","size":23},"horizontal_pos":"center","vertical_pos":"center","text_align":"center","title_space":{"unit":"px","size":20},"title_typography_typography":"custom","title_typography_font_size":{"unit":"px","size":14},"title_typography_font_weight":"400","title_typography_text_transform":"uppercase","title_typography_letter_spacing":{"unit":"px","size":5},"description_typography_typography":"custom","description_typography_font_family":"Playfair Display","description_typography_font_size":{"unit":"px","size":60},"description_typography_line_height":{"unit":"em","size":1.3},"_margin":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true},"_padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true},"button_border_width":{"unit":"px","size":1},"button_border_radius":{"unit":"px","size":0},"button_padding":{"unit":"px","top":"10","right":"30","bottom":"10","left":"30","isLinked":false},"button_color_hover":"#ffffff","button_bg_color_hover":"#df1760","button_border_color_hover":"#df1760"},"elements":[],"widgetType":"woostify-slider"}],"isInner":false}],"isInner":false},{"id":"5e46f5c","elType":"section","settings":{"stretch_section":"section-stretched","background_background":"classic","background_attachment":"fixed","background_overlay_background":"classic","background_overlay_color":"#df1760","background_overlay_opacity":{"unit":"px","size":0.9},"margin":{"unit":"px","top":"0","right":0,"bottom":"80","left":0,"isLinked":false},"padding":{"unit":"px","top":"80","right":"0","bottom":"70","left":"0","isLinked":false}},"elements":[{"id":"1be0209","elType":"column","settings":{"_column_size":100},"elements":[{"id":"95fc2df","elType":"widget","settings":{"title":"Shop by category","align":"center","title_color":"#ffffff","typography_typography":"custom","typography_font_family":"Open Sans","typography_font_size":{"unit":"px","size":14},"typography_font_weight":"400","typography_text_transform":"uppercase","typography_letter_spacing":{"unit":"px","size":5},"_margin":{"unit":"px","top":"0","right":"0","bottom":"40","left":"0","isLinked":false}},"elements":[],"widgetType":"heading"},{"id":"36076ee","elType":"section","settings":{"structure":"30"},"elements":[{"id":"9e2b2c1","elType":"column","settings":{"_column_size":33,"_inline_size":null},"elements":[{"id":"233059e","elType":"widget","settings":{"text":"Eyes","align":"justify","size":"md","typography_typography":"custom","typography_font_size":{"unit":"px","size":14},"typography_text_transform":"uppercase","typography_letter_spacing":{"unit":"px","size":3},"button_text_color":"#151515","background_color":"#ffffff","border_radius":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true},"hover_color":"#ffffff","button_background_hover_color":"#151515","link":{"url":"https:\/\/woostify.com\/demos\/pro\/cosmetica\/shop\/","is_external":"","nofollow":""}},"elements":[],"widgetType":"button"}],"isInner":true},{"id":"080425b","elType":"column","settings":{"_column_size":33,"_inline_size":null},"elements":[{"id":"6a745fd","elType":"widget","settings":{"text":"Lips","align":"justify","size":"md","typography_typography":"custom","typography_font_size":{"unit":"px","size":14},"typography_text_transform":"uppercase","typography_letter_spacing":{"unit":"px","size":3},"button_text_color":"#151515","background_color":"#ffffff","border_radius":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true},"hover_color":"#ffffff","button_background_hover_color":"#151515","link":{"url":"https:\/\/woostify.com\/demos\/pro\/cosmetica\/shop\/","is_external":"","nofollow":""}},"elements":[],"widgetType":"button"}],"isInner":true},{"id":"ebfb052","elType":"column","settings":{"_column_size":33,"_inline_size":null},"elements":[{"id":"539f324","elType":"widget","settings":{"text":"Face","align":"justify","size":"md","typography_typography":"custom","typography_font_size":{"unit":"px","size":14},"typography_text_transform":"uppercase","typography_letter_spacing":{"unit":"px","size":3},"button_text_color":"#151515","background_color":"#ffffff","border_radius":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true},"hover_color":"#ffffff","button_background_hover_color":"#151515","link":{"url":"https:\/\/woostify.com\/demos\/pro\/cosmetica\/shop\/","is_external":"","nofollow":""}},"elements":[],"widgetType":"button"}],"isInner":true}],"isInner":true},{"id":"42ffb00","elType":"section","settings":{"structure":"30"},"elements":[{"id":"1acef2e","elType":"column","settings":{"_column_size":33,"_inline_size":null},"elements":[{"id":"e3f0cef","elType":"widget","settings":{"text":"Skin care","align":"justify","size":"md","typography_typography":"custom","typography_font_size":{"unit":"px","size":14},"typography_text_transform":"uppercase","typography_letter_spacing":{"unit":"px","size":3},"button_text_color":"#151515","background_color":"#ffffff","border_radius":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true},"hover_color":"#ffffff","button_background_hover_color":"#151515"},"elements":[],"widgetType":"button"}],"isInner":true},{"id":"0898ee9","elType":"column","settings":{"_column_size":33,"_inline_size":null},"elements":[{"id":"a612cba","elType":"widget","settings":{"text":"Brushes","align":"justify","size":"md","typography_typography":"custom","typography_font_size":{"unit":"px","size":14},"typography_text_transform":"uppercase","typography_letter_spacing":{"unit":"px","size":3},"button_text_color":"#151515","background_color":"#ffffff","border_radius":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true},"hover_color":"#ffffff","button_background_hover_color":"#151515","link":{"url":"https:\/\/woostify.com\/demos\/pro\/cosmetica\/shop\/","is_external":"","nofollow":""}},"elements":[],"widgetType":"button"}],"isInner":true},{"id":"ab46c66","elType":"column","settings":{"_column_size":33,"_inline_size":null},"elements":[{"id":"a7ba63d","elType":"widget","settings":{"text":"Tools","align":"justify","size":"md","typography_typography":"custom","typography_font_size":{"unit":"px","size":14},"typography_text_transform":"uppercase","typography_letter_spacing":{"unit":"px","size":3},"button_text_color":"#151515","background_color":"#ffffff","border_radius":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true},"hover_color":"#ffffff","button_background_hover_color":"#151515","link":{"url":"https:\/\/woostify.com\/demos\/pro\/cosmetica\/shop\/","is_external":"","nofollow":""}},"elements":[],"widgetType":"button"}],"isInner":true}],"isInner":true}],"isInner":false}],"isInner":false},{"id":"bcb647b","elType":"section","settings":{"margin":{"unit":"px","top":"0","right":0,"bottom":"30","left":0,"isLinked":false}},"elements":[{"id":"9ed18b9","elType":"column","settings":{"_column_size":100},"elements":[{"id":"825508b","elType":"widget","settings":{"title":"Our Products","align":"center","title_color":"#151515","typography_typography":"custom","typography_font_size":{"unit":"px","size":36},"_margin":{"unit":"px","top":"0","right":"0","bottom":"60","left":"0","isLinked":false}},"elements":[],"widgetType":"heading"},{"id":"8ecd41b","elType":"widget","settings":{"count":4},"elements":[],"widgetType":"woostify-products"}],"isInner":false}],"isInner":false},{"id":"b2b5848","elType":"section","settings":{"stretch_section":"section-stretched","background_background":"classic","background_color":"#151515","margin":{"unit":"px","top":"0","right":0,"bottom":"0","left":0,"isLinked":false},"padding":{"unit":"px","top":"100","right":"0","bottom":"100","left":"0","isLinked":false},"gap":"no","structure":"21"},"elements":[{"id":"7aab360","elType":"column","settings":{"_column_size":33,"_inline_size":34.188},"elements":[{"id":"7448c40","elType":"widget","settings":{"title":"Man Ray\nfor <strong>NARS\nCollection<\/strong>","title_color":"#ffffff","typography_typography":"custom","typography_font_family":"Open Sans","typography_font_size":{"unit":"px","size":30,"sizes":[]},"typography_line_height":{"unit":"em","size":1.3,"sizes":[]},"_element_width":"initial","_element_custom_width":{"unit":"px","size":168},"_position":"absolute","_offset_x":{"size":20,"unit":"%"},"_offset_y":{"size":60,"unit":"px"}},"elements":[],"widgetType":"heading"},{"id":"08de615","elType":"widget","settings":{"text":"Shop Now","link":{"url":"https:\/\/woostify.com\/demos\/pro\/cosmetica\/shop\/","is_external":"","nofollow":""},"align":"center","button_text_color":"#ffffff","background_color":"#c11755","hover_color":"#c11755","button_background_hover_color":"#ffffff","border_radius":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true},"text_padding":{"unit":"px","top":"12","right":"30","bottom":"12","left":"30","isLinked":false},"_element_width":"auto","_position":"absolute","_offset_x":{"size":19.728,"unit":"%"},"_offset_y":{"size":201,"unit":"px"}},"elements":[],"widgetType":"button"},{"id":"fcdff7c","elType":"widget","settings":{"image":{"url":"https:\/\/woostify.com\/demos\/cosmetica\/wp-content\/uploads\/2019\/03\/shop-banner-1.jpg","id":801}},"elements":[],"widgetType":"image"}],"isInner":false},{"id":"1314f59","elType":"column","settings":{"_column_size":66,"_inline_size":65.809,"content_position":"center","align":"center"},"elements":[{"id":"0445566","elType":"section","settings":{"gap":"no","structure":"20"},"elements":[{"id":"06ea283","elType":"column","settings":{"_column_size":50,"_inline_size":null,"background_background":"classic","background_color":"#c11755","padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true},"padding_mobile":{"unit":"px","top":"100","right":"0","bottom":"100","left":"0","isLinked":false}},"elements":[{"id":"341d77e","elType":"widget","settings":{"title":"Best","link":{"url":"https:\/\/woostify.com\/demos\/cosmetica\/shop\/","is_external":"","nofollow":""},"header_size":"span","align":"center","title_color":"#ffffff","typography_typography":"custom","typography_font_family":"Open Sans","typography_font_size":{"unit":"px","size":36,"sizes":[]},"typography_font_weight":"300"},"elements":[],"widgetType":"heading"},{"id":"8f2dea9","elType":"widget","settings":{"title":"Collections","link":{"url":"https:\/\/woostify.com\/demos\/cosmetica\/shop\/","is_external":"","nofollow":""},"align":"center","title_color":"#ffffff","typography_typography":"custom","typography_font_family":"Open Sans","typography_font_size":{"unit":"px","size":36,"sizes":[]},"typography_font_weight":"700"},"elements":[],"widgetType":"heading"},{"id":"f1b0523","elType":"widget","settings":{"title":"2019","link":{"url":"https:\/\/woostify.com\/demos\/cosmetica\/shop\/","is_external":"","nofollow":""},"header_size":"span","align":"center","title_color":"#ffffff","typography_typography":"custom","typography_font_family":"Open Sans","typography_font_size":{"unit":"px","size":36,"sizes":[]},"typography_font_weight":"300"},"elements":[],"widgetType":"heading"}],"isInner":true},{"id":"017bcc0","elType":"column","settings":{"_column_size":50,"_inline_size":null},"elements":[{"id":"f7a93c1","elType":"widget","settings":{"image":{"url":"https:\/\/woostify.com\/demos\/cosmetica\/wp-content\/uploads\/2019\/03\/shop-banner-2.jpg","id":802},"image_size":"full","align":"center"},"elements":[],"widgetType":"image"}],"isInner":true}],"isInner":true},{"id":"2be05fc","elType":"section","settings":{"gap":"no","structure":"20"},"elements":[{"id":"35a27fa","elType":"column","settings":{"_column_size":50,"_inline_size":null},"elements":[{"id":"1fe32d0","elType":"widget","settings":{"image":{"url":"https:\/\/woostify.com\/demos\/cosmetica\/wp-content\/uploads\/2019\/03\/shop-banner-3.jpg","id":803},"image_size":"full"},"elements":[],"widgetType":"image"}],"isInner":true},{"id":"255b316","elType":"column","settings":{"_column_size":50,"_inline_size":null,"background_background":"classic","background_color":"#c11755","padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true},"padding_mobile":{"unit":"px","top":"100","right":"0","bottom":"100","left":"0","isLinked":false}},"elements":[{"id":"219c247","elType":"widget","settings":{"title":"Sale Off","link":{"url":"https:\/\/woostify.com\/demos\/cosmetica\/shop\/","is_external":"","nofollow":""},"header_size":"span","align":"center","title_color":"#ffffff","typography_typography":"custom","typography_font_family":"Open Sans","typography_font_size":{"unit":"px","size":36,"sizes":[]},"typography_font_weight":"300"},"elements":[],"widgetType":"heading"},{"id":"c54e1b8","elType":"widget","settings":{"title":"Clearance","link":{"url":"https:\/\/woostify.com\/demos\/cosmetica\/shop\/","is_external":"","nofollow":""},"align":"center","title_color":"#ffffff","typography_typography":"custom","typography_font_family":"Open Sans","typography_font_size":{"unit":"px","size":36,"sizes":[]},"typography_font_weight":"700"},"elements":[],"widgetType":"heading"},{"id":"73ed9e4","elType":"widget","settings":{"title":"Stock","link":{"url":"https:\/\/woostify.com\/demos\/cosmetica\/shop\/","is_external":"","nofollow":""},"header_size":"span","align":"center","title_color":"#ffffff","typography_typography":"custom","typography_font_family":"Open Sans","typography_font_size":{"unit":"px","size":36,"sizes":[]},"typography_font_weight":"300"},"elements":[],"widgetType":"heading"}],"isInner":true}],"isInner":true}],"isInner":false}],"isInner":false},{"id":"96a9c8d","elType":"section","settings":{"margin":{"unit":"px","top":"0","right":0,"bottom":"30","left":0,"isLinked":false}},"elements":[{"id":"a7d026a","elType":"column","settings":{"_column_size":100},"elements":[{"id":"dcf7ac0","elType":"widget","settings":[],"elements":[],"widgetType":"spacer"},{"id":"43748b2","elType":"widget","settings":{"title":"Latest News","align":"center","title_color":"#151515","typography_typography":"custom","typography_font_size":{"unit":"px","size":36},"_margin":{"unit":"px","top":"0","right":"0","bottom":"60","left":"0","isLinked":false}},"elements":[],"widgetType":"heading"},{"id":"c21d713","elType":"widget","settings":{"image_size":"full","title_alignment":"center","excerpt":"","read_more_text":"Read More","count":3},"elements":[],"widgetType":"woostify-post"}],"isInner":false}],"isInner":false},{"id":"199292a","elType":"section","settings":{"stretch_section":"section-stretched","layout":"full_width","background_background":"classic","background_color":"#f3f3f3","padding":{"unit":"px","top":"80","right":"0","bottom":"80","left":"0","isLinked":false}},"elements":[{"id":"cbbab54","elType":"column","settings":{"_column_size":100},"elements":[{"id":"f080e8c","elType":"widget","settings":{"title":"Follow us via instagram","align":"center","typography_typography":"custom","typography_font_family":"Open Sans","typography_font_size":{"unit":"px","size":14},"typography_font_weight":"400","typography_text_transform":"uppercase","typography_letter_spacing":{"unit":"px","size":8}},"elements":[],"widgetType":"heading"},{"id":"e7c47a6","elType":"widget","settings":{"wp_gallery":[{"id":735,"url":"https:\/\/woostify.com\/demos\/cosmetica\/wp-content\/uploads\/2019\/03\/ins-1.jpg"},{"id":743,"url":"https:\/\/woostify.com\/demos\/cosmetica\/wp-content\/uploads\/2019\/03\/ins-2-1.jpg"},{"id":737,"url":"https:\/\/woostify.com\/demos\/cosmetica\/wp-content\/uploads\/2019\/03\/ins-3.jpg"},{"id":738,"url":"https:\/\/woostify.com\/demos\/cosmetica\/wp-content\/uploads\/2019\/03\/ins-4.jpg"},{"id":739,"url":"https:\/\/woostify.com\/demos\/cosmetica\/wp-content\/uploads\/2019\/03\/ins-5.jpg"},{"id":740,"url":"https:\/\/woostify.com\/demos\/cosmetica\/wp-content\/uploads\/2019\/03\/ins-6.jpg"},{"id":741,"url":"https:\/\/woostify.com\/demos\/cosmetica\/wp-content\/uploads\/2019\/03\/ins-7.jpg"},{"id":745,"url":"https:\/\/woostify.com\/demos\/cosmetica\/wp-content\/uploads\/2019\/03\/ins-8-2.jpg"}],"thumbnail_size":"woocommerce_thumbnail","gallery_columns":"8","image_spacing":"custom","image_spacing_custom":{"unit":"px","size":0},"_margin":{"unit":"px","top":"40","right":"0","bottom":"0","left":"0","isLinked":false}},"elements":[],"widgetType":"image-gallery"},{"id":"8b20441","elType":"widget","settings":{"text":"Follow @cosmetica","align":"center","background_color":"#c11755","border_radius":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true},"_margin":{"unit":"px","top":"40","right":"0","bottom":"0","left":"0","isLinked":false},"hover_color":"#ffffff","button_background_hover_color":"#151515"},"elements":[],"widgetType":"button"}],"isInner":false}],"isInner":false}]]]></wp:meta_value>
+		<wp:meta_value><![CDATA[[{"id":"5066c91","elType":"section","settings":{"margin":{"unit":"px","top":"0","right":0,"bottom":"0","left":0,"isLinked":false},"stretch_section":"section-stretched","background_background":"classic","background_color":"#e5f9f5"},"elements":[{"id":"500378d","elType":"column","settings":{"_column_size":100},"elements":[{"id":"35b9a39","elType":"widget","settings":{"editor":"<p><strong>Free shipping<\/strong> on all orders over $75.00<\/p>","align":"center","text_color":"#151515","typography_typography":"custom","typography_font_size":{"unit":"px","size":15},"typography_text_transform":"uppercase","_margin":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false},"_padding":{"unit":"px","top":"10","right":"0","bottom":"0","left":"0","isLinked":false}},"elements":[],"widgetType":"text-editor"}],"isInner":false}],"isInner":false},{"id":"e5495a9","elType":"section","settings":{"stretch_section":"section-stretched","layout":"full_width","gap":"no","margin":{"unit":"px","top":"0","right":0,"bottom":"0","left":0,"isLinked":true},"padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true}},"elements":[{"id":"767658e","elType":"column","settings":{"_column_size":100},"elements":[{"id":"fd0c95a","elType":"widget","settings":{"slides":[{"title":"Welcome to Cosmetica","description":"True taste of a girl's beauty","btn1_text":"Shop Now","btn1_link":{"url":"https:\/\/woostify.com\/demos\/pro\/cosmetica\/shop\/"},"background_color":"","background_background":"classic","_id":"5e6b43d","btn2_text":"","btn2_link":{"url":"","is_external":"","nofollow":""},"background_color_stop":{"unit":"%","size":0},"background_color_b":"#f2295b","background_color_b_stop":{"unit":"%","size":100},"background_gradient_type":"linear","background_gradient_angle":{"unit":"deg","size":180},"background_gradient_position":"center center","background_image":{"url":"https:\/\/demo.woostify.com\/cosmetica\/wp-content\/uploads\/sites\/25\/2019\/03\/cmt-home-slider-1.jpg","id":678},"background_image_tablet":{"url":"","id":""},"background_image_mobile":{"url":"","id":""},"background_position":"","background_position_tablet":"","background_position_mobile":"","background_xpos":{"unit":"px","size":0},"background_xpos_tablet":{"unit":"px","size":0},"background_xpos_mobile":{"unit":"px","size":0},"background_ypos":{"unit":"px","size":0},"background_ypos_tablet":{"unit":"px","size":0},"background_ypos_mobile":{"unit":"px","size":0},"background_attachment":"","background_repeat":"","background_repeat_tablet":"","background_repeat_mobile":"","background_size":"cover","background_size_tablet":"","background_size_mobile":"","background_bg_width":{"unit":"%","size":100},"background_bg_width_tablet":{"unit":"px","size":""},"background_bg_width_mobile":{"unit":"px","size":""},"background_video_link":"","background_video_start":"","background_video_end":"","background_video_fallback":{"url":"","id":""},"custom":"","custom_content_animation":"default","custom_horizontal_pos":"","custom_vertical_pos":"","custom_text_align":"center","custom_horizontal_pos_tablet":"","custom_horizontal_pos_mobile":"","custom_vertical_pos_tablet":"","custom_vertical_pos_mobile":"","custom_text_align_tablet":"","custom_text_align_mobile":"","custom_content_width":{"unit":"px","size":1170,"sizes":[]},"custom_content_width_tablet":{"unit":"px","size":"","sizes":[]},"custom_content_width_mobile":{"unit":"px","size":"","sizes":[]},"background_play_once":"","background_play_on_mobile":"","background_slideshow_gallery":[],"background_slideshow_loop":"yes","background_slideshow_slide_duration":5000,"background_slideshow_slide_transition":"fade","background_slideshow_transition_duration":500,"background_slideshow_ken_burns":"","background_slideshow_ken_burns_zoom_direction":"in","background_slideshow_background_size":"","background_slideshow_background_size_tablet":"","background_slideshow_background_size_mobile":"","background_slideshow_background_position":"","background_slideshow_background_position_tablet":"","background_slideshow_background_position_mobile":""},{"title":"Welcome to Cosmetica","description":"Shine the moments","btn1_text":"Shop Now","btn1_link":{"url":"https:\/\/woostify.com\/demos\/pro\/cosmetica\/shop\/"},"background_color":"","background_background":"classic","_id":"7439751","btn2_text":"","btn2_link":{"url":"","is_external":"","nofollow":""},"background_color_stop":{"unit":"%","size":0},"background_color_b":"#f2295b","background_color_b_stop":{"unit":"%","size":100},"background_gradient_type":"linear","background_gradient_angle":{"unit":"deg","size":180},"background_gradient_position":"center center","background_image":{"url":"https:\/\/demo.woostify.com\/cosmetica\/wp-content\/uploads\/sites\/25\/2019\/03\/cmt-home-slider2.jpg","id":819},"background_image_tablet":{"url":"","id":""},"background_image_mobile":{"url":"","id":""},"background_position":"","background_position_tablet":"","background_position_mobile":"","background_xpos":{"unit":"px","size":0},"background_xpos_tablet":{"unit":"px","size":0},"background_xpos_mobile":{"unit":"px","size":0},"background_ypos":{"unit":"px","size":0},"background_ypos_tablet":{"unit":"px","size":0},"background_ypos_mobile":{"unit":"px","size":0},"background_attachment":"","background_repeat":"","background_repeat_tablet":"","background_repeat_mobile":"","background_size":"cover","background_size_tablet":"","background_size_mobile":"","background_bg_width":{"unit":"%","size":100},"background_bg_width_tablet":{"unit":"px","size":""},"background_bg_width_mobile":{"unit":"px","size":""},"background_video_link":"","background_video_start":"","background_video_end":"","background_video_fallback":{"url":"","id":""},"custom":"","custom_content_animation":"default","custom_horizontal_pos":"","custom_vertical_pos":"","custom_text_align":"center","custom_horizontal_pos_tablet":"","custom_horizontal_pos_mobile":"","custom_vertical_pos_tablet":"","custom_vertical_pos_mobile":"","custom_text_align_tablet":"","custom_text_align_mobile":"","custom_content_width":{"unit":"px","size":1170,"sizes":[]},"custom_content_width_tablet":{"unit":"px","size":"","sizes":[]},"custom_content_width_mobile":{"unit":"px","size":"","sizes":[]},"background_play_once":"","background_play_on_mobile":"","background_slideshow_gallery":[],"background_slideshow_loop":"yes","background_slideshow_slide_duration":5000,"background_slideshow_slide_transition":"fade","background_slideshow_transition_duration":500,"background_slideshow_ken_burns":"","background_slideshow_ken_burns_zoom_direction":"in","background_slideshow_background_size":"","background_slideshow_background_size_tablet":"","background_slideshow_background_size_mobile":"","background_slideshow_background_position":"","background_slideshow_background_position_tablet":"","background_slideshow_background_position_mobile":""}],"slider_height":{"unit":"px","size":600},"slide_width":{"unit":"%","size":23},"horizontal_pos":"center","vertical_pos":"center","text_align":"center","title_space":{"unit":"px","size":20},"title_typography_typography":"custom","title_typography_font_size":{"unit":"px","size":14},"title_typography_font_weight":"400","title_typography_text_transform":"uppercase","title_typography_letter_spacing":{"unit":"px","size":5},"description_typography_typography":"custom","description_typography_font_family":"Playfair Display","description_typography_font_size":{"unit":"px","size":60},"description_typography_line_height":{"unit":"em","size":1.3},"_margin":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true},"_padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true},"button_border_width":{"unit":"px","size":1},"button_border_radius":{"unit":"px","size":0},"button_padding":{"unit":"px","top":"10","right":"30","bottom":"10","left":"30","isLinked":false},"button_color_hover":"#ffffff","button_bg_color_hover":"#df1760","button_border_color_hover":"#df1760"},"elements":[],"widgetType":"woostify-slider"}],"isInner":false}],"isInner":false},{"id":"5e46f5c","elType":"section","settings":{"stretch_section":"section-stretched","background_background":"classic","background_attachment":"fixed","background_overlay_background":"classic","background_overlay_color":"#df1760","background_overlay_opacity":{"unit":"px","size":0.9},"margin":{"unit":"px","top":"0","right":0,"bottom":"80","left":0,"isLinked":false},"padding":{"unit":"px","top":"80","right":"0","bottom":"70","left":"0","isLinked":false}},"elements":[{"id":"1be0209","elType":"column","settings":{"_column_size":100},"elements":[{"id":"95fc2df","elType":"widget","settings":{"title":"Shop by category","align":"center","title_color":"#ffffff","typography_typography":"custom","typography_font_family":"Open Sans","typography_font_size":{"unit":"px","size":14},"typography_font_weight":"400","typography_text_transform":"uppercase","typography_letter_spacing":{"unit":"px","size":5},"_margin":{"unit":"px","top":"0","right":"0","bottom":"40","left":"0","isLinked":false}},"elements":[],"widgetType":"heading"},{"id":"36076ee","elType":"section","settings":{"structure":"30"},"elements":[{"id":"9e2b2c1","elType":"column","settings":{"_column_size":33,"_inline_size":null},"elements":[{"id":"233059e","elType":"widget","settings":{"text":"Eyes","align":"justify","size":"md","typography_typography":"custom","typography_font_size":{"unit":"px","size":14},"typography_text_transform":"uppercase","typography_letter_spacing":{"unit":"px","size":3},"button_text_color":"#151515","background_color":"#ffffff","border_radius":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true},"hover_color":"#ffffff","button_background_hover_color":"#151515","link":{"url":"https:\/\/woostify.com\/demos\/pro\/cosmetica\/shop\/","is_external":"","nofollow":""}},"elements":[],"widgetType":"button"}],"isInner":true},{"id":"080425b","elType":"column","settings":{"_column_size":33,"_inline_size":null},"elements":[{"id":"6a745fd","elType":"widget","settings":{"text":"Lips","align":"justify","size":"md","typography_typography":"custom","typography_font_size":{"unit":"px","size":14},"typography_text_transform":"uppercase","typography_letter_spacing":{"unit":"px","size":3},"button_text_color":"#151515","background_color":"#ffffff","border_radius":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true},"hover_color":"#ffffff","button_background_hover_color":"#151515","link":{"url":"https:\/\/woostify.com\/demos\/pro\/cosmetica\/shop\/","is_external":"","nofollow":""}},"elements":[],"widgetType":"button"}],"isInner":true},{"id":"ebfb052","elType":"column","settings":{"_column_size":33,"_inline_size":null},"elements":[{"id":"539f324","elType":"widget","settings":{"text":"Face","align":"justify","size":"md","typography_typography":"custom","typography_font_size":{"unit":"px","size":14},"typography_text_transform":"uppercase","typography_letter_spacing":{"unit":"px","size":3},"button_text_color":"#151515","background_color":"#ffffff","border_radius":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true},"hover_color":"#ffffff","button_background_hover_color":"#151515","link":{"url":"https:\/\/woostify.com\/demos\/pro\/cosmetica\/shop\/","is_external":"","nofollow":""}},"elements":[],"widgetType":"button"}],"isInner":true}],"isInner":true},{"id":"42ffb00","elType":"section","settings":{"structure":"30"},"elements":[{"id":"1acef2e","elType":"column","settings":{"_column_size":33,"_inline_size":null},"elements":[{"id":"e3f0cef","elType":"widget","settings":{"text":"Skin care","align":"justify","size":"md","typography_typography":"custom","typography_font_size":{"unit":"px","size":14},"typography_text_transform":"uppercase","typography_letter_spacing":{"unit":"px","size":3},"button_text_color":"#151515","background_color":"#ffffff","border_radius":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true},"hover_color":"#ffffff","button_background_hover_color":"#151515"},"elements":[],"widgetType":"button"}],"isInner":true},{"id":"0898ee9","elType":"column","settings":{"_column_size":33,"_inline_size":null},"elements":[{"id":"a612cba","elType":"widget","settings":{"text":"Brushes","align":"justify","size":"md","typography_typography":"custom","typography_font_size":{"unit":"px","size":14},"typography_text_transform":"uppercase","typography_letter_spacing":{"unit":"px","size":3},"button_text_color":"#151515","background_color":"#ffffff","border_radius":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true},"hover_color":"#ffffff","button_background_hover_color":"#151515","link":{"url":"https:\/\/woostify.com\/demos\/pro\/cosmetica\/shop\/","is_external":"","nofollow":""}},"elements":[],"widgetType":"button"}],"isInner":true},{"id":"ab46c66","elType":"column","settings":{"_column_size":33,"_inline_size":null},"elements":[{"id":"a7ba63d","elType":"widget","settings":{"text":"Tools","align":"justify","size":"md","typography_typography":"custom","typography_font_size":{"unit":"px","size":14},"typography_text_transform":"uppercase","typography_letter_spacing":{"unit":"px","size":3},"button_text_color":"#151515","background_color":"#ffffff","border_radius":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true},"hover_color":"#ffffff","button_background_hover_color":"#151515","link":{"url":"https:\/\/woostify.com\/demos\/pro\/cosmetica\/shop\/","is_external":"","nofollow":""}},"elements":[],"widgetType":"button"}],"isInner":true}],"isInner":true}],"isInner":false}],"isInner":false},{"id":"bcb647b","elType":"section","settings":{"margin":{"unit":"px","top":"0","right":0,"bottom":"30","left":0,"isLinked":false}},"elements":[{"id":"9ed18b9","elType":"column","settings":{"_column_size":100},"elements":[{"id":"825508b","elType":"widget","settings":{"title":"Our Products","align":"center","title_color":"#151515","typography_typography":"custom","typography_font_size":{"unit":"px","size":36},"_margin":{"unit":"px","top":"0","right":"0","bottom":"60","left":"0","isLinked":false}},"elements":[],"widgetType":"heading"},{"id":"8ecd41b","elType":"widget","settings":{"count":4},"elements":[],"widgetType":"woostify-products"}],"isInner":false}],"isInner":false},{"id":"b2b5848","elType":"section","settings":{"stretch_section":"section-stretched","background_background":"classic","background_color":"#151515","margin":{"unit":"px","top":"0","right":0,"bottom":"0","left":0,"isLinked":false},"padding":{"unit":"px","top":"100","right":"0","bottom":"100","left":"0","isLinked":false},"gap":"no","structure":"21"},"elements":[{"id":"7aab360","elType":"column","settings":{"_column_size":33,"_inline_size":34.188},"elements":[{"id":"7448c40","elType":"widget","settings":{"title":"Man Ray\nfor <strong>NARS\nCollection<\/strong>","title_color":"#ffffff","typography_typography":"custom","typography_font_family":"Open Sans","typography_font_size":{"unit":"px","size":30,"sizes":[]},"typography_line_height":{"unit":"em","size":1.3,"sizes":[]},"_element_width":"initial","_element_custom_width":{"unit":"px","size":168},"_position":"absolute","_offset_x":{"size":20,"unit":"%"},"_offset_y":{"size":60,"unit":"px"}},"elements":[],"widgetType":"heading"},{"id":"08de615","elType":"widget","settings":{"text":"Shop Now","link":{"url":"https:\/\/woostify.com\/demos\/pro\/cosmetica\/shop\/","is_external":"","nofollow":""},"align":"center","button_text_color":"#ffffff","background_color":"#c11755","hover_color":"#c11755","button_background_hover_color":"#ffffff","border_radius":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true},"text_padding":{"unit":"px","top":"12","right":"30","bottom":"12","left":"30","isLinked":false},"_element_width":"auto","_position":"absolute","_offset_x":{"size":19.728,"unit":"%"},"_offset_y":{"size":201,"unit":"px"}},"elements":[],"widgetType":"button"},{"id":"fcdff7c","elType":"widget","settings":{"image":{"url":"https:\/\/woostify.com\/demos\/cosmetica\/wp-content\/uploads\/2019\/03\/shop-banner-1.jpg","id":801}},"elements":[],"widgetType":"image"}],"isInner":false},{"id":"1314f59","elType":"column","settings":{"_column_size":66,"_inline_size":65.809,"content_position":"center","align":"center"},"elements":[{"id":"0445566","elType":"section","settings":{"gap":"no","structure":"20"},"elements":[{"id":"06ea283","elType":"column","settings":{"_column_size":50,"_inline_size":null,"background_background":"classic","background_color":"#c11755","padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true},"padding_mobile":{"unit":"px","top":"100","right":"0","bottom":"100","left":"0","isLinked":false}},"elements":[{"id":"341d77e","elType":"widget","settings":{"title":"Best","link":{"url":"https:\/\/woostify.com\/demos\/cosmetica\/shop\/","is_external":"","nofollow":""},"header_size":"span","align":"center","title_color":"#ffffff","typography_typography":"custom","typography_font_family":"Open Sans","typography_font_size":{"unit":"px","size":36,"sizes":[]},"typography_font_weight":"300"},"elements":[],"widgetType":"heading"},{"id":"8f2dea9","elType":"widget","settings":{"title":"Collections","link":{"url":"https:\/\/woostify.com\/demos\/cosmetica\/shop\/","is_external":"","nofollow":""},"align":"center","title_color":"#ffffff","typography_typography":"custom","typography_font_family":"Open Sans","typography_font_size":{"unit":"px","size":36,"sizes":[]},"typography_font_weight":"700"},"elements":[],"widgetType":"heading"},{"id":"f1b0523","elType":"widget","settings":{"title":"2019","link":{"url":"https:\/\/woostify.com\/demos\/cosmetica\/shop\/","is_external":"","nofollow":""},"header_size":"span","align":"center","title_color":"#ffffff","typography_typography":"custom","typography_font_family":"Open Sans","typography_font_size":{"unit":"px","size":36,"sizes":[]},"typography_font_weight":"300"},"elements":[],"widgetType":"heading"}],"isInner":true},{"id":"017bcc0","elType":"column","settings":{"_column_size":50,"_inline_size":null},"elements":[{"id":"f7a93c1","elType":"widget","settings":{"image":{"url":"https:\/\/woostify.com\/demos\/cosmetica\/wp-content\/uploads\/2019\/03\/shop-banner-2.jpg","id":802},"image_size":"full","align":"center"},"elements":[],"widgetType":"image"}],"isInner":true}],"isInner":true},{"id":"2be05fc","elType":"section","settings":{"gap":"no","structure":"20"},"elements":[{"id":"35a27fa","elType":"column","settings":{"_column_size":50,"_inline_size":null},"elements":[{"id":"1fe32d0","elType":"widget","settings":{"image":{"url":"https:\/\/woostify.com\/demos\/cosmetica\/wp-content\/uploads\/2019\/03\/shop-banner-3.jpg","id":803},"image_size":"full"},"elements":[],"widgetType":"image"}],"isInner":true},{"id":"255b316","elType":"column","settings":{"_column_size":50,"_inline_size":null,"background_background":"classic","background_color":"#c11755","padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true},"padding_mobile":{"unit":"px","top":"100","right":"0","bottom":"100","left":"0","isLinked":false}},"elements":[{"id":"219c247","elType":"widget","settings":{"title":"Sale Off","link":{"url":"https:\/\/woostify.com\/demos\/cosmetica\/shop\/","is_external":"","nofollow":""},"header_size":"span","align":"center","title_color":"#ffffff","typography_typography":"custom","typography_font_family":"Open Sans","typography_font_size":{"unit":"px","size":36,"sizes":[]},"typography_font_weight":"300"},"elements":[],"widgetType":"heading"},{"id":"c54e1b8","elType":"widget","settings":{"title":"Clearance","link":{"url":"https:\/\/woostify.com\/demos\/cosmetica\/shop\/","is_external":"","nofollow":""},"align":"center","title_color":"#ffffff","typography_typography":"custom","typography_font_family":"Open Sans","typography_font_size":{"unit":"px","size":36,"sizes":[]},"typography_font_weight":"700"},"elements":[],"widgetType":"heading"},{"id":"73ed9e4","elType":"widget","settings":{"title":"Stock","link":{"url":"https:\/\/woostify.com\/demos\/cosmetica\/shop\/","is_external":"","nofollow":""},"header_size":"span","align":"center","title_color":"#ffffff","typography_typography":"custom","typography_font_family":"Open Sans","typography_font_size":{"unit":"px","size":36,"sizes":[]},"typography_font_weight":"300"},"elements":[],"widgetType":"heading"}],"isInner":true}],"isInner":true}],"isInner":false}],"isInner":false},{"id":"96a9c8d","elType":"section","settings":{"margin":{"unit":"px","top":"0","right":0,"bottom":"30","left":0,"isLinked":false}},"elements":[{"id":"a7d026a","elType":"column","settings":{"_column_size":100},"elements":[{"id":"dcf7ac0","elType":"widget","settings":[],"elements":[],"widgetType":"spacer"},{"id":"43748b2","elType":"widget","settings":{"title":"Latest News","align":"center","title_color":"#151515","typography_typography":"custom","typography_font_size":{"unit":"px","size":36},"_margin":{"unit":"px","top":"0","right":"0","bottom":"60","left":"0","isLinked":false}},"elements":[],"widgetType":"heading"},{"id":"c21d713","elType":"widget","settings":{"image_size":"full","title_alignment":"center","excerpt":"","read_more_text":"Read More","count":3},"elements":[],"widgetType":"woostify-post"}],"isInner":false}],"isInner":false},{"id":"199292a","elType":"section","settings":{"stretch_section":"section-stretched","layout":"full_width","background_background":"classic","background_color":"#f3f3f3","padding":{"unit":"px","top":"80","right":"0","bottom":"80","left":"0","isLinked":false}},"elements":[{"id":"cbbab54","elType":"column","settings":{"_column_size":100},"elements":[{"id":"f080e8c","elType":"widget","settings":{"title":"Follow us via instagram","align":"center","typography_typography":"custom","typography_font_family":"Open Sans","typography_font_size":{"unit":"px","size":14},"typography_font_weight":"400","typography_text_transform":"uppercase","typography_letter_spacing":{"unit":"px","size":8}},"elements":[],"widgetType":"heading"},{"id":"e7c47a6","elType":"widget","settings":{"wp_gallery":[{"id":735,"url":"https:\/\/woostify.com\/demos\/cosmetica\/wp-content\/uploads\/2019\/03\/ins-1.jpg"},{"id":743,"url":"https:\/\/woostify.com\/demos\/cosmetica\/wp-content\/uploads\/2019\/03\/ins-2-1.jpg"},{"id":737,"url":"https:\/\/woostify.com\/demos\/cosmetica\/wp-content\/uploads\/2019\/03\/ins-3.jpg"},{"id":738,"url":"https:\/\/woostify.com\/demos\/cosmetica\/wp-content\/uploads\/2019\/03\/ins-4.jpg"},{"id":739,"url":"https:\/\/woostify.com\/demos\/cosmetica\/wp-content\/uploads\/2019\/03\/ins-5.jpg"},{"id":740,"url":"https:\/\/woostify.com\/demos\/cosmetica\/wp-content\/uploads\/2019\/03\/ins-6.jpg"},{"id":741,"url":"https:\/\/woostify.com\/demos\/cosmetica\/wp-content\/uploads\/2019\/03\/ins-7.jpg"},{"id":745,"url":"https:\/\/woostify.com\/demos\/cosmetica\/wp-content\/uploads\/2019\/03\/ins-8-2.jpg"}],"thumbnail_size":"woocommerce_thumbnail","gallery_columns":"8","image_spacing":"custom","image_spacing_custom":{"unit":"px","size":0},"_margin":{"unit":"px","top":"40","right":"0","bottom":"0","left":"0","isLinked":false}},"elements":[],"widgetType":"image-gallery"},{"id":"8b20441","elType":"widget","settings":{"text":"Follow @cosmetica","align":"center","background_color":"#c11755","border_radius":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true},"_margin":{"unit":"px","top":"40","right":"0","bottom":"0","left":"0","isLinked":false},"hover_color":"#ffffff","button_background_hover_color":"#151515"},"elements":[],"widgetType":"button"}],"isInner":false}],"isInner":false}]]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_elementor_version]]></wp:meta_key>
@@ -6225,7 +6225,7 @@ Collection</strong></h2>
 							</item>
 					<item>
 		<title>Blog</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/cosmetica/blog/</link>
+		<link>http://demo.woostify.com/cosmetica/blog/</link>
 		<pubDate>Tue, 18 Dec 2018 03:59:01 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/cosmetica/?page_id=13</guid>
@@ -6271,7 +6271,7 @@ Collection</strong></h2>
 							</item>
 					<item>
 		<title>Future Tones</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/cosmetica/2019/01/02/younlife-at-the-groove-come-and-say-hey/</link>
+		<link>http://demo.woostify.com/cosmetica/2019/01/02/younlife-at-the-groove-come-and-say-hey/</link>
 		<pubDate>Wed, 02 Jan 2019 04:47:52 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/cosmetica/?p=156</guid>
@@ -6404,7 +6404,7 @@ I’ve arrived on time to every lesson I’ve had to teach this year, bar one.&n
 							</item>
 					<item>
 		<title>Our best beauty buys</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/cosmetica/2019/01/02/how-to-reuse-your-old-tees/</link>
+		<link>http://demo.woostify.com/cosmetica/2019/01/02/how-to-reuse-your-old-tees/</link>
 		<pubDate>Wed, 02 Jan 2019 04:49:07 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/cosmetica/?p=158</guid>
@@ -6540,7 +6540,7 @@ I’ve arrived on time to every lesson I’ve had to teach this year, bar one.&n
 							</item>
 					<item>
 		<title>New face of beauty and fashion</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/cosmetica/2019/01/02/how-i-became-young-and-fit-once-again/</link>
+		<link>http://demo.woostify.com/cosmetica/2019/01/02/how-i-became-young-and-fit-once-again/</link>
 		<pubDate>Wed, 02 Jan 2019 04:51:20 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/cosmetica/?p=162</guid>
@@ -6672,7 +6672,7 @@ I’ve arrived on time to every lesson I’ve had to teach this year, bar one.&n
 							</item>
 					<item>
 		<title>About</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/cosmetica/about/</link>
+		<link>http://demo.woostify.com/cosmetica/about/</link>
 		<pubDate>Thu, 03 Jan 2019 03:25:35 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/cosmetica/?page_id=199</guid>
@@ -6735,7 +6735,7 @@ I’ve arrived on time to every lesson I’ve had to teach this year, bar one.&n
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_elementor_data]]></wp:meta_key>
-		<wp:meta_value><![CDATA[[{"id":"8b05544","elType":"section","settings":{"stretch_section":"section-stretched","background_background":"classic","background_image":{"url":"http:\/\/prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link\/cosmetica\/wp-content\/uploads\/sites\/25\/2019\/03\/cmt-about-1.jpg","id":697},"background_position":"bottom center","background_repeat":"no-repeat","margin":{"unit":"px","top":"80","right":0,"bottom":"0","left":0,"isLinked":false},"padding":{"unit":"px","top":"0","right":"0","bottom":"360","left":"0","isLinked":false}},"elements":[{"id":"5300d13","elType":"column","settings":{"_column_size":100},"elements":[{"id":"da05e02","elType":"widget","settings":{"title":"Beauty Since 2008","align":"center","title_color":"#151515","typography_typography":"custom","typography_font_size":{"unit":"px","size":36},"_margin":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false}},"elements":[],"widgetType":"heading"},{"id":"b92e6d4","elType":"section","settings":{"structure":"30","margin":{"unit":"px","top":"50","right":0,"bottom":"0","left":0,"isLinked":false}},"elements":[{"id":"7a2188f","elType":"column","settings":{"_column_size":33,"_inline_size":18},"elements":[],"isInner":true},{"id":"e06e97a","elType":"column","settings":{"_column_size":33,"_inline_size":63.333},"elements":[{"id":"22e2569","elType":"widget","settings":{"editor":"<p>Sed iaculis tortor magna, at tincidunt mi imperdiet in. Cras semper massa blandit quam varius, tincidunt imperdiet tellus accumsan. Vestibulum sagittis justo leo, bibendum ullamcorper arcu bibendum vitae. Integer convallis neque imperdiet orci consequat consequat. Phasellus at feugiat diam. Etiam eu velit cursus, tempor ipsum in, tempus lectus. Nullam tempus nisi id nisl luctus, non tempor justo molestie.<\/p>","align":"center","text_color":"#151515","typography_typography":"custom","typography_font_size":{"unit":"px","size":18},"typography_font_weight":"300","typography_line_height":{"unit":"em","size":2}},"elements":[],"widgetType":"text-editor"}],"isInner":true},{"id":"13bbba4","elType":"column","settings":{"_column_size":33,"_inline_size":18},"elements":[],"isInner":true}],"isInner":true}],"isInner":false}],"isInner":false},{"id":"7e9489a","elType":"section","settings":{"stretch_section":"section-stretched","background_background":"classic","background_color":"#e5dfdc","padding":{"unit":"px","top":"40","right":"0","bottom":"50","left":"0","isLinked":false}},"elements":[{"id":"273761c","elType":"column","settings":{"_column_size":100},"elements":[{"id":"5bd129c","elType":"section","settings":{"structure":"40"},"elements":[{"id":"488fe62","elType":"column","settings":{"_column_size":25,"_inline_size":null},"elements":[{"id":"081a6d0","elType":"widget","settings":{"ending_number":582,"title":"Satisfied Clients","number_color":"#151515","typography_number_typography":"custom","typography_number_font_family":"Open Sans","typography_number_font_size":{"unit":"px","size":60},"typography_number_font_weight":"300","title_color":"#151515","typography_title_typography":"custom","typography_title_font_family":"Playfair Display","typography_title_font_size":{"unit":"px","size":18}},"elements":[],"widgetType":"counter"}],"isInner":true},{"id":"8d2694d","elType":"column","settings":{"_column_size":25,"_inline_size":null},"elements":[{"id":"272b007","elType":"widget","settings":{"ending_number":349,"title":"Quality Products","number_color":"#151515","typography_number_typography":"custom","typography_number_font_family":"Open Sans","typography_number_font_size":{"unit":"px","size":60},"typography_number_font_weight":"300","title_color":"#151515","typography_title_typography":"custom","typography_title_font_family":"Playfair Display","typography_title_font_size":{"unit":"px","size":18}},"elements":[],"widgetType":"counter"}],"isInner":true},{"id":"70984fe","elType":"column","settings":{"_column_size":25,"_inline_size":null},"elements":[{"id":"a05f78e","elType":"widget","settings":{"ending_number":710,"title":"Mentioned Media","number_color":"#151515","typography_number_typography":"custom","typography_number_font_family":"Open Sans","typography_number_font_size":{"unit":"px","size":60},"typography_number_font_weight":"300","title_color":"#151515","typography_title_typography":"custom","typography_title_font_family":"Playfair Display","typography_title_font_size":{"unit":"px","size":18}},"elements":[],"widgetType":"counter"}],"isInner":true},{"id":"f750bc9","elType":"column","settings":{"_column_size":25,"_inline_size":null},"elements":[{"id":"1dd8509","elType":"widget","settings":{"ending_number":146,"title":"Received Awards","number_color":"#151515","typography_number_typography":"custom","typography_number_font_family":"Open Sans","typography_number_font_size":{"unit":"px","size":60},"typography_number_font_weight":"300","title_color":"#151515","typography_title_typography":"custom","typography_title_font_family":"Playfair Display","typography_title_font_size":{"unit":"px","size":18}},"elements":[],"widgetType":"counter"}],"isInner":true}],"isInner":true}],"isInner":false}],"isInner":false},{"id":"341020e","elType":"section","settings":{"margin":{"unit":"px","top":"80","right":0,"bottom":"0","left":0,"isLinked":false}},"elements":[{"id":"ef16f80","elType":"column","settings":{"_column_size":100},"elements":[{"id":"2e171c9","elType":"widget","settings":{"title":"Meet Our Team","align":"center","title_color":"#151515","typography_typography":"custom","typography_font_size":{"unit":"px","size":36},"_margin":{"unit":"px","top":"0","right":"0","bottom":"40","left":"0","isLinked":false}},"elements":[],"widgetType":"heading"}],"isInner":false}],"isInner":false},{"id":"1a769ed","elType":"section","settings":{"structure":"40","margin":{"unit":"px","top":"0","right":0,"bottom":"0100","left":0,"isLinked":false}},"elements":[{"id":"5f05be4","elType":"column","settings":{"_column_size":25,"_inline_size":null},"elements":[{"id":"8888141","elType":"widget","settings":{"image":{"url":"https:\/\/woostify.com\/demos\/cosmetica\/wp-content\/uploads\/2019\/03\/cmt-about-2.jpg","id":701},"_margin":{"unit":"px","top":"0","right":"0","bottom":"20","left":"0","isLinked":false}},"elements":[],"widgetType":"image"},{"id":"8edccfc","elType":"widget","settings":{"title":"Kelly Morgan","align":"center","title_color":"#151515","typography_typography":"custom","typography_font_size":{"unit":"px","size":18}},"elements":[],"widgetType":"heading"},{"id":"0a2b6d8","elType":"widget","settings":{"editor":"<p>Makeup Artist<\/p>","align":"center"},"elements":[],"widgetType":"text-editor"}],"isInner":false},{"id":"f05d7d7","elType":"column","settings":{"_column_size":25,"_inline_size":null},"elements":[{"id":"fdf760e","elType":"widget","settings":{"image":{"url":"https:\/\/woostify.com\/demos\/cosmetica\/wp-content\/uploads\/2019\/03\/cmt-about-3.jpg","id":702},"_margin":{"unit":"px","top":"0","right":"0","bottom":"20","left":"0","isLinked":false},"_padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true}},"elements":[],"widgetType":"image"},{"id":"2098015","elType":"widget","settings":{"title":"Kelly Morgan","align":"center","title_color":"#151515","typography_typography":"custom","typography_font_size":{"unit":"px","size":18}},"elements":[],"widgetType":"heading"},{"id":"b048447","elType":"widget","settings":{"editor":"<p>Makeup Artist<\/p>","align":"center"},"elements":[],"widgetType":"text-editor"}],"isInner":false},{"id":"6bed8cc","elType":"column","settings":{"_column_size":25,"_inline_size":null},"elements":[{"id":"8389349","elType":"widget","settings":{"image":{"url":"https:\/\/woostify.com\/demos\/cosmetica\/wp-content\/uploads\/2019\/03\/cmt-about-4.jpg","id":703},"_margin":{"unit":"px","top":"0","right":"0","bottom":"20","left":"0","isLinked":false},"_padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true}},"elements":[],"widgetType":"image"},{"id":"f64722c","elType":"widget","settings":{"title":"Kelly Morgan","align":"center","title_color":"#151515","typography_typography":"custom","typography_font_size":{"unit":"px","size":18}},"elements":[],"widgetType":"heading"},{"id":"29cc46a","elType":"widget","settings":{"editor":"<p>Makeup Artist<\/p>","align":"center"},"elements":[],"widgetType":"text-editor"}],"isInner":false},{"id":"ccca655","elType":"column","settings":{"_column_size":25,"_inline_size":null},"elements":[{"id":"d4aae06","elType":"widget","settings":{"image":{"url":"https:\/\/woostify.com\/demos\/cosmetica\/wp-content\/uploads\/2019\/03\/cmt-about-5.jpg","id":704},"_margin":{"unit":"px","top":"0","right":"0","bottom":"20","left":"0","isLinked":false}},"elements":[],"widgetType":"image"},{"id":"cdd4eee","elType":"widget","settings":{"title":"Kelly Morgan","align":"center","title_color":"#151515","typography_typography":"custom","typography_font_size":{"unit":"px","size":18}},"elements":[],"widgetType":"heading"},{"id":"4d9174f","elType":"widget","settings":{"editor":"<p>Makeup Artist<\/p>","align":"center"},"elements":[],"widgetType":"text-editor"}],"isInner":false}],"isInner":false}]]]></wp:meta_value>
+		<wp:meta_value><![CDATA[[{"id":"8b05544","elType":"section","settings":{"stretch_section":"section-stretched","background_background":"classic","background_image":{"url":"https:\/\/demo.woostify.com\/cosmetica\/wp-content\/uploads\/sites\/25\/2019\/03\/cmt-about-1.jpg","id":697},"background_position":"bottom center","background_repeat":"no-repeat","margin":{"unit":"px","top":"80","right":0,"bottom":"0","left":0,"isLinked":false},"padding":{"unit":"px","top":"0","right":"0","bottom":"360","left":"0","isLinked":false}},"elements":[{"id":"5300d13","elType":"column","settings":{"_column_size":100},"elements":[{"id":"da05e02","elType":"widget","settings":{"title":"Beauty Since 2008","align":"center","title_color":"#151515","typography_typography":"custom","typography_font_size":{"unit":"px","size":36},"_margin":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false}},"elements":[],"widgetType":"heading"},{"id":"b92e6d4","elType":"section","settings":{"structure":"30","margin":{"unit":"px","top":"50","right":0,"bottom":"0","left":0,"isLinked":false}},"elements":[{"id":"7a2188f","elType":"column","settings":{"_column_size":33,"_inline_size":18},"elements":[],"isInner":true},{"id":"e06e97a","elType":"column","settings":{"_column_size":33,"_inline_size":63.333},"elements":[{"id":"22e2569","elType":"widget","settings":{"editor":"<p>Sed iaculis tortor magna, at tincidunt mi imperdiet in. Cras semper massa blandit quam varius, tincidunt imperdiet tellus accumsan. Vestibulum sagittis justo leo, bibendum ullamcorper arcu bibendum vitae. Integer convallis neque imperdiet orci consequat consequat. Phasellus at feugiat diam. Etiam eu velit cursus, tempor ipsum in, tempus lectus. Nullam tempus nisi id nisl luctus, non tempor justo molestie.<\/p>","align":"center","text_color":"#151515","typography_typography":"custom","typography_font_size":{"unit":"px","size":18},"typography_font_weight":"300","typography_line_height":{"unit":"em","size":2}},"elements":[],"widgetType":"text-editor"}],"isInner":true},{"id":"13bbba4","elType":"column","settings":{"_column_size":33,"_inline_size":18},"elements":[],"isInner":true}],"isInner":true}],"isInner":false}],"isInner":false},{"id":"7e9489a","elType":"section","settings":{"stretch_section":"section-stretched","background_background":"classic","background_color":"#e5dfdc","padding":{"unit":"px","top":"40","right":"0","bottom":"50","left":"0","isLinked":false}},"elements":[{"id":"273761c","elType":"column","settings":{"_column_size":100},"elements":[{"id":"5bd129c","elType":"section","settings":{"structure":"40"},"elements":[{"id":"488fe62","elType":"column","settings":{"_column_size":25,"_inline_size":null},"elements":[{"id":"081a6d0","elType":"widget","settings":{"ending_number":582,"title":"Satisfied Clients","number_color":"#151515","typography_number_typography":"custom","typography_number_font_family":"Open Sans","typography_number_font_size":{"unit":"px","size":60},"typography_number_font_weight":"300","title_color":"#151515","typography_title_typography":"custom","typography_title_font_family":"Playfair Display","typography_title_font_size":{"unit":"px","size":18}},"elements":[],"widgetType":"counter"}],"isInner":true},{"id":"8d2694d","elType":"column","settings":{"_column_size":25,"_inline_size":null},"elements":[{"id":"272b007","elType":"widget","settings":{"ending_number":349,"title":"Quality Products","number_color":"#151515","typography_number_typography":"custom","typography_number_font_family":"Open Sans","typography_number_font_size":{"unit":"px","size":60},"typography_number_font_weight":"300","title_color":"#151515","typography_title_typography":"custom","typography_title_font_family":"Playfair Display","typography_title_font_size":{"unit":"px","size":18}},"elements":[],"widgetType":"counter"}],"isInner":true},{"id":"70984fe","elType":"column","settings":{"_column_size":25,"_inline_size":null},"elements":[{"id":"a05f78e","elType":"widget","settings":{"ending_number":710,"title":"Mentioned Media","number_color":"#151515","typography_number_typography":"custom","typography_number_font_family":"Open Sans","typography_number_font_size":{"unit":"px","size":60},"typography_number_font_weight":"300","title_color":"#151515","typography_title_typography":"custom","typography_title_font_family":"Playfair Display","typography_title_font_size":{"unit":"px","size":18}},"elements":[],"widgetType":"counter"}],"isInner":true},{"id":"f750bc9","elType":"column","settings":{"_column_size":25,"_inline_size":null},"elements":[{"id":"1dd8509","elType":"widget","settings":{"ending_number":146,"title":"Received Awards","number_color":"#151515","typography_number_typography":"custom","typography_number_font_family":"Open Sans","typography_number_font_size":{"unit":"px","size":60},"typography_number_font_weight":"300","title_color":"#151515","typography_title_typography":"custom","typography_title_font_family":"Playfair Display","typography_title_font_size":{"unit":"px","size":18}},"elements":[],"widgetType":"counter"}],"isInner":true}],"isInner":true}],"isInner":false}],"isInner":false},{"id":"341020e","elType":"section","settings":{"margin":{"unit":"px","top":"80","right":0,"bottom":"0","left":0,"isLinked":false}},"elements":[{"id":"ef16f80","elType":"column","settings":{"_column_size":100},"elements":[{"id":"2e171c9","elType":"widget","settings":{"title":"Meet Our Team","align":"center","title_color":"#151515","typography_typography":"custom","typography_font_size":{"unit":"px","size":36},"_margin":{"unit":"px","top":"0","right":"0","bottom":"40","left":"0","isLinked":false}},"elements":[],"widgetType":"heading"}],"isInner":false}],"isInner":false},{"id":"1a769ed","elType":"section","settings":{"structure":"40","margin":{"unit":"px","top":"0","right":0,"bottom":"0100","left":0,"isLinked":false}},"elements":[{"id":"5f05be4","elType":"column","settings":{"_column_size":25,"_inline_size":null},"elements":[{"id":"8888141","elType":"widget","settings":{"image":{"url":"https:\/\/woostify.com\/demos\/cosmetica\/wp-content\/uploads\/2019\/03\/cmt-about-2.jpg","id":701},"_margin":{"unit":"px","top":"0","right":"0","bottom":"20","left":"0","isLinked":false}},"elements":[],"widgetType":"image"},{"id":"8edccfc","elType":"widget","settings":{"title":"Kelly Morgan","align":"center","title_color":"#151515","typography_typography":"custom","typography_font_size":{"unit":"px","size":18}},"elements":[],"widgetType":"heading"},{"id":"0a2b6d8","elType":"widget","settings":{"editor":"<p>Makeup Artist<\/p>","align":"center"},"elements":[],"widgetType":"text-editor"}],"isInner":false},{"id":"f05d7d7","elType":"column","settings":{"_column_size":25,"_inline_size":null},"elements":[{"id":"fdf760e","elType":"widget","settings":{"image":{"url":"https:\/\/woostify.com\/demos\/cosmetica\/wp-content\/uploads\/2019\/03\/cmt-about-3.jpg","id":702},"_margin":{"unit":"px","top":"0","right":"0","bottom":"20","left":"0","isLinked":false},"_padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true}},"elements":[],"widgetType":"image"},{"id":"2098015","elType":"widget","settings":{"title":"Kelly Morgan","align":"center","title_color":"#151515","typography_typography":"custom","typography_font_size":{"unit":"px","size":18}},"elements":[],"widgetType":"heading"},{"id":"b048447","elType":"widget","settings":{"editor":"<p>Makeup Artist<\/p>","align":"center"},"elements":[],"widgetType":"text-editor"}],"isInner":false},{"id":"6bed8cc","elType":"column","settings":{"_column_size":25,"_inline_size":null},"elements":[{"id":"8389349","elType":"widget","settings":{"image":{"url":"https:\/\/woostify.com\/demos\/cosmetica\/wp-content\/uploads\/2019\/03\/cmt-about-4.jpg","id":703},"_margin":{"unit":"px","top":"0","right":"0","bottom":"20","left":"0","isLinked":false},"_padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true}},"elements":[],"widgetType":"image"},{"id":"f64722c","elType":"widget","settings":{"title":"Kelly Morgan","align":"center","title_color":"#151515","typography_typography":"custom","typography_font_size":{"unit":"px","size":18}},"elements":[],"widgetType":"heading"},{"id":"29cc46a","elType":"widget","settings":{"editor":"<p>Makeup Artist<\/p>","align":"center"},"elements":[],"widgetType":"text-editor"}],"isInner":false},{"id":"ccca655","elType":"column","settings":{"_column_size":25,"_inline_size":null},"elements":[{"id":"d4aae06","elType":"widget","settings":{"image":{"url":"https:\/\/woostify.com\/demos\/cosmetica\/wp-content\/uploads\/2019\/03\/cmt-about-5.jpg","id":704},"_margin":{"unit":"px","top":"0","right":"0","bottom":"20","left":"0","isLinked":false}},"elements":[],"widgetType":"image"},{"id":"cdd4eee","elType":"widget","settings":{"title":"Kelly Morgan","align":"center","title_color":"#151515","typography_typography":"custom","typography_font_size":{"unit":"px","size":18}},"elements":[],"widgetType":"heading"},{"id":"4d9174f","elType":"widget","settings":{"editor":"<p>Makeup Artist<\/p>","align":"center"},"elements":[],"widgetType":"text-editor"}],"isInner":false}],"isInner":false}]]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_elementor_version]]></wp:meta_key>
@@ -6748,7 +6748,7 @@ I’ve arrived on time to every lesson I’ve had to teach this year, bar one.&n
 							</item>
 					<item>
 		<title>Contact Us</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/cosmetica/contact-us/</link>
+		<link>http://demo.woostify.com/cosmetica/contact-us/</link>
 		<pubDate>Thu, 03 Jan 2019 03:25:53 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/cosmetica/?page_id=201</guid>
@@ -6816,7 +6816,7 @@ I’ve arrived on time to every lesson I’ve had to teach this year, bar one.&n
 							</item>
 					<item>
 		<title>Wishlist</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/cosmetica/wishlist/</link>
+		<link>http://demo.woostify.com/cosmetica/wishlist/</link>
 		<pubDate>Fri, 18 Jan 2019 03:40:52 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/cosmetica/?page_id=375</guid>
@@ -6872,7 +6872,7 @@ I’ve arrived on time to every lesson I’ve had to teach this year, bar one.&n
 							</item>
 					<item>
 		<title>Shampoo Nature: Free sample</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/cosmetica/2019/01/28/winter-is-coming/</link>
+		<link>http://demo.woostify.com/cosmetica/2019/01/28/winter-is-coming/</link>
 		<pubDate>Mon, 28 Jan 2019 04:07:47 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/cosmetica/?p=543</guid>
@@ -7004,7 +7004,7 @@ I’ve arrived on time to every lesson I’ve had to teach this year, bar one.&n
 							</item>
 					<item>
 		<title>RevitaLash Eyelash Conditioner</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/cosmetica/product/revitalash-eyelash-conditioner/</link>
+		<link>http://demo.woostify.com/cosmetica/product/revitalash-eyelash-conditioner/</link>
 		<pubDate>Thu, 21 Mar 2019 02:47:51 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/cosmetica/?post_type=product&#038;p=711</guid>
@@ -7179,7 +7179,7 @@ I’ve arrived on time to every lesson I’ve had to teach this year, bar one.&n
 							</item>
 					<item>
 		<title>Hello world!</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/cosmetica/?p=835</link>
+		<link>http://demo.woostify.com/cosmetica/?p=835</link>
 		<pubDate>Wed, 20 Nov 2019 10:04:46 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/pro/cosmetica/?p=1</guid>
@@ -7226,7 +7226,7 @@ Commenter avatars come from <a href=\"https://gravatar.com\" rel=\"nofollow ugc\
 					</item>
 					<item>
 		<title>Hello world!</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/cosmetica/?p=841</link>
+		<link>http://demo.woostify.com/cosmetica/?p=841</link>
 		<pubDate>Tue, 19 May 2020 07:07:49 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://prodemo.woostify.com/cosmetica/?p=1</guid>
@@ -7269,7 +7269,7 @@ Commenter avatars come from <a href=\"https://gravatar.com\" rel=\"nofollow ugc\
 					</item>
 					<item>
 		<title></title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/cosmetica/2020/10/22/860/</link>
+		<link>http://demo.woostify.com/cosmetica/2020/10/22/860/</link>
 		<pubDate>Thu, 22 Oct 2020 04:53:34 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/cosmetica/?p=860</guid>
@@ -7324,7 +7324,7 @@ Commenter avatars come from <a href=\"https://gravatar.com\" rel=\"nofollow ugc\
 							</item>
 					<item>
 		<title></title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/cosmetica/2020/10/22/861/</link>
+		<link>http://demo.woostify.com/cosmetica/2020/10/22/861/</link>
 		<pubDate>Thu, 22 Oct 2020 04:53:34 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/cosmetica/?p=861</guid>
@@ -7379,7 +7379,7 @@ Commenter avatars come from <a href=\"https://gravatar.com\" rel=\"nofollow ugc\
 							</item>
 					<item>
 		<title></title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/cosmetica/2020/10/22/862/</link>
+		<link>http://demo.woostify.com/cosmetica/2020/10/22/862/</link>
 		<pubDate>Thu, 22 Oct 2020 04:53:34 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/cosmetica/?p=862</guid>
@@ -7434,7 +7434,7 @@ Commenter avatars come from <a href=\"https://gravatar.com\" rel=\"nofollow ugc\
 							</item>
 					<item>
 		<title>Contact form 1</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/cosmetica/?post_type=wpcf7_contact_form&#038;p=8</link>
+		<link>http://demo.woostify.com/cosmetica/?post_type=wpcf7_contact_form&#038;p=8</link>
 		<pubDate>Thu, 22 Oct 2020 04:15:25 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/cosmetica/?post_type=wpcf7_contact_form&#038;p=8</guid>
@@ -7551,7 +7551,7 @@ This e-mail was sent from a contact form on [_site_title] ([_site_url])";s:9:"re
 							</item>
 					<item>
 		<title>Contact Form</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/cosmetica/?post_type=wpcf7_contact_form&#038;p=238</link>
+		<link>http://demo.woostify.com/cosmetica/?post_type=wpcf7_contact_form&#038;p=238</link>
 		<pubDate>Thu, 03 Jan 2019 08:03:04 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/cosmetica/?post_type=wpcf7_contact_form&#038;p=238</guid>
@@ -7700,7 +7700,7 @@ This e-mail was sent from a contact form on Woostify (https://woostify.com/demos
 							</item>
 					<item>
 		<title>Subsbrice Form</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/cosmetica/?post_type=wpcf7_contact_form&#038;p=262</link>
+		<link>http://demo.woostify.com/cosmetica/?post_type=wpcf7_contact_form&#038;p=262</link>
 		<pubDate>Fri, 04 Jan 2019 01:48:09 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/cosmetica/?post_type=wpcf7_contact_form&#038;p=262</guid>
@@ -7831,7 +7831,7 @@ This e-mail was sent from a contact form on Woostify (https://woostify.com/demos
 							</item>
 					<item>
 		<title>The Volume Mascara</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/cosmetica/product/the-volume-mascara/</link>
+		<link>http://demo.woostify.com/cosmetica/product/the-volume-mascara/</link>
 		<pubDate>Thu, 21 Mar 2019 02:50:38 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/cosmetica/?post_type=product&#038;p=717</guid>
@@ -8005,7 +8005,7 @@ This e-mail was sent from a contact form on Woostify (https://woostify.com/demos
 							</item>
 					<item>
 		<title>MultiVitamin Power Recovery Masque</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/cosmetica/product/multivitamin-power-recovery-masque/</link>
+		<link>http://demo.woostify.com/cosmetica/product/multivitamin-power-recovery-masque/</link>
 		<pubDate>Thu, 21 Mar 2019 02:55:16 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/cosmetica/?post_type=product&#038;p=718</guid>
@@ -8180,7 +8180,7 @@ This e-mail was sent from a contact form on Woostify (https://woostify.com/demos
 							</item>
 					<item>
 		<title>BECCA Essentials Radiance Kit</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/cosmetica/product/becca-essentials-radiance-kit/</link>
+		<link>http://demo.woostify.com/cosmetica/product/becca-essentials-radiance-kit/</link>
 		<pubDate>Thu, 21 Mar 2019 02:57:44 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/cosmetica/?post_type=product&#038;p=722</guid>
@@ -8355,7 +8355,7 @@ This e-mail was sent from a contact form on Woostify (https://woostify.com/demos
 							</item>
 					<item>
 		<title>Oil-Free Camouflage Concealer</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/cosmetica/product/oil-free-camouflage-concealer/</link>
+		<link>http://demo.woostify.com/cosmetica/product/oil-free-camouflage-concealer/</link>
 		<pubDate>Thu, 21 Mar 2019 03:01:20 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/cosmetica/?post_type=product&#038;p=725</guid>
@@ -8529,7 +8529,7 @@ This e-mail was sent from a contact form on Woostify (https://woostify.com/demos
 							</item>
 					<item>
 		<title>Shakti Face and Body Resculpting Cream</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/cosmetica/product/shakti-face-and-body-resculpting-cream/</link>
+		<link>http://demo.woostify.com/cosmetica/product/shakti-face-and-body-resculpting-cream/</link>
 		<pubDate>Thu, 21 Mar 2019 03:03:52 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/cosmetica/?post_type=product&#038;p=728</guid>
@@ -8703,7 +8703,7 @@ This e-mail was sent from a contact form on Woostify (https://woostify.com/demos
 							</item>
 					<item>
 		<title>DALLAS Thickening Spray</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/cosmetica/product/dallas-thickening-spray/</link>
+		<link>http://demo.woostify.com/cosmetica/product/dallas-thickening-spray/</link>
 		<pubDate>Thu, 21 Mar 2019 09:09:56 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/cosmetica/?post_type=product&#038;p=772</guid>
@@ -8885,7 +8885,7 @@ This e-mail was sent from a contact form on Woostify (https://woostify.com/demos
 							</item>
 					<item>
 		<title>Concord Shadow Set</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/cosmetica/product/concord-shadow-set/</link>
+		<link>http://demo.woostify.com/cosmetica/product/concord-shadow-set/</link>
 		<pubDate>Thu, 21 Mar 2019 09:11:30 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/cosmetica/?post_type=product&#038;p=773</guid>
@@ -9067,7 +9067,7 @@ This e-mail was sent from a contact form on Woostify (https://woostify.com/demos
 							</item>
 					<item>
 		<title>Professional-C Serum 20%</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/cosmetica/product/professional-c-serum-20/</link>
+		<link>http://demo.woostify.com/cosmetica/product/professional-c-serum-20/</link>
 		<pubDate>Thu, 21 Mar 2019 09:12:36 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/cosmetica/?post_type=product&#038;p=774</guid>
@@ -9249,7 +9249,7 @@ This e-mail was sent from a contact form on Woostify (https://woostify.com/demos
 							</item>
 					<item>
 		<title>Fruit Pigmented Ultra Lengthening Mascara</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/cosmetica/product/fruit-pigmented-ultra-lengthening-mascara/</link>
+		<link>http://demo.woostify.com/cosmetica/product/fruit-pigmented-ultra-lengthening-mascara/</link>
 		<pubDate>Thu, 21 Mar 2019 09:14:14 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/cosmetica/?post_type=product&#038;p=775</guid>
@@ -9431,7 +9431,7 @@ This e-mail was sent from a contact form on Woostify (https://woostify.com/demos
 							</item>
 					<item>
 		<title>Phytophanère Dietary Supplement</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/cosmetica/product/phytophanere-dietary-supplement/</link>
+		<link>http://demo.woostify.com/cosmetica/product/phytophanere-dietary-supplement/</link>
 		<pubDate>Thu, 21 Mar 2019 09:15:22 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/cosmetica/?post_type=product&#038;p=776</guid>
@@ -9613,7 +9613,7 @@ This e-mail was sent from a contact form on Woostify (https://woostify.com/demos
 							</item>
 					<item>
 		<title>Facial Recovery Oil</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/cosmetica/product/facial-recovery-oil/</link>
+		<link>http://demo.woostify.com/cosmetica/product/facial-recovery-oil/</link>
 		<pubDate>Thu, 21 Mar 2019 09:16:33 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/cosmetica/?post_type=product&#038;p=777</guid>
@@ -9795,7 +9795,7 @@ This e-mail was sent from a contact form on Woostify (https://woostify.com/demos
 							</item>
 					<item>
 		<title>Contact form 1</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/cosmetica/?post_type=wpcf7_contact_form&#038;p=837</link>
+		<link>http://demo.woostify.com/cosmetica/?post_type=wpcf7_contact_form&#038;p=837</link>
 		<pubDate>Wed, 20 Nov 2019 10:07:17 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/pro/cosmetica/?post_type=wpcf7_contact_form&#038;p=5</guid>

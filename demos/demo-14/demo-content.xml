@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/5.5.1" created="2020-10-23 08:18" -->
+	<!-- generator="WordPress/5.5.3" created="2020-11-19 04:25" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -27,13 +27,13 @@
 
 <channel>
 	<title>Randy</title>
-	<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/randy</link>
+	<link>http://demo.woostify.com/randy</link>
 	<description>Just another Woostify Pro Demo Sites site</description>
-	<pubDate>Fri, 23 Oct 2020 08:18:47 +0000</pubDate>
+	<pubDate>Thu, 19 Nov 2020 04:25:54 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
-	<wp:base_site_url>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/</wp:base_site_url>
-	<wp:base_blog_url>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/randy</wp:base_blog_url>
+	<wp:base_site_url>http://demo.woostify.com/</wp:base_site_url>
+	<wp:base_blog_url>http://demo.woostify.com/randy</wp:base_blog_url>
 
 		<wp:author><wp:author_id>1</wp:author_id><wp:author_login><![CDATA[woostify]]></wp:author_login><wp:author_email><![CDATA[ngothaiduong2311@gmail.com]]></wp:author_email><wp:author_display_name><![CDATA[woostify]]></wp:author_display_name><wp:author_first_name><![CDATA[]]></wp:author_first_name><wp:author_last_name><![CDATA[]]></wp:author_last_name></wp:author>
 
@@ -571,19 +571,19 @@
 	<wp:term><wp:term_id>65</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug><![CDATA[women]]></wp:term_slug><wp:term_name><![CDATA[Women]]></wp:term_name>
 </wp:term>
 
-	<generator>https://wordpress.org/?v=5.5.1</generator>
+	<generator>https://wordpress.org/?v=5.5.3</generator>
 
 <image>
-	<url>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/randy/wp-content/uploads/sites/22/2018/12/favicon.png</url>
+	<url>http://demo.woostify.com/randy/wp-content/uploads/sites/22/2018/12/favicon.png</url>
 	<title>Randy</title>
-	<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/randy</link>
+	<link>http://demo.woostify.com/randy</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 
 		<item>
 		<title>favicon</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/randy/favicon/</link>
+		<link>http://demo.woostify.com/randy/favicon/</link>
 		<pubDate>Fri, 28 Dec 2018 04:30:25 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/randy/wp-content/uploads/2018/12/favicon.png</guid>
@@ -602,7 +602,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/randy/wp-content/uploads/sites/22/2018/12/favicon.png]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[http://demo.woostify.com/randy/wp-content/uploads/sites/22/2018/12/favicon.png]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2018/12/favicon.png]]></wp:meta_value>
@@ -626,7 +626,7 @@
 							</item>
 					<item>
 		<title>icon-1</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/randy/woostify/icon-1/</link>
+		<link>http://demo.woostify.com/randy/woostify/icon-1/</link>
 		<pubDate>Fri, 18 Jan 2019 02:45:27 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/randy/wp-content/uploads/2019/01/icon-1.jpg</guid>
@@ -645,7 +645,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/randy/wp-content/uploads/sites/22/2019/01/icon-1.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[http://demo.woostify.com/randy/wp-content/uploads/sites/22/2019/01/icon-1.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2019/01/icon-1.jpg]]></wp:meta_value>
@@ -657,7 +657,7 @@
 							</item>
 					<item>
 		<title>3-1</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/randy/3-1-2/</link>
+		<link>http://demo.woostify.com/randy/3-1-2/</link>
 		<pubDate>Thu, 04 Jul 2019 01:33:27 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/randy/wp-content/uploads/2019/01/3-1-1.jpg</guid>
@@ -676,7 +676,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/randy/wp-content/uploads/sites/22/2019/01/3-1-1.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[http://demo.woostify.com/randy/wp-content/uploads/sites/22/2019/01/3-1-1.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2019/01/3-1-1.jpg]]></wp:meta_value>
@@ -700,7 +700,7 @@
 							</item>
 					<item>
 		<title>3-2</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/randy/3-2-2/</link>
+		<link>http://demo.woostify.com/randy/3-2-2/</link>
 		<pubDate>Thu, 04 Jul 2019 01:33:29 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/randy/wp-content/uploads/2019/01/3-2-1.jpg</guid>
@@ -719,7 +719,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/randy/wp-content/uploads/sites/22/2019/01/3-2-1.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[http://demo.woostify.com/randy/wp-content/uploads/sites/22/2019/01/3-2-1.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2019/01/3-2-1.jpg]]></wp:meta_value>
@@ -743,7 +743,7 @@
 							</item>
 					<item>
 		<title>3-3</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/randy/3-3-2/</link>
+		<link>http://demo.woostify.com/randy/3-3-2/</link>
 		<pubDate>Thu, 04 Jul 2019 01:33:31 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/randy/wp-content/uploads/2019/01/3-3-1.jpg</guid>
@@ -762,7 +762,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/randy/wp-content/uploads/sites/22/2019/01/3-3-1.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[http://demo.woostify.com/randy/wp-content/uploads/sites/22/2019/01/3-3-1.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2019/01/3-3-1.jpg]]></wp:meta_value>
@@ -786,7 +786,7 @@
 							</item>
 					<item>
 		<title>3-4</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/randy/3-4/</link>
+		<link>http://demo.woostify.com/randy/3-4/</link>
 		<pubDate>Thu, 04 Jul 2019 01:33:33 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/randy/wp-content/uploads/2019/01/3-4.jpg</guid>
@@ -805,7 +805,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/randy/wp-content/uploads/sites/22/2019/01/3-4.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[http://demo.woostify.com/randy/wp-content/uploads/sites/22/2019/01/3-4.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2019/01/3-4.jpg]]></wp:meta_value>
@@ -829,7 +829,7 @@
 							</item>
 					<item>
 		<title>12-1-1</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/randy/12-1-1/</link>
+		<link>http://demo.woostify.com/randy/12-1-1/</link>
 		<pubDate>Wed, 10 Jul 2019 08:42:23 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/randy/wp-content/uploads/2019/07/12-1-1.jpg</guid>
@@ -848,7 +848,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/randy/wp-content/uploads/sites/22/2019/07/12-1-1.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[http://demo.woostify.com/randy/wp-content/uploads/sites/22/2019/07/12-1-1.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2019/07/12-1-1.jpg]]></wp:meta_value>
@@ -872,7 +872,7 @@
 							</item>
 					<item>
 		<title>12-1-2</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/randy/12-1-2/</link>
+		<link>http://demo.woostify.com/randy/12-1-2/</link>
 		<pubDate>Wed, 10 Jul 2019 08:42:24 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/randy/wp-content/uploads/2019/07/12-1-2.jpg</guid>
@@ -891,7 +891,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/randy/wp-content/uploads/sites/22/2019/07/12-1-2.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[http://demo.woostify.com/randy/wp-content/uploads/sites/22/2019/07/12-1-2.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2019/07/12-1-2.jpg]]></wp:meta_value>
@@ -915,7 +915,7 @@
 							</item>
 					<item>
 		<title>12-2</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/randy/12-2-2/</link>
+		<link>http://demo.woostify.com/randy/12-2-2/</link>
 		<pubDate>Wed, 10 Jul 2019 08:42:25 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/randy/wp-content/uploads/2019/07/12-2.jpg</guid>
@@ -934,7 +934,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/randy/wp-content/uploads/sites/22/2019/07/12-2.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[http://demo.woostify.com/randy/wp-content/uploads/sites/22/2019/07/12-2.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2019/07/12-2.jpg]]></wp:meta_value>
@@ -958,7 +958,7 @@
 							</item>
 					<item>
 		<title>icon-email</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/randy/icon-email/</link>
+		<link>http://demo.woostify.com/randy/icon-email/</link>
 		<pubDate>Thu, 11 Jul 2019 03:36:54 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/randy/wp-content/uploads/2019/07/icon-email.png</guid>
@@ -977,7 +977,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/randy/wp-content/uploads/sites/22/2019/07/icon-email.png]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[http://demo.woostify.com/randy/wp-content/uploads/sites/22/2019/07/icon-email.png]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2019/07/icon-email.png]]></wp:meta_value>
@@ -1001,7 +1001,7 @@
 							</item>
 					<item>
 		<title>logo</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/randy/logo-2/</link>
+		<link>http://demo.woostify.com/randy/logo-2/</link>
 		<pubDate>Thu, 29 Aug 2019 02:58:42 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/randy/wp-content/uploads/2019/08/logo.png</guid>
@@ -1020,7 +1020,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/randy/wp-content/uploads/sites/22/2019/08/logo.png]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[http://demo.woostify.com/randy/wp-content/uploads/sites/22/2019/08/logo.png]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2019/08/logo.png]]></wp:meta_value>
@@ -1044,7 +1044,7 @@
 							</item>
 					<item>
 		<title>img-2</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/randy/?attachment_id=1237</link>
+		<link>http://demo.woostify.com/randy/?attachment_id=1237</link>
 		<pubDate>Thu, 29 Aug 2019 03:59:29 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/randy/wp-content/uploads/2019/08/img-2.jpg</guid>
@@ -1063,7 +1063,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/randy/wp-content/uploads/sites/22/2019/08/img-2.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[http://demo.woostify.com/randy/wp-content/uploads/sites/22/2019/08/img-2.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2019/08/img-2.jpg]]></wp:meta_value>
@@ -1075,7 +1075,7 @@
 							</item>
 					<item>
 		<title>img-3</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/randy/?attachment_id=1238</link>
+		<link>http://demo.woostify.com/randy/?attachment_id=1238</link>
 		<pubDate>Thu, 29 Aug 2019 03:59:32 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/randy/wp-content/uploads/2019/08/img-3.jpg</guid>
@@ -1094,7 +1094,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/randy/wp-content/uploads/sites/22/2019/08/img-3.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[http://demo.woostify.com/randy/wp-content/uploads/sites/22/2019/08/img-3.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2019/08/img-3.jpg]]></wp:meta_value>
@@ -1106,7 +1106,7 @@
 							</item>
 					<item>
 		<title>img-4</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/randy/?attachment_id=1239</link>
+		<link>http://demo.woostify.com/randy/?attachment_id=1239</link>
 		<pubDate>Thu, 29 Aug 2019 03:59:34 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/randy/wp-content/uploads/2019/08/img-4.jpg</guid>
@@ -1125,7 +1125,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/randy/wp-content/uploads/sites/22/2019/08/img-4.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[http://demo.woostify.com/randy/wp-content/uploads/sites/22/2019/08/img-4.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2019/08/img-4.jpg]]></wp:meta_value>
@@ -1137,7 +1137,7 @@
 							</item>
 					<item>
 		<title>img-6</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/randy/?attachment_id=1240</link>
+		<link>http://demo.woostify.com/randy/?attachment_id=1240</link>
 		<pubDate>Thu, 29 Aug 2019 03:59:36 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/randy/wp-content/uploads/2019/08/img-6.jpg</guid>
@@ -1156,7 +1156,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/randy/wp-content/uploads/sites/22/2019/08/img-6.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[http://demo.woostify.com/randy/wp-content/uploads/sites/22/2019/08/img-6.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2019/08/img-6.jpg]]></wp:meta_value>
@@ -1168,7 +1168,7 @@
 							</item>
 					<item>
 		<title>img-7</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/randy/?attachment_id=1241</link>
+		<link>http://demo.woostify.com/randy/?attachment_id=1241</link>
 		<pubDate>Thu, 29 Aug 2019 03:59:37 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/randy/wp-content/uploads/2019/08/img-7.jpg</guid>
@@ -1187,7 +1187,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/randy/wp-content/uploads/sites/22/2019/08/img-7.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[http://demo.woostify.com/randy/wp-content/uploads/sites/22/2019/08/img-7.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2019/08/img-7.jpg]]></wp:meta_value>
@@ -1199,7 +1199,7 @@
 							</item>
 					<item>
 		<title>img-8</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/randy/?attachment_id=1242</link>
+		<link>http://demo.woostify.com/randy/?attachment_id=1242</link>
 		<pubDate>Thu, 29 Aug 2019 03:59:42 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/randy/wp-content/uploads/2019/08/img-8.jpg</guid>
@@ -1218,7 +1218,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/randy/wp-content/uploads/sites/22/2019/08/img-8.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[http://demo.woostify.com/randy/wp-content/uploads/sites/22/2019/08/img-8.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2019/08/img-8.jpg]]></wp:meta_value>
@@ -1230,7 +1230,7 @@
 							</item>
 					<item>
 		<title>img-10</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/randy/?attachment_id=1243</link>
+		<link>http://demo.woostify.com/randy/?attachment_id=1243</link>
 		<pubDate>Thu, 29 Aug 2019 03:59:43 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/randy/wp-content/uploads/2019/08/img-10.jpg</guid>
@@ -1249,7 +1249,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/randy/wp-content/uploads/sites/22/2019/08/img-10.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[http://demo.woostify.com/randy/wp-content/uploads/sites/22/2019/08/img-10.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2019/08/img-10.jpg]]></wp:meta_value>
@@ -1261,7 +1261,7 @@
 							</item>
 					<item>
 		<title>img-12</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/randy/?attachment_id=1244</link>
+		<link>http://demo.woostify.com/randy/?attachment_id=1244</link>
 		<pubDate>Thu, 29 Aug 2019 03:59:45 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/randy/wp-content/uploads/2019/08/img-12.jpg</guid>
@@ -1280,7 +1280,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/randy/wp-content/uploads/sites/22/2019/08/img-12.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[http://demo.woostify.com/randy/wp-content/uploads/sites/22/2019/08/img-12.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2019/08/img-12.jpg]]></wp:meta_value>
@@ -1292,7 +1292,7 @@
 							</item>
 					<item>
 		<title>img-14</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/randy/?attachment_id=1245</link>
+		<link>http://demo.woostify.com/randy/?attachment_id=1245</link>
 		<pubDate>Thu, 29 Aug 2019 03:59:46 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/randy/wp-content/uploads/2019/08/img-14.jpg</guid>
@@ -1311,7 +1311,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/randy/wp-content/uploads/sites/22/2019/08/img-14.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[http://demo.woostify.com/randy/wp-content/uploads/sites/22/2019/08/img-14.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2019/08/img-14.jpg]]></wp:meta_value>
@@ -1323,7 +1323,7 @@
 							</item>
 					<item>
 		<title>img-15</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/randy/?attachment_id=1246</link>
+		<link>http://demo.woostify.com/randy/?attachment_id=1246</link>
 		<pubDate>Thu, 29 Aug 2019 03:59:47 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/randy/wp-content/uploads/2019/08/img-15.jpg</guid>
@@ -1342,7 +1342,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/randy/wp-content/uploads/sites/22/2019/08/img-15.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[http://demo.woostify.com/randy/wp-content/uploads/sites/22/2019/08/img-15.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2019/08/img-15.jpg]]></wp:meta_value>
@@ -1354,7 +1354,7 @@
 							</item>
 					<item>
 		<title>post01</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/randy/2019/08/29/beautiful-perfume-for-men/post01/</link>
+		<link>http://demo.woostify.com/randy/2019/08/29/beautiful-perfume-for-men/post01/</link>
 		<pubDate>Thu, 29 Aug 2019 04:33:14 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/randy/wp-content/uploads/2019/08/post01.jpg</guid>
@@ -1373,7 +1373,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/randy/wp-content/uploads/sites/22/2019/08/post01.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[http://demo.woostify.com/randy/wp-content/uploads/sites/22/2019/08/post01.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2019/08/post01.jpg]]></wp:meta_value>
@@ -1385,7 +1385,7 @@
 							</item>
 					<item>
 		<title>post02</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/randy/2019/08/29/beautiful-perfume-for-men/post02/</link>
+		<link>http://demo.woostify.com/randy/2019/08/29/beautiful-perfume-for-men/post02/</link>
 		<pubDate>Thu, 29 Aug 2019 04:33:16 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/randy/wp-content/uploads/2019/08/post02.jpg</guid>
@@ -1404,7 +1404,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/randy/wp-content/uploads/sites/22/2019/08/post02.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[http://demo.woostify.com/randy/wp-content/uploads/sites/22/2019/08/post02.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2019/08/post02.jpg]]></wp:meta_value>
@@ -1416,7 +1416,7 @@
 							</item>
 					<item>
 		<title>post03</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/randy/2019/08/29/beautiful-perfume-for-men/post03/</link>
+		<link>http://demo.woostify.com/randy/2019/08/29/beautiful-perfume-for-men/post03/</link>
 		<pubDate>Thu, 29 Aug 2019 04:33:19 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/randy/wp-content/uploads/2019/08/post03.jpg</guid>
@@ -1435,7 +1435,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/randy/wp-content/uploads/sites/22/2019/08/post03.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[http://demo.woostify.com/randy/wp-content/uploads/sites/22/2019/08/post03.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2019/08/post03.jpg]]></wp:meta_value>
@@ -1447,7 +1447,7 @@
 							</item>
 					<item>
 		<title>post04</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/randy/2019/08/29/beautiful-perfume-for-men/post04/</link>
+		<link>http://demo.woostify.com/randy/2019/08/29/beautiful-perfume-for-men/post04/</link>
 		<pubDate>Thu, 29 Aug 2019 04:33:21 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/randy/wp-content/uploads/2019/08/post04.jpg</guid>
@@ -1466,7 +1466,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/randy/wp-content/uploads/sites/22/2019/08/post04.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[http://demo.woostify.com/randy/wp-content/uploads/sites/22/2019/08/post04.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2019/08/post04.jpg]]></wp:meta_value>
@@ -1478,7 +1478,7 @@
 							</item>
 					<item>
 		<title>post05</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/randy/2019/08/29/beautiful-perfume-for-men/post05/</link>
+		<link>http://demo.woostify.com/randy/2019/08/29/beautiful-perfume-for-men/post05/</link>
 		<pubDate>Thu, 29 Aug 2019 04:33:24 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/randy/wp-content/uploads/2019/08/post05.jpg</guid>
@@ -1497,7 +1497,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/randy/wp-content/uploads/sites/22/2019/08/post05.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[http://demo.woostify.com/randy/wp-content/uploads/sites/22/2019/08/post05.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2019/08/post05.jpg]]></wp:meta_value>
@@ -1509,7 +1509,7 @@
 							</item>
 					<item>
 		<title>logo-site</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/randy/logo-site/</link>
+		<link>http://demo.woostify.com/randy/logo-site/</link>
 		<pubDate>Thu, 29 Aug 2019 07:05:23 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/randy/wp-content/uploads/2019/08/logo-site.png</guid>
@@ -1528,7 +1528,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/randy/wp-content/uploads/sites/22/2019/08/logo-site.png]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[http://demo.woostify.com/randy/wp-content/uploads/sites/22/2019/08/logo-site.png]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2019/08/logo-site.png]]></wp:meta_value>
@@ -1552,7 +1552,7 @@
 							</item>
 					<item>
 		<title>hero-home</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/randy/woostify/hero-home/</link>
+		<link>http://demo.woostify.com/randy/woostify/hero-home/</link>
 		<pubDate>Thu, 29 Aug 2019 07:31:49 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/randy/wp-content/uploads/2019/08/hero-home.jpg</guid>
@@ -1571,7 +1571,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/randy/wp-content/uploads/sites/22/2019/08/hero-home.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[http://demo.woostify.com/randy/wp-content/uploads/sites/22/2019/08/hero-home.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2019/08/hero-home.jpg]]></wp:meta_value>
@@ -1583,7 +1583,7 @@
 							</item>
 					<item>
 		<title>about</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/randy/woostify/about-5/</link>
+		<link>http://demo.woostify.com/randy/woostify/about-5/</link>
 		<pubDate>Thu, 29 Aug 2019 08:29:10 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/randy/wp-content/uploads/2019/08/about.jpg</guid>
@@ -1602,7 +1602,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/randy/wp-content/uploads/sites/22/2019/08/about.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[http://demo.woostify.com/randy/wp-content/uploads/sites/22/2019/08/about.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2019/08/about.jpg]]></wp:meta_value>
@@ -1614,7 +1614,7 @@
 							</item>
 					<item>
 		<title>instergram</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/randy/woostify/instergram/</link>
+		<link>http://demo.woostify.com/randy/woostify/instergram/</link>
 		<pubDate>Thu, 29 Aug 2019 09:55:53 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/randy/wp-content/uploads/2019/08/instergram.jpg</guid>
@@ -1633,7 +1633,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/randy/wp-content/uploads/sites/22/2019/08/instergram.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[http://demo.woostify.com/randy/wp-content/uploads/sites/22/2019/08/instergram.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2019/08/instergram.jpg]]></wp:meta_value>
@@ -1645,7 +1645,7 @@
 							</item>
 					<item>
 		<title>instergrama</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/randy/woostify/instergrama/</link>
+		<link>http://demo.woostify.com/randy/woostify/instergrama/</link>
 		<pubDate>Thu, 29 Aug 2019 10:12:58 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/randy/wp-content/uploads/2019/08/instergrama.jpg</guid>
@@ -1664,7 +1664,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/randy/wp-content/uploads/sites/22/2019/08/instergrama.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[http://demo.woostify.com/randy/wp-content/uploads/sites/22/2019/08/instergrama.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2019/08/instergrama.jpg]]></wp:meta_value>
@@ -1676,7 +1676,7 @@
 							</item>
 					<item>
 		<title>background-about</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/randy/about-us/background-about/</link>
+		<link>http://demo.woostify.com/randy/about-us/background-about/</link>
 		<pubDate>Fri, 30 Aug 2019 01:43:40 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/randy/wp-content/uploads/2019/08/background-about.jpg</guid>
@@ -1695,7 +1695,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/randy/wp-content/uploads/sites/22/2019/08/background-about.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[http://demo.woostify.com/randy/wp-content/uploads/sites/22/2019/08/background-about.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2019/08/background-about.jpg]]></wp:meta_value>
@@ -1707,7 +1707,7 @@
 							</item>
 					<item>
 		<title>background-ab</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/randy/about-us/background-ab/</link>
+		<link>http://demo.woostify.com/randy/about-us/background-ab/</link>
 		<pubDate>Fri, 30 Aug 2019 01:45:20 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/randy/wp-content/uploads/2019/08/background-ab.jpg</guid>
@@ -1726,7 +1726,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/randy/wp-content/uploads/sites/22/2019/08/background-ab.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[http://demo.woostify.com/randy/wp-content/uploads/sites/22/2019/08/background-ab.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2019/08/background-ab.jpg]]></wp:meta_value>
@@ -1738,7 +1738,7 @@
 							</item>
 					<item>
 		<title>about-image01</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/randy/about-us/about-image01/</link>
+		<link>http://demo.woostify.com/randy/about-us/about-image01/</link>
 		<pubDate>Fri, 30 Aug 2019 01:55:47 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/randy/wp-content/uploads/2019/08/about-image01.jpg</guid>
@@ -1757,7 +1757,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/randy/wp-content/uploads/sites/22/2019/08/about-image01.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[http://demo.woostify.com/randy/wp-content/uploads/sites/22/2019/08/about-image01.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2019/08/about-image01.jpg]]></wp:meta_value>
@@ -1769,7 +1769,7 @@
 							</item>
 					<item>
 		<title>logo01</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/randy/about-us/logo01/</link>
+		<link>http://demo.woostify.com/randy/about-us/logo01/</link>
 		<pubDate>Fri, 30 Aug 2019 02:29:07 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/randy/wp-content/uploads/2019/08/logo01.jpg</guid>
@@ -1788,7 +1788,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/randy/wp-content/uploads/sites/22/2019/08/logo01.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[http://demo.woostify.com/randy/wp-content/uploads/sites/22/2019/08/logo01.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2019/08/logo01.jpg]]></wp:meta_value>
@@ -1800,7 +1800,7 @@
 							</item>
 					<item>
 		<title>logo02</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/randy/about-us/logo02/</link>
+		<link>http://demo.woostify.com/randy/about-us/logo02/</link>
 		<pubDate>Fri, 30 Aug 2019 02:29:09 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/randy/wp-content/uploads/2019/08/logo02.jpg</guid>
@@ -1819,7 +1819,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/randy/wp-content/uploads/sites/22/2019/08/logo02.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[http://demo.woostify.com/randy/wp-content/uploads/sites/22/2019/08/logo02.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2019/08/logo02.jpg]]></wp:meta_value>
@@ -1831,7 +1831,7 @@
 							</item>
 					<item>
 		<title>logo03</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/randy/about-us/logo03/</link>
+		<link>http://demo.woostify.com/randy/about-us/logo03/</link>
 		<pubDate>Fri, 30 Aug 2019 02:29:12 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/randy/wp-content/uploads/2019/08/logo03.jpg</guid>
@@ -1850,7 +1850,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/randy/wp-content/uploads/sites/22/2019/08/logo03.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[http://demo.woostify.com/randy/wp-content/uploads/sites/22/2019/08/logo03.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2019/08/logo03.jpg]]></wp:meta_value>
@@ -1862,7 +1862,7 @@
 							</item>
 					<item>
 		<title>logo04</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/randy/about-us/logo04/</link>
+		<link>http://demo.woostify.com/randy/about-us/logo04/</link>
 		<pubDate>Fri, 30 Aug 2019 02:29:13 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/randy/wp-content/uploads/2019/08/logo04.jpg</guid>
@@ -1881,7 +1881,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/randy/wp-content/uploads/sites/22/2019/08/logo04.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[http://demo.woostify.com/randy/wp-content/uploads/sites/22/2019/08/logo04.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2019/08/logo04.jpg]]></wp:meta_value>
@@ -1893,7 +1893,7 @@
 							</item>
 					<item>
 		<title>logo05</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/randy/about-us/logo05/</link>
+		<link>http://demo.woostify.com/randy/about-us/logo05/</link>
 		<pubDate>Fri, 30 Aug 2019 02:29:14 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/randy/wp-content/uploads/2019/08/logo05.jpg</guid>
@@ -1912,7 +1912,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/randy/wp-content/uploads/sites/22/2019/08/logo05.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[http://demo.woostify.com/randy/wp-content/uploads/sites/22/2019/08/logo05.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2019/08/logo05.jpg]]></wp:meta_value>
@@ -1924,7 +1924,7 @@
 							</item>
 					<item>
 		<title>logo06</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/randy/about-us/logo06/</link>
+		<link>http://demo.woostify.com/randy/about-us/logo06/</link>
 		<pubDate>Fri, 30 Aug 2019 02:29:16 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/randy/wp-content/uploads/2019/08/logo06.jpg</guid>
@@ -1943,7 +1943,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/randy/wp-content/uploads/sites/22/2019/08/logo06.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[http://demo.woostify.com/randy/wp-content/uploads/sites/22/2019/08/logo06.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2019/08/logo06.jpg]]></wp:meta_value>
@@ -1955,7 +1955,7 @@
 							</item>
 					<item>
 		<title>woocommerce-placeholder</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/randy/woocommerce-placeholder/</link>
+		<link>http://demo.woostify.com/randy/woocommerce-placeholder/</link>
 		<pubDate>Thu, 22 Oct 2020 04:08:41 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/randy/wp-content/uploads/sites/22/2020/10/woocommerce-placeholder.png</guid>
@@ -1974,7 +1974,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/randy/wp-content/uploads/sites/22/woocommerce-placeholder.png]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[http://demo.woostify.com/randy/wp-content/uploads/sites/22/woocommerce-placeholder.png]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[woocommerce-placeholder.png]]></wp:meta_value>
@@ -1986,7 +1986,7 @@
 							</item>
 					<item>
 		<title></title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/randy/2018/12/28/128/</link>
+		<link>http://demo.woostify.com/randy/2018/12/28/128/</link>
 		<pubDate>Fri, 28 Dec 2018 08:29:54 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/randy/?p=128</guid>
@@ -2057,7 +2057,7 @@
 							</item>
 					<item>
 		<title>Home</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/randy/2018/12/28/home/</link>
+		<link>http://demo.woostify.com/randy/2018/12/28/home/</link>
 		<pubDate>Fri, 28 Dec 2018 08:29:54 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/randy/?p=129</guid>
@@ -2128,7 +2128,7 @@
 							</item>
 					<item>
 		<title>Simple Subsbrice Form</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/randy/?elementor_library=simple-subsbrice-form</link>
+		<link>http://demo.woostify.com/randy/?elementor_library=simple-subsbrice-form</link>
 		<pubDate>Fri, 04 Jan 2019 02:37:26 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/randy/?elementor_library=simple-subsbrice-form</guid>
@@ -2185,7 +2185,7 @@
 							</item>
 					<item>
 		<title>Footer</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/randy/?elementor_library=footer</link>
+		<link>http://demo.woostify.com/randy/?elementor_library=footer</link>
 		<pubDate>Thu, 06 Jun 2019 02:36:17 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/randy/?elementor_library=footer</guid>
@@ -2243,7 +2243,7 @@
 							</item>
 					<item>
 		<title>woostify</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/randy/2019/07/04/woostify/</link>
+		<link>http://demo.woostify.com/randy/2019/07/04/woostify/</link>
 		<pubDate>Thu, 04 Jul 2019 01:38:06 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/randy/woostify/</guid>
@@ -2390,7 +2390,7 @@
 							</item>
 					<item>
 		<title>woocommerce-placeholder</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/randy/woocommerce-placeholder-2/</link>
+		<link>http://demo.woostify.com/randy/woocommerce-placeholder-2/</link>
 		<pubDate>Tue, 19 May 2020 06:58:18 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://prodemo.woostify.com/randy/wp-content/uploads/sites/6/2020/05/woocommerce-placeholder.png</guid>
@@ -2409,7 +2409,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/randy/wp-content/uploads/sites/22/2020/05/woocommerce-placeholder.png]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[http://demo.woostify.com/randy/wp-content/uploads/sites/22/2020/05/woocommerce-placeholder.png]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2020/05/woocommerce-placeholder.png]]></wp:meta_value>
@@ -2425,7 +2425,7 @@
 							</item>
 					<item>
 		<title>logo07</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/randy/about-us/logo07/</link>
+		<link>http://demo.woostify.com/randy/about-us/logo07/</link>
 		<pubDate>Fri, 30 Aug 2019 02:29:17 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/randy/wp-content/uploads/2019/08/logo07.jpg</guid>
@@ -2444,7 +2444,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/randy/wp-content/uploads/sites/22/2019/08/logo07.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[http://demo.woostify.com/randy/wp-content/uploads/sites/22/2019/08/logo07.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2019/08/logo07.jpg]]></wp:meta_value>
@@ -2456,7 +2456,7 @@
 							</item>
 					<item>
 		<title>logo08</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/randy/about-us/logo08/</link>
+		<link>http://demo.woostify.com/randy/about-us/logo08/</link>
 		<pubDate>Fri, 30 Aug 2019 02:29:18 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/randy/wp-content/uploads/2019/08/logo08.jpg</guid>
@@ -2475,7 +2475,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/randy/wp-content/uploads/sites/22/2019/08/logo08.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[http://demo.woostify.com/randy/wp-content/uploads/sites/22/2019/08/logo08.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2019/08/logo08.jpg]]></wp:meta_value>
@@ -2487,7 +2487,7 @@
 							</item>
 					<item>
 		<title>logo09</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/randy/about-us/logo09/</link>
+		<link>http://demo.woostify.com/randy/about-us/logo09/</link>
 		<pubDate>Fri, 30 Aug 2019 02:29:19 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/randy/wp-content/uploads/2019/08/logo09.jpg</guid>
@@ -2506,7 +2506,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/randy/wp-content/uploads/sites/22/2019/08/logo09.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[http://demo.woostify.com/randy/wp-content/uploads/sites/22/2019/08/logo09.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2019/08/logo09.jpg]]></wp:meta_value>
@@ -2518,7 +2518,7 @@
 							</item>
 					<item>
 		<title>logo10</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/randy/about-us/logo10/</link>
+		<link>http://demo.woostify.com/randy/about-us/logo10/</link>
 		<pubDate>Fri, 30 Aug 2019 02:29:20 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/randy/wp-content/uploads/2019/08/logo10.jpg</guid>
@@ -2537,7 +2537,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/randy/wp-content/uploads/sites/22/2019/08/logo10.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[http://demo.woostify.com/randy/wp-content/uploads/sites/22/2019/08/logo10.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2019/08/logo10.jpg]]></wp:meta_value>
@@ -2549,7 +2549,7 @@
 							</item>
 					<item>
 		<title>logo11</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/randy/about-us/logo11/</link>
+		<link>http://demo.woostify.com/randy/about-us/logo11/</link>
 		<pubDate>Fri, 30 Aug 2019 02:29:21 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/randy/wp-content/uploads/2019/08/logo11.jpg</guid>
@@ -2568,7 +2568,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/randy/wp-content/uploads/sites/22/2019/08/logo11.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[http://demo.woostify.com/randy/wp-content/uploads/sites/22/2019/08/logo11.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2019/08/logo11.jpg]]></wp:meta_value>
@@ -2580,7 +2580,7 @@
 							</item>
 					<item>
 		<title>woocommerce-placeholder</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/randy/woocommerce-placeholder-3/</link>
+		<link>http://demo.woostify.com/randy/woocommerce-placeholder-3/</link>
 		<pubDate>Wed, 20 Nov 2019 09:10:59 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/pro/randy/wp-content/uploads/sites/8/2019/11/woocommerce-placeholder.png</guid>
@@ -2599,7 +2599,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/randy/wp-content/uploads/sites/22/2019/11/woocommerce-placeholder.png]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[http://demo.woostify.com/randy/wp-content/uploads/sites/22/2019/11/woocommerce-placeholder.png]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2019/11/woocommerce-placeholder.png]]></wp:meta_value>
@@ -2619,7 +2619,7 @@
 							</item>
 					<item>
 		<title>logo01</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/randy/about-us/logo01-2/</link>
+		<link>http://demo.woostify.com/randy/about-us/logo01-2/</link>
 		<pubDate>Fri, 30 Aug 2019 02:29:53 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/randy/wp-content/uploads/2019/08/logo01-1.jpg</guid>
@@ -2638,7 +2638,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/randy/wp-content/uploads/sites/22/2019/08/logo01-1.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[http://demo.woostify.com/randy/wp-content/uploads/sites/22/2019/08/logo01-1.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2019/08/logo01-1.jpg]]></wp:meta_value>
@@ -2650,7 +2650,7 @@
 							</item>
 					<item>
 		<title>home-hero01</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/randy/woostify/home-hero01/</link>
+		<link>http://demo.woostify.com/randy/woostify/home-hero01/</link>
 		<pubDate>Fri, 30 Aug 2019 09:50:32 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/randy/wp-content/uploads/2019/08/home-hero01.jpg</guid>
@@ -2669,7 +2669,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/randy/wp-content/uploads/sites/22/2019/08/home-hero01.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[http://demo.woostify.com/randy/wp-content/uploads/sites/22/2019/08/home-hero01.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2019/08/home-hero01.jpg]]></wp:meta_value>
@@ -2681,7 +2681,7 @@
 							</item>
 					<item>
 		<title>about-home</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/randy/woostify/about-home/</link>
+		<link>http://demo.woostify.com/randy/woostify/about-home/</link>
 		<pubDate>Fri, 30 Aug 2019 09:54:58 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/randy/wp-content/uploads/2019/08/about-home.jpg</guid>
@@ -2700,7 +2700,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/randy/wp-content/uploads/sites/22/2019/08/about-home.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[http://demo.woostify.com/randy/wp-content/uploads/sites/22/2019/08/about-home.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2019/08/about-home.jpg]]></wp:meta_value>
@@ -2712,7 +2712,7 @@
 							</item>
 					<item>
 		<title>our-story</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/randy/woostify/our-story/</link>
+		<link>http://demo.woostify.com/randy/woostify/our-story/</link>
 		<pubDate>Fri, 30 Aug 2019 09:57:16 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/randy/wp-content/uploads/2019/08/our-story.jpg</guid>
@@ -2731,7 +2731,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/randy/wp-content/uploads/sites/22/2019/08/our-story.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[http://demo.woostify.com/randy/wp-content/uploads/sites/22/2019/08/our-story.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2019/08/our-story.jpg]]></wp:meta_value>
@@ -2743,7 +2743,7 @@
 							</item>
 					<item>
 		<title>bg-about</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/randy/about-us/bg-about/</link>
+		<link>http://demo.woostify.com/randy/about-us/bg-about/</link>
 		<pubDate>Fri, 30 Aug 2019 10:01:27 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/randy/wp-content/uploads/2019/08/bg-about.jpg</guid>
@@ -2762,7 +2762,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/randy/wp-content/uploads/sites/22/2019/08/bg-about.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[http://demo.woostify.com/randy/wp-content/uploads/sites/22/2019/08/bg-about.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2019/08/bg-about.jpg]]></wp:meta_value>
@@ -2774,7 +2774,7 @@
 							</item>
 					<item>
 		<title>Default Kit</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/randy/?elementor_library=default-kit</link>
+		<link>http://demo.woostify.com/randy/?elementor_library=default-kit</link>
 		<pubDate>Tue, 19 May 2020 07:03:57 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://prodemo.woostify.com/randy/?elementor_library=default-kit</guid>
@@ -2812,7 +2812,7 @@
 							</item>
 					<item>
 		<title>Default Kit</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/randy/?elementor_library=default-kit-2</link>
+		<link>http://demo.woostify.com/randy/?elementor_library=default-kit-2</link>
 		<pubDate>Thu, 22 Oct 2020 04:11:15 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/randy/?elementor_library=default-kit-2</guid>
@@ -2846,7 +2846,7 @@
 							</item>
 					<item>
 		<title>Sizing Charts</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/randy/2019/01/02/sizing-charts/</link>
+		<link>http://demo.woostify.com/randy/2019/01/02/sizing-charts/</link>
 		<pubDate>Wed, 02 Jan 2019 08:04:53 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/randy/?p=165</guid>
@@ -2917,7 +2917,7 @@
 							</item>
 					<item>
 		<title>Guides &amp; Expert Advice</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/randy/2019/01/02/guides-expert-advice/</link>
+		<link>http://demo.woostify.com/randy/2019/01/02/guides-expert-advice/</link>
 		<pubDate>Wed, 02 Jan 2019 08:04:53 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/randy/?p=166</guid>
@@ -2988,7 +2988,7 @@
 							</item>
 					<item>
 		<title>Returns</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/randy/2019/01/02/returns/</link>
+		<link>http://demo.woostify.com/randy/2019/01/02/returns/</link>
 		<pubDate>Wed, 02 Jan 2019 08:04:53 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/randy/?p=167</guid>
@@ -3059,7 +3059,7 @@
 							</item>
 					<item>
 		<title>Shipping</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/randy/2019/01/02/shipping/</link>
+		<link>http://demo.woostify.com/randy/2019/01/02/shipping/</link>
 		<pubDate>Wed, 02 Jan 2019 08:04:53 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/randy/?p=168</guid>
@@ -3130,7 +3130,7 @@
 							</item>
 					<item>
 		<title>Contact Us</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/randy/2019/01/02/contact-us/</link>
+		<link>http://demo.woostify.com/randy/2019/01/02/contact-us/</link>
 		<pubDate>Wed, 02 Jan 2019 08:04:53 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/randy/?p=169</guid>
@@ -3201,7 +3201,7 @@
 							</item>
 					<item>
 		<title>What&#039;s New</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/randy/2019/01/02/whats-new/</link>
+		<link>http://demo.woostify.com/randy/2019/01/02/whats-new/</link>
 		<pubDate>Wed, 02 Jan 2019 08:07:41 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/randy/?p=171</guid>
@@ -3272,7 +3272,7 @@
 							</item>
 					<item>
 		<title>Shop By Brand</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/randy/2019/01/02/shop-by-brand/</link>
+		<link>http://demo.woostify.com/randy/2019/01/02/shop-by-brand/</link>
 		<pubDate>Wed, 02 Jan 2019 08:07:41 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/randy/?p=172</guid>
@@ -3343,7 +3343,7 @@
 							</item>
 					<item>
 		<title>Subscribe To Our Emails</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/randy/2019/01/02/subscribe-to-our-emails/</link>
+		<link>http://demo.woostify.com/randy/2019/01/02/subscribe-to-our-emails/</link>
 		<pubDate>Wed, 02 Jan 2019 08:07:41 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/randy/?p=173</guid>
@@ -3414,7 +3414,7 @@
 							</item>
 					<item>
 		<title>Gift Cards</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/randy/2019/01/02/gift-cards/</link>
+		<link>http://demo.woostify.com/randy/2019/01/02/gift-cards/</link>
 		<pubDate>Wed, 02 Jan 2019 08:07:41 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/randy/?p=174</guid>
@@ -3485,7 +3485,7 @@
 							</item>
 					<item>
 		<title>Why Shop At Yoga&#039;n&#039;Life</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/randy/2019/01/02/why-shop-at-yoganlife/</link>
+		<link>http://demo.woostify.com/randy/2019/01/02/why-shop-at-yoganlife/</link>
 		<pubDate>Wed, 02 Jan 2019 08:07:41 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/randy/?p=175</guid>
@@ -3556,7 +3556,7 @@
 							</item>
 					<item>
 		<title>Company Information</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/randy/2019/01/02/company-information/</link>
+		<link>http://demo.woostify.com/randy/2019/01/02/company-information/</link>
 		<pubDate>Wed, 02 Jan 2019 08:11:05 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/randy/?p=176</guid>
@@ -3627,7 +3627,7 @@
 							</item>
 					<item>
 		<title>Career</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/randy/2019/01/02/career/</link>
+		<link>http://demo.woostify.com/randy/2019/01/02/career/</link>
 		<pubDate>Wed, 02 Jan 2019 08:11:05 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/randy/?p=177</guid>
@@ -3698,7 +3698,7 @@
 							</item>
 					<item>
 		<title>Testimonials</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/randy/2019/01/02/testimonials/</link>
+		<link>http://demo.woostify.com/randy/2019/01/02/testimonials/</link>
 		<pubDate>Wed, 02 Jan 2019 08:11:05 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/randy/?p=178</guid>
@@ -3769,7 +3769,7 @@
 							</item>
 					<item>
 		<title>Terms of Use</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/randy/2019/01/03/terms-of-use/</link>
+		<link>http://demo.woostify.com/randy/2019/01/03/terms-of-use/</link>
 		<pubDate>Thu, 03 Jan 2019 03:22:20 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/randy/?p=195</guid>
@@ -3840,7 +3840,7 @@
 							</item>
 					<item>
 		<title>Privacy Policy</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/randy/2019/01/03/privacy-policy/</link>
+		<link>http://demo.woostify.com/randy/2019/01/03/privacy-policy/</link>
 		<pubDate>Thu, 03 Jan 2019 03:22:20 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/randy/?p=196</guid>
@@ -3911,7 +3911,7 @@
 							</item>
 					<item>
 		<title>Accessibility Statement</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/randy/2019/01/03/accessibility-statement/</link>
+		<link>http://demo.woostify.com/randy/2019/01/03/accessibility-statement/</link>
 		<pubDate>Thu, 03 Jan 2019 03:22:20 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/randy/?p=197</guid>
@@ -3982,7 +3982,7 @@
 							</item>
 					<item>
 		<title>Company Information</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/randy/2019/01/03/company-information-2/</link>
+		<link>http://demo.woostify.com/randy/2019/01/03/company-information-2/</link>
 		<pubDate>Thu, 03 Jan 2019 03:22:20 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/randy/?p=198</guid>
@@ -4053,7 +4053,7 @@
 							</item>
 					<item>
 		<title></title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/randy/2019/01/03/260/</link>
+		<link>http://demo.woostify.com/randy/2019/01/03/260/</link>
 		<pubDate>Thu, 03 Jan 2019 10:28:53 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/randy/?p=260</guid>
@@ -4124,7 +4124,7 @@
 							</item>
 					<item>
 		<title>Dress</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/randy/2019/01/25/dress/</link>
+		<link>http://demo.woostify.com/randy/2019/01/25/dress/</link>
 		<pubDate>Fri, 25 Jan 2019 10:05:36 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/randy/?p=484</guid>
@@ -4195,7 +4195,7 @@
 							</item>
 					<item>
 		<title>Jumpsuits</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/randy/2019/01/25/jumpsuits/</link>
+		<link>http://demo.woostify.com/randy/2019/01/25/jumpsuits/</link>
 		<pubDate>Fri, 25 Jan 2019 10:05:37 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/randy/?p=485</guid>
@@ -4266,7 +4266,7 @@
 							</item>
 					<item>
 		<title>Shirts</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/randy/2019/01/25/shirts/</link>
+		<link>http://demo.woostify.com/randy/2019/01/25/shirts/</link>
 		<pubDate>Fri, 25 Jan 2019 10:05:37 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/randy/?p=486</guid>
@@ -4337,7 +4337,7 @@
 							</item>
 					<item>
 		<title>Sweatshirts</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/randy/2019/01/25/sweatshirts/</link>
+		<link>http://demo.woostify.com/randy/2019/01/25/sweatshirts/</link>
 		<pubDate>Fri, 25 Jan 2019 10:05:37 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/randy/?p=487</guid>
@@ -4408,7 +4408,7 @@
 							</item>
 					<item>
 		<title>Top</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/randy/2019/01/25/top/</link>
+		<link>http://demo.woostify.com/randy/2019/01/25/top/</link>
 		<pubDate>Fri, 25 Jan 2019 10:05:37 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/randy/?p=488</guid>
@@ -4479,7 +4479,7 @@
 							</item>
 					<item>
 		<title>Jackets</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/randy/2019/01/25/jackets/</link>
+		<link>http://demo.woostify.com/randy/2019/01/25/jackets/</link>
 		<pubDate>Fri, 25 Jan 2019 10:07:03 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/randy/?p=489</guid>
@@ -4550,7 +4550,7 @@
 							</item>
 					<item>
 		<title>Jeans</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/randy/2019/01/25/jeans/</link>
+		<link>http://demo.woostify.com/randy/2019/01/25/jeans/</link>
 		<pubDate>Fri, 25 Jan 2019 10:07:03 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/randy/?p=490</guid>
@@ -4621,7 +4621,7 @@
 							</item>
 					<item>
 		<title>Leather</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/randy/2019/01/25/leather/</link>
+		<link>http://demo.woostify.com/randy/2019/01/25/leather/</link>
 		<pubDate>Fri, 25 Jan 2019 10:07:03 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/randy/?p=491</guid>
@@ -4692,7 +4692,7 @@
 							</item>
 					<item>
 		<title>Sleeves</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/randy/2019/01/25/sleeves/</link>
+		<link>http://demo.woostify.com/randy/2019/01/25/sleeves/</link>
 		<pubDate>Fri, 25 Jan 2019 10:07:03 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/randy/?p=492</guid>
@@ -4763,7 +4763,7 @@
 							</item>
 					<item>
 		<title>Shorts</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/randy/2019/01/25/shorts/</link>
+		<link>http://demo.woostify.com/randy/2019/01/25/shorts/</link>
 		<pubDate>Fri, 25 Jan 2019 10:07:03 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/randy/?p=493</guid>
@@ -4834,7 +4834,7 @@
 							</item>
 					<item>
 		<title>Trousers</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/randy/2019/01/25/troursers/</link>
+		<link>http://demo.woostify.com/randy/2019/01/25/troursers/</link>
 		<pubDate>Fri, 25 Jan 2019 10:07:36 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/randy/?p=494</guid>
@@ -4905,7 +4905,7 @@
 							</item>
 					<item>
 		<title>Swimwear</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/randy/2019/01/25/swimwear/</link>
+		<link>http://demo.woostify.com/randy/2019/01/25/swimwear/</link>
 		<pubDate>Fri, 25 Jan 2019 10:08:17 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/randy/?p=495</guid>
@@ -4976,7 +4976,7 @@
 							</item>
 					<item>
 		<title>Blouses</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/randy/2019/01/25/blouses/</link>
+		<link>http://demo.woostify.com/randy/2019/01/25/blouses/</link>
 		<pubDate>Fri, 25 Jan 2019 10:08:17 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/randy/?p=496</guid>
@@ -5047,7 +5047,7 @@
 							</item>
 					<item>
 		<title>Skirts</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/randy/2019/01/25/skirts/</link>
+		<link>http://demo.woostify.com/randy/2019/01/25/skirts/</link>
 		<pubDate>Fri, 25 Jan 2019 10:08:17 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/randy/?p=497</guid>
@@ -5118,7 +5118,7 @@
 							</item>
 					<item>
 		<title>Shoes</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/randy/2019/01/25/shoes/</link>
+		<link>http://demo.woostify.com/randy/2019/01/25/shoes/</link>
 		<pubDate>Fri, 25 Jan 2019 10:09:16 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/randy/?p=498</guid>
@@ -5189,7 +5189,7 @@
 							</item>
 					<item>
 		<title>Bags &amp; Backpacks</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/randy/2019/01/25/bags-backpacks/</link>
+		<link>http://demo.woostify.com/randy/2019/01/25/bags-backpacks/</link>
 		<pubDate>Fri, 25 Jan 2019 10:09:16 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/randy/?p=499</guid>
@@ -5260,7 +5260,7 @@
 							</item>
 					<item>
 		<title>Watches</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/randy/2019/01/25/watches/</link>
+		<link>http://demo.woostify.com/randy/2019/01/25/watches/</link>
 		<pubDate>Fri, 25 Jan 2019 10:09:16 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/randy/?p=500</guid>
@@ -5331,7 +5331,7 @@
 							</item>
 					<item>
 		<title>Hats</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/randy/2019/01/25/hats/</link>
+		<link>http://demo.woostify.com/randy/2019/01/25/hats/</link>
 		<pubDate>Fri, 25 Jan 2019 10:09:16 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/randy/?p=501</guid>
@@ -5402,7 +5402,7 @@
 							</item>
 					<item>
 		<title>Scarves</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/randy/2019/01/25/scarves/</link>
+		<link>http://demo.woostify.com/randy/2019/01/25/scarves/</link>
 		<pubDate>Fri, 25 Jan 2019 10:09:16 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/randy/?p=502</guid>
@@ -5473,7 +5473,7 @@
 							</item>
 					<item>
 		<title>Pages</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/randy/2019/07/05/pages/</link>
+		<link>http://demo.woostify.com/randy/2019/07/05/pages/</link>
 		<pubDate>Fri, 05 Jul 2019 01:54:47 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/randy/?p=1022</guid>
@@ -5544,7 +5544,7 @@
 							</item>
 					<item>
 		<title></title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/randy/2019/08/30/1398/</link>
+		<link>http://demo.woostify.com/randy/2019/08/30/1398/</link>
 		<pubDate>Fri, 30 Aug 2019 03:03:34 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/randy/?p=1398</guid>
@@ -5615,7 +5615,7 @@
 							</item>
 					<item>
 		<title></title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/randy/2020/10/22/1566/</link>
+		<link>http://demo.woostify.com/randy/2020/10/22/1566/</link>
 		<pubDate>Thu, 22 Oct 2020 04:44:35 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/randy/?p=1566</guid>
@@ -5670,7 +5670,7 @@
 							</item>
 					<item>
 		<title>Hello world!</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/randy/?p=1</link>
+		<link>http://demo.woostify.com/randy/?p=1</link>
 		<pubDate>Thu, 22 Oct 2020 04:08:32 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/randy/?p=1</guid>
@@ -5709,7 +5709,7 @@ Commenter avatars come from <a href="https://gravatar.com">Gravatar</a>.]]></wp:
 					</item>
 					<item>
 		<title>Shop</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/randy/shop/</link>
+		<link>http://demo.woostify.com/randy/shop/</link>
 		<pubDate>Thu, 22 Oct 2020 04:08:41 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/randy/shop/</guid>
@@ -5731,7 +5731,7 @@ Commenter avatars come from <a href="https://gravatar.com">Gravatar</a>.]]></wp:
 														</item>
 					<item>
 		<title>Cart</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/randy/cart/</link>
+		<link>http://demo.woostify.com/randy/cart/</link>
 		<pubDate>Thu, 22 Oct 2020 04:08:41 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/randy/cart/</guid>
@@ -5753,7 +5753,7 @@ Commenter avatars come from <a href="https://gravatar.com">Gravatar</a>.]]></wp:
 														</item>
 					<item>
 		<title>Checkout</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/randy/checkout/</link>
+		<link>http://demo.woostify.com/randy/checkout/</link>
 		<pubDate>Thu, 22 Oct 2020 04:08:41 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/randy/checkout/</guid>
@@ -5775,7 +5775,7 @@ Commenter avatars come from <a href="https://gravatar.com">Gravatar</a>.]]></wp:
 														</item>
 					<item>
 		<title>My account</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/randy/my-account/</link>
+		<link>http://demo.woostify.com/randy/my-account/</link>
 		<pubDate>Thu, 22 Oct 2020 04:08:41 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/randy/my-account/</guid>
@@ -5797,7 +5797,7 @@ Commenter avatars come from <a href="https://gravatar.com">Gravatar</a>.]]></wp:
 														</item>
 					<item>
 		<title>Woostify</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/randy/</link>
+		<link>http://demo.woostify.com/randy/</link>
 		<pubDate>Tue, 18 Dec 2018 03:58:40 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/randy/?page_id=11</guid>
@@ -5901,7 +5901,7 @@ Commenter avatars come from <a href="https://gravatar.com">Gravatar</a>.]]></wp:
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_elementor_data]]></wp:meta_key>
-		<wp:meta_value><![CDATA[[{"id":"b430f77","elType":"section","settings":{"gap":"no","height":"min-height","background_background":"classic","background_image":{"url":"http:\/\/prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link\/randy\/wp-content\/uploads\/sites\/22\/2019\/08\/home-hero01.jpg","id":1524},"background_size":"cover","padding":{"unit":"px","top":"100","right":"0","bottom":"100","left":"0","isLinked":false},"custom_height_mobile":{"unit":"px","size":100,"sizes":[]},"background_repeat":"no-repeat","custom_height":{"unit":"px","size":600,"sizes":[]}},"elements":[{"id":"df2ce95","elType":"column","settings":{"_column_size":100},"elements":[{"id":"a919338","elType":"widget","settings":{"title":"Share the secret","align":"center","title_color":"#ffffff","typography_typography":"custom","typography_font_size":{"unit":"px","size":60,"sizes":[]}},"elements":[],"widgetType":"heading"},{"id":"b8af14d","elType":"widget","settings":{"title":"Let desire lead you","header_size":"span","align":"center","title_color":"#ffffff","typography_typography":"custom","typography_font_size":{"unit":"px","size":18,"sizes":[]},"typography_text_transform":"uppercase","_margin":{"unit":"px","top":"20","right":"0","bottom":"0","left":"0","isLinked":false},"typography_letter_spacing":{"unit":"px","size":2,"sizes":[]}},"elements":[],"widgetType":"heading"},{"id":"c1d9ae4","elType":"widget","settings":{"space":{"unit":"px","size":20,"sizes":[]}},"elements":[],"widgetType":"spacer"},{"id":"56775d9","elType":"widget","settings":{"space":{"unit":"px","size":10,"sizes":[]}},"elements":[],"widgetType":"spacer"},{"id":"f1a8fed","elType":"widget","settings":{"text":"Discover","align":"center","typography_typography":"custom","typography_text_transform":"uppercase","typography_text_decoration":"underline","background_color":"rgba(0,0,0,0)","text_padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false},"typography_font_size":{"unit":"px","size":15,"sizes":[]},"typography_font_weight":"600","typography_letter_spacing":{"unit":"px","size":1,"sizes":[]},"link":{"url":"https:\/\/woostify.com\/demos\/randy\/shop\/","is_external":"","nofollow":""}},"elements":[],"widgetType":"button"}],"isInner":false}],"isInner":false},{"id":"401c811","elType":"section","settings":{"layout":"full_width","height":"min-height","custom_height":{"unit":"px","size":600,"sizes":[]},"background_background":"classic","background_image":{"url":"http:\/\/prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link\/randy\/wp-content\/uploads\/sites\/22\/2019\/08\/our-story.jpg","id":1533},"background_repeat":"no-repeat","background_size":"cover","custom_height_mobile":{"unit":"px","size":400,"sizes":[]}},"elements":[{"id":"d66d2f8","elType":"column","settings":{"_column_size":100},"elements":[{"id":"9b8f205","elType":"section","settings":{"structure":"20"},"elements":[{"id":"56a2567","elType":"column","settings":{"_column_size":50,"_inline_size":null},"elements":[],"isInner":true},{"id":"1f9493a","elType":"column","settings":{"_column_size":50,"_inline_size":null},"elements":[{"id":"50692d5","elType":"widget","settings":{"color":"#ffffff","width":{"unit":"%","size":8,"sizes":[]},"align":"left","text":"Divider"},"elements":[],"widgetType":"divider"},{"id":"6bb1bc4","elType":"widget","settings":{"editor":"<p><span class=\"t-white\">MAECENAS RHONCUS <\/span> \u2014 eu lacus eu viverra. Nunc interdum<\/p><p>lorem a lacus mattis blandit. Donec id rutrum eros.<\/p><p>In orci leo, malesuada non. Morbi ac eros feugiat, lacinia<\/p><p>elit ut, elementum turpis. Curabitur justo sapien, tempus sit<\/p><p>amet rutrum eu, commodo eu lacus. Morbi in ligula nibh.<\/p><p>Maecenas ut mi at odio hendrerit eleifend.<\/p>","text_color":"#8c96a5","typography_typography":"custom","typography_line_height":{"unit":"px","size":15,"sizes":[]}},"elements":[],"widgetType":"text-editor"}],"isInner":true}],"isInner":true}],"isInner":false}],"isInner":false},{"id":"5a8df39","elType":"section","settings":[],"elements":[{"id":"861ebf3","elType":"column","settings":{"_column_size":100},"elements":[{"id":"9a9d7e0","elType":"widget","settings":{"space":{"unit":"px","size":90,"sizes":[]},"space_mobile":{"unit":"px","size":40,"sizes":[]}},"elements":[],"widgetType":"spacer"},{"id":"d34280b","elType":"widget","settings":{"title":"Featured Products","align":"center","typography_typography":"custom","typography_font_weight":"300"},"elements":[],"widgetType":"heading"},{"id":"0a95fa4","elType":"widget","settings":{"space_mobile":{"unit":"px","size":30,"sizes":[]}},"elements":[],"widgetType":"spacer"},{"id":"6dc152b","elType":"widget","settings":{"col":"3"},"elements":[],"widgetType":"woostify-products"}],"isInner":false}],"isInner":false},{"id":"0056e4e","elType":"section","settings":{"layout":"full_width","gap":"no","height":"min-height","custom_height":{"unit":"px","size":1000,"sizes":[]},"background_background":"classic","background_image":{"url":"http:\/\/prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link\/randy\/wp-content\/uploads\/sites\/22\/2019\/08\/instergram.jpg","id":1311},"background_position":"center left","background_xpos":{"unit":"px","size":300,"sizes":[]},"background_repeat":"no-repeat","background_size":"cover","custom_height_mobile":{"unit":"px","size":400,"sizes":[]},"background_xpos_mobile":{"unit":"px","size":800,"sizes":[]},"background_ypos_mobile":{"unit":"px","size":800,"sizes":[]}},"elements":[{"id":"9403877","elType":"column","settings":{"_column_size":100},"elements":[{"id":"04d422b","elType":"section","settings":{"structure":"20"},"elements":[{"id":"06454da","elType":"column","settings":{"_column_size":50,"_inline_size":63.077},"elements":[],"isInner":true},{"id":"dd0b41b","elType":"column","settings":{"_column_size":50,"_inline_size":36.923,"background_background":"classic","background_color":"#1d2736","padding":{"unit":"px","top":"70","right":"70","bottom":"70","left":"70","isLinked":true}},"elements":[{"id":"00bf5fb","elType":"widget","settings":{"image":{"url":"https:\/\/woostify.com\/demos\/randy\/wp-content\/uploads\/2019\/08\/instergrama.jpg","id":1328}},"elements":[],"widgetType":"image"},{"id":"0c4ff68","elType":"widget","settings":{"space":{"unit":"px","size":20,"sizes":[]}},"elements":[],"widgetType":"spacer"},{"id":"e30c5ed","elType":"widget","settings":{"title":"Follow @randy.perfume","link":{"url":"#","is_external":"","nofollow":""},"align":"center","title_color":"#ffffff","typography_typography":"custom","typography_font_size":{"unit":"px","size":14,"sizes":[]},"typography_text_transform":"uppercase"},"elements":[],"widgetType":"heading"}],"isInner":true}],"isInner":true}],"isInner":false}],"isInner":false},{"id":"5949a74","elType":"section","settings":{"layout":"full_width","gap":"no","background_background":"classic","background_color":"#232d3d","padding":{"unit":"px","top":"0","right":"0","bottom":"100","left":"0","isLinked":false},"padding_mobile":{"unit":"px","top":"50","right":"0","bottom":"50","left":"0","isLinked":false}},"elements":[{"id":"bb31f33","elType":"column","settings":{"_column_size":100},"elements":[{"id":"e560f46","elType":"section","settings":{"structure":"20"},"elements":[{"id":"b0fa099","elType":"column","settings":{"_column_size":50,"_inline_size":null},"elements":[{"id":"f04b9f7","elType":"widget","settings":{"title":"Latest News","title_color":"#ffffff"},"elements":[],"widgetType":"heading"},{"id":"1bad165","elType":"widget","settings":{"space":{"unit":"px","size":20,"sizes":[]}},"elements":[],"widgetType":"spacer"},{"id":"8887ec5","elType":"widget","settings":{"editor":"<p>Nunc interdum lorem a lacus mattis blandit.<\/p><p>Donec id rutrum ero. In orci leo, malesuada<\/p><p>non.<\/p>","typography_typography":"custom","typography_line_height":{"unit":"px","size":15,"sizes":[]}},"elements":[],"widgetType":"text-editor"},{"id":"7802b99","elType":"widget","settings":{"space":{"unit":"px","size":10,"sizes":[]}},"elements":[],"widgetType":"spacer"},{"id":"b5efd79","elType":"widget","settings":{"text":"all blog posts","typography_typography":"custom","typography_text_transform":"uppercase","background_color":"rgba(0,0,0,0)","text_padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false},"link":{"url":"\/blog","is_external":"","nofollow":""}},"elements":[],"widgetType":"button"}],"isInner":true},{"id":"9710b98","elType":"column","settings":{"_column_size":50,"_inline_size":null},"elements":[{"id":"6333a01","elType":"widget","settings":{"columns":"2","date":"yes","author":"yes","title_color":"#ffffff","excerpt":"","excerpt_color":"#8c96a5","read_more_text":"Read More","count":2},"elements":[],"widgetType":"woostify-post"}],"isInner":true}],"isInner":true}],"isInner":false}],"isInner":false}]]]></wp:meta_value>
+		<wp:meta_value><![CDATA[[{"id":"b430f77","elType":"section","settings":{"gap":"no","height":"min-height","background_background":"classic","background_image":{"url":"https:\/\/demo.woostify.com\/randy\/wp-content\/uploads\/sites\/22\/2019\/08\/home-hero01.jpg","id":1524},"background_size":"cover","padding":{"unit":"px","top":"100","right":"0","bottom":"100","left":"0","isLinked":false},"custom_height_mobile":{"unit":"px","size":100,"sizes":[]},"background_repeat":"no-repeat","custom_height":{"unit":"px","size":600,"sizes":[]}},"elements":[{"id":"df2ce95","elType":"column","settings":{"_column_size":100},"elements":[{"id":"a919338","elType":"widget","settings":{"title":"Share the secret","align":"center","title_color":"#ffffff","typography_typography":"custom","typography_font_size":{"unit":"px","size":60,"sizes":[]}},"elements":[],"widgetType":"heading"},{"id":"b8af14d","elType":"widget","settings":{"title":"Let desire lead you","header_size":"span","align":"center","title_color":"#ffffff","typography_typography":"custom","typography_font_size":{"unit":"px","size":18,"sizes":[]},"typography_text_transform":"uppercase","_margin":{"unit":"px","top":"20","right":"0","bottom":"0","left":"0","isLinked":false},"typography_letter_spacing":{"unit":"px","size":2,"sizes":[]}},"elements":[],"widgetType":"heading"},{"id":"c1d9ae4","elType":"widget","settings":{"space":{"unit":"px","size":20,"sizes":[]}},"elements":[],"widgetType":"spacer"},{"id":"56775d9","elType":"widget","settings":{"space":{"unit":"px","size":10,"sizes":[]}},"elements":[],"widgetType":"spacer"},{"id":"f1a8fed","elType":"widget","settings":{"text":"Discover","align":"center","typography_typography":"custom","typography_text_transform":"uppercase","typography_text_decoration":"underline","background_color":"rgba(0,0,0,0)","text_padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false},"typography_font_size":{"unit":"px","size":15,"sizes":[]},"typography_font_weight":"600","typography_letter_spacing":{"unit":"px","size":1,"sizes":[]},"link":{"url":"https:\/\/woostify.com\/demos\/randy\/shop\/","is_external":"","nofollow":""}},"elements":[],"widgetType":"button"}],"isInner":false}],"isInner":false},{"id":"401c811","elType":"section","settings":{"layout":"full_width","height":"min-height","custom_height":{"unit":"px","size":600,"sizes":[]},"background_background":"classic","background_image":{"url":"https:\/\/demo.woostify.com\/randy\/wp-content\/uploads\/sites\/22\/2019\/08\/our-story.jpg","id":1533},"background_repeat":"no-repeat","background_size":"cover","custom_height_mobile":{"unit":"px","size":400,"sizes":[]}},"elements":[{"id":"d66d2f8","elType":"column","settings":{"_column_size":100},"elements":[{"id":"9b8f205","elType":"section","settings":{"structure":"20"},"elements":[{"id":"56a2567","elType":"column","settings":{"_column_size":50,"_inline_size":null},"elements":[],"isInner":true},{"id":"1f9493a","elType":"column","settings":{"_column_size":50,"_inline_size":null},"elements":[{"id":"50692d5","elType":"widget","settings":{"color":"#ffffff","width":{"unit":"%","size":8,"sizes":[]},"align":"left","text":"Divider"},"elements":[],"widgetType":"divider"},{"id":"6bb1bc4","elType":"widget","settings":{"editor":"<p><span class=\"t-white\">MAECENAS RHONCUS <\/span> \u2014 eu lacus eu viverra. Nunc interdum<\/p><p>lorem a lacus mattis blandit. Donec id rutrum eros.<\/p><p>In orci leo, malesuada non. Morbi ac eros feugiat, lacinia<\/p><p>elit ut, elementum turpis. Curabitur justo sapien, tempus sit<\/p><p>amet rutrum eu, commodo eu lacus. Morbi in ligula nibh.<\/p><p>Maecenas ut mi at odio hendrerit eleifend.<\/p>","text_color":"#8c96a5","typography_typography":"custom","typography_line_height":{"unit":"px","size":15,"sizes":[]}},"elements":[],"widgetType":"text-editor"}],"isInner":true}],"isInner":true}],"isInner":false}],"isInner":false},{"id":"5a8df39","elType":"section","settings":[],"elements":[{"id":"861ebf3","elType":"column","settings":{"_column_size":100},"elements":[{"id":"9a9d7e0","elType":"widget","settings":{"space":{"unit":"px","size":90,"sizes":[]},"space_mobile":{"unit":"px","size":40,"sizes":[]}},"elements":[],"widgetType":"spacer"},{"id":"d34280b","elType":"widget","settings":{"title":"Featured Products","align":"center","typography_typography":"custom","typography_font_weight":"300"},"elements":[],"widgetType":"heading"},{"id":"0a95fa4","elType":"widget","settings":{"space_mobile":{"unit":"px","size":30,"sizes":[]}},"elements":[],"widgetType":"spacer"},{"id":"6dc152b","elType":"widget","settings":{"col":"3"},"elements":[],"widgetType":"woostify-products"}],"isInner":false}],"isInner":false},{"id":"0056e4e","elType":"section","settings":{"layout":"full_width","gap":"no","height":"min-height","custom_height":{"unit":"px","size":1000,"sizes":[]},"background_background":"classic","background_image":{"url":"https:\/\/demo.woostify.com\/randy\/wp-content\/uploads\/sites\/22\/2019\/08\/instergram.jpg","id":1311},"background_position":"center left","background_xpos":{"unit":"px","size":300,"sizes":[]},"background_repeat":"no-repeat","background_size":"cover","custom_height_mobile":{"unit":"px","size":400,"sizes":[]},"background_xpos_mobile":{"unit":"px","size":800,"sizes":[]},"background_ypos_mobile":{"unit":"px","size":800,"sizes":[]}},"elements":[{"id":"9403877","elType":"column","settings":{"_column_size":100},"elements":[{"id":"04d422b","elType":"section","settings":{"structure":"20"},"elements":[{"id":"06454da","elType":"column","settings":{"_column_size":50,"_inline_size":63.077},"elements":[],"isInner":true},{"id":"dd0b41b","elType":"column","settings":{"_column_size":50,"_inline_size":36.923,"background_background":"classic","background_color":"#1d2736","padding":{"unit":"px","top":"70","right":"70","bottom":"70","left":"70","isLinked":true}},"elements":[{"id":"00bf5fb","elType":"widget","settings":{"image":{"url":"https:\/\/woostify.com\/demos\/randy\/wp-content\/uploads\/2019\/08\/instergrama.jpg","id":1328}},"elements":[],"widgetType":"image"},{"id":"0c4ff68","elType":"widget","settings":{"space":{"unit":"px","size":20,"sizes":[]}},"elements":[],"widgetType":"spacer"},{"id":"e30c5ed","elType":"widget","settings":{"title":"Follow @randy.perfume","link":{"url":"#","is_external":"","nofollow":""},"align":"center","title_color":"#ffffff","typography_typography":"custom","typography_font_size":{"unit":"px","size":14,"sizes":[]},"typography_text_transform":"uppercase"},"elements":[],"widgetType":"heading"}],"isInner":true}],"isInner":true}],"isInner":false}],"isInner":false},{"id":"5949a74","elType":"section","settings":{"layout":"full_width","gap":"no","background_background":"classic","background_color":"#232d3d","padding":{"unit":"px","top":"0","right":"0","bottom":"100","left":"0","isLinked":false},"padding_mobile":{"unit":"px","top":"50","right":"0","bottom":"50","left":"0","isLinked":false}},"elements":[{"id":"bb31f33","elType":"column","settings":{"_column_size":100},"elements":[{"id":"e560f46","elType":"section","settings":{"structure":"20"},"elements":[{"id":"b0fa099","elType":"column","settings":{"_column_size":50,"_inline_size":null},"elements":[{"id":"f04b9f7","elType":"widget","settings":{"title":"Latest News","title_color":"#ffffff"},"elements":[],"widgetType":"heading"},{"id":"1bad165","elType":"widget","settings":{"space":{"unit":"px","size":20,"sizes":[]}},"elements":[],"widgetType":"spacer"},{"id":"8887ec5","elType":"widget","settings":{"editor":"<p>Nunc interdum lorem a lacus mattis blandit.<\/p><p>Donec id rutrum ero. In orci leo, malesuada<\/p><p>non.<\/p>","typography_typography":"custom","typography_line_height":{"unit":"px","size":15,"sizes":[]}},"elements":[],"widgetType":"text-editor"},{"id":"7802b99","elType":"widget","settings":{"space":{"unit":"px","size":10,"sizes":[]}},"elements":[],"widgetType":"spacer"},{"id":"b5efd79","elType":"widget","settings":{"text":"all blog posts","typography_typography":"custom","typography_text_transform":"uppercase","background_color":"rgba(0,0,0,0)","text_padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false},"link":{"url":"\/blog","is_external":"","nofollow":""}},"elements":[],"widgetType":"button"}],"isInner":true},{"id":"9710b98","elType":"column","settings":{"_column_size":50,"_inline_size":null},"elements":[{"id":"6333a01","elType":"widget","settings":{"columns":"2","date":"yes","author":"yes","title_color":"#ffffff","excerpt":"","excerpt_color":"#8c96a5","read_more_text":"Read More","count":2},"elements":[],"widgetType":"woostify-post"}],"isInner":true}],"isInner":true}],"isInner":false}],"isInner":false}]]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_elementor_version]]></wp:meta_key>
@@ -5926,7 +5926,7 @@ Commenter avatars come from <a href="https://gravatar.com">Gravatar</a>.]]></wp:
 							</item>
 					<item>
 		<title>Blog</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/randy/blog/</link>
+		<link>http://demo.woostify.com/randy/blog/</link>
 		<pubDate>Tue, 18 Dec 2018 03:59:01 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/randy/?page_id=13</guid>
@@ -5980,7 +5980,7 @@ Commenter avatars come from <a href="https://gravatar.com">Gravatar</a>.]]></wp:
 							</item>
 					<item>
 		<title>Contact Us</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/randy/contact-us/</link>
+		<link>http://demo.woostify.com/randy/contact-us/</link>
 		<pubDate>Thu, 03 Jan 2019 03:25:53 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/randy/?page_id=201</guid>
@@ -6074,7 +6074,7 @@ Commenter avatars come from <a href="https://gravatar.com">Gravatar</a>.]]></wp:
 							</item>
 					<item>
 		<title>Wishlist</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/randy/wishlist/</link>
+		<link>http://demo.woostify.com/randy/wishlist/</link>
 		<pubDate>Fri, 18 Jan 2019 03:40:52 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/randy/?page_id=375</guid>
@@ -6130,7 +6130,7 @@ Commenter avatars come from <a href="https://gravatar.com">Gravatar</a>.]]></wp:
 							</item>
 					<item>
 		<title>Beautiful Perfume for Men</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/randy/2019/08/29/beautiful-perfume-for-men/</link>
+		<link>http://demo.woostify.com/randy/2019/08/29/beautiful-perfume-for-men/</link>
 		<pubDate>Thu, 29 Aug 2019 04:34:18 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/randy/?p=1262</guid>
@@ -6207,7 +6207,7 @@ Commenter avatars come from <a href="https://gravatar.com">Gravatar</a>.]]></wp:
 							</item>
 					<item>
 		<title>Beautiful Women Perfume</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/randy/2019/08/29/beautiful-women-perfume/</link>
+		<link>http://demo.woostify.com/randy/2019/08/29/beautiful-women-perfume/</link>
 		<pubDate>Thu, 29 Aug 2019 04:35:54 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/randy/?p=1269</guid>
@@ -6284,7 +6284,7 @@ Commenter avatars come from <a href="https://gravatar.com">Gravatar</a>.]]></wp:
 							</item>
 					<item>
 		<title>Beautiful men Perfume</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/randy/2019/08/29/beautiful-men-perfume/</link>
+		<link>http://demo.woostify.com/randy/2019/08/29/beautiful-men-perfume/</link>
 		<pubDate>Thu, 29 Aug 2019 04:37:25 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/randy/?p=1274</guid>
@@ -6361,7 +6361,7 @@ Commenter avatars come from <a href="https://gravatar.com">Gravatar</a>.]]></wp:
 							</item>
 					<item>
 		<title>Beautiful Perfume for Women</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/randy/2019/08/29/beautiful-perfume-for-women/</link>
+		<link>http://demo.woostify.com/randy/2019/08/29/beautiful-perfume-for-women/</link>
 		<pubDate>Thu, 29 Aug 2019 04:37:43 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/randy/?p=1275</guid>
@@ -6438,7 +6438,7 @@ Commenter avatars come from <a href="https://gravatar.com">Gravatar</a>.]]></wp:
 							</item>
 					<item>
 		<title>About Us</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/randy/about-us/</link>
+		<link>http://demo.woostify.com/randy/about-us/</link>
 		<pubDate>Fri, 30 Aug 2019 01:38:18 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/randy/?page_id=1347</guid>
@@ -6528,7 +6528,7 @@ on the line</h2>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_elementor_data]]></wp:meta_key>
-		<wp:meta_value><![CDATA[[{"id":"56bf11a","elType":"section","settings":{"layout":"full_width","gap":"no","height":"min-height","custom_height":{"unit":"px","size":800,"sizes":[]},"background_background":"classic","background_image":{"url":"http:\/\/prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link\/randy\/wp-content\/uploads\/sites\/22\/2019\/08\/bg-about.jpg","id":1539},"background_position":"initial","background_repeat":"no-repeat","background_size":"cover","margin":{"unit":"px","top":"-55","right":0,"bottom":"0","left":0,"isLinked":false}},"elements":[{"id":"5cd11ce","elType":"column","settings":{"_column_size":100},"elements":[{"id":"1c0595e","elType":"section","settings":{"structure":"20"},"elements":[{"id":"d1fb826","elType":"column","settings":{"_column_size":50,"_inline_size":null},"elements":[{"id":"8342775","elType":"widget","settings":{"title":"Our Story","title_color":"#ffffff","typography_typography":"custom","typography_font_size":{"unit":"px","size":18,"sizes":[]}},"elements":[],"widgetType":"heading"},{"id":"afbf55d","elType":"widget","settings":{"space":{"unit":"px","size":20,"sizes":[]},"space_mobile":{"unit":"px","size":0,"sizes":[]}},"elements":[],"widgetType":"spacer"},{"id":"4727527","elType":"widget","settings":{"title":"We put our reputation <br>\non the line","title_color":"#ffffff","typography_typography":"custom","typography_font_size":{"unit":"px","size":36,"sizes":[]},"typography_line_height":{"unit":"px","size":48,"sizes":[]}},"elements":[],"widgetType":"heading"}],"isInner":true},{"id":"fb6a046","elType":"column","settings":{"_column_size":50,"_inline_size":null},"elements":[{"id":"5f1585d","elType":"widget","settings":{"editor":"<p><span class=\"t-white\">MAECENAS RHONCUS <\/span> \u2014 eu lacus eu viverra. Nunc interdum lorem a lacus mattis blandit. Donec id rutrum eros. In orci leo, malesuada non. Morbi ac eros feugiat, lacinia elit ut, elementum turpis. Curabitur justo sapien, tempus sit amet rutrum<br \/>eu, commodo eu lacus. Morbi in ligula nibh.<\/p>","text_color":"#8c96a5","typography_typography":"custom","typography_line_height":{"unit":"px","size":22,"sizes":[]}},"elements":[],"widgetType":"text-editor"},{"id":"28e5d10","elType":"widget","settings":{"space":{"unit":"px","size":5,"sizes":[]}},"elements":[],"widgetType":"spacer"},{"id":"932cbbb","elType":"widget","settings":{"editor":"<p>Eget velit sodales, tristique dui a, malesuada erat. Phasellus at neque augue. Nullam convallis tincidunt tincidunt. Maecenas a libero aliquam, sollicitudin lectus vel, ultrices lacus.<\/p>","text_color":"#8c96a5","typography_typography":"custom","typography_line_height":{"unit":"px","size":26,"sizes":[]},"typography_font_size":{"unit":"px","size":18,"sizes":[]},"typography_font_style":"italic","_padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"40","isLinked":false}},"elements":[],"widgetType":"text-editor"},{"id":"99a3e94","elType":"widget","settings":{"space":{"unit":"px","size":5,"sizes":[]}},"elements":[],"widgetType":"spacer"},{"id":"cc16c0c","elType":"widget","settings":{"editor":"<p>Sem eu aliquet eleifend, turpis mauris faucibus ligula, vel hendrerit lacus augue sit amet lacus. Sed\u00a0 id ornare neque. In eget tortor varius, pharetra elit porttitor, porttitor metus. Integer bibendum diam vitae mi semper pellentesque.<\/p>","text_color":"#8c96a5","typography_typography":"custom","typography_line_height":{"unit":"px","size":22,"sizes":[]}},"elements":[],"widgetType":"text-editor"}],"isInner":true}],"isInner":true}],"isInner":false}],"isInner":false},{"id":"176bdab","elType":"section","settings":{"layout":"full_width","gap":"no","height":"min-height","custom_height":{"unit":"px","size":600,"sizes":[]},"background_background":"classic","background_image":{"url":"http:\/\/prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link\/randy\/wp-content\/uploads\/sites\/22\/2019\/08\/about-image01.jpg","id":1363},"background_repeat":"no-repeat","background_size":"cover","custom_height_mobile":{"unit":"px","size":200,"sizes":[]}},"elements":[{"id":"14673e5","elType":"column","settings":{"_column_size":100},"elements":[],"isInner":false}],"isInner":false},{"id":"391c943","elType":"section","settings":{"layout":"full_width","gap":"no","background_background":"classic","background_color":"#232d3d","padding":{"unit":"px","top":"100","right":"0","bottom":"100","left":"0","isLinked":false}},"elements":[{"id":"eed3a15","elType":"column","settings":{"_column_size":100},"elements":[{"id":"068539b","elType":"widget","settings":{"title":"Our Partners","align":"center","title_color":"#ffffff","typography_typography":"custom","typography_font_size":{"unit":"px","size":18,"sizes":[]},"typography_text_transform":"uppercase"},"elements":[],"widgetType":"heading"},{"id":"c02058d","elType":"widget","settings":{"space":{"unit":"px","size":5,"sizes":[]}},"elements":[],"widgetType":"spacer"},{"id":"2a8267e","elType":"widget","settings":{"title":"We collaborate with ambitious brands & <br>we\u2019d love to build something great.","align":"center","title_color":"#ffffff","typography_typography":"custom","typography_font_size":{"unit":"px","size":36,"sizes":[]},"typography_line_height":{"unit":"px","size":48,"sizes":[]}},"elements":[],"widgetType":"heading"},{"id":"abba45c","elType":"section","settings":{"content_width":{"unit":"px","size":550,"sizes":[]}},"elements":[{"id":"e02d1c5","elType":"column","settings":{"_column_size":100,"_inline_size":null},"elements":[{"id":"0699961","elType":"widget","settings":{"editor":"<p>Sem eu aliquet eleifend, turpis mauris faucibus ligula, vel hendrerit lacus augue sit amet lacus. Sed id ornare neque. In eget tortor varius, pharetra elit porttitor, porttitor metus. Integer bibendum diam vitae mi semper pellentesque.<\/p>","align":"center"},"elements":[],"widgetType":"text-editor"}],"isInner":true}],"isInner":true},{"id":"3983cd0","elType":"section","settings":[],"elements":[{"id":"8f3f76d","elType":"column","settings":{"_column_size":100,"_inline_size":null},"elements":[{"id":"a0052a0","elType":"widget","settings":[],"elements":[],"widgetType":"spacer"},{"id":"adf09e1","elType":"widget","settings":{"wp_gallery":[{"id":1376,"url":"http:\/\/prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link\/randy\/wp-content\/uploads\/sites\/22\/2019\/08\/logo01.jpg"},{"id":1377,"url":"http:\/\/prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link\/randy\/wp-content\/uploads\/sites\/22\/2019\/08\/logo02.jpg"},{"id":1378,"url":"http:\/\/prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link\/randy\/wp-content\/uploads\/sites\/22\/2019\/08\/logo03.jpg"},{"id":1379,"url":"http:\/\/prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link\/randy\/wp-content\/uploads\/sites\/22\/2019\/08\/logo04.jpg"},{"id":1380,"url":"http:\/\/prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link\/randy\/wp-content\/uploads\/sites\/22\/2019\/08\/logo05.jpg"},{"id":1381,"url":"http:\/\/prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link\/randy\/wp-content\/uploads\/sites\/22\/2019\/08\/logo06.jpg"},{"id":1383,"url":"http:\/\/prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link\/randy\/wp-content\/uploads\/sites\/22\/2019\/08\/logo07.jpg"},{"id":1384,"url":"http:\/\/prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link\/randy\/wp-content\/uploads\/sites\/22\/2019\/08\/logo08.jpg"},{"id":1385,"url":"http:\/\/prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link\/randy\/wp-content\/uploads\/sites\/22\/2019\/08\/logo09.jpg"},{"id":1386,"url":"http:\/\/prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link\/randy\/wp-content\/uploads\/sites\/22\/2019\/08\/logo10.jpg"},{"id":1389,"url":"http:\/\/prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link\/randy\/wp-content\/uploads\/sites\/22\/2019\/08\/logo01-1.jpg"},{"id":1387,"url":"http:\/\/prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link\/randy\/wp-content\/uploads\/sites\/22\/2019\/08\/logo11.jpg"}],"thumbnail_size":"full","image_spacing":"custom","image_spacing_custom":{"unit":"px","size":5,"sizes":[]}},"elements":[],"widgetType":"image-gallery"}],"isInner":true}],"isInner":true}],"isInner":false}],"isInner":false}]]]></wp:meta_value>
+		<wp:meta_value><![CDATA[[{"id":"56bf11a","elType":"section","settings":{"layout":"full_width","gap":"no","height":"min-height","custom_height":{"unit":"px","size":800,"sizes":[]},"background_background":"classic","background_image":{"url":"https:\/\/demo.woostify.com\/randy\/wp-content\/uploads\/sites\/22\/2019\/08\/bg-about.jpg","id":1539},"background_position":"initial","background_repeat":"no-repeat","background_size":"cover","margin":{"unit":"px","top":"-55","right":0,"bottom":"0","left":0,"isLinked":false}},"elements":[{"id":"5cd11ce","elType":"column","settings":{"_column_size":100},"elements":[{"id":"1c0595e","elType":"section","settings":{"structure":"20"},"elements":[{"id":"d1fb826","elType":"column","settings":{"_column_size":50,"_inline_size":null},"elements":[{"id":"8342775","elType":"widget","settings":{"title":"Our Story","title_color":"#ffffff","typography_typography":"custom","typography_font_size":{"unit":"px","size":18,"sizes":[]}},"elements":[],"widgetType":"heading"},{"id":"afbf55d","elType":"widget","settings":{"space":{"unit":"px","size":20,"sizes":[]},"space_mobile":{"unit":"px","size":0,"sizes":[]}},"elements":[],"widgetType":"spacer"},{"id":"4727527","elType":"widget","settings":{"title":"We put our reputation <br>\non the line","title_color":"#ffffff","typography_typography":"custom","typography_font_size":{"unit":"px","size":36,"sizes":[]},"typography_line_height":{"unit":"px","size":48,"sizes":[]}},"elements":[],"widgetType":"heading"}],"isInner":true},{"id":"fb6a046","elType":"column","settings":{"_column_size":50,"_inline_size":null},"elements":[{"id":"5f1585d","elType":"widget","settings":{"editor":"<p><span class=\"t-white\">MAECENAS RHONCUS <\/span> \u2014 eu lacus eu viverra. Nunc interdum lorem a lacus mattis blandit. Donec id rutrum eros. In orci leo, malesuada non. Morbi ac eros feugiat, lacinia elit ut, elementum turpis. Curabitur justo sapien, tempus sit amet rutrum<br \/>eu, commodo eu lacus. Morbi in ligula nibh.<\/p>","text_color":"#8c96a5","typography_typography":"custom","typography_line_height":{"unit":"px","size":22,"sizes":[]}},"elements":[],"widgetType":"text-editor"},{"id":"28e5d10","elType":"widget","settings":{"space":{"unit":"px","size":5,"sizes":[]}},"elements":[],"widgetType":"spacer"},{"id":"932cbbb","elType":"widget","settings":{"editor":"<p>Eget velit sodales, tristique dui a, malesuada erat. Phasellus at neque augue. Nullam convallis tincidunt tincidunt. Maecenas a libero aliquam, sollicitudin lectus vel, ultrices lacus.<\/p>","text_color":"#8c96a5","typography_typography":"custom","typography_line_height":{"unit":"px","size":26,"sizes":[]},"typography_font_size":{"unit":"px","size":18,"sizes":[]},"typography_font_style":"italic","_padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"40","isLinked":false}},"elements":[],"widgetType":"text-editor"},{"id":"99a3e94","elType":"widget","settings":{"space":{"unit":"px","size":5,"sizes":[]}},"elements":[],"widgetType":"spacer"},{"id":"cc16c0c","elType":"widget","settings":{"editor":"<p>Sem eu aliquet eleifend, turpis mauris faucibus ligula, vel hendrerit lacus augue sit amet lacus. Sed\u00a0 id ornare neque. In eget tortor varius, pharetra elit porttitor, porttitor metus. Integer bibendum diam vitae mi semper pellentesque.<\/p>","text_color":"#8c96a5","typography_typography":"custom","typography_line_height":{"unit":"px","size":22,"sizes":[]}},"elements":[],"widgetType":"text-editor"}],"isInner":true}],"isInner":true}],"isInner":false}],"isInner":false},{"id":"176bdab","elType":"section","settings":{"layout":"full_width","gap":"no","height":"min-height","custom_height":{"unit":"px","size":600,"sizes":[]},"background_background":"classic","background_image":{"url":"https:\/\/demo.woostify.com\/randy\/wp-content\/uploads\/sites\/22\/2019\/08\/about-image01.jpg","id":1363},"background_repeat":"no-repeat","background_size":"cover","custom_height_mobile":{"unit":"px","size":200,"sizes":[]}},"elements":[{"id":"14673e5","elType":"column","settings":{"_column_size":100},"elements":[],"isInner":false}],"isInner":false},{"id":"391c943","elType":"section","settings":{"layout":"full_width","gap":"no","background_background":"classic","background_color":"#232d3d","padding":{"unit":"px","top":"100","right":"0","bottom":"100","left":"0","isLinked":false}},"elements":[{"id":"eed3a15","elType":"column","settings":{"_column_size":100},"elements":[{"id":"068539b","elType":"widget","settings":{"title":"Our Partners","align":"center","title_color":"#ffffff","typography_typography":"custom","typography_font_size":{"unit":"px","size":18,"sizes":[]},"typography_text_transform":"uppercase"},"elements":[],"widgetType":"heading"},{"id":"c02058d","elType":"widget","settings":{"space":{"unit":"px","size":5,"sizes":[]}},"elements":[],"widgetType":"spacer"},{"id":"2a8267e","elType":"widget","settings":{"title":"We collaborate with ambitious brands & <br>we\u2019d love to build something great.","align":"center","title_color":"#ffffff","typography_typography":"custom","typography_font_size":{"unit":"px","size":36,"sizes":[]},"typography_line_height":{"unit":"px","size":48,"sizes":[]}},"elements":[],"widgetType":"heading"},{"id":"abba45c","elType":"section","settings":{"content_width":{"unit":"px","size":550,"sizes":[]}},"elements":[{"id":"e02d1c5","elType":"column","settings":{"_column_size":100,"_inline_size":null},"elements":[{"id":"0699961","elType":"widget","settings":{"editor":"<p>Sem eu aliquet eleifend, turpis mauris faucibus ligula, vel hendrerit lacus augue sit amet lacus. Sed id ornare neque. In eget tortor varius, pharetra elit porttitor, porttitor metus. Integer bibendum diam vitae mi semper pellentesque.<\/p>","align":"center"},"elements":[],"widgetType":"text-editor"}],"isInner":true}],"isInner":true},{"id":"3983cd0","elType":"section","settings":[],"elements":[{"id":"8f3f76d","elType":"column","settings":{"_column_size":100,"_inline_size":null},"elements":[{"id":"a0052a0","elType":"widget","settings":[],"elements":[],"widgetType":"spacer"},{"id":"adf09e1","elType":"widget","settings":{"wp_gallery":[{"id":1376,"url":"https:\/\/demo.woostify.com\/randy\/wp-content\/uploads\/sites\/22\/2019\/08\/logo01.jpg"},{"id":1377,"url":"https:\/\/demo.woostify.com\/randy\/wp-content\/uploads\/sites\/22\/2019\/08\/logo02.jpg"},{"id":1378,"url":"https:\/\/demo.woostify.com\/randy\/wp-content\/uploads\/sites\/22\/2019\/08\/logo03.jpg"},{"id":1379,"url":"https:\/\/demo.woostify.com\/randy\/wp-content\/uploads\/sites\/22\/2019\/08\/logo04.jpg"},{"id":1380,"url":"https:\/\/demo.woostify.com\/randy\/wp-content\/uploads\/sites\/22\/2019\/08\/logo05.jpg"},{"id":1381,"url":"https:\/\/demo.woostify.com\/randy\/wp-content\/uploads\/sites\/22\/2019\/08\/logo06.jpg"},{"id":1383,"url":"https:\/\/demo.woostify.com\/randy\/wp-content\/uploads\/sites\/22\/2019\/08\/logo07.jpg"},{"id":1384,"url":"https:\/\/demo.woostify.com\/randy\/wp-content\/uploads\/sites\/22\/2019\/08\/logo08.jpg"},{"id":1385,"url":"https:\/\/demo.woostify.com\/randy\/wp-content\/uploads\/sites\/22\/2019\/08\/logo09.jpg"},{"id":1386,"url":"https:\/\/demo.woostify.com\/randy\/wp-content\/uploads\/sites\/22\/2019\/08\/logo10.jpg"},{"id":1389,"url":"https:\/\/demo.woostify.com\/randy\/wp-content\/uploads\/sites\/22\/2019\/08\/logo01-1.jpg"},{"id":1387,"url":"https:\/\/demo.woostify.com\/randy\/wp-content\/uploads\/sites\/22\/2019\/08\/logo11.jpg"}],"thumbnail_size":"full","image_spacing":"custom","image_spacing_custom":{"unit":"px","size":5,"sizes":[]}},"elements":[],"widgetType":"image-gallery"}],"isInner":true}],"isInner":true}],"isInner":false}],"isInner":false}]]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_elementor_controls_usage]]></wp:meta_key>
@@ -6537,7 +6537,7 @@ on the line</h2>
 							</item>
 					<item>
 		<title>Hello world!</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/randy/?p=1541</link>
+		<link>http://demo.woostify.com/randy/?p=1541</link>
 		<pubDate>Wed, 20 Nov 2019 09:10:09 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/pro/randy/?p=1</guid>
@@ -6584,7 +6584,7 @@ Commenter avatars come from <a href=\"https://gravatar.com\" rel=\"nofollow ugc\
 					</item>
 					<item>
 		<title>Hello world!</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/randy/?p=1548</link>
+		<link>http://demo.woostify.com/randy/?p=1548</link>
 		<pubDate>Tue, 19 May 2020 06:57:47 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://prodemo.woostify.com/randy/?p=1</guid>
@@ -6627,7 +6627,7 @@ Commenter avatars come from <a href=\"https://gravatar.com\" rel=\"nofollow ugc\
 					</item>
 					<item>
 		<title></title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/randy/2020/10/22/1567/</link>
+		<link>http://demo.woostify.com/randy/2020/10/22/1567/</link>
 		<pubDate>Thu, 22 Oct 2020 04:44:35 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/randy/?p=1567</guid>
@@ -6682,7 +6682,7 @@ Commenter avatars come from <a href=\"https://gravatar.com\" rel=\"nofollow ugc\
 							</item>
 					<item>
 		<title></title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/randy/2020/10/22/1568/</link>
+		<link>http://demo.woostify.com/randy/2020/10/22/1568/</link>
 		<pubDate>Thu, 22 Oct 2020 04:44:35 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/randy/?p=1568</guid>
@@ -6737,7 +6737,7 @@ Commenter avatars come from <a href=\"https://gravatar.com\" rel=\"nofollow ugc\
 							</item>
 					<item>
 		<title></title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/randy/2020/10/22/1569/</link>
+		<link>http://demo.woostify.com/randy/2020/10/22/1569/</link>
 		<pubDate>Thu, 22 Oct 2020 04:44:35 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/randy/?p=1569</guid>
@@ -6792,7 +6792,7 @@ Commenter avatars come from <a href=\"https://gravatar.com\" rel=\"nofollow ugc\
 							</item>
 					<item>
 		<title>Product Variation</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/randy/2020/10/22/product-variation-2/</link>
+		<link>http://demo.woostify.com/randy/2020/10/22/product-variation-2/</link>
 		<pubDate>Thu, 22 Oct 2020 07:25:56 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/randy/?p=1572</guid>
@@ -6847,7 +6847,7 @@ Commenter avatars come from <a href=\"https://gravatar.com\" rel=\"nofollow ugc\
 							</item>
 					<item>
 		<title>Rose water</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/randy/product/rose-water/</link>
+		<link>http://demo.woostify.com/randy/product/rose-water/</link>
 		<pubDate>Thu, 29 Aug 2019 03:27:36 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/randy/?post_type=product&#038;p=1223</guid>
@@ -6976,7 +6976,7 @@ Commenter avatars come from <a href=\"https://gravatar.com\" rel=\"nofollow ugc\
 							</item>
 					<item>
 		<title>Lily water</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/randy/product/lily-water/</link>
+		<link>http://demo.woostify.com/randy/product/lily-water/</link>
 		<pubDate>Thu, 29 Aug 2019 04:05:46 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/randy/?post_type=product&#038;p=1248</guid>
@@ -7102,7 +7102,7 @@ Commenter avatars come from <a href=\"https://gravatar.com\" rel=\"nofollow ugc\
 							</item>
 					<item>
 		<title>Orchid water</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/randy/product/orchid-water/</link>
+		<link>http://demo.woostify.com/randy/product/orchid-water/</link>
 		<pubDate>Thu, 29 Aug 2019 04:06:59 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/randy/?post_type=product&#038;p=1250</guid>
@@ -7228,7 +7228,7 @@ Commenter avatars come from <a href=\"https://gravatar.com\" rel=\"nofollow ugc\
 							</item>
 					<item>
 		<title>Perfume Japan</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/randy/product/perfume-japan/</link>
+		<link>http://demo.woostify.com/randy/product/perfume-japan/</link>
 		<pubDate>Thu, 29 Aug 2019 04:09:13 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/randy/?post_type=product&#038;p=1251</guid>
@@ -7354,7 +7354,7 @@ Commenter avatars come from <a href=\"https://gravatar.com\" rel=\"nofollow ugc\
 							</item>
 					<item>
 		<title>Perfume China</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/randy/product/perfume-china/</link>
+		<link>http://demo.woostify.com/randy/product/perfume-china/</link>
 		<pubDate>Thu, 29 Aug 2019 04:16:26 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/randy/?post_type=product&#038;p=1252</guid>
@@ -7480,7 +7480,7 @@ Commenter avatars come from <a href=\"https://gravatar.com\" rel=\"nofollow ugc\
 							</item>
 					<item>
 		<title>Perfume</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/randy/product/perfume/</link>
+		<link>http://demo.woostify.com/randy/product/perfume/</link>
 		<pubDate>Thu, 29 Aug 2019 04:17:47 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/randy/?post_type=product&#038;p=1253</guid>
@@ -7605,7 +7605,7 @@ Commenter avatars come from <a href=\"https://gravatar.com\" rel=\"nofollow ugc\
 							</item>
 					<item>
 		<title>Perfume New</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/randy/product/perfume-new/</link>
+		<link>http://demo.woostify.com/randy/product/perfume-new/</link>
 		<pubDate>Thu, 29 Aug 2019 04:19:03 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/randy/?post_type=product&#038;p=1254</guid>
@@ -7731,7 +7731,7 @@ Commenter avatars come from <a href=\"https://gravatar.com\" rel=\"nofollow ugc\
 							</item>
 					<item>
 		<title>Perfume Hot 2019</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/randy/product/perfume-hot-2019/</link>
+		<link>http://demo.woostify.com/randy/product/perfume-hot-2019/</link>
 		<pubDate>Thu, 29 Aug 2019 04:20:42 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/randy/?post_type=product&#038;p=1255</guid>
@@ -7893,7 +7893,7 @@ Commenter avatars come from <a href=\"https://gravatar.com\" rel=\"nofollow ugc\
 							</item>
 					<item>
 		<title>Perfume hot new 2018</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/randy/product/perfume-hot-new-2018/</link>
+		<link>http://demo.woostify.com/randy/product/perfume-hot-new-2018/</link>
 		<pubDate>Thu, 29 Aug 2019 04:23:46 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/randy/?post_type=product&#038;p=1257</guid>
@@ -8019,7 +8019,7 @@ Commenter avatars come from <a href=\"https://gravatar.com\" rel=\"nofollow ugc\
 							</item>
 					<item>
 		<title>Perfume Paris</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/randy/product/perfume-paris/</link>
+		<link>http://demo.woostify.com/randy/product/perfume-paris/</link>
 		<pubDate>Thu, 29 Aug 2019 04:26:00 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/randy/?post_type=product&#038;p=1258</guid>
@@ -8145,7 +8145,7 @@ Commenter avatars come from <a href=\"https://gravatar.com\" rel=\"nofollow ugc\
 							</item>
 					<item>
 		<title>Flowered Perfume</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/randy/2019/08/29/flowered-perfume/</link>
+		<link>http://demo.woostify.com/randy/2019/08/29/flowered-perfume/</link>
 		<pubDate>Thu, 29 Aug 2019 04:37:54 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/randy/?p=1273</guid>
@@ -8222,7 +8222,7 @@ Commenter avatars come from <a href=\"https://gravatar.com\" rel=\"nofollow ugc\
 							</item>
 					<item>
 		<title>Perfume Hot 2019 - Red, XL</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/randy/product/perfume-hot-2019/?attribute_pa_color=red&#038;attribute_pa_size=xl</link>
+		<link>http://demo.woostify.com/randy/product/perfume-hot-2019/?attribute_pa_color=red&#038;attribute_pa_size=xl</link>
 		<pubDate>Fri, 30 Aug 2019 08:38:23 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/randy/?post_type=product_variation&#038;p=1501</guid>
@@ -8344,7 +8344,7 @@ Commenter avatars come from <a href=\"https://gravatar.com\" rel=\"nofollow ugc\
 							</item>
 					<item>
 		<title>Perfume Hot 2019 - lemon yellow, L</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/randy/product/perfume-hot-2019/?attribute_pa_color=lemon-yellow&#038;attribute_pa_size=l</link>
+		<link>http://demo.woostify.com/randy/product/perfume-hot-2019/?attribute_pa_color=lemon-yellow&#038;attribute_pa_size=l</link>
 		<pubDate>Fri, 30 Aug 2019 08:38:25 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/randy/?post_type=product_variation&#038;p=1502</guid>
@@ -8466,7 +8466,7 @@ Commenter avatars come from <a href=\"https://gravatar.com\" rel=\"nofollow ugc\
 							</item>
 					<item>
 		<title>Perfume Hot 2019 - Green, M</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/randy/product/perfume-hot-2019/?attribute_pa_color=green&#038;attribute_pa_size=m</link>
+		<link>http://demo.woostify.com/randy/product/perfume-hot-2019/?attribute_pa_color=green&#038;attribute_pa_size=m</link>
 		<pubDate>Fri, 30 Aug 2019 08:38:27 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/randy/?post_type=product_variation&#038;p=1503</guid>
@@ -8588,7 +8588,7 @@ Commenter avatars come from <a href=\"https://gravatar.com\" rel=\"nofollow ugc\
 							</item>
 					<item>
 		<title>Perfume Hot 2019 - Blue, S</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/randy/product/perfume-hot-2019/?attribute_pa_color=blue&#038;attribute_pa_size=s</link>
+		<link>http://demo.woostify.com/randy/product/perfume-hot-2019/?attribute_pa_color=blue&#038;attribute_pa_size=s</link>
 		<pubDate>Fri, 30 Aug 2019 08:38:29 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/randy/?post_type=product_variation&#038;p=1504</guid>
@@ -8710,7 +8710,7 @@ Commenter avatars come from <a href=\"https://gravatar.com\" rel=\"nofollow ugc\
 							</item>
 					<item>
 		<title>Perfume Hot 2019 - Red, L</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/randy/product/perfume-hot-2019/?attribute_pa_color=red&#038;attribute_pa_size=l</link>
+		<link>http://demo.woostify.com/randy/product/perfume-hot-2019/?attribute_pa_color=red&#038;attribute_pa_size=l</link>
 		<pubDate>Fri, 30 Aug 2019 08:42:25 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/randy/?post_type=product_variation&#038;p=1506</guid>
@@ -8824,7 +8824,7 @@ Commenter avatars come from <a href=\"https://gravatar.com\" rel=\"nofollow ugc\
 							</item>
 					<item>
 		<title>Perfume Hot 2019 - lemon yellow, M</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/randy/product/perfume-hot-2019/?attribute_pa_color=lemon-yellow&#038;attribute_pa_size=m</link>
+		<link>http://demo.woostify.com/randy/product/perfume-hot-2019/?attribute_pa_color=lemon-yellow&#038;attribute_pa_size=m</link>
 		<pubDate>Fri, 30 Aug 2019 08:42:27 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/randy/?post_type=product_variation&#038;p=1507</guid>
@@ -8946,7 +8946,7 @@ Commenter avatars come from <a href=\"https://gravatar.com\" rel=\"nofollow ugc\
 							</item>
 					<item>
 		<title>Perfume Hot 2019 - Green, XL</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/randy/product/perfume-hot-2019/?attribute_pa_color=green&#038;attribute_pa_size=xl</link>
+		<link>http://demo.woostify.com/randy/product/perfume-hot-2019/?attribute_pa_color=green&#038;attribute_pa_size=xl</link>
 		<pubDate>Fri, 30 Aug 2019 08:42:29 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/randy/?post_type=product_variation&#038;p=1508</guid>
@@ -9068,7 +9068,7 @@ Commenter avatars come from <a href=\"https://gravatar.com\" rel=\"nofollow ugc\
 							</item>
 					<item>
 		<title>Perfume Hot 2019 - Blue, M</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/randy/product/perfume-hot-2019/?attribute_pa_color=blue&#038;attribute_pa_size=m</link>
+		<link>http://demo.woostify.com/randy/product/perfume-hot-2019/?attribute_pa_color=blue&#038;attribute_pa_size=m</link>
 		<pubDate>Fri, 30 Aug 2019 08:42:32 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/randy/?post_type=product_variation&#038;p=1509</guid>
@@ -9190,7 +9190,7 @@ Commenter avatars come from <a href=\"https://gravatar.com\" rel=\"nofollow ugc\
 							</item>
 					<item>
 		<title>Perfume Hot 2019 - lemon yellow, M</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/randy/product/perfume-hot-2019/?attribute_pa_color=lemon-yellow&#038;attribute_pa_size=m</link>
+		<link>http://demo.woostify.com/randy/product/perfume-hot-2019/?attribute_pa_color=lemon-yellow&#038;attribute_pa_size=m</link>
 		<pubDate>Fri, 30 Aug 2019 08:42:33 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/randy/?post_type=product_variation&#038;p=1510</guid>
@@ -9312,7 +9312,7 @@ Commenter avatars come from <a href=\"https://gravatar.com\" rel=\"nofollow ugc\
 							</item>
 					<item>
 		<title>Contact form 1</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/randy/?post_type=wpcf7_contact_form&#038;p=8</link>
+		<link>http://demo.woostify.com/randy/?post_type=wpcf7_contact_form&#038;p=8</link>
 		<pubDate>Thu, 22 Oct 2020 04:09:27 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/randy/?post_type=wpcf7_contact_form&#038;p=8</guid>
@@ -9429,7 +9429,7 @@ This e-mail was sent from a contact form on [_site_title] ([_site_url])";s:9:"re
 							</item>
 					<item>
 		<title>Contact Form</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/randy/?post_type=wpcf7_contact_form&#038;p=238</link>
+		<link>http://demo.woostify.com/randy/?post_type=wpcf7_contact_form&#038;p=238</link>
 		<pubDate>Thu, 03 Jan 2019 08:03:04 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/randy/?post_type=wpcf7_contact_form&#038;p=238</guid>
@@ -9592,7 +9592,7 @@ This e-mail was sent from a contact form on Woostify (https://woostify.com/demos
 							</item>
 					<item>
 		<title>Subsbrice Form</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/randy/?post_type=wpcf7_contact_form&#038;p=262</link>
+		<link>http://demo.woostify.com/randy/?post_type=wpcf7_contact_form&#038;p=262</link>
 		<pubDate>Fri, 04 Jan 2019 01:48:09 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/randy/?post_type=wpcf7_contact_form&#038;p=262</guid>
@@ -9727,7 +9727,7 @@ This e-mail was sent from a contact form on Woostify (https://woostify.com/demos
 							</item>
 					<item>
 		<title>Order &#8211; May 12, 2019 @ 02:47 AM</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/randy/?post_type=shop_order&#038;p=635</link>
+		<link>http://demo.woostify.com/randy/?post_type=shop_order&#038;p=635</link>
 		<pubDate>Sun, 12 May 2019 02:47:15 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/randy/?post_type=shop_order&#038;p=635</guid>
@@ -9967,7 +9967,7 @@ This e-mail was sent from a contact form on Woostify (https://woostify.com/demos
 					</item>
 					<item>
 		<title>Contact form 1</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/randy/?post_type=wpcf7_contact_form&#038;p=1543</link>
+		<link>http://demo.woostify.com/randy/?post_type=wpcf7_contact_form&#038;p=1543</link>
 		<pubDate>Wed, 20 Nov 2019 09:15:08 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/pro/randy/?post_type=wpcf7_contact_form&#038;p=5</guid>

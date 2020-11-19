@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/5.5.1" created="2020-10-23 08:17" -->
+	<!-- generator="WordPress/5.5.3" created="2020-11-19 04:13" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -27,13 +27,13 @@
 
 <channel>
 	<title>Vogue</title>
-	<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/fashion3</link>
+	<link>http://demo.woostify.com/fashion3</link>
 	<description>Just another Woostify Pro Demo Sites site</description>
-	<pubDate>Fri, 23 Oct 2020 08:17:37 +0000</pubDate>
+	<pubDate>Thu, 19 Nov 2020 04:13:13 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
-	<wp:base_site_url>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/</wp:base_site_url>
-	<wp:base_blog_url>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/fashion3</wp:base_blog_url>
+	<wp:base_site_url>http://demo.woostify.com/</wp:base_site_url>
+	<wp:base_blog_url>http://demo.woostify.com/fashion3</wp:base_blog_url>
 
 		<wp:author><wp:author_id>1</wp:author_id><wp:author_login><![CDATA[woostify]]></wp:author_login><wp:author_email><![CDATA[ngothaiduong2311@gmail.com]]></wp:author_email><wp:author_display_name><![CDATA[woostify]]></wp:author_display_name><wp:author_first_name><![CDATA[]]></wp:author_first_name><wp:author_last_name><![CDATA[]]></wp:author_last_name></wp:author>
 
@@ -726,19 +726,19 @@
 	<wp:term><wp:term_id>73</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug><![CDATA[women]]></wp:term_slug><wp:term_name><![CDATA[Women]]></wp:term_name>
 </wp:term>
 
-	<generator>https://wordpress.org/?v=5.5.1</generator>
+	<generator>https://wordpress.org/?v=5.5.3</generator>
 
 <image>
-	<url>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/fashion3/wp-content/uploads/sites/20/2018/12/favicon.png</url>
+	<url>http://demo.woostify.com/fashion3/wp-content/uploads/sites/20/2018/12/favicon.png</url>
 	<title>Vogue</title>
-	<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/fashion3</link>
+	<link>http://demo.woostify.com/fashion3</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 
 		<item>
 		<title>favicon</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/fashion3/favicon/</link>
+		<link>http://demo.woostify.com/fashion3/favicon/</link>
 		<pubDate>Fri, 28 Dec 2018 04:30:25 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/fashion3/wp-content/uploads/2018/12/favicon.png</guid>
@@ -759,7 +759,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/fashion3/wp-content/uploads/sites/20/2018/12/favicon.png]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[http://demo.woostify.com/fashion3/wp-content/uploads/sites/20/2018/12/favicon.png]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2018/12/favicon.png]]></wp:meta_value>
@@ -783,7 +783,7 @@
 							</item>
 					<item>
 		<title>vogue-logo</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/fashion3/vogue-logo/</link>
+		<link>http://demo.woostify.com/fashion3/vogue-logo/</link>
 		<pubDate>Mon, 21 Jan 2019 07:00:30 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/fashion3/wp-content/uploads/2019/01/vogue-logo.png</guid>
@@ -804,7 +804,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/fashion3/wp-content/uploads/sites/20/2019/01/vogue-logo.png]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[http://demo.woostify.com/fashion3/wp-content/uploads/sites/20/2019/01/vogue-logo.png]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2019/01/vogue-logo.png]]></wp:meta_value>
@@ -828,7 +828,7 @@
 							</item>
 					<item>
 		<title>1-1</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/fashion3/?attachment_id=403</link>
+		<link>http://demo.woostify.com/fashion3/?attachment_id=403</link>
 		<pubDate>Mon, 21 Jan 2019 07:12:22 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/fashion3/wp-content/uploads/2019/01/1-1-1.jpg</guid>
@@ -849,7 +849,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/fashion3/wp-content/uploads/sites/20/2019/01/1-1-1.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[http://demo.woostify.com/fashion3/wp-content/uploads/sites/20/2019/01/1-1-1.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2019/01/1-1-1.jpg]]></wp:meta_value>
@@ -861,7 +861,7 @@
 							</item>
 					<item>
 		<title>1-2</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/fashion3/?attachment_id=404</link>
+		<link>http://demo.woostify.com/fashion3/?attachment_id=404</link>
 		<pubDate>Mon, 21 Jan 2019 07:12:26 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/fashion3/wp-content/uploads/2019/01/1-2-1.jpg</guid>
@@ -882,7 +882,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/fashion3/wp-content/uploads/sites/20/2019/01/1-2-1.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[http://demo.woostify.com/fashion3/wp-content/uploads/sites/20/2019/01/1-2-1.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2019/01/1-2-1.jpg]]></wp:meta_value>
@@ -894,7 +894,7 @@
 							</item>
 					<item>
 		<title>1-3</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/fashion3/?attachment_id=405</link>
+		<link>http://demo.woostify.com/fashion3/?attachment_id=405</link>
 		<pubDate>Mon, 21 Jan 2019 07:12:28 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/fashion3/wp-content/uploads/2019/01/1-3.jpg</guid>
@@ -915,7 +915,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/fashion3/wp-content/uploads/sites/20/2019/01/1-3.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[http://demo.woostify.com/fashion3/wp-content/uploads/sites/20/2019/01/1-3.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2019/01/1-3.jpg]]></wp:meta_value>
@@ -927,7 +927,7 @@
 							</item>
 					<item>
 		<title>2-1</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/fashion3/?attachment_id=406</link>
+		<link>http://demo.woostify.com/fashion3/?attachment_id=406</link>
 		<pubDate>Mon, 21 Jan 2019 07:20:56 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/fashion3/wp-content/uploads/2019/01/2-1-1.jpg</guid>
@@ -948,7 +948,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/fashion3/wp-content/uploads/sites/20/2019/01/2-1-1.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[http://demo.woostify.com/fashion3/wp-content/uploads/sites/20/2019/01/2-1-1.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2019/01/2-1-1.jpg]]></wp:meta_value>
@@ -960,7 +960,7 @@
 							</item>
 					<item>
 		<title>2-2</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/fashion3/?attachment_id=407</link>
+		<link>http://demo.woostify.com/fashion3/?attachment_id=407</link>
 		<pubDate>Mon, 21 Jan 2019 07:20:59 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/fashion3/wp-content/uploads/2019/01/2-2-1.jpg</guid>
@@ -981,7 +981,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/fashion3/wp-content/uploads/sites/20/2019/01/2-2-1.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[http://demo.woostify.com/fashion3/wp-content/uploads/sites/20/2019/01/2-2-1.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2019/01/2-2-1.jpg]]></wp:meta_value>
@@ -993,7 +993,7 @@
 							</item>
 					<item>
 		<title>3-1</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/fashion3/?attachment_id=408</link>
+		<link>http://demo.woostify.com/fashion3/?attachment_id=408</link>
 		<pubDate>Mon, 21 Jan 2019 07:21:01 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/fashion3/wp-content/uploads/2019/01/3-1-1.jpg</guid>
@@ -1014,7 +1014,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/fashion3/wp-content/uploads/sites/20/2019/01/3-1-1.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[http://demo.woostify.com/fashion3/wp-content/uploads/sites/20/2019/01/3-1-1.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2019/01/3-1-1.jpg]]></wp:meta_value>
@@ -1026,7 +1026,7 @@
 							</item>
 					<item>
 		<title>3-2</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/fashion3/?attachment_id=410</link>
+		<link>http://demo.woostify.com/fashion3/?attachment_id=410</link>
 		<pubDate>Mon, 21 Jan 2019 07:21:03 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/fashion3/wp-content/uploads/2019/01/3-2-1.jpg</guid>
@@ -1047,7 +1047,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/fashion3/wp-content/uploads/sites/20/2019/01/3-2-1.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[http://demo.woostify.com/fashion3/wp-content/uploads/sites/20/2019/01/3-2-1.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2019/01/3-2-1.jpg]]></wp:meta_value>
@@ -1059,7 +1059,7 @@
 							</item>
 					<item>
 		<title>3-3</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/fashion3/?attachment_id=411</link>
+		<link>http://demo.woostify.com/fashion3/?attachment_id=411</link>
 		<pubDate>Mon, 21 Jan 2019 07:21:05 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/fashion3/wp-content/uploads/2019/01/3-3-1.jpg</guid>
@@ -1080,7 +1080,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/fashion3/wp-content/uploads/sites/20/2019/01/3-3-1.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[http://demo.woostify.com/fashion3/wp-content/uploads/sites/20/2019/01/3-3-1.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2019/01/3-3-1.jpg]]></wp:meta_value>
@@ -1092,7 +1092,7 @@
 							</item>
 					<item>
 		<title>4-1</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/fashion3/?attachment_id=412</link>
+		<link>http://demo.woostify.com/fashion3/?attachment_id=412</link>
 		<pubDate>Mon, 21 Jan 2019 07:21:07 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/fashion3/wp-content/uploads/2019/01/4-1.jpg</guid>
@@ -1113,7 +1113,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/fashion3/wp-content/uploads/sites/20/2019/01/4-1.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[http://demo.woostify.com/fashion3/wp-content/uploads/sites/20/2019/01/4-1.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2019/01/4-1.jpg]]></wp:meta_value>
@@ -1125,7 +1125,7 @@
 							</item>
 					<item>
 		<title>4-2</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/fashion3/?attachment_id=413</link>
+		<link>http://demo.woostify.com/fashion3/?attachment_id=413</link>
 		<pubDate>Mon, 21 Jan 2019 07:21:09 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/fashion3/wp-content/uploads/2019/01/4-2.jpg</guid>
@@ -1146,7 +1146,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/fashion3/wp-content/uploads/sites/20/2019/01/4-2.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[http://demo.woostify.com/fashion3/wp-content/uploads/sites/20/2019/01/4-2.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2019/01/4-2.jpg]]></wp:meta_value>
@@ -1158,7 +1158,7 @@
 							</item>
 					<item>
 		<title>5-1</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/fashion3/?attachment_id=414</link>
+		<link>http://demo.woostify.com/fashion3/?attachment_id=414</link>
 		<pubDate>Mon, 21 Jan 2019 07:21:11 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/fashion3/wp-content/uploads/2019/01/5-1-1.jpg</guid>
@@ -1177,7 +1177,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/fashion3/wp-content/uploads/sites/20/2019/01/5-1-1.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[http://demo.woostify.com/fashion3/wp-content/uploads/sites/20/2019/01/5-1-1.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2019/01/5-1-1.jpg]]></wp:meta_value>
@@ -1189,7 +1189,7 @@
 							</item>
 					<item>
 		<title>5-2</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/fashion3/?attachment_id=415</link>
+		<link>http://demo.woostify.com/fashion3/?attachment_id=415</link>
 		<pubDate>Mon, 21 Jan 2019 07:21:13 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/fashion3/wp-content/uploads/2019/01/5-2-1.jpg</guid>
@@ -1210,7 +1210,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/fashion3/wp-content/uploads/sites/20/2019/01/5-2-1.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[http://demo.woostify.com/fashion3/wp-content/uploads/sites/20/2019/01/5-2-1.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2019/01/5-2-1.jpg]]></wp:meta_value>
@@ -1222,7 +1222,7 @@
 							</item>
 					<item>
 		<title>5-3</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/fashion3/?attachment_id=416</link>
+		<link>http://demo.woostify.com/fashion3/?attachment_id=416</link>
 		<pubDate>Mon, 21 Jan 2019 07:21:15 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/fashion3/wp-content/uploads/2019/01/5-3-1.jpg</guid>
@@ -1243,7 +1243,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/fashion3/wp-content/uploads/sites/20/2019/01/5-3-1.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[http://demo.woostify.com/fashion3/wp-content/uploads/sites/20/2019/01/5-3-1.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2019/01/5-3-1.jpg]]></wp:meta_value>
@@ -1255,7 +1255,7 @@
 							</item>
 					<item>
 		<title>5-4</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/fashion3/?attachment_id=417</link>
+		<link>http://demo.woostify.com/fashion3/?attachment_id=417</link>
 		<pubDate>Mon, 21 Jan 2019 07:21:17 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/fashion3/wp-content/uploads/2019/01/5-4.jpg</guid>
@@ -1276,7 +1276,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/fashion3/wp-content/uploads/sites/20/2019/01/5-4.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[http://demo.woostify.com/fashion3/wp-content/uploads/sites/20/2019/01/5-4.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2019/01/5-4.jpg]]></wp:meta_value>
@@ -1288,7 +1288,7 @@
 							</item>
 					<item>
 		<title>6-1</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/fashion3/?attachment_id=418</link>
+		<link>http://demo.woostify.com/fashion3/?attachment_id=418</link>
 		<pubDate>Mon, 21 Jan 2019 07:21:19 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/fashion3/wp-content/uploads/2019/01/6-1-1.jpg</guid>
@@ -1309,7 +1309,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/fashion3/wp-content/uploads/sites/20/2019/01/6-1-1.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[http://demo.woostify.com/fashion3/wp-content/uploads/sites/20/2019/01/6-1-1.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2019/01/6-1-1.jpg]]></wp:meta_value>
@@ -1321,7 +1321,7 @@
 							</item>
 					<item>
 		<title>6-2</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/fashion3/?attachment_id=419</link>
+		<link>http://demo.woostify.com/fashion3/?attachment_id=419</link>
 		<pubDate>Mon, 21 Jan 2019 07:21:20 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/fashion3/wp-content/uploads/2019/01/6-2-1.jpg</guid>
@@ -1342,7 +1342,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/fashion3/wp-content/uploads/sites/20/2019/01/6-2-1.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[http://demo.woostify.com/fashion3/wp-content/uploads/sites/20/2019/01/6-2-1.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2019/01/6-2-1.jpg]]></wp:meta_value>
@@ -1354,7 +1354,7 @@
 							</item>
 					<item>
 		<title>7-1</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/fashion3/?attachment_id=420</link>
+		<link>http://demo.woostify.com/fashion3/?attachment_id=420</link>
 		<pubDate>Mon, 21 Jan 2019 07:21:22 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/fashion3/wp-content/uploads/2019/01/7-1-1.jpg</guid>
@@ -1375,7 +1375,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/fashion3/wp-content/uploads/sites/20/2019/01/7-1-1.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[http://demo.woostify.com/fashion3/wp-content/uploads/sites/20/2019/01/7-1-1.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2019/01/7-1-1.jpg]]></wp:meta_value>
@@ -1387,7 +1387,7 @@
 							</item>
 					<item>
 		<title>7-2</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/fashion3/?attachment_id=421</link>
+		<link>http://demo.woostify.com/fashion3/?attachment_id=421</link>
 		<pubDate>Mon, 21 Jan 2019 07:21:23 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/fashion3/wp-content/uploads/2019/01/7-2-1.jpg</guid>
@@ -1408,7 +1408,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/fashion3/wp-content/uploads/sites/20/2019/01/7-2-1.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[http://demo.woostify.com/fashion3/wp-content/uploads/sites/20/2019/01/7-2-1.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2019/01/7-2-1.jpg]]></wp:meta_value>
@@ -1420,7 +1420,7 @@
 							</item>
 					<item>
 		<title>7-3</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/fashion3/?attachment_id=422</link>
+		<link>http://demo.woostify.com/fashion3/?attachment_id=422</link>
 		<pubDate>Mon, 21 Jan 2019 07:21:25 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/fashion3/wp-content/uploads/2019/01/7-3-1.jpg</guid>
@@ -1441,7 +1441,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/fashion3/wp-content/uploads/sites/20/2019/01/7-3-1.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[http://demo.woostify.com/fashion3/wp-content/uploads/sites/20/2019/01/7-3-1.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2019/01/7-3-1.jpg]]></wp:meta_value>
@@ -1453,7 +1453,7 @@
 							</item>
 					<item>
 		<title>7-4</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/fashion3/?attachment_id=423</link>
+		<link>http://demo.woostify.com/fashion3/?attachment_id=423</link>
 		<pubDate>Mon, 21 Jan 2019 07:21:26 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/fashion3/wp-content/uploads/2019/01/7-4.jpg</guid>
@@ -1474,7 +1474,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/fashion3/wp-content/uploads/sites/20/2019/01/7-4.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[http://demo.woostify.com/fashion3/wp-content/uploads/sites/20/2019/01/7-4.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2019/01/7-4.jpg]]></wp:meta_value>
@@ -1486,7 +1486,7 @@
 							</item>
 					<item>
 		<title>8-2</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/fashion3/?attachment_id=425</link>
+		<link>http://demo.woostify.com/fashion3/?attachment_id=425</link>
 		<pubDate>Mon, 21 Jan 2019 07:21:29 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/fashion3/wp-content/uploads/2019/01/8-2.jpg</guid>
@@ -1507,7 +1507,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/fashion3/wp-content/uploads/sites/20/2019/01/8-2.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[http://demo.woostify.com/fashion3/wp-content/uploads/sites/20/2019/01/8-2.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2019/01/8-2.jpg]]></wp:meta_value>
@@ -1519,7 +1519,7 @@
 							</item>
 					<item>
 		<title>8-3</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/fashion3/?attachment_id=426</link>
+		<link>http://demo.woostify.com/fashion3/?attachment_id=426</link>
 		<pubDate>Mon, 21 Jan 2019 07:21:31 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/fashion3/wp-content/uploads/2019/01/8-3.jpg</guid>
@@ -1540,7 +1540,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/fashion3/wp-content/uploads/sites/20/2019/01/8-3.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[http://demo.woostify.com/fashion3/wp-content/uploads/sites/20/2019/01/8-3.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2019/01/8-3.jpg]]></wp:meta_value>
@@ -1552,7 +1552,7 @@
 							</item>
 					<item>
 		<title>8-4</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/fashion3/?attachment_id=427</link>
+		<link>http://demo.woostify.com/fashion3/?attachment_id=427</link>
 		<pubDate>Mon, 21 Jan 2019 07:21:32 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/fashion3/wp-content/uploads/2019/01/8-4.jpg</guid>
@@ -1573,7 +1573,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/fashion3/wp-content/uploads/sites/20/2019/01/8-4.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[http://demo.woostify.com/fashion3/wp-content/uploads/sites/20/2019/01/8-4.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2019/01/8-4.jpg]]></wp:meta_value>
@@ -1585,7 +1585,7 @@
 							</item>
 					<item>
 		<title>8-1</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/fashion3/8-1/</link>
+		<link>http://demo.woostify.com/fashion3/8-1/</link>
 		<pubDate>Mon, 21 Jan 2019 07:29:36 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/fashion3/wp-content/uploads/2019/01/8-1.jpg</guid>
@@ -1606,7 +1606,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/fashion3/wp-content/uploads/sites/20/2019/01/8-1.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[http://demo.woostify.com/fashion3/wp-content/uploads/sites/20/2019/01/8-1.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2019/01/8-1.jpg]]></wp:meta_value>
@@ -1630,7 +1630,7 @@
 							</item>
 					<item>
 		<title>vogue-slide2</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/fashion3/woostify/vogue-slide2/</link>
+		<link>http://demo.woostify.com/fashion3/woostify/vogue-slide2/</link>
 		<pubDate>Mon, 21 Jan 2019 07:53:43 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/fashion3/wp-content/uploads/2019/01/vogue-slide2.jpg</guid>
@@ -1649,7 +1649,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/fashion3/wp-content/uploads/sites/20/2019/01/vogue-slide2.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[http://demo.woostify.com/fashion3/wp-content/uploads/sites/20/2019/01/vogue-slide2.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2019/01/vogue-slide2.jpg]]></wp:meta_value>
@@ -1661,7 +1661,7 @@
 							</item>
 					<item>
 		<title>vogue-about-1</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/fashion3/about/vogue-about-1/</link>
+		<link>http://demo.woostify.com/fashion3/about/vogue-about-1/</link>
 		<pubDate>Tue, 22 Jan 2019 01:55:09 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/fashion3/wp-content/uploads/2019/01/vogue-about-1.jpg</guid>
@@ -1682,7 +1682,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/fashion3/wp-content/uploads/sites/20/2019/01/vogue-about-1.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[http://demo.woostify.com/fashion3/wp-content/uploads/sites/20/2019/01/vogue-about-1.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2019/01/vogue-about-1.jpg]]></wp:meta_value>
@@ -1694,7 +1694,7 @@
 							</item>
 					<item>
 		<title>vogue-about-2</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/fashion3/about/vogue-about-2/</link>
+		<link>http://demo.woostify.com/fashion3/about/vogue-about-2/</link>
 		<pubDate>Tue, 22 Jan 2019 02:32:41 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/fashion3/wp-content/uploads/2019/01/vogue-about-2.jpg</guid>
@@ -1715,7 +1715,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/fashion3/wp-content/uploads/sites/20/2019/01/vogue-about-2.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[http://demo.woostify.com/fashion3/wp-content/uploads/sites/20/2019/01/vogue-about-2.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2019/01/vogue-about-2.jpg]]></wp:meta_value>
@@ -1727,7 +1727,7 @@
 							</item>
 					<item>
 		<title>vogue-about-2</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/fashion3/about/vogue-about-2-2/</link>
+		<link>http://demo.woostify.com/fashion3/about/vogue-about-2-2/</link>
 		<pubDate>Tue, 22 Jan 2019 02:37:23 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/fashion3/wp-content/uploads/2019/01/vogue-about-2-1.jpg</guid>
@@ -1746,7 +1746,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/fashion3/wp-content/uploads/sites/20/2019/01/vogue-about-2-1.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[http://demo.woostify.com/fashion3/wp-content/uploads/sites/20/2019/01/vogue-about-2-1.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2019/01/vogue-about-2-1.jpg]]></wp:meta_value>
@@ -1758,7 +1758,7 @@
 							</item>
 					<item>
 		<title>vogue-about-3</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/fashion3/about/vogue-about-3/</link>
+		<link>http://demo.woostify.com/fashion3/about/vogue-about-3/</link>
 		<pubDate>Tue, 22 Jan 2019 03:00:49 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/fashion3/wp-content/uploads/2019/01/vogue-about-3.jpg</guid>
@@ -1779,7 +1779,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/fashion3/wp-content/uploads/sites/20/2019/01/vogue-about-3.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[http://demo.woostify.com/fashion3/wp-content/uploads/sites/20/2019/01/vogue-about-3.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2019/01/vogue-about-3.jpg]]></wp:meta_value>
@@ -1791,7 +1791,7 @@
 							</item>
 					<item>
 		<title>vogue-about-3</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/fashion3/about/vogue-about-3-2/</link>
+		<link>http://demo.woostify.com/fashion3/about/vogue-about-3-2/</link>
 		<pubDate>Tue, 22 Jan 2019 03:05:01 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/fashion3/wp-content/uploads/2019/01/vogue-about-3-1.jpg</guid>
@@ -1812,7 +1812,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/fashion3/wp-content/uploads/sites/20/2019/01/vogue-about-3-1.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[http://demo.woostify.com/fashion3/wp-content/uploads/sites/20/2019/01/vogue-about-3-1.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2019/01/vogue-about-3-1.jpg]]></wp:meta_value>
@@ -1824,7 +1824,7 @@
 							</item>
 					<item>
 		<title>morph-bg</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/fashion3/about/morph-bg/</link>
+		<link>http://demo.woostify.com/fashion3/about/morph-bg/</link>
 		<pubDate>Tue, 22 Jan 2019 03:11:05 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/fashion3/wp-content/uploads/2019/01/morph-bg.jpg</guid>
@@ -1843,7 +1843,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/fashion3/wp-content/uploads/sites/20/2019/01/morph-bg.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[http://demo.woostify.com/fashion3/wp-content/uploads/sites/20/2019/01/morph-bg.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2019/01/morph-bg.jpg]]></wp:meta_value>
@@ -1855,7 +1855,7 @@
 							</item>
 					<item>
 		<title>vogue-about-icon-1</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/fashion3/about/vogue-about-icon-1/</link>
+		<link>http://demo.woostify.com/fashion3/about/vogue-about-icon-1/</link>
 		<pubDate>Tue, 22 Jan 2019 03:13:39 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/fashion3/wp-content/uploads/2019/01/vogue-about-icon-1.png</guid>
@@ -1876,7 +1876,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/fashion3/wp-content/uploads/sites/20/2019/01/vogue-about-icon-1.png]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[http://demo.woostify.com/fashion3/wp-content/uploads/sites/20/2019/01/vogue-about-icon-1.png]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2019/01/vogue-about-icon-1.png]]></wp:meta_value>
@@ -1888,7 +1888,7 @@
 							</item>
 					<item>
 		<title>vogue-about-icon-2</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/fashion3/about/vogue-about-icon-2/</link>
+		<link>http://demo.woostify.com/fashion3/about/vogue-about-icon-2/</link>
 		<pubDate>Tue, 22 Jan 2019 03:25:11 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/fashion3/wp-content/uploads/2019/01/vogue-about-icon-2.png</guid>
@@ -1909,7 +1909,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/fashion3/wp-content/uploads/sites/20/2019/01/vogue-about-icon-2.png]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[http://demo.woostify.com/fashion3/wp-content/uploads/sites/20/2019/01/vogue-about-icon-2.png]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2019/01/vogue-about-icon-2.png]]></wp:meta_value>
@@ -1921,7 +1921,7 @@
 							</item>
 					<item>
 		<title>vogue-about-icon-3</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/fashion3/about/vogue-about-icon-3/</link>
+		<link>http://demo.woostify.com/fashion3/about/vogue-about-icon-3/</link>
 		<pubDate>Tue, 22 Jan 2019 03:25:15 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/fashion3/wp-content/uploads/2019/01/vogue-about-icon-3.png</guid>
@@ -1942,7 +1942,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/fashion3/wp-content/uploads/sites/20/2019/01/vogue-about-icon-3.png]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[http://demo.woostify.com/fashion3/wp-content/uploads/sites/20/2019/01/vogue-about-icon-3.png]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2019/01/vogue-about-icon-3.png]]></wp:meta_value>
@@ -1954,7 +1954,7 @@
 							</item>
 					<item>
 		<title>vogue-about-icon-4</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/fashion3/about/vogue-about-icon-4/</link>
+		<link>http://demo.woostify.com/fashion3/about/vogue-about-icon-4/</link>
 		<pubDate>Tue, 22 Jan 2019 03:25:17 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/fashion3/wp-content/uploads/2019/01/vogue-about-icon-4.png</guid>
@@ -1975,7 +1975,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/fashion3/wp-content/uploads/sites/20/2019/01/vogue-about-icon-4.png]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[http://demo.woostify.com/fashion3/wp-content/uploads/sites/20/2019/01/vogue-about-icon-4.png]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2019/01/vogue-about-icon-4.png]]></wp:meta_value>
@@ -1987,7 +1987,7 @@
 							</item>
 					<item>
 		<title>vogue-about-icon-5</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/fashion3/about/vogue-about-icon-5/</link>
+		<link>http://demo.woostify.com/fashion3/about/vogue-about-icon-5/</link>
 		<pubDate>Tue, 22 Jan 2019 03:25:21 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/fashion3/wp-content/uploads/2019/01/vogue-about-icon-5.png</guid>
@@ -2008,7 +2008,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/fashion3/wp-content/uploads/sites/20/2019/01/vogue-about-icon-5.png]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[http://demo.woostify.com/fashion3/wp-content/uploads/sites/20/2019/01/vogue-about-icon-5.png]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2019/01/vogue-about-icon-5.png]]></wp:meta_value>
@@ -2020,7 +2020,7 @@
 							</item>
 					<item>
 		<title>vogue-about-icon-6</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/fashion3/about/vogue-about-icon-6/</link>
+		<link>http://demo.woostify.com/fashion3/about/vogue-about-icon-6/</link>
 		<pubDate>Tue, 22 Jan 2019 03:25:25 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/fashion3/wp-content/uploads/2019/01/vogue-about-icon-6.png</guid>
@@ -2041,7 +2041,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/fashion3/wp-content/uploads/sites/20/2019/01/vogue-about-icon-6.png]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[http://demo.woostify.com/fashion3/wp-content/uploads/sites/20/2019/01/vogue-about-icon-6.png]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2019/01/vogue-about-icon-6.png]]></wp:meta_value>
@@ -2053,7 +2053,7 @@
 							</item>
 					<item>
 		<title>vogue-avatar</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/fashion3/about/vogue-avatar/</link>
+		<link>http://demo.woostify.com/fashion3/about/vogue-avatar/</link>
 		<pubDate>Tue, 22 Jan 2019 03:35:58 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/fashion3/wp-content/uploads/2019/01/vogue-avatar.png</guid>
@@ -2074,7 +2074,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/fashion3/wp-content/uploads/sites/20/2019/01/vogue-avatar.png]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[http://demo.woostify.com/fashion3/wp-content/uploads/sites/20/2019/01/vogue-avatar.png]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2019/01/vogue-avatar.png]]></wp:meta_value>
@@ -2086,7 +2086,7 @@
 							</item>
 					<item>
 		<title>vogue-cat-glasses</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/fashion3/vogue-cat-glasses/</link>
+		<link>http://demo.woostify.com/fashion3/vogue-cat-glasses/</link>
 		<pubDate>Tue, 29 Jan 2019 03:08:52 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/fashion3/wp-content/uploads/2019/01/vogue-cat-glasses.jpg</guid>
@@ -2107,7 +2107,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/fashion3/wp-content/uploads/sites/20/2019/01/vogue-cat-glasses.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[http://demo.woostify.com/fashion3/wp-content/uploads/sites/20/2019/01/vogue-cat-glasses.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2019/01/vogue-cat-glasses.jpg]]></wp:meta_value>
@@ -2131,7 +2131,7 @@
 							</item>
 					<item>
 		<title>vogue-cat-bag</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/fashion3/vogue-cat-bag/</link>
+		<link>http://demo.woostify.com/fashion3/vogue-cat-bag/</link>
 		<pubDate>Tue, 29 Jan 2019 03:21:08 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/fashion3/wp-content/uploads/2019/01/vogue-cat-bag.jpg</guid>
@@ -2152,7 +2152,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/fashion3/wp-content/uploads/sites/20/2019/01/vogue-cat-bag.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[http://demo.woostify.com/fashion3/wp-content/uploads/sites/20/2019/01/vogue-cat-bag.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2019/01/vogue-cat-bag.jpg]]></wp:meta_value>
@@ -2176,7 +2176,7 @@
 							</item>
 					<item>
 		<title>vogue-shoe</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/fashion3/vogue-shoe/</link>
+		<link>http://demo.woostify.com/fashion3/vogue-shoe/</link>
 		<pubDate>Tue, 29 Jan 2019 03:21:13 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/fashion3/wp-content/uploads/2019/01/vogue-shoe.jpg</guid>
@@ -2197,7 +2197,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/fashion3/wp-content/uploads/sites/20/2019/01/vogue-shoe.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[http://demo.woostify.com/fashion3/wp-content/uploads/sites/20/2019/01/vogue-shoe.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2019/01/vogue-shoe.jpg]]></wp:meta_value>
@@ -2221,7 +2221,7 @@
 							</item>
 					<item>
 		<title>vogue-for-her</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/fashion3/woostify/vogue-for-her/</link>
+		<link>http://demo.woostify.com/fashion3/woostify/vogue-for-her/</link>
 		<pubDate>Wed, 06 Mar 2019 06:56:30 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/fashion3/wp-content/uploads/2019/03/vogue-for-her.jpg</guid>
@@ -2240,7 +2240,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/fashion3/wp-content/uploads/sites/20/2019/03/vogue-for-her.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[http://demo.woostify.com/fashion3/wp-content/uploads/sites/20/2019/03/vogue-for-her.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2019/03/vogue-for-her.jpg]]></wp:meta_value>
@@ -2252,7 +2252,7 @@
 							</item>
 					<item>
 		<title>vogue-for-her</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/fashion3/woostify/vogue-for-her-2/</link>
+		<link>http://demo.woostify.com/fashion3/woostify/vogue-for-her-2/</link>
 		<pubDate>Wed, 06 Mar 2019 07:02:49 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/fashion3/wp-content/uploads/2019/03/vogue-for-her-1.jpg</guid>
@@ -2271,7 +2271,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/fashion3/wp-content/uploads/sites/20/2019/03/vogue-for-her-1.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[http://demo.woostify.com/fashion3/wp-content/uploads/sites/20/2019/03/vogue-for-her-1.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2019/03/vogue-for-her-1.jpg]]></wp:meta_value>
@@ -2283,7 +2283,7 @@
 							</item>
 					<item>
 		<title>blog-1</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/fashion3/2019/01/02/how-i-became-young-and-fit-once-again/blog-1/</link>
+		<link>http://demo.woostify.com/fashion3/2019/01/02/how-i-became-young-and-fit-once-again/blog-1/</link>
 		<pubDate>Wed, 20 Mar 2019 07:25:26 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/fashion3/wp-content/uploads/2019/01/blog-1.jpg</guid>
@@ -2304,7 +2304,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/fashion3/wp-content/uploads/sites/20/2019/01/blog-1.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[http://demo.woostify.com/fashion3/wp-content/uploads/sites/20/2019/01/blog-1.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2019/01/blog-1.jpg]]></wp:meta_value>
@@ -2316,7 +2316,7 @@
 							</item>
 					<item>
 		<title>blog-2</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/fashion3/2019/01/02/how-i-became-young-and-fit-once-again/blog-2/</link>
+		<link>http://demo.woostify.com/fashion3/2019/01/02/how-i-became-young-and-fit-once-again/blog-2/</link>
 		<pubDate>Wed, 20 Mar 2019 07:25:30 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/fashion3/wp-content/uploads/2019/01/blog-2.jpg</guid>
@@ -2337,7 +2337,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/fashion3/wp-content/uploads/sites/20/2019/01/blog-2.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[http://demo.woostify.com/fashion3/wp-content/uploads/sites/20/2019/01/blog-2.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2019/01/blog-2.jpg]]></wp:meta_value>
@@ -2349,7 +2349,7 @@
 							</item>
 					<item>
 		<title>blog-3</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/fashion3/2019/01/02/how-i-became-young-and-fit-once-again/blog-3/</link>
+		<link>http://demo.woostify.com/fashion3/2019/01/02/how-i-became-young-and-fit-once-again/blog-3/</link>
 		<pubDate>Wed, 20 Mar 2019 07:25:32 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/fashion3/wp-content/uploads/2019/01/blog-3.jpg</guid>
@@ -2370,7 +2370,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/fashion3/wp-content/uploads/sites/20/2019/01/blog-3.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[http://demo.woostify.com/fashion3/wp-content/uploads/sites/20/2019/01/blog-3.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2019/01/blog-3.jpg]]></wp:meta_value>
@@ -2382,7 +2382,7 @@
 							</item>
 					<item>
 		<title>blog-4</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/fashion3/2019/01/02/how-i-became-young-and-fit-once-again/blog-4/</link>
+		<link>http://demo.woostify.com/fashion3/2019/01/02/how-i-became-young-and-fit-once-again/blog-4/</link>
 		<pubDate>Wed, 20 Mar 2019 07:25:37 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/fashion3/wp-content/uploads/2019/01/blog-4.jpg</guid>
@@ -2403,7 +2403,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/fashion3/wp-content/uploads/sites/20/2019/01/blog-4.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[http://demo.woostify.com/fashion3/wp-content/uploads/sites/20/2019/01/blog-4.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2019/01/blog-4.jpg]]></wp:meta_value>
@@ -2415,7 +2415,7 @@
 							</item>
 					<item>
 		<title>blog-5</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/fashion3/2019/01/02/how-i-became-young-and-fit-once-again/blog-5/</link>
+		<link>http://demo.woostify.com/fashion3/2019/01/02/how-i-became-young-and-fit-once-again/blog-5/</link>
 		<pubDate>Wed, 20 Mar 2019 07:25:40 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/fashion3/wp-content/uploads/2019/01/blog-5.jpg</guid>
@@ -2436,7 +2436,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/fashion3/wp-content/uploads/sites/20/2019/01/blog-5.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[http://demo.woostify.com/fashion3/wp-content/uploads/sites/20/2019/01/blog-5.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2019/01/blog-5.jpg]]></wp:meta_value>
@@ -2448,7 +2448,7 @@
 							</item>
 					<item>
 		<title>9-1</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/fashion3/?attachment_id=617</link>
+		<link>http://demo.woostify.com/fashion3/?attachment_id=617</link>
 		<pubDate>Thu, 21 Mar 2019 09:34:19 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/fashion3/wp-content/uploads/2019/03/9-1.jpg</guid>
@@ -2469,7 +2469,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/fashion3/wp-content/uploads/sites/20/2019/03/9-1.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[http://demo.woostify.com/fashion3/wp-content/uploads/sites/20/2019/03/9-1.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2019/03/9-1.jpg]]></wp:meta_value>
@@ -2481,7 +2481,7 @@
 							</item>
 					<item>
 		<title>9-2</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/fashion3/?attachment_id=618</link>
+		<link>http://demo.woostify.com/fashion3/?attachment_id=618</link>
 		<pubDate>Thu, 21 Mar 2019 09:34:22 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/fashion3/wp-content/uploads/2019/03/9-2.jpg</guid>
@@ -2502,7 +2502,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/fashion3/wp-content/uploads/sites/20/2019/03/9-2.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[http://demo.woostify.com/fashion3/wp-content/uploads/sites/20/2019/03/9-2.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2019/03/9-2.jpg]]></wp:meta_value>
@@ -2514,7 +2514,7 @@
 							</item>
 					<item>
 		<title>9-3</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/fashion3/?attachment_id=619</link>
+		<link>http://demo.woostify.com/fashion3/?attachment_id=619</link>
 		<pubDate>Thu, 21 Mar 2019 09:34:24 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/fashion3/wp-content/uploads/2019/03/9-3.jpg</guid>
@@ -2535,7 +2535,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/fashion3/wp-content/uploads/sites/20/2019/03/9-3.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[http://demo.woostify.com/fashion3/wp-content/uploads/sites/20/2019/03/9-3.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2019/03/9-3.jpg]]></wp:meta_value>
@@ -2547,7 +2547,7 @@
 							</item>
 					<item>
 		<title>9-4</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/fashion3/?attachment_id=620</link>
+		<link>http://demo.woostify.com/fashion3/?attachment_id=620</link>
 		<pubDate>Thu, 21 Mar 2019 09:34:27 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/fashion3/wp-content/uploads/2019/03/9-4.jpg</guid>
@@ -2568,7 +2568,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/fashion3/wp-content/uploads/sites/20/2019/03/9-4.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[http://demo.woostify.com/fashion3/wp-content/uploads/sites/20/2019/03/9-4.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2019/03/9-4.jpg]]></wp:meta_value>
@@ -2580,7 +2580,7 @@
 							</item>
 					<item>
 		<title>10-1</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/fashion3/?attachment_id=621</link>
+		<link>http://demo.woostify.com/fashion3/?attachment_id=621</link>
 		<pubDate>Thu, 21 Mar 2019 09:34:29 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/fashion3/wp-content/uploads/2019/03/10-1.jpg</guid>
@@ -2601,7 +2601,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/fashion3/wp-content/uploads/sites/20/2019/03/10-1.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[http://demo.woostify.com/fashion3/wp-content/uploads/sites/20/2019/03/10-1.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2019/03/10-1.jpg]]></wp:meta_value>
@@ -2613,7 +2613,7 @@
 							</item>
 					<item>
 		<title>10-2</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/fashion3/?attachment_id=622</link>
+		<link>http://demo.woostify.com/fashion3/?attachment_id=622</link>
 		<pubDate>Thu, 21 Mar 2019 09:34:31 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/fashion3/wp-content/uploads/2019/03/10-2.jpg</guid>
@@ -2634,7 +2634,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/fashion3/wp-content/uploads/sites/20/2019/03/10-2.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[http://demo.woostify.com/fashion3/wp-content/uploads/sites/20/2019/03/10-2.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2019/03/10-2.jpg]]></wp:meta_value>
@@ -2646,7 +2646,7 @@
 							</item>
 					<item>
 		<title>10-3</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/fashion3/?attachment_id=624</link>
+		<link>http://demo.woostify.com/fashion3/?attachment_id=624</link>
 		<pubDate>Thu, 21 Mar 2019 09:34:33 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/fashion3/wp-content/uploads/2019/03/10-3.jpg</guid>
@@ -2667,7 +2667,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/fashion3/wp-content/uploads/sites/20/2019/03/10-3.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[http://demo.woostify.com/fashion3/wp-content/uploads/sites/20/2019/03/10-3.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2019/03/10-3.jpg]]></wp:meta_value>
@@ -2679,7 +2679,7 @@
 							</item>
 					<item>
 		<title>10-4</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/fashion3/?attachment_id=625</link>
+		<link>http://demo.woostify.com/fashion3/?attachment_id=625</link>
 		<pubDate>Thu, 21 Mar 2019 09:34:35 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/fashion3/wp-content/uploads/2019/03/10-4.jpg</guid>
@@ -2700,7 +2700,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/fashion3/wp-content/uploads/sites/20/2019/03/10-4.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[http://demo.woostify.com/fashion3/wp-content/uploads/sites/20/2019/03/10-4.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2019/03/10-4.jpg]]></wp:meta_value>
@@ -2712,7 +2712,7 @@
 							</item>
 					<item>
 		<title>11-1</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/fashion3/?attachment_id=626</link>
+		<link>http://demo.woostify.com/fashion3/?attachment_id=626</link>
 		<pubDate>Thu, 21 Mar 2019 09:34:40 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/fashion3/wp-content/uploads/2019/03/11-1.jpg</guid>
@@ -2733,7 +2733,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/fashion3/wp-content/uploads/sites/20/2019/03/11-1.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[http://demo.woostify.com/fashion3/wp-content/uploads/sites/20/2019/03/11-1.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2019/03/11-1.jpg]]></wp:meta_value>
@@ -2745,7 +2745,7 @@
 							</item>
 					<item>
 		<title>11-2</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/fashion3/?attachment_id=627</link>
+		<link>http://demo.woostify.com/fashion3/?attachment_id=627</link>
 		<pubDate>Thu, 21 Mar 2019 09:34:42 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/fashion3/wp-content/uploads/2019/03/11-2.jpg</guid>
@@ -2766,7 +2766,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/fashion3/wp-content/uploads/sites/20/2019/03/11-2.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[http://demo.woostify.com/fashion3/wp-content/uploads/sites/20/2019/03/11-2.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2019/03/11-2.jpg]]></wp:meta_value>
@@ -2778,7 +2778,7 @@
 							</item>
 					<item>
 		<title>woocommerce-placeholder</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/fashion3/woocommerce-placeholder/</link>
+		<link>http://demo.woostify.com/fashion3/woocommerce-placeholder/</link>
 		<pubDate>Thu, 22 Oct 2020 04:05:24 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/fashion3/wp-content/uploads/sites/20/2020/10/woocommerce-placeholder.png</guid>
@@ -2797,7 +2797,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/fashion3/wp-content/uploads/sites/20/woocommerce-placeholder.png]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[http://demo.woostify.com/fashion3/wp-content/uploads/sites/20/woocommerce-placeholder.png]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[woocommerce-placeholder.png]]></wp:meta_value>
@@ -2809,7 +2809,7 @@
 							</item>
 					<item>
 		<title></title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/fashion3/2018/12/28/128/</link>
+		<link>http://demo.woostify.com/fashion3/2018/12/28/128/</link>
 		<pubDate>Fri, 28 Dec 2018 08:29:54 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/fashion3/?p=128</guid>
@@ -2880,7 +2880,7 @@
 							</item>
 					<item>
 		<title>Home</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/fashion3/2018/12/28/home/</link>
+		<link>http://demo.woostify.com/fashion3/2018/12/28/home/</link>
 		<pubDate>Fri, 28 Dec 2018 08:29:54 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/fashion3/?p=129</guid>
@@ -2951,7 +2951,7 @@
 							</item>
 					<item>
 		<title>Sizing Charts</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/fashion3/2019/01/02/sizing-charts/</link>
+		<link>http://demo.woostify.com/fashion3/2019/01/02/sizing-charts/</link>
 		<pubDate>Wed, 02 Jan 2019 08:04:53 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/fashion3/?p=165</guid>
@@ -3024,7 +3024,7 @@
 							</item>
 					<item>
 		<title>Guides &amp; Expert Advice</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/fashion3/2019/01/02/guides-expert-advice/</link>
+		<link>http://demo.woostify.com/fashion3/2019/01/02/guides-expert-advice/</link>
 		<pubDate>Wed, 02 Jan 2019 08:04:53 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/fashion3/?p=166</guid>
@@ -3097,7 +3097,7 @@
 							</item>
 					<item>
 		<title>Returns</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/fashion3/2019/01/02/returns/</link>
+		<link>http://demo.woostify.com/fashion3/2019/01/02/returns/</link>
 		<pubDate>Wed, 02 Jan 2019 08:04:53 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/fashion3/?p=167</guid>
@@ -3170,7 +3170,7 @@
 							</item>
 					<item>
 		<title>Simple Subsbrice Form</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/fashion3/?elementor_library=simple-subsbrice-form</link>
+		<link>http://demo.woostify.com/fashion3/?elementor_library=simple-subsbrice-form</link>
 		<pubDate>Fri, 04 Jan 2019 02:37:26 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/fashion3/?elementor_library=simple-subsbrice-form</guid>
@@ -3233,7 +3233,7 @@
 							</item>
 					<item>
 		<title>woocommerce-placeholder</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/fashion3/woocommerce-placeholder-2-2/</link>
+		<link>http://demo.woostify.com/fashion3/woocommerce-placeholder-2-2/</link>
 		<pubDate>Wed, 20 Nov 2019 07:46:30 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/pro/fashion3/wp-content/uploads/sites/3/2019/11/woocommerce-placeholder.png</guid>
@@ -3252,7 +3252,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/fashion3/wp-content/uploads/sites/20/2019/11/woocommerce-placeholder.png]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[http://demo.woostify.com/fashion3/wp-content/uploads/sites/20/2019/11/woocommerce-placeholder.png]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2019/11/woocommerce-placeholder.png]]></wp:meta_value>
@@ -3272,7 +3272,7 @@
 							</item>
 					<item>
 		<title>woocommerce-placeholder</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/fashion3/woocommerce-placeholder-2/</link>
+		<link>http://demo.woostify.com/fashion3/woocommerce-placeholder-2/</link>
 		<pubDate>Tue, 19 May 2020 04:08:48 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://prodemo.woostify.com/fashion3/wp-content/uploads/sites/2/2020/05/woocommerce-placeholder.png</guid>
@@ -3291,7 +3291,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/fashion3/wp-content/uploads/sites/20/2020/05/woocommerce-placeholder.png]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[http://demo.woostify.com/fashion3/wp-content/uploads/sites/20/2020/05/woocommerce-placeholder.png]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2020/05/woocommerce-placeholder.png]]></wp:meta_value>
@@ -3307,7 +3307,7 @@
 							</item>
 					<item>
 		<title>11-3</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/fashion3/?attachment_id=629</link>
+		<link>http://demo.woostify.com/fashion3/?attachment_id=629</link>
 		<pubDate>Thu, 21 Mar 2019 09:34:43 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/fashion3/wp-content/uploads/2019/03/11-3.jpg</guid>
@@ -3328,7 +3328,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/fashion3/wp-content/uploads/sites/20/2019/03/11-3.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[http://demo.woostify.com/fashion3/wp-content/uploads/sites/20/2019/03/11-3.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2019/03/11-3.jpg]]></wp:meta_value>
@@ -3340,7 +3340,7 @@
 							</item>
 					<item>
 		<title>11-4</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/fashion3/?attachment_id=630</link>
+		<link>http://demo.woostify.com/fashion3/?attachment_id=630</link>
 		<pubDate>Thu, 21 Mar 2019 09:34:45 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/fashion3/wp-content/uploads/2019/03/11-4.jpg</guid>
@@ -3361,7 +3361,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/fashion3/wp-content/uploads/sites/20/2019/03/11-4.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[http://demo.woostify.com/fashion3/wp-content/uploads/sites/20/2019/03/11-4.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2019/03/11-4.jpg]]></wp:meta_value>
@@ -3373,7 +3373,7 @@
 							</item>
 					<item>
 		<title>12-1</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/fashion3/?attachment_id=631</link>
+		<link>http://demo.woostify.com/fashion3/?attachment_id=631</link>
 		<pubDate>Thu, 21 Mar 2019 09:34:46 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/fashion3/wp-content/uploads/2019/03/12-1.jpg</guid>
@@ -3394,7 +3394,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/fashion3/wp-content/uploads/sites/20/2019/03/12-1.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[http://demo.woostify.com/fashion3/wp-content/uploads/sites/20/2019/03/12-1.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2019/03/12-1.jpg]]></wp:meta_value>
@@ -3406,7 +3406,7 @@
 							</item>
 					<item>
 		<title>12-2</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/fashion3/?attachment_id=632</link>
+		<link>http://demo.woostify.com/fashion3/?attachment_id=632</link>
 		<pubDate>Thu, 21 Mar 2019 09:34:48 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/fashion3/wp-content/uploads/2019/03/12-2.jpg</guid>
@@ -3427,7 +3427,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/fashion3/wp-content/uploads/sites/20/2019/03/12-2.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[http://demo.woostify.com/fashion3/wp-content/uploads/sites/20/2019/03/12-2.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2019/03/12-2.jpg]]></wp:meta_value>
@@ -3439,7 +3439,7 @@
 							</item>
 					<item>
 		<title>12-3</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/fashion3/?attachment_id=633</link>
+		<link>http://demo.woostify.com/fashion3/?attachment_id=633</link>
 		<pubDate>Thu, 21 Mar 2019 09:34:49 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/fashion3/wp-content/uploads/2019/03/12-3.jpg</guid>
@@ -3460,7 +3460,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/fashion3/wp-content/uploads/sites/20/2019/03/12-3.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[http://demo.woostify.com/fashion3/wp-content/uploads/sites/20/2019/03/12-3.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2019/03/12-3.jpg]]></wp:meta_value>
@@ -3472,7 +3472,7 @@
 							</item>
 					<item>
 		<title>12-4</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/fashion3/?attachment_id=634</link>
+		<link>http://demo.woostify.com/fashion3/?attachment_id=634</link>
 		<pubDate>Thu, 21 Mar 2019 09:34:51 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/fashion3/wp-content/uploads/2019/03/12-4.jpg</guid>
@@ -3493,7 +3493,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/fashion3/wp-content/uploads/sites/20/2019/03/12-4.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[http://demo.woostify.com/fashion3/wp-content/uploads/sites/20/2019/03/12-4.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2019/03/12-4.jpg]]></wp:meta_value>
@@ -3505,7 +3505,7 @@
 							</item>
 					<item>
 		<title>vog-logo-@2x</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/fashion3/vog-logo-2x/</link>
+		<link>http://demo.woostify.com/fashion3/vog-logo-2x/</link>
 		<pubDate>Fri, 22 Mar 2019 08:43:34 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/fashion3/wp-content/uploads/2019/03/vog-logo-@2x.png</guid>
@@ -3524,7 +3524,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/fashion3/wp-content/uploads/sites/20/2019/03/vog-logo-@2x.png]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[http://demo.woostify.com/fashion3/wp-content/uploads/sites/20/2019/03/vog-logo-@2x.png]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2019/03/vog-logo-@2x.png]]></wp:meta_value>
@@ -3548,7 +3548,7 @@
 							</item>
 					<item>
 		<title>vog-logo</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/fashion3/vog-logo/</link>
+		<link>http://demo.woostify.com/fashion3/vog-logo/</link>
 		<pubDate>Fri, 22 Mar 2019 08:43:36 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/fashion3/wp-content/uploads/2019/03/vog-logo.png</guid>
@@ -3567,7 +3567,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/fashion3/wp-content/uploads/sites/20/2019/03/vog-logo.png]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[http://demo.woostify.com/fashion3/wp-content/uploads/sites/20/2019/03/vog-logo.png]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2019/03/vog-logo.png]]></wp:meta_value>
@@ -3591,7 +3591,7 @@
 							</item>
 					<item>
 		<title>Default Kit</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/fashion3/?elementor_library=default-kit</link>
+		<link>http://demo.woostify.com/fashion3/?elementor_library=default-kit</link>
 		<pubDate>Tue, 14 Apr 2020 03:51:14 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/pro/fashion3/?elementor_library=default-kit</guid>
@@ -3629,7 +3629,7 @@
 							</item>
 					<item>
 		<title>Default Kit</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/fashion3/?elementor_library=default-kit-2</link>
+		<link>http://demo.woostify.com/fashion3/?elementor_library=default-kit-2</link>
 		<pubDate>Tue, 19 May 2020 04:14:46 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://prodemo.woostify.com/fashion3/?elementor_library=default-kit-2</guid>
@@ -3667,7 +3667,7 @@
 							</item>
 					<item>
 		<title>Default Kit</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/fashion3/?elementor_library=default-kit-3</link>
+		<link>http://demo.woostify.com/fashion3/?elementor_library=default-kit-3</link>
 		<pubDate>Thu, 22 Oct 2020 04:09:36 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/fashion3/?elementor_library=default-kit-3</guid>
@@ -3701,7 +3701,7 @@
 							</item>
 					<item>
 		<title>Shipping</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/fashion3/2019/01/02/shipping/</link>
+		<link>http://demo.woostify.com/fashion3/2019/01/02/shipping/</link>
 		<pubDate>Wed, 02 Jan 2019 08:04:53 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/fashion3/?p=168</guid>
@@ -3774,7 +3774,7 @@
 							</item>
 					<item>
 		<title>Contact Us</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/fashion3/2019/01/02/contact-us/</link>
+		<link>http://demo.woostify.com/fashion3/2019/01/02/contact-us/</link>
 		<pubDate>Wed, 02 Jan 2019 08:04:53 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/fashion3/?p=169</guid>
@@ -3847,7 +3847,7 @@
 							</item>
 					<item>
 		<title>What&#039;s New</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/fashion3/2019/01/02/whats-new/</link>
+		<link>http://demo.woostify.com/fashion3/2019/01/02/whats-new/</link>
 		<pubDate>Wed, 02 Jan 2019 08:07:41 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/fashion3/?p=171</guid>
@@ -3920,7 +3920,7 @@
 							</item>
 					<item>
 		<title>Shop By Brand</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/fashion3/2019/01/02/shop-by-brand/</link>
+		<link>http://demo.woostify.com/fashion3/2019/01/02/shop-by-brand/</link>
 		<pubDate>Wed, 02 Jan 2019 08:07:41 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/fashion3/?p=172</guid>
@@ -3993,7 +3993,7 @@
 							</item>
 					<item>
 		<title>Subscribe To Our Emails</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/fashion3/2019/01/02/subscribe-to-our-emails/</link>
+		<link>http://demo.woostify.com/fashion3/2019/01/02/subscribe-to-our-emails/</link>
 		<pubDate>Wed, 02 Jan 2019 08:07:41 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/fashion3/?p=173</guid>
@@ -4066,7 +4066,7 @@
 							</item>
 					<item>
 		<title>Gift Cards</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/fashion3/2019/01/02/gift-cards/</link>
+		<link>http://demo.woostify.com/fashion3/2019/01/02/gift-cards/</link>
 		<pubDate>Wed, 02 Jan 2019 08:07:41 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/fashion3/?p=174</guid>
@@ -4139,7 +4139,7 @@
 							</item>
 					<item>
 		<title>Why Shop At Yoga&#039;n&#039;Life</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/fashion3/2019/01/02/why-shop-at-yoganlife/</link>
+		<link>http://demo.woostify.com/fashion3/2019/01/02/why-shop-at-yoganlife/</link>
 		<pubDate>Wed, 02 Jan 2019 08:07:41 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/fashion3/?p=175</guid>
@@ -4212,7 +4212,7 @@
 							</item>
 					<item>
 		<title>Company Information</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/fashion3/2019/01/02/company-information/</link>
+		<link>http://demo.woostify.com/fashion3/2019/01/02/company-information/</link>
 		<pubDate>Wed, 02 Jan 2019 08:11:05 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/fashion3/?p=176</guid>
@@ -4285,7 +4285,7 @@
 							</item>
 					<item>
 		<title>Career</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/fashion3/2019/01/02/career/</link>
+		<link>http://demo.woostify.com/fashion3/2019/01/02/career/</link>
 		<pubDate>Wed, 02 Jan 2019 08:11:05 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/fashion3/?p=177</guid>
@@ -4358,7 +4358,7 @@
 							</item>
 					<item>
 		<title>Testimonials</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/fashion3/2019/01/02/testimonials/</link>
+		<link>http://demo.woostify.com/fashion3/2019/01/02/testimonials/</link>
 		<pubDate>Wed, 02 Jan 2019 08:11:05 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/fashion3/?p=178</guid>
@@ -4431,7 +4431,7 @@
 							</item>
 					<item>
 		<title>Terms of Use</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/fashion3/2019/01/03/terms-of-use/</link>
+		<link>http://demo.woostify.com/fashion3/2019/01/03/terms-of-use/</link>
 		<pubDate>Thu, 03 Jan 2019 03:22:20 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/fashion3/?p=195</guid>
@@ -4504,7 +4504,7 @@
 							</item>
 					<item>
 		<title>Privacy Policy</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/fashion3/2019/01/03/privacy-policy/</link>
+		<link>http://demo.woostify.com/fashion3/2019/01/03/privacy-policy/</link>
 		<pubDate>Thu, 03 Jan 2019 03:22:20 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/fashion3/?p=196</guid>
@@ -4577,7 +4577,7 @@
 							</item>
 					<item>
 		<title>Accessibility Statement</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/fashion3/2019/01/03/accessibility-statement/</link>
+		<link>http://demo.woostify.com/fashion3/2019/01/03/accessibility-statement/</link>
 		<pubDate>Thu, 03 Jan 2019 03:22:20 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/fashion3/?p=197</guid>
@@ -4650,7 +4650,7 @@
 							</item>
 					<item>
 		<title>Company Information</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/fashion3/2019/01/03/company-information-2/</link>
+		<link>http://demo.woostify.com/fashion3/2019/01/03/company-information-2/</link>
 		<pubDate>Thu, 03 Jan 2019 03:22:20 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/fashion3/?p=198</guid>
@@ -4723,7 +4723,7 @@
 							</item>
 					<item>
 		<title></title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/fashion3/2019/01/03/260/</link>
+		<link>http://demo.woostify.com/fashion3/2019/01/03/260/</link>
 		<pubDate>Thu, 03 Jan 2019 10:28:53 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/fashion3/?p=260</guid>
@@ -4794,7 +4794,7 @@
 							</item>
 					<item>
 		<title></title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/fashion3/2019/01/03/261/</link>
+		<link>http://demo.woostify.com/fashion3/2019/01/03/261/</link>
 		<pubDate>Thu, 03 Jan 2019 10:28:53 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/fashion3/?p=261</guid>
@@ -4865,7 +4865,7 @@
 							</item>
 					<item>
 		<title>Dress</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/fashion3/2019/01/25/dress/</link>
+		<link>http://demo.woostify.com/fashion3/2019/01/25/dress/</link>
 		<pubDate>Fri, 25 Jan 2019 10:05:36 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/fashion3/?p=484</guid>
@@ -4938,7 +4938,7 @@
 							</item>
 					<item>
 		<title>Jumpsuits</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/fashion3/2019/01/25/jumpsuits/</link>
+		<link>http://demo.woostify.com/fashion3/2019/01/25/jumpsuits/</link>
 		<pubDate>Fri, 25 Jan 2019 10:05:37 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/fashion3/?p=485</guid>
@@ -5011,7 +5011,7 @@
 							</item>
 					<item>
 		<title>Shirts</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/fashion3/2019/01/25/shirts/</link>
+		<link>http://demo.woostify.com/fashion3/2019/01/25/shirts/</link>
 		<pubDate>Fri, 25 Jan 2019 10:05:37 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/fashion3/?p=486</guid>
@@ -5084,7 +5084,7 @@
 							</item>
 					<item>
 		<title>Sweatshirts</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/fashion3/2019/01/25/sweatshirts/</link>
+		<link>http://demo.woostify.com/fashion3/2019/01/25/sweatshirts/</link>
 		<pubDate>Fri, 25 Jan 2019 10:05:37 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/fashion3/?p=487</guid>
@@ -5157,7 +5157,7 @@
 							</item>
 					<item>
 		<title>Woostify</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/fashion3/</link>
+		<link>http://demo.woostify.com/fashion3/</link>
 		<pubDate>Tue, 18 Dec 2018 03:58:40 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/fashion3/?page_id=11</guid>
@@ -5364,7 +5364,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_elementor_data]]></wp:meta_key>
-		<wp:meta_value><![CDATA[[{"id":"896416e","elType":"section","settings":{"stretch_section":"section-stretched","gap":"no","content_width":{"unit":"px","size":1174},"layout":"full_width"},"elements":[{"id":"d511549","elType":"column","settings":{"_column_size":100},"elements":[{"id":"6345319","elType":"widget","settings":{"slides":[{"title":"Winter Season Ready To Wear","description":"Sale up to 50% of all items. Money-back guarantee.","btn1_text":"Check Now","btn1_link":{"url":"https:\/\/woostify.com\/demos\/pro\/fashion3\/shop\/"},"background_background":"classic","_id":"b0c596e","btn2_link":{"url":"","is_external":"","nofollow":""},"background_color_stop":{"unit":"%","size":0},"background_color_b_stop":{"unit":"%","size":100},"background_gradient_angle":{"unit":"deg","size":180},"background_image":{"url":"http:\/\/prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link\/fashion3\/wp-content\/uploads\/sites\/20\/2019\/03\/vogue-for-her-1.jpg","id":556},"background_position":"center center","background_xpos":{"unit":"px","size":0},"background_xpos_tablet":{"unit":"px","size":0},"background_xpos_mobile":{"unit":"px","size":0},"background_ypos":{"unit":"px","size":0},"background_ypos_tablet":{"unit":"px","size":0},"background_ypos_mobile":{"unit":"px","size":0},"background_attachment_tablet":"","background_attachment_mobile":"","background_repeat":"no-repeat","background_size":"cover","background_bg_width":{"unit":"%","size":100},"background_bg_width_tablet":{"unit":"px","size":""},"background_bg_width_mobile":{"unit":"px","size":""},"custom":"yes","custom_horizontal_pos":"left","custom_vertical_pos":"center","custom_text_align":"left","custom_content_width":{"unit":"px","size":600,"sizes":[]},"custom_content_width_tablet":{"unit":"px","size":400,"sizes":[]}},{"title":"Ecologically Grown Cotton","description":"Perfect item for coming summer","btn1_text":"Shop Now","btn1_link":{"url":"https:\/\/woostify.com\/demos\/pro\/fashion3\/shop\/"},"background_background":"classic","_id":"eab4318","btn2_link":{"url":"","is_external":"","nofollow":""},"background_color_stop":{"unit":"%","size":0},"background_color_b_stop":{"unit":"%","size":100},"background_gradient_angle":{"unit":"deg","size":180},"background_image":{"url":"http:\/\/prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link\/fashion3\/wp-content\/uploads\/sites\/20\/2019\/01\/vogue-slide2.jpg","id":433},"background_position":"center center","background_xpos":{"unit":"px","size":0},"background_xpos_tablet":{"unit":"px","size":0},"background_xpos_mobile":{"unit":"px","size":0},"background_ypos":{"unit":"px","size":0},"background_ypos_tablet":{"unit":"px","size":0},"background_ypos_mobile":{"unit":"px","size":0},"background_attachment_tablet":"","background_attachment_mobile":"","background_repeat":"no-repeat","background_size":"cover","background_bg_width":{"unit":"%","size":100},"background_bg_width_tablet":{"unit":"px","size":""},"background_bg_width_mobile":{"unit":"px","size":""},"custom":"yes","custom_horizontal_pos":"flex-end","custom_vertical_pos":"center","custom_text_align":"right","custom_content_width":{"unit":"px","size":600,"sizes":[]}}],"navigation":"dots","content_animation":"fadeInUp","slider_height":{"unit":"px","size":660},"slide_width":{"unit":"px","size":600},"slide_padding":{"unit":"px","top":"50","right":"50","bottom":"50","left":"50","isLinked":true},"description_color":"#acacac","button_typography_typography":"custom","button_typography_font_weight":"bold","button_border_width":{"unit":"px","size":1},"button_border_radius":{"unit":"px","size":0},"button_padding":{"unit":"px","top":"5","right":"25","bottom":"5","left":"25","isLinked":false},"button_bg_color":"#d21515","button_border_color":"#d21515","title_color":"#3e3e3e","description_space":{"unit":"px","size":40},"slide_width_tablet":{"unit":"%","size":80},"slide_padding_tablet":{"unit":"px","top":"50","right":"70","bottom":"50","left":"70","isLinked":false},"slide_padding_mobile":{"unit":"px","top":"50","right":"30","bottom":"50","left":"30","isLinked":false},"title_space":{"unit":"px","size":20},"title_typography_typography":"custom","title_typography_font_family":"Playfair Display","title_typography_font_size":{"unit":"px","size":60},"title_typography_font_weight":"300","title_typography_line_height":{"unit":"em","size":1.2},"title_typography_letter_spacing":{"unit":"px","size":1},"description_typography_typography":"custom","description_typography_font_family":"PT Sans","description_typography_font_size":{"unit":"px","size":18},"description_typography_line_height":{"unit":"em","size":1.3},"description_typography_letter_spacing":{"unit":"px","size":0.5},"button_typography_font_family":"PT Sans","button_typography_font_size":{"unit":"px","size":14},"slider_height_tablet":{"unit":"px","size":580,"sizes":[]},"slider_height_mobile":{"unit":"px","size":400,"sizes":[]},"horizontal_pos_tablet":"center","vertical_pos_tablet":"center","title_typography_font_size_mobile":{"unit":"px","size":30,"sizes":[]},"container_width":{"unit":"px","size":1170,"sizes":[]},"content_width":{"unit":"px","size":480,"sizes":[]},"timeout":50000},"elements":[],"widgetType":"woostify-slider"}],"isInner":false}],"isInner":false},{"id":"af0f93b","elType":"section","settings":{"margin":{"unit":"px","top":"80","right":0,"bottom":"0","left":0,"isLinked":false}},"elements":[{"id":"77a4548","elType":"column","settings":{"_column_size":100},"elements":[{"id":"1a2ea38","elType":"widget","settings":{"title":"New Arrivals","header_size":"h3","align":"center","typography_typography":"custom","title_color":"#3e3e3e","typography_font_family":"Playfair Display","typography_font_size":{"unit":"px","size":30},"typography_font_weight":"300","_margin":{"unit":"px","top":"0","right":"0","bottom":"50","left":"0","isLinked":false}},"elements":[],"widgetType":"heading"},{"id":"12d04c0","elType":"widget","settings":{"count":8,"_margin":{"unit":"px","top":"0","right":"0","bottom":"020","left":"0","isLinked":false}},"elements":[],"widgetType":"woostify-products"}],"isInner":false}],"isInner":false},{"id":"d6d34a0","elType":"section","settings":{"margin":{"unit":"px","top":"0","right":0,"bottom":"0","left":0,"isLinked":false},"stretch_section":"section-stretched","background_background":"classic","background_attachment":"fixed","background_size":"cover","background_overlay_background":"classic","background_overlay_color":"rgba(0,0,0,0.82)","padding":{"unit":"px","top":"80","right":"0","bottom":"60","left":"0","isLinked":false},"background_color":"#5b5b5b"},"elements":[{"id":"7fc4148","elType":"column","settings":{"_column_size":100},"elements":[{"id":"58164e8","elType":"widget","settings":{"title":"Featured Categories","header_size":"h3","align":"center","typography_typography":"custom","title_color":"#ffffff","typography_font_family":"Playfair Display","typography_font_size":{"unit":"px","size":30},"typography_font_weight":"300","_margin":{"unit":"px","top":"0","right":"0","bottom":"50","left":"0","isLinked":false}},"elements":[],"widgetType":"heading"},{"id":"a96f17c","elType":"widget","settings":{"layout":"3","columns":"3","horizontal_pos":"center","button_text":"Shop now","vertical_pos":"flex-start","padding":{"unit":"px","top":"25","right":"20","bottom":"25","left":"20","isLinked":false},"title_typography":"custom","title_font_family":"Playfair Display","title_font_size":{"unit":"px","size":18},"title_font_weight":"400","overlay_text_color":"#3c3c3c","overlay_padding":{"unit":"px","top":"30","right":"80","bottom":"250","left":"80","isLinked":false},"_background_color":"#ffffff","category_ids":["40","44","53"],"content_bg_color":"#ffffff","space":{"unit":"px","top":"0","right":0,"bottom":"30","left":0,"isLinked":false},"margin":{"unit":"px","top":"30","right":"70","bottom":"30","left":"70","isLinked":false}},"elements":[],"widgetType":"woostify-product-category"}],"isInner":false}],"isInner":false},{"id":"caeadd4","elType":"section","settings":{"stretch_section":"section-stretched","background_background":"classic","background_image":{"url":"https:\/\/prodemo.woostify.com\/fashion3\/wp-content\/uploads\/sites\/2\/2019\/03\/vogue-for-her-1.jpg","id":556},"background_position":"center center","background_attachment":"fixed","background_size":"cover","margin":{"unit":"px","top":"0","right":0,"bottom":"070","left":0,"isLinked":false},"padding":{"unit":"px","top":"50","right":"0","bottom":"90","left":"0","isLinked":false}},"elements":[{"id":"7d36a3b","elType":"column","settings":{"_column_size":100},"elements":[{"id":"d369324","elType":"section","settings":{"structure":"21"},"elements":[{"id":"5901af6","elType":"column","settings":{"_column_size":33,"_inline_size":null},"elements":[],"isInner":true},{"id":"a68aaed","elType":"column","settings":{"_column_size":66,"_inline_size":null},"elements":[{"id":"4c88965","elType":"widget","settings":{"title":"Best Sellers","header_size":"h3","align":"center","typography_typography":"custom","typography_font_family":"Playfair Display","typography_font_size":{"unit":"px","size":30},"typography_font_weight":"300","_margin":{"unit":"px","top":"0","right":"0","bottom":"20","left":"0","isLinked":false},"title_color":"#3e3e3e"},"elements":[],"widgetType":"heading"}],"isInner":true}],"isInner":true},{"id":"d4b9eb4","elType":"section","settings":{"structure":"21"},"elements":[{"id":"eaa1b23","elType":"column","settings":{"_column_size":33,"_inline_size":null},"elements":[],"isInner":true},{"id":"38f0cdc","elType":"column","settings":{"_column_size":66,"_inline_size":null},"elements":[{"id":"b38eb1f","elType":"widget","settings":{"columns":"3","gap":{"unit":"px","size":30},"navigation":"dots","dots_size":{"unit":"px","size":8},"dots_position":{"unit":"px","size":-15},"dots_color":"#dd3333","_padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false},"loop":"","dots_bg_color":"rgba(0,0,0,0.26)"},"elements":[],"widgetType":"woostify-product-slider"}],"isInner":true}],"isInner":true}],"isInner":false}],"isInner":false},{"id":"89eeeb0","elType":"section","settings":[],"elements":[{"id":"e4d8367","elType":"column","settings":{"_column_size":100},"elements":[{"id":"14bbd64","elType":"widget","settings":{"title":"From Our Blog","header_size":"h3","align":"center","title_color":"#3e3e3e","typography_typography":"custom","typography_font_family":"Playfair Display","typography_font_size":{"unit":"px","size":30},"typography_font_weight":"300","_margin":{"unit":"px","top":"0","right":"0","bottom":"50","left":"0","isLinked":false}},"elements":[],"widgetType":"heading"},{"id":"5d58278","elType":"widget","settings":{"date":"yes","author":"yes","post_meta_typography":"custom","excerpt_color":"#acacac","read_more_text":"Read More","count":3},"elements":[],"widgetType":"woostify-post"},{"id":"96d22fd","elType":"widget","settings":{"space":{"unit":"px","size":40}},"elements":[],"widgetType":"spacer"},{"id":"e33074e","elType":"widget","settings":{"text":"View All Posts","link":{"url":"https:\/\/woostify.com\/demos\/fashion2\/blog\/","is_external":"","nofollow":""},"align":"center","typography_typography":"custom","typography_font_weight":"bold","background_color":"#d21515","border_radius":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true},"text_padding":{"unit":"px","top":"12","right":"23","bottom":"12","left":"23","isLinked":false},"typography_font_family":"PT Sans","typography_font_size":{"unit":"px","size":14}},"elements":[],"widgetType":"button"}],"isInner":false}],"isInner":false},{"id":"2b7df88","elType":"section","settings":[],"elements":[{"id":"412a3ce","elType":"column","settings":{"_column_size":100},"elements":[{"id":"1d6266e","elType":"widget","settings":[],"elements":[],"widgetType":"spacer"}],"isInner":false}],"isInner":false},{"id":"a68df59","elType":"section","settings":{"stretch_section":"section-stretched","layout":"full_width","gap":"no","border_border":"solid","border_width":{"unit":"px","top":"0","right":"55","bottom":"0","left":"55","isLinked":false},"border_color":"#ffffff"},"elements":[{"id":"a0c9858","elType":"column","settings":{"_column_size":100},"elements":[{"id":"18f62c3","elType":"widget","settings":{"shortcode":"[instagram-feed]"},"elements":[],"widgetType":"shortcode"}],"isInner":false}],"isInner":false}]]]></wp:meta_value>
+		<wp:meta_value><![CDATA[[{"id":"896416e","elType":"section","settings":{"stretch_section":"section-stretched","gap":"no","content_width":{"unit":"px","size":1174},"layout":"full_width"},"elements":[{"id":"d511549","elType":"column","settings":{"_column_size":100},"elements":[{"id":"6345319","elType":"widget","settings":{"slides":[{"title":"Winter Season Ready To Wear","description":"Sale up to 50% of all items. Money-back guarantee.","btn1_text":"Check Now","btn1_link":{"url":"https:\/\/woostify.com\/demos\/pro\/fashion3\/shop\/"},"background_background":"classic","_id":"b0c596e","btn2_link":{"url":"","is_external":"","nofollow":""},"background_color_stop":{"unit":"%","size":0},"background_color_b_stop":{"unit":"%","size":100},"background_gradient_angle":{"unit":"deg","size":180},"background_image":{"url":"https:\/\/demo.woostify.com\/fashion3\/wp-content\/uploads\/sites\/20\/2019\/03\/vogue-for-her-1.jpg","id":556},"background_position":"center center","background_xpos":{"unit":"px","size":0},"background_xpos_tablet":{"unit":"px","size":0},"background_xpos_mobile":{"unit":"px","size":0},"background_ypos":{"unit":"px","size":0},"background_ypos_tablet":{"unit":"px","size":0},"background_ypos_mobile":{"unit":"px","size":0},"background_attachment_tablet":"","background_attachment_mobile":"","background_repeat":"no-repeat","background_size":"cover","background_bg_width":{"unit":"%","size":100},"background_bg_width_tablet":{"unit":"px","size":""},"background_bg_width_mobile":{"unit":"px","size":""},"custom":"yes","custom_horizontal_pos":"left","custom_vertical_pos":"center","custom_text_align":"left","custom_content_width":{"unit":"px","size":600,"sizes":[]},"custom_content_width_tablet":{"unit":"px","size":400,"sizes":[]}},{"title":"Ecologically Grown Cotton","description":"Perfect item for coming summer","btn1_text":"Shop Now","btn1_link":{"url":"https:\/\/woostify.com\/demos\/pro\/fashion3\/shop\/"},"background_background":"classic","_id":"eab4318","btn2_link":{"url":"","is_external":"","nofollow":""},"background_color_stop":{"unit":"%","size":0},"background_color_b_stop":{"unit":"%","size":100},"background_gradient_angle":{"unit":"deg","size":180},"background_image":{"url":"https:\/\/demo.woostify.com\/fashion3\/wp-content\/uploads\/sites\/20\/2019\/01\/vogue-slide2.jpg","id":433},"background_position":"center center","background_xpos":{"unit":"px","size":0},"background_xpos_tablet":{"unit":"px","size":0},"background_xpos_mobile":{"unit":"px","size":0},"background_ypos":{"unit":"px","size":0},"background_ypos_tablet":{"unit":"px","size":0},"background_ypos_mobile":{"unit":"px","size":0},"background_attachment_tablet":"","background_attachment_mobile":"","background_repeat":"no-repeat","background_size":"cover","background_bg_width":{"unit":"%","size":100},"background_bg_width_tablet":{"unit":"px","size":""},"background_bg_width_mobile":{"unit":"px","size":""},"custom":"yes","custom_horizontal_pos":"flex-end","custom_vertical_pos":"center","custom_text_align":"right","custom_content_width":{"unit":"px","size":600,"sizes":[]}}],"navigation":"dots","content_animation":"fadeInUp","slider_height":{"unit":"px","size":660},"slide_width":{"unit":"px","size":600},"slide_padding":{"unit":"px","top":"50","right":"50","bottom":"50","left":"50","isLinked":true},"description_color":"#acacac","button_typography_typography":"custom","button_typography_font_weight":"bold","button_border_width":{"unit":"px","size":1},"button_border_radius":{"unit":"px","size":0},"button_padding":{"unit":"px","top":"5","right":"25","bottom":"5","left":"25","isLinked":false},"button_bg_color":"#d21515","button_border_color":"#d21515","title_color":"#3e3e3e","description_space":{"unit":"px","size":40},"slide_width_tablet":{"unit":"%","size":80},"slide_padding_tablet":{"unit":"px","top":"50","right":"70","bottom":"50","left":"70","isLinked":false},"slide_padding_mobile":{"unit":"px","top":"50","right":"30","bottom":"50","left":"30","isLinked":false},"title_space":{"unit":"px","size":20},"title_typography_typography":"custom","title_typography_font_family":"Playfair Display","title_typography_font_size":{"unit":"px","size":60},"title_typography_font_weight":"300","title_typography_line_height":{"unit":"em","size":1.2},"title_typography_letter_spacing":{"unit":"px","size":1},"description_typography_typography":"custom","description_typography_font_family":"PT Sans","description_typography_font_size":{"unit":"px","size":18},"description_typography_line_height":{"unit":"em","size":1.3},"description_typography_letter_spacing":{"unit":"px","size":0.5},"button_typography_font_family":"PT Sans","button_typography_font_size":{"unit":"px","size":14},"slider_height_tablet":{"unit":"px","size":580,"sizes":[]},"slider_height_mobile":{"unit":"px","size":400,"sizes":[]},"horizontal_pos_tablet":"center","vertical_pos_tablet":"center","title_typography_font_size_mobile":{"unit":"px","size":30,"sizes":[]},"container_width":{"unit":"px","size":1170,"sizes":[]},"content_width":{"unit":"px","size":480,"sizes":[]},"timeout":50000},"elements":[],"widgetType":"woostify-slider"}],"isInner":false}],"isInner":false},{"id":"af0f93b","elType":"section","settings":{"margin":{"unit":"px","top":"80","right":0,"bottom":"0","left":0,"isLinked":false}},"elements":[{"id":"77a4548","elType":"column","settings":{"_column_size":100},"elements":[{"id":"1a2ea38","elType":"widget","settings":{"title":"New Arrivals","header_size":"h3","align":"center","typography_typography":"custom","title_color":"#3e3e3e","typography_font_family":"Playfair Display","typography_font_size":{"unit":"px","size":30},"typography_font_weight":"300","_margin":{"unit":"px","top":"0","right":"0","bottom":"50","left":"0","isLinked":false}},"elements":[],"widgetType":"heading"},{"id":"12d04c0","elType":"widget","settings":{"count":8,"_margin":{"unit":"px","top":"0","right":"0","bottom":"020","left":"0","isLinked":false}},"elements":[],"widgetType":"woostify-products"}],"isInner":false}],"isInner":false},{"id":"d6d34a0","elType":"section","settings":{"margin":{"unit":"px","top":"0","right":0,"bottom":"0","left":0,"isLinked":false},"stretch_section":"section-stretched","background_background":"classic","background_attachment":"fixed","background_size":"cover","background_overlay_background":"classic","background_overlay_color":"rgba(0,0,0,0.82)","padding":{"unit":"px","top":"80","right":"0","bottom":"60","left":"0","isLinked":false},"background_color":"#5b5b5b"},"elements":[{"id":"7fc4148","elType":"column","settings":{"_column_size":100},"elements":[{"id":"58164e8","elType":"widget","settings":{"title":"Featured Categories","header_size":"h3","align":"center","typography_typography":"custom","title_color":"#ffffff","typography_font_family":"Playfair Display","typography_font_size":{"unit":"px","size":30},"typography_font_weight":"300","_margin":{"unit":"px","top":"0","right":"0","bottom":"50","left":"0","isLinked":false}},"elements":[],"widgetType":"heading"},{"id":"a96f17c","elType":"widget","settings":{"layout":"3","columns":"3","horizontal_pos":"center","button_text":"Shop now","vertical_pos":"flex-start","padding":{"unit":"px","top":"25","right":"20","bottom":"25","left":"20","isLinked":false},"title_typography":"custom","title_font_family":"Playfair Display","title_font_size":{"unit":"px","size":18},"title_font_weight":"400","overlay_text_color":"#3c3c3c","overlay_padding":{"unit":"px","top":"30","right":"80","bottom":"250","left":"80","isLinked":false},"_background_color":"#ffffff","category_ids":["40","44","53"],"content_bg_color":"#ffffff","space":{"unit":"px","top":"0","right":0,"bottom":"30","left":0,"isLinked":false},"margin":{"unit":"px","top":"30","right":"70","bottom":"30","left":"70","isLinked":false}},"elements":[],"widgetType":"woostify-product-category"}],"isInner":false}],"isInner":false},{"id":"caeadd4","elType":"section","settings":{"stretch_section":"section-stretched","background_background":"classic","background_image":{"url":"https:\/\/prodemo.woostify.com\/fashion3\/wp-content\/uploads\/sites\/2\/2019\/03\/vogue-for-her-1.jpg","id":556},"background_position":"center center","background_attachment":"fixed","background_size":"cover","margin":{"unit":"px","top":"0","right":0,"bottom":"070","left":0,"isLinked":false},"padding":{"unit":"px","top":"50","right":"0","bottom":"90","left":"0","isLinked":false}},"elements":[{"id":"7d36a3b","elType":"column","settings":{"_column_size":100},"elements":[{"id":"d369324","elType":"section","settings":{"structure":"21"},"elements":[{"id":"5901af6","elType":"column","settings":{"_column_size":33,"_inline_size":null},"elements":[],"isInner":true},{"id":"a68aaed","elType":"column","settings":{"_column_size":66,"_inline_size":null},"elements":[{"id":"4c88965","elType":"widget","settings":{"title":"Best Sellers","header_size":"h3","align":"center","typography_typography":"custom","typography_font_family":"Playfair Display","typography_font_size":{"unit":"px","size":30},"typography_font_weight":"300","_margin":{"unit":"px","top":"0","right":"0","bottom":"20","left":"0","isLinked":false},"title_color":"#3e3e3e"},"elements":[],"widgetType":"heading"}],"isInner":true}],"isInner":true},{"id":"d4b9eb4","elType":"section","settings":{"structure":"21"},"elements":[{"id":"eaa1b23","elType":"column","settings":{"_column_size":33,"_inline_size":null},"elements":[],"isInner":true},{"id":"38f0cdc","elType":"column","settings":{"_column_size":66,"_inline_size":null},"elements":[{"id":"b38eb1f","elType":"widget","settings":{"columns":"3","gap":{"unit":"px","size":30},"navigation":"dots","dots_size":{"unit":"px","size":8},"dots_position":{"unit":"px","size":-15},"dots_color":"#dd3333","_padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false},"loop":"","dots_bg_color":"rgba(0,0,0,0.26)"},"elements":[],"widgetType":"woostify-product-slider"}],"isInner":true}],"isInner":true}],"isInner":false}],"isInner":false},{"id":"89eeeb0","elType":"section","settings":[],"elements":[{"id":"e4d8367","elType":"column","settings":{"_column_size":100},"elements":[{"id":"14bbd64","elType":"widget","settings":{"title":"From Our Blog","header_size":"h3","align":"center","title_color":"#3e3e3e","typography_typography":"custom","typography_font_family":"Playfair Display","typography_font_size":{"unit":"px","size":30},"typography_font_weight":"300","_margin":{"unit":"px","top":"0","right":"0","bottom":"50","left":"0","isLinked":false}},"elements":[],"widgetType":"heading"},{"id":"5d58278","elType":"widget","settings":{"date":"yes","author":"yes","post_meta_typography":"custom","excerpt_color":"#acacac","read_more_text":"Read More","count":3},"elements":[],"widgetType":"woostify-post"},{"id":"96d22fd","elType":"widget","settings":{"space":{"unit":"px","size":40}},"elements":[],"widgetType":"spacer"},{"id":"e33074e","elType":"widget","settings":{"text":"View All Posts","link":{"url":"https:\/\/woostify.com\/demos\/fashion2\/blog\/","is_external":"","nofollow":""},"align":"center","typography_typography":"custom","typography_font_weight":"bold","background_color":"#d21515","border_radius":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true},"text_padding":{"unit":"px","top":"12","right":"23","bottom":"12","left":"23","isLinked":false},"typography_font_family":"PT Sans","typography_font_size":{"unit":"px","size":14}},"elements":[],"widgetType":"button"}],"isInner":false}],"isInner":false},{"id":"2b7df88","elType":"section","settings":[],"elements":[{"id":"412a3ce","elType":"column","settings":{"_column_size":100},"elements":[{"id":"1d6266e","elType":"widget","settings":[],"elements":[],"widgetType":"spacer"}],"isInner":false}],"isInner":false},{"id":"a68df59","elType":"section","settings":{"stretch_section":"section-stretched","layout":"full_width","gap":"no","border_border":"solid","border_width":{"unit":"px","top":"0","right":"55","bottom":"0","left":"55","isLinked":false},"border_color":"#ffffff"},"elements":[{"id":"a0c9858","elType":"column","settings":{"_column_size":100},"elements":[{"id":"18f62c3","elType":"widget","settings":{"shortcode":"[instagram-feed]"},"elements":[],"widgetType":"shortcode"}],"isInner":false}],"isInner":false}]]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_elementor_version]]></wp:meta_key>
@@ -5385,7 +5385,7 @@
 							</item>
 					<item>
 		<title>Top</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/fashion3/2019/01/25/top/</link>
+		<link>http://demo.woostify.com/fashion3/2019/01/25/top/</link>
 		<pubDate>Fri, 25 Jan 2019 10:05:37 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/fashion3/?p=488</guid>
@@ -5458,7 +5458,7 @@
 							</item>
 					<item>
 		<title>Jackets</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/fashion3/2019/01/25/jackets/</link>
+		<link>http://demo.woostify.com/fashion3/2019/01/25/jackets/</link>
 		<pubDate>Fri, 25 Jan 2019 10:07:03 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/fashion3/?p=489</guid>
@@ -5531,7 +5531,7 @@
 							</item>
 					<item>
 		<title>Jeans</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/fashion3/2019/01/25/jeans/</link>
+		<link>http://demo.woostify.com/fashion3/2019/01/25/jeans/</link>
 		<pubDate>Fri, 25 Jan 2019 10:07:03 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/fashion3/?p=490</guid>
@@ -5604,7 +5604,7 @@
 							</item>
 					<item>
 		<title>Leather</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/fashion3/2019/01/25/leather/</link>
+		<link>http://demo.woostify.com/fashion3/2019/01/25/leather/</link>
 		<pubDate>Fri, 25 Jan 2019 10:07:03 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/fashion3/?p=491</guid>
@@ -5677,7 +5677,7 @@
 							</item>
 					<item>
 		<title>Sleeves</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/fashion3/2019/01/25/sleeves/</link>
+		<link>http://demo.woostify.com/fashion3/2019/01/25/sleeves/</link>
 		<pubDate>Fri, 25 Jan 2019 10:07:03 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/fashion3/?p=492</guid>
@@ -5750,7 +5750,7 @@
 							</item>
 					<item>
 		<title>Shorts</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/fashion3/2019/01/25/shorts/</link>
+		<link>http://demo.woostify.com/fashion3/2019/01/25/shorts/</link>
 		<pubDate>Fri, 25 Jan 2019 10:07:03 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/fashion3/?p=493</guid>
@@ -5823,7 +5823,7 @@
 							</item>
 					<item>
 		<title>Trousers</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/fashion3/2019/01/25/troursers/</link>
+		<link>http://demo.woostify.com/fashion3/2019/01/25/troursers/</link>
 		<pubDate>Fri, 25 Jan 2019 10:07:36 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/fashion3/?p=494</guid>
@@ -5896,7 +5896,7 @@
 							</item>
 					<item>
 		<title>Swimwear</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/fashion3/2019/01/25/swimwear/</link>
+		<link>http://demo.woostify.com/fashion3/2019/01/25/swimwear/</link>
 		<pubDate>Fri, 25 Jan 2019 10:08:17 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/fashion3/?p=495</guid>
@@ -5969,7 +5969,7 @@
 							</item>
 					<item>
 		<title>Blouses</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/fashion3/2019/01/25/blouses/</link>
+		<link>http://demo.woostify.com/fashion3/2019/01/25/blouses/</link>
 		<pubDate>Fri, 25 Jan 2019 10:08:17 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/fashion3/?p=496</guid>
@@ -6042,7 +6042,7 @@
 							</item>
 					<item>
 		<title>Skirts</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/fashion3/2019/01/25/skirts/</link>
+		<link>http://demo.woostify.com/fashion3/2019/01/25/skirts/</link>
 		<pubDate>Fri, 25 Jan 2019 10:08:17 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/fashion3/?p=497</guid>
@@ -6115,7 +6115,7 @@
 							</item>
 					<item>
 		<title>Shoes</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/fashion3/2019/01/25/shoes/</link>
+		<link>http://demo.woostify.com/fashion3/2019/01/25/shoes/</link>
 		<pubDate>Fri, 25 Jan 2019 10:09:16 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/fashion3/?p=498</guid>
@@ -6188,7 +6188,7 @@
 							</item>
 					<item>
 		<title>Bags &amp; Backpacks</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/fashion3/2019/01/25/bags-backpacks/</link>
+		<link>http://demo.woostify.com/fashion3/2019/01/25/bags-backpacks/</link>
 		<pubDate>Fri, 25 Jan 2019 10:09:16 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/fashion3/?p=499</guid>
@@ -6261,7 +6261,7 @@
 							</item>
 					<item>
 		<title>Watches</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/fashion3/2019/01/25/watches/</link>
+		<link>http://demo.woostify.com/fashion3/2019/01/25/watches/</link>
 		<pubDate>Fri, 25 Jan 2019 10:09:16 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/fashion3/?p=500</guid>
@@ -6334,7 +6334,7 @@
 							</item>
 					<item>
 		<title>Hats</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/fashion3/2019/01/25/hats/</link>
+		<link>http://demo.woostify.com/fashion3/2019/01/25/hats/</link>
 		<pubDate>Fri, 25 Jan 2019 10:09:16 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/fashion3/?p=501</guid>
@@ -6407,7 +6407,7 @@
 							</item>
 					<item>
 		<title>Scarves</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/fashion3/2019/01/25/scarves/</link>
+		<link>http://demo.woostify.com/fashion3/2019/01/25/scarves/</link>
 		<pubDate>Fri, 25 Jan 2019 10:09:16 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/fashion3/?p=502</guid>
@@ -6480,7 +6480,7 @@
 							</item>
 					<item>
 		<title></title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/fashion3/2020/10/22/696/</link>
+		<link>http://demo.woostify.com/fashion3/2020/10/22/696/</link>
 		<pubDate>Thu, 22 Oct 2020 04:36:56 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/fashion3/?p=696</guid>
@@ -6535,7 +6535,7 @@
 							</item>
 					<item>
 		<title></title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/fashion3/2020/10/22/697/</link>
+		<link>http://demo.woostify.com/fashion3/2020/10/22/697/</link>
 		<pubDate>Thu, 22 Oct 2020 04:36:56 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/fashion3/?p=697</guid>
@@ -6590,7 +6590,7 @@
 							</item>
 					<item>
 		<title></title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/fashion3/2020/10/22/698/</link>
+		<link>http://demo.woostify.com/fashion3/2020/10/22/698/</link>
 		<pubDate>Thu, 22 Oct 2020 04:36:56 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/fashion3/?p=698</guid>
@@ -6645,7 +6645,7 @@
 							</item>
 					<item>
 		<title></title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/fashion3/2020/10/22/699/</link>
+		<link>http://demo.woostify.com/fashion3/2020/10/22/699/</link>
 		<pubDate>Thu, 22 Oct 2020 04:36:56 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/fashion3/?p=699</guid>
@@ -6700,7 +6700,7 @@
 							</item>
 					<item>
 		<title>Hello world!</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/fashion3/?p=1</link>
+		<link>http://demo.woostify.com/fashion3/?p=1</link>
 		<pubDate>Thu, 22 Oct 2020 04:05:15 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/fashion3/?p=1</guid>
@@ -6739,7 +6739,7 @@ Commenter avatars come from <a href="https://gravatar.com">Gravatar</a>.]]></wp:
 					</item>
 					<item>
 		<title>Shop</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/fashion3/shop/</link>
+		<link>http://demo.woostify.com/fashion3/shop/</link>
 		<pubDate>Thu, 22 Oct 2020 04:05:24 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/fashion3/shop/</guid>
@@ -6761,7 +6761,7 @@ Commenter avatars come from <a href="https://gravatar.com">Gravatar</a>.]]></wp:
 														</item>
 					<item>
 		<title>Cart</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/fashion3/cart/</link>
+		<link>http://demo.woostify.com/fashion3/cart/</link>
 		<pubDate>Thu, 22 Oct 2020 04:05:24 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/fashion3/cart/</guid>
@@ -6783,7 +6783,7 @@ Commenter avatars come from <a href="https://gravatar.com">Gravatar</a>.]]></wp:
 														</item>
 					<item>
 		<title>Checkout</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/fashion3/checkout/</link>
+		<link>http://demo.woostify.com/fashion3/checkout/</link>
 		<pubDate>Thu, 22 Oct 2020 04:05:24 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/fashion3/checkout/</guid>
@@ -6805,7 +6805,7 @@ Commenter avatars come from <a href="https://gravatar.com">Gravatar</a>.]]></wp:
 														</item>
 					<item>
 		<title>My account</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/fashion3/my-account/</link>
+		<link>http://demo.woostify.com/fashion3/my-account/</link>
 		<pubDate>Thu, 22 Oct 2020 04:05:24 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/fashion3/my-account/</guid>
@@ -6827,7 +6827,7 @@ Commenter avatars come from <a href="https://gravatar.com">Gravatar</a>.]]></wp:
 														</item>
 					<item>
 		<title>Blog</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/fashion3/blog/</link>
+		<link>http://demo.woostify.com/fashion3/blog/</link>
 		<pubDate>Tue, 18 Dec 2018 03:59:01 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/fashion3/?page_id=13</guid>
@@ -6883,7 +6883,7 @@ Commenter avatars come from <a href="https://gravatar.com">Gravatar</a>.]]></wp:
 							</item>
 					<item>
 		<title>Take a look at Naomi mannequin</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/fashion3/2019/01/02/september-l-a-wellness-events-you-dont-want-to-miss/</link>
+		<link>http://demo.woostify.com/fashion3/2019/01/02/september-l-a-wellness-events-you-dont-want-to-miss/</link>
 		<pubDate>Wed, 02 Jan 2019 04:47:12 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/fashion3/?p=154</guid>
@@ -7019,7 +7019,7 @@ I’ve arrived on time to every lesson I’ve had to teach this year, bar one.&n
 							</item>
 					<item>
 		<title>Show of the week: Milano is coming soon</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/fashion3/2019/01/02/younlife-at-the-groove-come-and-say-hey/</link>
+		<link>http://demo.woostify.com/fashion3/2019/01/02/younlife-at-the-groove-come-and-say-hey/</link>
 		<pubDate>Wed, 02 Jan 2019 04:47:52 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/fashion3/?p=156</guid>
@@ -7155,7 +7155,7 @@ I’ve arrived on time to every lesson I’ve had to teach this year, bar one.&n
 							</item>
 					<item>
 		<title>Retro Fashion: A look back to 1990s</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/fashion3/2019/01/02/the-routine-that-will-make-you-like-yoga/</link>
+		<link>http://demo.woostify.com/fashion3/2019/01/02/the-routine-that-will-make-you-like-yoga/</link>
 		<pubDate>Wed, 02 Jan 2019 04:49:07 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/fashion3/?p=158</guid>
@@ -7290,7 +7290,7 @@ I’ve arrived on time to every lesson I’ve had to teach this year, bar one.&n
 							</item>
 					<item>
 		<title>Paris Fashion Week: Fall/Winter Collections</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/fashion3/2019/01/02/exercise-a-cornerstone-of-a-healthy-lifestyle/</link>
+		<link>http://demo.woostify.com/fashion3/2019/01/02/exercise-a-cornerstone-of-a-healthy-lifestyle/</link>
 		<pubDate>Wed, 02 Jan 2019 04:50:29 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/fashion3/?p=160</guid>
@@ -7426,7 +7426,7 @@ I’ve arrived on time to every lesson I’ve had to teach this year, bar one.&n
 							</item>
 					<item>
 		<title>Sneaking Around Show</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/fashion3/2019/01/02/how-i-became-young-and-fit-once-again/</link>
+		<link>http://demo.woostify.com/fashion3/2019/01/02/how-i-became-young-and-fit-once-again/</link>
 		<pubDate>Wed, 02 Jan 2019 04:51:20 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/fashion3/?p=162</guid>
@@ -7560,7 +7560,7 @@ I’ve arrived on time to every lesson I’ve had to teach this year, bar one.&n
 							</item>
 					<item>
 		<title>About</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/fashion3/about/</link>
+		<link>http://demo.woostify.com/fashion3/about/</link>
 		<pubDate>Thu, 03 Jan 2019 03:25:35 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/fashion3/?page_id=199</guid>
@@ -7659,7 +7659,7 @@ would recommend Babie for all of you guys.
 							</item>
 					<item>
 		<title>Contact Us</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/fashion3/contact-us/</link>
+		<link>http://demo.woostify.com/fashion3/contact-us/</link>
 		<pubDate>Thu, 03 Jan 2019 03:25:53 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/fashion3/?page_id=201</guid>
@@ -7754,7 +7754,7 @@ Feel free to contact with us by using the form below
 							</item>
 					<item>
 		<title>Burberry T-Shirt</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/fashion3/product/burberry-t-shirt/</link>
+		<link>http://demo.woostify.com/fashion3/product/burberry-t-shirt/</link>
 		<pubDate>Fri, 04 Jan 2019 09:00:48 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/fashion3/?post_type=product&#038;p=323</guid>
@@ -7945,7 +7945,7 @@ Feel free to contact with us by using the form below
 							</item>
 					<item>
 		<title>Sporty Backpack</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/fashion3/product/sporty-backpack/</link>
+		<link>http://demo.woostify.com/fashion3/product/sporty-backpack/</link>
 		<pubDate>Fri, 04 Jan 2019 09:04:11 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/fashion3/?post_type=product&#038;p=324</guid>
@@ -8136,7 +8136,7 @@ Feel free to contact with us by using the form below
 							</item>
 					<item>
 		<title>Freddie Mercury T-Shirt</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/fashion3/product/freddie-mercury-t-shirt/</link>
+		<link>http://demo.woostify.com/fashion3/product/freddie-mercury-t-shirt/</link>
 		<pubDate>Fri, 04 Jan 2019 09:09:27 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/fashion3/?post_type=product&#038;p=325</guid>
@@ -8338,7 +8338,7 @@ Feel free to contact with us by using the form below
 							</item>
 					<item>
 		<title>Aviator Sunglasses</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/fashion3/product/aviator-sunglasses/</link>
+		<link>http://demo.woostify.com/fashion3/product/aviator-sunglasses/</link>
 		<pubDate>Fri, 04 Jan 2019 09:11:37 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/fashion3/?post_type=product&#038;p=326</guid>
@@ -8523,7 +8523,7 @@ Feel free to contact with us by using the form below
 							</item>
 					<item>
 		<title>Wishlist</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/fashion3/wishlist/</link>
+		<link>http://demo.woostify.com/fashion3/wishlist/</link>
 		<pubDate>Fri, 18 Jan 2019 03:40:52 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/fashion3/?page_id=375</guid>
@@ -8580,7 +8580,7 @@ Feel free to contact with us by using the form below
 							</item>
 					<item>
 		<title>Hello world!</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/fashion3/?p=669</link>
+		<link>http://demo.woostify.com/fashion3/?p=669</link>
 		<pubDate>Wed, 20 Nov 2019 07:46:18 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/pro/fashion3/?p=1</guid>
@@ -8627,7 +8627,7 @@ Commenter avatars come from <a href=\"https://gravatar.com\" rel=\"nofollow ugc\
 					</item>
 					<item>
 		<title>Hello world!</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/fashion3/?p=676</link>
+		<link>http://demo.woostify.com/fashion3/?p=676</link>
 		<pubDate>Tue, 19 May 2020 04:02:18 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://prodemo.woostify.com/fashion3/?p=1</guid>
@@ -8670,7 +8670,7 @@ Commenter avatars come from <a href=\"https://gravatar.com\" rel=\"nofollow ugc\
 					</item>
 					<item>
 		<title>Contact form 1</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/fashion3/?post_type=wpcf7_contact_form&#038;p=8</link>
+		<link>http://demo.woostify.com/fashion3/?post_type=wpcf7_contact_form&#038;p=8</link>
 		<pubDate>Thu, 22 Oct 2020 04:06:07 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/fashion3/?post_type=wpcf7_contact_form&#038;p=8</guid>
@@ -8787,7 +8787,7 @@ This e-mail was sent from a contact form on [_site_title] ([_site_url])";s:9:"re
 							</item>
 					<item>
 		<title>Contact Form</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/fashion3/?post_type=wpcf7_contact_form&#038;p=238</link>
+		<link>http://demo.woostify.com/fashion3/?post_type=wpcf7_contact_form&#038;p=238</link>
 		<pubDate>Thu, 03 Jan 2019 08:03:04 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/fashion3/?post_type=wpcf7_contact_form&#038;p=238</guid>
@@ -8938,7 +8938,7 @@ This e-mail was sent from a contact form on Woostify (https://woostify.com/demos
 							</item>
 					<item>
 		<title>Subsbrice Form</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/fashion3/?post_type=wpcf7_contact_form&#038;p=262</link>
+		<link>http://demo.woostify.com/fashion3/?post_type=wpcf7_contact_form&#038;p=262</link>
 		<pubDate>Fri, 04 Jan 2019 01:48:09 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/fashion3/?post_type=wpcf7_contact_form&#038;p=262</guid>
@@ -9071,7 +9071,7 @@ This e-mail was sent from a contact form on Woostify (https://woostify.com/demos
 							</item>
 					<item>
 		<title>T-Shirt With Colored Pocket</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/fashion3/product/t-shirt-with-colored-pocket/</link>
+		<link>http://demo.woostify.com/fashion3/product/t-shirt-with-colored-pocket/</link>
 		<pubDate>Fri, 04 Jan 2019 09:13:06 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/fashion3/?post_type=product&#038;p=327</guid>
@@ -9307,7 +9307,7 @@ This tank top is very cute and great to wear when you are working out! I ordered
 					</item>
 					<item>
 		<title>Trainers Multicolored Pieces</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/fashion3/product/trainers-multicolored-pieces/</link>
+		<link>http://demo.woostify.com/fashion3/product/trainers-multicolored-pieces/</link>
 		<pubDate>Fri, 04 Jan 2019 09:15:54 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/fashion3/?post_type=product&#038;p=328</guid>
@@ -9543,7 +9543,7 @@ This tank top is very cute and great to wear when you are working out! I ordered
 					</item>
 					<item>
 		<title>Jacket With Side Stripes</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/fashion3/product/jacket-with-side-stripes/</link>
+		<link>http://demo.woostify.com/fashion3/product/jacket-with-side-stripes/</link>
 		<pubDate>Fri, 04 Jan 2019 09:30:52 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/fashion3/?post_type=product&#038;p=329</guid>
@@ -9779,7 +9779,7 @@ I like this very much. I think its high enough in the front to offer some suppor
 					</item>
 					<item>
 		<title>Parka With Hood</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/fashion3/product/parka-with-hood/</link>
+		<link>http://demo.woostify.com/fashion3/product/parka-with-hood/</link>
 		<pubDate>Mon, 21 Jan 2019 07:50:48 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/fashion3/?post_type=product&#038;p=432</guid>
@@ -9965,7 +9965,7 @@ I like this very much. I think its high enough in the front to offer some suppor
 							</item>
 					<item>
 		<title>Freddie Mercury T-Shirt - Size S</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/fashion3/product/freddie-mercury-t-shirt/?attribute_pa_size=size-s</link>
+		<link>http://demo.woostify.com/fashion3/product/freddie-mercury-t-shirt/?attribute_pa_size=size-s</link>
 		<pubDate>Wed, 20 Mar 2019 03:37:36 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/fashion3/product/freddie-mercury-t-shirt/</guid>
@@ -10148,7 +10148,7 @@ I like this very much. I think its high enough in the front to offer some suppor
 							</item>
 					<item>
 		<title>Oversized Denim Jacket</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/fashion3/product/oversized-denim-jacket/</link>
+		<link>http://demo.woostify.com/fashion3/product/oversized-denim-jacket/</link>
 		<pubDate>Thu, 21 Mar 2019 09:22:13 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/fashion3/?post_type=product&#038;p=613</guid>
@@ -10334,7 +10334,7 @@ I like this very much. I think its high enough in the front to offer some suppor
 							</item>
 					<item>
 		<title>Color Block Fanny Pack</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/fashion3/product/color-block-fanny-pack/</link>
+		<link>http://demo.woostify.com/fashion3/product/color-block-fanny-pack/</link>
 		<pubDate>Thu, 21 Mar 2019 09:24:54 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/fashion3/?post_type=product&#038;p=614</guid>
@@ -10520,7 +10520,7 @@ I like this very much. I think its high enough in the front to offer some suppor
 							</item>
 					<item>
 		<title>Striped Neckerchief</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/fashion3/product/striped-neckerchief/</link>
+		<link>http://demo.woostify.com/fashion3/product/striped-neckerchief/</link>
 		<pubDate>Thu, 21 Mar 2019 09:26:00 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/fashion3/?post_type=product&#038;p=615</guid>
@@ -10706,7 +10706,7 @@ I like this very much. I think its high enough in the front to offer some suppor
 							</item>
 					<item>
 		<title>Off-Shoulder Striped Top</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/fashion3/product/off-shoulder-striped-top/</link>
+		<link>http://demo.woostify.com/fashion3/product/off-shoulder-striped-top/</link>
 		<pubDate>Thu, 21 Mar 2019 09:28:21 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/fashion3/?post_type=product&#038;p=616</guid>
@@ -10892,7 +10892,7 @@ I like this very much. I think its high enough in the front to offer some suppor
 							</item>
 					<item>
 		<title>Contact form 1</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/fashion3/?post_type=wpcf7_contact_form&#038;p=672</link>
+		<link>http://demo.woostify.com/fashion3/?post_type=wpcf7_contact_form&#038;p=672</link>
 		<pubDate>Wed, 20 Nov 2019 07:50:38 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/pro/fashion3/?post_type=wpcf7_contact_form&#038;p=5</guid>
@@ -11021,7 +11021,7 @@ This e-mail was sent from a contact form on Voge (https://woostify.com/demos/pro
 							</item>
 					<item>
 		<title>Contact form 1</title>
-		<link>http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/fashion3/?post_type=wpcf7_contact_form&#038;p=681</link>
+		<link>http://demo.woostify.com/fashion3/?post_type=wpcf7_contact_form&#038;p=681</link>
 		<pubDate>Tue, 19 May 2020 04:10:14 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://prodemo.woostify.com/fashion3/?post_type=wpcf7_contact_form&#038;p=5</guid>
