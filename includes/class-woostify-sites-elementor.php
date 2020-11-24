@@ -279,12 +279,6 @@ class Woostify_Sites_Elementor {
 
 		wp_send_json_success( $import_data ); //$import_data
 
-		// $array = array(
-		// 	'ID' => $post_id,
-		// 	'post_content' => $data['content']['rendered'],
-		// );
-		// wp_update_post( $array );
-		// wp_send_json_success( $data );
 		die();
 
 	}
