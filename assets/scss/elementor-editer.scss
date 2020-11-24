@@ -11,6 +11,14 @@
     -webkit-box-align: start;
     -ms-flex-align: start;
     align-items: flex-start;
+
+    img {
+        max-width: 100%;
+    }
+
+    .image-wrapper {
+        padding: 30px 50px;
+    }
 }
 
 .theme-name {
@@ -33,4 +41,22 @@
 
 .elementor-add-woostify-site-button {
     background-color: #333333;
+}
+
+#woostify-template-library-header-actions {
+    display: flex;
+    .elementor-templates-modal__header__item {
+        background: #0085ba;
+        border-color: #0073aa #006799 #006799;
+        box-shadow: 0 1px 0 #006799;
+        color: #fff;
+        text-decoration: none;
+        padding: 8px 15px;
+        border-radius: 3px;
+        cursor: pointer;
+
+        &:not(:last-child) {
+            margin-right: 15px;
+        }
+    } 
 }

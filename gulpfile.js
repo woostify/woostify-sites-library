@@ -26,10 +26,11 @@ var merlinCssFiles          = './assets/css/**/*.css'; // Path to main .scss fil
 var merlinStyleWatchFiles   = './assets/scss/**/*.scss'; // Path to all *.scss files inside css folder and inside them.
 
 // Scripts.
-var merlinScriptSRC         = ['./assets/js/woostify-sites.js', './assets/js/elementor-admin-page.js']; // Path to JS custom scripts folder.
+// var merlinScriptSRC         = ['./assets/js/woostify-sites.js', './assets/js/elementor-admin-page.js']; // Path to JS custom scripts folder.
 var merlinScriptDestination = './assets/js/'; // Path to place the compiled JS custom scripts file.
 var merlinScriptFile        = 'woostify-sites'; // Compiled JS file name.
 var merlinScriptWatchFiles  = './assets/js/*.js'; // Path to all *.scss files inside css folder and inside them.
+var merlinScriptSRC         = [];
 
 // Watch files.
 var projectPHPWatchFiles    = ['./**/*.php', '!_dist'];

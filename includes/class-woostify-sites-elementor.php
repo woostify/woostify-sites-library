@@ -81,6 +81,7 @@ class Woostify_Sites_Elementor {
 		$admin_vars = array(
 			'url'   => admin_url( 'admin-ajax.php' ),
 			'nonce' => wp_create_nonce( 'woostify_nonce_field' ),
+			'post_id' => get_the_ID(),
 		);
 
 		wp_localize_script(
@@ -186,12 +187,10 @@ class Woostify_Sites_Elementor {
 						<div id="woostify-template-library-header-tools">
 							<div id="woostify-template-library-header-actions">
 								<div id="woostify-template-library-header-import" class="elementor-templates-modal__header__item">
-									<i class="eicon-upload-circle-o" aria-hidden="true" title="Import Template"></i>
 									<span class="button-text"><?php echo esc_html__( 'Import Template', 'woostify-sites-library' ); ?></span>
 								</div>
 
 								<div id="woostify-template-library-header-save" class="elementor-templates-modal__header__item">
-									<i class="eicon-save-o" aria-hidden="true" title="Save"></i>
 									<span class="button-text"><?php echo esc_html__( 'Save', 'woostify-sites-library' ); ?></span>
 								</div>
 							</div>
@@ -233,8 +232,10 @@ class Woostify_Sites_Elementor {
 		$demo = $all_demo[$id];
 		?>
 		<div class="woostify-template-wrapper">
-			<img src="<?php echo esc_url( $demo['import_preview_image_url'] ); ?>" alt="Image Preview">
-			<input type="hidden" id="woostify-demo-data" value="<?php echo esc_attr( $demo['id'] ); ?>" name="demo-data">
+			<div class="image-wrapper">
+				<img src="<?php echo esc_url( $demo['import_preview_image_url'] ); ?>" alt="Image Preview">
+				<input type="hidden" id="woostify-demo-data" value="<?php echo esc_attr( $demo['id'] ); ?>" name="demo-data">
+			</div>
 		</div>
 		<?php
 		die();
@@ -250,11 +251,11 @@ class Woostify_Sites_Elementor {
 			wp_send_json_error( __( 'You are not allowed to perform this action', 'woostify-sites-library' ) );
 		}
 
-		if ( ! isset( $demo['preview_url'] ) ) {
-			wp_send_json_error( __( 'Invalid API URL', 'woostify-sites-library' ) );
-		}
+		// if ( ! isset( $demo['preview_url'] ) ) {
+		// 	wp_send_json_error( __( 'Invalid API URL', 'woostify-sites-library' ) );
+		// }
 
-		$response = wp_remote_get( $demo['preview_url'] );
+		$response = wp_remote_get( 'https://travelcation.boostifythemes.com/wp-json/wp/v2/pages/1995' );// $demo['preview_url']
 
 		if ( is_wp_error( $response ) ) {
 			wp_send_json_error( wp_remote_retrieve_body( $response ) );
@@ -262,26 +263,28 @@ class Woostify_Sites_Elementor {
 
 		$body = wp_remote_retrieve_body( $response );
 		$data = json_decode( $body, true );
-		// if ( ! isset( $data['post-meta']['_elementor_data'] ) ) {
-		// 	wp_send_json_error( __( 'Invalid Post Meta', 'astra-sites' ) );
-		// }
+		if ( ! isset( $data['post-meta']['_elementor_data'] ) ) {
+			wp_send_json_error( __( 'Invalid Post Meta', 'woostify-sites-library' ) );
+		}
 
-		// $meta    = json_decode( $data['post-meta']['_elementor_data'], true );
-		// $post_id = $_POST['id'];
+		$meta    = json_decode( $data['post-meta']['_elementor_data'][0], true );
+		$post_id = (int) $_POST['post_id'];
 
-		// if ( empty( $post_id ) || empty( $meta ) ) {
-		// 	wp_send_json_error( __( 'Invalid Post ID or Elementor Meta', 'astra-sites' ) );
-		// }
+		if ( empty( $post_id ) || empty( $meta ) ) {
+			wp_send_json_error( __( 'Invalid Post ID or Elementor Meta', 'woostify-sites-library' ) );
+		}
 
-		// if ( isset( $data['astra-page-options-data'] ) && isset( $data['astra-page-options-data']['elementor_load_fa4_shim'] ) ) {
-		// 	update_option( 'elementor_load_fa4_shim', $data['astra-page-options-data']['elementor_load_fa4_shim'] );
-		// }
+		$import      = new Woostify_Sites_Elementor_Pages();
+		$import_data = $import->import( $post_id, $meta );
 
-		// $import      = new Astra_Sites_Elementor_Pages();
-		// $import_data = $import->import( $post_id, $meta );
+		wp_send_json_success( $import_data ); //$import_data
 
-		// wp_send_json_success( $data ); //$import_data
-		wp_send_json_success( $demo );
+		// $array = array(
+		// 	'ID' => $post_id,
+		// 	'post_content' => $data['content']['rendered'],
+		// );
+		// wp_update_post( $array );
+		// wp_send_json_success( $data );
 		die();
 
 	}
