@@ -47,6 +47,8 @@ class Woostify_Sites_Elementor {
 		add_action( 'wp_ajax_nopriv_woostify_get_template', array( $this, 'get_template' ) );
 		add_action( 'wp_ajax_woostify_import_template', array( $this, 'import_template' ) );
 		add_action( 'wp_ajax_nopriv_woostify_import_template', array( $this, 'import_template' ) );
+		add_action( 'rest_api_init', array( $this, 'create_api_posts_meta_field' ) );
+		add_action( 'template_redirect',  array( $this, 'collect_post_id' ) );
 	}
 
 
@@ -140,15 +142,57 @@ class Woostify_Sites_Elementor {
 	}
 
 
+
+
+	public function create_api_posts_meta_field() {
+
+		// register_rest_field ( 'name-of-post-type', 'name-of-field-to-return', array-of-callbacks-and-schema() )
+		register_rest_field( 'page', 'post-meta', array(
+				'get_callback'    => array( $this, 'get_post_meta_for_api' ),
+				'schema'          => null,
+			)
+		);
+	}
+
+	public function get_post_meta_for_api( $object ) {
+		//get the id of the post object array
+		$post_id = $object['id'];
+		//return the post meta
+		return get_post_meta($post_id);
+	}
+
+
+
+	public function collect_post_id()
+	{
+		static $id = 0;
+
+		if ( 'template_redirect' === current_filter() && is_singular() )
+			$id = get_the_ID();
+
+		return $id;
+	}
+
+
+
 	public function modal_template() {
 		check_ajax_referer( 'woostify_nonce_field' );
 		$all_demo = woostify_sites_local_import_files();
+		if ( 'blocks' == $_GET['type'] ) {
+			$all_demo = woostify_sites_section();
+		}
 		$demos    = array();
 		foreach ($all_demo as $item) {
 			if ( 'elementor' == $item['page_builder'] ) {
 				$demos[] = $item;
 			}
 		}
+
+		$types = array(
+			'blocks' => __('Blocks', 'woostify-sites-library'),
+			'pages'  => __('Pages', 'woostify-sites-library'),
+		);
+
 		// echo "<pre>";
 		// var_dump( $demos );
 		// echo "</pre>";
@@ -169,10 +213,16 @@ class Woostify_Sites_Elementor {
 						</div>
 					</div>
 					<div class="elementor-templates-modal__header__menu-area">
-						<div id="elementor-template-library-header-menu">
-							<div class="elementor-component-tab elementor-template-library-menu-item" data-tab="templates/blocks"><?php echo esc_html__( 'Blocks', 'woostify-sites-library' ) ?></div>
-
-							<div class="elementor-component-tab elementor-template-library-menu-item elementor-active" data-tab="templates/pages"><?php echo esc_html__( 'Pages', 'woostify-sites-library' ) ?></div>
+						<div id="woostify-template-library-header-menu" class="woostify-template-library-header-menu">
+							<?php 
+								foreach ($types as $key => $value):
+									$active = '';
+									if ( $key == $_GET['type'] ):
+										$active = ' elementor-active';
+									endif;
+									?>
+								<div class="elementor-component-tab elementor-template-library-menu-item woostify-template-library-menu-item<?php echo esc_attr__( $active ); ?>" data-tab="<?php echo esc_attr( $key ) ?>"><?php echo esc_html($value) ?></div>
+							<?php endforeach ?>
 
 						</div>
 					</div>
@@ -203,7 +253,7 @@ class Woostify_Sites_Elementor {
 
 				<div class="woostify-template-wrapper">
 					<?php foreach ( $demos as $demo ) : ?>
-						<div class="woostify-tempalte-item template-builder-elementor elementor-template-library-template-page elementor-template-library-template-remote elementor-template-library-template-page" data-id="<?php echo esc_attr( $demo['id'] ); ?>">
+						<div class="woostify-tempalte-item template-builder-elementor elementor-template-library-template-page elementor-template-library-template-remote elementor-template-library-template-page" data-id="<?php echo esc_attr( $demo['id'] ); ?>" data-type="<?php echo esc_attr( $_GET['type'] ); ?>">
 							<div class="elementor-template-library-template-body">
 								<div class="template-screenshot elementor-template-library-template-screenshot" style="background-image: url(<?php echo esc_url( $demo['import_preview_image_url'] ); ?>);">
 									<div class="elementor-template-library-template-preview woostify-template-library-template-preview">
@@ -227,6 +277,7 @@ class Woostify_Sites_Elementor {
 	public function get_template() {
 		check_ajax_referer( 'woostify_nonce_field' );
 		$id = $_GET['id'];
+		$type = $_GET['type'];
 		$all_demo = woostify_sites_local_import_files();
 
 		$demo = $all_demo[$id];
@@ -235,6 +286,7 @@ class Woostify_Sites_Elementor {
 			<div class="image-wrapper">
 				<img src="<?php echo esc_url( $demo['import_preview_image_url'] ); ?>" alt="Image Preview">
 				<input type="hidden" id="woostify-demo-data" value="<?php echo esc_attr( $demo['id'] ); ?>" name="demo-data">
+				<input type="hidden" id="woostify-demo-type" value="<?php echo esc_attr( $type ); ?>">
 			</div>
 		</div>
 		<?php
@@ -244,18 +296,26 @@ class Woostify_Sites_Elementor {
 
 	public function import_template() {
 		check_ajax_referer( 'woostify_nonce_field' );
-		$id = $_POST['id'];
+		$id       = $_POST['id'];
+		$type     = $_POST['type'];
 		$all_demo = woostify_sites_local_import_files();
-		$demo = $all_demo[$id];
+		$rest_url = 'wp-json/wp/v2/pages/';
+		if ( 'blocks' == $type ) {
+			$all_demo = woostify_sites_section();
+			$rest_url = 'wp-json/wp/v2/btf_builder/';
+		}
+		
+		$demo     = $all_demo[$id];
 		if ( ! current_user_can( 'edit_posts' ) ) {
 			wp_send_json_error( __( 'You are not allowed to perform this action', 'woostify-sites-library' ) );
 		}
 
-		// if ( ! isset( $demo['preview_url'] ) ) {
-		// 	wp_send_json_error( __( 'Invalid API URL', 'woostify-sites-library' ) );
-		// }
+		if ( ! isset( $demo['preview_url'] ) ) {
+			wp_send_json_error( __( 'Invalid API URL', 'woostify-sites-library' ) );
+		}
+		$url = $demo['preview_url'] . $rest_url . $demo['font_page'];
 
-		$response = wp_remote_get( 'https://travelcation.boostifythemes.com/wp-json/wp/v2/pages/1995' );// $demo['preview_url']
+		$response = wp_remote_get( $url );// $demo['preview_url']
 
 		if ( is_wp_error( $response ) ) {
 			wp_send_json_error( wp_remote_retrieve_body( $response ) );

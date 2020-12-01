@@ -26,6 +26,7 @@ function woostify_sites_local_import_files() {
 			'footer_menu'                  => 'Footer',
 			'type'                         => 'free',
 			'page_builder'                 => 'elementor',
+			'font_page'                    => 13,
 		),
 		array(
 			'id'                           => 1,
@@ -42,6 +43,7 @@ function woostify_sites_local_import_files() {
 			'footer_menu'                  => 'Footer Menu',
 			'type'                         => 'pro',
 			'page_builder'                 => 'elementor',
+			'font_page'                    => 11,
 		),
 		array(
 			'id'                           => 2,
@@ -58,6 +60,7 @@ function woostify_sites_local_import_files() {
 			'footer_menu'                  => 'Footer Menu',
 			'type'                         => 'pro',
 			'page_builder'                 => 'elementor',
+			'font_page'                    => 11,
 		),
 		array(
 			'id'                           => 3,
@@ -74,6 +77,7 @@ function woostify_sites_local_import_files() {
 			'footer_menu'                  => 'Footer Menu',
 			'type'                         => 'pro',
 			'page_builder'                 => 'elementor',
+			'font_page'                    => 11,
 		),
 		array(
 			'id'                           => 4,
@@ -90,6 +94,7 @@ function woostify_sites_local_import_files() {
 			'footer_menu'                  => 'Footer Menu',
 			'type'                         => 'pro',
 			'page_builder'                 => 'elementor',
+			'font_page'                    => 886,
 		),
 		array(
 			'id'                           => 5,
@@ -106,6 +111,7 @@ function woostify_sites_local_import_files() {
 			'footer_menu'                  => 'Footer Menu',
 			'type'                         => 'pro',
 			'page_builder'                 => 'elementor',
+			'font_page'                    => 11,
 		),
 		array(
 			'id'                           => 6,
@@ -122,6 +128,7 @@ function woostify_sites_local_import_files() {
 			'footer_menu'                  => '',
 			'type'                         => 'pro',
 			'page_builder'                 => 'elementor',
+			'font_page'                    => 896,
 		),
 		array(
 			'id'                           => 7,
@@ -138,6 +145,7 @@ function woostify_sites_local_import_files() {
 			'footer_menu'                  => 'Footer Menu',
 			'type'                         => 'pro',
 			'page_builder'                 => 'elementor',
+			'font_page'                    => 11,
 		),
 		array(
 			'id'                           => 8,
@@ -154,6 +162,7 @@ function woostify_sites_local_import_files() {
 			'footer_menu'                  => '',
 			'type'                         => 'pro',
 			'page_builder'                 => 'elementor',
+			'font_page'                    => 1403,
 		),
 		array(
 			'id'                           => 9,
@@ -170,6 +179,7 @@ function woostify_sites_local_import_files() {
 			'footer_menu'                  => '',
 			'type'                         => 'pro',
 			'page_builder'                 => 'elementor',
+			'font_page'                    => 1600,
 		),
 		array(
 			'id'                           => 10,
@@ -186,6 +196,7 @@ function woostify_sites_local_import_files() {
 			'footer_menu'                  => 'Footer Menu',
 			'type'                         => 'pro',
 			'page_builder'                 => 'elementor',
+			'font_page'                    => 11,
 		),
 		array(
 			'id'                           => 11,
@@ -202,6 +213,7 @@ function woostify_sites_local_import_files() {
 			'footer_menu'                  => 'Footer Menu',
 			'type'                         => 'pro',
 			'page_builder'                 => 'elementor',
+			'font_page'                    => 11,
 		),
 		array(
 			'id'                           => 12,
@@ -218,6 +230,7 @@ function woostify_sites_local_import_files() {
 			'footer_menu'                  => 'Footer',
 			'type'                         => 'free',
 			'page_builder'                 => 'elementor',
+			'font_page'                    => 13,
 		),
 		array(
 			'id'                           => 13,
@@ -234,6 +247,7 @@ function woostify_sites_local_import_files() {
 			'footer_menu'                  => 'Footer Menu',
 			'type'                         => 'pro',
 			'page_builder'                 => 'elementor',
+			'font_page'                    => 11,
 		),
 		array(
 			'id'                           => 14,
@@ -251,6 +265,7 @@ function woostify_sites_local_import_files() {
 			'footer_menu'                  => 'Footer Menu',
 			'type'                         => 'pro',
 			'page_builder'                 => 'elementor',
+			'font_page'                    => 11,
 		),
 		array(
 			'id'                           => 15,
@@ -267,6 +282,7 @@ function woostify_sites_local_import_files() {
 			'vertical_menu'                => 'Menu Vertical',
 			'type'                         => 'pro',
 			'page_builder'                 => 'elementor',
+			'font_page'                    => 556,
 		),
 		array(
 			'id'                           => 16,
@@ -282,6 +298,7 @@ function woostify_sites_local_import_files() {
 			'primary_menu'                 => 'Primary Menu',
 			'type'                         => 'pro',
 			'page_builder'                 => 'elementor',
+			'font_page'                    => 182,
 		),
 
 	);
@@ -295,3 +312,58 @@ function woostify_register_query_vars( $vars ) {
 	return $vars;
 }
 add_filter( 'query_vars', 'woostify_register_query_vars' );
+
+
+function woostify_sites_section() {
+	return array(
+		array(
+			'id'                           => 0,
+			'import_file_name'             => 'Test Section',
+			'import_preview_image_url'     => WOOSTIFY_SITES_URI . 'demos/demo-1/demo-11.jpg',
+			'preview_url'                  => 'https://travelcation.boostifythemes.com/',
+			'homepage'                     => 'Fashion',
+			'type'                         => 'free',
+			'page_builder'                 => 'elementor',
+			'font_page'                    => 2000,
+		),
+	);
+}
+
+
+add_action( 'rest_api_init', 'woostify_create_api_posts_meta_field' );
+ 
+function woostify_create_api_posts_meta_field() {
+ 
+    // register_rest_field ( 'name-of-post-type', 'name-of-field-to-return', array-of-callbacks-and-schema() )
+    register_rest_field( 'page', 'post-meta', array(
+           'get_callback'    => 'woostify_get_post_meta_for_api',
+           'schema'          => null,
+        )
+    );
+
+    register_rest_field( 'btf_builder', 'post-meta', array(
+           'get_callback'    => 'woostify_get_post_meta_for_api',
+           'schema'          => null,
+        )
+    );
+}
+
+function woostify_get_post_meta_for_api( $object ) {
+    //get the id of the post object array
+    $post_id = $object['id'];
+ 
+    //return the post meta
+    return get_post_meta($post_id);
+}
+
+add_action( 'template_redirect', 'woostify_collect_post_id' );
+
+function woostify_collect_post_id()
+{
+    static $id = 0;
+
+    if ( 'template_redirect' === current_filter() && is_singular() )
+        $id = get_the_ID();
+
+    return $id;
+}
