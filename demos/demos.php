@@ -27,6 +27,19 @@ function woostify_sites_local_import_files() {
 			'type'                         => 'free',
 			'page_builder'                 => 'elementor',
 			'font_page'                    => 13,
+			'page'                         => [
+				'13' => [
+					'title' => 'Home',
+					'id' => 13,
+					'preview' => WOOSTIFY_SITES_URI . 'demos/demo-1/demo-11.jpg',
+
+				],
+				'14' => [
+					'title' => 'Contact',
+					'id' => 13,
+					'preview' => WOOSTIFY_SITES_URI . 'demos/demo-1/demo-11.jpg',
+				]
+			],
 		),
 		array(
 			'id'                           => 1,

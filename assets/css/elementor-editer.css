@@ -38,11 +38,6 @@
 	overflow-y: scroll;
 }
 
-#woostify-template-library-header-preview-back,
-#woostify-template-library-header-tools {
-	display: none;
-}
-
 .elementor-add-woostify-site-button {
 	background-color: #333;
 }
@@ -102,4 +97,22 @@
 		-webkit-transform: rotate(360deg);
 		transform: rotate(360deg);
 	}
+}
+
+#woostify-template-library-header-preview-back {
+	cursor: pointer;
+}
+
+#woostify-template-library-header-preview-back i {
+	margin-right: 5px;
+}
+
+.elementor-template-library-filter-toolbar {
+	margin: 20px;
+}
+
+.no-result {
+	padding: 50px 20px;
+	text-align: center;
+	width: 100%;
 }
