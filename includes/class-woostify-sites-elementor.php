@@ -292,6 +292,7 @@ class Woostify_Sites_Elementor {
 		if ( 'pages' == $type ) {
 			$image_preview = $demo['page'][$page_id]['preview'];
 		}
+		$check_pro = get_option( 'woostify_pro_license_key_status', 'invalid' );
 		?>
 			<div class="dialog-header dialog-lightbox-header">
 				<div class="elementor-templates-modal__header">
