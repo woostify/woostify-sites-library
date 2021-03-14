@@ -140,7 +140,7 @@
 			var id = theme.parents('.woostify-tempalte-item').attr('data-id');
 			var type = theme.parents('.woostify-tempalte-item').attr('data-type');
 			var page = theme.parents('.woostify-tempalte-item').data('page');
-			console.log(page );
+			console.log(type );
 			var data     = {
 				action: 'woostify_get_template',//woostify_modal_template
 				id: id,
@@ -235,14 +235,12 @@
 		}
 
 		function showListPage(id, type) {
-
 			var data     = {
 				action: 'woostify_list_child_page',//woostify_modal_template
 				id: id,
 				type: type,
 				_ajax_nonce: admin.nonce,
 			};
-
 			$.ajax(
 				{
 					type: 'POST',

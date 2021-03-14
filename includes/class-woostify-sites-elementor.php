@@ -180,9 +180,26 @@ class Woostify_Sites_Elementor {
 
 	public function modal_template() {
 		check_ajax_referer( 'woostify_nonce_field' );
-		$all_demo = woostify_sites_local_import_files();
-		if ( 'blocks' == $_GET['type'] ) {
-			$all_demo = woostify_sites_section();
+
+		switch ( $_GET['type'] ) {
+			case 'blocks':
+				$all_demo = woostify_sites_section();
+				break;
+			
+			case 'header':
+				$all_demo = woostify_sites_header();
+				break;
+
+			case 'footer':
+				$all_demo = woostify_sites_footer();
+				break;
+
+			case 'shop':
+				$all_demo = woostify_sites_shop();
+				break;
+			default:
+				$all_demo = woostify_sites_local_import_files();
+				break;
 		}
 		$demos    = array();
 		foreach ($all_demo as $item) {
@@ -191,10 +208,7 @@ class Woostify_Sites_Elementor {
 			}
 		}
 
-		$types = array(
-			'blocks' => __('Blocks', 'woostify-sites-library'),
-			'pages'  => __('Pages', 'woostify-sites-library'),
-		);
+		$types = $this->modal_header_tab();
 
 		$license_key = get_option( 'woostify_pro_license_key_status', 'invalid' );
 		?>
@@ -252,7 +266,7 @@ class Woostify_Sites_Elementor {
 					<?php foreach ( $demos as $demo ) : ?>
 						<?php
 							$is_pro = ($demo['type'] == 'pro') ? ' elementor-template-library-pro-template' : '';
-							$type = ( 'blocks' == $_GET['type'] ) ? ' woostify-template-library-template-preview elementor-type-blocks' : ' elementor-type-pages';
+							$type = ( 'pages' == $_GET['type'] ) ? ' elementor-type-pages' : ' woostify-template-library-template-preview elementor-type-blocks';
 						?>
 						<div class="woostify-tempalte-item template-builder-elementor elementor-template-library-template-page elementor-template-library-template-remote elementor-template-library-template-page <?php echo esc_attr( $is_pro ); ?>" data-id="<?php echo esc_attr( $demo['id'] ); ?>" data-type="<?php echo esc_attr( $_GET['type'] ); ?>">
 							<div class="elementor-template-library-template-body">
@@ -280,15 +294,37 @@ class Woostify_Sites_Elementor {
 		check_ajax_referer( 'woostify_nonce_field' );
 		$id = $_GET['id'];
 		$type = $_GET['type'];
-		$page_id = $_GET['page'];
+		$page_id = 0;
+		if ( array_key_exists('page', $_GET) ) {
+			$page_id = $_GET['page'];
+		}
+
 		$all_demo = woostify_sites_local_import_files();
-		if ( 'blocks' == $type ) {
-			$all_demo = woostify_sites_section();
+		switch ( $type ) {
+			case 'blocks':
+				$all_demo = woostify_sites_section();
+				break;
+			
+			case 'header':
+				$all_demo = woostify_sites_header();
+				break;
+
+			case 'footer':
+				$all_demo = woostify_sites_footer();
+				break;
+
+			case 'shop':
+				$all_demo = woostify_sites_shop();
+				break;
+			default:
+				$all_demo = woostify_sites_local_import_files();
+				break;
 		}
 
 		$demo = $all_demo[$id];
 		$demo_type = $demo['type'];
 		$image_preview = $demo['import_preview_image_url'];
+
 		if ( 'pages' == $type ) {
 			$image_preview = $demo['page'][$page_id]['preview'];
 		}
@@ -356,16 +392,54 @@ class Woostify_Sites_Elementor {
 		$type     = $_POST['type'];
 		$page     = $_POST['page'];
 
-		if ( 'blocks' == $type ) {
+		if ( 'pages' == $type ) {
+
+			$all_demo = woostify_sites_local_import_files();
+			$rest_url = 'wp-json/wp/v2/pages/';
+			$demo     = $all_demo[$id];
+		} else {
 			$all_demo = woostify_sites_section();
 			$rest_url = 'wp-json/wp/v2/btf_builder/';
 			$demo     = $all_demo[$id];
 			$page     = $demo['font_page'];
-		} else {
-			$all_demo = woostify_sites_local_import_files();
-			$rest_url = 'wp-json/wp/v2/pages/';
-			$demo     = $all_demo[$id];
 		}
+
+		switch ($type) {
+			case 'blocks':
+				$all_demo = woostify_sites_section();
+				$rest_url = 'wp-json/wp/v2/btf_builder/';
+				$demo     = $all_demo[$id];
+				$page     = $demo['font_page'];
+				break;
+
+			case 'header':
+				$all_demo = woostify_sites_header();
+				$rest_url = 'wp-json/wp/v2/btf_builder/';
+				$demo     = $all_demo[$id];
+				$page     = $demo['font_page'];
+				break;
+
+			case 'footer':
+				$all_demo = woostify_sites_footer();
+			$rest_url = 'wp-json/wp/v2/btf_builder/';
+			$demo     = $all_demo[$id];
+			$page     = $demo['font_page'];
+				break;
+
+			case 'shop':
+				$all_demo = woostify_sites_shop();
+				$rest_url = 'wp-json/wp/v2/pages/';
+				$demo     = $all_demo[$id];
+				$page     = $demo['font_page'];
+				break;
+
+			default:
+				$all_demo = woostify_sites_local_import_files();
+				$rest_url = 'wp-json/wp/v2/pages/';
+				$demo     = $all_demo[$id];
+				break;
+		}
+
 
 		if ( ! current_user_can( 'edit_posts' ) ) {
 			wp_send_json_error( __( 'You are not allowed to perform this action', 'woostify-sites-library' ) );
@@ -457,10 +531,7 @@ class Woostify_Sites_Elementor {
 			$all_demo = woostify_sites_section();
 		}
 		$demo = $all_demo[$id];
-		$types = array(
-			'blocks' => __('Blocks', 'woostify-sites-library'),
-			'pages'  => __('Pages', 'woostify-sites-library'),
-		);
+		$types = $this->modal_header_tab();
 		?>
 			<div class="dialog-header dialog-lightbox-header">
 				<div class="elementor-templates-modal__header">
@@ -518,6 +589,17 @@ class Woostify_Sites_Elementor {
 			<?php
 
 			die();
+	}
+
+	public function modal_header_tab()
+	{
+		return array(
+			'header' => __('Header', 'woostify-sites-library'),
+			'footer' => __('Footer', 'woostify-sites-library'),
+			'shop'   => __('Shop', 'woostify-sites-library'),
+			'blocks' => __('Blocks', 'woostify-sites-library'),
+			'pages'  => __('Pages', 'woostify-sites-library'),
+		);
 	}
 
 }
