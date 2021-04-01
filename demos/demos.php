@@ -434,7 +434,7 @@ function woostify_sites_local_import_files() {
 			'local_import_customizer_file' => WOOSTIFY_SITES_DIR . 'demos/demo-13/customizer.dat',
 			'import_preview_image_url'     => WOOSTIFY_SITES_URI . 'demos/demo-13/demo-13.png',
 			'import_notice'                => __( 'After you import this demo, you should update permalink.', 'woostify' ),
-			'preview_url'                  => 'https://demo.woostify.com/urbanstyle',
+			'preview_url'                  => 'https://demo.woostify.com/urbanstyle/',
 			'homepage'                     => 'Fashion',
 			'blog_page'                    => 'Blog',
 			'primary_menu'                 => 'Header Primary',
@@ -443,13 +443,13 @@ function woostify_sites_local_import_files() {
 			'page_builder'                 => 'elementor',
 			'font_page'                    => 13,
 			'page'                         => array(
-				'1' => array(
+				'13' => array(
 					'title'   => 'Home',
 					'id'      => 13,
 					'preview' => WOOSTIFY_SITES_URI . 'demos/demo-13/demo-13.png',
 
 				),
-				'2' => array(
+				'201' => array(
 					'title'   => 'Contact',
 					'id'      => 201,
 					'preview' => WOOSTIFY_SITES_URI . 'demos/demo-13/demo-13.png',
@@ -669,6 +669,7 @@ function woostify_sites_shop() {
 			'type'                         => 'free',
 			'page_builder'                 => 'elementor',
 			'font_page'                    => 149,
+			'contact_form'                 => WOOSTIFY_SITES_URI . 'demos/test/wpcf7.csv',
 		),
 	);
 }
@@ -678,36 +679,36 @@ add_action( 'rest_api_init', 'woostify_create_api_posts_meta_field' );
 
 function woostify_create_api_posts_meta_field() {
 
-    // register_rest_field ( 'name-of-post-type', 'name-of-field-to-return', array-of-callbacks-and-schema() )
-    register_rest_field( 'page', 'post-meta', array(
-           'get_callback'    => 'woostify_get_post_meta_for_api',
-           'schema'          => null,
-        )
-    );
+	// register_rest_field ( 'name-of-post-type', 'name-of-field-to-return', array-of-callbacks-and-schema() )
+	register_rest_field( 'page', 'post-meta', array(
+		   'get_callback'    => 'woostify_get_post_meta_for_api',
+		   'schema'          => null,
+		)
+	);
 
-    register_rest_field( 'btf_builder', 'post-meta', array(
-           'get_callback'    => 'woostify_get_post_meta_for_api',
-           'schema'          => null,
-        )
-    );
+	register_rest_field( 'btf_builder', 'post-meta', array(
+		   'get_callback'    => 'woostify_get_post_meta_for_api',
+		   'schema'          => null,
+		)
+	);
 }
 
 function woostify_get_post_meta_for_api( $object ) {
-    //get the id of the post object array
-    $post_id = $object['id'];
+	//get the id of the post object array
+	$post_id = $object['id'];
 
-    //return the post meta
-    return get_post_meta($post_id);
+	//return the post meta
+	return get_post_meta($post_id);
 }
 
 add_action( 'template_redirect', 'woostify_collect_post_id' );
 
 function woostify_collect_post_id()
 {
-    static $id = 0;
+	static $id = 0;
 
-    if ( 'template_redirect' === current_filter() && is_singular() )
-        $id = get_the_ID();
+	if ( 'template_redirect' === current_filter() && is_singular() )
+		$id = get_the_ID();
 
-    return $id;
+	return $id;
 }

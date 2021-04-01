@@ -85,8 +85,8 @@ class Woostify_Sites_Elementor {
 		);
 
 		$admin_vars = array(
-			'url'   => admin_url( 'admin-ajax.php' ),
-			'nonce' => wp_create_nonce( 'woostify_nonce_field' ),
+			'url'     => admin_url( 'admin-ajax.php' ),
+			'nonce'   => wp_create_nonce( 'woostify_nonce_field' ),
 			'post_id' => get_the_ID(),
 		);
 
@@ -185,7 +185,7 @@ class Woostify_Sites_Elementor {
 			case 'blocks':
 				$all_demo = woostify_sites_section();
 				break;
-			
+
 			case 'header':
 				$all_demo = woostify_sites_header();
 				break;
@@ -388,21 +388,10 @@ class Woostify_Sites_Elementor {
 
 	public function import_template() {
 		check_ajax_referer( 'woostify_nonce_field' );
-		$id       = $_POST['id'];
-		$type     = $_POST['type'];
-		$page     = $_POST['page'];
-
-		if ( 'pages' == $type ) {
-
-			$all_demo = woostify_sites_local_import_files();
-			$rest_url = 'wp-json/wp/v2/pages/';
-			$demo     = $all_demo[$id];
-		} else {
-			$all_demo = woostify_sites_section();
-			$rest_url = 'wp-json/wp/v2/btf_builder/';
-			$demo     = $all_demo[$id];
-			$page     = $demo['font_page'];
-		}
+		$id           = $_POST['id'];
+		$type         = $_POST['type'];
+		$page         = $_POST['page'];
+		$contact_form = '';
 
 		switch ($type) {
 			case 'blocks':
@@ -421,9 +410,9 @@ class Woostify_Sites_Elementor {
 
 			case 'footer':
 				$all_demo = woostify_sites_footer();
-			$rest_url = 'wp-json/wp/v2/btf_builder/';
-			$demo     = $all_demo[$id];
-			$page     = $demo['font_page'];
+				$rest_url = 'wp-json/wp/v2/btf_builder/';
+				$demo     = $all_demo[$id];
+				$page     = $demo['font_page'];
 				break;
 
 			case 'shop':
@@ -439,7 +428,6 @@ class Woostify_Sites_Elementor {
 				$demo     = $all_demo[$id];
 				break;
 		}
-
 
 		if ( ! current_user_can( 'edit_posts' ) ) {
 			wp_send_json_error( __( 'You are not allowed to perform this action', 'woostify-sites-library' ) );
@@ -468,11 +456,15 @@ class Woostify_Sites_Elementor {
 		if ( empty( $post_id ) || empty( $meta ) ) {
 			wp_send_json_error( __( 'Invalid Post ID or Elementor Meta', 'woostify-sites-library' ) );
 		}
+		if ( array_key_exists( 'contact_form', $demo ) ) {
+			$contact_form = $demo['contact_form'];
+		}
 
 		$import      = new Woostify_Sites_Elementor_Pages();
-		$import_data = $import->import( $post_id, $meta );
+		$import_data = $import->import( $post_id, $meta, $contact_form );
 
 		wp_send_json_success( $import_data );
+		// wp_send_json_success( $contact_form );
 
 		die();
 
