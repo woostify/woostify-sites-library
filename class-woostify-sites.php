@@ -375,6 +375,7 @@ class Woostify_Sites {
 		require_once WOOSTIFY_SITES_DIR . 'includes/class-woostify-sites-hooks.php';
 		require_once WOOSTIFY_SITES_DIR . 'includes/class-woostify-sites-elementor.php';
 		require_once WOOSTIFY_SITES_DIR . 'includes/elementor/class-woostify-sites-elementor-pages.php';
+		require_once WOOSTIFY_SITES_DIR . 'includes/ctf7/class-import-export.php';
 
 		$this->hooks = new Woostify_Sites_Hooks();
 
