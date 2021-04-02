@@ -37,7 +37,7 @@ function woostify_sites_local_import_files() {
 				'2' => array(
 					'title'   => 'Contact',
 					'id'      => 201,
-					'preview' => WOOSTIFY_SITES_URI . 'demos/demo-1/demo-11.jpg',
+					'preview' => WOOSTIFY_SITES_URI . 'demos/demo-1/contact.png',
 				),
 			),
 		),
@@ -61,18 +61,18 @@ function woostify_sites_local_import_files() {
 				'1' => array(
 					'title'   => 'Home',
 					'id'      => 11,
-					'preview' => WOOSTIFY_SITES_URI . 'demos/demo-1/demo-11.jpg',
+					'preview' => WOOSTIFY_SITES_URI . 'demos/demo-2/demo-2.jpg',
 
 				),
 				'2' => array(
 					'title'   => 'Contact',
 					'id'      => 201,
-					'preview' => WOOSTIFY_SITES_URI . 'demos/demo-1/demo-11.jpg',
+					'preview' => WOOSTIFY_SITES_URI . 'demos/demo-2/contact.jpg',
 				),
 				'3' => array(
 					'title'   => 'About Us',
 					'id'      => 199,
-					'preview' => WOOSTIFY_SITES_URI . 'demos/demo-1/demo-11.jpg',
+					'preview' => WOOSTIFY_SITES_URI . 'demos/demo-2/about.jpg',
 				),
 			),
 		),
@@ -96,18 +96,18 @@ function woostify_sites_local_import_files() {
 				'1' => array(
 					'title'   => 'Home',
 					'id'      => 11,
-					'preview' => WOOSTIFY_SITES_URI . 'demos/demo-1/demo-11.jpg',
+					'preview' => WOOSTIFY_SITES_URI . 'demos/demo-3/demo-3.jpg',
 
 				),
 				'2' => array(
 					'title'   => 'Contact',
 					'id'      => 201,
-					'preview' => WOOSTIFY_SITES_URI . 'demos/demo-1/demo-11.jpg',
+					'preview' => WOOSTIFY_SITES_URI . 'demos/demo-3/contact.jpg',
 				),
 				'3' => array(
 					'title'   => 'About Us',
 					'id'      => 199,
-					'preview' => WOOSTIFY_SITES_URI . 'demos/demo-1/demo-11.jpg',
+					'preview' => WOOSTIFY_SITES_URI . 'demos/demo-3/about.jpg',
 				),
 			),
 		),
@@ -131,18 +131,18 @@ function woostify_sites_local_import_files() {
 				'1' => array(
 					'title'   => 'Home',
 					'id'      => 11,
-					'preview' => WOOSTIFY_SITES_URI . 'demos/demo-1/demo-11.jpg',
+					'preview' => WOOSTIFY_SITES_URI . 'demos/demo-4/demo4.png',
 
 				),
 				'2' => array(
 					'title'   => 'Contact',
 					'id'      => 201,
-					'preview' => WOOSTIFY_SITES_URI . 'demos/demo-1/demo-11.jpg',
+					'preview' => WOOSTIFY_SITES_URI . 'demos/demo-4/contact.jpg',
 				),
 				'3' => array(
 					'title'   => 'About Us',
 					'id'      => 199,
-					'preview' => WOOSTIFY_SITES_URI . 'demos/demo-1/demo-11.jpg',
+					'preview' => WOOSTIFY_SITES_URI . 'demos/demo-4/about.jpg',
 				),
 			),
 		),
@@ -166,18 +166,18 @@ function woostify_sites_local_import_files() {
 				'1' => array(
 					'title'   => 'Home',
 					'id'      => 886,
-					'preview' => WOOSTIFY_SITES_URI . 'demos/demo-1/demo-11.jpg',
+					'preview' => WOOSTIFY_SITES_URI . 'demos/demo-5/demo-5.jpg',
 
 				),
 				'2' => array(
 					'title'   => 'Contact',
 					'id'      => 201,
-					'preview' => WOOSTIFY_SITES_URI . 'demos/demo-1/demo-11.jpg',
+					'preview' => WOOSTIFY_SITES_URI . 'demos/demo-5/contact.jpg',
 				),
 				'3' => array(
 					'title'   => 'About Us',
 					'id'      => 199,
-					'preview' => WOOSTIFY_SITES_URI . 'demos/demo-1/demo-11.jpg',
+					'preview' => WOOSTIFY_SITES_URI . 'demos/demo-5/about.jpg',
 				),
 			),
 		),
@@ -201,18 +201,18 @@ function woostify_sites_local_import_files() {
 				'1' => array(
 					'title'   => 'Home',
 					'id'      => 11,
-					'preview' => WOOSTIFY_SITES_URI . 'demos/demo-1/demo-11.jpg',
+					'preview' => WOOSTIFY_SITES_URI . 'demos/demo-6/demo-6.png',
 
 				),
 				'2' => array(
 					'title'   => 'Contact',
 					'id'      => 201,
-					'preview' => WOOSTIFY_SITES_URI . 'demos/demo-1/demo-11.jpg',
+					'preview' => WOOSTIFY_SITES_URI . 'demos/demo-6/contact.jpg',
 				),
 				'3' => array(
 					'title'   => 'About Us',
 					'id'      => 199,
-					'preview' => WOOSTIFY_SITES_URI . 'demos/demo-1/demo-11.jpg',
+					'preview' => WOOSTIFY_SITES_URI . 'demos/demo-6/about.jpg',
 				),
 			),
 		),
@@ -236,18 +236,18 @@ function woostify_sites_local_import_files() {
 				'1' => array(
 					'title'   => 'Home',
 					'id'      => 896,
-					'preview' => WOOSTIFY_SITES_URI . 'demos/demo-1/demo-11.jpg',
+					'preview' => WOOSTIFY_SITES_URI . 'demos/demo-7/demo-7.png',
 
 				),
 				'2' => array(
 					'title'   => 'Contact',
 					'id'      => 790,
-					'preview' => WOOSTIFY_SITES_URI . 'demos/demo-1/demo-11.jpg',
+					'preview' => WOOSTIFY_SITES_URI . 'demos/demo-7/contact.jpg',
 				),
 				'3' => array(
 					'title'   => 'About Us',
 					'id'      => 740,
-					'preview' => WOOSTIFY_SITES_URI . 'demos/demo-1/demo-11.jpg',
+					'preview' => WOOSTIFY_SITES_URI . 'demos/demo-7/about.jpg',
 				),
 			),
 		),
@@ -271,18 +271,18 @@ function woostify_sites_local_import_files() {
 				'1' => array(
 					'title'   => 'Home',
 					'id'      => 11,
-					'preview' => WOOSTIFY_SITES_URI . 'demos/demo-1/demo-11.jpg',
+					'preview' => WOOSTIFY_SITES_URI . 'demos/demo-8/demo-7.png',
 
 				),
 				'2' => array(
 					'title'   => 'Contact',
 					'id'      => 201,
-					'preview' => WOOSTIFY_SITES_URI . 'demos/demo-1/demo-11.jpg',
+					'preview' => WOOSTIFY_SITES_URI . 'demos/demo-8/contact.jpg',
 				),
 				'3' => array(
 					'title'   => 'About Us',
 					'id'      => 199,
-					'preview' => WOOSTIFY_SITES_URI . 'demos/demo-1/demo-11.jpg',
+					'preview' => WOOSTIFY_SITES_URI . 'demos/demo-8/about.jpg',
 				),
 			),
 		),
@@ -306,18 +306,18 @@ function woostify_sites_local_import_files() {
 				'1' => array(
 					'title'   => 'Home',
 					'id'      => 1403,
-					'preview' => WOOSTIFY_SITES_URI . 'demos/demo-1/demo-11.jpg',
+					'preview' => WOOSTIFY_SITES_URI . 'demos/demo-9/demo-9.png',
 
 				),
 				'2' => array(
 					'title'   => 'Contact',
 					'id'      => 790,
-					'preview' => WOOSTIFY_SITES_URI . 'demos/demo-1/demo-11.jpg',
+					'preview' => WOOSTIFY_SITES_URI . 'demos/demo-9/contact.jpg',
 				),
 				'3' => array(
 					'title'   => 'About Us',
 					'id'      => 740,
-					'preview' => WOOSTIFY_SITES_URI . 'demos/demo-1/demo-11.jpg',
+					'preview' => WOOSTIFY_SITES_URI . 'demos/demo-9/about.jpg',
 				),
 			),
 		),
@@ -341,18 +341,18 @@ function woostify_sites_local_import_files() {
 				'1' => array(
 					'title'   => 'Home',
 					'id'      => 1600,
-					'preview' => WOOSTIFY_SITES_URI . 'demos/demo-1/demo-11.jpg',
+					'preview' => WOOSTIFY_SITES_URI . 'demos/demo-10/demo-10.png',
 
 				),
 				'2' => array(
 					'title'   => 'Contact',
 					'id'      => 790,
-					'preview' => WOOSTIFY_SITES_URI . 'demos/demo-1/demo-11.jpg',
+					'preview' => WOOSTIFY_SITES_URI . 'demos/demo-10/contact.jpg',
 				),
 				'3' => array(
 					'title'   => 'About Us',
 					'id'      => 740,
-					'preview' => WOOSTIFY_SITES_URI . 'demos/demo-1/demo-11.jpg',
+					'preview' => WOOSTIFY_SITES_URI . 'demos/demo-10/about.jpg',
 				),
 			),
 		),
@@ -376,18 +376,18 @@ function woostify_sites_local_import_files() {
 				'1' => array(
 					'title'   => 'Home',
 					'id'      => 11,
-					'preview' => WOOSTIFY_SITES_URI . 'demos/demo-1/demo-11.jpg',
+					'preview' => WOOSTIFY_SITES_URI . 'demos/demo-11/demo-11.png',
 
 				),
 				'2' => array(
 					'title'   => 'Contact',
 					'id'      => 201,
-					'preview' => WOOSTIFY_SITES_URI . 'demos/demo-1/demo-11.jpg',
+					'preview' => WOOSTIFY_SITES_URI . 'demos/demo-11/contact.jpg',
 				),
 				'3' => array(
 					'title'   => 'About Us',
 					'id'      => 199,
-					'preview' => WOOSTIFY_SITES_URI . 'demos/demo-1/demo-11.jpg',
+					'preview' => WOOSTIFY_SITES_URI . 'demos/demo-11/about.jpg',
 				),
 			),
 		),
@@ -411,18 +411,18 @@ function woostify_sites_local_import_files() {
 				'1' => array(
 					'title'   => 'Home',
 					'id'      => 11,
-					'preview' => WOOSTIFY_SITES_URI . 'demos/demo-1/demo-11.jpg',
+					'preview' => WOOSTIFY_SITES_URI . 'demos/demo-12/demo-12.png',
 
 				),
 				'2' => array(
 					'title'   => 'Contact',
 					'id'      => 201,
-					'preview' => WOOSTIFY_SITES_URI . 'demos/demo-1/demo-11.jpg',
+					'preview' => WOOSTIFY_SITES_URI . 'demos/demo-12/contact.jpg',
 				),
 				'3' => array(
 					'title'   => 'About Us',
 					'id'      => 199,
-					'preview' => WOOSTIFY_SITES_URI . 'demos/demo-1/demo-11.jpg',
+					'preview' => WOOSTIFY_SITES_URI . 'demos/demo-12/about.jpg',
 				),
 			),
 		),
@@ -452,7 +452,7 @@ function woostify_sites_local_import_files() {
 				'2' => array(
 					'title'   => 'Contact',
 					'id'      => 201,
-					'preview' => WOOSTIFY_SITES_URI . 'demos/demo-13/demo-13.png',
+					'preview' => WOOSTIFY_SITES_URI . 'demos/demo-13/contact.jpg',
 				),
 			),
 		),
@@ -476,18 +476,18 @@ function woostify_sites_local_import_files() {
 				'1' => array(
 					'title'   => 'Home',
 					'id'      => 11,
-					'preview' => WOOSTIFY_SITES_URI . 'demos/demo-1/demo-11.jpg',
+					'preview' => WOOSTIFY_SITES_URI . 'demos/demo-14/demo-14.png',
 
 				),
 				'2' => array(
 					'title'   => 'Contact',
 					'id'      => 201,
-					'preview' => WOOSTIFY_SITES_URI . 'demos/demo-1/demo-11.jpg',
+					'preview' => WOOSTIFY_SITES_URI . 'demos/demo-14/contact.jpg',
 				),
 				'3' => array(
 					'title'   => 'About Us',
 					'id'      => 1347,
-					'preview' => WOOSTIFY_SITES_URI . 'demos/demo-1/demo-11.jpg',
+					'preview' => WOOSTIFY_SITES_URI . 'demos/demo-14/about.jpg',
 				),
 			),
 
@@ -513,18 +513,18 @@ function woostify_sites_local_import_files() {
 				'1' => array(
 					'title'   => 'Home',
 					'id'      => 11,
-					'preview' => WOOSTIFY_SITES_URI . 'demos/demo-1/demo-11.jpg',
+					'preview' => WOOSTIFY_SITES_URI . 'demos/demo-15/demo-15.png',
 
 				),
 				'2' => array(
 					'title'   => 'Contact',
 					'id'      => 201,
-					'preview' => WOOSTIFY_SITES_URI . 'demos/demo-1/demo-11.jpg',
+					'preview' => WOOSTIFY_SITES_URI . 'demos/demo-15/contact.jpg',
 				),
 				'3' => array(
 					'title'   => 'About Us',
 					'id'      => 1347,
-					'preview' => WOOSTIFY_SITES_URI . 'demos/demo-1/demo-11.jpg',
+					'preview' => WOOSTIFY_SITES_URI . 'demos/demo-15/about.jpg',
 				),
 			),
 		),
@@ -548,18 +548,18 @@ function woostify_sites_local_import_files() {
 				'1' => array(
 					'title'   => 'Home',
 					'id'      => 556,
-					'preview' => WOOSTIFY_SITES_URI . 'demos/demo-1/demo-11.jpg',
+					'preview' => WOOSTIFY_SITES_URI . 'demos/demo-16/demo-16.png',
 
 				),
 				'2' => array(
 					'title'   => 'Contact',
 					'id'      => 473,
-					'preview' => WOOSTIFY_SITES_URI . 'demos/demo-1/demo-11.jpg',
+					'preview' => WOOSTIFY_SITES_URI . 'demos/demo-16/contact.jpg',
 				),
 				'3' => array(
 					'title'   => 'About Us',
 					'id'      => 398,
-					'preview' => WOOSTIFY_SITES_URI . 'demos/demo-1/demo-11.jpg',
+					'preview' => WOOSTIFY_SITES_URI . 'demos/demo-16/about.jpg',
 				),
 			),
 		),
@@ -582,18 +582,18 @@ function woostify_sites_local_import_files() {
 				'1' => array(
 					'title'   => 'Home',
 					'id'      => 182,
-					'preview' => WOOSTIFY_SITES_URI . 'demos/demo-1/demo-11.jpg',
+					'preview' => WOOSTIFY_SITES_URI . 'demos/demo-17/demo-17.png',
 
 				),
 				'2' => array(
 					'title'   => 'Contact',
 					'id'      => 305,
-					'preview' => WOOSTIFY_SITES_URI . 'demos/demo-1/demo-11.jpg',
+					'preview' => WOOSTIFY_SITES_URI . 'demos/demo-17/contact.jpg',
 				),
 				'3' => array(
 					'title'   => 'About Us',
 					'id'      => 232,
-					'preview' => WOOSTIFY_SITES_URI . 'demos/demo-1/demo-11.jpg',
+					'preview' => WOOSTIFY_SITES_URI . 'demos/demo-17/about.jpg',
 				),
 			),
 		),
