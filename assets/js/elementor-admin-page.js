@@ -118,9 +118,7 @@
 					beforeSend: function (response) {
 					},
 					success: function (response) {
-
 						console.log( response );
-
 						$('body').find('.woostify-template-wrapper').html( response );
 					},
 				}
@@ -183,7 +181,6 @@
 			var btn = $(this);
 			var step = btn.attr('step');
 			var type;
-			console.log(type);
 			if ( step == 2 ) {
 				type = btn.parents('.elementor-templates-modal__header').find('.elementor-active').data('tab');
 				showTemplate(type);
@@ -199,13 +196,61 @@
 			}
 		} );
 
-
-
 		// Close modal template
 		$('body').on( 'click', '.woostify-close-button', function (e) {
 			$( '#woostify-sites-modal' ).css('display', 'none');
 		} );
 
+		$( 'body' ).on( 'change', '.woostify-favorite-template-input', function (e) {
+			console.log( $(this) );
+			var btn = $(this);
+			var value = $(this).val();
+			var data     = {
+				action: 'woostify_wishlist_template',//woostify_wishlist_template
+				value: value,
+				_ajax_nonce: admin.nonce,
+			};
+
+			$.ajax(
+				{
+					type: 'GET',
+					url: admin.url,
+					data: data,
+					success: function (response) {
+						if ( response.success == true ) {
+							var icon = btn.siblings('.favorite-label').find('span');
+							if ( icon.hasClass('eicon-heart') ) {
+								icon.removeClass('eicon-heart');
+								icon.addClass('eicon-heart-o');
+							} else {
+								icon.removeClass('eicon-heart-o');
+								icon.addClass('eicon-heart');
+							}
+						}
+					},
+				}
+			);
+		} );
+
+		$( 'body' ).on( 'click', '.woostify-link-favorite', function (e) {
+			e.preventDefault();
+			var data     = {
+				action: 'woostify_list_favorite',//woostify_favotite
+				_ajax_nonce: admin.nonce,
+			};
+
+			$.ajax(
+				{
+					type: 'GET',
+					url: admin.url,
+					data: data,
+					success: function (response) {
+						console.log(response);
+						$( '#woostify-sites-modal' ).html( response );
+					},
+				}
+			);
+		});
 
 		function showTemplate(type, tab = null) {
 			var data     = {
@@ -225,14 +270,13 @@
 						$( '#woostify-sites-modal' ).css('display', 'block');
 						$( '#woostify-sites-modal' ).html( response );
 						if ( tab ) {
-							console.log(tab.parent().find('.elementor-active'));
 							tab.parent().find('.elementor-active').removeClass('active');
 							tab.addClass('active');
 						}
 					},
 				}
 			);
-		}
+		};
 
 		function showListPage(id, type) {
 			var data     = {

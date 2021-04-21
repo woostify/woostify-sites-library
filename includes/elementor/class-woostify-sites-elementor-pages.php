@@ -48,15 +48,11 @@ class Woostify_Sites_Elementor_Pages extends Source_Local {
 		if ( ! empty( $post_id ) && ! empty( $data ) ) {
 
 			$data = wp_json_encode( $data, true );
-			if ( $contact_form ) {
+			if ( ! empty( $contact_form ) ) {
 
 				$handle   = fopen( $contact_form, 'r' );
 				$row      = fgetcsv( $handle );
 				$args     = array();
-				// echo $data;
-				// var_dump( $data );
-				// die();
-				// if ( $row ) {
 				while ( $row = fgetcsv( $handle )) {
 
 					$id = $row[1];

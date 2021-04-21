@@ -614,14 +614,14 @@ add_filter( 'query_vars', 'woostify_register_query_vars' );
 function woostify_sites_section() {
 	return array(
 		array(
-			'id'                           => 0,
-			'import_file_name'             => 'Test Section',
-			'import_preview_image_url'     => WOOSTIFY_SITES_URI . 'demos/demo-1/demo-11.jpg',
-			'preview_url'                  => 'https://travelcation.boostifythemes.com/',
-			'homepage'                     => 'Fashion',
-			'type'                         => 'free',
-			'page_builder'                 => 'elementor',
-			'font_page'                    => 2000,
+			'id'                       => 0,
+			'import_file_name'         => 'Test Section',
+			'import_preview_image_url' => WOOSTIFY_SITES_URI . 'demos/demo-1/demo-11.jpg',
+			'preview_url'              => 'https://travelcation.boostifythemes.com/',
+			'homepage'                 => 'Fashion',
+			'type'                     => 'free',
+			'page_builder'             => 'elementor',
+			'font_page'                => 2000,
 		),
 	);
 }
@@ -629,14 +629,14 @@ function woostify_sites_section() {
 function woostify_sites_footer() {
 	return array(
 		array(
-			'id'                           => 0,
-			'import_file_name'             => 'Test footer',
-			'import_preview_image_url'     => WOOSTIFY_SITES_URI . 'demos/demo-1/demo-11.jpg',
-			'preview_url'                  => 'https://travelcation.boostifythemes.com/',
-			'homepage'                     => 'Fashion',
-			'type'                         => 'free',
-			'page_builder'                 => 'elementor',
-			'font_page'                    => 2000,
+			'id'                       => 0,
+			'import_file_name'         => 'Test footer',
+			'import_preview_image_url' => WOOSTIFY_SITES_URI . 'demos/demo-1/demo-11.jpg',
+			'preview_url'              => 'https://travelcation.boostifythemes.com/',
+			'homepage'                 => 'Fashion',
+			'type'                     => 'free',
+			'page_builder'             => 'elementor',
+			'font_page'                => 2000,
 		),
 	);
 }
@@ -646,14 +646,14 @@ function woostify_sites_footer() {
 function woostify_sites_header() {
 	return array(
 		array(
-			'id'                           => 0,
-			'import_file_name'             => 'Test Header',
-			'import_preview_image_url'     => WOOSTIFY_SITES_URI . 'demos/demo-1/demo-11.jpg',
-			'preview_url'                  => 'https://travelcation.boostifythemes.com/',
-			'homepage'                     => 'Fashion',
-			'type'                         => 'free',
-			'page_builder'                 => 'elementor',
-			'font_page'                    => 86,
+			'id'                       => 0,
+			'import_file_name'         => 'Test Header',
+			'import_preview_image_url' => WOOSTIFY_SITES_URI . 'demos/demo-1/demo-11.jpg',
+			'preview_url'              => 'https://travelcation.boostifythemes.com/',
+			'homepage'                 => 'Fashion',
+			'type'                     => 'free',
+			'page_builder'             => 'elementor',
+			'font_page'                => 2000,
 		),
 	);
 }
@@ -661,15 +661,15 @@ function woostify_sites_header() {
 function woostify_sites_shop() {
 	return array(
 		array(
-			'id'                           => 0,
-			'import_file_name'             => 'Test shop',
-			'import_preview_image_url'     => WOOSTIFY_SITES_URI . 'demos/demo-1/demo-11.jpg',
-			'preview_url'                  => 'https://travelcation.boostifythemes.com/',
-			'homepage'                     => 'Fashion',
-			'type'                         => 'free',
-			'page_builder'                 => 'elementor',
-			'font_page'                    => 149,
-			'contact_form'                 => WOOSTIFY_SITES_URI . 'demos/test/wpcf7.csv',
+			'id'                       => 0,
+			'import_file_name'         => 'Test shop',
+			'import_preview_image_url' => WOOSTIFY_SITES_URI . 'demos/demo-1/demo-11.jpg',
+			'preview_url'              => 'https://travelcation.boostifythemes.com/',
+			'homepage'                 => 'Fashion',
+			'type'                     => 'free',
+			'page_builder'             => 'elementor',
+			'font_page'                => 149,
+			'contact_form'             => WOOSTIFY_SITES_URI . 'demos/test/wpcf7.csv',
 		),
 	);
 }
@@ -681,14 +681,14 @@ function woostify_create_api_posts_meta_field() {
 
 	// register_rest_field ( 'name-of-post-type', 'name-of-field-to-return', array-of-callbacks-and-schema() )
 	register_rest_field( 'page', 'post-meta', array(
-		   'get_callback'    => 'woostify_get_post_meta_for_api',
-		   'schema'          => null,
+		'get_callback' => 'woostify_get_post_meta_for_api',
+		'schema'       => null,
 		)
 	);
 
 	register_rest_field( 'btf_builder', 'post-meta', array(
-		   'get_callback'    => 'woostify_get_post_meta_for_api',
-		   'schema'          => null,
+	   'get_callback'    => 'woostify_get_post_meta_for_api',
+	   'schema'          => null,
 		)
 	);
 }
@@ -711,4 +711,9 @@ function woostify_collect_post_id()
 		$id = get_the_ID();
 
 	return $id;
+}
+
+
+function woostify_demo_template() {
+	# code...
 }
