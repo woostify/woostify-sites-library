@@ -630,13 +630,13 @@ function woostify_sites_footer() {
 	return array(
 		array(
 			'id'                       => 0,
-			'import_file_name'         => 'Test footer',
+			'import_file_name'         => 'Footer v1',
 			'import_preview_image_url' => WOOSTIFY_SITES_URI . 'demos/demo-1/demo-11.jpg',
-			'preview_url'              => 'https://travelcation.boostifythemes.com/',
+			'preview_url'              => 'https://demo.woostify.com/section-demo/',
 			'homepage'                 => 'Fashion',
 			'type'                     => 'free',
 			'page_builder'             => 'elementor',
-			'font_page'                => 2000,
+			'font_page'                => 596,
 		),
 	);
 }

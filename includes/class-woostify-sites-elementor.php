@@ -426,21 +426,21 @@ class Woostify_Sites_Elementor {
 		switch ($type) {
 			case 'blocks':
 				$all_demo = woostify_sites_section();
-				$rest_url = 'wp-json/wp/v2/btf_builder/';
+				$rest_url = 'wp-json/wp/v2/pages/';
 				$demo     = $all_demo[$id];
 				$page     = $demo['font_page'];
 				break;
 
 			case 'header':
 				$all_demo = woostify_sites_header();
-				$rest_url = 'wp-json/wp/v2/btf_builder/';
+				$rest_url = 'wp-json/wp/v2/pages/';
 				$demo     = $all_demo[$id];
 				$page     = $demo['font_page'];
 				break;
 
 			case 'footer':
 				$all_demo = woostify_sites_footer();
-				$rest_url = 'wp-json/wp/v2/btf_builder/';
+				$rest_url = 'wp-json/wp/v2/pages/';
 				$demo     = $all_demo[$id];
 				$page     = $demo['font_page'];
 				break;
