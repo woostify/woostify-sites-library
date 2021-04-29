@@ -7,7 +7,7 @@ var pkg                     = require('./package.json');
 var project                 = pkg.name;
 var slug                    = pkg.slug;
 var version                 = pkg.version;
-var projectURL              = 'http://demo.merlinwp.dev/wp-admin/themes.php?page=merlin';
+var projectURL              = 'http://localhost/woostify/';
 
 // Translations.
 var text_domain             = 'woostify-sites-library';
@@ -20,16 +20,17 @@ var translatePath           = './languages/' + destFile;
 var translatableFiles       = ['./**/*.php', '!merlin-config-sample.php', '!merlin-filters-sample.php' ];
 
 // Styles.
-var merlinStyleSRC          = './assets/scss/woostify-sites.scss'; // Path to main .scss file.
+var merlinStyleSRC          = ['./assets/scss/woostify-sites.scss', './assets/scss/elementor-editer.scss']; // Path to main .scss file.
 var merlinStyleDestination  = './assets/css/'; // Path to place the compiled CSS file.
 var merlinCssFiles          = './assets/css/**/*.css'; // Path to main .scss file.
 var merlinStyleWatchFiles   = './assets/scss/**/*.scss'; // Path to all *.scss files inside css folder and inside them.
 
 // Scripts.
-var merlinScriptSRC         = './assets/js/woostify-sites.js'; // Path to JS custom scripts folder.
+// var merlinScriptSRC         = ['./assets/js/woostify-sites.js', './assets/js/elementor-admin-page.js']; // Path to JS custom scripts folder.
 var merlinScriptDestination = './assets/js/'; // Path to place the compiled JS custom scripts file.
 var merlinScriptFile        = 'woostify-sites'; // Compiled JS file name.
 var merlinScriptWatchFiles  = './assets/js/*.js'; // Path to all *.scss files inside css folder and inside them.
+var merlinScriptSRC         = [];
 
 // Watch files.
 var projectPHPWatchFiles    = ['./**/*.php', '!_dist'];

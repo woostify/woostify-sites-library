@@ -26,6 +26,20 @@ function woostify_sites_local_import_files() {
 			'footer_menu'                  => 'Footer',
 			'type'                         => 'free',
 			'page_builder'                 => 'elementor',
+			'font_page'                    => 13,
+			'page'                         => array(
+				'13' => array(
+					'title'   => 'Home',
+					'id'      => 13,
+					'preview' => WOOSTIFY_SITES_URI . 'demos/demo-1/demo-11.jpg',
+
+				),
+				'201' => array(
+					'title'   => 'Contact',
+					'id'      => 201,
+					'preview' => WOOSTIFY_SITES_URI . 'demos/demo-1/contact.png',
+				),
+			),
 		),
 		array(
 			'id'                           => 1,
@@ -42,6 +56,25 @@ function woostify_sites_local_import_files() {
 			'footer_menu'                  => 'Footer Menu',
 			'type'                         => 'pro',
 			'page_builder'                 => 'elementor',
+			'font_page'                    => 11,
+			'page'                         => array(
+				'11' => array(
+					'title'   => 'Home',
+					'id'      => 11,
+					'preview' => WOOSTIFY_SITES_URI . 'demos/demo-2/demo-2.jpg',
+
+				),
+				'201' => array(
+					'title'   => 'Contact',
+					'id'      => 201,
+					'preview' => WOOSTIFY_SITES_URI . 'demos/demo-2/contact.jpg',
+				),
+				'199' => array(
+					'title'   => 'About Us',
+					'id'      => 199,
+					'preview' => WOOSTIFY_SITES_URI . 'demos/demo-2/about.jpg',
+				),
+			),
 		),
 		array(
 			'id'                           => 2,
@@ -58,6 +91,25 @@ function woostify_sites_local_import_files() {
 			'footer_menu'                  => 'Footer Menu',
 			'type'                         => 'pro',
 			'page_builder'                 => 'elementor',
+			'font_page'                    => 11,
+			'page'                         => array(
+				'11' => array(
+					'title'   => 'Home',
+					'id'      => 11,
+					'preview' => WOOSTIFY_SITES_URI . 'demos/demo-3/demo-3.jpg',
+
+				),
+				'201' => array(
+					'title'   => 'Contact',
+					'id'      => 201,
+					'preview' => WOOSTIFY_SITES_URI . 'demos/demo-3/contact.jpg',
+				),
+				'199' => array(
+					'title'   => 'About Us',
+					'id'      => 199,
+					'preview' => WOOSTIFY_SITES_URI . 'demos/demo-3/about.jpg',
+				),
+			),
 		),
 		array(
 			'id'                           => 3,
@@ -74,6 +126,25 @@ function woostify_sites_local_import_files() {
 			'footer_menu'                  => 'Footer Menu',
 			'type'                         => 'pro',
 			'page_builder'                 => 'elementor',
+			'font_page'                    => 11,
+			'page'                         => array(
+				'11' => array(
+					'title'   => 'Home',
+					'id'      => 11,
+					'preview' => WOOSTIFY_SITES_URI . 'demos/demo-4/demo4.png',
+
+				),
+				'201' => array(
+					'title'   => 'Contact',
+					'id'      => 201,
+					'preview' => WOOSTIFY_SITES_URI . 'demos/demo-4/contact.jpg',
+				),
+				'199' => array(
+					'title'   => 'About Us',
+					'id'      => 199,
+					'preview' => WOOSTIFY_SITES_URI . 'demos/demo-4/about.jpg',
+				),
+			),
 		),
 		array(
 			'id'                           => 4,
@@ -90,6 +161,25 @@ function woostify_sites_local_import_files() {
 			'footer_menu'                  => 'Footer Menu',
 			'type'                         => 'pro',
 			'page_builder'                 => 'elementor',
+			'font_page'                    => 886,
+			'page'                         => array(
+				'886' => array(
+					'title'   => 'Home',
+					'id'      => 886,
+					'preview' => WOOSTIFY_SITES_URI . 'demos/demo-5/demo-5.jpg',
+
+				),
+				'201' => array(
+					'title'   => 'Contact',
+					'id'      => 201,
+					'preview' => WOOSTIFY_SITES_URI . 'demos/demo-5/contact.jpg',
+				),
+				'199' => array(
+					'title'   => 'About Us',
+					'id'      => 199,
+					'preview' => WOOSTIFY_SITES_URI . 'demos/demo-5/about.jpg',
+				),
+			),
 		),
 		array(
 			'id'                           => 5,
@@ -106,6 +196,25 @@ function woostify_sites_local_import_files() {
 			'footer_menu'                  => 'Footer Menu',
 			'type'                         => 'pro',
 			'page_builder'                 => 'elementor',
+			'font_page'                    => 11,
+			'page'                         => array(
+				'11' => array(
+					'title'   => 'Home',
+					'id'      => 11,
+					'preview' => WOOSTIFY_SITES_URI . 'demos/demo-6/demo-6.png',
+
+				),
+				'201' => array(
+					'title'   => 'Contact',
+					'id'      => 201,
+					'preview' => WOOSTIFY_SITES_URI . 'demos/demo-6/contact.jpg',
+				),
+				'199' => array(
+					'title'   => 'About Us',
+					'id'      => 199,
+					'preview' => WOOSTIFY_SITES_URI . 'demos/demo-6/about.jpg',
+				),
+			),
 		),
 		array(
 			'id'                           => 6,
@@ -122,6 +231,25 @@ function woostify_sites_local_import_files() {
 			'footer_menu'                  => '',
 			'type'                         => 'pro',
 			'page_builder'                 => 'elementor',
+			'font_page'                    => 896,
+			'page'                         => array(
+				'896' => array(
+					'title'   => 'Home',
+					'id'      => 896,
+					'preview' => WOOSTIFY_SITES_URI . 'demos/demo-7/demo-7.png',
+
+				),
+				'790' => array(
+					'title'   => 'Contact',
+					'id'      => 790,
+					'preview' => WOOSTIFY_SITES_URI . 'demos/demo-7/contact.jpg',
+				),
+				'740' => array(
+					'title'   => 'About Us',
+					'id'      => 740,
+					'preview' => WOOSTIFY_SITES_URI . 'demos/demo-7/about.jpg',
+				),
+			),
 		),
 		array(
 			'id'                           => 7,
@@ -138,6 +266,25 @@ function woostify_sites_local_import_files() {
 			'footer_menu'                  => 'Footer Menu',
 			'type'                         => 'pro',
 			'page_builder'                 => 'elementor',
+			'font_page'                    => 11,
+			'page'                         => array(
+				'1' => array(
+					'title'   => 'Home',
+					'id'      => 11,
+					'preview' => WOOSTIFY_SITES_URI . 'demos/demo-8/demo-7.png',
+
+				),
+				'2' => array(
+					'title'   => 'Contact',
+					'id'      => 201,
+					'preview' => WOOSTIFY_SITES_URI . 'demos/demo-8/contact.jpg',
+				),
+				'3' => array(
+					'title'   => 'About Us',
+					'id'      => 199,
+					'preview' => WOOSTIFY_SITES_URI . 'demos/demo-8/about.jpg',
+				),
+			),
 		),
 		array(
 			'id'                           => 8,
@@ -154,6 +301,25 @@ function woostify_sites_local_import_files() {
 			'footer_menu'                  => '',
 			'type'                         => 'pro',
 			'page_builder'                 => 'elementor',
+			'font_page'                    => 1403,
+			'page'                         => array(
+				'1' => array(
+					'title'   => 'Home',
+					'id'      => 1403,
+					'preview' => WOOSTIFY_SITES_URI . 'demos/demo-9/demo-9.png',
+
+				),
+				'2' => array(
+					'title'   => 'Contact',
+					'id'      => 790,
+					'preview' => WOOSTIFY_SITES_URI . 'demos/demo-9/contact.jpg',
+				),
+				'3' => array(
+					'title'   => 'About Us',
+					'id'      => 740,
+					'preview' => WOOSTIFY_SITES_URI . 'demos/demo-9/about.jpg',
+				),
+			),
 		),
 		array(
 			'id'                           => 9,
@@ -170,6 +336,25 @@ function woostify_sites_local_import_files() {
 			'footer_menu'                  => '',
 			'type'                         => 'pro',
 			'page_builder'                 => 'elementor',
+			'font_page'                    => 1600,
+			'page'                         => array(
+				'1' => array(
+					'title'   => 'Home',
+					'id'      => 1600,
+					'preview' => WOOSTIFY_SITES_URI . 'demos/demo-10/demo-10.png',
+
+				),
+				'2' => array(
+					'title'   => 'Contact',
+					'id'      => 790,
+					'preview' => WOOSTIFY_SITES_URI . 'demos/demo-10/contact.jpg',
+				),
+				'3' => array(
+					'title'   => 'About Us',
+					'id'      => 740,
+					'preview' => WOOSTIFY_SITES_URI . 'demos/demo-10/about.jpg',
+				),
+			),
 		),
 		array(
 			'id'                           => 10,
@@ -186,6 +371,25 @@ function woostify_sites_local_import_files() {
 			'footer_menu'                  => 'Footer Menu',
 			'type'                         => 'pro',
 			'page_builder'                 => 'elementor',
+			'font_page'                    => 11,
+			'page'                         => array(
+				'1' => array(
+					'title'   => 'Home',
+					'id'      => 11,
+					'preview' => WOOSTIFY_SITES_URI . 'demos/demo-11/demo-11.png',
+
+				),
+				'2' => array(
+					'title'   => 'Contact',
+					'id'      => 201,
+					'preview' => WOOSTIFY_SITES_URI . 'demos/demo-11/contact.jpg',
+				),
+				'3' => array(
+					'title'   => 'About Us',
+					'id'      => 199,
+					'preview' => WOOSTIFY_SITES_URI . 'demos/demo-11/about.jpg',
+				),
+			),
 		),
 		array(
 			'id'                           => 11,
@@ -202,6 +406,25 @@ function woostify_sites_local_import_files() {
 			'footer_menu'                  => 'Footer Menu',
 			'type'                         => 'pro',
 			'page_builder'                 => 'elementor',
+			'font_page'                    => 11,
+			'page'                         => array(
+				'1' => array(
+					'title'   => 'Home',
+					'id'      => 11,
+					'preview' => WOOSTIFY_SITES_URI . 'demos/demo-12/demo-12.png',
+
+				),
+				'2' => array(
+					'title'   => 'Contact',
+					'id'      => 201,
+					'preview' => WOOSTIFY_SITES_URI . 'demos/demo-12/contact.jpg',
+				),
+				'3' => array(
+					'title'   => 'About Us',
+					'id'      => 199,
+					'preview' => WOOSTIFY_SITES_URI . 'demos/demo-12/about.jpg',
+				),
+			),
 		),
 		array(
 			'id'                           => 12,
@@ -211,13 +434,27 @@ function woostify_sites_local_import_files() {
 			'local_import_customizer_file' => WOOSTIFY_SITES_DIR . 'demos/demo-13/customizer.dat',
 			'import_preview_image_url'     => WOOSTIFY_SITES_URI . 'demos/demo-13/demo-13.png',
 			'import_notice'                => __( 'After you import this demo, you should update permalink.', 'woostify' ),
-			'preview_url'                  => 'https://demo.woostify.com/urbanstyle',
+			'preview_url'                  => 'https://demo.woostify.com/urbanstyle/',
 			'homepage'                     => 'Fashion',
 			'blog_page'                    => 'Blog',
 			'primary_menu'                 => 'Header Primary',
 			'footer_menu'                  => 'Footer',
 			'type'                         => 'free',
 			'page_builder'                 => 'elementor',
+			'font_page'                    => 13,
+			'page'                         => array(
+				'13' => array(
+					'title'   => 'Home',
+					'id'      => 13,
+					'preview' => WOOSTIFY_SITES_URI . 'demos/demo-13/demo-13.png',
+
+				),
+				'201' => array(
+					'title'   => 'Contact',
+					'id'      => 201,
+					'preview' => WOOSTIFY_SITES_URI . 'demos/demo-13/contact.jpg',
+				),
+			),
 		),
 		array(
 			'id'                           => 13,
@@ -234,6 +471,26 @@ function woostify_sites_local_import_files() {
 			'footer_menu'                  => 'Footer Menu',
 			'type'                         => 'pro',
 			'page_builder'                 => 'elementor',
+			'font_page'                    => 11,
+			'page'                         => array(
+				'1' => array(
+					'title'   => 'Home',
+					'id'      => 11,
+					'preview' => WOOSTIFY_SITES_URI . 'demos/demo-14/demo-14.png',
+
+				),
+				'2' => array(
+					'title'   => 'Contact',
+					'id'      => 201,
+					'preview' => WOOSTIFY_SITES_URI . 'demos/demo-14/contact.jpg',
+				),
+				'3' => array(
+					'title'   => 'About Us',
+					'id'      => 1347,
+					'preview' => WOOSTIFY_SITES_URI . 'demos/demo-14/about.jpg',
+				),
+			),
+
 		),
 		array(
 			'id'                           => 14,
@@ -251,6 +508,25 @@ function woostify_sites_local_import_files() {
 			'footer_menu'                  => 'Footer Menu',
 			'type'                         => 'pro',
 			'page_builder'                 => 'elementor',
+			'font_page'                    => 11,
+			'page'                         => array(
+				'1' => array(
+					'title'   => 'Home',
+					'id'      => 11,
+					'preview' => WOOSTIFY_SITES_URI . 'demos/demo-15/demo-15.png',
+
+				),
+				'2' => array(
+					'title'   => 'Contact',
+					'id'      => 201,
+					'preview' => WOOSTIFY_SITES_URI . 'demos/demo-15/contact.jpg',
+				),
+				'3' => array(
+					'title'   => 'About Us',
+					'id'      => 1347,
+					'preview' => WOOSTIFY_SITES_URI . 'demos/demo-15/about.jpg',
+				),
+			),
 		),
 		array(
 			'id'                           => 15,
@@ -267,6 +543,25 @@ function woostify_sites_local_import_files() {
 			'vertical_menu'                => 'Menu Vertical',
 			'type'                         => 'pro',
 			'page_builder'                 => 'elementor',
+			'font_page'                    => 556,
+			'page'                         => array(
+				'1' => array(
+					'title'   => 'Home',
+					'id'      => 556,
+					'preview' => WOOSTIFY_SITES_URI . 'demos/demo-16/demo-16.png',
+
+				),
+				'2' => array(
+					'title'   => 'Contact',
+					'id'      => 473,
+					'preview' => WOOSTIFY_SITES_URI . 'demos/demo-16/contact.jpg',
+				),
+				'3' => array(
+					'title'   => 'About Us',
+					'id'      => 398,
+					'preview' => WOOSTIFY_SITES_URI . 'demos/demo-16/about.jpg',
+				),
+			),
 		),
 		array(
 			'id'                           => 16,
@@ -282,6 +577,25 @@ function woostify_sites_local_import_files() {
 			'primary_menu'                 => 'Primary Menu',
 			'type'                         => 'pro',
 			'page_builder'                 => 'elementor',
+			'font_page'                    => 182,
+			'page'                         => array(
+				'1' => array(
+					'title'   => 'Home',
+					'id'      => 182,
+					'preview' => WOOSTIFY_SITES_URI . 'demos/demo-17/demo-17.png',
+
+				),
+				'2' => array(
+					'title'   => 'Contact',
+					'id'      => 305,
+					'preview' => WOOSTIFY_SITES_URI . 'demos/demo-17/contact.jpg',
+				),
+				'3' => array(
+					'title'   => 'About Us',
+					'id'      => 232,
+					'preview' => WOOSTIFY_SITES_URI . 'demos/demo-17/about.jpg',
+				),
+			),
 		),
 
 	);
@@ -295,3 +609,111 @@ function woostify_register_query_vars( $vars ) {
 	return $vars;
 }
 add_filter( 'query_vars', 'woostify_register_query_vars' );
+
+
+function woostify_sites_section() {
+	return array(
+		array(
+			'id'                       => 0,
+			'import_file_name'         => 'Test Section',
+			'import_preview_image_url' => WOOSTIFY_SITES_URI . 'demos/demo-1/demo-11.jpg',
+			'preview_url'              => 'https://travelcation.boostifythemes.com/',
+			'homepage'                 => 'Fashion',
+			'type'                     => 'free',
+			'page_builder'             => 'elementor',
+			'font_page'                => 2000,
+		),
+	);
+}
+
+function woostify_sites_footer() {
+	return array(
+		array(
+			'id'                       => 0,
+			'import_file_name'         => 'Footer v1',
+			'import_preview_image_url' => WOOSTIFY_SITES_URI . 'demos/demo-1/demo-11.jpg',
+			'preview_url'              => 'https://demo.woostify.com/section-demo/',
+			'homepage'                 => 'Fashion',
+			'type'                     => 'free',
+			'page_builder'             => 'elementor',
+			'font_page'                => 596,
+		),
+	);
+}
+
+
+
+function woostify_sites_header() {
+	return array(
+		array(
+			'id'                       => 0,
+			'import_file_name'         => 'Test Header',
+			'import_preview_image_url' => WOOSTIFY_SITES_URI . 'demos/demo-1/demo-11.jpg',
+			'preview_url'              => 'https://travelcation.boostifythemes.com/',
+			'homepage'                 => 'Fashion',
+			'type'                     => 'free',
+			'page_builder'             => 'elementor',
+			'font_page'                => 2000,
+		),
+	);
+}
+
+function woostify_sites_shop() {
+	return array(
+		array(
+			'id'                       => 0,
+			'import_file_name'         => 'Test shop',
+			'import_preview_image_url' => WOOSTIFY_SITES_URI . 'demos/demo-1/demo-11.jpg',
+			'preview_url'              => 'https://travelcation.boostifythemes.com/',
+			'homepage'                 => 'Fashion',
+			'type'                     => 'free',
+			'page_builder'             => 'elementor',
+			'font_page'                => 149,
+			'contact_form'             => WOOSTIFY_SITES_URI . 'demos/test/wpcf7.csv',
+		),
+	);
+}
+
+
+add_action( 'rest_api_init', 'woostify_create_api_posts_meta_field' );
+
+function woostify_create_api_posts_meta_field() {
+
+	// register_rest_field ( 'name-of-post-type', 'name-of-field-to-return', array-of-callbacks-and-schema() )
+	register_rest_field( 'page', 'post-meta', array(
+		'get_callback' => 'woostify_get_post_meta_for_api',
+		'schema'       => null,
+		)
+	);
+
+	register_rest_field( 'btf_builder', 'post-meta', array(
+	   'get_callback'    => 'woostify_get_post_meta_for_api',
+	   'schema'          => null,
+		)
+	);
+}
+
+function woostify_get_post_meta_for_api( $object ) {
+	//get the id of the post object array
+	$post_id = $object['id'];
+
+	//return the post meta
+	return get_post_meta($post_id);
+}
+
+add_action( 'template_redirect', 'woostify_collect_post_id' );
+
+function woostify_collect_post_id()
+{
+	static $id = 0;
+
+	if ( 'template_redirect' === current_filter() && is_singular() )
+		$id = get_the_ID();
+
+	return $id;
+}
+
+
+function woostify_demo_template() {
+	# code...
+}

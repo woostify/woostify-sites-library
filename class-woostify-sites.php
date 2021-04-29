@@ -373,6 +373,10 @@ class Woostify_Sites {
 		require_once WOOSTIFY_SITES_DIR . 'includes/class-woostify-sites-customizer-importer.php';
 		require_once WOOSTIFY_SITES_DIR . 'includes/class-woostify-sites-redux-importer.php';
 		require_once WOOSTIFY_SITES_DIR . 'includes/class-woostify-sites-hooks.php';
+		require_once WOOSTIFY_SITES_DIR . 'includes/class-woostify-sites-elementor.php';
+		require_once WOOSTIFY_SITES_DIR . 'includes/elementor/class-woostify-sites-elementor-pages.php';
+		require_once WOOSTIFY_SITES_DIR . 'includes/ctf7/class-import-export.php';
+		require_once WOOSTIFY_SITES_DIR . 'includes/admin/class-admin.php';
 
 		$this->hooks = new Woostify_Sites_Hooks();
 
@@ -453,6 +457,15 @@ class Woostify_Sites {
 			'manage_options',
 			$this->woostify_sites_url,
 			array( $this, 'woostify_sites_admin_page' )
+		);
+
+		$this->hook_suffix = add_theme_page(
+			// 'themes.php',
+			'Woostify Template',
+			'Woostify Template',
+			'edit_theme_options',
+			'import-template-setting',
+			array( $this, 'setting_screen' )
 		);
 	}
 
@@ -2872,5 +2885,9 @@ class Woostify_Sites {
 	{
 		$total_page = 1;
 		setcookie( "total_page", $total_page, time()+7200);
+	}
+
+	public function setting_screen() {
+
 	}
 }
