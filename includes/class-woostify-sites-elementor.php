@@ -268,6 +268,12 @@ class Woostify_Sites_Elementor {
 								<option value=""><?php echo esc_html__( 'All', 'woostify-sites-library' ) ?></option>
 								<option value="free"><?php echo esc_html__( 'Free', 'woostify-sites-library' ) ?></option>
 								<option value="pro"><?php echo esc_html__( 'Pro', 'woostify-sites-library' ) ?></option>
+								<option value="shop"><?php echo esc_html__( 'Shop', 'woostify-sites-library' ) ?></option>
+								<option value="shopsingle"><?php echo esc_html__( 'Shop Single', 'woostify-sites-library' ) ?></option>
+								<option value="cart"><?php echo esc_html__( 'Cart', 'woostify-sites-library' ) ?></option>
+								<option value="checkout"><?php echo esc_html__( 'Checkout', 'woostify-sites-library' ) ?></option>
+								<option value="myaccount"><?php echo esc_html__( 'My Account', 'woostify-sites-library' ) ?></option>
+								<option value="thankyou"><?php echo esc_html__( 'Thank You', 'woostify-sites-library' ) ?></option>
 							</select>
 						</div>
 						<div class="woostify-template-favorite">
