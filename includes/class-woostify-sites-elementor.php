@@ -36,8 +36,7 @@ class Woostify_Sites_Elementor {
 		$this->hooks();
 	}
 
-	public function hooks()
-	{
+	public function hooks() {
 		add_action( 'elementor/editor/footer', array( $this, 'register_widget_scripts' ), 99 );
 		add_action( 'elementor/editor/footer', array( $this, 'insert_templates' ), 99 );
 		add_action( 'wp_ajax_woostify_modal_template', array( $this, 'modal_template' ) );
