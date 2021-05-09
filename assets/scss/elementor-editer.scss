@@ -141,3 +141,15 @@
     padding: 0 20px;
     text-transform: uppercase;
 }
+
+.elementor-template-library-template-pages {
+
+    .elementor-template-library-template-body {
+        height: 200px;
+        overflow: hidden;
+    }
+}
+
+.elementor-template-library-template-remote .elementor-template-library-template-screenshot {
+    min-height: 45px;
+}

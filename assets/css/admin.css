@@ -3133,3 +3133,26 @@
 	-webkit-box-align: center;
 	-ms-flex-align: center;
 }
+
+.appearance_page_import-template-setting .form-ajax-wrapper {
+	border: 1px solid #ddd;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: -ms-flexbox;
+	display: flex;
+	height: 45px;
+	width: 100%;
+}
+
+.appearance_page_import-template-setting .filter-category {
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: -ms-flexbox;
+	display: flex;
+	width: 120px;
+
+	-webkit-align-items: center;
+	align-items: center;
+	-webkit-box-align: center;
+	-ms-flex-align: center;
+}
