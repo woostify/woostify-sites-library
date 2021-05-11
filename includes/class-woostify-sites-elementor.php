@@ -201,11 +201,6 @@ class Woostify_Sites_Elementor {
 			case 'shop':
 				$all_demo = woostify_sites_shop();
 				break;
-
-			case 'blog':
-				$all_demo = woostify_sites_blog();
-				break;
-
 			default:
 				$all_demo = woostify_sites_local_import_files();
 				break;
@@ -290,6 +285,7 @@ class Woostify_Sites_Elementor {
 								<option value="map"><?php echo esc_html__( 'Map', 'woostify-sites-library' ) ?></option>
 								<option value="topbar"><?php echo esc_html__( 'Top Bar', 'woostify-sites-library' ) ?></option>
 								<option value="blogtestimonial"><?php echo esc_html__( 'Blog and Testimonial', 'woostify-sites-library' ) ?></option>
+								<option value="archive"><?php echo esc_html__( 'Archive', 'woostify-sites-library' ) ?></option>
 								<option value="shop"><?php echo esc_html__( 'Shop', 'woostify-sites-library' ) ?></option>
 								<option value="shopsingle"><?php echo esc_html__( 'Shop Single', 'woostify-sites-library' ) ?></option>
 								<option value="cart"><?php echo esc_html__( 'Cart', 'woostify-sites-library' ) ?></option>
@@ -374,11 +370,6 @@ class Woostify_Sites_Elementor {
 			case 'shop':
 				$all_demo = woostify_sites_shop();
 				break;
-
-			case 'blog':
-				$all_demo = woostify_sites_blog();
-				break;
-
 			default:
 				$all_demo = woostify_sites_local_import_files();
 				break;
@@ -485,13 +476,6 @@ class Woostify_Sites_Elementor {
 				$page     = $demo['font_page'];
 				break;
 
-			case 'blog':
-				$all_demo = woostify_sites_blog();
-				$rest_url = 'wp-json/wp/v2/pages/';
-				$demo     = $all_demo[$id];
-				$page     = $demo['font_page'];
-				break;
-
 			default:
 				$all_demo = woostify_sites_local_import_files();
 				$rest_url = 'wp-json/wp/v2/pages/';
@@ -562,10 +546,6 @@ class Woostify_Sites_Elementor {
 
 			case 'shop':
 				$demos = woostify_sites_shop();
-				break;
-
-			case 'blog':
-				$demos = woostify_sites_blog();
 				break;
 
 			default:
@@ -700,7 +680,6 @@ class Woostify_Sites_Elementor {
 			'header' => __('Header', 'woostify-sites-library'),
 			'footer' => __('Footer', 'woostify-sites-library'),
 			'shop'   => __('Shop', 'woostify-sites-library'),
-			'blog'   => __('Blog', 'woostify-sites-library'),
 			'blocks' => __('Blocks', 'woostify-sites-library'),
 			'pages'  => __('Pages', 'woostify-sites-library'),
 		);
@@ -747,7 +726,6 @@ class Woostify_Sites_Elementor {
 		$header    = woostify_sites_header();
 		$footer    = woostify_sites_footer();
 		$shop      = woostify_sites_shop();
-		$blog      = woostify_sites_blog();
 		$pages     = woostify_sites_local_import_files();
 		$favorites = array();
 		$types     = $this->modal_header_tab();
@@ -828,10 +806,6 @@ class Woostify_Sites_Elementor {
 
 											case 'shop':
 												$favorites = $shop;
-												break;
-
-											case 'blog':
-												$favorites = $blog;
 												break;
 
 											default:
