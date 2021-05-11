@@ -285,7 +285,7 @@ class Woostify_Sites_Elementor {
 								<option value="map"><?php echo esc_html__( 'Map', 'woostify-sites-library' ) ?></option>
 								<option value="topbar"><?php echo esc_html__( 'Top Bar', 'woostify-sites-library' ) ?></option>
 								<option value="blogtestimonial"><?php echo esc_html__( 'Blog and Testimonial', 'woostify-sites-library' ) ?></option>
-								<option value="archive"><?php echo esc_html__( 'Archive', 'woostify-sites-library' ) ?></option>
+								<option value="archive"><?php echo esc_html__( 'Blog Archive', 'woostify-sites-library' ) ?></option>
 								<option value="shop"><?php echo esc_html__( 'Shop', 'woostify-sites-library' ) ?></option>
 								<option value="shopsingle"><?php echo esc_html__( 'Shop Single', 'woostify-sites-library' ) ?></option>
 								<option value="cart"><?php echo esc_html__( 'Cart', 'woostify-sites-library' ) ?></option>

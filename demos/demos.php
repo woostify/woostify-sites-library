@@ -2404,7 +2404,7 @@ function woostify_sites_section() {
 
 		array(
 			'id'                       => 179,
-			'import_file_name'         => 'Archive v1',
+			'import_file_name'         => 'Blog Archive v1',
 			'import_preview_image_url' => WOOSTIFY_SITES_URI . 'demos/images-blog/blog_v1.jpg',
 			'preview_url'              => 'https://demo.woostify.com/section-demo/',
 			'type'                     => 'archive',
@@ -2413,7 +2413,7 @@ function woostify_sites_section() {
 		),
 		array(
 			'id'                       => 180,
-			'import_file_name'         => 'Archive v2',
+			'import_file_name'         => 'Blog Archive v2',
 			'import_preview_image_url' => WOOSTIFY_SITES_URI . 'demos/images-blog/blog_v2.jpg',
 			'preview_url'              => 'https://demo.woostify.com/section-demo/',
 			'type'                     => 'archive',
@@ -2422,7 +2422,7 @@ function woostify_sites_section() {
 		),
 		array(
 			'id'                       => 181,
-			'import_file_name'         => 'Archive v3',
+			'import_file_name'         => 'Blog Archive v3',
 			'import_preview_image_url' => WOOSTIFY_SITES_URI . 'demos/images-blog/blog_v3.jpg',
 			'preview_url'              => 'https://demo.woostify.com/section-demo/',
 			'type'                     => 'archive',
@@ -2431,7 +2431,7 @@ function woostify_sites_section() {
 		),
 		array(
 			'id'                       => 182,
-			'import_file_name'         => 'Archive v4',
+			'import_file_name'         => 'Blog Archive v4',
 			'import_preview_image_url' => WOOSTIFY_SITES_URI . 'demos/images-blog/blog_v4.jpg',
 			'preview_url'              => 'https://demo.woostify.com/section-demo/',
 			'type'                     => 'archive',
