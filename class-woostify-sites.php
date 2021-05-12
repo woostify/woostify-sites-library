@@ -338,6 +338,8 @@ class Woostify_Sites {
 			99
 		);
 
+		add_action( 'admin_enqueue_scripts', array( $this, 'woostify_sites_admin_template' ) );
+
 	}
 
 	/**
@@ -2888,6 +2890,59 @@ class Woostify_Sites {
 	}
 
 	public function setting_screen() {
+		?>
+		<div id="woostify-site-template-page" class="woostify-site-template-page">
+			<div class="woostify-template-wrapper">
+				<div class="woostify-header-sticky">
+					<div class="header-sticky-wrapper">
+						<div class="woostify-logo">
+							<div class="logo-wrapper">
+								<img src="<?php echo esc_url( WOOSTIFY_SITES_URI . '/assets/images/logo-icon.png' ); ?>" alt="<?php echo esc_attr__( 'Woostify Logo', 'woostify-sites-library' ); ?>">
+							</div>
+						</div>
+						<div class="woostify-main-content">
+							<div class="back-to-layout" id="backtolayout">
+								<span class="ion-ios-arrow-back back-icon"></span>
+							</div>
+							<div class="woostify-action-content">
+								<div class="woostify-ajax-search">
+									<div class="form-ajax-search">
+										<div class="form-ajax-wrapper">
+											<div class="filter-category">
+												<span id="filter-category-selected"><?php echo esc_html__( 'All', 'woostify-sites-library' ) ?></span>
+											</div>
+											<div class="input-filter">
+												<input type="text" id="filter-template" class="input-filter-template" autocomplete="off" >
+											</div>
+										</div>
+									</div>
+								</div>
+								<div class="woostify-favories-template">
+									<span class="ion-heart"></span>
+								</div>
+							</div>
+						</div>
+						<div class="woostify-site-page-builder">
+							<span class="page-buider-selected">
+								<span class="page-builder-selected">
+									<img src="<?php echo esc_url( WOOSTIFY_SITES_URI . '/assets/images/page-builder/elementor.png' ); ?>" alt="<?php echo esc_html( 'Elementor' ); ?>" class="page-builder-logo">
+									<span class="page-buider-name"><?php echo esc_html( 'Elementor' ); ?></span>
+								</span>
+							</span>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+		<?php
+	}
 
+	public function woostify_sites_admin_template() {
+		wp_enqueue_style(
+			'woostify_admin_site_template',
+			WOOSTIFY_SITES_URI . 'assets/css/admin.css',
+			array( 'wp-admin' ),
+			'1.0.0'
+		);
 	}
 }

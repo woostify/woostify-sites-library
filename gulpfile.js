@@ -20,7 +20,7 @@ var translatePath           = './languages/' + destFile;
 var translatableFiles       = ['./**/*.php', '!merlin-config-sample.php', '!merlin-filters-sample.php' ];
 
 // Styles.
-var merlinStyleSRC          = ['./assets/scss/woostify-sites.scss', './assets/scss/elementor-editer.scss']; // Path to main .scss file.
+var merlinStyleSRC          = ['./assets/scss/woostify-sites.scss', './assets/scss/elementor-editer.scss', './assets/scss/admin.scss']; // Path to main .scss file.
 var merlinStyleDestination  = './assets/css/'; // Path to place the compiled CSS file.
 var merlinCssFiles          = './assets/css/**/*.css'; // Path to main .scss file.
 var merlinStyleWatchFiles   = './assets/scss/**/*.scss'; // Path to all *.scss files inside css folder and inside them.
