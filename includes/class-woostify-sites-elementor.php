@@ -168,23 +168,16 @@ class Woostify_Sites_Elementor {
 		return get_post_meta($post_id);
 	}
 
-
-
 	public function collect_post_id() {
 		static $id = 0;
-
 		if ( 'template_redirect' === current_filter() && is_singular() )
 			$id = get_the_ID();
 
 		return $id;
 	}
 
-
-
-	public function modal_template() {
-		check_ajax_referer( 'woostify_nonce_field' );
-		$template_type = $_GET['type'];
-
+	public function get_demo( $template_type ) {
+		$all_demo = array();
 		switch ( $template_type ) {
 			case 'blocks':
 				$all_demo = woostify_sites_section();
@@ -205,6 +198,54 @@ class Woostify_Sites_Elementor {
 				$all_demo = woostify_sites_local_import_files();
 				break;
 		}
+
+		return $all_demo;
+	}
+
+	public function demo_filter( $type_template ) {
+
+		switch ( $type_template ) {
+			case 'blocks':
+				$list_sort = woostify_filter_section();
+				break;
+
+			case 'header':
+				$list_sort = woostify_filter_header();
+				break;
+
+			case 'footer':
+				$list_sort = woostify_filter_footer();
+				break;
+
+			case 'shop':
+				$list_sort = woostify_filter_shop();
+				break;
+			default:
+				$list_sort = woostify_filter_pages();
+				break;
+		}
+
+		?>
+		<div class="elementor-template-library-order" style="display: flex;">
+			<select class="elementor-template-library-order-input elementor-template-library-filter-select elementor-select2 woostify-select-demo-type" data-type="<?php echo esc_attr( $type_template ); ?>">
+				<option value="">
+						<?php echo esc_html__( 'All', 'woostify-sites-library' ); ?>
+					</option>
+				<?php foreach ( $list_sort as $value => $label ): ?>
+					<option value="<?php echo esc_attr( $value ); ?>">
+						<?php echo esc_html( $label ); ?>
+					</option>
+				<?php endforeach ?>
+			</select>
+		</div>
+		<?php
+	}
+
+	public function modal_template() {
+		check_ajax_referer( 'woostify_nonce_field' );
+		$template_type = $_GET['type'];
+
+		$all_demo = $this->get_demo( $template_type );
 		$demos    = array();
 		foreach ($all_demo as $item) {
 			if ( 'elementor' == $item['page_builder'] ) {
@@ -263,13 +304,7 @@ class Woostify_Sites_Elementor {
 			<div id="wooostify-template-library-templates-container" class="wooostify-template-library-templates-container">
 				<div class="woostify-template-library-toolbar" style="display: flex;">
 					<div class="elementor-template-library-filter-toolbar">
-						<div class="elementor-template-library-order" style="display: flex;">
-							<select class="elementor-template-library-order-input elementor-template-library-filter-select elementor-select2 woostify-select-demo-type" data-type="<?php echo esc_attr( $template_type ); ?>">
-								<option value=""><?php echo esc_html__( 'All', 'woostify-sites-library' ) ?></option>
-								<option value="free"><?php echo esc_html__( 'Free', 'woostify-sites-library' ) ?></option>
-								<option value="pro"><?php echo esc_html__( 'Pro', 'woostify-sites-library' ) ?></option>
-							</select>
-						</div>
+						<?php $this->demo_filter( $template_type ); ?>
 						<div class="woostify-template-favorite">
 							<a href="#" class="woostify-link-favorite"><?php echo esc_html__( 'My Favorites', 'woostify-sites-library' ); ?></a>
 						</div>
@@ -333,28 +368,7 @@ class Woostify_Sites_Elementor {
 			$page_id = $_GET['page'];
 		}
 
-		$all_demo = woostify_sites_local_import_files();
-		switch ( $type ) {
-			case 'blocks':
-				$all_demo = woostify_sites_section();
-				break;
-
-			case 'header':
-				$all_demo = woostify_sites_header();
-				break;
-
-			case 'footer':
-				$all_demo = woostify_sites_footer();
-				break;
-
-			case 'shop':
-				$all_demo = woostify_sites_shop();
-				break;
-			default:
-				$all_demo = woostify_sites_local_import_files();
-				break;
-		}
-
+		$all_demo = $this->get_demo( $type );
 		$demo = $all_demo[$id];
 		$demo_type = $demo['type'];
 		$image_preview = $demo['import_preview_image_url'];
@@ -509,29 +523,7 @@ class Woostify_Sites_Elementor {
 		$demo_type     = $_POST['demo_type'];
 		$demos         = woostify_sites_local_import_files();
 		$license_key   = get_option( 'woostify_pro_license_key_status', 'invalid' );
-		switch ($template_type) {
-			case 'blocks':
-				$demos = woostify_sites_section();
-
-				break;
-
-			case 'header':
-				$demos = woostify_sites_header();
-
-				break;
-
-			case 'footer':
-				$demos = woostify_sites_footer();
-				break;
-
-			case 'shop':
-				$demos = woostify_sites_shop();
-				break;
-
-			default:
-				$demos = woostify_sites_local_import_files();
-				break;
-		}
+		$demos = $this->get_demo( $template_type );
 		$list_demo = [];
 		foreach ($demos as $demo) {
 			if ( $demo['type'] == $demo_type || '' == $demo_type ) {
@@ -641,7 +633,7 @@ class Woostify_Sites_Elementor {
 						<?php $is_pro = ( 'pro' == $demo['type'] ) ?>
 						<div class="woostify-tempalte-item template-builder-elementor elementor-template-library-template-page elementor-template-library-template-remote <?php echo esc_attr( $is_pro ); ?>" data-page="<?php echo esc_attr( $page['id'] ); ?>" data-id="<?php echo esc_attr( $id ); ?>" data-type="<?php echo esc_attr( $type ); ?>">
 							<div class="elementor-template-library-template-body">
-								<div class="template-screenshot elementor-template-library-template-screenshot" style="background-image: url(<?php echo esc_url( $page['preview'] ); ?>);">
+								<div class="template-screenshot elementor-template-library-template-screenshot" >
 									<img src="<?php echo esc_url( $demo['import_preview_image_url'] ); ?>" alt="<?php echo esc_attr( $demo['import_file_name'] ); ?>">
 									<div class="elementor-template-library-template-preview woostify-template-library-template-preview">
 										<i class="eicon-zoom-in" aria-hidden="true"></i>
@@ -757,13 +749,7 @@ class Woostify_Sites_Elementor {
 			<div id="wooostify-template-library-templates-container" class="wooostify-template-library-templates-container">
 				<div class="woostify-template-library-toolbar" style="display: flex;">
 					<div class="elementor-template-library-filter-toolbar">
-						<div class="elementor-template-library-order" style="display: flex;">
-							<select class="elementor-template-library-order-input elementor-template-library-filter-select elementor-select2 woostify-select-demo-type" data-type="<?php echo esc_attr( 'pages' ); ?>">
-								<option value=""><?php echo esc_html__( 'All', 'woostify-sites-library' ) ?></option>
-								<option value="free"><?php echo esc_html__( 'Free', 'woostify-sites-library' ) ?></option>
-								<option value="pro"><?php echo esc_html__( 'Pro', 'woostify-sites-library' ) ?></option>
-							</select>
-						</div>
+
 						<div class="woostify-template-favorite">
 							<a href="#" class="woostify-link-favorite"><?php echo esc_html__( 'My Favorites', 'woostify-sites-library' ); ?></a>
 						</div>
@@ -814,7 +800,7 @@ class Woostify_Sites_Elementor {
 											?>
 											<div class="<?php echo esc_attr( $class ); ?>" data-id="<?php echo esc_attr( $demo['id'] ); ?>" data-type="<?php echo esc_attr( $type ); ?>">
 												<div class="elementor-template-library-template-body">
-													<div class="template-screenshot elementor-template-library-template-screenshot" style="background-image: url(<?php echo esc_url( $demo['import_preview_image_url'] ); ?>);">
+													<div class="template-screenshot elementor-template-library-template-screenshot" >
 														<img src="<?php echo esc_url( $demo['import_preview_image_url'] ); ?>" alt="">
 														<div class="elementor-template-library-template-preview <?php echo esc_attr( $demo_type ); ?>">
 															<i class="eicon-zoom-in" aria-hidden="true"></i>

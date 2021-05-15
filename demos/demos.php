@@ -618,7 +618,7 @@ function woostify_sites_section() {
 			'import_file_name'         => 'Block 1',
 			'import_preview_image_url' => WOOSTIFY_SITES_URI . 'demos/images-blocks/Block-v1.jpg',
 			'preview_url'              => 'https://demo.woostify.com/section-demo/',
-			'type'                     => 'free',
+			'type'                     => 'testimonial',
 			'page_builder'             => 'elementor',
 			'font_page'                => 4315,
 		),
@@ -2247,6 +2247,43 @@ function woostify_collect_post_id()
 }
 
 
-function woostify_demo_template() {
-	# code...
+function woostify_filter_section() {
+	$filter = array(
+		'testimonial' => __( 'Testimonial', 'woostify-sites-library' ),
+		'free' => __( 'Free', 'woostify-sites-library' ),
+		'pro'  => __( 'Pro', 'woostify-sites-library' ),
+	);
+	return $filter;
+}
+
+function woostify_filter_pages() {
+	$filter = array(
+		'free' => __( 'Free', 'woostify-sites-library' ),
+		'pro'  => __( 'Pro', 'woostify-sites-library' ),
+	);
+	return $filter;
+}
+
+function woostify_filter_footer() {
+	$filter = array(
+		'free' => __( 'Free', 'woostify-sites-library' ),
+		'pro'  => __( 'Pro', 'woostify-sites-library' ),
+	);
+	return $filter;
+}
+
+function woostify_filter_header() {
+	$filter = array(
+		'free' => __( 'Free', 'woostify-sites-library' ),
+		'pro'  => __( 'Pro', 'woostify-sites-library' ),
+	);
+	return $filter;
+}
+
+function woostify_filter_shop() {
+	$filter = array(
+		'free' => __( 'Free', 'woostify-sites-library' ),
+		'pro'  => __( 'Pro', 'woostify-sites-library' ),
+	);
+	return $filter;
 }

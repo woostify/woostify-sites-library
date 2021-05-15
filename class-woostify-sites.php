@@ -2909,10 +2909,13 @@ class Woostify_Sites {
 									<div class="form-ajax-search">
 										<div class="form-ajax-wrapper">
 											<div class="filter-category">
-												<span id="filter-category-selected"><?php echo esc_html__( 'All', 'woostify-sites-library' ) ?></span>
+												<div class="filter-category-wrapper">
+													<span id="filter-category-selected" class="filter-category-selected"><?php echo esc_html__( 'All', 'woostify-sites-library' ) ?></span>
+												</div>
 											</div>
 											<div class="input-filter">
 												<input type="text" id="filter-template" class="input-filter-template" autocomplete="off" >
+												<span class="filter-icon ion-ios-search"></span>
 											</div>
 										</div>
 									</div>

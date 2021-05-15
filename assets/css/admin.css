@@ -2961,7 +2961,10 @@
 .appearance_page_import-template-setting .fs-slug-ajax-search-for-woocommerce,
 .appearance_page_import-template-setting .fs-notice.fs-type-plugin.success,
 .appearance_page_import-template-setting .astra-notice,
-.appearance_page_import-template-setting .elementor-message {
+.appearance_page_import-template-setting .elementor-message,
+.appearance_page_import-template-setting .notice,
+.appearance_page_import-template-setting .message,
+.appearance_page_import-template-setting .wpml-admin-notice {
 	display: none !important;
 }
 
@@ -3121,7 +3124,6 @@
 }
 
 .appearance_page_import-template-setting .form-ajax-search {
-	border: 1px solid #ddd;
 	display: -webkit-box;
 	display: -webkit-flex;
 	display: -ms-flexbox;
@@ -3136,6 +3138,7 @@
 
 .appearance_page_import-template-setting .form-ajax-wrapper {
 	border: 1px solid #ddd;
+	border-radius: 5px;
 	display: -webkit-box;
 	display: -webkit-flex;
 	display: -ms-flexbox;
@@ -3144,15 +3147,100 @@
 	width: 100%;
 }
 
+.appearance_page_import-template-setting .form-ajax-wrapper:hover,
+.appearance_page_import-template-setting .form-ajax-wrapper:focus {
+	-webkit-box-shadow: -1px 1px 5px rgba(0, 0, 0, 0.15);
+	box-shadow: -1px 1px 5px rgba(0, 0, 0, 0.15);
+}
+
 .appearance_page_import-template-setting .filter-category {
+	border-right: 1px solid #ddd;
 	display: -webkit-box;
 	display: -webkit-flex;
 	display: -ms-flexbox;
 	display: flex;
+	position: relative;
 	width: 120px;
 
 	-webkit-align-items: center;
 	align-items: center;
 	-webkit-box-align: center;
 	-ms-flex-align: center;
+}
+
+.appearance_page_import-template-setting .filter-category .filter-category-wrapper {
+	cursor: pointer;
+	padding: 5px 15px;
+}
+
+.appearance_page_import-template-setting .filter-category:after {
+	border-left: 2px solid #555;
+	border-top: 2px solid #555;
+	content: "";
+	padding: 3px;
+	position: absolute;
+	right: 14px;
+	top: 38%;
+	-webkit-transform: rotate(-135deg);
+	-ms-transform: rotate(-135deg);
+	transform: rotate(-135deg);
+}
+
+.appearance_page_import-template-setting .input-filter {
+	position: relative;
+	width: calc( 100% - 122px);
+}
+
+.appearance_page_import-template-setting .input-filter .input-filter-template {
+	border: none;
+	height: 100%;
+	padding-right: 45px;
+	width: 100%;
+}
+
+.appearance_page_import-template-setting .input-filter .input-filter-template:focus {
+	border: none;
+	-webkit-box-shadow: none;
+	box-shadow: none;
+	outline: none;
+}
+
+.appearance_page_import-template-setting .input-filter .filter-icon {
+	bottom: 0;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: -ms-flexbox;
+	display: flex;
+	font-size: 24px;
+	position: absolute;
+	right: 0;
+	top: 0;
+	width: 45px;
+
+	-webkit-align-items: center;
+	align-items: center;
+	-webkit-box-align: center;
+	-webkit-box-pack: center;
+	-ms-flex-align: center;
+	-ms-flex-pack: center;
+	-webkit-justify-content: center;
+	justify-content: center;
+}
+
+.appearance_page_import-template-setting .ion-heart {
+	color: #bcbcbc;
+	cursor: pointer;
+	font-size: 18px;
+}
+
+.appearance_page_import-template-setting .ion-heart:hover {
+	color: #93003c;
+}
+
+.appearance_page_import-template-setting .woostify-header-sticky {
+	left: 160px;
+	position: fixed;
+	right: 0;
+	top: 32px;
+	z-index: 99999999;
 }
