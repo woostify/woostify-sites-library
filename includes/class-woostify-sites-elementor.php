@@ -305,6 +305,7 @@ class Woostify_Sites_Elementor {
 				<div class="woostify-template-library-toolbar" style="display: flex;">
 					<div class="elementor-template-library-filter-toolbar">
 						<?php $this->demo_filter( $template_type ); ?>
+
 						<div class="woostify-template-favorite">
 							<a href="#" class="woostify-link-favorite"><?php echo esc_html__( 'My Favorites', 'woostify-sites-library' ); ?></a>
 						</div>
@@ -317,7 +318,7 @@ class Woostify_Sites_Elementor {
 							$class = 'woostify-tempalte-item template-builder-elementor elementor-template-library-template-remote elementor-template-library-template-' . $template_type;
 							$class .= ($demo['type'] == 'pro') ? ' elementor-template-library-pro-template' : '';
 							$class .= $template_type == 'pages' ? ' elementor-template-library-template-page' : '';
-							// $is_pro = ($demo['type'] == 'pro') ? ' elementor-template-library-pro-template' : '';
+
 							$type = ( 'pages' == $template_type ) ? ' elementor-type-pages elementor-template-library-template-page' : ' woostify-template-library-template-preview elementor-type-blocks';
 							$checked = '';
 							$favorite_class = 'eicon-heart-o';
