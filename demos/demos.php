@@ -2439,6 +2439,206 @@ function woostify_sites_section() {
 			'font_page'                => 5876,
 		),
 
+		array(
+			'id'                       => 183,
+			'import_file_name'         => 'Banner v51',
+			'import_preview_image_url' => WOOSTIFY_SITES_URI . 'demos/images-blocks/banner_v51.jpg',
+			'preview_url'              => 'https://demo.woostify.com/section-demo/',
+			'type'                     => 'banner',
+			'page_builder'             => 'elementor',
+			'font_page'                => 5888,
+		),
+
+		array(
+			'id'                       => 184,
+			'import_file_name'         => 'Banner v52',
+			'import_preview_image_url' => WOOSTIFY_SITES_URI . 'demos/images-blocks/banner_v52.jpg',
+			'preview_url'              => 'https://demo.woostify.com/section-demo/',
+			'type'                     => 'banner',
+			'page_builder'             => 'elementor',
+			'font_page'                => 5920,
+		),
+
+		array(
+			'id'                       => 185,
+			'import_file_name'         => 'Banner v53',
+			'import_preview_image_url' => WOOSTIFY_SITES_URI . 'demos/images-blocks/banner_v53.jpg',
+			'preview_url'              => 'https://demo.woostify.com/section-demo/',
+			'type'                     => 'banner',
+			'page_builder'             => 'elementor',
+			'font_page'                => 5933,
+		),
+
+		array(
+			'id'                       => 186,
+			'import_file_name'         => 'Banner v54',
+			'import_preview_image_url' => WOOSTIFY_SITES_URI . 'demos/images-blocks/banner_v54.jpg',
+			'preview_url'              => 'https://demo.woostify.com/section-demo/',
+			'type'                     => 'banner',
+			'page_builder'             => 'elementor',
+			'font_page'                => 5976,
+		),
+
+		array(
+			'id'                       => 187,
+			'import_file_name'         => 'Banner v55',
+			'import_preview_image_url' => WOOSTIFY_SITES_URI . 'demos/images-blocks/banner_v55.jpg',
+			'preview_url'              => 'https://demo.woostify.com/section-demo/',
+			'type'                     => 'banner',
+			'page_builder'             => 'elementor',
+			'font_page'                => 6122,
+		),
+
+		array(
+			'id'                       => 188,
+			'import_file_name'         => 'Video v4',
+			'import_preview_image_url' => WOOSTIFY_SITES_URI . 'demos/images-blocks/Video_v4.jpg',
+			'preview_url'              => 'https://demo.woostify.com/section-demo/',
+			'type'                     => 'video',
+			'page_builder'             => 'elementor',
+			'font_page'                => 6008,
+		),
+
+		array(
+			'id'                       => 189,
+			'import_file_name'         => 'Banner v56',
+			'import_preview_image_url' => WOOSTIFY_SITES_URI . 'demos/images-blocks/banner_v56.jpg',
+			'preview_url'              => 'https://demo.woostify.com/section-demo/',
+			'type'                     => 'banner',
+			'page_builder'             => 'elementor',
+			'font_page'                => 6129,
+		),
+
+		array(
+			'id'                       => 190,
+			'import_file_name'         => 'Banner v57',
+			'import_preview_image_url' => WOOSTIFY_SITES_URI . 'demos/images-blocks/banner_v57.jpg',
+			'preview_url'              => 'https://demo.woostify.com/section-demo/',
+			'type'                     => 'banner',
+			'page_builder'             => 'elementor',
+			'font_page'                => 6180,
+		),
+
+		array(
+			'id'                       => 191,
+			'import_file_name'         => 'Banner v58',
+			'import_preview_image_url' => WOOSTIFY_SITES_URI . 'demos/images-blocks/banner_v58.jpg',
+			'preview_url'              => 'https://demo.woostify.com/section-demo/',
+			'type'                     => 'banner',
+			'page_builder'             => 'elementor',
+			'font_page'                => 6189,
+		),
+
+		array(
+			'id'                       => 192,
+			'import_file_name'         => 'Banner v59',
+			'import_preview_image_url' => WOOSTIFY_SITES_URI . 'demos/images-blocks/banner_v59.jpg',
+			'preview_url'              => 'https://demo.woostify.com/section-demo/',
+			'type'                     => 'banner',
+			'page_builder'             => 'elementor',
+			'font_page'                => 6234,
+		),
+
+		array(
+			'id'                       => 193,
+			'import_file_name'         => 'Banner v60',
+			'import_preview_image_url' => WOOSTIFY_SITES_URI . 'demos/images-blocks/banner_v60.jpg',
+			'preview_url'              => 'https://demo.woostify.com/section-demo/',
+			'type'                     => 'banner',
+			'page_builder'             => 'elementor',
+			'font_page'                => 6270,
+		),
+
+		array(
+			'id'                       => 194,
+			'import_file_name'         => 'Banner v61',
+			'import_preview_image_url' => WOOSTIFY_SITES_URI . 'demos/images-blocks/banner_v61.jpg',
+			'preview_url'              => 'https://demo.woostify.com/section-demo/',
+			'type'                     => 'banner',
+			'page_builder'             => 'elementor',
+			'font_page'                => 6283,
+		),
+
+		array(
+			'id'                       => 195,
+			'import_file_name'         => 'Countdown v3',
+			'import_preview_image_url' => WOOSTIFY_SITES_URI . 'demos/images-blocks/Countdown_v3.jpg',
+			'preview_url'              => 'https://demo.woostify.com/section-demo/',
+			'type'                     => 'countdown',
+			'page_builder'             => 'elementor',
+			'font_page'                => 6299,
+		),
+
+		array(
+			'id'                       => 196,
+			'import_file_name'         => 'Banner v62',
+			'import_preview_image_url' => WOOSTIFY_SITES_URI . 'demos/images-blocks/banner_v62.jpg',
+			'preview_url'              => 'https://demo.woostify.com/section-demo/',
+			'type'                     => 'banner',
+			'page_builder'             => 'elementor',
+			'font_page'                => 6340,
+		),
+
+		array(
+			'id'                       => 197,
+			'import_file_name'         => 'Banner v63',
+			'import_preview_image_url' => WOOSTIFY_SITES_URI . 'demos/images-blocks/banner_v63.jpg',
+			'preview_url'              => 'https://demo.woostify.com/section-demo/',
+			'type'                     => 'banner',
+			'page_builder'             => 'elementor',
+			'font_page'                => 6400,
+		),
+
+		array(
+			'id'                       => 198,
+			'import_file_name'         => 'Categories v15',
+			'import_preview_image_url' => WOOSTIFY_SITES_URI . 'demos/images-blocks/category_v15.jpg',
+			'preview_url'              => 'https://demo.woostify.com/section-demo/',
+			'type'                     => 'categories',
+			'page_builder'             => 'elementor',
+			'font_page'                => 6469,
+		),
+
+		array(
+			'id'                       => 199,
+			'import_file_name'         => 'Categories v16',
+			'import_preview_image_url' => WOOSTIFY_SITES_URI . 'demos/images-blocks/category_v16.jpg',
+			'preview_url'              => 'https://demo.woostify.com/section-demo/',
+			'type'                     => 'categories',
+			'page_builder'             => 'elementor',
+			'font_page'                => 6521,
+		),
+
+		array(
+			'id'                       => 200,
+			'import_file_name'         => 'Categories v17',
+			'import_preview_image_url' => WOOSTIFY_SITES_URI . 'demos/images-blocks/category_v17.jpg',
+			'preview_url'              => 'https://demo.woostify.com/section-demo/',
+			'type'                     => 'categories',
+			'page_builder'             => 'elementor',
+			'font_page'                => 6555,
+		),
+
+		array(
+			'id'                       => 201,
+			'import_file_name'         => 'Categories v18',
+			'import_preview_image_url' => WOOSTIFY_SITES_URI . 'demos/images-blocks/category_v18.jpg',
+			'preview_url'              => 'https://demo.woostify.com/section-demo/',
+			'type'                     => 'categories',
+			'page_builder'             => 'elementor',
+			'font_page'                => 6575,
+		),
+
+		array(
+			'id'                       => 202,
+			'import_file_name'         => 'Categories v19',
+			'import_preview_image_url' => WOOSTIFY_SITES_URI . 'demos/images-blocks/category_v19.jpg',
+			'preview_url'              => 'https://demo.woostify.com/section-demo/',
+			'type'                     => 'categories',
+			'page_builder'             => 'elementor',
+			'font_page'                => 6608,
+		),
+
 	);
 }
 
@@ -3068,6 +3268,33 @@ function woostify_sites_shop() {
 		),
 		array(
 			'id'                       => 11,
+			'import_file_name'         => 'Cart V3',
+			'import_preview_image_url' => WOOSTIFY_SITES_URI . 'demos/images-shop/cart_v3.jpg',
+			'preview_url'              => 'https://demo.woostify.com/section-demo/',
+			'type'                     => 'cart',
+			'page_builder'             => 'elementor',
+			'font_page'                => 6036,
+		),
+		array(
+			'id'                       => 12,
+			'import_file_name'         => 'Cart V4',
+			'import_preview_image_url' => WOOSTIFY_SITES_URI . 'demos/images-shop/cart_v4.jpg',
+			'preview_url'              => 'https://demo.woostify.com/section-demo/',
+			'type'                     => 'cart',
+			'page_builder'             => 'elementor',
+			'font_page'                => 6047,
+		),
+		array(
+			'id'                       => 13,
+			'import_file_name'         => 'Cart V5',
+			'import_preview_image_url' => WOOSTIFY_SITES_URI . 'demos/images-shop/cart_v5.jpg',
+			'preview_url'              => 'https://demo.woostify.com/section-demo/',
+			'type'                     => 'cart',
+			'page_builder'             => 'elementor',
+			'font_page'                => 6056,
+		),
+		array(
+			'id'                       => 14,
 			'import_file_name'         => 'Checkout V1',
 			'import_preview_image_url' => WOOSTIFY_SITES_URI . 'demos/images-shop/Checkout_v1.jpg',
 			'preview_url'              => 'https://demo.woostify.com/section-demo/',
@@ -3076,7 +3303,16 @@ function woostify_sites_shop() {
 			'font_page'                => 3994,
 		),
 		array(
-			'id'                       => 12,
+			'id'                       => 15,
+			'import_file_name'         => 'Checkout V2',
+			'import_preview_image_url' => WOOSTIFY_SITES_URI . 'demos/images-shop/Checkout_v2.jpg',
+			'preview_url'              => 'https://demo.woostify.com/section-demo/',
+			'type'                     => 'checkout',
+			'page_builder'             => 'elementor',
+			'font_page'                => 6090,
+		),
+		array(
+			'id'                       => 16,
 			'import_file_name'         => 'My Account',
 			'import_preview_image_url' => WOOSTIFY_SITES_URI . 'demos/images-shop/My_account.jpg',
 			'preview_url'              => 'https://demo.woostify.com/section-demo/',
@@ -3085,7 +3321,7 @@ function woostify_sites_shop() {
 			'font_page'                => 5709,
 		),
 		array(
-			'id'                       => 13,
+			'id'                       => 17,
 			'import_file_name'         => 'Thank You',
 			'import_preview_image_url' => WOOSTIFY_SITES_URI . 'demos/images-shop/thank_you.jpg',
 			'preview_url'              => 'https://demo.woostify.com/section-demo/',
