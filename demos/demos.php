@@ -1267,8 +1267,8 @@ function woostify_sites_section() {
 			'import_file_name'         => 'Product v2',
 			'import_preview_image_url' => WOOSTIFY_SITES_URI . 'demos/images-blocks/Block-v9.jpg',
 			'preview_url'              => 'https://demo.woostify.com/section-demo/',
-			'type'                     => 'free',
-			'page_builder'             => 'product',
+			'type'                     => 'product',
+			'page_builder'             => 'elementor',
 			'font_page'                => 4355,
 		),
 
@@ -3137,9 +3137,25 @@ function woostify_collect_post_id()
 
 function woostify_filter_section() {
 	$filter = array(
+		'banner' => __( 'Banner', 'woostify-sites-library' ),
+		'categories' => __( 'Categories', 'woostify-sites-library' ),
+		'product' => __( 'Product', 'woostify-sites-library' ),
+		'service' => __( 'Service', 'woostify-sites-library' ),
+		'instagram' => __( 'Instagram', 'woostify-sites-library' ),
+		'subscribe' => __( 'Subscribe', 'woostify-sites-library' ),
+		'slideshow' => __( 'Slide', 'woostify-sites-library' ),
+		'blogtestimonial' => __( 'Blog Testimonial', 'woostify-sites-library' ),
 		'testimonial' => __( 'Testimonial', 'woostify-sites-library' ),
-		'free' => __( 'Free', 'woostify-sites-library' ),
-		'pro'  => __( 'Pro', 'woostify-sites-library' ),
+		'blog' => __( 'Blog', 'woostify-sites-library' ),
+		'brand' => __( 'Brand', 'woostify-sites-library' ),
+		'map' => __( 'Map', 'woostify-sites-library' ),
+		'topbar' => __( 'Top bar', 'woostify-sites-library' ),
+		'countdown' => __( 'Countdown', 'woostify-sites-library' ),
+		'video' => __( 'Video', 'woostify-sites-library' ),
+		'contact' => __( 'Contact', 'woostify-sites-library' ),
+		'team' => __( 'Team', 'woostify-sites-library' ),
+		'counter' => __( 'Counter', 'woostify-sites-library' ),
+		'archive' => __( 'Archive', 'woostify-sites-library' ),
 	);
 	return $filter;
 }
@@ -3170,8 +3186,12 @@ function woostify_filter_header() {
 
 function woostify_filter_shop() {
 	$filter = array(
-		'free' => __( 'Free', 'woostify-sites-library' ),
-		'pro'  => __( 'Pro', 'woostify-sites-library' ),
+		'shop' => __( 'Shop', 'woostify-sites-library' ),
+		'shopsingle' => __( 'Shop Single', 'woostify-sites-library' ),
+		'cart' => __( 'Cart', 'woostify-sites-library' ),
+		'checkout' => __( 'Check Out', 'woostify-sites-library' ),
+		'myaccount' => __( 'My Account', 'woostify-sites-library' ),
+		'thankyou' => __( 'Thank You', 'woostify-sites-library' ),
 	);
 	return $filter;
 }
