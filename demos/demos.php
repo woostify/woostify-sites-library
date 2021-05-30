@@ -3137,7 +3137,6 @@ function woostify_collect_post_id()
 
 function woostify_filter_section() {
 	$filter = array(
-		'testimonial' => __( 'Testimonial', 'woostify-sites-library' ),
 		'free' => __( 'Free', 'woostify-sites-library' ),
 		'pro'  => __( 'Pro', 'woostify-sites-library' ),
 	);

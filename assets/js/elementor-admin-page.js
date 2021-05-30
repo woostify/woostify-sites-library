@@ -33,9 +33,6 @@
 				var id = $( '#woostify-demo-data' ).val();
 				var type = $('#woostify-demo-type').val();
 				var page = $( '#woostify-demo-page' ).val();
-
-				console.log( index );
-
 				var btn = $(this);
 				var data     = {
 					action: 'woostify_import_template',//woostify_modal_template

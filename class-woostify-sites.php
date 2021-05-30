@@ -2890,6 +2890,7 @@ class Woostify_Sites {
 	}
 
 	public function setting_screen() {
+		$demo_template = woostify_sites_local_import_files();
 		?>
 		<div id="woostify-site-template-page" class="woostify-site-template-page">
 			<div class="woostify-template-wrapper">
@@ -2911,6 +2912,17 @@ class Woostify_Sites {
 											<div class="filter-category">
 												<div class="filter-category-wrapper">
 													<span id="filter-category-selected" class="filter-category-selected"><?php echo esc_html__( 'All', 'woostify-sites-library' ) ?></span>
+													<ul class="list-sort">
+														<li class="sortby-item" slug="">
+															<?php echo esc_html__( 'All', 'woostify-sites-library' ); ?>
+														</li>
+														<li class="sortby-item" slug="<?php echo esc_attr( 'free' ); ?>">
+															<?php echo esc_html__( 'Free', 'woostify-sites-library' ); ?>
+														</li>
+														<li class="sortby-item" slug="<?php echo esc_attr( 'pro' ); ?>">
+															<?php echo esc_html__( 'Pro', 'woostify-sites-library' ); ?>
+														</li>
+													</ul>
 												</div>
 											</div>
 											<div class="input-filter">
@@ -2935,6 +2947,38 @@ class Woostify_Sites {
 						</div>
 					</div>
 				</div>
+
+				<div class="woostify-template-body">
+					<div id="woostify-demo-theme" class="woostify-demo-theme woostify-demo-template">
+						<div class="list-demo-template">
+							<?php foreach ( $demo_template as $demo ): ?>
+								<div class="template-item" demo-id="<?php echo $demo['id']; ?>">
+									<div class="item-template-wrapper">
+										<div class="template-image">
+											<img src="<?php echo esc_url( $demo['import_preview_image_url'] ) ?>" alt="<?php echo esc_attr( $demo['import_file_name'] ); ?>">
+											<?php if ( $demo['type'] == 'pro' ): ?>
+												<span class="pro-lable"><?php echo esc_html__( 'Pro', 'woostify-sites-library' ); ?></span>
+											<?php endif ?>
+										</div>
+										<div class="item-template-info">
+											<div class="info-wrapper">
+												<div class="template-name">
+													<span class="demo-name">
+														<?php echo esc_html( $demo['import_file_name'] ) ?>
+													</span>
+												</div>
+												<div class="wishlist">
+													<span class="ion-heart"></span>
+												</div>
+											</div>
+										</div>
+									</div>
+								</div>
+							<?php endforeach ?>
+						</div>
+					</div>
+
+				</div>
 			</div>
 		</div>
 		<?php
@@ -2946,6 +2990,26 @@ class Woostify_Sites {
 			WOOSTIFY_SITES_URI . 'assets/css/admin.css',
 			array( 'wp-admin' ),
 			'1.0.0'
+		);
+
+		wp_enqueue_script(
+			'woostify-admin-template-scripts',
+			WOOSTIFY_SITES_URI . 'assets/js/admin.js',
+			array( 'jquery-core' ),
+			'1.0.0',
+			true,
+		);
+
+		$admin_vars = array(
+			'url'          => admin_url( 'admin-ajax.php' ),
+			'nonce'        => wp_create_nonce( 'woostify_admin_template_nonce' ),
+			'redirect_url' => '/',
+		);
+
+		wp_localize_script(
+			'woostify-admin-template-scripts',
+			'admin',
+			$admin_vars,
 		);
 	}
 }
