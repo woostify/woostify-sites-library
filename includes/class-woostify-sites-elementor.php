@@ -280,7 +280,7 @@ class Woostify_Sites_Elementor {
 					</div>
 					<div class="elementor-templates-modal__header__menu-area">
 						<div id="woostify-template-library-header-menu" class="woostify-template-library-header-menu">
-							<?php 
+							<?php
 								foreach ($types as $key => $value):
 									$active = '';
 									if ( $key == $template_type ):
@@ -332,7 +332,7 @@ class Woostify_Sites_Elementor {
 						?>
 						<div class="<?php echo esc_attr( $class ); ?>" data-id="<?php echo esc_attr( $demo['id'] ); ?>" data-type="<?php echo esc_attr( $template_type ); ?>">
 							<div class="elementor-template-library-template-body">
-								<div class="template-screenshot elementor-template-library-template-screenshot" style="background-image: url(<?php echo esc_url( $demo['import_preview_image_url'] ); ?>);">
+								<div class="template-screenshot elementor-template-library-template-screenshot">
 									<img src="<?php echo esc_url( $demo['import_preview_image_url'] ); ?>" alt="">
 									<div class="elementor-template-library-template-preview <?php echo esc_attr( $type ); ?>">
 										<i class="eicon-zoom-in" aria-hidden="true"></i>
@@ -607,7 +607,7 @@ class Woostify_Sites_Elementor {
 					</div>
 					<div class="elementor-templates-modal__header__menu-area">
 						<div id="woostify-template-library-header-menu" class="woostify-template-library-header-menu">
-							<?php 
+							<?php
 								foreach ($types as $key => $value):
 									$active = '';
 									if ( $key == $type ):
@@ -728,7 +728,7 @@ class Woostify_Sites_Elementor {
 					</div>
 					<div class="elementor-templates-modal__header__menu-area">
 						<div id="woostify-template-library-header-menu" class="woostify-template-library-header-menu">
-							<?php 
+							<?php
 								foreach ($types as $key => $value):
 									$active = '';
 									if ( $key == 'pages' ):
