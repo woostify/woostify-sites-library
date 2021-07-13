@@ -3407,3 +3407,13 @@
 .appearance_page_import-template-setting .woostify-demo-template .list-template-demo .page-item .template-image {
 	max-height: 150px;
 }
+
+.appearance_page_import-template-setting .woostify-demo-template .preview-iframe {
+	border-radius: 2px;
+	-webkit-box-shadow: 0 0 16px 0 rgba(0, 0, 0, 0.12);
+	box-shadow: 0 0 16px 0 rgba(0, 0, 0, 0.12);
+	height: 100vh;
+	margin-right: 4em;
+	max-height: calc(100vh - 280px);
+	overflow-y: auto;
+}
