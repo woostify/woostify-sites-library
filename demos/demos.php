@@ -1793,6 +1793,16 @@ function woostify_sites_section() {
 		),
 
 		array(
+			'id'                       => 118,
+			'import_file_name'         => 'Contact v25',
+			'import_preview_image_url' => WOOSTIFY_SITES_URI . 'demos/images-blocks/contactv25.jpg',
+			'preview_url'              => 'https://demo.woostify.com/section-demo/',
+			'type'                     => 'contact',
+			'page_builder'             => 'elementor',
+			'font_page'                => 7219,
+		),
+
+		array(
 			'id'                       => 119,
 			'import_file_name'         => 'Testimonial v1',
 			'import_preview_image_url' => WOOSTIFY_SITES_URI . 'demos/images-blocks/Block-v22.jpg',
@@ -2040,6 +2050,16 @@ function woostify_sites_section() {
 			'type'                     => 'brand',
 			'page_builder'             => 'elementor',
 			'font_page'                => 5375,
+		),
+
+		array(
+			'id'                       => 144,
+			'import_file_name'         => 'Contact v24',
+			'import_preview_image_url' => WOOSTIFY_SITES_URI . 'demos/images-blocks/contactv24.jpg',
+			'preview_url'              => 'https://demo.woostify.com/section-demo/',
+			'type'                     => 'contact',
+			'page_builder'             => 'elementor',
+			'font_page'                => 7182,
 		),
 
 		array(
@@ -2461,10 +2481,10 @@ function woostify_sites_section() {
 
 		array(
 			'id'                       => 187,
-			'import_file_name'         => 'Banner v55',
+			'import_file_name'         => 'Call To Action v5',
 			'import_preview_image_url' => WOOSTIFY_SITES_URI . 'demos/images-blocks/banner_v55.jpg',
 			'preview_url'              => 'https://demo.woostify.com/section-demo/',
-			'type'                     => 'banner',
+			'type'                     => 'call-to-action',
 			'page_builder'             => 'elementor',
 			'font_page'                => 6122,
 		),
@@ -2481,40 +2501,40 @@ function woostify_sites_section() {
 
 		array(
 			'id'                       => 189,
-			'import_file_name'         => 'Banner v56',
+			'import_file_name'         => 'Call To Action v1',
 			'import_preview_image_url' => WOOSTIFY_SITES_URI . 'demos/images-blocks/banner_v56.jpg',
 			'preview_url'              => 'https://demo.woostify.com/section-demo/',
-			'type'                     => 'banner',
+			'type'                     => 'call-to-action',
 			'page_builder'             => 'elementor',
 			'font_page'                => 6129,
 		),
 
 		array(
 			'id'                       => 190,
-			'import_file_name'         => 'Banner v57',
+			'import_file_name'         => 'Call To Action v2',
 			'import_preview_image_url' => WOOSTIFY_SITES_URI . 'demos/images-blocks/banner_v57.jpg',
 			'preview_url'              => 'https://demo.woostify.com/section-demo/',
-			'type'                     => 'banner',
+			'type'                     => 'call-to-action',
 			'page_builder'             => 'elementor',
 			'font_page'                => 6180,
 		),
 
 		array(
 			'id'                       => 191,
-			'import_file_name'         => 'Banner v58',
+			'import_file_name'         => 'Call To Action v3',
 			'import_preview_image_url' => WOOSTIFY_SITES_URI . 'demos/images-blocks/banner_v58.jpg',
 			'preview_url'              => 'https://demo.woostify.com/section-demo/',
-			'type'                     => 'banner',
+			'type'                     => 'call-to-action',
 			'page_builder'             => 'elementor',
 			'font_page'                => 6189,
 		),
 
 		array(
 			'id'                       => 192,
-			'import_file_name'         => 'Banner v59',
+			'import_file_name'         => 'Call To Action v4',
 			'import_preview_image_url' => WOOSTIFY_SITES_URI . 'demos/images-blocks/banner_v59.jpg',
 			'preview_url'              => 'https://demo.woostify.com/section-demo/',
-			'type'                     => 'banner',
+			'type'                     => 'call-to-action',
 			'page_builder'             => 'elementor',
 			'font_page'                => 6234,
 		),
@@ -2619,7 +2639,38 @@ function woostify_sites_section() {
 			'font_page'                => 6608,
 		),
 
+		array(
+			'id'                       => 203,
+			'import_file_name'         => 'Contact v21',
+			'import_preview_image_url' => WOOSTIFY_SITES_URI . 'demos/images-blocks/contactv21.jpg',
+			'preview_url'              => 'https://demo.woostify.com/section-demo/',
+			'type'                     => 'contact',
+			'page_builder'             => 'elementor',
+			'font_page'                => 7065,
+		),
+
+		array(
+			'id'                       => 204,
+			'import_file_name'         => 'Contact v22',
+			'import_preview_image_url' => WOOSTIFY_SITES_URI . 'demos/images-blocks/contactv22.jpg',
+			'preview_url'              => 'https://demo.woostify.com/section-demo/',
+			'type'                     => 'contact',
+			'page_builder'             => 'elementor',
+			'font_page'                => 7106,
+		),
+
+		array(
+			'id'                       => 205,
+			'import_file_name'         => 'Contact v23',
+			'import_preview_image_url' => WOOSTIFY_SITES_URI . 'demos/images-blocks/contactv23.jpg',
+			'preview_url'              => 'https://demo.woostify.com/section-demo/',
+			'type'                     => 'contact',
+			'page_builder'             => 'elementor',
+			'font_page'                => 7138,
+		),
+
 	);
+
 }
 
 function woostify_sites_footer() {
