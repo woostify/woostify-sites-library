@@ -188,3 +188,7 @@
 	background: url("../images/logo-icon.png");
 	display: block;
 }
+
+.elementor-add-section-area-button.elementor-add-woostify-site-button {
+	background: #4744b7;
+}

@@ -9,7 +9,7 @@
 		if ( addSectionTmpl.length > 0 ) {
 			let actionForAddSection = addSectionTmpl.text();
 			let stylesheet = '';
-			actionForAddSection = actionForAddSection.replace( '<div class="elementor-add-section-drag-title', stylesheet + '<div class="elementor-add-section-area-button elementor-add-woostify-site-button" style="background: url('+ admin.icon +'); background-size: contain; margin-left: 5px; "> <i class="eicon-folder" style="opacity: 0"></i> </div><div class="elementor-add-section-drag-title' );
+			actionForAddSection = actionForAddSection.replace( '<div class="elementor-add-section-drag-title', stylesheet + '<div class="elementor-add-section-area-button elementor-add-woostify-site-button" style="background:#4744b7; margin-left: 5px; position: relative; top: 3px;"><img height="18" width="18" src="http://demo.woostify.com/wp-content/uploads/2021/07/icon-logo.svg"/><i class="eicon-folder" style="display: none"></i> </div><div class="elementor-add-section-drag-title' );
 			addSectionTmpl.text( actionForAddSection );
 		}
 		elementor.on( "preview:loaded", function() {

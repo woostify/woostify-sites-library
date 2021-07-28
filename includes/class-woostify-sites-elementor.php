@@ -271,8 +271,8 @@ class Woostify_Sites_Elementor {
 				<div class="elementor-templates-modal__header">
 					<div class="elementor-templates-modal__header__logo-area">
 						<div class="elementor-templates-modal__header__logo">
-							<span class="elementor-templates-modal__header__logo__icon-wrapper e-logo-wrapper">
-								<i class="eicon-elementor"></i>
+							<span class="elementor-templates-modal__header__logo__icon-wrapper e-logo-wrapper" style="background: #4744b7; width: 35px;">
+								<img height="15" width="15" src="http://demo.woostify.com/wp-content/uploads/2021/07/icon-logo.svg" style="margin-left: 1px;"/>
 							</span>
 							<span class="elementor-templates-modal__header__logo__title"><?php echo esc_html__( 'Library', 'woostify-sites-library' ) ?></span>
 						</div>
@@ -719,7 +719,7 @@ class Woostify_Sites_Elementor {
 				<div class="elementor-templates-modal__header">
 					<div class="elementor-templates-modal__header__logo-area">
 						<div class="elementor-templates-modal__header__logo">
-							<span class="elementor-templates-modal__header__logo__icon-wrapper e-logo-wrapper">
+							<span class="elementor-templates-modal__header__logo__icon-wrapper e-logo-wrapper" style="background: #4744b7;">
 								<i class="eicon-elementor"></i>
 							</span>
 							<span class="elementor-templates-modal__header__logo__title"><?php echo esc_html__( 'Library', 'woostify-sites-library' ) ?></span>
