@@ -131,7 +131,7 @@ function woostify_sites_local_import_files() {
 				'11' => array(
 					'title'   => 'Home',
 					'id'      => 11,
-					'preview' => WOOSTIFY_SITES_URI . 'demos/demo-4/demo4.png',
+					'preview' => WOOSTIFY_SITES_URI . 'demos/demo-4/demo-4.jpg',
 
 				),
 				'201' => array(
@@ -268,18 +268,18 @@ function woostify_sites_local_import_files() {
 			'page_builder'                 => 'elementor',
 			'font_page'                    => 11,
 			'page'                         => array(
-				'1' => array(
+				'11' => array(
 					'title'   => 'Home',
 					'id'      => 11,
 					'preview' => WOOSTIFY_SITES_URI . 'demos/demo-8/demo-7.png',
 
 				),
-				'2' => array(
+				'201' => array(
 					'title'   => 'Contact',
 					'id'      => 201,
 					'preview' => WOOSTIFY_SITES_URI . 'demos/demo-8/contact.jpg',
 				),
-				'3' => array(
+				'199' => array(
 					'title'   => 'About Us',
 					'id'      => 199,
 					'preview' => WOOSTIFY_SITES_URI . 'demos/demo-8/about.jpg',
@@ -303,18 +303,18 @@ function woostify_sites_local_import_files() {
 			'page_builder'                 => 'elementor',
 			'font_page'                    => 1403,
 			'page'                         => array(
-				'1' => array(
+				'1403' => array(
 					'title'   => 'Home',
 					'id'      => 1403,
 					'preview' => WOOSTIFY_SITES_URI . 'demos/demo-9/demo-9.png',
 
 				),
-				'2' => array(
+				'790' => array(
 					'title'   => 'Contact',
 					'id'      => 790,
 					'preview' => WOOSTIFY_SITES_URI . 'demos/demo-9/contact.jpg',
 				),
-				'3' => array(
+				'740' => array(
 					'title'   => 'About Us',
 					'id'      => 740,
 					'preview' => WOOSTIFY_SITES_URI . 'demos/demo-9/about.jpg',
@@ -338,18 +338,18 @@ function woostify_sites_local_import_files() {
 			'page_builder'                 => 'elementor',
 			'font_page'                    => 1600,
 			'page'                         => array(
-				'1' => array(
+				'1600' => array(
 					'title'   => 'Home',
 					'id'      => 1600,
 					'preview' => WOOSTIFY_SITES_URI . 'demos/demo-10/demo-10.png',
 
 				),
-				'2' => array(
+				'790' => array(
 					'title'   => 'Contact',
 					'id'      => 790,
 					'preview' => WOOSTIFY_SITES_URI . 'demos/demo-10/contact.jpg',
 				),
-				'3' => array(
+				'740' => array(
 					'title'   => 'About Us',
 					'id'      => 740,
 					'preview' => WOOSTIFY_SITES_URI . 'demos/demo-10/about.jpg',
@@ -373,18 +373,18 @@ function woostify_sites_local_import_files() {
 			'page_builder'                 => 'elementor',
 			'font_page'                    => 11,
 			'page'                         => array(
-				'1' => array(
+				'11' => array(
 					'title'   => 'Home',
 					'id'      => 11,
 					'preview' => WOOSTIFY_SITES_URI . 'demos/demo-11/demo-11.png',
 
 				),
-				'2' => array(
+				'201' => array(
 					'title'   => 'Contact',
 					'id'      => 201,
 					'preview' => WOOSTIFY_SITES_URI . 'demos/demo-11/contact.jpg',
 				),
-				'3' => array(
+				'199' => array(
 					'title'   => 'About Us',
 					'id'      => 199,
 					'preview' => WOOSTIFY_SITES_URI . 'demos/demo-11/about.jpg',
@@ -408,18 +408,18 @@ function woostify_sites_local_import_files() {
 			'page_builder'                 => 'elementor',
 			'font_page'                    => 11,
 			'page'                         => array(
-				'1' => array(
+				'11' => array(
 					'title'   => 'Home',
 					'id'      => 11,
 					'preview' => WOOSTIFY_SITES_URI . 'demos/demo-12/demo-12.png',
 
 				),
-				'2' => array(
+				'201' => array(
 					'title'   => 'Contact',
 					'id'      => 201,
 					'preview' => WOOSTIFY_SITES_URI . 'demos/demo-12/contact.jpg',
 				),
-				'3' => array(
+				'199' => array(
 					'title'   => 'About Us',
 					'id'      => 199,
 					'preview' => WOOSTIFY_SITES_URI . 'demos/demo-12/about.jpg',
@@ -473,18 +473,18 @@ function woostify_sites_local_import_files() {
 			'page_builder'                 => 'elementor',
 			'font_page'                    => 11,
 			'page'                         => array(
-				'1' => array(
+				'11' => array(
 					'title'   => 'Home',
 					'id'      => 11,
 					'preview' => WOOSTIFY_SITES_URI . 'demos/demo-14/demo-14.png',
 
 				),
-				'2' => array(
+				'201' => array(
 					'title'   => 'Contact',
 					'id'      => 201,
 					'preview' => WOOSTIFY_SITES_URI . 'demos/demo-14/contact.jpg',
 				),
-				'3' => array(
+				'1347' => array(
 					'title'   => 'About Us',
 					'id'      => 1347,
 					'preview' => WOOSTIFY_SITES_URI . 'demos/demo-14/about.jpg',
@@ -510,18 +510,18 @@ function woostify_sites_local_import_files() {
 			'page_builder'                 => 'elementor',
 			'font_page'                    => 11,
 			'page'                         => array(
-				'1' => array(
+				'11' => array(
 					'title'   => 'Home',
 					'id'      => 11,
 					'preview' => WOOSTIFY_SITES_URI . 'demos/demo-15/demo-15.png',
 
 				),
-				'2' => array(
+				'201' => array(
 					'title'   => 'Contact',
 					'id'      => 201,
 					'preview' => WOOSTIFY_SITES_URI . 'demos/demo-15/contact.jpg',
 				),
-				'3' => array(
+				'1347' => array(
 					'title'   => 'About Us',
 					'id'      => 1347,
 					'preview' => WOOSTIFY_SITES_URI . 'demos/demo-15/about.jpg',
@@ -545,18 +545,18 @@ function woostify_sites_local_import_files() {
 			'page_builder'                 => 'elementor',
 			'font_page'                    => 556,
 			'page'                         => array(
-				'1' => array(
+				'556' => array(
 					'title'   => 'Home',
 					'id'      => 556,
 					'preview' => WOOSTIFY_SITES_URI . 'demos/demo-16/demo-16.png',
 
 				),
-				'2' => array(
+				'473' => array(
 					'title'   => 'Contact',
 					'id'      => 473,
 					'preview' => WOOSTIFY_SITES_URI . 'demos/demo-16/contact.jpg',
 				),
-				'3' => array(
+				'398' => array(
 					'title'   => 'About Us',
 					'id'      => 398,
 					'preview' => WOOSTIFY_SITES_URI . 'demos/demo-16/about.jpg',
@@ -579,18 +579,18 @@ function woostify_sites_local_import_files() {
 			'page_builder'                 => 'elementor',
 			'font_page'                    => 182,
 			'page'                         => array(
-				'1' => array(
+				'182' => array(
 					'title'   => 'Home',
 					'id'      => 182,
 					'preview' => WOOSTIFY_SITES_URI . 'demos/demo-17/demo-17.png',
 
 				),
-				'2' => array(
+				'305' => array(
 					'title'   => 'Contact',
 					'id'      => 305,
 					'preview' => WOOSTIFY_SITES_URI . 'demos/demo-17/contact.jpg',
 				),
-				'3' => array(
+				'232' => array(
 					'title'   => 'About Us',
 					'id'      => 232,
 					'preview' => WOOSTIFY_SITES_URI . 'demos/demo-17/about.jpg',

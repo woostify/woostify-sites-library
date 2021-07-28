@@ -638,7 +638,7 @@ class Woostify_Sites_Elementor {
 						<div class="woostify-tempalte-item template-builder-elementor elementor-template-library-template-page elementor-template-library-template-remote <?php echo esc_attr( $is_pro ); ?>" data-page="<?php echo esc_attr( $page['id'] ); ?>" data-id="<?php echo esc_attr( $id ); ?>" data-type="<?php echo esc_attr( $type ); ?>">
 							<div class="elementor-template-library-template-body">
 								<div class="template-screenshot elementor-template-library-template-screenshot" >
-									<img src="<?php echo esc_url( $demo['import_preview_image_url'] ); ?>" alt="<?php echo esc_attr( $demo['import_file_name'] ); ?>">
+									<img src="<?php echo esc_url( $page['preview'] ); ?>" alt="<?php echo esc_attr( $demo['import_file_name'] ); ?>">
 									<div class="elementor-template-library-template-preview woostify-template-library-template-preview">
 										<i class="eicon-zoom-in" aria-hidden="true"></i>
 									</div>
