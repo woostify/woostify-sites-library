@@ -271,8 +271,8 @@ class Woostify_Sites_Elementor {
 				<div class="elementor-templates-modal__header">
 					<div class="elementor-templates-modal__header__logo-area">
 						<div class="elementor-templates-modal__header__logo">
-							<span class="elementor-templates-modal__header__logo__icon-wrapper e-logo-wrapper">
-								<i class="eicon-elementor"></i>
+							<span class="elementor-templates-modal__header__logo__icon-wrapper e-logo-wrapper" style="background: #4744b7; width: 35px;">
+								<img height="15" width="15" src="http://demo.woostify.com/wp-content/uploads/2021/07/icon-logo.svg" style="margin-left: 1px;"/>
 							</span>
 							<span class="elementor-templates-modal__header__logo__title"><?php echo esc_html__( 'Library', 'woostify-sites-library' ) ?></span>
 						</div>
@@ -637,7 +637,7 @@ class Woostify_Sites_Elementor {
 						<div class="woostify-tempalte-item template-builder-elementor elementor-template-library-template-page elementor-template-library-template-remote <?php echo esc_attr( $is_pro ); ?>" data-page="<?php echo esc_attr( $page['id'] ); ?>" data-id="<?php echo esc_attr( $id ); ?>" data-type="<?php echo esc_attr( $type ); ?>">
 							<div class="elementor-template-library-template-body">
 								<div class="template-screenshot elementor-template-library-template-screenshot" >
-									<img src="<?php echo esc_url( $demo['import_preview_image_url'] ); ?>" alt="<?php echo esc_attr( $demo['import_file_name'] ); ?>">
+									<img src="<?php echo esc_url( $page['preview'] ); ?>" alt="<?php echo esc_attr( $demo['import_file_name'] ); ?>">
 									<div class="elementor-template-library-template-preview woostify-template-library-template-preview">
 										<i class="eicon-zoom-in" aria-hidden="true"></i>
 									</div>
@@ -718,7 +718,7 @@ class Woostify_Sites_Elementor {
 				<div class="elementor-templates-modal__header">
 					<div class="elementor-templates-modal__header__logo-area">
 						<div class="elementor-templates-modal__header__logo">
-							<span class="elementor-templates-modal__header__logo__icon-wrapper e-logo-wrapper">
+							<span class="elementor-templates-modal__header__logo__icon-wrapper e-logo-wrapper" style="background: #4744b7;">
 								<i class="eicon-elementor"></i>
 							</span>
 							<span class="elementor-templates-modal__header__logo__title"><?php echo esc_html__( 'Library', 'woostify-sites-library' ) ?></span>
