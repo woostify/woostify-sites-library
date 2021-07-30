@@ -9,11 +9,9 @@
 		if ( addSectionTmpl.length > 0 ) {
 			let actionForAddSection = addSectionTmpl.text();
 			let stylesheet = '';
-			actionForAddSection = actionForAddSection.replace( '<div class="elementor-add-section-drag-title', stylesheet + '<div class="elementor-add-section-area-button elementor-add-woostify-site-button" style="background-color: #333333;"> <i class="eicon-folder"></i> </div><div class="elementor-add-section-drag-title' );
+			actionForAddSection = actionForAddSection.replace( '<div class="elementor-add-section-drag-title', stylesheet + '<div class="elementor-add-section-area-button elementor-add-woostify-site-button" style="background:#4744b7; margin-left: 5px; position: relative; top: 3px;"><img height="18" width="18" src="http://demo.woostify.com/wp-content/uploads/2021/07/icon-logo.svg"/><i class="eicon-folder" style="display: none"></i> </div><div class="elementor-add-section-drag-title' );
 			addSectionTmpl.text( actionForAddSection );
 		}
-
-
 		elementor.on( "preview:loaded", function() {
 			var editer = elementor.$previewContents[0].body;
 			$(editer).on( 'click', '.elementor-add-woostify-site-button', function(e) {
@@ -33,9 +31,6 @@
 				var id = $( '#woostify-demo-data' ).val();
 				var type = $('#woostify-demo-type').val();
 				var page = $( '#woostify-demo-page' ).val();
-
-				console.log( index );
-
 				var btn = $(this);
 				var data     = {
 					action: 'woostify_import_template',//woostify_modal_template
@@ -187,7 +182,7 @@
 			}
 			if ( step == 3 ) {
 				var type = $('body').find('#woostify-demo-type').val();
-				if ( type == 'block' ) {
+				if ( type != 'pages' ) {
 					showTemplate(type);
 				} else {
 					var id = $('body').find('#woostify-demo-data').val();

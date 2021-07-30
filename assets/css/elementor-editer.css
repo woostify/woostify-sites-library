@@ -19,6 +19,10 @@
 
 .wooostify-template-library-templates-container .woostify-template-wrapper img {
 	max-width: 100%;
+	width: 100%;
+	height: 100%;
+	object-fit: cover;
+
 }
 
 .wooostify-template-library-templates-container .woostify-template-wrapper .image-wrapper {
@@ -124,6 +128,7 @@
 }
 
 .woostify-template-library-favorite .woostify-favorite-template-input {
+	cursor: pointer;
 	opacity: 0;
 	position: absolute;
 	z-index: 1;
@@ -168,4 +173,36 @@
 .item-header {
 	padding: 0 20px;
 	text-transform: uppercase;
+}
+
+.elementor-template-library-template-pages .elementor-template-library-template-body {
+	height: 200px;
+	overflow: hidden;
+}
+
+.elementor-template-library-template-remote .elementor-template-library-template-screenshot {
+	min-height: 45px;
+}
+
+.no-favorite {
+	display: block;
+	padding: 20px 20px 20px 50px;
+}
+
+.elementor-add-woostify-site-button {
+	background: url("../images/logo-icon.png");
+	display: block;
+}
+
+.elementor-template-library-template-remote.elementor-template-library-pro-template .elementor-template-library-template-body:before {
+	background-color: #4744b7;
+	border-radius: 2px;
+	color: #ffffff;
+	content: "Pro";
+	font-size: 9px;
+	padding: 2px 4px 0;
+	position: absolute;
+	right: 5px;
+	text-transform: uppercase;
+	top: 5px;
 }

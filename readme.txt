@@ -1,5 +1,5 @@
 === Woostify Sites Library ===
-Contributors: woostify
+Contributors: woostify, ptp
 Tags: demo, theme demos, one click import
 Requires at least: 4.4
 Requires PHP: 5.6

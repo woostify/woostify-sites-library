@@ -107,6 +107,7 @@
         position: absolute;
         z-index: 1;
         opacity: 0;
+        cursor: pointer;
     }
 
     .favorite-label {
@@ -140,4 +141,41 @@
 .item-header {
     padding: 0 20px;
     text-transform: uppercase;
+}
+
+.elementor-template-library-template-pages {
+
+    .elementor-template-library-template-body {
+        height: 200px;
+        overflow: hidden;
+    }
+}
+
+.elementor-template-library-template-remote .elementor-template-library-template-screenshot {
+    min-height: 45px;
+}
+
+.no-favorite {
+    display: block;
+    padding: 20px 20px 20px 50px;
+}
+
+
+.elementor-add-woostify-site-button {
+    background: url('../images/logo-icon.png');
+    display: block;
+}
+
+.elementor-template-library-template-remote.elementor-template-library-pro-template .elementor-template-library-template-body:before {
+    content: "Pro";
+    background-color: #93003c;
+    color: #d5dadf;
+    position: absolute;
+    text-transform: uppercase;
+    top: 5px;
+    right: 5px;
+    padding: 2px 4px 0;
+    font-size: 9px;
+    -webkit-border-radius: 2px;
+    border-radius: 2px;
 }
