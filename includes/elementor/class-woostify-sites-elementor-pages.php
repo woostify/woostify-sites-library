@@ -93,7 +93,7 @@ class Woostify_Sites_Elementor_Pages extends Source_Local {
 			update_metadata( 'post', $post_id, '_elementor_data', $data );
 
 			// !important, Clear the cache after images import.
-			Plugin::$instance->posts_css_manager->clear_cache();
+			\Elementor\Plugin::$instance->files_manager->clear_cache();
 
 			return $data;
 		}
