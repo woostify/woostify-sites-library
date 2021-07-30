@@ -20,7 +20,7 @@ var translatePath           = './languages/' + destFile;
 var translatableFiles       = ['./**/*.php', '!merlin-config-sample.php', '!merlin-filters-sample.php' ];
 
 // Styles.
-var merlinStyleSRC          = ['./assets/scss/woostify-sites.scss', './assets/scss/elementor-editer.scss']; // Path to main .scss file.
+var merlinStyleSRC          = ['./assets/scss/woostify-sites.scss', './assets/scss/elementor-editer.scss', './assets/scss/elementor-preview.scss', './assets/scss/admin.scss']; // Path to main .scss file.
 var merlinStyleDestination  = './assets/css/'; // Path to place the compiled CSS file.
 var merlinCssFiles          = './assets/css/**/*.css'; // Path to main .scss file.
 var merlinStyleWatchFiles   = './assets/scss/**/*.scss'; // Path to all *.scss files inside css folder and inside them.
@@ -78,7 +78,7 @@ var sort         = require('gulp-sort');
 var uglify       = require('gulp-uglify');
 var wpPot        = require('gulp-wp-pot');
 var zip          = require('gulp-zip');
-var composer     = require('gulp-composer');
+// var composer     = require('gulp-composer');
 
 /**
  * Development Tasks.
@@ -150,9 +150,9 @@ gulp.task( 'default', ['clear', 'styles', 'scripts', 'browser_sync' ], function 
 	gulp.watch( merlinStyleWatchFiles, [ 'styles' ] );
 });
 
-gulp.task("composer", function () {
-	composer({ "async": false });
-});
+// gulp.task("composer", function () {
+// 	composer({ "async": false });
+// });
 
 /**
  * Build Tasks.
@@ -180,10 +180,10 @@ gulp.task( 'build-clean', function () {
 		.pipe(cleaner());
 });
 
-gulp.task( 'build-copy', ['build-clean', 'composer'], function() {
-	return gulp.src( buildFiles )
-		.pipe( copy( buildDestination ) );
-});
+// gulp.task( 'build-copy', ['build-clean', 'composer'], function() {
+// 	return gulp.src( buildFiles )
+// 		.pipe( copy( buildDestination ) );
+// });
 
 gulp.task( 'build-clean-and-copy', ['build-clean', 'build-copy' ], function () { } );
 
