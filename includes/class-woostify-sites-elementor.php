@@ -411,10 +411,6 @@ class Woostify_Sites_Elementor {
 									<div id="woostify-template-library-header-import" class="elementor-templates-modal__header__item">
 										<span class="button-text"><?php echo esc_html__( 'Import Template', 'woostify-sites-library' ); ?></span>
 									</div>
-
-									<div id="woostify-template-library-header-save" class="elementor-templates-modal__header__item">
-										<span class="button-text"><?php echo esc_html__( 'Save', 'woostify-sites-library' ); ?></span>
-									</div>
 								<?php endif ?>
 
 							</div>
