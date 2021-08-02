@@ -2612,10 +2612,10 @@ body.exiting .merlin__content--content .merlin__content__footer {
 	width: 0;
 }
 
-.js-merlin-progress-bar-percentage {
+.merlin__button .js-merlin-progress-bar-percentage {
 	bottom: 0;
 	color: #46b450;
-	display: none !important;
+	display: none;
 	left: 0;
 	line-height: 38px;
 	position: absolute;
@@ -2623,13 +2623,8 @@ body.exiting .merlin__content--content .merlin__content__footer {
 	top: 0;
 }
 
-.merlin__button--loading .js-merlin-progress-bar-percentage {
+.merlin__button--loading .merlin__button .js-merlin-progress-bar-percentage {
 	display: block !important;
-}
-
-.merlin__button--next[data-callback="install_content"] {
-	background: #f1f1f1;
-	display: none;
 }
 
 .merlin__select-control-wrapper {

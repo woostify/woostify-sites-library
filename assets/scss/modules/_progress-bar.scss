@@ -20,7 +20,7 @@
 	}
 }
 
-.js-merlin-progress-bar-percentage {
+.merlin__button .js-merlin-progress-bar-percentage {
 	position: absolute;
 	top: 0;
 	left: 0;
@@ -28,7 +28,7 @@
 	bottom: 0;
 	line-height: 38px;
 	color: $green;
-	display: none !important;
+	display: none;
 
 	.merlin__button--loading & {
 		display: block !important;
@@ -36,7 +36,3 @@
 }
 
 
-.merlin__button--next[data-callback="install_content"] {
-	display: none;
-	background: $background;
-}
