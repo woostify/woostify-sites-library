@@ -2989,15 +2989,15 @@ class Woostify_Sites {
 			'woostify_admin_site_template',
 			WOOSTIFY_SITES_URI . 'assets/css/admin.css',
 			array( 'wp-admin' ),
-			'1.0.0'
+			WOOSTIFY_SITES_VER
 		);
 
 		wp_enqueue_script(
 			'woostify-admin-template-scripts',
 			WOOSTIFY_SITES_URI . 'assets/js/admin.js',
 			array( 'jquery-core' ),
-			'1.0.0',
-			true,
+			WOOSTIFY_SITES_VER,
+			true
 		);
 
 		$admin_vars = array(
@@ -3009,7 +3009,7 @@ class Woostify_Sites {
 		wp_localize_script(
 			'woostify-admin-template-scripts',
 			'admin',
-			$admin_vars,
+			$admin_vars
 		);
 	}
 }
