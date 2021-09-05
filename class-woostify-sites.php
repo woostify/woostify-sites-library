@@ -599,6 +599,7 @@ class Woostify_Sites {
 
 		// Get the current step.
 		$current_step = strtolower( $this->steps[ $this->step ]['name'] );
+		header( 'Content-Type: ' . get_option( 'html_type' ) . '; charset=' . get_option( 'blog_charset' ) );
 		?>
 
 		<!DOCTYPE html>
@@ -609,7 +610,6 @@ class Woostify_Sites {
 			<?php printf( esc_html( $strings['title%s%s%s%s'] ), '<ti', 'tle>', esc_html( $this->theme->name ), '</title>' ); ?>
 			<?php do_action( 'admin_print_styles' ); ?>
 			<?php do_action( 'admin_enqueue_scripts' ); ?>
-			<?php do_action( 'admin_head' ); ?>
 			<?php do_action( 'admin_head' ); ?>
 		</head>
 		<body class="merlin__body merlin__body--<?php echo esc_attr( $current_step ); ?>">
