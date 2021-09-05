@@ -228,3 +228,70 @@
 	80% { transform: translate(2px); }
 	100% { transform: translate(0px); }
 }
+
+.woostify-pro-module .active-all-item {
+    background-color: #f8f8f8;
+    padding: 10px 1.5em;
+    border-bottom: 1px solid #e5e5e5;
+    border-left: 4px solid transparent;
+    display: flex;
+}
+
+.admin-product-filter [type="checkbox"], .woostify-options-wrap [type="checkbox"] {
+    position: relative;
+    border-radius: 2px;
+    border-width: 2px;
+}
+
+.woostify-pro-module .module-name label {
+    font-weight: 600;
+    font-size: 1em;
+    vertical-align: baseline;
+    margin-left: 5px;
+}
+
+.woostify-pro-module .module-item {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 1.5em;
+    border-bottom: 1px solid #e5e5e5;
+    border-left: 4px solid transparent;
+}
+
+.woostify-pro-module .module-item.activated {
+    background-color: #f7fcfe;
+}
+
+.woostify-pro-module .module-item.activated {
+    border-left-color: #72aee6;
+}
+
+.woostify-pro-module .module-action-button {
+    background-color: transparent;
+    border: 0;
+    cursor: pointer;
+    text-transform: capitalize;
+}
+
+.woostify-pro-module .module-item:not(.activated) .module-setting-url {
+    display: none;
+}
+
+.woostify-pro-module .module-setting-url {
+    margin-right: 5px;
+}
+
+.merlin__body--modules {
+    display: block;
+    margin: 0 auto;
+}
+
+.woostify-enhance__column {
+    width: 60%;
+    margin: 0 auto;
+}
+
+.merlin__button.disable {
+	display: none;
+}

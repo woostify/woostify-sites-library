@@ -618,7 +618,7 @@ function woostify_sites_section() {
 			'import_file_name'         => 'Banner v1',
 			'import_preview_image_url' => WOOSTIFY_SITES_URI . 'demos/images-blocks/Block-v1.jpg',
 			'preview_url'              => 'https://demo.woostify.com/section-demo/',
-			'type'                     => 'banner',
+			'type'                     => 'banner__free',
 			'page_builder'             => 'elementor',
 			'font_page'                => 4315,
 		),
@@ -628,7 +628,7 @@ function woostify_sites_section() {
 			'import_file_name'         => 'Banner v2',
 			'import_preview_image_url' => WOOSTIFY_SITES_URI . 'demos/images-blocks/Block-v4.jpg',
 			'preview_url'              => 'https://demo.woostify.com/section-demo/',
-			'type'                     => 'banner',
+			'type'                     => 'banner__pro',
 			'page_builder'             => 'elementor',
 			'font_page'                => 4330,
 		),
@@ -3179,7 +3179,7 @@ function woostify_collect_post_id()
 
 function woostify_filter_section() {
 	$filter = array(
-		'banner' => __( 'Banner', 'woostify-sites-library' ),
+		'banner__free' => __( 'Banner', 'woostify-sites-library' ),
 		'categories' => __( 'Categories', 'woostify-sites-library' ),
 		'call-to-action' => __( 'Call To Action', 'woostify-sites-library' ),
 		'product' => __( 'Product', 'woostify-sites-library' ),
