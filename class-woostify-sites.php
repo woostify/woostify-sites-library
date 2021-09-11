@@ -599,7 +599,6 @@ class Woostify_Sites {
 
 		// Get the current step.
 		$current_step = strtolower( $this->steps[ $this->step ]['name'] );
-		header( 'Content-Type: ' . get_option( 'html_type' ) . '; charset=' . get_option( 'blog_charset' ) );
 		?>
 
 		<!DOCTYPE html>
@@ -608,9 +607,9 @@ class Woostify_Sites {
 			<meta name="viewport" content="width=device-width"/>
 			<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
 			<?php printf( esc_html( $strings['title%s%s%s%s'] ), '<ti', 'tle>', esc_html( $this->theme->name ), '</title>' ); ?>
-			<?php do_action( 'admin_print_styles' ); ?>
-			<?php do_action( 'admin_enqueue_scripts' ); ?>
-			<?php do_action( 'admin_head' ); ?>
+			<?php //do_action( 'admin_print_styles' ); ?>
+			<?php //do_action( 'admin_enqueue_scripts' ); ?>
+			<?php //do_action( 'admin_head' ); ?>
 		</head>
 		<body class="merlin__body merlin__body--<?php echo esc_attr( $current_step ); ?>">
 		<?php
@@ -1244,12 +1243,13 @@ class Woostify_Sites {
 		// Strings passed in from the config file.
 		$strings      = $this->strings;
 		// Text strings.
-		$header       = $strings['import-header'];
+		$header       = __( 'Woostify Active Module' );
 		$skip         = $strings['btn-skip'];
-		$next         = $strings['btn-next'];
+		$next         = __( 'Active Modules', 'woostify-sites-library' );
 		$woostify_pro = new Woostify_Pro();
 		$modules      = $woostify_pro->woostify_pro_modules();
 		$nextClass = get_option( 'woostify_pro_fully_featured_activate' ) ? '' : 'disable';
+		$action    = $strings['import-action-link'];
 
 		?>
 		<div class="merlin__content--transition">
@@ -1263,83 +1263,64 @@ class Woostify_Sites {
 
 			<h1><?php echo esc_html( $header ); ?></h1>
 
+			<div class="step-description">
+				<span class="description"><?php echo esc_html__( 'Let\'s active some modules to get your site up to speed.', 'woostify-sites-library' ) ?></span>
+			</div>
+
 			<div class="woostify-enhance__column woostify-pro-module">
-				<h3 class="hndle">
-					<?php
-					/* translators: Woostify Pro Version */
-					echo esc_html( sprintf( __( 'Woostify Pro %s', 'woostify-sites-library' ), WOOSTIFY_PRO_VERSION ) );
-					?>
-				</h3>
+
+				<a id="merlin__drawer-trigger" class="merlin__button merlin__button--knockout">
+					<span><?php echo esc_html( $action ); ?></span><span class="chevron"></span>
+				</a>
 
 				<div class="woostify-module-list">
-					<div class="active-all-item">
-						<div class="module-name">
-							<input type="checkbox" id="woostify-select-all"/>
-
-							<select name="woostify_multi_module_activate" class="multi-module-action">
-								<option value=""><?php esc_html_e( 'Bulk Actions', 'woostify-sites-library' ); ?></option>
-								<option value="activated"><?php esc_html_e( 'Activate', 'woostify-sites-library' ); ?></option>
-								<option value="deactivated"><?php esc_html_e( 'Deactivate', 'woostify-sites-library' ); ?></option>
-							</select>
-
-							<button name="woostify_multi_activate"
-									class="button multi-module-action-button"><?php esc_html_e( 'Apply', 'woostify-sites-library' ); ?></button>
-						</div>
-					</div>
-
-					<?php
-					foreach ( $modules as $k => $v ) {
-						$key      = get_option( $k );
-						$label    = 'activated' === $key ? 'deactivate' : 'activate';
-						$title    = $v;
-						$disabled = '';
-
-						if ( is_array( $v ) ) {
-							$title = $v['title'];
-
-							if ( isset( $v['condition'] ) && ! $v['condition'] ) {
-								$label    = $v['error'];
-								$disabled = 'disabled';
-							}
-						}
-
-						$id = 'module-id-' . $k;
-						?>
-						<div class="module-item <?php echo esc_attr( $key ); ?> <?php echo esc_attr( $disabled ); ?>">
-							<div class="module-name">
-								<input type="checkbox" class="module-checkbox" name="woostify_module_checkbox[]"
-									   value="<?php echo esc_attr( $k ); ?>" id="<?php echo esc_attr( $id ); //phpcs:ignore?>"/>
-								<label for="<?php echo esc_attr( $id ); ?>">
-									<?php echo esc_html( $title ); ?>
-								</label>
-							</div>
-
-							<div class="module-action">
-								<?php if ( is_array( $v ) && $v['setting_url'] ) { ?>
-									<a class="module-setting-url"
-									   href="<?php echo esc_url( $v['setting_url'] ); ?>"><?php esc_html_e( 'Settings', 'woostify-sites-library' ); //phpcs:ignore ?></a>
-								<?php } ?>
-
-								<button class="module-action-button wp-ui-text-highlight"
-										data-value="<?php echo esc_attr( $key ); ?>"
-										data-name="<?php echo esc_attr( $k ); ?>"><?php echo esc_html( $label ); ?></button>
-							</div>
-						</div>
+					<ul class="merlin__drawer merlin__drawer--active-module">
 						<?php
-					}
-					?>
+						foreach ( $modules as $k => $v ) {
+							$key      = get_option( $k );
+							$label    = 'activated' === $key ? 'deactivate' : 'activate';
+							$title    = $v;
+							$disabled = '';
+
+							if ( is_array( $v ) ) {
+								$title = $v['title'];
+
+								if ( isset( $v['condition'] ) && ! $v['condition'] ) {
+									$label    = $v['error'];
+									$disabled = 'disabled';
+								}
+							}
+
+							$id = 'module-id-' . $k;
+							?>
+
+							<li class="merlin-active-module module-item">
+								<input type="checkbox" name="woostify_module_checkbox[]" class="checkbox checkbox-content module-checkbox" value="<?php echo esc_attr( $k ); ?>" id="<?php echo esc_attr( $id ); //phpcs:ignore?>" checked>
+								<label for="<?php echo esc_attr( $id ); //phpcs:ignore?>">
+									<i></i>
+									<span class="module-label"><?php echo esc_html( $title ); ?></span>
+								</label>
+							</li>
+							<?php
+						}
+						?>
+					</ul>
 				</div>
 			</div>
 		</div>
 
 		<form action="" method="post">
-
 			<footer class="merlin__content__footer">
 					<a id="skip" href="<?php echo esc_url( $this->step_next_link() ); ?>" class="merlin__button merlin__button--skip merlin__button--proceed"><?php echo esc_html( $skip ); ?></a>
 
-						<a href="<?php echo esc_url( $this->step_next_link() ); ?>" class="merlin__button merlin__button--next merlin__button--proceed merlin__button--colorchange js-select button-next <?php echo esc_attr( $nextClass ); ?>" data-callback="install_contents"><?php echo esc_html( $next ); ?></a>
+						<a href="<?php echo esc_url( $this->step_next_link() ); ?>" class="merlin__button merlin__button--next button-next multi-module-action-button" data-callback="active_modules">
+						<span class="merlin__button--loading__text"><?php echo esc_html( $next ); ?></span>
+							<div class="merlin__progress-bar">
+								<span class="js-merlin-progress-bar"></span>
+							</div>
 
-
+							<span class="js-merlin-progress-bar-percentage">0%</span>
+						</a>
 
 				<?php wp_nonce_field( 'woostify-sites' ); ?>
 
@@ -3152,12 +3133,11 @@ class Woostify_Sites {
 	public function woostify_ajax_module_action() {
 		check_ajax_referer( 'woostify_sites_nonce', 'ajax_nonce' );
 
-		if ( isset( $_POST['name'] ) && isset( $_POST['status'] ) ) {
+		if ( isset( $_POST['name'] ) ) {
 			$response = array();
 			$autoload = 'yes';
 			$name     = sanitize_text_field( wp_unslash( $_POST['name'] ) );
-			$status   = sanitize_text_field( wp_unslash( $_POST['status'] ) );
-			$status   = 'activated' === $status ? 'deactivated' : 'activated';
+			$status   = 'activated';
 
 			if ( ! update_option( $name, $status ) ) {
 				global $wpdb;

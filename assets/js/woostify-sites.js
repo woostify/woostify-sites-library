@@ -21,6 +21,10 @@ var Woostify_Sites = (function($){
         install_content: function(btn){
             var content = new ContentManager();
             content.init(btn);
+        },
+        active_modules: function(btn) {
+            var modules = new ModuleManager();
+            modules.init(btn);
         }
     };
 
@@ -858,6 +862,112 @@ var Woostify_Sites = (function($){
                 };
                 init_content_import_progress_bar();
                 find_next();
+            }
+        }
+    }
+
+    function ModuleManager(){
+
+        var body                = $('.merlin__body');
+        var complete;
+        var items_completed     = 0;
+        var current_item        = "";
+        var $current_node;
+        var current_item_hash   = "";
+        var current_content_import_items = 1;
+        var total_content_import_items = 0;
+        var progress_bar_interval;
+
+        function ajax_active( module_id, item ) {
+            var data     = {
+                action: 'woostify_sites_module_action',
+                ajax_nonce: woostify_sites_params.wpnonce,
+                name: module_id
+            };
+            item.next().addClass( 'installing' );
+            item.parent().addClass('installing');
+            $.ajax(
+                {
+                    type: 'POST',
+                    url: woostify_sites_params.ajaxurl,
+                    data: data,
+
+                    success: function (response) {
+                        item.next().addClass( 'success' );
+                        current_content_import_items++;
+                    },
+                    error: function () {
+                        item.next().addClass( 'error' );
+                    }
+                }
+            );
+
+            update_progress_bar();
+            progress_bar_interval = setInterval( function() {
+                current_content_import_items = current_content_import_items + total_content_import_items/500;
+                update_progress_bar();
+            }, 1000 );
+        };
+
+        function multiModuleAction( btn ) {
+            var listMolude = $('.module-checkbox:checked'),
+                time;
+            total_content_import_items = listMolude.length;
+
+            if ( listMolude.length > 0 ) {
+                listMolude.each( function( index ) {
+                    var item = $(this),
+                        moduleId = item.attr( 'value' );
+                    time = 1000 * index;
+                    setTimeout(
+                        function() {
+                            ajax_active( moduleId, item );
+                        },
+                        time
+                    );
+                });
+            }
+
+            setTimeout(
+                function() {
+                    $(".merlin__body").addClass('js--finished');
+                },
+                time + 1500
+            );
+
+            setTimeout(
+                function() {
+                    window.location.href = btn.href;
+                },
+                time + 3000
+            );
+
+        };
+
+        function update_progress_bar() {
+            $('.js-merlin-progress-bar').css( 'width', (current_content_import_items/total_content_import_items) * 100 + '%' );
+
+            var $percentage = valBetween( ((current_content_import_items/total_content_import_items) * 100) , 0, 99);
+
+            $('.js-merlin-progress-bar-percentage').html( Math.round( $percentage ) + '%' );
+
+            if ( 1 < current_content_import_items/total_content_import_items ) {
+                clearInterval( progress_bar_interval );
+                $('.js-merlin-progress-bar-percentage').html( '100%' );
+            }
+        };
+
+        function valBetween(v, min, max) {
+            return (Math.min(max, Math.max(min, v)));
+        }
+
+        return {
+            init: function(btn){
+                $( btn ).find( '.merlin__button--loading__text' ).css( 'color', 'transparent' );
+                $( btn ).find('.js-merlin-progress-bar-percentage' ).css({ 'display':'inline-block', 'color':'#46b450'});
+                setTimeout(function(){
+                    multiModuleAction( btn );
+                },500);
             }
         }
     }
