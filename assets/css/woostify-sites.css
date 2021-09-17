@@ -1407,6 +1407,7 @@ body.loaded .merlin__content--welcome {
 	cursor: pointer;
 	display: inline-block;
 	position: relative;
+	text-align: left;
 	width: 100%;
 }
 
@@ -1476,6 +1477,76 @@ body.loaded .merlin__content--welcome {
 
 .merlin__drawer--active-module label:hover i {
 	border-color: #0073aa;
+}
+
+.woostify-module-list .merlin__drawer--active-module {
+	overflow-y: scroll;
+}
+
+.woostify-module-list ::-webkit-scrollbar {
+	width: 1em;
+}
+
+.woostify-module-list ::-webkit-scrollbar-track {
+	-webkit-box-shadow: inset 0 0 6px rgba(0, 0, 0, 0);
+	box-shadow: inset 0 0 6px rgba(0, 0, 0, 0);
+}
+
+.woostify-module-list ::-webkit-scrollbar-thumb {
+	background-color: transparent;
+	outline: 1px solid transparent;
+}
+
+.merlin__footer-sticky {
+	background: #fff;
+	-webkit-box-shadow: 1px 5px 15px rgba(0, 0, 0, 0.05);
+	box-shadow: 1px 5px 15px rgba(0, 0, 0, 0.05);
+	height: 80px;
+	left: 0;
+	position: fixed;
+	right: 0;
+	top: 0;
+	-webkit-transform: translateY(-120px);
+	-ms-transform: translateY(-120px);
+	transform: translateY(-120px);
+	-webkit-transition: all 0.3s linear;
+	transition: all 0.3s linear;
+	width: 100%;
+}
+
+.merlin__footer-sticky.show {
+	-webkit-transform: translateY(0);
+	-ms-transform: translateY(0);
+	transform: translateY(0);
+}
+
+.merlin__footer-sticky .merlin__footer-sticky-wrapper {
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: -ms-flexbox;
+	display: flex;
+	height: 100%;
+	margin: 0 auto;
+	max-width: 1200px;
+
+	-webkit-align-items: center;
+	align-items: center;
+	-webkit-box-align: center;
+	-webkit-box-pack: justify;
+	-ms-flex-align: center;
+	-ms-flex-pack: justify;
+	-webkit-justify-content: space-between;
+	justify-content: space-between;
+}
+
+.merlin__footer-sticky .merlin__footer-sticky-wrapper .merlin__button--next {
+	position: unset;
+}
+
+.merlin__footer-sticky .merlin__footer-sticky-wrapper .step-heading {
+	color: #222;
+	font-size: 20px;
+	font-weight: 600;
 }
 
 .merlin__button {

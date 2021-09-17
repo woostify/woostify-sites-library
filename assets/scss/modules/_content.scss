@@ -312,6 +312,7 @@
 		display: inline-block;
 		position: relative;
 		width: 100%;
+		text-align: left;
 
 		i {
 			&:before,
@@ -388,4 +389,60 @@
 
 .merlin__drawer--active-module label:hover i {
 	border-color: #0073aa;
+}
+
+
+.woostify-module-list {
+	.merlin__drawer--active-module {
+		overflow-y: scroll;
+	}
+
+	::-webkit-scrollbar {
+	  width: 1em;
+	}
+	 
+	::-webkit-scrollbar-track {
+	  box-shadow: inset 0 0 6px rgba(0, 0, 0, 0);
+	}
+	 
+	::-webkit-scrollbar-thumb {
+	  background-color: transparent;
+	  outline: 1px solid transparent;
+	}
+}
+
+.merlin__footer-sticky {
+	position: fixed;
+	width: 100%;
+	top: 0;
+	left: 0;
+	right: 0;
+	height: 80px;
+	background: #fff;
+	box-shadow: 1px 5px 15px rgba( 0, 0, 0, 0.05 );
+	transform: translateY(-120px);
+	transition: all .3s linear;
+
+	&.show {
+		transform: translateY(0);
+	}
+
+	.merlin__footer-sticky-wrapper {
+		max-width: 1200px;
+		margin: 0 auto;
+		display: flex;
+		justify-content: space-between;
+		align-items: center;
+		height: 100%;
+
+		.merlin__button--next {
+			position: unset;
+		}
+
+		.step-heading {
+			font-size: 20px;
+			color: #222;
+			font-weight: 600;
+		}
+	}
 }

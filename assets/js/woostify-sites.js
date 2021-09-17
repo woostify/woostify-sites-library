@@ -28,198 +28,6 @@ var Woostify_Sites = (function($){
         }
     };
 
-        // Detect all featured are activated.
-        var detectFeature = function() {
-            var list      = document.querySelectorAll( '.module-item' ),
-                activated = document.querySelectorAll( '.module-item.activated' );
-
-            if ( ! list.length ) {
-                return;
-            }
-
-            var size    = ( list.length == activated.length ) ? 'yes' : '',
-                request = new Request(
-                    woostify_sites_params.ajaxurl,
-                    {
-                        method: 'POST',
-                        body: 'action=woostify_sites_feature_activated&detect=' + size + '&ajax_nonce=' + woostify_sites_params.wpnonce,
-                        credentials: 'same-origin',
-                        headers: new Headers(
-                            {
-                                'Content-Type': 'application/x-www-form-urlencoded; charset=utf-8'
-                            }
-                        )
-                    }
-                );
-
-            // Fetch API.
-            // fetch( request );
-
-            fetch( request ).then(
-                function( res ) {
-                    if ( 200 !== res.status ) {
-                        console.log( 'Status Code: ' + res.status );
-                        return;
-                    }
-
-                    res.json().then(
-                        function( r ) {
-                            if ( ! r.success ) {
-                                return;
-                            }
-
-                            var next = document.querySelectorAll('.merlin__button--next');
-                            console.log( r.data.fully_featured_activate );
-                            // Update button label.
-                            if ( r.data.fully_featured_activate ) {
-                                // next.classList.remove('disable');
-                                $('.merlin__button--next').removeClass('disable');
-                            } else {
-                                $('.merlin__button--next').addClass('disable');
-                            }
-                        }
-                    );
-                }
-            );
-        }
-        // Activate or Deactive mudule.
-        var moduleAction = function() {
-            var list = document.querySelector( '.woostify-module-list' );
-            if ( ! list ) {
-                return;
-            }
-
-            var item = list.querySelectorAll( '.module-item' );
-            if ( ! item.length ) {
-                return;
-            }
-
-            item.forEach(
-                function( element ) {
-                    var button = element.querySelector( '.module-action-button' );
-
-                    if ( ! button ) {
-                        return;
-                    }
-
-                    button.onclick = function() {
-                        var parent = button.closest( '.module-item' ),
-                            option = button.getAttribute( 'data-name' ),
-                            status = button.getAttribute( 'data-value' ),
-                            label  = woostify_sites_params.activating;
-
-                        if ( 'activated' === status ) {
-                            label = woostify_sites_params.deactivating;
-                        }
-
-                        // Request.
-                        var request = new Request(
-                            woostify_sites_params.ajaxurl,
-                            {
-                                method: 'POST',
-                                body: 'action=woostify_sites_module_action&name=' + option + '&status=' + status + '&ajax_nonce=' + woostify_sites_params.wpnonce,
-                                credentials: 'same-origin',
-                                headers: new Headers(
-                                    {
-                                        'Content-Type': 'application/x-www-form-urlencoded; charset=utf-8'
-                                    }
-                                )
-                            }
-                        );
-
-                        // Set button label when process running.
-                        button.innerHTML = label;
-
-                        // Add .loading class to parent item.
-                        parent.classList.add( 'loading' );
-
-                        // Fetch API.
-                        fetch( request )
-                            .then(
-                                function( res ) {
-                                    if ( 200 !== res.status ) {
-                                        console.log( 'Status Code: ' + res.status );
-                                        return;
-                                    }
-
-                                    res.json().then(
-                                        function( r ) {
-                                            if ( ! r.success ) {
-                                                return;
-                                            }
-
-                                            // Update button label.
-                                            button.setAttribute( 'data-value', r.data.status );
-                                            button.innerHTML = 'activated' === r.data.status ? 'deactivate' : 'activate';
-
-                                            // Update parent class name.
-                                            parent.className = '';
-                                            parent.classList.add( 'module-item', r.data.status );
-
-                                            // Detect all featured are activated.
-                                            detectFeature();
-                                        }
-                                    );
-                                }
-                            ).finally(
-                                function() {
-                                    // Remove .loading class to parent item.
-                                    parent.classList.remove( 'loading' );
-                                }
-                            );
-                    }
-                }
-            );
-        }
-
-        // Multi Activate or Deactivate module.
-        var multiModuleAction = function() {
-            var action = document.querySelector( '.multi-module-action' ),
-                submit = document.querySelector( '.multi-module-action-button' ),
-                items  = document.querySelectorAll( '.module-item:not(.disabled)' );
-
-            if ( ! action || ! submit || ! items.length ) {
-                return;
-            }
-
-            submit.addEventListener(
-                'click',
-                function() {
-                    var actionValue = action.value.trim();
-                    if ( ! actionValue ) {
-                        return;
-                    }
-
-                    items.forEach(
-                        function( element, index ) {
-                            var checkbox    = element.querySelector( '.module-checkbox' ),
-                                button      = element.querySelector( '.module-action-button' ),
-                                buttonValue = button.getAttribute( 'data-value' ).trim();
-
-                            // Return if process busy.
-                            if ( element.classList.contains( '.loading' ) ) {
-                                alert( 'Process running.' );
-                                return;
-                            }
-
-                            // Return if same Action or Not checked.
-                            if ( actionValue === buttonValue || ! checkbox.checked ) {
-                                return;
-                            }
-
-                            // Trigger click.
-                            var time = 200 * index;
-                            setTimeout(
-                                function() {
-                                    button.click();
-                                },
-                                time
-                            );
-                        }
-                    );
-                }
-            );
-        }
 
     function window_loaded(){
 
@@ -233,8 +41,6 @@ var Woostify_Sites = (function($){
         btn_filter_link = $( '.js-select-filter' ),
         select_demo_btn = $( '.js-select-demo' );
 
-        moduleAction();
-        multiModuleAction();
         setTimeout(function(){
             body.addClass('loaded');
         },100);
@@ -271,45 +77,19 @@ var Woostify_Sites = (function($){
         });
 
 
-        var selectorAll = document.getElementById( 'woostify-select-all' );
-        if ( selectorAll ) {
-            selectorAll.addEventListener(
-                'click',
-                function() {
-                    var checkboxs = document.querySelectorAll( '.module-checkbox' );
-                    if ( ! checkboxs.length ) {
-                        return;
-                    }
-
-                    checkboxs.forEach(
-                        function( el ) {
-                            if ( el.closest( '.module-item.disabled' ) ) {
-                                return;
-                            }
-
-                            // Trigger checked.
-                            if ( selectorAll.checked ) {
-                                el.checked = true;
-                            } else {
-                                el.checked = false;
-                            }
-
-                            // Remove checkbox on Select All.
-                            el.addEventListener(
-                                'click',
-                                function() {
-                                    selectorAll.checked = false;
-                                },
-                                { once: true }
-                            );
-                        }
-                    );
+        $( window ).scroll(function() {
+            var demoElement = $('.merlin__demos');
+            if ( demoElement.length > 0 ) {
+                var height =  demoElement.offset().top;
+                console.log( height );
+                if ( $( window ).scrollTop() > height ) {
+                    $('.merlin__footer-sticky').addClass('show');
+                } else {
+                    $('.merlin__footer-sticky').removeClass('show');
                 }
-            );
-        }
-
-
-
+            }
+            
+        });
 
         $(".button-next").on( "click", function(e) {
             e.preventDefault();
@@ -877,12 +657,14 @@ var Woostify_Sites = (function($){
         var current_content_import_items = 1;
         var total_content_import_items = 0;
         var progress_bar_interval;
+        var counter = 1;
 
         function ajax_active( module_id, item ) {
             var data     = {
                 action: 'woostify_sites_module_action',
                 ajax_nonce: woostify_sites_params.wpnonce,
-                name: module_id
+                name: module_id,
+                counter: counter
             };
             item.next().addClass( 'installing' );
             item.parent().addClass('installing');
@@ -891,10 +673,13 @@ var Woostify_Sites = (function($){
                     type: 'POST',
                     url: woostify_sites_params.ajaxurl,
                     data: data,
+                    
 
                     success: function (response) {
+                        console.log( response );
                         item.next().addClass( 'success' );
                         current_content_import_items++;
+                        counter++;
                     },
                     error: function () {
                         item.next().addClass( 'error' );
@@ -937,7 +722,7 @@ var Woostify_Sites = (function($){
 
             setTimeout(
                 function() {
-                    window.location.href = btn.href;
+                    // window.location.href = btn.href;
                 },
                 time + 3000
             );

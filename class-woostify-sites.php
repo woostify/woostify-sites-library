@@ -499,7 +499,7 @@ class Woostify_Sites {
 		wp_enqueue_style( 'woostify-sites-admin-styles', WOOSTIFY_SITES_URI . 'assets/css/woostify-sites.css', array( 'wp-admin' ), '1.0.0' );
 
 		// Enqueue javascript.
-		wp_enqueue_script( 'woostify-sites-admin-scripts', WOOSTIFY_SITES_URI . 'assets/js/woostify-sites.js', array( 'jquery-core' ), '1.0.0', true );
+		wp_enqueue_script( 'woostify-sites-admin-scripts', WOOSTIFY_SITES_URI . 'assets/js/woostify-sites.js', array( 'jquery' ), '1.0.0', true );
 
 
 		$texts = array(
@@ -816,7 +816,7 @@ class Woostify_Sites {
 
 		// Show the plugin importer, only if TGMPA is included.
 		$modules_activated = get_option( 'woostify_pro_fully_featured_activate' );
-		if ( ! empty( $this->import_files ) && class_exists( 'Woostify_Pro' ) && defined( 'WOOSTIFY_PRO_VERSION' ) ) {
+		if ( ! empty( $this->import_files ) && class_exists( 'Woostify_Pro' ) && defined( 'WOOSTIFY_PRO_VERSION' ) && ! $modules_activated ) {
 			$this->steps['modules'] = array(
 				'name' => esc_html__( 'Modules', 'woostify-sites-library' ),
 				'view' => array( $this, 'modules' ),
@@ -1248,9 +1248,8 @@ class Woostify_Sites {
 		$next         = __( 'Active Modules', 'woostify-sites-library' );
 		$woostify_pro = new Woostify_Pro();
 		$modules      = $woostify_pro->woostify_pro_modules();
-		$nextClass = get_option( 'woostify_pro_fully_featured_activate' ) ? '' : 'disable';
-		$action    = $strings['import-action-link'];
-
+		$nextClass    = get_option( 'woostify_pro_fully_featured_activate' ) ? '' : 'disable';
+		$action       = $strings['import-action-link'];
 		?>
 		<div class="merlin__content--transition">
 
@@ -1293,14 +1292,16 @@ class Woostify_Sites {
 
 							$id = 'module-id-' . $k;
 							?>
+							<?php if ( 'activated' !== $key ) : ?>
+								<li class="merlin-active-module module-item">
+									<input type="checkbox" name="woostify_module_checkbox[]" class="checkbox checkbox-content module-checkbox" value="<?php echo esc_attr( $k ); ?>" id="<?php echo esc_attr( $id ); //phpcs:ignore?>" checked>
+									<label for="<?php echo esc_attr( $id ); //phpcs:ignore?>">
+										<i></i>
+										<span class="module-label"><?php echo esc_html( $title ); ?></span>
+									</label>
+								</li>
+							<?php endif ?>
 
-							<li class="merlin-active-module module-item">
-								<input type="checkbox" name="woostify_module_checkbox[]" class="checkbox checkbox-content module-checkbox" value="<?php echo esc_attr( $k ); ?>" id="<?php echo esc_attr( $id ); //phpcs:ignore?>" checked>
-								<label for="<?php echo esc_attr( $id ); //phpcs:ignore?>">
-									<i></i>
-									<span class="module-label"><?php echo esc_html( $title ); ?></span>
-								</label>
-							</li>
 							<?php
 						}
 						?>
@@ -1458,6 +1459,15 @@ class Woostify_Sites {
 					<a href="<?php echo esc_url( $this->step_next_link() ); ?>" class="merlin__button merlin__button--next merlin__button--proceed merlin__button--colorchange js-select button-next" data-callback="install_contents"><?php echo esc_html( $next ); ?></a>
 
 				<?php wp_nonce_field( 'woostify-sites' ); ?>
+
+				<div class="merlin__footer-sticky">
+					<div class="merlin__footer-sticky-wrapper">
+						<div class="step-heading">
+							<span class="heading"><?php echo esc_html( $header ); ?></span>
+						</div>
+						<a href="<?php echo esc_url( $this->step_next_link() ); ?>" class="merlin__button merlin__button--next merlin__button--proceed merlin__button--colorchange js-select button-next" data-callback="install_contents"><?php echo esc_html( $next ); ?></a>
+					</div>
+				</div>
 
 			</footer>
 
@@ -3153,8 +3163,14 @@ class Woostify_Sites {
 					}
 				}
 			}
+			$woostify_pro = new Woostify_Pro();
+			$modules      = $woostify_pro->woostify_pro_modules();
 
 			$response['status'] = get_option( $name );
+			if ( $_POST['counter'] && count( $modules ) == $_POST['counter'] ) {
+				update_option( 'woostify_pro_fully_featured_activate', 1 );
+			}
+			$response['index'] = $_POST['counter'];
 			$response['fully_featured_activate'] = get_option( 'woostify_pro_fully_featured_activate' );
 
 			wp_send_json_success( $response );
