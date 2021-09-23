@@ -1412,42 +1412,44 @@ class Woostify_Sites {
 			</div>
 
 			<?php if ( 1 < count( $demos[0] ) ) : ?>
-				<p><?php esc_html_e( 'Select which demo data you want to import:', 'woostify-sites-library' ); ?></p>
-				<div class="merlin__demos" data-callback="load_demo">
-					<?php foreach ( $demos[0] as $import_file ) : ?>
-						<?php
-						$demo_name        = isset( $import_file['import_file_name'] ) ? $import_file['import_file_name'] : 'Untitled Demo';
-						$demo_image       = isset( $import_file['import_preview_image_url'] ) ? $import_file['import_preview_image_url'] : $this->theme->get_screenshot();
-						$demo_preview_url = isset( $import_file['preview_url'] ) ? $import_file['preview_url'] : '';
-						$demo_type        = isset( $import_file['type'] ) ? $import_file['type'] : 'free';
-						?>
+				<div class="merlin__demos-wrapper">
+					<p><?php esc_html_e( 'Select which demo data you want to import:', 'woostify-sites-library' ); ?></p>
+					<div class="merlin__demos" data-callback="load_demo">
+						<?php foreach ( $demos[0] as $import_file ) : ?>
+							<?php
+							$demo_name        = isset( $import_file['import_file_name'] ) ? $import_file['import_file_name'] : 'Untitled Demo';
+							$demo_image       = isset( $import_file['import_preview_image_url'] ) ? $import_file['import_preview_image_url'] : $this->theme->get_screenshot();
+							$demo_preview_url = isset( $import_file['preview_url'] ) ? $import_file['preview_url'] : '';
+							$demo_type        = isset( $import_file['type'] ) ? $import_file['type'] : 'free';
+							?>
 
-						<div class="merlin__demo">
-							<div class="merlin__demo-image">
-								<?php if ( ! empty( $demo_image ) ) : ?>
-									<img src="<?php echo esc_url( $demo_image ); ?>" alt="<?php echo esc_attr( 'Demo Image', 'woostify-sites-library' ); ?>">
-								<?php endif; ?>
-							</div>
-
-							<div class="merlin__demo-content">
-								<h4 class="merlin__demo-title"><?php echo esc_html( $demo_name ); ?></h4>
-								<div class="merlin__demo-cta">
-									<a class="merlin__demo-button" href="<?php echo esc_url( $demo_preview_url ); ?>" target="_blank"><?php esc_html_e( 'Preview', 'woostify-sites-library' ); ?></a>
-									<?php if ( 'pro' === $demo_type && defined( 'WOOSTIFY_PRO_VERSION' ) ) : ?>
-										<button data-content="<?php echo esc_attr( $import_file['id'] ); ?>" class="merlin__demo-button js-select-demo"><?php esc_html_e( 'Select', 'woostify-sites-library' ); ?></button>
-									<?php elseif( 'pro' === $demo_type && !defined( 'WOOSTIFY_PRO_VERSION' )  ) : ?>
-										<a class="merlin__demo-button" href="https://woostify.com/pro" target="_blank"><?php esc_html_e( 'Pricing', 'woostify-sites-library' ); ?></a>
-									<?php elseif( 'free' === $demo_type ) : ?>
-										<button data-content="<?php echo esc_attr( $import_file['id'] ); ?>" class="merlin__demo-button js-select-demo" data-callback="install_contents"><?php esc_html_e( 'Select', 'woostify-sites-library' ); ?></button>
+							<div class="merlin__demo">
+								<div class="merlin__demo-image">
+									<?php if ( ! empty( $demo_image ) ) : ?>
+										<img src="<?php echo esc_url( $demo_image ); ?>" alt="<?php echo esc_attr( 'Demo Image', 'woostify-sites-library' ); ?>">
 									<?php endif; ?>
 								</div>
+
+								<div class="merlin__demo-content">
+									<h4 class="merlin__demo-title"><?php echo esc_html( $demo_name ); ?></h4>
+									<div class="merlin__demo-cta">
+										<a class="merlin__demo-button" href="<?php echo esc_url( $demo_preview_url ); ?>" target="_blank"><?php esc_html_e( 'Preview', 'woostify-sites-library' ); ?></a>
+										<?php if ( 'pro' === $demo_type && defined( 'WOOSTIFY_PRO_VERSION' ) ) : ?>
+											<button data-content="<?php echo esc_attr( $import_file['id'] ); ?>" class="merlin__demo-button js-select-demo"><?php esc_html_e( 'Select', 'woostify-sites-library' ); ?></button>
+										<?php elseif( 'pro' === $demo_type && !defined( 'WOOSTIFY_PRO_VERSION' )  ) : ?>
+											<a class="merlin__demo-button" href="https://woostify.com/pro" target="_blank"><?php esc_html_e( 'Pricing', 'woostify-sites-library' ); ?></a>
+										<?php elseif( 'free' === $demo_type ) : ?>
+											<button data-content="<?php echo esc_attr( $import_file['id'] ); ?>" class="merlin__demo-button js-select-demo" data-callback="install_contents"><?php esc_html_e( 'Select', 'woostify-sites-library' ); ?></button>
+										<?php endif; ?>
+									</div>
+								</div>
 							</div>
-						</div>
 
-					<?php endforeach; ?>
+						<?php endforeach; ?>
 
-				</div><!-- merlin__demos -->
-				<button type="button" class="btn-merlin--loadmore"><?php echo esc_html( 'Load More' ); ?></button>
+					</div><!-- merlin__demos -->
+					<button type="button" class="btn-merlin--loadmore"><?php echo esc_html( 'Load More' ); ?></button>
+				</div>
 			<?php endif; ?>
 
 		</div>
@@ -1460,14 +1462,14 @@ class Woostify_Sites {
 
 				<?php wp_nonce_field( 'woostify-sites' ); ?>
 
-				<div class="merlin__footer-sticky">
+<!-- 				<div class="merlin__footer-sticky">
 					<div class="merlin__footer-sticky-wrapper">
 						<div class="step-heading">
 							<span class="heading"><?php echo esc_html( $header ); ?></span>
 						</div>
 						<a href="<?php echo esc_url( $this->step_next_link() ); ?>" class="merlin__button merlin__button--next merlin__button--proceed merlin__button--colorchange js-select button-next" data-callback="install_contents"><?php echo esc_html( $next ); ?></a>
 					</div>
-				</div>
+				</div> -->
 
 			</footer>
 

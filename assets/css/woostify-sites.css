@@ -842,6 +842,50 @@ svg:not(:root) {
 	zoom: 1;
 }
 
+.merlin__content.merlin__content--content {
+	height: calc( 100vh - 30px);
+	margin: 10px 0;
+	padding: 20px 60px 35px;
+	/* width */
+	/* Track */
+	/* Handle */
+	/* Handle on hover */
+}
+
+.merlin__content.merlin__content--content .icon {
+	margin-bottom: 0;
+}
+
+.merlin__content.merlin__content--content .merlin__demos-wrapper {
+	max-height: calc( 100vh - 400px);
+	overflow-x: hidden;
+	overflow-y: scroll;
+}
+
+.merlin__content.merlin__content--content .merlin__page-builder {
+	padding: 0 5px;
+}
+
+.merlin__content.merlin__content--content .dots {
+	top: 0;
+}
+
+.merlin__content.merlin__content--content ::-webkit-scrollbar {
+	width: 1px;
+}
+
+.merlin__content.merlin__content--content ::-webkit-scrollbar-track {
+	background: transparent;
+}
+
+.merlin__content.merlin__content--content ::-webkit-scrollbar-thumb {
+	background: transparent;
+}
+
+.merlin__content.merlin__content--content ::-webkit-scrollbar-thumb:hover {
+	background: transparent;
+}
+
 .merlin__content--transition {
 	opacity: 0;
 	-webkit-transform: translateX(50%) scale(0.95);
