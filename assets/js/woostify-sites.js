@@ -217,7 +217,6 @@ var Woostify_Sites = (function($){
                 optionImgSrc     = $selectedOption.data( 'img-src' ),
                 optionNotice     = $selectedOption.data( 'notice' ),
                 optionPreviewUrl = $selectedOption.data( 'preview-url' );
-                console.log($selectedOption);
 
             $.post( woostify_sites_params.ajaxurl, {
                 action: 'woostify_sites_update_selected_import_data_info',
@@ -230,6 +229,7 @@ var Woostify_Sites = (function($){
                     $( '.js-merlin-drawer-import-content' ).html( response.data );
                     $this.addClass('merlin__demo-button--primary');
                     $('[data-callback="install_content"]').css({'display': 'block'});
+                    $('.js-select').css({'display': 'block'});
                     $('.js-select').css({'display': 'block'});
                 }
             } )

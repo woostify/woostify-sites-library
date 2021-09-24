@@ -857,7 +857,7 @@ svg:not(:root) {
 }
 
 .merlin__content.merlin__content--content .merlin__demos-wrapper {
-	max-height: calc( 100vh - 400px);
+	max-height: calc( 100vh - 205px);
 	overflow-x: hidden;
 	overflow-y: scroll;
 }

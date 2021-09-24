@@ -1364,22 +1364,17 @@ class Woostify_Sites {
 		}
 		setcookie( "total_page", count( $demos ), time()+7200);
 		$html = '';
+
+		// var_dump( $_COOKIE );
 		?>
 
 		<div class="merlin__content--transition">
-
-			<?php echo wp_kses( $this->svg( array( 'icon' => 'content' ) ), $this->svg_allowed_html() ); ?>
-
-			<svg class="icon icon--checkmark" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 52 52">
-				<circle class="icon--checkmark__circle" cx="26" cy="26" r="25" fill="none"/>
-				<path class="icon--checkmark__check" fill="none" d="M14.1 27.2l7.1 7.2 16.7-16.8"/>
-			</svg>
 
 			<h1><?php echo esc_html( $header ); ?></h1>
 			<div class="merlin__filters">
 				<!-- All Filters -->
 				<div class="filters-wrap">
-					<div class="filter-page-builder filters-page-builder-wrap">
+					<div class="filter-page-builder filters-page-builder-wrap" style="display: none;">
 						<ul class="filter-links merlin__other-page-builder">
 							<li>
 								<a href="#" data-group="elementor" class="merlin__page-builder active js-select-filter">
@@ -1458,18 +1453,9 @@ class Woostify_Sites {
 
 			<footer class="merlin__content__footer">
 
-					<a href="<?php echo esc_url( $this->step_next_link() ); ?>" class="merlin__button merlin__button--next merlin__button--proceed merlin__button--colorchange js-select button-next" data-callback="install_contents"><?php echo esc_html( $next ); ?></a>
+					<a href="<?php echo esc_url( $this->step_next_link() ); ?>" class="merlin__button merlin__button--next merlin__button--proceed merlin__button--colorchange js-select button-next disable" data-callback="install_contents"><?php echo esc_html( $next ); ?></a>
 
 				<?php wp_nonce_field( 'woostify-sites' ); ?>
-
-<!-- 				<div class="merlin__footer-sticky">
-					<div class="merlin__footer-sticky-wrapper">
-						<div class="step-heading">
-							<span class="heading"><?php echo esc_html( $header ); ?></span>
-						</div>
-						<a href="<?php echo esc_url( $this->step_next_link() ); ?>" class="merlin__button merlin__button--next merlin__button--proceed merlin__button--colorchange js-select button-next" data-callback="install_contents"><?php echo esc_html( $next ); ?></a>
-					</div>
-				</div> -->
 
 			</footer>
 
