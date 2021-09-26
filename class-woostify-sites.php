@@ -458,7 +458,7 @@ class Woostify_Sites {
 		$this->hook_suffix = add_theme_page(
 			esc_html( $strings['admin-menu'] ),
 			esc_html( $strings['admin-menu'] ),
-			'manage_options',
+			'edit_theme_options',//manage_options
 			$this->woostify_sites_url,
 			array( $this, 'woostify_sites_admin_page' )
 		);
@@ -471,6 +471,15 @@ class Woostify_Sites {
 			'import-template-setting',
 			array( $this, 'setting_screen' )
 		);
+
+		// $this->hook_suffix = add_submenu_page(
+		// 	'themes.php',
+		// 	'Woostify Template',
+		// 	'Woostify Template',
+		// 	'edit_theme_options',
+		// 	'import-template-setting',
+		// 	array( $this, 'setting_screen' )
+		// );
 	}
 
 	/**
@@ -594,11 +603,16 @@ class Woostify_Sites {
 	 */
 	protected function header() {
 
+		global $title, $hook_suffix, $current_screen, $wp_locale, $pagenow,
+		$update_title, $total_update_count, $parent_file;
 		// Strings passed in from the config file.
 		$strings = $this->strings;
 
 		// Get the current step.
 		$current_step = strtolower( $this->steps[ $this->step ]['name'] );
+		if ( empty( $current_screen ) ) {
+			set_current_screen();
+		}
 		?>
 
 		<!DOCTYPE html>
@@ -609,7 +623,7 @@ class Woostify_Sites {
 			<?php printf( esc_html( $strings['title%s%s%s%s'] ), '<ti', 'tle>', esc_html( $this->theme->name ), '</title>' ); ?>
 			<?php //do_action( 'admin_print_styles' ); ?>
 			<?php //do_action( 'admin_enqueue_scripts' ); ?>
-			<?php //do_action( 'admin_head' ); ?>
+			<?php do_action( 'admin_head' ); ?>
 		</head>
 		<body class="merlin__body merlin__body--<?php echo esc_attr( $current_step ); ?>">
 		<?php
