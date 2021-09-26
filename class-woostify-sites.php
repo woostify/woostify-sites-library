@@ -458,7 +458,7 @@ class Woostify_Sites {
 		$this->hook_suffix = add_theme_page(
 			esc_html( $strings['admin-menu'] ),
 			esc_html( $strings['admin-menu'] ),
-			'edit_theme_options',//manage_options
+			'edit_theme_options',
 			$this->woostify_sites_url,
 			array( $this, 'woostify_sites_admin_page' )
 		);
@@ -471,15 +471,6 @@ class Woostify_Sites {
 			'import-template-setting',
 			array( $this, 'setting_screen' )
 		);
-
-		// $this->hook_suffix = add_submenu_page(
-		// 	'themes.php',
-		// 	'Woostify Template',
-		// 	'Woostify Template',
-		// 	'edit_theme_options',
-		// 	'import-template-setting',
-		// 	array( $this, 'setting_screen' )
-		// );
 	}
 
 	/**
