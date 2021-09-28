@@ -722,7 +722,7 @@ var Woostify_Sites = (function($){
 
             setTimeout(
                 function() {
-                    // window.location.href = btn.href;
+                    window.location.href = btn.href;
                 },
                 time + 3000
             );

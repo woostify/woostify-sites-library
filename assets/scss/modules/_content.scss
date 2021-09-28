@@ -491,3 +491,11 @@
 		}
 	}
 }
+
+
+	.merlin__drawer--open .merlin__content--modules #skip {
+		display: inline-block;
+		opacity: 1;
+		visibility: visible;
+		z-index: 1;
+	}

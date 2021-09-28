@@ -1593,6 +1593,13 @@ body.loaded .merlin__content--welcome {
 	font-weight: 600;
 }
 
+.merlin__drawer--open .merlin__content--modules #skip {
+	display: inline-block;
+	opacity: 1;
+	visibility: visible;
+	z-index: 1;
+}
+
 .merlin__button {
 	background: #fff;
 	border: 0;
