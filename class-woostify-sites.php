@@ -463,14 +463,14 @@ class Woostify_Sites {
 			array( $this, 'woostify_sites_admin_page' )
 		);
 
-		$this->hook_suffix = add_theme_page(
-			// 'themes.php',
-			'Woostify Template',
-			'Woostify Template',
-			'edit_theme_options',
-			'import-template-setting',
-			array( $this, 'setting_screen' )
-		);
+		// $this->hook_suffix = add_theme_page(
+		// 	// 'themes.php',
+		// 	'Woostify Template',
+		// 	'Woostify Template',
+		// 	'edit_theme_options',
+		// 	'import-template-setting',
+		// 	array( $this, 'setting_screen' )
+		// );
 	}
 
 	/**
