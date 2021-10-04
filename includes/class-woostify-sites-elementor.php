@@ -317,9 +317,11 @@ class Woostify_Sites_Elementor {
 				</div>
 				<div class="woostify-template-wrapper">
 					<?php foreach ( $demos as $demo ) : ?>
+
 						<?php
+							$types = explode( '__', $demo['type']);
 							$class = 'woostify-tempalte-item template-builder-elementor elementor-template-library-template-remote elementor-template-library-template-' . $template_type;
-							$class .= ($demo['type'] == 'pro' || $template_type == 'shop' ) ? ' elementor-template-library-pro-template' : '';
+							$class .= ( end( $types ) == 'pro' || $template_type == 'shop' ) ? ' elementor-template-library-pro-template' : '';
 							$class .= $template_type == 'pages' ? ' elementor-template-library-template-page' : '';
 
 							$type = ( 'pages' == $template_type ) ? ' elementor-type-pages elementor-template-library-template-page' : ' woostify-template-library-template-preview elementor-type-blocks';
@@ -375,6 +377,7 @@ class Woostify_Sites_Elementor {
 		$all_demo = $this->get_demo( $type );
 		$demo = $all_demo[$id];
 		$demo_type = $demo['type'];
+		$types = explode( '__', $demo['type']);
 		$image_preview = $demo['import_preview_image_url'];
 
 		if ( 'pages' == $type ) {
@@ -401,7 +404,7 @@ class Woostify_Sites_Elementor {
 
 						<div id="woostify-template-library-header-tools" class="<?php echo esc_attr( $check_pro ); ?>">
 							<div id="woostify-template-library-header-actions">
-								<?php if ( 'valid' != $check_pro && ( 'pro' == $demo_type || $type == 'shop' ) ) : ?>
+								<?php if ( 'valid' != $check_pro && ( 'pro' == end($types) || $type == 'shop' ) ) : ?>
 									<div id="woostify-template-library-go-pro" class="elementor-templates-modal__header__item">
 										<a href="<?php echo esc_url( 'https://woostify.com/' ); ?>" class="elementor-go-pro" target="_blank">
 											<span class="button-text"><?php echo esc_html__( 'Go Pro', 'woostify-sites-library' ); ?></span>
@@ -540,9 +543,10 @@ class Woostify_Sites_Elementor {
 
 			<?php foreach ( $list_demo as $demo ) : ?>
 				<?php
+				$types = explode( '__', $demo['type']);
 
 				$class = 'woostify-tempalte-item template-builder-elementor elementor-template-library-template-remote elementor-template-library-template-' . $template_type;
-				$class .= ( $demo['type'] == 'pro' || $demo_type == 'shop' ) ? ' elementor-template-library-pro-template' : '';
+				$class .= ( end( $types ) == 'pro' || $demo_type == 'shop' ) ? ' elementor-template-library-pro-template' : '';
 				$class .= $template_type == 'pages' ? ' elementor-template-library-template-page' : '';
 				$checked = '';
 				$favorite_class = 'eicon-heart-o';
@@ -794,8 +798,9 @@ class Woostify_Sites_Elementor {
 											<?php foreach ( $data as $id ) : ?>
 												<?php
 													$demo = $favorites[$id];
+													$types = explode( '__', $demo['type'] );
 													$class = 'woostify-tempalte-item template-builder-elementor elementor-template-library-template-remote elementor-template-library-template-' . $type;
-													$class .= ($demo['type'] == 'pro' || $type == 'shop' ) ? ' elementor-template-library-pro-template' : '';
+													$class .= ( end( $types ) == 'pro' || $type == 'shop' ) ? ' elementor-template-library-pro-template' : '';
 													$class .= $type == 'pages' ? ' elementor-template-library-template-page' : '';
 
 													$checked = '';

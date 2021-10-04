@@ -269,6 +269,8 @@ class Woostify_Sites {
 		add_action( 'import_start', array( $this, 'woostify_sites_before_content_import_setup' ) );
 		add_action( 'woostify_sites_after_all_import', array( $this, 'woostify_sites_after_content_import_setup' ) );
 		add_action( 'admin_init', array( $this, 'woostify_sites_register_import_files' ) );
+		add_action( 'wp_ajax_woostify_sites_feature_activated', array( $this, 'woostify_ajax_all_feature_activated' ) );
+		add_action( 'wp_ajax_woostify_sites_module_action', array( $this, 'woostify_ajax_module_action' ) );
 		add_action(
 			'admin_init',
 			function () {
@@ -456,19 +458,19 @@ class Woostify_Sites {
 		$this->hook_suffix = add_theme_page(
 			esc_html( $strings['admin-menu'] ),
 			esc_html( $strings['admin-menu'] ),
-			'manage_options',
+			'edit_theme_options',
 			$this->woostify_sites_url,
 			array( $this, 'woostify_sites_admin_page' )
 		);
 
-		$this->hook_suffix = add_theme_page(
-			// 'themes.php',
-			'Woostify Template',
-			'Woostify Template',
-			'edit_theme_options',
-			'import-template-setting',
-			array( $this, 'setting_screen' )
-		);
+		// $this->hook_suffix = add_theme_page(
+		// 	// 'themes.php',
+		// 	'Woostify Template',
+		// 	'Woostify Template',
+		// 	'edit_theme_options',
+		// 	'import-template-setting',
+		// 	array( $this, 'setting_screen' )
+		// );
 	}
 
 	/**
@@ -497,10 +499,8 @@ class Woostify_Sites {
 		wp_enqueue_style( 'woostify-sites-admin-styles', WOOSTIFY_SITES_URI . 'assets/css/woostify-sites.css', array( 'wp-admin' ), '1.0.0' );
 
 		// Enqueue javascript.
-		wp_enqueue_script( 'woostify-sites-admin-scripts', WOOSTIFY_SITES_URI . 'assets/js/woostify-sites.js', array( 'jquery-core' ), '1.0.0', true );
+		wp_enqueue_script( 'woostify-sites-admin-scripts', WOOSTIFY_SITES_URI . 'assets/js/woostify-sites.js', array( 'jquery' ), '1.0.0', true );
 
-		// Enqueue javascript.
-		wp_enqueue_script( 'woostify-sites-admin-scripts', WOOSTIFY_SITES_URI . 'assets/js/woostify-sites.js', array( 'jquery-core' ), '1.0.0', true );
 
 		$texts = array(
 			'something_went_wrong' => esc_html__( 'Something went wrong. Please refresh the page and try again!', 'woostify-sites-library' ),
@@ -527,6 +527,10 @@ class Woostify_Sites {
 					'wpnonce'      => wp_create_nonce( 'woostify_sites_nonce' ),
 					'texts'        => $texts,
 					'total_page'   => $total_page,
+					'activate'     => __( 'Activate', 'woostify-sites-library' ),
+					'activating'   => __( 'Activating...', 'woostify-sites-library' ),
+					'deactivate'   => __( 'Deactivate', 'woostify-sites-library' ),
+					'deactivating' => __( 'Deactivating...', 'woostify-sites-library' ),
 				)
 			);
 		} else {
@@ -590,11 +594,16 @@ class Woostify_Sites {
 	 */
 	protected function header() {
 
+		global $title, $hook_suffix, $current_screen, $wp_locale, $pagenow,
+		$update_title, $total_update_count, $parent_file;
 		// Strings passed in from the config file.
 		$strings = $this->strings;
 
 		// Get the current step.
 		$current_step = strtolower( $this->steps[ $this->step ]['name'] );
+		if ( empty( $current_screen ) ) {
+			set_current_screen();
+		}
 		?>
 
 		<!DOCTYPE html>
@@ -602,11 +611,10 @@ class Woostify_Sites {
 		<head>
 			<meta name="viewport" content="width=device-width"/>
 			<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
-			<?php //printf( esc_html( $strings['title%s%s%s%s'] ), '<ti', 'tle>', esc_html( $this->theme->name ), '</title>' ); ?>
+			<?php printf( esc_html( $strings['title%s%s%s%s'] ), '<ti', 'tle>', esc_html( $this->theme->name ), '</title>' ); ?>
 			<?php //do_action( 'admin_print_styles' ); ?>
 			<?php //do_action( 'admin_enqueue_scripts' ); ?>
-			<?php //do_action( 'admin_head' ); ?>
-			<?php //do_action( 'admin_head' ); ?>
+			<?php do_action( 'admin_head' ); ?>
 		</head>
 		<body class="merlin__body merlin__body--<?php echo esc_attr( $current_step ); ?>">
 		<?php
@@ -811,6 +819,15 @@ class Woostify_Sites {
 			);
 		}
 
+		// Show the plugin importer, only if TGMPA is included.
+		$modules_activated = get_option( 'woostify_pro_fully_featured_activate' );
+		if ( ! empty( $this->import_files ) && class_exists( 'Woostify_Pro' ) && defined( 'WOOSTIFY_PRO_VERSION' ) && ! $modules_activated ) {
+			$this->steps['modules'] = array(
+				'name' => esc_html__( 'Modules', 'woostify-sites-library' ),
+				'view' => array( $this, 'modules' ),
+			);
+		}
+
 		// Show the content importer, only if there's demo content added.
 		if ( ! empty( $this->import_files ) ) {
 			$this->steps['install'] = array(
@@ -818,7 +835,6 @@ class Woostify_Sites {
 				'view' => array( $this, 'install' ),
 			);
 		}
-
 
 		$this->steps['ready'] = array(
 			'name' => esc_html__( 'Ready', 'woostify-sites-library' ),
@@ -1228,6 +1244,101 @@ class Woostify_Sites {
 		$this->logger->debug( __( 'The plugin installation step has been displayed', 'woostify-sites-library' ) );
 	}
 
+	protected function modules() {
+		// Strings passed in from the config file.
+		$strings      = $this->strings;
+		// Text strings.
+		$header       = __( 'Woostify Active Module' );
+		$skip         = $strings['btn-skip'];
+		$next         = __( 'Active Modules', 'woostify-sites-library' );
+		$woostify_pro = new Woostify_Pro();
+		$modules      = $woostify_pro->woostify_pro_modules();
+		$nextClass    = get_option( 'woostify_pro_fully_featured_activate' ) ? '' : 'disable';
+		$action       = $strings['import-action-link'];
+		?>
+		<div class="merlin__content--transition">
+
+			<?php echo wp_kses( $this->svg( array( 'icon' => 'content' ) ), $this->svg_allowed_html() ); ?>
+
+			<svg class="icon icon--checkmark" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 52 52">
+				<circle class="icon--checkmark__circle" cx="26" cy="26" r="25" fill="none"/>
+				<path class="icon--checkmark__check" fill="none" d="M14.1 27.2l7.1 7.2 16.7-16.8"/>
+			</svg>
+
+			<h1><?php echo esc_html( $header ); ?></h1>
+
+			<div class="step-description">
+				<span class="description"><?php echo esc_html__( 'Let\'s active some modules to get your site up to speed.', 'woostify-sites-library' ) ?></span>
+			</div>
+
+			<div class="woostify-enhance__column woostify-pro-module">
+
+				<a id="merlin__drawer-trigger" class="merlin__button merlin__button--knockout">
+					<span><?php echo esc_html( $action ); ?></span><span class="chevron"></span>
+				</a>
+
+				<div class="woostify-module-list">
+					<ul class="merlin__drawer merlin__drawer--active-module">
+						<?php
+						foreach ( $modules as $k => $v ) {
+							$key      = get_option( $k );
+							$label    = 'activated' === $key ? 'deactivate' : 'activate';
+							$title    = $v;
+							$disabled = '';
+
+							if ( is_array( $v ) ) {
+								$title = $v['title'];
+
+								if ( isset( $v['condition'] ) && ! $v['condition'] ) {
+									$label    = $v['error'];
+									$disabled = 'disabled';
+								}
+							}
+
+							$id = 'module-id-' . $k;
+							?>
+							<?php if ( 'activated' !== $key ) : ?>
+								<li class="merlin-active-module module-item">
+									<input type="checkbox" name="woostify_module_checkbox[]" class="checkbox checkbox-content module-checkbox" value="<?php echo esc_attr( $k ); ?>" id="<?php echo esc_attr( $id ); //phpcs:ignore?>" checked>
+									<label for="<?php echo esc_attr( $id ); //phpcs:ignore?>">
+										<i></i>
+										<span class="module-label"><?php echo esc_html( $title ); ?></span>
+									</label>
+								</li>
+							<?php endif ?>
+
+							<?php
+						}
+						?>
+					</ul>
+				</div>
+			</div>
+		</div>
+
+		<form action="" method="post">
+			<footer class="merlin__content__footer">
+					<a id="skip" href="<?php echo esc_url( $this->step_next_link() ); ?>" class="merlin__button merlin__button--skip merlin__button--proceed"><?php echo esc_html( $skip ); ?></a>
+
+						<a href="<?php echo esc_url( $this->step_next_link() ); ?>" class="merlin__button merlin__button--next button-next multi-module-action-button" data-callback="active_modules">
+						<span class="merlin__button--loading__text"><?php echo esc_html( $next ); ?></span>
+							<div class="merlin__progress-bar">
+								<span class="js-merlin-progress-bar"></span>
+							</div>
+
+							<span class="js-merlin-progress-bar-percentage">0%</span>
+						</a>
+
+				<?php wp_nonce_field( 'woostify-sites' ); ?>
+
+			</footer>
+
+		</form>
+
+		<?php
+		$this->logger->debug( __( 'The content import step has been displayed', 'woostify-sites-library' ) );
+
+	}
+
 	/**
 	 * Page setup
 	 */
@@ -1252,29 +1363,23 @@ class Woostify_Sites {
 			}
 		}
 
-
 		if ( ! empty( $demos ) ) {
 			$demos = array_chunk( $demos, 6 );
 			$_SESSION['demo'] = $demos;
 		}
 		setcookie( "total_page", count( $demos ), time()+7200);
 		$html = '';
+
+		// var_dump( $_COOKIE );
 		?>
 
 		<div class="merlin__content--transition">
-
-			<?php echo wp_kses( $this->svg( array( 'icon' => 'content' ) ), $this->svg_allowed_html() ); ?>
-
-			<svg class="icon icon--checkmark" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 52 52">
-				<circle class="icon--checkmark__circle" cx="26" cy="26" r="25" fill="none"/>
-				<path class="icon--checkmark__check" fill="none" d="M14.1 27.2l7.1 7.2 16.7-16.8"/>
-			</svg>
 
 			<h1><?php echo esc_html( $header ); ?></h1>
 			<div class="merlin__filters">
 				<!-- All Filters -->
 				<div class="filters-wrap">
-					<div class="filter-page-builder filters-page-builder-wrap">
+					<div class="filter-page-builder filters-page-builder-wrap" style="display: none;">
 						<ul class="filter-links merlin__other-page-builder">
 							<li>
 								<a href="#" data-group="elementor" class="merlin__page-builder active js-select-filter">
@@ -1307,42 +1412,44 @@ class Woostify_Sites {
 			</div>
 
 			<?php if ( 1 < count( $demos[0] ) ) : ?>
-				<p><?php esc_html_e( 'Select which demo data you want to import:', 'woostify-sites-library' ); ?></p>
-				<div class="merlin__demos" data-callback="load_demo">
-					<?php foreach ( $demos[0] as $import_file ) : ?>
-						<?php
-						$demo_name        = isset( $import_file['import_file_name'] ) ? $import_file['import_file_name'] : 'Untitled Demo';
-						$demo_image       = isset( $import_file['import_preview_image_url'] ) ? $import_file['import_preview_image_url'] : $this->theme->get_screenshot();
-						$demo_preview_url = isset( $import_file['preview_url'] ) ? $import_file['preview_url'] : '';
-						$demo_type        = isset( $import_file['type'] ) ? $import_file['type'] : 'free';
-						?>
+				<div class="merlin__demos-wrapper">
+					<p><?php esc_html_e( 'Select which demo data you want to import:', 'woostify-sites-library' ); ?></p>
+					<div class="merlin__demos" data-callback="load_demo">
+						<?php foreach ( $demos[0] as $import_file ) : ?>
+							<?php
+							$demo_name        = isset( $import_file['import_file_name'] ) ? $import_file['import_file_name'] : 'Untitled Demo';
+							$demo_image       = isset( $import_file['import_preview_image_url'] ) ? $import_file['import_preview_image_url'] : $this->theme->get_screenshot();
+							$demo_preview_url = isset( $import_file['preview_url'] ) ? $import_file['preview_url'] : '';
+							$demo_type        = isset( $import_file['type'] ) ? $import_file['type'] : 'free';
+							?>
 
-						<div class="merlin__demo">
-							<div class="merlin__demo-image">
-								<?php if ( ! empty( $demo_image ) ) : ?>
-									<img src="<?php echo esc_url( $demo_image ); ?>" alt="<?php echo esc_attr( 'Demo Image', 'woostify-sites-library' ); ?>">
-								<?php endif; ?>
-							</div>
-
-							<div class="merlin__demo-content">
-								<h4 class="merlin__demo-title"><?php echo esc_html( $demo_name ); ?></h4>
-								<div class="merlin__demo-cta">
-									<a class="merlin__demo-button" href="<?php echo esc_url( $demo_preview_url ); ?>" target="_blank"><?php esc_html_e( 'Preview', 'woostify-sites-library' ); ?></a>
-									<?php if ( 'pro' === $demo_type && defined( 'WOOSTIFY_PRO_VERSION' ) ) : ?>
-										<button data-content="<?php echo esc_attr( $import_file['id'] ); ?>" class="merlin__demo-button js-select-demo"><?php esc_html_e( 'Select', 'woostify-sites-library' ); ?></button>
-									<?php elseif( 'pro' === $demo_type && !defined( 'WOOSTIFY_PRO_VERSION' )  ) : ?>
-										<a class="merlin__demo-button" href="https://woostify.com/pro" target="_blank"><?php esc_html_e( 'Pricing', 'woostify-sites-library' ); ?></a>
-									<?php elseif( 'free' === $demo_type ) : ?>
-										<button data-content="<?php echo esc_attr( $import_file['id'] ); ?>" class="merlin__demo-button js-select-demo" data-callback="install_contents"><?php esc_html_e( 'Select', 'woostify-sites-library' ); ?></button>
+							<div class="merlin__demo">
+								<div class="merlin__demo-image">
+									<?php if ( ! empty( $demo_image ) ) : ?>
+										<img src="<?php echo esc_url( $demo_image ); ?>" alt="<?php echo esc_attr( 'Demo Image', 'woostify-sites-library' ); ?>">
 									<?php endif; ?>
 								</div>
+
+								<div class="merlin__demo-content">
+									<h4 class="merlin__demo-title"><?php echo esc_html( $demo_name ); ?></h4>
+									<div class="merlin__demo-cta">
+										<a class="merlin__demo-button" href="<?php echo esc_url( $demo_preview_url ); ?>" target="_blank"><?php esc_html_e( 'Preview', 'woostify-sites-library' ); ?></a>
+										<?php if ( 'pro' === $demo_type && defined( 'WOOSTIFY_PRO_VERSION' ) ) : ?>
+											<button data-content="<?php echo esc_attr( $import_file['id'] ); ?>" class="merlin__demo-button js-select-demo"><?php esc_html_e( 'Select', 'woostify-sites-library' ); ?></button>
+										<?php elseif( 'pro' === $demo_type && !defined( 'WOOSTIFY_PRO_VERSION' )  ) : ?>
+											<a class="merlin__demo-button" href="https://woostify.com/pro" target="_blank"><?php esc_html_e( 'Pricing', 'woostify-sites-library' ); ?></a>
+										<?php elseif( 'free' === $demo_type ) : ?>
+											<button data-content="<?php echo esc_attr( $import_file['id'] ); ?>" class="merlin__demo-button js-select-demo" data-callback="install_contents"><?php esc_html_e( 'Select', 'woostify-sites-library' ); ?></button>
+										<?php endif; ?>
+									</div>
+								</div>
 							</div>
-						</div>
 
-					<?php endforeach; ?>
+						<?php endforeach; ?>
 
-				</div><!-- merlin__demos -->
-				<button type="button" class="btn-merlin--loadmore"><?php echo esc_html( 'Load More' ); ?></button>
+					</div><!-- merlin__demos -->
+					<button type="button" class="btn-merlin--loadmore"><?php echo esc_html( 'Load More' ); ?></button>
+				</div>
 			<?php endif; ?>
 
 		</div>
@@ -1351,7 +1458,7 @@ class Woostify_Sites {
 
 			<footer class="merlin__content__footer">
 
-					<a href="<?php echo esc_url( $this->step_next_link() ); ?>" class="merlin__button merlin__button--next merlin__button--proceed merlin__button--colorchange js-select button-next" data-callback="install_contents"><?php echo esc_html( $next ); ?></a>
+					<a href="<?php echo esc_url( $this->step_next_link() ); ?>" class="merlin__button merlin__button--next merlin__button--proceed merlin__button--colorchange js-select button-next disable" data-callback="install_contents"><?php echo esc_html( $next ); ?></a>
 
 				<?php wp_nonce_field( 'woostify-sites' ); ?>
 
@@ -2656,16 +2763,9 @@ class Woostify_Sites {
 
 		if ( 'pro' === $import_type && defined( 'WOOSTIFY_PRO_VERSION' ) ) {
 			$modules_activated          = get_option( 'woostify_pro_fully_featured_activate' );
-
-
-			if ( $modules_activated ) {
-				$import_info      = $this->get_import_data_info( $this->selected_index );
-				$import_info_html = $this->get_import_steps_html( $import_info );
-				wp_send_json_success( $import_info_html );
-			} else {
-				$data = __( 'You must enable all Pro Modules before importing this demo then disable one of them later', 'woostify-sites-library' );
-				wp_send_json_error( $data );
-			}
+			$import_info      = $this->get_import_data_info( $this->selected_index );
+			$import_info_html = $this->get_import_steps_html( $import_info );
+			wp_send_json_success( $import_info_html );
 		}
 
 		$import_info      = $this->get_import_data_info( $this->selected_index );
@@ -2686,16 +2786,10 @@ class Woostify_Sites {
 
 		if ( 'pro' === $import_type && defined( 'WOOSTIFY_PRO_VERSION' ) ) {
 			$modules_activated          = get_option( 'woostify_pro_fully_featured_activate' );
+			$import_info      = $this->get_import_data_info( $this->selected_index );
+			$import_info_html = $this->get_import_steps_html( $import_info );
+			wp_send_json_success( $data );
 
-
-			if ( $modules_activated ) {
-				$import_info      = $this->get_import_data_info( $this->selected_index );
-				$import_info_html = $this->get_import_steps_html( $import_info );
-				wp_send_json_success( $data );
-			} else {
-				$data = __( 'You must enable all Pro Modules before importing this demo then disable one of them later', 'woostify-sites-library' );
-				wp_send_json_error( $data );
-			}
 		}
 
 		$import_info      = $this->get_import_data_info( $this->selected_index );
@@ -2886,7 +2980,7 @@ class Woostify_Sites {
 	public function woostify_sites_set_cookie()
 	{
 		$total_page = 1;
-		setcookie( "total_page", $total_page, time()+7200);
+		setcookie( "total_page", $total_page, time()+7200 );
 	}
 
 	public function setting_screen() {
@@ -3011,5 +3105,70 @@ class Woostify_Sites {
 			'admin',
 			$admin_vars
 		);
+	}
+
+	/**
+	 * Detect all featured area activated
+	 */
+	public function woostify_ajax_all_feature_activated() {
+		/*Bail if the nonce doesn't check out*/
+		if ( ! current_user_can( 'update_plugins' ) ) {
+			return;
+		}
+
+		$current = get_option( 'woostify_pro_fully_featured_activate' );
+
+		/*Do another nonce check*/
+		check_ajax_referer( 'woostify_sites_nonce', 'ajax_nonce' );
+		$detect = isset( $_POST['detect'] ) ? sanitize_text_field( wp_unslash( $_POST['detect'] ) ) : '';
+
+		if ( $detect !== $current ) {
+			update_option( 'woostify_pro_fully_featured_activate', $detect );
+		}
+		$response['fully_featured_activate'] = get_option( 'woostify_pro_fully_featured_activate' );
+
+		wp_send_json_success($response);
+	}
+
+	/**
+	 * Activate or Deactivated module using ajax.
+	 */
+	public function woostify_ajax_module_action() {
+		check_ajax_referer( 'woostify_sites_nonce', 'ajax_nonce' );
+
+		if ( isset( $_POST['name'] ) ) {
+			$response = array();
+			$autoload = 'yes';
+			$name     = sanitize_text_field( wp_unslash( $_POST['name'] ) );
+			$status   = 'activated';
+
+			if ( ! update_option( $name, $status ) ) {
+				global $wpdb;
+
+				$wpdb->query( $wpdb->prepare( "INSERT INTO `$wpdb->options` (`option_name`, `option_value`, `autoload`) VALUES (%s, %s, %s) ON DUPLICATE KEY UPDATE `option_name` = VALUES(`option_name`), `option_value` = VALUES(`option_value`), `autoload` = VALUES(`autoload`)", $name, $status, $autoload ) );
+				if ( ! wp_installing() ) {
+					if ( 'yes' === $autoload ) {
+						$alloptions          = wp_load_alloptions( true );
+						$alloptions[ $name ] = $status;
+						wp_cache_set( 'alloptions', $alloptions, 'options' );
+					} else {
+						wp_cache_set( $name, $status, 'options' );
+					}
+				}
+			}
+			$woostify_pro = new Woostify_Pro();
+			$modules      = $woostify_pro->woostify_pro_modules();
+
+			$response['status'] = get_option( $name );
+			if ( $_POST['counter'] && count( $modules ) == $_POST['counter'] ) {
+				update_option( 'woostify_pro_fully_featured_activate', 1 );
+			}
+			$response['index'] = $_POST['counter'];
+			$response['fully_featured_activate'] = get_option( 'woostify_pro_fully_featured_activate' );
+
+			wp_send_json_success( $response );
+		}
+
+		wp_send_json_error();
 	}
 }
