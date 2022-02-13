@@ -43,7 +43,7 @@ class Woostify_Sites_Elementor_Pages extends Source_Local {
 	 * @param  array   $data Elementor Data.
 	 * @return array   $data Elementor Imported Data.
 	 */
-	public function import( $post_id = 0, $data = array(), $contact_form ) {
+	public function import( $post_id = 0, $data = array(), $contact_form = '' ) {
 
 		if ( ! empty( $post_id ) && ! empty( $data ) ) {
 
