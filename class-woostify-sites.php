@@ -2980,7 +2980,9 @@ class Woostify_Sites {
 	public function woostify_sites_set_cookie()
 	{
 		$total_page = 1;
-		setcookie( "total_page", $total_page, time()+7200 );
+		if( ! headers_sent() ) {
+			setcookie( "total_page", $total_page, time()+7200 );
+		}
 	}
 
 	public function setting_screen() {
