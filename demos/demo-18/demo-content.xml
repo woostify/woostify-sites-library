@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/5.8.3" created="2022-03-01 09:19" -->
+	<!-- generator="WordPress/5.8.4" created="2022-03-28 08:03" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
 	<title>haute</title>
 	<link>https://demo.woostify.com/haute</link>
 	<description></description>
-	<pubDate>Tue, 01 Mar 2022 09:19:32 +0000</pubDate>
+	<pubDate>Mon, 28 Mar 2022 08:03:01 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>https://demo.woostify.com/</wp:base_site_url>
@@ -763,7 +763,7 @@
 	<wp:term><wp:term_id>48</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug><![CDATA[shop]]></wp:term_slug><wp:term_name><![CDATA[Shop]]></wp:term_name>
 </wp:term>
 
-	<generator>https://wordpress.org/?v=5.8.3</generator>
+	<generator>https://wordpress.org/?v=5.8.4</generator>
 
 <image>
 	<url>https://demo.woostify.com/haute/wp-content/uploads/sites/30/2018/11/favicon.png</url>
@@ -5592,6 +5592,10 @@
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:2:{s:5:"width";i:475;s:6:"height";i:475;}]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_elementor_inline_svg]]></wp:meta_key>
+		<wp:meta_value><![CDATA[<svg xmlns="http://www.w3.org/2000/svg" data-name="Layer 1" viewBox="0 0 475.53 475.57"><title>free-shipping</title><path d="M347.2,316.46a7,7,0,0,0-8.32-5.36l-12.78,2.75a7,7,0,1,0,2.78,13.72l.18,0,12.78-2.76a7,7,0,0,0,5.36-8.32Z" transform="translate(-18.23 -18.23)"></path><path d="M301.74,319.1l-35.42,7.64a7,7,0,0,0,2.78,13.73l.18,0,35.42-7.64a7,7,0,0,0-3-13.69Z" transform="translate(-18.23 -18.23)"></path><path d="M191,367.07a44.1,44.1,0,1,0,52.4,33.83v0A44.15,44.15,0,0,0,191,367.07Zm15.64,72.53a30.1,30.1,0,1,1,23.08-35.78h0A30.15,30.15,0,0,1,206.62,439.6Z" transform="translate(-18.23 -18.23)"></path><path d="M493.6,346.92l-6-27.7a7,7,0,0,0-8.32-5.37h0l-26.37,5.69L405.77,100.8a7,7,0,0,0-8.31-5.36L257.2,125.68,178.71,142.6,153.08,23.75a7,7,0,0,0-6.84-5.52h-121a7,7,0,0,0-7,7h0V53.56a7,7,0,0,0,7,7h92.48L175.88,330.3a83.55,83.55,0,1,0,107.2,69.18l205.15-44.25a7,7,0,0,0,5.37-8.31ZM218.87,328.8,194,213.54l71.65-15.45,10.51,48.71a7,7,0,0,0,5.51,5.4,7.48,7.48,0,0,0,1.33.12,7,7,0,0,0,5.8-3.08l18.83-27.84L334,239.26A7,7,0,0,0,344.77,232l-10.51-48.71,71.65-15.45,33.36,154.65-172.51,37.2a84,84,0,0,0-47.89-30.89ZM308.23,129l10.87,50.4,8.3,38.48-17.72-12a7,7,0,0,0-9.73,1.88L286.4,227.81,267,137.88ZM403,154.16,331.31,169.6,321.92,126l71.64-15.45ZM253.31,140.84l9.4,43.56-71.65,15.46-9.4-43.57ZM123.36,46.56H32.23V32.23H140.58L166.5,152.4l37.6,174.37a82.14,82.14,0,0,0-14.54.57L130.2,52.08a7,7,0,0,0-6.84-5.52ZM215,478.2a69.6,69.6,0,1,1,53.32-82.74v.05a69.68,69.68,0,0,1-53.35,82.69Zm65.2-92.4a83.07,83.07,0,0,0-5.48-13.49L475.44,329l3,14Z" transform="translate(-18.23 -18.23)"></path></svg>]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Default Kit]]></title>
@@ -5927,6 +5931,10 @@
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:2:{s:5:"width";i:512;s:6:"height";i:501;}]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_elementor_inline_svg]]></wp:meta_key>
+		<wp:meta_value><![CDATA[<svg xmlns="http://www.w3.org/2000/svg" data-name="Layer 1" viewBox="0 0 512 501.67"><title>support-247</title><path d="M419.56,377a51.19,51.19,0,0,1,0,72.45l-12.34,12.34a8.53,8.53,0,0,1-12.07-12.07l12.34-12.35a34.13,34.13,0,0,0,0-48.3l-47.55-47.54a34.19,34.19,0,0,0-48.3,0L291.77,361.4a41.24,41.24,0,0,1-58.36,0l-88-88a41.24,41.24,0,0,1,0-58.36l19.87-19.88a34.19,34.19,0,0,0,0-48.3L117.68,99.27a34.13,34.13,0,0,0-48.3,0L52,116.63a119.48,119.48,0,0,0,0,169.05L221.08,454.73a119.61,119.61,0,0,0,128.07,26.83,8.54,8.54,0,1,1,6.21,15.91A136.69,136.69,0,0,1,209,466.81L40,297.75c-53.27-53.26-53.27-139.93,0-193.2L57.31,87.19a51.21,51.21,0,0,1,72.45,0l47.55,47.55a51.3,51.3,0,0,1,0,72.45l-19.88,19.87a24.2,24.2,0,0,0,0,34.22l88,88.05a24.22,24.22,0,0,0,34.21,0l19.88-19.88a51.3,51.3,0,0,1,72.45,0ZM469.31,5.16H255.85a42.75,42.75,0,0,0-42.7,42.7v85.38a42.75,42.75,0,0,0,42.7,42.69h8.53v27.75a8.54,8.54,0,0,0,8.54,8.54c3.26,0-1.07,2.05,65.11-37.5a8.54,8.54,0,0,0-8.76-14.66l-47.81,28.57V167.39a8.53,8.53,0,0,0-8.54-8.53H255.85a25.65,25.65,0,0,1-25.62-25.62V47.86a25.65,25.65,0,0,1,25.62-25.62H469.31a25.64,25.64,0,0,1,25.61,25.62v85.38a25.65,25.65,0,0,1-25.61,25.62H380.37a8.54,8.54,0,1,0,0,17.07h88.94A42.74,42.74,0,0,0,512,133.24V47.86a42.75,42.75,0,0,0-42.69-42.7ZM280.39,99.09a23.48,23.48,0,1,0,0-47H265.45a8.54,8.54,0,1,0,0,17.07h14.94a6.41,6.41,0,1,1,0,12.81,23.51,23.51,0,0,0-23.48,23.48v14.94a8.54,8.54,0,0,0,8.54,8.54h29.89a8.54,8.54,0,1,0,0-17.08H274v-6.4A6.41,6.41,0,0,1,280.39,99.09ZM355.11,129a8.53,8.53,0,0,0,8.53-8.54V60.66a8.54,8.54,0,0,0-17.07,0V82H333.76V60.66a8.54,8.54,0,0,0-17.08,0V90.55a8.55,8.55,0,0,0,8.54,8.54h21.35v21.34A8.54,8.54,0,0,0,355.11,129Zm83.8,0a8.54,8.54,0,0,0,8.08-5.76l20.54-59.77a8.54,8.54,0,0,0-8.07-11.31H429.82a8.54,8.54,0,1,0,0,17.07H447.5l-16.66,48.46A8.54,8.54,0,0,0,438.91,129ZM393,122.48,408,62.71a8.54,8.54,0,0,0-16.57-4.14l-14.94,59.77A8.54,8.54,0,0,0,393,122.48Z" transform="translate(0 -5.16)"></path></svg>]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[haute-return]]></title>
@@ -5960,6 +5968,10 @@
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:2:{s:5:"width";i:512;s:6:"height";i:499;}]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_elementor_inline_svg]]></wp:meta_key>
+		<wp:meta_value><![CDATA[<svg xmlns="http://www.w3.org/2000/svg" data-name="Layer 1" viewBox="0 0 512 499.94"><title>return-product</title><path d="M270,424.29a7.5,7.5,0,0,0,7.5-7.5V403.61a7.5,7.5,0,0,0-15,0v13.18A7.5,7.5,0,0,0,270,424.29Z" transform="translate(0 -6)"></path><path d="M415.64,424.29a7.5,7.5,0,0,0,7.51-7.5V403.61a7.51,7.51,0,0,0-15,0v13.18A7.5,7.5,0,0,0,415.64,424.29Z" transform="translate(0 -6)"></path><path d="M342.83,431.32a31.25,31.25,0,0,0,23.62-10.52,7.5,7.5,0,1,0-11.29-9.87,16.79,16.79,0,0,1-24.65,0,7.5,7.5,0,0,0-11.3,9.87A31.25,31.25,0,0,0,342.83,431.32Z" transform="translate(0 -6)"></path><path d="M106.66,96.94l67.82,59.11c11.59,10.11,30.2,1.58,30.2-13.74V130.63C224.5,132,243,137,258.52,145.44c21,11.38,37.37,31.33,44.94,54.74A18.38,18.38,0,0,0,321,212.88c1.92,0,3.84-.16,5.76-.25a18.57,18.57,0,0,0,17.55-19.31v-.14a146.91,146.91,0,0,0-12.71-52c-13.78-30.32-37.35-55.06-72.05-75.64-17.43-10.34-36.47-16.25-54.89-22V24.09c0-15.28-18.68-23.79-30.2-13.74L106.66,69.46A18.42,18.42,0,0,0,106.66,96.94Zm9.86-16.17,67.82-59.11a3.24,3.24,0,0,1,5.34,2.43V49.31a7.51,7.51,0,0,0,5.79,7.31c1.44.33,3.05.77,4.53,1.23,18.48,5.72,35.94,11.13,51.92,20.61,32,19,53.57,41.51,66,68.94A131.62,131.62,0,0,1,329.35,194v.11a3.41,3.41,0,0,1-3.25,3.53l-4.9.23H321a3.46,3.46,0,0,1-3.3-2.31c-8.74-27-27.72-50.12-52.07-63.31-19.43-10.54-42.84-16.39-67.7-16.93-4.37-.09-8.29,2.89-8.29,7.49v19.5a3.25,3.25,0,0,1-5.34,2.43L116.52,85.63A3.25,3.25,0,0,1,116.52,80.77Z" transform="translate(0 -6)"></path><path d="M22.29,357.37H40.43v118A30.6,30.6,0,0,0,71,506H441a30.6,30.6,0,0,0,30.56-30.57v-118h18.14c15.51,0,26.49-16.19,20.74-30.6L471,228a7.51,7.51,0,0,0-7-4.72H424.45a7.5,7.5,0,0,0,0,15H459s37.45,93.87,37.53,94.09a7.37,7.37,0,0,1-6.8,10h-235a7.36,7.36,0,0,1-6.8-4.61l-39.69-99.51H394.44a7.5,7.5,0,1,0,0-15H47.93A7.51,7.51,0,0,0,41,228L1.55,326.77C-4.2,341.2,6.78,357.37,22.29,357.37Zm174.89,79.34a7.5,7.5,0,0,0,7.5-7.5V269.79L234,343.32a22.23,22.23,0,0,0,20.74,14.05H456.57v118A15.58,15.58,0,0,1,441,490.94H204.68V459.22a7.5,7.5,0,0,0-15,0v31.72H71a15.58,15.58,0,0,1-15.56-15.56v-118h84.18a22.45,22.45,0,0,0,20.74-14.06l29.33-73.52V429.21A7.5,7.5,0,0,0,197.18,436.71ZM15.49,332.33,53,238.24H186.11l-39.7,99.51a7.31,7.31,0,0,1-6.8,4.61H22.29A7.38,7.38,0,0,1,15.49,332.33Z" transform="translate(0 -6)"></path></svg>]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[haute-payment]]></title>
@@ -5992,6 +6004,10 @@
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:2:{s:5:"width";i:416;s:6:"height";i:480;}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_elementor_inline_svg]]></wp:meta_key>
+		<wp:meta_value><![CDATA[<svg xmlns="http://www.w3.org/2000/svg" id="Line_stroke_cutting_Ex" data-name="Line stroke cutting Ex" viewBox="0 0 416 480"><title>secure-payment</title><path d="M346,456H304a8,8,0,0,0-6.66,3.56L283.72,480H128v-5.93l39-70.18a8,8,0,0,0,1-3.89V352H152v45.93l-39,70.18a8,8,0,0,0-1,3.89v16a8,8,0,0,0,8,8H288a8,8,0,0,0,6.66-3.56L308.28,472H346a38.13,38.13,0,0,0,27.87-12.16L362.14,449A21.8,21.8,0,0,1,346,456Z" transform="translate(-48 -16)"></path><path d="M448,412a12,12,0,0,1-12,12H252a12,12,0,0,1-12-12V296h16a48.05,48.05,0,0,0,48-48V216a8,8,0,0,0-8-8H213.62a38,38,0,0,0-36.05,26l-25.16,75.49A8.07,8.07,0,0,0,152,312v24h16V313.3L192.75,239a22,22,0,0,1,20.87-15H288v24a32,32,0,0,1-32,32H224V412a28,28,0,0,0,28,28H436a28,28,0,0,0,28-28V80H448Z" transform="translate(-48 -16)"></path><path d="M436,16H252a28,28,0,0,0-28,28V192h16V44a12,12,0,0,1,12-12H436a12,12,0,0,1,12,12V64h16V44A28,28,0,0,0,436,16Z" transform="translate(-48 -16)"></path><path d="M400,120h16v16h16V112a8,8,0,0,0-8-8H400Z" transform="translate(-48 -16)"></path><path d="M432,288V264H416v16H400v16h24A8,8,0,0,0,432,288Z" transform="translate(-48 -16)"></path><path d="M256,112v24h16V120h16V104H264A8,8,0,0,0,256,112Z" transform="translate(-48 -16)"></path><path d="M360,136a8,8,0,0,0-8,8v40a8,8,0,0,0,8,8h40a8,8,0,0,0,8-8V144a8,8,0,0,0-8-8Zm32,40H368V152h24Z" transform="translate(-48 -16)"></path><path d="M280,144v40a8,8,0,0,0,8,8h40a8,8,0,0,0,8-8V144a8,8,0,0,0-8-8H288A8,8,0,0,0,280,144Zm16,8h24v24H296Z" transform="translate(-48 -16)"></path><path d="M408,256V216a8,8,0,0,0-8-8H360a8,8,0,0,0-8,8v40a8,8,0,0,0,8,8h40A8,8,0,0,0,408,256Zm-16-8H368V224h24Z" transform="translate(-48 -16)"></path><path d="M336,256V216a8,8,0,0,0-8-8h-8v56h8A8,8,0,0,0,336,256Z" transform="translate(-48 -16)"></path><path d="M304,48h80V64H304Z" transform="translate(-48 -16)"></path><path d="M272,48h16V64H272Z" transform="translate(-48 -16)"></path><path d="M400,48h16V64H400Z" transform="translate(-48 -16)"></path><path d="M288,352a56,56,0,1,0,56-56A56,56,0,0,0,288,352Zm56-40a40,40,0,1,1-40,40A40,40,0,0,1,344,312Z" transform="translate(-48 -16)"></path><path d="M330.34,373.66a8,8,0,0,0,11.32,0h0l32-32-11.32-11.32L336,356.69l-10.34-10.35-11.32,11.32Z" transform="translate(-48 -16)"></path><path d="M128,232a8,8,0,0,0,4.71-1.53l16.62-12.08a130.94,130.94,0,0,0,52.33-82.6l0-.18,6-38.37a8,8,0,0,0-4.64-8.55l-71.9-32.06a8,8,0,0,0-6.52,0L52.74,88.69a8,8,0,0,0-4.64,8.55l6,38.05,0,.19a130,130,0,0,0,5,19.13l15.12-5.23a114.2,114.2,0,0,1-4.38-16.67l-5-31.9,63-28.11,63,28.11L185.86,133a115,115,0,0,1-46,72.43L128,214.09l-12.73-9.38a117.22,117.22,0,0,1-34.61-40.38l-14.22,7.34a133.56,133.56,0,0,0,39.34,45.93l17.44,12.84A8,8,0,0,0,128,232Z" transform="translate(-48 -16)"></path><path d="M119.81,168a8,8,0,0,0,5.66-2.35l48-48-11.32-11.31-42.34,42.34-18.34-18.34L90.15,141.65l24,24A8,8,0,0,0,119.81,168Z" transform="translate(-48 -16)"></path></svg>]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -8019,8 +8035,8 @@ Classy</h2>
 		<wp:post_id>13</wp:post_id>
 		<wp:post_date><![CDATA[2018-10-16 03:55:35]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-10-16 03:55:35]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2022-02-25 08:53:31]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2022-02-25 08:53:31]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2022-03-02 02:38:48]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-03-02 02:38:48]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[fashion]]></wp:post_name>
@@ -8052,34 +8068,7 @@ Classy</h2>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_elementor_data]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:3:{i:0;a:5:{s:2:"id";s:7:"e825f20";s:8:"settings";a:15:{s:15:"stretch_section";s:17:"section-stretched";s:6:"layout";s:10:"full_width";s:3:"gap";s:2:"no";s:16:"background_image";a:2:{s:3:"url";s:0:"";s:2:"id";s:0:"";}s:25:"background_video_fallback";a:2:{s:3:"url";s:0:"";s:2:"id";s:0:"";}s:28:"background_slideshow_gallery";a:0:{}s:22:"background_hover_image";a:2:{s:3:"url";s:0:"";s:2:"id";s:0:"";}s:31:"background_hover_video_fallback";a:2:{s:3:"url";s:0:"";s:2:"id";s:0:"";}s:34:"background_hover_slideshow_gallery";a:0:{}s:24:"background_overlay_image";a:2:{s:3:"url";s:0:"";s:2:"id";s:0:"";}s:33:"background_overlay_video_fallback";a:2:{s:3:"url";s:0:"";s:2:"id";s:0:"";}s:36:"background_overlay_slideshow_gallery";a:0:{}s:30:"background_overlay_hover_image";a:2:{s:3:"url";s:0:"";s:2:"id";s:0:"";}s:39:"background_overlay_hover_video_fallback";a:2:{s:3:"url";s:0:"";s:2:"id";s:0:"";}s:42:"background_overlay_hover_slideshow_gallery";a:0:{}}s:8:"elements";a:1:{i:0;a:5:{s:2:"id";s:7:"9e0717b";s:8:"settings";a:13:{s:12:"_column_size";i:100;s:16:"background_image";a:2:{s:3:"url";s:0:"";s:2:"id";s:0:"";}s:25:"background_video_fallback";a:2:{s:3:"url";s:0:"";s:2:"id";s:0:"";}s:28:"background_slideshow_gallery";a:0:{}s:22:"background_hover_image";a:2:{s:3:"url";s:0:"";s:2:"id";s:0:"";}s:31:"background_hover_video_fallback";a:2:{s:3:"url";s:0:"";s:2:"id";s:0:"";}s:34:"background_hover_slideshow_gallery";a:0:{}s:24:"background_overlay_image";a:2:{s:3:"url";s:0:"";s:2:"id";s:0:"";}s:33:"background_overlay_video_fallback";a:2:{s:3:"url";s:0:"";s:2:"id";s:0:"";}s:36:"background_overlay_slideshow_gallery";a:0:{}s:30:"background_overlay_hover_image";a:2:{s:3:"url";s:0:"";s:2:"id";s:0:"";}s:39:"background_overlay_hover_video_fallback";a:2:{s:3:"url";s:0:"";s:2:"id";s:0:"";}s:42:"background_overlay_hover_slideshow_gallery";a:0:{}}s:8:"elements";a:1:{i:0;a:6:{s:2:"id";s:7:"b0a9a20";s:8:"settings";a:12:{s:7:"address";s:34:"London Eye, London, United Kingdom";s:6:"height";a:2:{s:4:"unit";s:2:"px";s:4:"size";i:660;}s:13:"height_tablet";a:2:{s:4:"unit";s:2:"px";s:4:"size";i:480;}s:13:"height_mobile";a:2:{s:4:"unit";s:2:"px";s:4:"size";i:320;}s:15:"css_filters_hue";a:2:{s:4:"unit";s:2:"px";s:4:"size";i:144;}s:17:"_background_image";a:2:{s:3:"url";s:0:"";s:2:"id";s:0:"";}s:26:"_background_video_fallback";a:2:{s:3:"url";s:0:"";s:2:"id";s:0:"";}s:29:"_background_slideshow_gallery";a:0:{}s:23:"_background_hover_image";a:2:{s:3:"url";s:0:"";s:2:"id";s:0:"";}s:32:"_background_hover_video_fallback";a:2:{s:3:"url";s:0:"";s:2:"id";s:0:"";}s:35:"_background_hover_slideshow_gallery";a:0:{}s:11:"_mask_image";a:2:{s:3:"url";s:0:"";s:2:"id";s:0:"";}}s:8:"elements";a:0:{}s:7:"isInner";b:0;s:10:"widgetType";s:11:"google_maps";s:6:"elType";s:6:"widget";}}s:7:"isInner";b:0;s:6:"elType";s:6:"column";}}s:7:"isInner";b:0;s:6:"elType";s:7:"section";}i:1;a:5:{s:2:"id";s:7:"3153b01";s:8:"settings";a:14:{s:3:"gap";s:2:"no";s:9:"structure";s:2:"21";s:16:"background_image";a:2:{s:3:"url";s:0:"";s:2:"id";s:0:"";}s:25:"background_video_fallback";a:2:{s:3:"url";s:0:"";s:2:"id";s:0:"";}s:28:"background_slideshow_gallery";a:0:{}s:22:"background_hover_image";a:2:{s:3:"url";s:0:"";s:2:"id";s:0:"";}s:31:"background_hover_video_fallback";a:2:{s:3:"url";s:0:"";s:2:"id";s:0:"";}s:34:"background_hover_slideshow_gallery";a:0:{}s:24:"background_overlay_image";a:2:{s:3:"url";s:0:"";s:2:"id";s:0:"";}s:33:"background_overlay_video_fallback";a:2:{s:3:"url";s:0:"";s:2:"id";s:0:"";}s:36:"background_overlay_slideshow_gallery";a:0:{}s:30:"background_overlay_hover_image";a:2:{s:3:"url";s:0:"";s:2:"id";s:0:"";}s:39:"background_overlay_hover_video_fallback";a:2:{s:3:"url";s:0:"";s:2:"id";s:0:"";}s:42:"background_overlay_hover_slideshow_gallery";a:0:{}}s:8:"elements";a:2:{i:0;a:5:{s:2:"id";s:7:"475bd5a";s:8:"settings";a:14:{s:12:"_column_size";i:33;s:12:"_inline_size";N;s:16:"background_image";a:2:{s:3:"url";s:0:"";s:2:"id";s:0:"";}s:25:"background_video_fallback";a:2:{s:3:"url";s:0:"";s:2:"id";s:0:"";}s:28:"background_slideshow_gallery";a:0:{}s:22:"background_hover_image";a:2:{s:3:"url";s:0:"";s:2:"id";s:0:"";}s:31:"background_hover_video_fallback";a:2:{s:3:"url";s:0:"";s:2:"id";s:0:"";}s:34:"background_hover_slideshow_gallery";a:0:{}s:24:"background_overlay_image";a:2:{s:3:"url";s:0:"";s:2:"id";s:0:"";}s:33:"background_overlay_video_fallback";a:2:{s:3:"url";s:0:"";s:2:"id";s:0:"";}s:36:"background_overlay_slideshow_gallery";a:0:{}s:30:"background_overlay_hover_image";a:2:{s:3:"url";s:0:"";s:2:"id";s:0:"";}s:39:"background_overlay_hover_video_fallback";a:2:{s:3:"url";s:0:"";s:2:"id";s:0:"";}s:42:"background_overlay_hover_slideshow_gallery";a:0:{}}s:8:"elements";a:4:{i:0;a:6:{s:2:"id";s:7:"b469dcf";s:8:"settings";a:8:{s:5:"space";a:2:{s:4:"unit";s:2:"px";s:4:"size";i:90;}s:17:"_background_image";a:2:{s:3:"url";s:0:"";s:2:"id";s:0:"";}s:26:"_background_video_fallback";a:2:{s:3:"url";s:0:"";s:2:"id";s:0:"";}s:29:"_background_slideshow_gallery";a:0:{}s:23:"_background_hover_image";a:2:{s:3:"url";s:0:"";s:2:"id";s:0:"";}s:32:"_background_hover_video_fallback";a:2:{s:3:"url";s:0:"";s:2:"id";s:0:"";}s:35:"_background_hover_slideshow_gallery";a:0:{}s:11:"_mask_image";a:2:{s:3:"url";s:0:"";s:2:"id";s:0:"";}}s:8:"elements";a:0:{}s:7:"isInner";b:0;s:10:"widgetType";s:6:"spacer";s:6:"elType";s:6:"widget";}i:1;a:6:{s:2:"id";s:7:"1a4a148";s:8:"settings";a:11:{s:5:"title";s:13:"Contact Info.";s:11:"header_size";s:2:"h5";s:21:"typography_typography";s:6:"custom";s:22:"typography_font_weight";s:6:"normal";s:17:"_background_image";a:2:{s:3:"url";s:0:"";s:2:"id";s:0:"";}s:26:"_background_video_fallback";a:2:{s:3:"url";s:0:"";s:2:"id";s:0:"";}s:29:"_background_slideshow_gallery";a:0:{}s:23:"_background_hover_image";a:2:{s:3:"url";s:0:"";s:2:"id";s:0:"";}s:32:"_background_hover_video_fallback";a:2:{s:3:"url";s:0:"";s:2:"id";s:0:"";}s:35:"_background_hover_slideshow_gallery";a:0:{}s:11:"_mask_image";a:2:{s:3:"url";s:0:"";s:2:"id";s:0:"";}}s:8:"elements";a:0:{}s:7:"isInner";b:0;s:10:"widgetType";s:7:"heading";s:6:"elType";s:6:"widget";}i:2;a:6:{s:2:"id";s:7:"87ca533";s:8:"settings";a:9:{s:6:"editor";s:49:"<p>Some information that you may want to know</p>";s:20:"typography_font_size";a:2:{s:4:"unit";s:2:"px";s:4:"size";i:0;}s:17:"_background_image";a:2:{s:3:"url";s:0:"";s:2:"id";s:0:"";}s:26:"_background_video_fallback";a:2:{s:3:"url";s:0:"";s:2:"id";s:0:"";}s:29:"_background_slideshow_gallery";a:0:{}s:23:"_background_hover_image";a:2:{s:3:"url";s:0:"";s:2:"id";s:0:"";}s:32:"_background_hover_video_fallback";a:2:{s:3:"url";s:0:"";s:2:"id";s:0:"";}s:35:"_background_hover_slideshow_gallery";a:0:{}s:11:"_mask_image";a:2:{s:3:"url";s:0:"";s:2:"id";s:0:"";}}s:8:"elements";a:0:{}s:7:"isInner";b:0;s:10:"widgetType";s:11:"text-editor";s:6:"elType";s:6:"widget";}i:3;a:6:{s:2:"id";s:7:"23fb120";s:8:"settings";a:8:{s:6:"editor";s:970:"<div class="woostify-contact-info">
-<div class="contact-info-list">
-<div class="contact-info-img"><img src="https://demo.woostify.com/fashion1/wp-content/uploads/sites/27/2018/10/contact-phone.jpg" alt="contact-info-image" /></div>
-<div class="contact-info-detail">
-
-<label>Phone Number</label>
-<h6>+1 342 5860 282</h6>
-</div>
-</div>
-<div class="contact-info-list">
-<div class="contact-info-img"><img src="https://demo.woostify.com/fashion1/wp-content/uploads/sites/27/2018/10/contact-address.jpg" alt="contact-info-image" /></div>
-<div class="contact-info-detail">
-
-<label>Address</label>
-<h6>168 Park Avenue</h6>
-Greenwich Village, NYC 1001 United State
-
-</div>
-</div>
-<div class="contact-info-list">
-<div class="contact-info-img"><img src="https://demo.woostify.com/fashion1/wp-content/uploads/sites/27/2018/10/contact-mail.jpg" alt="contact-info-image" /></div>
-<div class="contact-info-detail">
-
-<label>Email</label>
-<h6>hello@woostify.com</h6>
-</div>
-</div>
-</div>";s:17:"_background_image";a:2:{s:3:"url";s:0:"";s:2:"id";s:0:"";}s:26:"_background_video_fallback";a:2:{s:3:"url";s:0:"";s:2:"id";s:0:"";}s:29:"_background_slideshow_gallery";a:0:{}s:23:"_background_hover_image";a:2:{s:3:"url";s:0:"";s:2:"id";s:0:"";}s:32:"_background_hover_video_fallback";a:2:{s:3:"url";s:0:"";s:2:"id";s:0:"";}s:35:"_background_hover_slideshow_gallery";a:0:{}s:11:"_mask_image";a:2:{s:3:"url";s:0:"";s:2:"id";s:0:"";}}s:8:"elements";a:0:{}s:7:"isInner";b:0;s:10:"widgetType";s:11:"text-editor";s:6:"elType";s:6:"widget";}}s:7:"isInner";b:0;s:6:"elType";s:6:"column";}i:1;a:5:{s:2:"id";s:7:"8acbbf2";s:8:"settings";a:14:{s:12:"_column_size";i:66;s:12:"_inline_size";N;s:16:"background_image";a:2:{s:3:"url";s:0:"";s:2:"id";s:0:"";}s:25:"background_video_fallback";a:2:{s:3:"url";s:0:"";s:2:"id";s:0:"";}s:28:"background_slideshow_gallery";a:0:{}s:22:"background_hover_image";a:2:{s:3:"url";s:0:"";s:2:"id";s:0:"";}s:31:"background_hover_video_fallback";a:2:{s:3:"url";s:0:"";s:2:"id";s:0:"";}s:34:"background_hover_slideshow_gallery";a:0:{}s:24:"background_overlay_image";a:2:{s:3:"url";s:0:"";s:2:"id";s:0:"";}s:33:"background_overlay_video_fallback";a:2:{s:3:"url";s:0:"";s:2:"id";s:0:"";}s:36:"background_overlay_slideshow_gallery";a:0:{}s:30:"background_overlay_hover_image";a:2:{s:3:"url";s:0:"";s:2:"id";s:0:"";}s:39:"background_overlay_hover_video_fallback";a:2:{s:3:"url";s:0:"";s:2:"id";s:0:"";}s:42:"background_overlay_hover_slideshow_gallery";a:0:{}}s:8:"elements";a:4:{i:0;a:6:{s:2:"id";s:7:"4de5970";s:8:"settings";a:8:{s:5:"space";a:2:{s:4:"unit";s:2:"px";s:4:"size";i:90;}s:17:"_background_image";a:2:{s:3:"url";s:0:"";s:2:"id";s:0:"";}s:26:"_background_video_fallback";a:2:{s:3:"url";s:0:"";s:2:"id";s:0:"";}s:29:"_background_slideshow_gallery";a:0:{}s:23:"_background_hover_image";a:2:{s:3:"url";s:0:"";s:2:"id";s:0:"";}s:32:"_background_hover_video_fallback";a:2:{s:3:"url";s:0:"";s:2:"id";s:0:"";}s:35:"_background_hover_slideshow_gallery";a:0:{}s:11:"_mask_image";a:2:{s:3:"url";s:0:"";s:2:"id";s:0:"";}}s:8:"elements";a:0:{}s:7:"isInner";b:0;s:10:"widgetType";s:6:"spacer";s:6:"elType";s:6:"widget";}i:1;a:6:{s:2:"id";s:7:"e781879";s:8:"settings";a:11:{s:5:"title";s:18:"Leave Your Message";s:11:"header_size";s:2:"h5";s:21:"typography_typography";s:6:"custom";s:22:"typography_font_weight";s:6:"normal";s:17:"_background_image";a:2:{s:3:"url";s:0:"";s:2:"id";s:0:"";}s:26:"_background_video_fallback";a:2:{s:3:"url";s:0:"";s:2:"id";s:0:"";}s:29:"_background_slideshow_gallery";a:0:{}s:23:"_background_hover_image";a:2:{s:3:"url";s:0:"";s:2:"id";s:0:"";}s:32:"_background_hover_video_fallback";a:2:{s:3:"url";s:0:"";s:2:"id";s:0:"";}s:35:"_background_hover_slideshow_gallery";a:0:{}s:11:"_mask_image";a:2:{s:3:"url";s:0:"";s:2:"id";s:0:"";}}s:8:"elements";a:0:{}s:7:"isInner";b:0;s:10:"widgetType";s:7:"heading";s:6:"elType";s:6:"widget";}i:2;a:6:{s:2:"id";s:7:"309ca6d";s:8:"settings";a:9:{s:6:"editor";s:59:"<p>Feel free to contact with us by using the form below</p>";s:20:"typography_font_size";a:2:{s:4:"unit";s:2:"px";s:4:"size";i:12;}s:17:"_background_image";a:2:{s:3:"url";s:0:"";s:2:"id";s:0:"";}s:26:"_background_video_fallback";a:2:{s:3:"url";s:0:"";s:2:"id";s:0:"";}s:29:"_background_slideshow_gallery";a:0:{}s:23:"_background_hover_image";a:2:{s:3:"url";s:0:"";s:2:"id";s:0:"";}s:32:"_background_hover_video_fallback";a:2:{s:3:"url";s:0:"";s:2:"id";s:0:"";}s:35:"_background_hover_slideshow_gallery";a:0:{}s:11:"_mask_image";a:2:{s:3:"url";s:0:"";s:2:"id";s:0:"";}}s:8:"elements";a:0:{}s:7:"isInner";b:0;s:10:"widgetType";s:11:"text-editor";s:6:"elType";s:6:"widget";}i:3;a:6:{s:2:"id";s:7:"e32b584";s:8:"settings";a:8:{s:9:"shortcode";s:46:"[contact-form-7 id="213" title="Contact Form"]";s:17:"_background_image";a:2:{s:3:"url";s:0:"";s:2:"id";s:0:"";}s:26:"_background_video_fallback";a:2:{s:3:"url";s:0:"";s:2:"id";s:0:"";}s:29:"_background_slideshow_gallery";a:0:{}s:23:"_background_hover_image";a:2:{s:3:"url";s:0:"";s:2:"id";s:0:"";}s:32:"_background_hover_video_fallback";a:2:{s:3:"url";s:0:"";s:2:"id";s:0:"";}s:35:"_background_hover_slideshow_gallery";a:0:{}s:11:"_mask_image";a:2:{s:3:"url";s:0:"";s:2:"id";s:0:"";}}s:8:"elements";a:0:{}s:7:"isInner";b:0;s:10:"widgetType";s:9:"shortcode";s:6:"elType";s:6:"widget";}}s:7:"isInner";b:0;s:6:"elType";s:6:"column";}}s:7:"isInner";b:0;s:6:"elType";s:7:"section";}i:2;a:5:{s:2:"id";s:7:"6642261";s:8:"settings";a:12:{s:16:"background_image";a:2:{s:3:"url";s:0:"";s:2:"id";s:0:"";}s:25:"background_video_fallback";a:2:{s:3:"url";s:0:"";s:2:"id";s:0:"";}s:28:"background_slideshow_gallery";a:0:{}s:22:"background_hover_image";a:2:{s:3:"url";s:0:"";s:2:"id";s:0:"";}s:31:"background_hover_video_fallback";a:2:{s:3:"url";s:0:"";s:2:"id";s:0:"";}s:34:"background_hover_slideshow_gallery";a:0:{}s:24:"background_overlay_image";a:2:{s:3:"url";s:0:"";s:2:"id";s:0:"";}s:33:"background_overlay_video_fallback";a:2:{s:3:"url";s:0:"";s:2:"id";s:0:"";}s:36:"background_overlay_slideshow_gallery";a:0:{}s:30:"background_overlay_hover_image";a:2:{s:3:"url";s:0:"";s:2:"id";s:0:"";}s:39:"background_overlay_hover_video_fallback";a:2:{s:3:"url";s:0:"";s:2:"id";s:0:"";}s:42:"background_overlay_hover_slideshow_gallery";a:0:{}}s:8:"elements";a:1:{i:0;a:5:{s:2:"id";s:7:"b9c8db9";s:8:"settings";a:13:{s:12:"_column_size";i:100;s:16:"background_image";a:2:{s:3:"url";s:0:"";s:2:"id";s:0:"";}s:25:"background_video_fallback";a:2:{s:3:"url";s:0:"";s:2:"id";s:0:"";}s:28:"background_slideshow_gallery";a:0:{}s:22:"background_hover_image";a:2:{s:3:"url";s:0:"";s:2:"id";s:0:"";}s:31:"background_hover_video_fallback";a:2:{s:3:"url";s:0:"";s:2:"id";s:0:"";}s:34:"background_hover_slideshow_gallery";a:0:{}s:24:"background_overlay_image";a:2:{s:3:"url";s:0:"";s:2:"id";s:0:"";}s:33:"background_overlay_video_fallback";a:2:{s:3:"url";s:0:"";s:2:"id";s:0:"";}s:36:"background_overlay_slideshow_gallery";a:0:{}s:30:"background_overlay_hover_image";a:2:{s:3:"url";s:0:"";s:2:"id";s:0:"";}s:39:"background_overlay_hover_video_fallback";a:2:{s:3:"url";s:0:"";s:2:"id";s:0:"";}s:42:"background_overlay_hover_slideshow_gallery";a:0:{}}s:8:"elements";a:1:{i:0;a:6:{s:2:"id";s:7:"fa619fa";s:8:"settings";a:8:{s:5:"space";a:2:{s:4:"unit";s:2:"px";s:4:"size";i:90;}s:17:"_background_image";a:2:{s:3:"url";s:0:"";s:2:"id";s:0:"";}s:26:"_background_video_fallback";a:2:{s:3:"url";s:0:"";s:2:"id";s:0:"";}s:29:"_background_slideshow_gallery";a:0:{}s:23:"_background_hover_image";a:2:{s:3:"url";s:0:"";s:2:"id";s:0:"";}s:32:"_background_hover_video_fallback";a:2:{s:3:"url";s:0:"";s:2:"id";s:0:"";}s:35:"_background_hover_slideshow_gallery";a:0:{}s:11:"_mask_image";a:2:{s:3:"url";s:0:"";s:2:"id";s:0:"";}}s:8:"elements";a:0:{}s:7:"isInner";b:0;s:10:"widgetType";s:6:"spacer";s:6:"elType";s:6:"widget";}}s:7:"isInner";b:0;s:6:"elType";s:6:"column";}}s:7:"isInner";b:0;s:6:"elType";s:7:"section";}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[[{"id":"2a2f3cc","elType":"section","settings":{"content_width":{"unit":"px","size":1170},"gap":"no","background_background":"classic","background_image":{"url":"https:\/\/demo.woostify.com\/haute\/wp-content\/uploads\/sites\/30\/2022\/02\/slider-show.jpg","id":1190,"alt":"","source":"library"},"background_position":"top center","background_repeat":"no-repeat","background_size":"cover","padding":{"unit":"px","top":"0","right":"15","bottom":"0","left":"15","isLinked":false},"height":"min-height","custom_height":{"unit":"px","size":550,"sizes":[]},"custom_height_tablet":{"unit":"px","size":400,"sizes":[]}},"elements":[{"id":"5294a70","elType":"column","settings":{"_column_size":100},"elements":[{"id":"4cda546","elType":"widget","settings":{"image":{"url":"https:\/\/demo.woostify.com\/haute\/wp-content\/uploads\/sites\/30\/2022\/02\/text-slide.png","id":1191,"alt":"","source":"library"},"align":"left","_margin":{"unit":"px","top":"0","right":"0","bottom":"-12","left":"0","isLinked":false},"_animation":"fadeInLeft"},"elements":[],"widgetType":"image"},{"id":"e0ff0fe","elType":"widget","settings":{"title":"Enhancing your<br>\ninner beauty","typography_typography":"custom","typography_font_size":{"unit":"px","size":56},"typography_line_height":{"unit":"em","size":1.3},"typography_font_size_tablet":{"unit":"rem","size":2.5},"typography_font_size_mobile":{"unit":"rem","size":1.7},"typography_line_height_tablet":{"unit":"em","size":1.5},"typography_line_height_mobile":{"unit":"em","size":1.3},"title_color":"#FFFFFF","typography_font_family":"Fira Sans","typography_font_weight":"300","typography_letter_spacing":{"unit":"px","size":1,"sizes":[]},"_animation":"fadeInLeft","_animation_delay":500},"elements":[],"widgetType":"heading"},{"id":"1deb122","elType":"widget","settings":{"text":"Shop Now","typography_typography":"custom","typography_font_weight":"600","typography_text_transform":"uppercase","typography_line_height":{"unit":"px","size":""},"border_radius":{"unit":"px","top":"5","right":"5","bottom":"5","left":"5","isLinked":true},"text_padding":{"unit":"px","top":"18","right":"36","bottom":"18","left":"36","isLinked":false},"typography_letter_spacing":{"unit":"px","size":1},"text_padding_mobile":{"unit":"px","top":"12","right":"25","bottom":"12","left":"25","isLinked":false},"button_background_hover_color":"#FFFFFF","button_box_shadow_box_shadow":{"horizontal":0,"vertical":10,"blur":40,"spread":0,"color":"rgba(19,70,175,0.3)"},"typography_font_size":{"unit":"px","size":14},"background_color":"#FFFFFF","link":{"url":"https:\/\/demo.woostify.com\/haute\/shop-full-width\/","is_external":"","nofollow":""},"button_text_color":"#2B2B2B","hover_color":"#C54513","_animation":"fadeInUp","_animation_delay":1000},"elements":[],"widgetType":"button"}],"isInner":false}],"isInner":false},{"id":"14770bb","elType":"section","settings":{"gap":"no","height":"min-height","custom_height":{"unit":"px","size":100,"sizes":[]},"structure":"40","background_background":"classic","background_color":"#003134","custom_height_tablet":{"unit":"px","size":200,"sizes":[]},"custom_height_mobile":{"unit":"px","size":566,"sizes":[]},"padding_mobile":{"unit":"px","top":"50","right":"0","bottom":"50","left":"0","isLinked":false}},"elements":[{"id":"ed747be","elType":"column","settings":{"_column_size":25,"_inline_size":null,"align":"center","border_border":"solid","border_width":{"unit":"px","top":"0","right":"1","bottom":"0","left":"0","isLinked":false},"border_color":"#1A4649","_inline_size_tablet":50},"elements":[{"id":"8aeda87","elType":"widget","settings":{"selected_icon":{"value":{"url":"https:\/\/demo.woostify.com\/haute\/wp-content\/uploads\/sites\/30\/2022\/02\/haute-shipping.svg","id":1235},"library":"svg"},"title_text":"Flat-rate Delivery","description_text":"","position":"left","primary_color":"#FFFFFF","title_color":"#FFFFFF","title_typography_typography":"custom","title_typography_font_size":{"unit":"px","size":16,"sizes":[]},"title_typography_font_weight":"400","_element_width":"initial","title_typography_letter_spacing":{"unit":"px","size":0.5,"sizes":[]}},"elements":[],"widgetType":"icon-box"}],"isInner":false},{"id":"6162197","elType":"column","settings":{"_column_size":25,"_inline_size":null,"align":"center","border_border":"solid","border_width":{"unit":"px","top":"0","right":"1","bottom":"0","left":"0","isLinked":false},"border_color":"#1A4649","_inline_size_tablet":50},"elements":[{"id":"8ef2e7f","elType":"widget","settings":{"selected_icon":{"value":{"url":"https:\/\/demo.woostify.com\/haute\/wp-content\/uploads\/sites\/30\/2022\/02\/haute-support.svg","id":1243},"library":"svg"},"title_text":"Support 24\/7","description_text":"","position":"left","primary_color":"#FFFFFF","title_color":"#FFFFFF","title_typography_typography":"custom","title_typography_font_size":{"unit":"px","size":16,"sizes":[]},"title_typography_font_weight":"400","_element_width":"initial","title_typography_letter_spacing":{"unit":"px","size":0.5,"sizes":[]}},"elements":[],"widgetType":"icon-box"}],"isInner":false},{"id":"81af3e0","elType":"column","settings":{"_column_size":25,"_inline_size":null,"align":"center","border_border":"solid","border_width":{"unit":"px","top":"0","right":"1","bottom":"0","left":"0","isLinked":false},"border_color":"#1A4649","_inline_size_tablet":50},"elements":[{"id":"b61853d","elType":"widget","settings":{"selected_icon":{"value":{"url":"https:\/\/demo.woostify.com\/haute\/wp-content\/uploads\/sites\/30\/2022\/02\/haute-payment.svg","id":1248},"library":"svg"},"title_text":"Secure Payment","description_text":"","position":"left","primary_color":"#FFFFFF","title_color":"#FFFFFF","title_typography_typography":"custom","title_typography_font_size":{"unit":"px","size":16,"sizes":[]},"title_typography_font_weight":"400","_element_width":"initial","title_typography_letter_spacing":{"unit":"px","size":0.5,"sizes":[]}},"elements":[],"widgetType":"icon-box"}],"isInner":false},{"id":"a40fe60","elType":"column","settings":{"_column_size":25,"_inline_size":null,"align":"center","_inline_size_tablet":50},"elements":[{"id":"4b269b8","elType":"widget","settings":{"selected_icon":{"value":{"url":"https:\/\/demo.woostify.com\/haute\/wp-content\/uploads\/sites\/30\/2022\/02\/haute-return.svg","id":1244},"library":"svg"},"title_text":"Free Return","description_text":"","position":"left","primary_color":"#FFFFFF","title_color":"#FFFFFF","title_typography_typography":"custom","title_typography_font_size":{"unit":"px","size":16,"sizes":[]},"title_typography_font_weight":"400","_element_width":"initial","title_typography_letter_spacing":{"unit":"px","size":0.5,"sizes":[]}},"elements":[],"widgetType":"icon-box"}],"isInner":false}],"isInner":false},{"id":"5e80972","elType":"section","settings":{"gap":"no"},"elements":[{"id":"f30f4ef","elType":"column","settings":{"_column_size":100},"elements":[{"id":"397ffd2","elType":"widget","settings":{"space":{"unit":"px","size":78},"space_mobile":{"unit":"px","size":50}},"elements":[],"widgetType":"spacer"},{"id":"60b1e85","elType":"widget","settings":{"title":"Shop By Categories","align":"center","typography_typography":"custom","typography_font_size_mobile":{"unit":"rem","size":1.7},"typography_font_size":{"unit":"px","size":36,"sizes":[]},"typography_font_weight":"400","typography_letter_spacing":{"unit":"px","size":0.8,"sizes":[]}},"elements":[],"widgetType":"heading"},{"id":"c5ef55a","elType":"widget","settings":{"space_mobile":{"unit":"px","size":30},"space":{"unit":"px","size":54}},"elements":[],"widgetType":"spacer"}],"isInner":false}],"isInner":false},{"id":"40f4e93","elType":"section","settings":{"structure":"20","gap":"no","css_classes":"woostify-shop-category","padding_tablet":{"unit":"px","top":"0","right":"20","bottom":"0","left":"20","isLinked":false}},"elements":[{"id":"ad518e0","elType":"column","settings":{"_column_size":50,"_inline_size":null,"background_background":"classic","margin":{"unit":"px","top":"0","right":"15","bottom":"0","left":"0","isLinked":false},"_inline_size_tablet":50,"margin_mobile":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true},"margin_tablet":{"unit":"px","top":"0","right":"10","bottom":"0","left":"0","isLinked":false}},"elements":[{"id":"d3c3407","elType":"section","settings":{"structure":"20","gap":"no","margin":{"unit":"px","top":"0","right":0,"bottom":"0","left":0,"isLinked":false}},"elements":[{"id":"080002f","elType":"column","settings":{"_column_size":50,"_inline_size":null,"background_background":"classic","margin":{"unit":"px","top":"0","right":"10","bottom":"0","left":"0","isLinked":false},"margin_tablet":{"unit":"px","top":"0","right":"5","bottom":"0","left":"0","isLinked":false},"margin_mobile":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true}},"elements":[{"id":"c3398f1","elType":"widget","settings":{"image":{"id":1471,"url":"https:\/\/demo.woostify.com\/haute\/wp-content\/uploads\/sites\/30\/2022\/02\/banner-1-1-ok.jpg","alt":"","source":"library"},"image_size":"full","caption":"\u200b","link_to":"custom","link":{"url":"https:\/\/demo.woostify.com\/haute\/shop\/","is_external":"","nofollow":""},"css_filters_hover_blur":{"unit":"px","size":2},"background_hover_transition":{"unit":"px","size":0.3},"_margin":{"unit":"px","top":"0","right":"5","bottom":"0","left":"0","isLinked":false},"_margin_mobile":{"unit":"px","top":"0","right":"0","bottom":"10","left":"0","isLinked":false},"_padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false},"caption_source":"custom","align":"left","hover_animation":"float","caption_align":"center","text_color":"#FFFFFF","caption_background_color":"#2CF271","caption_typography_typography":"custom","caption_typography_font_size":{"unit":"px","size":78,"sizes":[]},"align_mobile":"center"},"elements":[],"widgetType":"image"},{"id":"c2df03a","elType":"widget","settings":{"text":"#backpack","link":{"url":"https:\/\/demo.woostify.com\/haute\/shop\/","is_external":"","nofollow":"","custom_attributes":""},"typography_typography":"custom","typography_letter_spacing":{"unit":"px","size":1,"sizes":[]},"button_text_color":"#2B2B2B","background_color":"#FFFFFF","hover_color":"#FFFFFF","button_background_hover_color":"#C54513","_element_width":"initial","_position":"absolute","_offset_x":{"size":25,"unit":"%"},"_offset_x_tablet":{"unit":"%","size":10,"sizes":[]},"_offset_x_mobile":{"unit":"%","size":"","sizes":[]},"_offset_orientation_v":"end","_offset_y_end":{"size":10.8,"unit":"%"},"_offset_y_end_tablet":{"unit":"%","size":"","sizes":[]},"_offset_y_end_mobile":{"unit":"%","size":"","sizes":[]}},"elements":[],"widgetType":"button"}],"isInner":true},{"id":"31692d0","elType":"column","settings":{"_column_size":50,"_inline_size":null,"background_background":"classic","margin":{"unit":"px","top":"0","right":"0","bottom":"0","left":"10","isLinked":false},"margin_tablet":{"unit":"px","top":"0","right":"0","bottom":"0","left":"5","isLinked":false},"margin_mobile":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true}},"elements":[{"id":"fcdd291","elType":"widget","settings":{"image":{"url":"https:\/\/demo.woostify.com\/haute\/wp-content\/uploads\/sites\/30\/2022\/02\/banner-1-2-ok.jpg","id":1472,"alt":"","source":"library"},"image_size":"full","link_to":"custom","link":{"url":"https:\/\/demo.woostify.com\/haute\/shop\/","is_external":"","nofollow":""},"css_filters_hover_blur":{"unit":"px","size":2},"background_hover_transition":{"unit":"px","size":0.3},"_margin":{"unit":"px","top":"0","right":"0","bottom":"0","left":"5","isLinked":false},"_margin_mobile":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false},"caption_source":"custom","hover_animation":"float","align_mobile":"center"},"elements":[],"widgetType":"image"},{"id":"ebec81c","elType":"widget","settings":{"text":"#shoes","link":{"url":"https:\/\/demo.woostify.com\/haute\/shop\/","is_external":"","nofollow":"","custom_attributes":""},"typography_typography":"custom","typography_letter_spacing":{"unit":"px","size":1,"sizes":[]},"button_text_color":"#2B2B2B","background_color":"#FFFFFF","hover_color":"#FFFFFF","button_background_hover_color":"#C54513","text_padding":{"unit":"px","top":"12","right":"38","bottom":"12","left":"38","isLinked":false},"_element_width":"initial","_position":"absolute","_offset_x":{"size":28,"unit":"%"},"_offset_x_tablet":{"unit":"%","size":20,"sizes":[]},"_offset_x_mobile":{"unit":"%","size":"","sizes":[]},"_offset_orientation_v":"end","_offset_y_end":{"size":10.8,"unit":"%"},"_offset_y_end_tablet":{"unit":"%","size":"","sizes":[]},"_offset_y_end_mobile":{"unit":"%","size":"","sizes":[]},"text_padding_tablet":{"unit":"px","top":"12","right":"30","bottom":"12","left":"30","isLinked":false}},"elements":[],"widgetType":"button"}],"isInner":true}],"isInner":true},{"id":"40c4661","elType":"widget","settings":{"image":{"id":1318,"url":"https:\/\/demo.woostify.com\/haute\/wp-content\/uploads\/sites\/30\/2022\/02\/banner-1-3.jpg","alt":"","source":"library"},"image_size":"full","link_to":"custom","link":{"url":"https:\/\/demo.woostify.com\/haute\/shop\/","is_external":"","nofollow":""},"css_filters_hover_blur":{"unit":"px","size":2},"background_hover_transition":{"unit":"px","size":0.3},"_margin":{"unit":"px","top":"10","right":"0","bottom":"0","left":"0","isLinked":false},"_margin_mobile":{"unit":"px","top":"0","right":"0","bottom":"10","left":"0","isLinked":false},"caption_source":"custom","align":"left","hover_animation":"float","caption_align":"center","caption_typography_typography":"custom","caption_space":{"unit":"px","size":69,"sizes":[]},"align_mobile":"center","height_mobile":{"unit":"px","size":200,"sizes":[]},"_margin_tablet":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false}},"elements":[],"widgetType":"image"},{"id":"5a6df2f","elType":"widget","settings":{"text":"#glasses","link":{"url":"https:\/\/demo.woostify.com\/haute\/shop\/","is_external":"","nofollow":"","custom_attributes":""},"typography_typography":"custom","typography_letter_spacing":{"unit":"px","size":1,"sizes":[]},"button_text_color":"#2B2B2B","background_color":"#FFFFFF","hover_color":"#FFFFFF","button_background_hover_color":"#C54513","text_padding":{"unit":"px","top":"12","right":"32","bottom":"12","left":"32","isLinked":false},"_element_width":"initial","_position":"absolute","_offset_x":{"size":38,"unit":"%"},"_offset_x_tablet":{"unit":"%","size":32,"sizes":[]},"_offset_x_mobile":{"size":29.271,"unit":"%"},"_offset_orientation_v":"end","_offset_y_end":{"size":7,"unit":"%"},"_offset_y_end_tablet":{"unit":"%","size":10,"sizes":[]},"_offset_y_end_mobile":{"size":4,"unit":"%"}},"elements":[],"widgetType":"button"}],"isInner":false},{"id":"d2df41a","elType":"column","settings":{"_column_size":50,"_inline_size":null,"background_background":"classic","_inline_size_tablet":50,"padding_tablet":{"unit":"px","top":"0","right":"0","bottom":"0","left":"10","isLinked":false},"padding_mobile":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true}},"elements":[{"id":"7c8da32","elType":"widget","settings":{"image":{"id":1319,"url":"https:\/\/demo.woostify.com\/haute\/wp-content\/uploads\/sites\/30\/2022\/02\/banner-1-4.jpg","alt":"","source":"library"},"image_size":"full","link_to":"custom","link":{"url":"https:\/\/demo.woostify.com\/haute\/shop\/","is_external":"","nofollow":""},"css_filters_hover_blur":{"unit":"px","size":2},"background_hover_transition":{"unit":"px","size":0.3},"_margin":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false},"_margin_mobile":{"unit":"px","top":"0","right":"0","bottom":"10","left":"0","isLinked":false},"caption_source":"custom","align":"right","hover_animation":"float"},"elements":[],"widgetType":"image"},{"id":"a919b7c","elType":"widget","settings":{"text":"#hats","link":{"url":"https:\/\/demo.woostify.com\/haute\/shop\/","is_external":"","nofollow":"","custom_attributes":""},"typography_typography":"custom","typography_letter_spacing":{"unit":"px","size":1,"sizes":[]},"button_text_color":"#2B2B2B","background_color":"#FFFFFF","hover_color":"#FFFFFF","button_background_hover_color":"#C54513","text_padding":{"unit":"px","top":"12","right":"45","bottom":"12","left":"45","isLinked":false},"_element_width":"initial","_position":"absolute","_offset_x":{"size":40,"unit":"%"},"_offset_x_tablet":{"unit":"%","size":32,"sizes":[]},"_offset_x_mobile":{"size":28.037,"unit":"%"},"_offset_orientation_v":"end","_offset_y_end":{"size":7,"unit":"%"},"_offset_y_end_tablet":{"unit":"%","size":10,"sizes":[]},"_offset_y_end_mobile":{"size":13.794,"unit":"%"}},"elements":[],"widgetType":"button"}],"isInner":false}],"isInner":false},{"id":"121c2a9","elType":"section","settings":{"gap":"no","padding_tablet":{"unit":"px","top":"0","right":"20","bottom":"0","left":"20","isLinked":false}},"elements":[{"id":"8232dca","elType":"column","settings":{"_column_size":100},"elements":[{"id":"c74e8fb","elType":"widget","settings":{"space":{"unit":"px","size":60},"space_mobile":{"unit":"px","size":50}},"elements":[],"widgetType":"spacer"},{"id":"367b8d8","elType":"widget","settings":{"title":"New Arrivals","align":"center","typography_typography":"custom","typography_font_size_mobile":{"unit":"rem","size":1.7},"typography_font_size":{"unit":"px","size":36,"sizes":[]},"typography_font_weight":"400","typography_letter_spacing":{"unit":"px","size":0.8,"sizes":[]}},"elements":[],"widgetType":"heading"},{"id":"85c5b3a","elType":"widget","settings":{"space":{"unit":"px","size":34}},"elements":[],"widgetType":"spacer"},{"id":"f286a02","elType":"widget","settings":{"shortcode":"[products limit=4 columns=4 orderby=\"date\"]"},"elements":[],"widgetType":"shortcode"},{"id":"fea43bf","elType":"widget","settings":{"space":{"unit":"px","size":70}},"elements":[],"widgetType":"spacer"}],"isInner":false}],"isInner":false},{"id":"f9440ab","elType":"section","settings":{"stretch_section":"section-stretched","content_width":{"unit":"px","size":1170},"background_background":"classic","background_image":{"url":"https:\/\/demo.woostify.com\/haute\/wp-content\/uploads\/sites\/30\/2022\/02\/banner.jpg","id":1279,"alt":"","source":"library"},"background_position":"center center","background_repeat":"no-repeat","background_size":"cover","gap":"no","height":"min-height","custom_height":{"unit":"px","size":800,"sizes":[]},"structure":"20","custom_height_tablet":{"unit":"px","size":500,"sizes":[]}},"elements":[{"id":"100dc85","elType":"column","settings":{"_column_size":50,"_inline_size":59.738,"_inline_size_tablet":60,"hide_mobile":"hidden-mobile"},"elements":[],"isInner":false},{"id":"b9f0624","elType":"column","settings":{"_column_size":50,"_inline_size":40.221,"_inline_size_tablet":40,"padding_mobile":{"unit":"px","top":"20","right":"20","bottom":"20","left":"20","isLinked":true}},"elements":[{"id":"1298c15","elType":"widget","settings":{"title":"keep\ncalm &\nStay\nClassy","title_color":"#FFFFFF","typography_typography":"custom","typography_font_size":{"unit":"px","size":100,"sizes":[]},"typography_font_weight":"500","typography_text_transform":"uppercase","typography_font_style":"italic","typography_letter_spacing":{"unit":"px","size":2,"sizes":[]},"typography_font_size_tablet":{"unit":"px","size":80,"sizes":[]},"typography_font_size_mobile":{"unit":"px","size":60,"sizes":[]}},"elements":[],"widgetType":"heading"}],"isInner":false}],"isInner":false},{"id":"7497390","elType":"section","settings":{"gap":"no","padding_tablet":{"unit":"px","top":"0","right":"20","bottom":"0","left":"20","isLinked":false}},"elements":[{"id":"b8687b4","elType":"column","settings":{"_column_size":100},"elements":[{"id":"f7b666f","elType":"widget","settings":{"space":{"unit":"px","size":81},"space_mobile":{"unit":"px","size":50}},"elements":[],"widgetType":"spacer"},{"id":"d4a9a59","elType":"widget","settings":{"title":"Featured Items","align":"center","typography_typography":"custom","typography_font_size_mobile":{"unit":"rem","size":1.7},"typography_font_size":{"unit":"px","size":36,"sizes":[]},"typography_font_weight":"400","typography_letter_spacing":{"unit":"px","size":0.8,"sizes":[]}},"elements":[],"widgetType":"heading"},{"id":"4cdca81","elType":"widget","settings":{"space":{"unit":"px","size":33}},"elements":[],"widgetType":"spacer"},{"id":"c602973","elType":"widget","settings":{"shortcode":"[products limit=4 columns=4 orderby=\"rand\" order=\"DESC\" ]"},"elements":[],"widgetType":"shortcode"}],"isInner":false}],"isInner":false},{"id":"d5f5a27","elType":"section","settings":{"structure":"30","margin":{"unit":"px","top":"60","right":0,"bottom":"90","left":0,"isLinked":false},"padding_tablet":{"unit":"px","top":"0","right":"10","bottom":"0","left":"10","isLinked":false}},"elements":[{"id":"088fe4b","elType":"column","settings":{"_column_size":33,"_inline_size":null,"padding_tablet":{"unit":"px","top":"10","right":"10","bottom":"10","left":"10","isLinked":true}},"elements":[{"id":"57cf487","elType":"widget","settings":{"image":{"url":"https:\/\/demo.woostify.com\/haute\/wp-content\/uploads\/sites\/30\/2022\/02\/collection-1.jpg","id":1393,"alt":"","source":"library"},"align":"center","link_to":"custom","link":{"url":"https:\/\/demo.woostify.com\/haute\/shop\/","is_external":"","nofollow":"","custom_attributes":""},"hover_animation":"shrink"},"elements":[],"widgetType":"image"},{"id":"4e58ca2","elType":"widget","settings":{"title":"Trending Eyewear","align":"center","typography_typography":"custom","typography_font_size":{"unit":"px","size":24,"sizes":[]},"typography_font_weight":"600","typography_letter_spacing":{"unit":"px","size":0.8,"sizes":[]},"_margin":{"unit":"px","top":"12","right":"0","bottom":"0","left":"0","isLinked":false},"__globals__":{"title_color":"globals\/colors?id=woostify_color_3"},"typography_font_size_tablet":{"unit":"px","size":20,"sizes":[]}},"elements":[],"widgetType":"heading"},{"id":"fde2b82","elType":"widget","settings":{"editor":"<p>Largest collection of genuine quality prescription glasses frames<\/p>","align":"center","typography_typography":"custom","typography_font_size":{"unit":"px","size":16,"sizes":[]},"typography_letter_spacing":{"unit":"px","size":0.3,"sizes":[]},"_margin":{"unit":"px","top":"0","right":"20","bottom":"0","left":"20","isLinked":false},"__globals__":{"text_color":"globals\/colors?id=woostify_color_3"}},"elements":[],"widgetType":"text-editor"},{"id":"18a4fac","elType":"widget","settings":{"text":"View Collection","align":"center","typography_typography":"custom","typography_font_size":{"unit":"px","size":16,"sizes":[]},"typography_font_weight":"500","background_color":"#02010100","border_border":"solid","border_width":{"unit":"px","top":"0","right":"0","bottom":"1","left":"0","isLinked":false},"text_padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true},"_margin":{"unit":"px","top":"-10","right":"0","bottom":"0","left":"0","isLinked":false},"__globals__":{"button_text_color":"globals\/colors?id=woostify_color_3","border_color":"globals\/colors?id=woostify_color_3","hover_color":"globals\/colors?id=woostify_color_1","button_hover_border_color":"globals\/colors?id=woostify_color_1"}},"elements":[],"widgetType":"button"}],"isInner":false},{"id":"b30cef9","elType":"column","settings":{"_column_size":33,"_inline_size":null,"margin_mobile":{"unit":"px","top":"30","right":"0","bottom":"0","left":"0","isLinked":false},"padding_tablet":{"unit":"px","top":"10","right":"10","bottom":"10","left":"10","isLinked":true}},"elements":[{"id":"d90eee8","elType":"widget","settings":{"image":{"url":"https:\/\/demo.woostify.com\/haute\/wp-content\/uploads\/sites\/30\/2022\/02\/collection-2.jpg","id":1394,"alt":"","source":"library"},"align":"center","link_to":"custom","link":{"url":"https:\/\/demo.woostify.com\/haute\/shop-full-width\/","is_external":"","nofollow":"","custom_attributes":""},"hover_animation":"shrink"},"elements":[],"widgetType":"image"},{"id":"f2923d3","elType":"widget","settings":{"title":"Weekend Collective","align":"center","typography_typography":"custom","typography_font_size":{"unit":"px","size":24,"sizes":[]},"typography_font_weight":"600","typography_letter_spacing":{"unit":"px","size":0.8,"sizes":[]},"_margin":{"unit":"px","top":"12","right":"0","bottom":"0","left":"0","isLinked":false},"__globals__":{"title_color":"globals\/colors?id=woostify_color_3"},"typography_font_size_tablet":{"unit":"px","size":20,"sizes":[]}},"elements":[],"widgetType":"heading"},{"id":"f273e5b","elType":"widget","settings":{"editor":"<p>Largest collection of genuine quality prescription glasses frames<\/p>","align":"center","typography_typography":"custom","typography_font_size":{"unit":"px","size":16,"sizes":[]},"typography_letter_spacing":{"unit":"px","size":0.3,"sizes":[]},"_margin":{"unit":"px","top":"0","right":"20","bottom":"0","left":"20","isLinked":false},"__globals__":{"text_color":"globals\/colors?id=woostify_color_3"}},"elements":[],"widgetType":"text-editor"},{"id":"9b22fd3","elType":"widget","settings":{"text":"Shop Now","align":"center","typography_typography":"custom","typography_font_size":{"unit":"px","size":16,"sizes":[]},"typography_font_weight":"500","background_color":"#02010100","border_border":"solid","border_width":{"unit":"px","top":"0","right":"0","bottom":"1","left":"0","isLinked":false},"text_padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true},"_margin":{"unit":"px","top":"-10","right":"0","bottom":"0","left":"0","isLinked":false},"__globals__":{"button_text_color":"globals\/colors?id=woostify_color_3","border_color":"globals\/colors?id=woostify_color_3","hover_color":"globals\/colors?id=woostify_color_1","button_hover_border_color":"globals\/colors?id=woostify_color_1"}},"elements":[],"widgetType":"button"}],"isInner":false},{"id":"d70e7bd","elType":"column","settings":{"_column_size":33,"_inline_size":null,"margin_mobile":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false},"padding_tablet":{"unit":"px","top":"10","right":"10","bottom":"10","left":"10","isLinked":true}},"elements":[{"id":"9edbe61","elType":"widget","settings":{"image":{"url":"https:\/\/demo.woostify.com\/haute\/wp-content\/uploads\/sites\/30\/2022\/02\/collection-3.jpg","id":1395,"alt":"","source":"library"},"align":"center","link_to":"custom","link":{"url":"https:\/\/demo.woostify.com\/haute\/shop\/","is_external":"","nofollow":"","custom_attributes":""},"hover_animation":"shrink","_margin_mobile":{"unit":"px","top":"30","right":"0","bottom":"0","left":"0","isLinked":false}},"elements":[],"widgetType":"image"},{"id":"f1d5897","elType":"widget","settings":{"title":"It\u2019s Cold Outsite","align":"center","typography_typography":"custom","typography_font_size":{"unit":"px","size":24,"sizes":[]},"typography_font_weight":"600","typography_letter_spacing":{"unit":"px","size":0.8,"sizes":[]},"_margin":{"unit":"px","top":"12","right":"0","bottom":"0","left":"0","isLinked":false},"__globals__":{"title_color":"globals\/colors?id=woostify_color_3"},"typography_font_size_tablet":{"unit":"px","size":20,"sizes":[]}},"elements":[],"widgetType":"heading"},{"id":"75f5f03","elType":"widget","settings":{"editor":"<p>Curated collection of our favorite holiday style<\/p>","align":"center","typography_typography":"custom","typography_font_size":{"unit":"px","size":16,"sizes":[]},"typography_letter_spacing":{"unit":"px","size":0.3,"sizes":[]},"_margin":{"unit":"px","top":"0","right":"50","bottom":"0","left":"50","isLinked":false},"__globals__":{"text_color":"globals\/colors?id=woostify_color_3"}},"elements":[],"widgetType":"text-editor"},{"id":"7c610ff","elType":"widget","settings":{"text":"Check It Out","align":"center","typography_typography":"custom","typography_font_size":{"unit":"px","size":16,"sizes":[]},"typography_font_weight":"500","background_color":"#02010100","border_border":"solid","border_width":{"unit":"px","top":"0","right":"0","bottom":"1","left":"0","isLinked":false},"text_padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true},"_margin":{"unit":"px","top":"-10","right":"0","bottom":"0","left":"0","isLinked":false},"__globals__":{"button_text_color":"globals\/colors?id=woostify_color_3","border_color":"globals\/colors?id=woostify_color_3","hover_color":"globals\/colors?id=woostify_color_1","button_hover_border_color":"globals\/colors?id=woostify_color_1"}},"elements":[],"widgetType":"button"}],"isInner":false}],"isInner":false}]]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_elementor_version]]></wp:meta_key>
@@ -9072,63 +9061,6 @@ Lorem turpis egestas magna, in lacinia felis arcu sit amet arcu. Cras eu risus u
 		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
-					<item>
-		<title><![CDATA[Hello world!]]></title>
-		<link>https://demo.woostify.com/haute/?p=1</link>
-		<pubDate>Sat, 20 Nov 2021 07:53:48 +0000</pubDate>
-		<dc:creator><![CDATA[woostify]]></dc:creator>
-		<guid isPermaLink="false">https://demo.woostify.com/haute/?p=1</guid>
-		<description></description>
-		<content:encoded><![CDATA[Welcome to <a href="https://demo.woostify.com/">Woostify Pro Demo Sites</a>. This is your first post. Edit or delete it, then start writing!]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>1</wp:post_id>
-		<wp:post_date><![CDATA[2021-11-20 07:53:48]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2021-11-20 07:53:48]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2022-02-25 04:11:21]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2022-02-25 04:11:21]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[hello-world__trashed]]></wp:post_name>
-		<wp:status><![CDATA[trash]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[post]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_trash_meta_status]]></wp:meta_key>
-		<wp:meta_value><![CDATA[draft]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_trash_meta_time]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1645762281]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_desired_post_slug]]></wp:meta_key>
-		<wp:meta_value><![CDATA[hello-world]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_trash_meta_comments_status]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{i:1;s:1:"1";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:comment>
-			<wp:comment_id>1</wp:comment_id>
-			<wp:comment_author><![CDATA[A WordPress Commenter]]></wp:comment_author>
-			<wp:comment_author_email><![CDATA[wapuu@wordpress.example]]></wp:comment_author_email>
-			<wp:comment_author_url>https://demo.woostify.com/</wp:comment_author_url>
-			<wp:comment_author_IP><![CDATA[]]></wp:comment_author_IP>
-			<wp:comment_date><![CDATA[2021-11-20 07:53:48]]></wp:comment_date>
-			<wp:comment_date_gmt><![CDATA[2021-11-20 07:53:48]]></wp:comment_date_gmt>
-			<wp:comment_content><![CDATA[Hi, this is a comment.
-To get started with moderating, editing, and deleting comments, please visit the Comments screen in the dashboard.
-Commenter avatars come from <a href="https://gravatar.com">Gravatar</a>.]]></wp:comment_content>
-			<wp:comment_approved><![CDATA[post-trashed]]></wp:comment_approved>
-			<wp:comment_type><![CDATA[comment]]></wp:comment_type>
-			<wp:comment_parent>0</wp:comment_parent>
-			<wp:comment_user_id>0</wp:comment_user_id>
-							</wp:comment>
-					</item>
 					<item>
 		<title><![CDATA[Deconstructing The #OOTD Pose]]></title>
 		<link>https://demo.woostify.com/haute/2018/10/16/deconstructing-the-ootd-pose/</link>
@@ -11632,32 +11564,165 @@ This e-mail was sent from a contact form on Woostify (https://woostify.com/demos
 		</wp:postmeta>
 							</item>
 					<item>
-		<title><![CDATA[Hello world!]]></title>
-		<link>https://demo.woostify.com/haute/?p=930</link>
-		<pubDate>Tue, 19 May 2020 03:04:20 +0000</pubDate>
+		<title><![CDATA[Contact Form]]></title>
+		<link>https://demo.woostify.com/haute/?post_type=wpcf7_contact_form&#038;p=213</link>
+		<pubDate>Tue, 23 Oct 2018 10:00:12 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
-		<guid isPermaLink="false">https://freedemo.woostify.com/fashion1/?p=1</guid>
+		<guid isPermaLink="false">https://woostify.com/demos/fashion1/?post_type=wpcf7_contact_form&#038;p=213</guid>
 		<description></description>
-		<content:encoded><![CDATA[Welcome to <a href="http://freedemo.woostify.com/">Woostify Free</a>. This is your first post. Edit or delete it, then start writing!]]></content:encoded>
+		<content:encoded><![CDATA[<div class="woostify-contact-form">
+    <div class="row">
+        <div class="col-md-6">
+            <label>Name*</label>
+            [text* your-name placeholder "John Doe"]
+        </div>
+
+        <div class="col-md-6">
+            <label>Email*</label>
+            [email* your-email placeholder "your@email.com"]
+        </div>
+        <div class="col-md-12">
+            <label>Subject</label>
+            [text text-87 placeholder "This is an optional"]
+        </div>
+    </div>
+    <label>Message*</label>
+    [textarea* your-message placeholder "Hi! I’d like to ask about..."]
+    [submit class:button id:buton-contact "Submit"]
+</div>
+<style>
+#buton-contact {
+    border-radius: 5px;
+}
+</style>
+1
+Woostify "[your-subject]"
+[your-name] <wordpress@woostify.com>
+c@gmail.com
+From: [your-name] <[your-email]>
+Subject: [your-subject]
+
+Message Body:
+[your-message]
+
+-- 
+This e-mail was sent from a contact form on Woostify (https://woostify.com/demos/fashion1)
+Reply-To: [your-email]
+
+
+
+
+Woostify "[your-subject]"
+Woostify <wordpress@woostify.com>
+[your-email]
+Message Body:
+[your-message]
+
+-- 
+This e-mail was sent from a contact form on Woostify (https://woostify.com/demos/fashion1)
+Reply-To: ngothaiduong2311@gmail.com
+
+
+
+Thank you for your message. It has been sent.
+There was an error trying to send your message. Please try again later.
+One or more fields have an error. Please check and try again.
+There was an error trying to send your message. Please try again later.
+You must accept the terms and conditions before sending your message.
+The field is required.
+The field is too long.
+The field is too short.
+There was an unknown error uploading the file.
+You are not allowed to upload files of this type.
+The file is too big.
+There was an error uploading the file.
+The date format is incorrect.
+The date is before the earliest one allowed.
+The date is after the latest one allowed.
+The number format is invalid.
+The number is smaller than the minimum allowed.
+The number is larger than the maximum allowed.
+The answer to the quiz is incorrect.
+The e-mail address entered is invalid.
+The URL is invalid.
+The telephone number is invalid.]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>930</wp:post_id>
-		<wp:post_date><![CDATA[2020-05-19 03:04:20]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2020-05-19 03:04:20]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2022-02-25 04:11:21]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2022-02-25 04:11:21]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[hello-world__trashed-4]]></wp:post_name>
-		<wp:status><![CDATA[trash]]></wp:status>
+		<wp:post_id>213</wp:post_id>
+		<wp:post_date><![CDATA[2018-10-23 10:00:12]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2018-10-23 10:00:12]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2021-12-04 09:20:50]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2021-12-04 09:20:50]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[contact-form]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<wp:post_type><![CDATA[wpcf7_contact_form]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_wxr_import_user_slug]]></wp:meta_key>
-		<wp:meta_value><![CDATA[woostify]]></wp:meta_value>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[_elementor_controls_usage]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_form]]></wp:meta_key>
+		<wp:meta_value><![CDATA[<div class="woostify-contact-form">
+    <div class="row">
+        <div class="col-md-6">
+            <label>Name*</label>
+            [text* your-name placeholder "John Doe"]
+        </div>
+
+        <div class="col-md-6">
+            <label>Email*</label>
+            [email* your-email placeholder "your@email.com"]
+        </div>
+        <div class="col-md-12">
+            <label>Subject</label>
+            [text text-87 placeholder "This is an optional"]
+        </div>
+    </div>
+    <label>Message*</label>
+    [textarea* your-message placeholder "Hi! I’d like to ask about..."]
+    [submit class:button id:buton-contact "Submit"]
+</div>
+<style>
+#buton-contact {
+    border-radius: 5px;
+}
+</style>]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_mail]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:9:{s:6:"active";b:1;s:7:"subject";s:25:"Woostify "[your-subject]"";s:6:"sender";s:36:"[your-name] <wordpress@woostify.com>";s:9:"recipient";s:11:"c@gmail.com";s:4:"body";s:182:"From: [your-name] <[your-email]>
+Subject: [your-subject]
+
+Message Body:
+[your-message]
+
+-- 
+This e-mail was sent from a contact form on Woostify (https://woostify.com/demos/fashion1)";s:18:"additional_headers";s:22:"Reply-To: [your-email]";s:11:"attachments";s:0:"";s:8:"use_html";b:0;s:13:"exclude_blank";b:0;}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_mail_2]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:9:{s:6:"active";b:0;s:7:"subject";s:25:"Woostify "[your-subject]"";s:6:"sender";s:33:"Woostify <wordpress@woostify.com>";s:9:"recipient";s:12:"[your-email]";s:4:"body";s:124:"Message Body:
+[your-message]
+
+-- 
+This e-mail was sent from a contact form on Woostify (https://woostify.com/demos/fashion1)";s:18:"additional_headers";s:36:"Reply-To: ngothaiduong2311@gmail.com";s:11:"attachments";s:0:"";s:8:"use_html";b:0;s:13:"exclude_blank";b:0;}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_messages]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:22:{s:12:"mail_sent_ok";s:45:"Thank you for your message. It has been sent.";s:12:"mail_sent_ng";s:71:"There was an error trying to send your message. Please try again later.";s:16:"validation_error";s:61:"One or more fields have an error. Please check and try again.";s:4:"spam";s:71:"There was an error trying to send your message. Please try again later.";s:12:"accept_terms";s:69:"You must accept the terms and conditions before sending your message.";s:16:"invalid_required";s:22:"The field is required.";s:16:"invalid_too_long";s:22:"The field is too long.";s:17:"invalid_too_short";s:23:"The field is too short.";s:13:"upload_failed";s:46:"There was an unknown error uploading the file.";s:24:"upload_file_type_invalid";s:49:"You are not allowed to upload files of this type.";s:21:"upload_file_too_large";s:20:"The file is too big.";s:23:"upload_failed_php_error";s:38:"There was an error uploading the file.";s:12:"invalid_date";s:29:"The date format is incorrect.";s:14:"date_too_early";s:44:"The date is before the earliest one allowed.";s:13:"date_too_late";s:41:"The date is after the latest one allowed.";s:14:"invalid_number";s:29:"The number format is invalid.";s:16:"number_too_small";s:47:"The number is smaller than the minimum allowed.";s:16:"number_too_large";s:46:"The number is larger than the maximum allowed.";s:23:"quiz_answer_not_correct";s:36:"The answer to the quiz is incorrect.";s:13:"invalid_email";s:38:"The e-mail address entered is invalid.";s:11:"invalid_url";s:19:"The URL is invalid.";s:11:"invalid_tel";s:32:"The telephone number is invalid.";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_additional_settings]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_locale]]></wp:meta_key>
+		<wp:meta_value><![CDATA[en_US]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wxr_import_user_slug]]></wp:meta_key>
@@ -11668,63 +11733,6 @@ This e-mail was sent from a contact form on Woostify (https://woostify.com/demos
 		<wp:meta_value><![CDATA[woostify]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_trash_meta_status]]></wp:meta_key>
-		<wp:meta_value><![CDATA[draft]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_trash_meta_time]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1645762281]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_desired_post_slug]]></wp:meta_key>
-		<wp:meta_value><![CDATA[hello-world]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_trash_meta_comments_status]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{i:5;s:1:"1";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:comment>
-			<wp:comment_id>5</wp:comment_id>
-			<wp:comment_author><![CDATA[A WordPress Commenter]]></wp:comment_author>
-			<wp:comment_author_email><![CDATA[wapuu@wordpress.example]]></wp:comment_author_email>
-			<wp:comment_author_url>http://freedemo.woostify.com/</wp:comment_author_url>
-			<wp:comment_author_IP><![CDATA[]]></wp:comment_author_IP>
-			<wp:comment_date><![CDATA[2020-05-19 03:04:20]]></wp:comment_date>
-			<wp:comment_date_gmt><![CDATA[2020-05-19 03:04:20]]></wp:comment_date_gmt>
-			<wp:comment_content><![CDATA[Hi, this is a comment.
-To get started with moderating, editing, and deleting comments, please visit the Comments screen in the dashboard.
-Commenter avatars come from <a href=\"https://gravatar.com\" rel=\"nofollow ugc\">Gravatar</a>.]]></wp:comment_content>
-			<wp:comment_approved><![CDATA[post-trashed]]></wp:comment_approved>
-			<wp:comment_type><![CDATA[comment]]></wp:comment_type>
-			<wp:comment_parent>0</wp:comment_parent>
-			<wp:comment_user_id>0</wp:comment_user_id>
-							</wp:comment>
-					</item>
-					<item>
-		<title><![CDATA[Hello world!]]></title>
-		<link>https://demo.woostify.com/haute/?p=958</link>
-		<pubDate>Fri, 23 Oct 2020 06:45:29 +0000</pubDate>
-		<dc:creator><![CDATA[woostify]]></dc:creator>
-		<guid isPermaLink="false">http://freedemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/fashion1/?p=1</guid>
-		<description></description>
-		<content:encoded><![CDATA[Welcome to <a href="http://freedemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/">Woostify Free Demo Sites</a>. This is your first post. Edit or delete it, then start writing!]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>958</wp:post_id>
-		<wp:post_date><![CDATA[2020-10-23 06:45:29]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2020-10-23 06:45:29]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2022-02-25 04:11:21]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2022-02-25 04:11:21]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[hello-world__trashed-3]]></wp:post_name>
-		<wp:status><![CDATA[trash]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[post]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
-						<wp:postmeta>
 		<wp:meta_key><![CDATA[_wxr_import_user_slug]]></wp:meta_key>
 		<wp:meta_value><![CDATA[woostify]]></wp:meta_value>
 		</wp:postmeta>
@@ -11732,100 +11740,7 @@ Commenter avatars come from <a href=\"https://gravatar.com\" rel=\"nofollow ugc\
 		<wp:meta_key><![CDATA[_wxr_import_user_slug]]></wp:meta_key>
 		<wp:meta_value><![CDATA[woostify]]></wp:meta_value>
 		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_trash_meta_status]]></wp:meta_key>
-		<wp:meta_value><![CDATA[draft]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_trash_meta_time]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1645762281]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_desired_post_slug]]></wp:meta_key>
-		<wp:meta_value><![CDATA[hello-world]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_trash_meta_comments_status]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{i:6;s:1:"1";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:comment>
-			<wp:comment_id>6</wp:comment_id>
-			<wp:comment_author><![CDATA[A WordPress Commenter]]></wp:comment_author>
-			<wp:comment_author_email><![CDATA[wapuu@wordpress.example]]></wp:comment_author_email>
-			<wp:comment_author_url>http://freedemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/</wp:comment_author_url>
-			<wp:comment_author_IP><![CDATA[]]></wp:comment_author_IP>
-			<wp:comment_date><![CDATA[2020-10-23 06:45:29]]></wp:comment_date>
-			<wp:comment_date_gmt><![CDATA[2020-10-23 06:45:29]]></wp:comment_date_gmt>
-			<wp:comment_content><![CDATA[Hi, this is a comment.
-To get started with moderating, editing, and deleting comments, please visit the Comments screen in the dashboard.
-Commenter avatars come from <a href=\"https://gravatar.com\" rel=\"nofollow ugc\">Gravatar</a>.]]></wp:comment_content>
-			<wp:comment_approved><![CDATA[post-trashed]]></wp:comment_approved>
-			<wp:comment_type><![CDATA[comment]]></wp:comment_type>
-			<wp:comment_parent>0</wp:comment_parent>
-			<wp:comment_user_id>0</wp:comment_user_id>
-							</wp:comment>
-					</item>
-					<item>
-		<title><![CDATA[Hello world!]]></title>
-		<link>https://demo.woostify.com/haute/?p=1007</link>
-		<pubDate>Thu, 19 Nov 2020 03:53:40 +0000</pubDate>
-		<dc:creator><![CDATA[woostify]]></dc:creator>
-		<guid isPermaLink="false">http://demo.woostify.com/fashion1/?p=1</guid>
-		<description></description>
-		<content:encoded><![CDATA[Welcome to <a href="http://demo.woostify.com/">Woostify Pro Demo Sites</a>. This is your first post. Edit or delete it, then start writing!]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>1007</wp:post_id>
-		<wp:post_date><![CDATA[2020-11-19 03:53:40]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2020-11-19 03:53:40]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2022-02-25 04:11:21]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2022-02-25 04:11:21]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[hello-world__trashed-2]]></wp:post_name>
-		<wp:status><![CDATA[trash]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[post]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_wxr_import_user_slug]]></wp:meta_key>
-		<wp:meta_value><![CDATA[woostify]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_trash_meta_status]]></wp:meta_key>
-		<wp:meta_value><![CDATA[draft]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_trash_meta_time]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1645762281]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_desired_post_slug]]></wp:meta_key>
-		<wp:meta_value><![CDATA[hello-world]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_trash_meta_comments_status]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{i:2;s:1:"1";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:comment>
-			<wp:comment_id>2</wp:comment_id>
-			<wp:comment_author><![CDATA[A WordPress Commenter]]></wp:comment_author>
-			<wp:comment_author_email><![CDATA[wapuu@wordpress.example]]></wp:comment_author_email>
-			<wp:comment_author_url>http://demo.woostify.com/</wp:comment_author_url>
-			<wp:comment_author_IP><![CDATA[]]></wp:comment_author_IP>
-			<wp:comment_date><![CDATA[2020-11-19 03:53:40]]></wp:comment_date>
-			<wp:comment_date_gmt><![CDATA[2020-11-19 03:53:40]]></wp:comment_date_gmt>
-			<wp:comment_content><![CDATA[Hi, this is a comment.
-To get started with moderating, editing, and deleting comments, please visit the Comments screen in the dashboard.
-Commenter avatars come from <a href=\"https://gravatar.com\" rel=\"nofollow ugc\">Gravatar</a>.]]></wp:comment_content>
-			<wp:comment_approved><![CDATA[post-trashed]]></wp:comment_approved>
-			<wp:comment_type><![CDATA[comment]]></wp:comment_type>
-			<wp:comment_parent>0</wp:comment_parent>
-			<wp:comment_user_id>0</wp:comment_user_id>
-							</wp:comment>
-					</item>
+							</item>
 					<item>
 		<title><![CDATA[Retro Liner Socks]]></title>
 		<link>https://demo.woostify.com/haute/product/retro-liner-socks/</link>
@@ -12125,184 +12040,6 @@ Eum culpa assumenda eligendi fugit laborum vitae odit deleniti illo quasi volupt
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
 		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[Contact Form]]></title>
-		<link>https://demo.woostify.com/haute/?post_type=wpcf7_contact_form&#038;p=213</link>
-		<pubDate>Tue, 23 Oct 2018 10:00:12 +0000</pubDate>
-		<dc:creator><![CDATA[woostify]]></dc:creator>
-		<guid isPermaLink="false">https://woostify.com/demos/fashion1/?post_type=wpcf7_contact_form&#038;p=213</guid>
-		<description></description>
-		<content:encoded><![CDATA[<div class="woostify-contact-form">
-    <div class="row">
-        <div class="col-md-6">
-            <label>Name*</label>
-            [text* your-name placeholder "John Doe"]
-        </div>
-
-        <div class="col-md-6">
-            <label>Email*</label>
-            [email* your-email placeholder "your@email.com"]
-        </div>
-        <div class="col-md-12">
-            <label>Subject</label>
-            [text text-87 placeholder "This is an optional"]
-        </div>
-    </div>
-    <label>Message*</label>
-    [textarea* your-message placeholder "Hi! I’d like to ask about..."]
-    [submit class:button id:buton-contact "Submit"]
-</div>
-<style>
-#buton-contact {
-    border-radius: 5px;
-}
-</style>
-1
-Woostify "[your-subject]"
-[your-name] <wordpress@woostify.com>
-c@gmail.com
-From: [your-name] <[your-email]>
-Subject: [your-subject]
-
-Message Body:
-[your-message]
-
--- 
-This e-mail was sent from a contact form on Woostify (https://woostify.com/demos/fashion1)
-Reply-To: [your-email]
-
-
-
-
-Woostify "[your-subject]"
-Woostify <wordpress@woostify.com>
-[your-email]
-Message Body:
-[your-message]
-
--- 
-This e-mail was sent from a contact form on Woostify (https://woostify.com/demos/fashion1)
-Reply-To: ngothaiduong2311@gmail.com
-
-
-
-Thank you for your message. It has been sent.
-There was an error trying to send your message. Please try again later.
-One or more fields have an error. Please check and try again.
-There was an error trying to send your message. Please try again later.
-You must accept the terms and conditions before sending your message.
-The field is required.
-The field is too long.
-The field is too short.
-There was an unknown error uploading the file.
-You are not allowed to upload files of this type.
-The file is too big.
-There was an error uploading the file.
-The date format is incorrect.
-The date is before the earliest one allowed.
-The date is after the latest one allowed.
-The number format is invalid.
-The number is smaller than the minimum allowed.
-The number is larger than the maximum allowed.
-The answer to the quiz is incorrect.
-The e-mail address entered is invalid.
-The URL is invalid.
-The telephone number is invalid.]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>213</wp:post_id>
-		<wp:post_date><![CDATA[2018-10-23 10:00:12]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2018-10-23 10:00:12]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-12-04 09:20:50]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-12-04 09:20:50]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[contact-form]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[wpcf7_contact_form]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														<wp:postmeta>
-		<wp:meta_key><![CDATA[_elementor_controls_usage]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_form]]></wp:meta_key>
-		<wp:meta_value><![CDATA[<div class="woostify-contact-form">
-    <div class="row">
-        <div class="col-md-6">
-            <label>Name*</label>
-            [text* your-name placeholder "John Doe"]
-        </div>
-
-        <div class="col-md-6">
-            <label>Email*</label>
-            [email* your-email placeholder "your@email.com"]
-        </div>
-        <div class="col-md-12">
-            <label>Subject</label>
-            [text text-87 placeholder "This is an optional"]
-        </div>
-    </div>
-    <label>Message*</label>
-    [textarea* your-message placeholder "Hi! I’d like to ask about..."]
-    [submit class:button id:buton-contact "Submit"]
-</div>
-<style>
-#buton-contact {
-    border-radius: 5px;
-}
-</style>]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_mail]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:9:{s:6:"active";b:1;s:7:"subject";s:25:"Woostify "[your-subject]"";s:6:"sender";s:36:"[your-name] <wordpress@woostify.com>";s:9:"recipient";s:11:"c@gmail.com";s:4:"body";s:182:"From: [your-name] <[your-email]>
-Subject: [your-subject]
-
-Message Body:
-[your-message]
-
--- 
-This e-mail was sent from a contact form on Woostify (https://woostify.com/demos/fashion1)";s:18:"additional_headers";s:22:"Reply-To: [your-email]";s:11:"attachments";s:0:"";s:8:"use_html";b:0;s:13:"exclude_blank";b:0;}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_mail_2]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:9:{s:6:"active";b:0;s:7:"subject";s:25:"Woostify "[your-subject]"";s:6:"sender";s:33:"Woostify <wordpress@woostify.com>";s:9:"recipient";s:12:"[your-email]";s:4:"body";s:124:"Message Body:
-[your-message]
-
--- 
-This e-mail was sent from a contact form on Woostify (https://woostify.com/demos/fashion1)";s:18:"additional_headers";s:36:"Reply-To: ngothaiduong2311@gmail.com";s:11:"attachments";s:0:"";s:8:"use_html";b:0;s:13:"exclude_blank";b:0;}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_messages]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:22:{s:12:"mail_sent_ok";s:45:"Thank you for your message. It has been sent.";s:12:"mail_sent_ng";s:71:"There was an error trying to send your message. Please try again later.";s:16:"validation_error";s:61:"One or more fields have an error. Please check and try again.";s:4:"spam";s:71:"There was an error trying to send your message. Please try again later.";s:12:"accept_terms";s:69:"You must accept the terms and conditions before sending your message.";s:16:"invalid_required";s:22:"The field is required.";s:16:"invalid_too_long";s:22:"The field is too long.";s:17:"invalid_too_short";s:23:"The field is too short.";s:13:"upload_failed";s:46:"There was an unknown error uploading the file.";s:24:"upload_file_type_invalid";s:49:"You are not allowed to upload files of this type.";s:21:"upload_file_too_large";s:20:"The file is too big.";s:23:"upload_failed_php_error";s:38:"There was an error uploading the file.";s:12:"invalid_date";s:29:"The date format is incorrect.";s:14:"date_too_early";s:44:"The date is before the earliest one allowed.";s:13:"date_too_late";s:41:"The date is after the latest one allowed.";s:14:"invalid_number";s:29:"The number format is invalid.";s:16:"number_too_small";s:47:"The number is smaller than the minimum allowed.";s:16:"number_too_large";s:46:"The number is larger than the maximum allowed.";s:23:"quiz_answer_not_correct";s:36:"The answer to the quiz is incorrect.";s:13:"invalid_email";s:38:"The e-mail address entered is invalid.";s:11:"invalid_url";s:19:"The URL is invalid.";s:11:"invalid_tel";s:32:"The telephone number is invalid.";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_additional_settings]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_locale]]></wp:meta_key>
-		<wp:meta_value><![CDATA[en_US]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wxr_import_user_slug]]></wp:meta_key>
-		<wp:meta_value><![CDATA[woostify]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wxr_import_user_slug]]></wp:meta_key>
-		<wp:meta_value><![CDATA[woostify]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wxr_import_user_slug]]></wp:meta_key>
-		<wp:meta_value><![CDATA[woostify]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wxr_import_user_slug]]></wp:meta_key>
-		<wp:meta_value><![CDATA[woostify]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 				</channel>
