@@ -143,7 +143,7 @@ require_once WOOSTIFY_SITES_DIR . 'demos/demos.php';
 function appsero_init_tracker_woostify_sites_library() {
 
     if ( ! class_exists( 'Appsero\Client' ) ) {
-        require_once __DIR__ . '/appsero/src/Client.php';
+        require_once __DIR__ . '/vendor/appsero/src/Client.php';
     }
 
     $client = new Appsero\Client( '424aa9f8-2435-4fa7-a61c-fad11ff04249', 'Woostify Sites Library', __FILE__ );

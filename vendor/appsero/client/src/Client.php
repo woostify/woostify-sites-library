@@ -74,27 +74,6 @@ class Client {
      */
     public $textdomain;
 
-    /**
-     * The Object of Insights Class
-     *
-     * @var object
-     */
-    private $insights;
-
-    /**
-     * The Object of Updater Class
-     *
-     * @var object
-     */
-    private $updater;
-
-    /**
-     * The Object of License Class
-     *
-     * @var object
-     */
-    private $license;
-
 	/**
      * Initialize the class
      *
@@ -121,14 +100,7 @@ class Client {
             require_once __DIR__ . '/Insights.php';
         }
 
-        // if already instantiated, return the cached one
-        if ( $this->insights ) {
-            return $this->insights;
-        }
-
-        $this->insights = new Insights( $this );
-
-        return $this->insights;
+        return new Insights( $this );
     }
 
     /**
@@ -142,14 +114,7 @@ class Client {
             require_once __DIR__ . '/Updater.php';
         }
 
-        // if already instantiated, return the cached one
-        if ( $this->updater ) {
-            return $this->updater;
-        }
-
-        $this->updater = new Updater( $this );
-
-        return $this->updater;
+        return new Updater( $this );
     }
 
     /**
@@ -163,14 +128,7 @@ class Client {
             require_once __DIR__ . '/License.php';
         }
 
-        // if already instantiated, return the cached one
-        if ( $this->license ) {
-            return $this->license;
-        }
-
-        $this->license = new License( $this );
-
-        return $this->license;
+        return new License( $this );
     }
 
     /**

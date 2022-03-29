@@ -39,17 +39,9 @@ class Insights {
     protected $client;
 
     /**
-     * @var boolean
-     */
-    private $plugin_data = false;
-
-
-    /**
      * Initialize the class
      *
-     * @param      $client
-     * @param null $name
-     * @param null $file
+     * @param AppSero\Client
      */
     public function __construct( $client, $name = null, $file = null ) {
 
@@ -69,17 +61,6 @@ class Insights {
      */
     public function hide_notice() {
         $this->show_notice = false;
-
-        return $this;
-    }
-
-    /**
-     * Add plugin data if needed
-     *
-     * @return \self
-     */
-    public function add_plugin_data() {
-        $this->plugin_data = true;
 
         return $this;
     }
@@ -184,6 +165,11 @@ class Insights {
      * @return void
      */
     public function send_tracking_data( $override = false ) {
+        // skip on AJAX Requests
+        if ( defined( 'DOING_AJAX' ) && DOING_AJAX ) {
+            return;
+        }
+
         if ( ! $this->tracking_allowed() && ! $override ) {
             return;
         }
@@ -241,26 +227,7 @@ class Insights {
             'ip_address'       => $this->get_user_ip_address(),
             'project_version'  => $this->client->project_version,
             'tracking_skipped' => false,
-            'is_local'         => $this->is_local_server(),
         );
-
-        $plugins_data = array();
-        foreach ( $all_plugins['active_plugins'] as $slug => $plugin) {
-
-            $slug = strstr( $slug, '/', true );
-            if( ! $slug )
-                continue;
-
-            $plugins_data[ $slug ] = array(
-                'name' => isset( $plugin['name'] ) ? $plugin['name'] : '',
-                'version' => isset( $plugin['version'] ) ? $plugin['version'] : '',
-            );
-        }
-
-        // Add Plugins
-        if( $this->plugin_data ) {
-            $data['plugins'] = $plugins_data;
-        }
 
         // Add metadata
         if ( $extra = $this->get_extra_data() ) {
@@ -355,17 +322,9 @@ class Insights {
      * @return boolean
      */
     private function is_local_server() {
+        return false;
 
-        $host       = $_SERVER['HTTP_HOST'];
-        $ip         = $_SERVER['SERVER_ADDR'];
-        $is_local   = false;
-
-        if( in_array( $ip,array( '127.0.0.1', '::1' ) )
-            || ! strpos( $host, '.' )
-            || in_array( strrchr( $host, '.' ), array( '.test', '.testing', '.local', '.localhost', '.localdomain' ) )
-        ) {
-            $is_local = true;
-        }
+        $is_local = in_array( $_SERVER['REMOTE_ADDR'], array( '127.0.0.1', '::1' ) );
 
         return apply_filters( 'appsero_is_local', $is_local );
     }
@@ -429,7 +388,7 @@ class Insights {
 
         $notice .= ' (<a class="' . $this->client->slug . '-insights-data-we-collect" href="#">' . $this->client->__trans( 'what we collect' ) . '</a>)';
         $notice .= '<p class="description" style="display:none;">' . implode( ', ', $this->data_we_collect() ) . '. No sensitive data is tracked. ';
-        $notice .= 'We are using Appsero to collect your data. <a href="' . $policy_url . '" target="_blank">Learn more</a> about how Appsero collects and handle your data.</p>';
+        $notice .= 'We are using Appsero to collect your data. <a href="' . $policy_url . '">Learn more</a> about how Appsero collects and handle your data.</p>';
 
         echo '<div class="updated"><p>';
             echo $notice;
@@ -794,7 +753,7 @@ class Insights {
 
         $this->deactivation_modal_styles();
         $reasons = $this->get_uninstall_reasons();
-        $custom_reasons = apply_filters( 'appsero_custom_deactivation_reasons', array() );
+        $custom_reasons = apply_filters( 'appsero_custom_deactivation_reasons', [] );
         ?>
 
         <div class="wd-dr-modal" id="<?php echo $this->client->slug; ?>-wd-dr-modal">
@@ -990,10 +949,10 @@ class Insights {
     private function send_tracking_skipped_request() {
         $skipped = get_option( $this->client->slug . '_tracking_skipped' );
 
-        $data = array(
+        $data = [
             'hash'               => $this->client->hash,
             'previously_skipped' => false,
-        );
+        ];
 
         if ( $skipped === 'yes' ) {
             $data['previously_skipped'] = true;
