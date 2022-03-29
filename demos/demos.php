@@ -641,6 +641,7 @@ function woostify_sites_local_import_files() {
 			'blog_page'                    => 'Blog',
 			'primary_menu'                 => 'Header Primary',
 			'footer_menu'                  => 'Footer',
+			'vertical_menu'                => 'Menu Vertical',
 			'type'                         => 'pro',
 			'page_builder'                 => 'elementor',
 			'font_page'                    => 222,
