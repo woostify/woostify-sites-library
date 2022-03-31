@@ -16,10 +16,6 @@ class ComposerStaticInit04828d80146b9fd8fbee50609a30f85a
         array (
             'Monolog\\' => 8,
         ),
-        'A' => 
-        array (
-            'Appsero\\' => 8,
-        ),
     );
 
     public static $prefixDirsPsr4 = array (
@@ -35,14 +31,6 @@ class ComposerStaticInit04828d80146b9fd8fbee50609a30f85a
         array (
             0 => __DIR__ . '/..' . '/monolog/monolog/src/Monolog',
         ),
-        'Appsero\\' => 
-        array (
-            0 => __DIR__ . '/..' . '/appsero/client/src',
-        ),
-    );
-
-    public static $classMap = array (
-        'Composer\\InstalledVersions' => __DIR__ . '/..' . '/composer/InstalledVersions.php',
     );
 
     public static function getInitializer(ClassLoader $loader)
@@ -50,7 +38,6 @@ class ComposerStaticInit04828d80146b9fd8fbee50609a30f85a
         return \Closure::bind(function () use ($loader) {
             $loader->prefixLengthsPsr4 = ComposerStaticInit04828d80146b9fd8fbee50609a30f85a::$prefixLengthsPsr4;
             $loader->prefixDirsPsr4 = ComposerStaticInit04828d80146b9fd8fbee50609a30f85a::$prefixDirsPsr4;
-            $loader->classMap = ComposerStaticInit04828d80146b9fd8fbee50609a30f85a::$classMap;
 
         }, null, ClassLoader::class);
     }

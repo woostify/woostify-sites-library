@@ -630,7 +630,7 @@ function woostify_sites_local_import_files() {
 
 		array(
 			'id'                           => 18,
-			'import_file_name'             => 'Freshio',
+			'import_file_name'             => 'Orgifarm',
 			'local_import_file'            => WOOSTIFY_SITES_DIR . 'demos/demo-19/demo-content.xml',
 			'local_import_widget_file'     => WOOSTIFY_SITES_DIR . 'demos/demo-19/widgets.wie',
 			'local_import_customizer_file' => WOOSTIFY_SITES_DIR . 'demos/demo-19/customizer.dat',
