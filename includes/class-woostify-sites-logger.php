@@ -191,5 +191,5 @@ class Woostify_Sites_Logger {
 	 *
 	 * @return void
 	 */
-	private function __wakeup() {}
+	public function __wakeup() {}
 }
