@@ -2,7 +2,7 @@
 /**
  * Plugin Name:  Woostify Sites Library
  * Description:  Import site demos built with Woostify theme
- * Version:      1.3.7
+ * Version:      1.3.9
  * Author:       Woostify
  * Author URI:   https://woostify.com
  * License:      GPLv2 or later
@@ -24,7 +24,7 @@ if ( ! defined( 'WOOSTIFY_SITES_NAME' ) ) {
 }
 
 if ( ! defined( 'WOOSTIFY_SITES_VER' ) ) {
-	define( 'WOOSTIFY_SITES_VER', '1.3.7' );
+	define( 'WOOSTIFY_SITES_VER', '1.3.9' );
 }
 
 if ( ! defined( 'WOOSTIFY_SITES_FILE' ) ) {
@@ -143,7 +143,7 @@ require_once WOOSTIFY_SITES_DIR . 'demos/demos.php';
 function appsero_init_tracker_woostify_sites_library() {
 
     if ( ! class_exists( 'Appsero\Client' ) ) {
-        require_once __DIR__ . '/appsero/src/Client.php';
+        require_once __DIR__ . '/appsero/client/src/Client.php';
     }
 
     $client = new Appsero\Client( '424aa9f8-2435-4fa7-a61c-fad11ff04249', 'Woostify Sites Library', __FILE__ );

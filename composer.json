@@ -1,5 +1,4 @@
 {
-  "name": "woostify-sites",
   "description": "Import site demos built with Woostify theme",
   "keywords": ["wp", "wordpress", "theme", "onboarding", "import", "content"],
   "license": "GPLv2",
@@ -19,6 +18,7 @@
   ],
   "require": {
     "proteusthemes/wp-content-importer-v2": "^2.1.0",
-    "monolog/monolog": "^1.23"
+    "monolog/monolog": "^1.23",
+    "appsero/client": "^1.2"
   }
 }
