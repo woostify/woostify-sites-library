@@ -665,6 +665,42 @@ function woostify_sites_local_import_files() {
 			),
 		),
 
+		array(
+			'id'                           => 19,
+			'import_file_name'             => 'Ditimal',
+			'local_import_file'            => WOOSTIFY_SITES_DIR . 'demos/demo-20/demo-content.xml',
+			'local_import_widget_file'     => WOOSTIFY_SITES_DIR . 'demos/demo-20/widgets.wie',
+			'local_import_customizer_file' => WOOSTIFY_SITES_DIR . 'demos/demo-20/customizer.dat',
+			'import_preview_image_url'     => WOOSTIFY_SITES_URI . 'demos/demo-20/demo-20.png',
+			'import_notice'                => __( 'After you import this demo, you should update permalink.', 'woostify' ),
+			'preview_url'                  => 'https://demo.woostify.com/hippine/',
+			'homepage'                     => 'Homepage',
+			'blog_page'                    => 'Blog',
+			'primary_menu'                 => 'main menu',
+			'footer_menu'                  => '',
+			'type'                         => 'pro',
+			'page_builder'                 => 'elementor',
+			'font_page'                    => 1600,
+			'page'                         => array(
+				'1600' => array(
+					'title'   => 'Home',
+					'id'      => 1600,
+					'preview' => WOOSTIFY_SITES_URI . 'demos/demo-20/demo-20.png',
+
+				),
+				'790' => array(
+					'title'   => 'Contact',
+					'id'      => 790,
+					'preview' => WOOSTIFY_SITES_URI . 'demos/demo-20/contact.jpg',
+				),
+				'740' => array(
+					'title'   => 'About Us',
+					'id'      => 740,
+					'preview' => WOOSTIFY_SITES_URI . 'demos/demo-20/about.jpg',
+				),
+			),
+		),
+
 	);
 }
 add_filter( 'woostify_sites_import_files', 'woostify_sites_local_import_files' );
