@@ -3,8 +3,8 @@ Contributors: woostify, ptp
 Tags: demo, theme demos, one click import
 Requires at least: 4.4
 Requires PHP: 5.6
-Tested up to: 5.9.2
-Stable tag: 1.3.9
+Tested up to: 6.0
+Stable tag: 1.4.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -49,6 +49,9 @@ Integrating Appsero SDK **DOES NOT IMMEDIATELY** start gathering data, **without
 Learn more about how [Appsero collects and uses this data](https://appsero.com/privacy-policy/).
 
 == Changelog ==
+= 1.4.0 =
+* Add Ditimal demo
+
 = 1.3.9 =
 * Fix problem content after import
 
