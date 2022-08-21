@@ -271,6 +271,7 @@ class Woostify_Sites {
 		add_action( 'admin_init', array( $this, 'woostify_sites_register_import_files' ) );
 		add_action( 'wp_ajax_woostify_sites_feature_activated', array( $this, 'woostify_ajax_all_feature_activated' ) );
 		add_action( 'wp_ajax_woostify_sites_module_action', array( $this, 'woostify_ajax_module_action' ) );
+		add_action( 'wxr_importer.processed.post', array( $this, 'index_data' ), 10, 5 );
 		add_action(
 			'admin_init',
 			function () {
@@ -396,6 +397,24 @@ class Woostify_Sites {
 		if ( ! is_child_theme() ) {
 			set_transient( $this->theme->template . '_woostify_sites_redirect', 1 );
 		}
+	}
+
+	/**
+	 * Import revolution slider.
+	 *
+	 * @param string $file Path to the revolution slider zip file.
+	 */
+	public function index_data( $post_id, $data, $meta, $comments, $terms ) {
+
+		if ( ! class_exists( 'Woostify_Pro' ) ) {
+			return 'failed';
+		}
+
+		$index = new Woostify_Pro();
+
+		$response = $index->index_data($post_id, $data, $meta, $comments, $terms);
+
+		$this->logger->info( __( 'The data was indexed', 'woostify-sites-library' ) );
 	}
 
 	/**
