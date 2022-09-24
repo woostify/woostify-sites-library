@@ -88,14 +88,12 @@ var Woostify_Sites = (function($){
                     $('.merlin__footer-sticky').removeClass('show');
                 }
             }
-            
         });
 
         $(".button-next").on( "click", function(e) {
             e.preventDefault();
             if ( ! getCookie('demo') || getCookie('demo') == 'undefined' ) {
                 alert('You have to select a demo before start importing.');
-                console.log(getCookie('demo'));
                 return;
             }
             var loading_button = merlin_loading_button(this);
@@ -209,7 +207,7 @@ var Woostify_Sites = (function($){
 
         $('.merlin__demos ').on( 'click', '.js-select-demo', function() {
             current_index = $( this ).data('content');
-            select_demo_btn.removeClass('merlin__demo-button--primary');
+            $(document).find('.js-select-demo').removeClass('merlin__demo-button--primary');
             console.log(current_index);
             document.cookie = "demo=" + current_index;
             var $this = $(this);
@@ -476,7 +474,9 @@ var Woostify_Sites = (function($){
         function ajax_callback(response) {
 
             var currentSpan = $current_node.find("label");
+            console.log(currentSpan);
             if(typeof response == "object" && typeof response.message !== "undefined"){
+                console.log(response);
                 currentSpan.addClass(response.message.toLowerCase());
 
                 if( typeof response.num_of_imported_posts !== "undefined" && 0 < total_content_import_items ) {
@@ -489,7 +489,7 @@ var Woostify_Sites = (function($){
                     if(response.hash === current_item_hash){
                         currentSpan.addClass("status--failed");
                         find_next();
-                    }else {
+                    } else {
                         current_item_hash = response.hash;
 
                         // Fix the undefined selected_index issue on new AJAX calls.
@@ -544,6 +544,7 @@ var Woostify_Sites = (function($){
             }
             var $items = $(".merlin__drawer--import-content__list-item");
             var $enabled_items = $(".merlin__drawer--import-content__list-item input:checked");
+            console.log( current_item );
             $items.each(function(){
                 if (current_item == "" || do_next) {
                     current_item = $(this).data("content");
