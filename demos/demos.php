@@ -701,6 +701,78 @@ function woostify_sites_local_import_files() {
 			),
 		),
 
+		array(
+			'id'                           => 20,
+			'import_file_name'             => 'Fitdo',
+			'local_import_file'            => WOOSTIFY_SITES_DIR . 'demos/demo-21/demo-content.xml',
+			'local_import_widget_file'     => WOOSTIFY_SITES_DIR . 'demos/demo-21/widgets.wie',
+			'local_import_customizer_file' => WOOSTIFY_SITES_DIR . 'demos/demo-21/customizer.dat',
+			'import_preview_image_url'     => WOOSTIFY_SITES_URI . 'demos/demo-21/demo-21.png',
+			'import_notice'                => __( 'After you import this demo, you should update permalink.', 'woostify' ),
+			'preview_url'                  => 'https://demo.woostify.com/fitdo/',
+			'homepage'                     => 'Homepage',
+			'blog_page'                    => 'Blog',
+			'primary_menu'                 => 'Main menu',
+			'footer_menu'                  => '',
+			'type'                         => 'pro',
+			'page_builder'                 => 'elementor',
+			'font_page'                    => 13,
+			'page'                         => array(
+				'13' => array(
+					'title'   => 'Home',
+					'id'      => 13,
+					'preview' => WOOSTIFY_SITES_URI . 'demos/demo-21/demo-21.png',
+
+				),
+				'443' => array(
+					'title'   => 'Contact',
+					'id'      => 443,
+					'preview' => WOOSTIFY_SITES_URI . 'demos/demo-21/contact.jpg',
+				),
+				'287' => array(
+					'title'   => 'About Us',
+					'id'      => 287,
+					'preview' => WOOSTIFY_SITES_URI . 'demos/demo-21/about.jpg',
+				),
+			),
+		),
+
+		array(
+			'id'                           => 21,
+			'import_file_name'             => 'Jery',
+			'local_import_file'            => WOOSTIFY_SITES_DIR . 'demos/demo-22/demo-content.xml',
+			'local_import_widget_file'     => WOOSTIFY_SITES_DIR . 'demos/demo-22/widgets.wie',
+			'local_import_customizer_file' => WOOSTIFY_SITES_DIR . 'demos/demo-22/customizer.dat',
+			'import_preview_image_url'     => WOOSTIFY_SITES_URI . 'demos/demo-22/demo-22.png',
+			'import_notice'                => __( 'After you import this demo, you should update permalink.', 'woostify' ),
+			'preview_url'                  => 'https://demo.woostify.com/jery/',
+			'homepage'                     => 'Home',
+			'blog_page'                    => 'Blog',
+			'primary_menu'                 => 'Main menu',
+			'footer_menu'                  => '',
+			'type'                         => 'pro',
+			'page_builder'                 => 'elementor',
+			'font_page'                    => 62,
+			'page'                         => array(
+				'62' => array(
+					'title'   => 'Home',
+					'id'      => 62,
+					'preview' => WOOSTIFY_SITES_URI . 'demos/demo-22/demo-22.png',
+
+				),
+				'616' => array(
+					'title'   => 'Contact',
+					'id'      => 616,
+					'preview' => WOOSTIFY_SITES_URI . 'demos/demo-22/contact.jpg',
+				),
+				'614' => array(
+					'title'   => 'About Us',
+					'id'      => 614,
+					'preview' => WOOSTIFY_SITES_URI . 'demos/demo-22/about.jpg',
+				),
+			),
+		),
+
 	);
 }
 add_filter( 'woostify_sites_import_files', 'woostify_sites_local_import_files' );
