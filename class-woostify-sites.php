@@ -2,7 +2,7 @@
 /**
  * Woostify Site Library WP
  * Better WordPress Theme Onboarding
- */
+ */123
 
 // Exit if accessed directly.
 if ( ! defined( 'ABSPATH' ) ) {
@@ -276,7 +276,7 @@ class Woostify_Sites {
 			'admin_init',
 			function () {
 				if ( did_action( 'elementor/loaded' ) ) {
-					remove_action( 'admin_init', [ \Elementor\Plugin::$instance->admin, 'maybe_redirect_to_getting_started' ] );
+					remove_action( 'admin_init', array( \Elementor\Plugin::$instance->admin, 'maybe_redirect_to_getting_started' ) );
 				}
 			},
 			1
@@ -412,7 +412,7 @@ class Woostify_Sites {
 
 		$index = new Woostify_Pro();
 
-		$response = $index->index_data($post_id, $data, $meta, $comments, $terms);
+		$response = $index->index_data( $post_id, $data, $meta, $comments, $terms );
 
 		$this->logger->info( __( 'The data was indexed', 'woostify-sites-library' ) );
 	}
@@ -483,12 +483,12 @@ class Woostify_Sites {
 		);
 
 		// $this->hook_suffix = add_theme_page(
-		// 	// 'themes.php',
-		// 	'Woostify Template',
-		// 	'Woostify Template',
-		// 	'edit_theme_options',
-		// 	'import-template-setting',
-		// 	array( $this, 'setting_screen' )
+		// 'themes.php',
+		// 'Woostify Template',
+		// 'Woostify Template',
+		// 'edit_theme_options',
+		// 'import-template-setting',
+		// array( $this, 'setting_screen' )
 		// );
 	}
 
@@ -520,7 +520,6 @@ class Woostify_Sites {
 		// Enqueue javascript.
 		wp_enqueue_script( 'woostify-sites-admin-scripts', WOOSTIFY_SITES_URI . 'assets/js/woostify-sites.js', array( 'jquery' ), '1.0.0', true );
 
-
 		$texts = array(
 			'something_went_wrong' => esc_html__( 'Something went wrong. Please refresh the page and try again!', 'woostify-sites-library' ),
 		);
@@ -541,15 +540,15 @@ class Woostify_Sites {
 						'update'  => wp_create_nonce( 'tgmpa-update' ),
 						'install' => wp_create_nonce( 'tgmpa-install' ),
 					),
-					'tgm_bulk_url' => $this->tgmpa->get_tgmpa_url(),
-					'ajaxurl'      => admin_url( 'admin-ajax.php' ),
-					'wpnonce'      => wp_create_nonce( 'woostify_sites_nonce' ),
-					'texts'        => $texts,
-					'total_page'   => $total_page,
-					'activate'     => __( 'Activate', 'woostify-sites-library' ),
-					'activating'   => __( 'Activating...', 'woostify-sites-library' ),
-					'deactivate'   => __( 'Deactivate', 'woostify-sites-library' ),
-					'deactivating' => __( 'Deactivating...', 'woostify-sites-library' ),
+					'tgm_bulk_url'     => $this->tgmpa->get_tgmpa_url(),
+					'ajaxurl'          => admin_url( 'admin-ajax.php' ),
+					'wpnonce'          => wp_create_nonce( 'woostify_sites_nonce' ),
+					'texts'            => $texts,
+					'total_page'       => $total_page,
+					'activate'         => __( 'Activate', 'woostify-sites-library' ),
+					'activating'       => __( 'Activating...', 'woostify-sites-library' ),
+					'deactivate'       => __( 'Deactivate', 'woostify-sites-library' ),
+					'deactivating'     => __( 'Deactivating...', 'woostify-sites-library' ),
 				)
 			);
 		} else {
@@ -558,10 +557,10 @@ class Woostify_Sites {
 				'woostify-sites-admin-scripts',
 				'woostify_sites_params',
 				array(
-					'ajaxurl' => admin_url( 'admin-ajax.php' ),
-					'wpnonce' => wp_create_nonce( 'woostify_sites_nonce' ),
-					'texts'   => $texts,
-					'total_page'   => $total_page,
+					'ajaxurl'    => admin_url( 'admin-ajax.php' ),
+					'wpnonce'    => wp_create_nonce( 'woostify_sites_nonce' ),
+					'texts'      => $texts,
+					'total_page' => $total_page,
 				)
 			);
 		}
@@ -631,8 +630,8 @@ class Woostify_Sites {
 			<meta name="viewport" content="width=device-width"/>
 			<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
 			<?php printf( esc_html( $strings['title%s%s%s%s'] ), '<ti', 'tle>', esc_html( $this->theme->name ), '</title>' ); ?>
-			<?php //do_action( 'admin_print_styles' ); ?>
-			<?php //do_action( 'admin_enqueue_scripts' ); ?>
+			<?php // do_action( 'admin_print_styles' ); ?>
+			<?php // do_action( 'admin_enqueue_scripts' ); ?>
 			<?php do_action( 'admin_head' ); ?>
 		</head>
 		<body class="merlin__body merlin__body--<?php echo esc_attr( $current_step ); ?>">
@@ -1265,7 +1264,7 @@ class Woostify_Sites {
 
 	protected function modules() {
 		// Strings passed in from the config file.
-		$strings      = $this->strings;
+		$strings = $this->strings;
 		// Text strings.
 		$header       = __( 'Woostify Active Module' );
 		$skip         = $strings['btn-skip'];
@@ -1287,7 +1286,7 @@ class Woostify_Sites {
 			<h1><?php echo esc_html( $header ); ?></h1>
 
 			<div class="step-description">
-				<span class="description"><?php echo esc_html__( 'Let\'s active some modules to get your site up to speed.', 'woostify-sites-library' ) ?></span>
+				<span class="description"><?php echo esc_html__( 'Let\'s active some modules to get your site up to speed.', 'woostify-sites-library' ); ?></span>
 			</div>
 
 			<div class="woostify-enhance__column woostify-pro-module">
@@ -1374,19 +1373,19 @@ class Woostify_Sites {
 		$skip      = $strings['btn-skip'];
 		$next      = $strings['btn-next'];
 		$import    = $strings['btn-import'];
-		$all_demo = $this->import_files;
-		$demos = array();
-		foreach ($all_demo as $index => $demo) {
+		$all_demo  = $this->import_files;
+		$demos     = array();
+		foreach ( $all_demo as $index => $demo ) {
 			if ( $demo['page_builder'] == 'elementor' ) {
 				$demos[] = $demo;
 			}
 		}
 
 		if ( ! empty( $demos ) ) {
-			$demos = array_chunk( $demos, 6 );
+			$demos            = array_chunk( $demos, 6 );
 			$_SESSION['demo'] = $demos;
 		}
-		setcookie( "total_page", count( $demos ), time()+7200);
+		setcookie( 'total_page', count( $demos ), time() + 7200 );
 		$html = '';
 
 		// var_dump( $_COOKIE );
@@ -1402,7 +1401,7 @@ class Woostify_Sites {
 						<ul class="filter-links merlin__other-page-builder">
 							<li>
 								<a href="#" data-group="elementor" class="merlin__page-builder active js-select-filter">
-									<?php echo esc_html('Elementor'); ?>
+									<?php echo esc_html( 'Elementor' ); ?>
 								</a>
 							</li>
 						</ul>
@@ -1412,7 +1411,7 @@ class Woostify_Sites {
 						<ul class="filter-links merlin__categories">
 							<li>
 								<a href="#" data-group="all" class="merlin__demo-type active js-select-filter">
-								<?php echo esc_html('All'); ?>
+								<?php echo esc_html( 'All' ); ?>
 								</a>
 							</li>
 							<li>
@@ -1455,9 +1454,9 @@ class Woostify_Sites {
 										<a class="merlin__demo-button" href="<?php echo esc_url( $demo_preview_url ); ?>" target="_blank"><?php esc_html_e( 'Preview', 'woostify-sites-library' ); ?></a>
 										<?php if ( 'pro' === $demo_type && defined( 'WOOSTIFY_PRO_VERSION' ) ) : ?>
 											<button data-content="<?php echo esc_attr( $import_file['id'] ); ?>" class="merlin__demo-button js-select-demo"><?php esc_html_e( 'Select', 'woostify-sites-library' ); ?></button>
-										<?php elseif( 'pro' === $demo_type && !defined( 'WOOSTIFY_PRO_VERSION' )  ) : ?>
+										<?php elseif ( 'pro' === $demo_type && ! defined( 'WOOSTIFY_PRO_VERSION' ) ) : ?>
 											<a class="merlin__demo-button" href="https://woostify.com/pro" target="_blank"><?php esc_html_e( 'Pricing', 'woostify-sites-library' ); ?></a>
-										<?php elseif( 'free' === $demo_type ) : ?>
+										<?php elseif ( 'free' === $demo_type ) : ?>
 											<button data-content="<?php echo esc_attr( $import_file['id'] ); ?>" class="merlin__demo-button js-select-demo" data-callback="install_contents"><?php esc_html_e( 'Select', 'woostify-sites-library' ); ?></button>
 										<?php endif; ?>
 									</div>
@@ -1493,7 +1492,7 @@ class Woostify_Sites {
 	 * Page Install
 	 */
 	protected function install() {
-		$import_info = $this->get_import_data_info($_COOKIE['demo']);
+		$import_info          = $this->get_import_data_info( $_COOKIE['demo'] );
 		$this->selected_index = ! isset( $_COOKIE['demo'] ) ? false : intval( $_COOKIE['demo'] );
 
 		// Strings passed in from the config file.
@@ -1600,8 +1599,8 @@ class Woostify_Sites {
 		$links = array();
 
 		for ( $i = 1; $i < 4; $i ++ ) {
-			if ( ! empty( $strings["ready-link-$i"] ) ) {
-				$links[] = $strings["ready-link-$i"];
+			if ( ! empty( $strings[ "ready-link-$i" ] ) ) {
+				$links[] = $strings[ "ready-link-$i" ];
 			}
 		}
 
@@ -2459,7 +2458,7 @@ class Woostify_Sites {
 
 		// Get menus
 		$locations['primary']     = $this->woostify_sites_get_menu_by_name( $selected_demo['primary_menu'] );
-		$locations['vertical']     = $this->woostify_sites_get_menu_by_name( $selected_demo['vertical_menu'] );
+		$locations['vertical']    = $this->woostify_sites_get_menu_by_name( $selected_demo['vertical_menu'] );
 		$locations['footer_menu'] = $this->woostify_sites_get_menu_by_name( $selected_demo['footer_menu'] );
 
 		// Loop through our nav menus.
@@ -2476,7 +2475,7 @@ class Woostify_Sites {
 
 		// // Bail if no menus.
 		// if ( ! $nav_menu_locations ) {
-		// 	return;
+		// return;
 		// }
 		// Set the menus.
 		set_theme_mod( 'nav_menu_locations', $nav_menu_locations );
@@ -2540,21 +2539,21 @@ class Woostify_Sites {
 	public function woostify_sites_register_import_files() {
 		$this->import_files = $this->validate_import_file_info( apply_filters( 'woostify_sites_import_files', array() ) );
 
-		if( ! session_id() ) {
+		if ( ! session_id() ) {
 			session_start();
 		}
 
-		$all_demo = $this->import_files;
-		$demos = array();
+		$all_demo         = $this->import_files;
+		$demos            = array();
 		$_SESSION['demo'] = array();
-		foreach ($all_demo as $index => $demo) {
+		foreach ( $all_demo as $index => $demo ) {
 			if ( $demo['page_builder'] == 'elementor' ) {
 				$demos[] = $demo;
 			}
 		}
 
 		if ( ! empty( $demos ) ) {
-			$demos = array_chunk( $demos, 6 );
+			$demos            = array_chunk( $demos, 6 );
 			$_SESSION['demo'] = $demos;
 		}
 
@@ -2781,9 +2780,9 @@ class Woostify_Sites {
 		$import_type = $this->import_files[ $this->selected_index ]['type'];
 
 		if ( 'pro' === $import_type && defined( 'WOOSTIFY_PRO_VERSION' ) ) {
-			$modules_activated          = get_option( 'woostify_pro_fully_featured_activate' );
-			$import_info      = $this->get_import_data_info( $this->selected_index );
-			$import_info_html = $this->get_import_steps_html( $import_info );
+			$modules_activated = get_option( 'woostify_pro_fully_featured_activate' );
+			$import_info       = $this->get_import_data_info( $this->selected_index );
+			$import_info_html  = $this->get_import_steps_html( $import_info );
 			wp_send_json_success( $import_info_html );
 		}
 
@@ -2798,15 +2797,15 @@ class Woostify_Sites {
 	public function woostify_sites_update_selected_import_data_info() {
 		check_ajax_referer( 'woostify_sites_nonce' );
 		$this->selected_index = ! isset( $_POST['selected_index'] ) ? false : intval( $_POST['selected_index'] );
-		$selected_index = ! isset( $_POST['selected_index'] ) ? false : intval( $_POST['selected_index'] );
+		$selected_index       = ! isset( $_POST['selected_index'] ) ? false : intval( $_POST['selected_index'] );
 
 		$import_type = $this->import_files[ $this->selected_index ]['type'];
-		$data = 'success';
+		$data        = 'success';
 
 		if ( 'pro' === $import_type && defined( 'WOOSTIFY_PRO_VERSION' ) ) {
-			$modules_activated          = get_option( 'woostify_pro_fully_featured_activate' );
-			$import_info      = $this->get_import_data_info( $this->selected_index );
-			$import_info_html = $this->get_import_steps_html( $import_info );
+			$modules_activated = get_option( 'woostify_pro_fully_featured_activate' );
+			$import_info       = $this->get_import_data_info( $this->selected_index );
+			$import_info_html  = $this->get_import_steps_html( $import_info );
 			wp_send_json_success( $data );
 
 		}
@@ -2862,22 +2861,21 @@ class Woostify_Sites {
 	 */
 	public function woostify_sites_register_required_plugins() {
 
-		if ( isset($_COOKIE['demo']) && $_COOKIE['demo'] != NULL ) {
+		if ( isset( $_COOKIE['demo'] ) && $_COOKIE['demo'] != null ) {
 			$selected_import_index = $_COOKIE['demo'];
-			woostify_site_plugin($selected_import_index);
+			woostify_site_plugin( $selected_import_index );
 		}
 	}
 
-	public function woostify_site_filter_demo()
-	{
+	public function woostify_site_filter_demo() {
 		check_ajax_referer( 'woostify_sites_nonce' );
-		$page_builder = (isset($_POST['page_builder'])) ? $_POST['page_builder'] : 'elementor';
-		$category = (isset($_POST['category'])) ? $_POST['category'] : 'all';
-		$all_demo = $this->import_files;
-		$html = '';
-		$demos = array();
+		$page_builder = ( isset( $_POST['page_builder'] ) ) ? $_POST['page_builder'] : 'elementor';
+		$category     = ( isset( $_POST['category'] ) ) ? $_POST['category'] : 'all';
+		$all_demo     = $this->import_files;
+		$html         = '';
+		$demos        = array();
 
-		foreach ($all_demo as $demo) {
+		foreach ( $all_demo as $demo ) {
 
 			if ( $category === 'all' || $demo['type'] === $category ) {
 				if ( $demo['page_builder'] === $page_builder ) {
@@ -2887,38 +2885,37 @@ class Woostify_Sites {
 		}
 
 		if ( ! empty( $demos ) ) {
-			$demos = array_chunk( $demos, 6 );
+			$demos            = array_chunk( $demos, 6 );
 			$_SESSION['demo'] = $demos;
-			setcookie( "total_page", count( $demos ), time()+7200);
+			setcookie( 'total_page', count( $demos ), time() + 7200 );
 			foreach ( $demos[0] as $demo ) {
-				$html .= $this->woostify_demo_template($demo);
+				$html .= $this->woostify_demo_template( $demo );
 			}
 		} else {
-			$html = '<h3 class="noting-found">' . esc_html__('Sorry! There is no demo for your choice.') . '</h3>';
+			$html = '<h3 class="noting-found">' . esc_html__( 'Sorry! There is no demo for your choice.' ) . '</h3>';
 		}
 
-		wp_send_json_success($html);
+		wp_send_json_success( $html );
 	}
 
-	public function woostify_demo_template($demo)
-	{
+	public function woostify_demo_template( $demo ) {
 
 		$demo_name        = isset( $demo['import_file_name'] ) ? $demo['import_file_name'] : 'Untitled Demo';
 		$demo_image       = isset( $demo['import_preview_image_url'] ) ? $demo['import_preview_image_url'] : $this->theme->get_screenshot();
 		$demo_preview_url = isset( $demo['preview_url'] ) ? $demo['preview_url'] : '';
 		$demo_type        = isset( $demo['type'] ) ? $demo['type'] : 'free';
-		$image_html = '';
-		$button = '';
+		$image_html       = '';
+		$button           = '';
 		if ( ! empty( $demo_image ) ) :
 
 			$image_html = '<img src="' . esc_url( $demo_image ) . ' " alt="' . esc_attr( 'Demo Image', 'woostify-sites-library' ) . '">';
 		endif;
 		if ( 'pro' === $demo_type && defined( 'WOOSTIFY_PRO_VERSION' ) ) {
 			$button = '<button data-content="' . esc_attr( $demo['id'] ) . '" class="merlin__demo-button js-select-demo">' . esc_html__( 'Select', 'woostify-sites-library' ) . '</button>';
-		} elseif ( 'pro' === $demo_type && !defined( 'WOOSTIFY_PRO_VERSION' ) ) {
+		} elseif ( 'pro' === $demo_type && ! defined( 'WOOSTIFY_PRO_VERSION' ) ) {
 			$button = '<a class="merlin__demo-button" href="https://woostify.com/pro" target="_blank">' . esc_html__( 'Pricing', 'woostify-sites-library' ) . '</a>';
-		} elseif( 'free' === $demo_type ) {
-			$button = '<button data-content="' . esc_attr( $demo['id'] ) .'" class="merlin__demo-button js-select-demo" data-callback="install_contents">' . esc_html__( 'Select', 'woostify-sites-library' ) .'</button>';
+		} elseif ( 'free' === $demo_type ) {
+			$button = '<button data-content="' . esc_attr( $demo['id'] ) . '" class="merlin__demo-button js-select-demo" data-callback="install_contents">' . esc_html__( 'Select', 'woostify-sites-library' ) . '</button>';
 		}
 
 		$html = '<div class="merlin__demo">
@@ -2939,18 +2936,17 @@ class Woostify_Sites {
 		return $html;
 	}
 
-	public function woostify_sites_load_more_demo()
-	{
+	public function woostify_sites_load_more_demo() {
 		check_ajax_referer( 'woostify_sites_nonce' );
-		$page     = ( isset( $_POST['page'] ) ) ? $_POST['page'] : 1;
-		$page     = (int) $page;
-		$page_builder = (isset($_POST['page_builder'])) ? $_POST['page_builder'] : 'elementor';
-		$category = (isset($_POST['category'])) ? $_POST['category'] : 'all';
-		$all_demo = $this->import_files;
-		$html = '';
-		$demos = array();
+		$page         = ( isset( $_POST['page'] ) ) ? $_POST['page'] : 1;
+		$page         = (int) $page;
+		$page_builder = ( isset( $_POST['page_builder'] ) ) ? $_POST['page_builder'] : 'elementor';
+		$category     = ( isset( $_POST['category'] ) ) ? $_POST['category'] : 'all';
+		$all_demo     = $this->import_files;
+		$html         = '';
+		$demos        = array();
 
-		foreach ($all_demo as $demo) {
+		foreach ( $all_demo as $demo ) {
 			if ( $category === 'all' || $demo['type'] === $category ) {
 				if ( $demo['page_builder'] === $page_builder ) {
 					$demos[] = $demo;
@@ -2959,48 +2955,46 @@ class Woostify_Sites {
 		}
 
 		if ( ! empty( $demos ) ) {
-			$demos = array_chunk( $demos, 6 );
+			$demos            = array_chunk( $demos, 6 );
 			$_SESSION['demo'] = $demos;
-			setcookie( "total_page", count( $demos ), time()+7200);
-			foreach ( $demos[$page] as $demo ) {
-				$html .= $this->woostify_demo_template($demo);
+			setcookie( 'total_page', count( $demos ), time() + 7200 );
+			foreach ( $demos[ $page ] as $demo ) {
+				$html .= $this->woostify_demo_template( $demo );
 			}
 		} else {
-			$html = '<h3 class="noting-found">' . esc_html__('Sorry! There is no demo for your choice.') . '</h3>';
+			$html = '<h3 class="noting-found">' . esc_html__( 'Sorry! There is no demo for your choice.' ) . '</h3>';
 		}
 
-		setcookie( "total_page", count($demos), time()+7200);
+		setcookie( 'total_page', count( $demos ), time() + 7200 );
 
-		wp_send_json_success($html);
+		wp_send_json_success( $html );
 	}
 
-	public function woostify_sites_start_session()
-	{
-		if( ! session_id() ) {
+	public function woostify_sites_start_session() {
+		if ( ! session_id() ) {
 			session_start();
 		}
 
-		$all_demo = $this->import_files;
-		$demos = array();
+		$all_demo         = $this->import_files;
+		$demos            = array();
 		$_SESSION['demo'] = array();
-		foreach ($all_demo as $index => $demo) {
+		foreach ( $all_demo as $index => $demo ) {
 			if ( $demo['page_builder'] == 'elementor' ) {
 				$demos[] = $demo;
 			}
 		}
 
 		if ( ! empty( $demos ) ) {
-			$demos = array_chunk( $demos, 6 );
+			$demos            = array_chunk( $demos, 6 );
 			$_SESSION['demo'] = $demos;
 		}
 		session_write_close();
 	}
 
-	public function woostify_sites_set_cookie()
-	{
+	public function woostify_sites_set_cookie() {
 		$total_page = 1;
-		if( ! headers_sent() ) {
-			setcookie( "total_page", $total_page, time()+7200 );
+		if ( ! headers_sent() ) {
+			setcookie( 'total_page', $total_page, time() + 7200 );
 		}
 	}
 
@@ -3026,7 +3020,7 @@ class Woostify_Sites {
 										<div class="form-ajax-wrapper">
 											<div class="filter-category">
 												<div class="filter-category-wrapper">
-													<span id="filter-category-selected" class="filter-category-selected"><?php echo esc_html__( 'All', 'woostify-sites-library' ) ?></span>
+													<span id="filter-category-selected" class="filter-category-selected"><?php echo esc_html__( 'All', 'woostify-sites-library' ); ?></span>
 													<ul class="list-sort">
 														<li class="sortby-item" slug="">
 															<?php echo esc_html__( 'All', 'woostify-sites-library' ); ?>
@@ -3066,12 +3060,12 @@ class Woostify_Sites {
 				<div class="woostify-template-body">
 					<div id="woostify-demo-theme" class="woostify-demo-theme woostify-demo-template">
 						<div class="list-demo-template">
-							<?php foreach ( $demo_template as $demo ): ?>
+							<?php foreach ( $demo_template as $demo ) : ?>
 								<div class="template-item" demo-id="<?php echo $demo['id']; ?>">
 									<div class="item-template-wrapper">
 										<div class="template-image">
-											<img src="<?php echo esc_url( $demo['import_preview_image_url'] ) ?>" alt="<?php echo esc_attr( $demo['import_file_name'] ); ?>">
-											<?php if ( $demo['type'] == 'pro' ): ?>
+											<img src="<?php echo esc_url( $demo['import_preview_image_url'] ); ?>" alt="<?php echo esc_attr( $demo['import_file_name'] ); ?>">
+											<?php if ( $demo['type'] == 'pro' ) : ?>
 												<span class="pro-lable"><?php echo esc_html__( 'Pro', 'woostify-sites-library' ); ?></span>
 											<?php endif ?>
 										</div>
@@ -3079,7 +3073,7 @@ class Woostify_Sites {
 											<div class="info-wrapper">
 												<div class="template-name">
 													<span class="demo-name">
-														<?php echo esc_html( $demo['import_file_name'] ) ?>
+														<?php echo esc_html( $demo['import_file_name'] ); ?>
 													</span>
 												</div>
 												<div class="wishlist">
@@ -3148,7 +3142,7 @@ class Woostify_Sites {
 		}
 		$response['fully_featured_activate'] = get_option( 'woostify_pro_fully_featured_activate' );
 
-		wp_send_json_success($response);
+		wp_send_json_success( $response );
 	}
 
 	/**
@@ -3184,7 +3178,7 @@ class Woostify_Sites {
 			if ( $_POST['counter'] && count( $modules ) == $_POST['counter'] ) {
 				update_option( 'woostify_pro_fully_featured_activate', 1 );
 			}
-			$response['index'] = $_POST['counter'];
+			$response['index']                   = $_POST['counter'];
 			$response['fully_featured_activate'] = get_option( 'woostify_pro_fully_featured_activate' );
 
 			wp_send_json_success( $response );
