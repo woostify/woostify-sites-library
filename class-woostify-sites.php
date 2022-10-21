@@ -2,7 +2,7 @@
 /**
  * Woostify Site Library WP
  * Better WordPress Theme Onboarding
- */123
+ */
 
 // Exit if accessed directly.
 if ( ! defined( 'ABSPATH' ) ) {
