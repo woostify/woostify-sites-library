@@ -2,7 +2,7 @@
 /**
  * Plugin Name:  Woostify Sites Library
  * Description:  Import site demos built with Woostify theme
- * Version:      1.4.0
+ * Version:      1.4.1
  * Author:       Woostify
  * Author URI:   https://woostify.com
  * License:      GPLv2 or later
@@ -49,9 +49,8 @@ require_once WOOSTIFY_SITES_DIR . 'vendor/autoload.php';
 /**
  * Set directory locations, text strings, and settings.
  */
-$wizard = new Woostify_Sites(
-
-	$config = array(
+$wizard      = new Woostify_Sites(
+	$config  = array(
 		'woostify_sites_url'   => 'woostify-sites', // The wp-admin page slug where Merlin WP loads.
 		'parent_slug'          => 'themes.php', // The wp-admin parent page slug for the admin menu item.
 		'capability'           => 'manage_options', // The capability required for this menu to be displayed to the user.
@@ -65,7 +64,6 @@ $wizard = new Woostify_Sites(
 		'edd_theme_slug'       => '', // EDD_Theme_Updater_Admin item_slug.
 		'ready_big_button_url' => '', // Link for the big button on the ready step.
 	),
-
 	$strings = array(
 		'admin-menu'               => esc_html__( 'Woostify Sites Library', 'woostify-sites-library' ),
 
@@ -142,14 +140,14 @@ require_once WOOSTIFY_SITES_DIR . 'demos/demos.php';
  */
 function appsero_init_tracker_woostify_sites_library() {
 
-    if ( ! class_exists( 'Appsero\Client' ) ) {
-        require_once __DIR__ . '/appsero/client/src/Client.php';
-    }
+	if ( ! class_exists( 'Appsero\Client' ) ) {
+		require_once __DIR__ . '/appsero/client/src/Client.php';
+	}
 
-    $client = new Appsero\Client( '424aa9f8-2435-4fa7-a61c-fad11ff04249', 'Woostify Sites Library', __FILE__ );
+	$client = new Appsero\Client( '424aa9f8-2435-4fa7-a61c-fad11ff04249', 'Woostify Sites Library', __FILE__ );
 
-    // Active insights
-    $client->insights()->hide_notice()->init();
+	// Active insights
+	$client->insights()->hide_notice()->init();
 
 }
 
