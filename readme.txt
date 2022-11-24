@@ -4,7 +4,7 @@ Tags: demo, theme demos, one click import
 Requires at least: 4.4
 Requires PHP: 5.6
 Tested up to: 6.0
-Stable tag: 1.4.2
+Stable tag: 1.4.3
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -49,6 +49,9 @@ Integrating Appsero SDK **DOES NOT IMMEDIATELY** start gathering data, **without
 Learn more about how [Appsero collects and uses this data](https://appsero.com/privacy-policy/).
 
 == Changelog ==
+= 1.4.3 =
+* Remove hijacked content on demo fashion 1
+
 = 1.4.2 =
 * Re-update all demo content for Elementor 3.8
 
