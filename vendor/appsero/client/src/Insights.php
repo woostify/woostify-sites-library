@@ -725,7 +725,7 @@ class Insights {
      * @return void
      */
     public function uninstall_reason_submission() {
-
+        check_ajax_referer( 'appsero_security_nonce', 'nonce' );
         if ( ! isset( $_POST['reason_id'] ) ) {
             wp_send_json_error();
         }
@@ -874,7 +874,8 @@ class Insights {
                             data: {
                                 action: '<?php echo $this->client->slug; ?>_submit-uninstall-reason',
                                 reason_id: ( 0 === $radio.length ) ? 'none' : $radio.val(),
-                                reason_info: ( 0 !== $input.length ) ? $input.val().trim() : ''
+                                reason_info: ( 0 !== $input.length ) ? $input.val().trim() : '',
+                                nonce: '<?php echo wp_create_nonce( 'appsero_security_nonce' ); ?>'
                             },
                             beforeSend: function() {
                                 button.addClass('disabled');
