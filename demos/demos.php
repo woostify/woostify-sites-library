@@ -673,7 +673,7 @@ function woostify_sites_local_import_files() {
 			'local_import_customizer_file' => WOOSTIFY_SITES_DIR . 'demos/demo-20/customizer.dat',
 			'import_preview_image_url'     => WOOSTIFY_SITES_URI . 'demos/demo-20/demo-20.png',
 			'import_notice'                => __( 'After you import this demo, you should update permalink.', 'woostify' ),
-			'preview_url'                  => 'https://demo.woostify.com/hippine/',
+			'preview_url'                  => 'https://demo.woostify.com/ditimal/',
 			'homepage'                     => 'Homepage',
 			'blog_page'                    => 'Blog',
 			'primary_menu'                 => 'main menu',
