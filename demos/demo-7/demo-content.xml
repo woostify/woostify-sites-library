@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/6.2.2" created="2023-06-22 09:50" -->
+	<!-- generator="WordPress/6.2.2" created="2023-06-27 09:54" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
 	<title>Ankle</title>
 	<link>https://demo.woostify.com/ankle</link>
 	<description>Just another Woostify Pro Demo Sites site</description>
-	<pubDate>Thu, 22 Jun 2023 09:50:33 +0000</pubDate>
+	<pubDate>Tue, 27 Jun 2023 09:54:41 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>https://demo.woostify.com/</wp:base_site_url>
@@ -7271,7 +7271,7 @@ This e-mail was sent from a contact form on [_site_title] ([_site_url])";s:9:"re
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[pageview]]></wp:meta_key>
-		<wp:meta_value><![CDATA[63]]></wp:meta_value>
+		<wp:meta_value><![CDATA[64]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -7509,7 +7509,7 @@ This e-mail was sent from a contact form on [_site_title] ([_site_url])";s:9:"re
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[pageview]]></wp:meta_key>
-		<wp:meta_value><![CDATA[288]]></wp:meta_value>
+		<wp:meta_value><![CDATA[295]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -7747,7 +7747,7 @@ This e-mail was sent from a contact form on [_site_title] ([_site_url])";s:9:"re
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[pageview]]></wp:meta_key>
-		<wp:meta_value><![CDATA[69]]></wp:meta_value>
+		<wp:meta_value><![CDATA[70]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -8208,7 +8208,7 @@ This e-mail was sent from a contact form on [_site_title] ([_site_url])";s:9:"re
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[pageview]]></wp:meta_key>
-		<wp:meta_value><![CDATA[34]]></wp:meta_value>
+		<wp:meta_value><![CDATA[35]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -8668,7 +8668,7 @@ This e-mail was sent from a contact form on [_site_title] ([_site_url])";s:9:"re
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[pageview]]></wp:meta_key>
-		<wp:meta_value><![CDATA[28]]></wp:meta_value>
+		<wp:meta_value><![CDATA[29]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -9358,7 +9358,7 @@ This e-mail was sent from a contact form on [_site_title] ([_site_url])";s:9:"re
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[pageview]]></wp:meta_key>
-		<wp:meta_value><![CDATA[54]]></wp:meta_value>
+		<wp:meta_value><![CDATA[55]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -9592,7 +9592,7 @@ This e-mail was sent from a contact form on [_site_title] ([_site_url])";s:9:"re
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[pageview]]></wp:meta_key>
-		<wp:meta_value><![CDATA[54]]></wp:meta_value>
+		<wp:meta_value><![CDATA[55]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:comment>
 			<wp:comment_id>5</wp:comment_id>

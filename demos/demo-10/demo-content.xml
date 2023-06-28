@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/6.2.2" created="2023-06-22 10:07" -->
+	<!-- generator="WordPress/6.2.2" created="2023-06-27 10:37" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
 	<title>Hippine</title>
 	<link>https://demo.woostify.com/hippine</link>
 	<description>Just another Woostify Pro Demo Sites site</description>
-	<pubDate>Thu, 22 Jun 2023 10:07:19 +0000</pubDate>
+	<pubDate>Tue, 27 Jun 2023 10:37:44 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>https://demo.woostify.com/</wp:base_site_url>
@@ -8219,7 +8219,7 @@ Add to cart</a>		<h2>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[pageview]]></wp:meta_key>
-		<wp:meta_value><![CDATA[207]]></wp:meta_value>
+		<wp:meta_value><![CDATA[212]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -9215,7 +9215,7 @@ singles near me]]></wp:comment_content>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[pageview]]></wp:meta_key>
-		<wp:meta_value><![CDATA[86]]></wp:meta_value>
+		<wp:meta_value><![CDATA[90]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -9558,7 +9558,7 @@ singles near me]]></wp:comment_content>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[pageview]]></wp:meta_key>
-		<wp:meta_value><![CDATA[23]]></wp:meta_value>
+		<wp:meta_value><![CDATA[24]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:comment>
 			<wp:comment_id>4</wp:comment_id>
@@ -9752,7 +9752,7 @@ singles near me]]></wp:comment_content>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[pageview]]></wp:meta_key>
-		<wp:meta_value><![CDATA[12]]></wp:meta_value>
+		<wp:meta_value><![CDATA[13]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -9923,7 +9923,7 @@ singles near me]]></wp:comment_content>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[pageview]]></wp:meta_key>
-		<wp:meta_value><![CDATA[65]]></wp:meta_value>
+		<wp:meta_value><![CDATA[68]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -10482,7 +10482,7 @@ singles near me]]></wp:comment_content>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[pageview]]></wp:meta_key>
-		<wp:meta_value><![CDATA[20]]></wp:meta_value>
+		<wp:meta_value><![CDATA[21]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:comment>
 			<wp:comment_id>26</wp:comment_id>
@@ -11181,7 +11181,7 @@ singles near me]]></wp:comment_content>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[pageview]]></wp:meta_key>
-		<wp:meta_value><![CDATA[108]]></wp:meta_value>
+		<wp:meta_value><![CDATA[111]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>

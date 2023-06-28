@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/6.2.2" created="2023-06-22 10:19" -->
+	<!-- generator="WordPress/6.2.2" created="2023-06-28 02:29" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
 	<title>Randy</title>
 	<link>https://demo.woostify.com/randy</link>
 	<description>Just another Woostify Pro Demo Sites site</description>
-	<pubDate>Thu, 22 Jun 2023 10:19:25 +0000</pubDate>
+	<pubDate>Wed, 28 Jun 2023 02:29:55 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>https://demo.woostify.com/</wp:base_site_url>

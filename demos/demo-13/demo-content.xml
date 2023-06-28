@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/6.2.2" created="2023-06-22 10:16" -->
+	<!-- generator="WordPress/6.2.2" created="2023-06-28 02:18" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
 	<title>Urbanstyle</title>
 	<link>https://demo.woostify.com/urbanstyle</link>
 	<description>Just another Woostify Pro Demo Sites site</description>
-	<pubDate>Thu, 22 Jun 2023 10:16:35 +0000</pubDate>
+	<pubDate>Wed, 28 Jun 2023 02:18:39 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>https://demo.woostify.com/</wp:base_site_url>
@@ -261,6 +261,17 @@
 		</wp:termmeta>
 	</wp:term>
 		<wp:term>
+		<wp:term_id>36</wp:term_id>
+		<wp:term_taxonomy><![CDATA[product_tag]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[man]]></wp:term_slug>
+		<wp:term_parent><![CDATA[]]></wp:term_parent>
+		<wp:term_name><![CDATA[man]]></wp:term_name>
+		<wp:termmeta>
+			<wp:meta_key><![CDATA[product_count_product_tag]]></wp:meta_key>
+			<wp:meta_value><![CDATA[5]]></wp:meta_value>
+		</wp:termmeta>
+	</wp:term>
+		<wp:term>
 		<wp:term_id>35</wp:term_id>
 		<wp:term_taxonomy><![CDATA[product_cat]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[man]]></wp:term_slug>
@@ -288,17 +299,6 @@
 		</wp:termmeta>
 		<wp:termmeta>
 			<wp:meta_key><![CDATA[product_count_product_cat]]></wp:meta_key>
-			<wp:meta_value><![CDATA[5]]></wp:meta_value>
-		</wp:termmeta>
-	</wp:term>
-		<wp:term>
-		<wp:term_id>36</wp:term_id>
-		<wp:term_taxonomy><![CDATA[product_tag]]></wp:term_taxonomy>
-		<wp:term_slug><![CDATA[man]]></wp:term_slug>
-		<wp:term_parent><![CDATA[]]></wp:term_parent>
-		<wp:term_name><![CDATA[man]]></wp:term_name>
-		<wp:termmeta>
-			<wp:meta_key><![CDATA[product_count_product_tag]]></wp:meta_key>
 			<wp:meta_value><![CDATA[5]]></wp:meta_value>
 		</wp:termmeta>
 	</wp:term>
@@ -6884,8 +6884,8 @@ Lorem turpis egestas magna, in lacinia felis arcu sit amet arcu. Cras eu risus u
 		<wp:post_type><![CDATA[post]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="post_tag" nicename="fashion"><![CDATA[fashion]]></category>
-		<category domain="category" nicename="fashion"><![CDATA[Fashion]]></category>
+										<category domain="category" nicename="fashion"><![CDATA[Fashion]]></category>
+		<category domain="post_tag" nicename="fashion"><![CDATA[fashion]]></category>
 		<category domain="category" nicename="life-style"><![CDATA[Life Style]]></category>
 		<category domain="post_tag" nicename="street-style"><![CDATA[street style]]></category>
 		<category domain="category" nicename="trending"><![CDATA[Trending]]></category>
@@ -7392,7 +7392,7 @@ Eum culpa assumenda eligendi fugit laborum vitae odit deleniti illo quasi volupt
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[pageview]]></wp:meta_key>
-		<wp:meta_value><![CDATA[55]]></wp:meta_value>
+		<wp:meta_value><![CDATA[56]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -7425,8 +7425,8 @@ Eum culpa assumenda eligendi fugit laborum vitae odit deleniti illo quasi volupt
 										<category domain="product_tag" nicename="fashion"><![CDATA[fashion]]></category>
 		<category domain="product_type" nicename="simple"><![CDATA[simple]]></category>
 		<category domain="product_tag" nicename="summer"><![CDATA[summer]]></category>
-		<category domain="product_cat" nicename="womens"><![CDATA[womens]]></category>
 		<category domain="product_tag" nicename="womens"><![CDATA[womens]]></category>
+		<category domain="product_cat" nicename="womens"><![CDATA[womens]]></category>
 						<wp:postmeta>
 		<wp:meta_key><![CDATA[_elementor_controls_usage]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
@@ -7589,7 +7589,7 @@ Eum culpa assumenda eligendi fugit laborum vitae odit deleniti illo quasi volupt
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[pageview]]></wp:meta_key>
-		<wp:meta_value><![CDATA[49]]></wp:meta_value>
+		<wp:meta_value><![CDATA[50]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -7804,7 +7804,7 @@ Eum culpa assumenda eligendi fugit laborum vitae odit deleniti illo quasi volupt
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[pageview]]></wp:meta_key>
-		<wp:meta_value><![CDATA[535]]></wp:meta_value>
+		<wp:meta_value><![CDATA[545]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:comment>
 			<wp:comment_id>4</wp:comment_id>
@@ -8042,8 +8042,8 @@ Lorem turpis egestas magna, in lacinia felis arcu sit amet arcu. Cras eu risus u
 		<wp:post_type><![CDATA[post]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="post_tag" nicename="fashion"><![CDATA[fashion]]></category>
-		<category domain="category" nicename="fashion"><![CDATA[Fashion]]></category>
+										<category domain="category" nicename="fashion"><![CDATA[Fashion]]></category>
+		<category domain="post_tag" nicename="fashion"><![CDATA[fashion]]></category>
 		<category domain="category" nicename="life-style"><![CDATA[Life Style]]></category>
 		<category domain="post_tag" nicename="summer"><![CDATA[summer]]></category>
 		<category domain="post_tag" nicename="woostify"><![CDATA[woostify]]></category>
@@ -8241,8 +8241,8 @@ Eum culpa assumenda eligendi fugit laborum vitae odit deleniti illo quasi volupt
 										<category domain="product_tag" nicename="autumn"><![CDATA[autumn]]></category>
 		<category domain="product_type" nicename="external"><![CDATA[external]]></category>
 		<category domain="product_tag" nicename="fashion"><![CDATA[fashion]]></category>
-		<category domain="product_cat" nicename="man"><![CDATA[Man]]></category>
 		<category domain="product_tag" nicename="man"><![CDATA[man]]></category>
+		<category domain="product_cat" nicename="man"><![CDATA[Man]]></category>
 						<wp:postmeta>
 		<wp:meta_key><![CDATA[_elementor_controls_usage]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
@@ -8413,7 +8413,7 @@ Eum culpa assumenda eligendi fugit laborum vitae odit deleniti illo quasi volupt
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[pageview]]></wp:meta_key>
-		<wp:meta_value><![CDATA[228]]></wp:meta_value>
+		<wp:meta_value><![CDATA[229]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -8614,7 +8614,7 @@ Eum culpa assumenda eligendi fugit laborum vitae odit deleniti illo quasi volupt
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[pageview]]></wp:meta_key>
-		<wp:meta_value><![CDATA[363]]></wp:meta_value>
+		<wp:meta_value><![CDATA[367]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -8647,8 +8647,8 @@ Eum culpa assumenda eligendi fugit laborum vitae odit deleniti illo quasi volupt
 										<category domain="product_tag" nicename="fashion"><![CDATA[fashion]]></category>
 		<category domain="product_type" nicename="simple"><![CDATA[simple]]></category>
 		<category domain="product_tag" nicename="summer"><![CDATA[summer]]></category>
-		<category domain="product_cat" nicename="womens"><![CDATA[womens]]></category>
 		<category domain="product_tag" nicename="womens"><![CDATA[womens]]></category>
+		<category domain="product_cat" nicename="womens"><![CDATA[womens]]></category>
 						<wp:postmeta>
 		<wp:meta_key><![CDATA[_elementor_controls_usage]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
@@ -8807,7 +8807,7 @@ Eum culpa assumenda eligendi fugit laborum vitae odit deleniti illo quasi volupt
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[pageview]]></wp:meta_key>
-		<wp:meta_value><![CDATA[479]]></wp:meta_value>
+		<wp:meta_value><![CDATA[491]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:comment>
 			<wp:comment_id>47</wp:comment_id>
@@ -9265,7 +9265,7 @@ Eum culpa assumenda eligendi fugit laborum vitae odit deleniti illo quasi volupt
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[pageview]]></wp:meta_key>
-		<wp:meta_value><![CDATA[238]]></wp:meta_value>
+		<wp:meta_value><![CDATA[247]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:comment>
 			<wp:comment_id>43</wp:comment_id>

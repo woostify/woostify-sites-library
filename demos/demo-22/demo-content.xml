@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/6.2.2" created="2023-06-22 10:47" -->
+	<!-- generator="WordPress/6.2.2" created="2023-06-27 08:09" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
 	<title>Jery</title>
 	<link>https://demo.woostify.com/jery</link>
 	<description>Just another Woostify Pro Demo Sites site</description>
-	<pubDate>Thu, 22 Jun 2023 10:47:58 +0000</pubDate>
+	<pubDate>Tue, 27 Jun 2023 08:09:03 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>https://demo.woostify.com/</wp:base_site_url>
@@ -6778,154 +6778,363 @@ Add to cart</a>
 			<ul data-tiny-slider='{"items":1,"autoplay":true,"autoplayTimeout":5000,"autoplayHoverPause":true,"controls":true,"nav":true,"speed":300,"loop":true,"gutter":0,"slideBy":1,"responsive":{"768":{"items":1,"gutter":0,"controls":true,"nav":true},"992":{"items":1,"gutter":0,"controls":true,"nav":true}}}' data-col="1">
 				<li>
 				-10%			
-					<a href="?add-to-cart=394" data-quantity="1" data-product_id="394" data-product_sku="D2300-3" title="Add &ldquo;Croissant Dome Hoops&rdquo; to your cart" rel="nofollow"><svg xmlns="http://www.w3.org/2000/svg" width="17" height="17" viewBox="0 0 17 17">
-  
-    
-      
-        image/svg+xml
-        
-        
-      
-    
-  
-  
-  
-  
-  <path d="m 14.176,12.5 c 0.965,0 1.75,0.785 1.75,1.75 0,0.965 -0.785,1.75 -1.75,1.75 -0.965,0 -1.75,-0.785 -1.75,-1.75 0,-0.965 0.785,-1.75 1.75,-1.75 z m 0,2.5 c 0.414,0 0.75,-0.337 0.75,-0.75 0,-0.413 -0.336,-0.75 -0.75,-0.75 -0.414,0 -0.75,0.337 -0.75,0.75 0,0.413 0.336,0.75 0.75,0.75 z m -8.5,-2.5 c 0.965,0 1.75,0.785 1.75,1.75 0,0.965 -0.785,1.75 -1.75,1.75 -0.965,0 -1.75,-0.785 -1.75,-1.75 0,-0.965 0.785,-1.75 1.75,-1.75 z m 0,2.5 c 0.414,0 0.75,-0.337 0.75,-0.75 0,-0.413 -0.336,-0.75 -0.75,-0.75 -0.414,0 -0.75,0.337 -0.75,0.75 0,0.413 0.336,0.75 0.75,0.75 z M 3.555,2 3.857,4 H 17 l -1.118,8.036 H 3.969 L 2.931,4.573 2.695,3 H -0.074 V 2 Z M 4,5 4.139,6 H 15.713 L 15.852,5 Z M 15.012,11.036 15.573,7 H 4.278 l 0.561,4.036 z" fill="#000000" />
+					<a href="?add-to-cart=394" data-quantity="1" data-product_id="394" data-product_sku="D2300-3" title="Add &ldquo;Croissant Dome Hoops&rdquo; to your cart" rel="nofollow"><svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   width="17"
+   height="17"
+   viewBox="0 0 17 17"
+   id="svg50"
+   sodipodi:docname="shopping-cart-2.svg"
+   inkscape:version="1.0.2-2 (e86c870879, 2021-01-15)">
+  <metadata
+     id="metadata56">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs54" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="2400"
+     inkscape:window-height="1271"
+     id="namedview52"
+     showgrid="false"
+     inkscape:zoom="48.823529"
+     inkscape:cx="8.5"
+     inkscape:cy="8.5"
+     inkscape:window-x="2391"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg50" />
+  <g
+     id="g46"
+     transform="matrix(-1,0,0,1,16.926,0)" />
+  <path
+     d="m 14.176,12.5 c 0.965,0 1.75,0.785 1.75,1.75 0,0.965 -0.785,1.75 -1.75,1.75 -0.965,0 -1.75,-0.785 -1.75,-1.75 0,-0.965 0.785,-1.75 1.75,-1.75 z m 0,2.5 c 0.414,0 0.75,-0.337 0.75,-0.75 0,-0.413 -0.336,-0.75 -0.75,-0.75 -0.414,0 -0.75,0.337 -0.75,0.75 0,0.413 0.336,0.75 0.75,0.75 z m -8.5,-2.5 c 0.965,0 1.75,0.785 1.75,1.75 0,0.965 -0.785,1.75 -1.75,1.75 -0.965,0 -1.75,-0.785 -1.75,-1.75 0,-0.965 0.785,-1.75 1.75,-1.75 z m 0,2.5 c 0.414,0 0.75,-0.337 0.75,-0.75 0,-0.413 -0.336,-0.75 -0.75,-0.75 -0.414,0 -0.75,0.337 -0.75,0.75 0,0.413 0.336,0.75 0.75,0.75 z M 3.555,2 3.857,4 H 17 l -1.118,8.036 H 3.969 L 2.931,4.573 2.695,3 H -0.074 V 2 Z M 4,5 4.139,6 H 15.713 L 15.852,5 Z M 15.012,11.036 15.573,7 H 4.278 l 0.561,4.036 z"
+     fill="#000000"
+     id="path48" />
 </svg>
 Add to cart</a>
-			<svg xmlns="http://www.w3.org/2000/svg" width="17" height="17" viewBox="0 0 17 17">
-
-
+			<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="17" height="17" viewBox="0 0 17 17">
+<g>
+</g>
 	<path d="M16.965 8.817c-1.284-3.267-4.687-5.463-8.465-5.463s-7.181 2.196-8.465 5.463c-0.046 0.117-0.046 0.248 0 0.365 1.285 3.268 4.687 5.464 8.465 5.464s7.18-2.195 8.465-5.463c0.047-0.118 0.047-0.248 0-0.366zM8.5 13.646c-3.298 0-6.269-1.859-7.459-4.646 1.189-2.787 4.16-4.646 7.459-4.646s6.27 1.859 7.459 4.646c-1.19 2.786-4.161 4.646-7.459 4.646zM8.5 5.357c-2.009 0-3.643 1.634-3.643 3.643s1.634 3.643 3.644 3.643c2.008 0 3.643-1.634 3.643-3.643s-1.635-3.643-3.644-3.643zM8.5 11.643c-1.458 0-2.644-1.186-2.644-2.643s1.187-2.643 2.644-2.643c1.457 0 2.643 1.186 2.643 2.643s-1.185 2.643-2.643 2.643zM8.5 7.643c-0.748 0-1.357 0.609-1.357 1.357s0.609 1.357 1.357 1.357 1.357-0.609 1.357-1.357-0.609-1.357-1.357-1.357zM8.5 9.357c-0.197 0-0.357-0.16-0.357-0.357s0.16-0.357 0.357-0.357 0.357 0.16 0.357 0.357-0.16 0.357-0.357 0.357z" fill="#000000" />
 </svg>
-	<a role="button" aria-label="Add to Wishlist" data-tinv-wl-list="[]" data-tinv-wl-product="394" data-tinv-wl-productvariation="0" data-tinv-wl-productvariations="[0]" data-tinv-wl-producttype="simple" data-tinv-wl-action="add">Add to Wishlist</a>		Add to Wishlist
+	<a role="button" tabindex="0" name="add-to-wishlist" aria-label="Add to Wishlist" data-tinv-wl-list="[]" data-tinv-wl-product="394" data-tinv-wl-productvariation="0" data-tinv-wl-productvariations="[]" data-tinv-wl-producttype="simple" data-tinv-wl-action="add">Add to Wishlist</a>		Add to Wishlist
 		<a href="https://demo.woostify.com/jery/product/croissant-dome-hoops/">				
-				<img width="450" height="450" src="https://demo.woostify.com/jery/wp-content/uploads/sites/34/2022/09/12-600x600.jpg" alt="Product image" loading="lazy" /></a>		<h2>
+				<img width="450" height="450" src="https://demo.woostify.com/jery/wp-content/uploads/sites/34/2022/09/12-600x600.jpg" alt="Product image" decoding="async" loading="lazy" srcset="https://demo.woostify.com/jery/wp-content/uploads/sites/34/2022/09/12-600x600.jpg 600w, https://demo.woostify.com/jery/wp-content/uploads/sites/34/2022/09/12-300x300.jpg 300w, https://demo.woostify.com/jery/wp-content/uploads/sites/34/2022/09/12-150x150.jpg 150w, https://demo.woostify.com/jery/wp-content/uploads/sites/34/2022/09/12-768x768.jpg 768w, https://demo.woostify.com/jery/wp-content/uploads/sites/34/2022/09/12-100x100.jpg 100w, https://demo.woostify.com/jery/wp-content/uploads/sites/34/2022/09/12.jpg 1000w" sizes="(max-width: 450px) 100vw, 450px" /></a>		<h2>
 			<a href="https://demo.woostify.com/jery/product/croissant-dome-hoops/">Croissant Dome Hoops</a>		</h2>
 					<del aria-hidden="true">&#036;100.00</del> <ins>&#036;90.00</ins>
 		</li>
 <li>
-					Out Of Stock
-					<a href="https://demo.woostify.com/jery/product/large-charlotte-hoops/" data-quantity="1" data-product_id="405" data-product_sku="D2300-2" title="Read more about &ldquo;Large Charlotte Hoops&rdquo;" rel="nofollow"><svg xmlns="http://www.w3.org/2000/svg" width="17" height="17" viewBox="0 0 17 17">
-  
-    
-      
-        image/svg+xml
-        
-        
-      
-    
-  
-  
-  
-  
-  <path d="m 14.176,12.5 c 0.965,0 1.75,0.785 1.75,1.75 0,0.965 -0.785,1.75 -1.75,1.75 -0.965,0 -1.75,-0.785 -1.75,-1.75 0,-0.965 0.785,-1.75 1.75,-1.75 z m 0,2.5 c 0.414,0 0.75,-0.337 0.75,-0.75 0,-0.413 -0.336,-0.75 -0.75,-0.75 -0.414,0 -0.75,0.337 -0.75,0.75 0,0.413 0.336,0.75 0.75,0.75 z m -8.5,-2.5 c 0.965,0 1.75,0.785 1.75,1.75 0,0.965 -0.785,1.75 -1.75,1.75 -0.965,0 -1.75,-0.785 -1.75,-1.75 0,-0.965 0.785,-1.75 1.75,-1.75 z m 0,2.5 c 0.414,0 0.75,-0.337 0.75,-0.75 0,-0.413 -0.336,-0.75 -0.75,-0.75 -0.414,0 -0.75,0.337 -0.75,0.75 0,0.413 0.336,0.75 0.75,0.75 z M 3.555,2 3.857,4 H 17 l -1.118,8.036 H 3.969 L 2.931,4.573 2.695,3 H -0.074 V 2 Z M 4,5 4.139,6 H 15.713 L 15.852,5 Z M 15.012,11.036 15.573,7 H 4.278 l 0.561,4.036 z" fill="#000000" />
+				Sale!			
+					<a href="https://demo.woostify.com/jery/product/diamond-celestial-studs/" data-quantity="1" data-product_id="398" data-product_sku="D1111" title="Select options for &ldquo;Diamond Celestial Studs&rdquo;" rel="nofollow"><svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   width="17"
+   height="17"
+   viewBox="0 0 17 17"
+   id="svg50"
+   sodipodi:docname="shopping-cart-2.svg"
+   inkscape:version="1.0.2-2 (e86c870879, 2021-01-15)">
+  <metadata
+     id="metadata56">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs54" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="2400"
+     inkscape:window-height="1271"
+     id="namedview52"
+     showgrid="false"
+     inkscape:zoom="48.823529"
+     inkscape:cx="8.5"
+     inkscape:cy="8.5"
+     inkscape:window-x="2391"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg50" />
+  <g
+     id="g46"
+     transform="matrix(-1,0,0,1,16.926,0)" />
+  <path
+     d="m 14.176,12.5 c 0.965,0 1.75,0.785 1.75,1.75 0,0.965 -0.785,1.75 -1.75,1.75 -0.965,0 -1.75,-0.785 -1.75,-1.75 0,-0.965 0.785,-1.75 1.75,-1.75 z m 0,2.5 c 0.414,0 0.75,-0.337 0.75,-0.75 0,-0.413 -0.336,-0.75 -0.75,-0.75 -0.414,0 -0.75,0.337 -0.75,0.75 0,0.413 0.336,0.75 0.75,0.75 z m -8.5,-2.5 c 0.965,0 1.75,0.785 1.75,1.75 0,0.965 -0.785,1.75 -1.75,1.75 -0.965,0 -1.75,-0.785 -1.75,-1.75 0,-0.965 0.785,-1.75 1.75,-1.75 z m 0,2.5 c 0.414,0 0.75,-0.337 0.75,-0.75 0,-0.413 -0.336,-0.75 -0.75,-0.75 -0.414,0 -0.75,0.337 -0.75,0.75 0,0.413 0.336,0.75 0.75,0.75 z M 3.555,2 3.857,4 H 17 l -1.118,8.036 H 3.969 L 2.931,4.573 2.695,3 H -0.074 V 2 Z M 4,5 4.139,6 H 15.713 L 15.852,5 Z M 15.012,11.036 15.573,7 H 4.278 l 0.561,4.036 z"
+     fill="#000000"
+     id="path48" />
 </svg>
-Read more</a>
-			<svg xmlns="http://www.w3.org/2000/svg" width="17" height="17" viewBox="0 0 17 17">
-
-
+Select options</a>
+			<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="17" height="17" viewBox="0 0 17 17">
+<g>
+</g>
 	<path d="M16.965 8.817c-1.284-3.267-4.687-5.463-8.465-5.463s-7.181 2.196-8.465 5.463c-0.046 0.117-0.046 0.248 0 0.365 1.285 3.268 4.687 5.464 8.465 5.464s7.18-2.195 8.465-5.463c0.047-0.118 0.047-0.248 0-0.366zM8.5 13.646c-3.298 0-6.269-1.859-7.459-4.646 1.189-2.787 4.16-4.646 7.459-4.646s6.27 1.859 7.459 4.646c-1.19 2.786-4.161 4.646-7.459 4.646zM8.5 5.357c-2.009 0-3.643 1.634-3.643 3.643s1.634 3.643 3.644 3.643c2.008 0 3.643-1.634 3.643-3.643s-1.635-3.643-3.644-3.643zM8.5 11.643c-1.458 0-2.644-1.186-2.644-2.643s1.187-2.643 2.644-2.643c1.457 0 2.643 1.186 2.643 2.643s-1.185 2.643-2.643 2.643zM8.5 7.643c-0.748 0-1.357 0.609-1.357 1.357s0.609 1.357 1.357 1.357 1.357-0.609 1.357-1.357-0.609-1.357-1.357-1.357zM8.5 9.357c-0.197 0-0.357-0.16-0.357-0.357s0.16-0.357 0.357-0.357 0.357 0.16 0.357 0.357-0.16 0.357-0.357 0.357z" fill="#000000" />
 </svg>
-	<a role="button" aria-label="Add to Wishlist" data-tinv-wl-list="[]" data-tinv-wl-product="405" data-tinv-wl-productvariation="0" data-tinv-wl-productvariations="[0]" data-tinv-wl-producttype="simple" data-tinv-wl-action="add">Add to Wishlist</a>		Add to Wishlist
-		<a href="https://demo.woostify.com/jery/product/large-charlotte-hoops/">				
-				<img width="450" height="450" src="https://demo.woostify.com/jery/wp-content/uploads/sites/34/2022/09/13-600x600.jpg" alt="Product image" loading="lazy" /></a>		<h2>
-			<a href="https://demo.woostify.com/jery/product/large-charlotte-hoops/">Large Charlotte Hoops</a>		</h2>
-					&#036;214.22
+	<a role="button" tabindex="0" name="add-to-wishlist" aria-label="Add to Wishlist" data-tinv-wl-list="[]" data-tinv-wl-product="398" data-tinv-wl-productvariation="0" data-tinv-wl-productvariations="[]" data-tinv-wl-producttype="variable" data-tinv-wl-action="add">Add to Wishlist</a>		Add to Wishlist
+		<a href="https://demo.woostify.com/jery/product/diamond-celestial-studs/">				
+				<img width="450" height="450" src="https://demo.woostify.com/jery/wp-content/uploads/sites/34/2022/09/15-600x600.jpg" alt="Product image" decoding="async" loading="lazy" srcset="https://demo.woostify.com/jery/wp-content/uploads/sites/34/2022/09/15-600x600.jpg 600w, https://demo.woostify.com/jery/wp-content/uploads/sites/34/2022/09/15-300x300.jpg 300w, https://demo.woostify.com/jery/wp-content/uploads/sites/34/2022/09/15-150x150.jpg 150w, https://demo.woostify.com/jery/wp-content/uploads/sites/34/2022/09/15-768x768.jpg 768w, https://demo.woostify.com/jery/wp-content/uploads/sites/34/2022/09/15-100x100.jpg 100w, https://demo.woostify.com/jery/wp-content/uploads/sites/34/2022/09/15.jpg 1000w" sizes="(max-width: 450px) 100vw, 450px" /></a>		<h2>
+			<a href="https://demo.woostify.com/jery/product/diamond-celestial-studs/">Diamond Celestial Studs</a>		</h2>
+					&#036;60.00 &ndash; &#036;90.00
 		</li>
 <li>
-				-37%			
-					<a href="?add-to-cart=407" data-quantity="1" data-product_id="407" data-product_sku="D2300-3-2" title="Add &ldquo;Les Textured Hoops&rdquo; to your cart" rel="nofollow"><svg xmlns="http://www.w3.org/2000/svg" width="17" height="17" viewBox="0 0 17 17">
-  
-    
-      
-        image/svg+xml
-        
-        
-      
-    
-  
-  
-  
-  
-  <path d="m 14.176,12.5 c 0.965,0 1.75,0.785 1.75,1.75 0,0.965 -0.785,1.75 -1.75,1.75 -0.965,0 -1.75,-0.785 -1.75,-1.75 0,-0.965 0.785,-1.75 1.75,-1.75 z m 0,2.5 c 0.414,0 0.75,-0.337 0.75,-0.75 0,-0.413 -0.336,-0.75 -0.75,-0.75 -0.414,0 -0.75,0.337 -0.75,0.75 0,0.413 0.336,0.75 0.75,0.75 z m -8.5,-2.5 c 0.965,0 1.75,0.785 1.75,1.75 0,0.965 -0.785,1.75 -1.75,1.75 -0.965,0 -1.75,-0.785 -1.75,-1.75 0,-0.965 0.785,-1.75 1.75,-1.75 z m 0,2.5 c 0.414,0 0.75,-0.337 0.75,-0.75 0,-0.413 -0.336,-0.75 -0.75,-0.75 -0.414,0 -0.75,0.337 -0.75,0.75 0,0.413 0.336,0.75 0.75,0.75 z M 3.555,2 3.857,4 H 17 l -1.118,8.036 H 3.969 L 2.931,4.573 2.695,3 H -0.074 V 2 Z M 4,5 4.139,6 H 15.713 L 15.852,5 Z M 15.012,11.036 15.573,7 H 4.278 l 0.561,4.036 z" fill="#000000" />
+				<a href="?add-to-cart=409" data-quantity="1" data-product_id="409" data-product_sku="" title="Add &ldquo;Medium Flat Hoops&rdquo; to your cart" rel="nofollow"><svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   width="17"
+   height="17"
+   viewBox="0 0 17 17"
+   id="svg50"
+   sodipodi:docname="shopping-cart-2.svg"
+   inkscape:version="1.0.2-2 (e86c870879, 2021-01-15)">
+  <metadata
+     id="metadata56">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs54" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="2400"
+     inkscape:window-height="1271"
+     id="namedview52"
+     showgrid="false"
+     inkscape:zoom="48.823529"
+     inkscape:cx="8.5"
+     inkscape:cy="8.5"
+     inkscape:window-x="2391"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg50" />
+  <g
+     id="g46"
+     transform="matrix(-1,0,0,1,16.926,0)" />
+  <path
+     d="m 14.176,12.5 c 0.965,0 1.75,0.785 1.75,1.75 0,0.965 -0.785,1.75 -1.75,1.75 -0.965,0 -1.75,-0.785 -1.75,-1.75 0,-0.965 0.785,-1.75 1.75,-1.75 z m 0,2.5 c 0.414,0 0.75,-0.337 0.75,-0.75 0,-0.413 -0.336,-0.75 -0.75,-0.75 -0.414,0 -0.75,0.337 -0.75,0.75 0,0.413 0.336,0.75 0.75,0.75 z m -8.5,-2.5 c 0.965,0 1.75,0.785 1.75,1.75 0,0.965 -0.785,1.75 -1.75,1.75 -0.965,0 -1.75,-0.785 -1.75,-1.75 0,-0.965 0.785,-1.75 1.75,-1.75 z m 0,2.5 c 0.414,0 0.75,-0.337 0.75,-0.75 0,-0.413 -0.336,-0.75 -0.75,-0.75 -0.414,0 -0.75,0.337 -0.75,0.75 0,0.413 0.336,0.75 0.75,0.75 z M 3.555,2 3.857,4 H 17 l -1.118,8.036 H 3.969 L 2.931,4.573 2.695,3 H -0.074 V 2 Z M 4,5 4.139,6 H 15.713 L 15.852,5 Z M 15.012,11.036 15.573,7 H 4.278 l 0.561,4.036 z"
+     fill="#000000"
+     id="path48" />
 </svg>
 Add to cart</a>
-			<svg xmlns="http://www.w3.org/2000/svg" width="17" height="17" viewBox="0 0 17 17">
-
-
+			<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="17" height="17" viewBox="0 0 17 17">
+<g>
+</g>
 	<path d="M16.965 8.817c-1.284-3.267-4.687-5.463-8.465-5.463s-7.181 2.196-8.465 5.463c-0.046 0.117-0.046 0.248 0 0.365 1.285 3.268 4.687 5.464 8.465 5.464s7.18-2.195 8.465-5.463c0.047-0.118 0.047-0.248 0-0.366zM8.5 13.646c-3.298 0-6.269-1.859-7.459-4.646 1.189-2.787 4.16-4.646 7.459-4.646s6.27 1.859 7.459 4.646c-1.19 2.786-4.161 4.646-7.459 4.646zM8.5 5.357c-2.009 0-3.643 1.634-3.643 3.643s1.634 3.643 3.644 3.643c2.008 0 3.643-1.634 3.643-3.643s-1.635-3.643-3.644-3.643zM8.5 11.643c-1.458 0-2.644-1.186-2.644-2.643s1.187-2.643 2.644-2.643c1.457 0 2.643 1.186 2.643 2.643s-1.185 2.643-2.643 2.643zM8.5 7.643c-0.748 0-1.357 0.609-1.357 1.357s0.609 1.357 1.357 1.357 1.357-0.609 1.357-1.357-0.609-1.357-1.357-1.357zM8.5 9.357c-0.197 0-0.357-0.16-0.357-0.357s0.16-0.357 0.357-0.357 0.357 0.16 0.357 0.357-0.16 0.357-0.357 0.357z" fill="#000000" />
 </svg>
-	<a role="button" aria-label="Add to Wishlist" data-tinv-wl-list="[]" data-tinv-wl-product="407" data-tinv-wl-productvariation="0" data-tinv-wl-productvariations="[0]" data-tinv-wl-producttype="simple" data-tinv-wl-action="add">Add to Wishlist</a>		Add to Wishlist
-		<a href="https://demo.woostify.com/jery/product/les-textured-hoops/">				
-				<img width="450" height="450" src="https://demo.woostify.com/jery/wp-content/uploads/sites/34/2022/09/10-600x600.jpg" alt="Product image" loading="lazy" /></a>		<h2>
-			<a href="https://demo.woostify.com/jery/product/les-textured-hoops/">Les Textured Hoops</a>		</h2>
-					<del aria-hidden="true">&#036;79.00</del> <ins>&#036;50.00</ins>
-		</li>
-<li>
-				<a href="?add-to-cart=409" data-quantity="1" data-product_id="409" data-product_sku="" title="Add &ldquo;Medium Flat Hoops&rdquo; to your cart" rel="nofollow"><svg xmlns="http://www.w3.org/2000/svg" width="17" height="17" viewBox="0 0 17 17">
-  
-    
-      
-        image/svg+xml
-        
-        
-      
-    
-  
-  
-  
-  
-  <path d="m 14.176,12.5 c 0.965,0 1.75,0.785 1.75,1.75 0,0.965 -0.785,1.75 -1.75,1.75 -0.965,0 -1.75,-0.785 -1.75,-1.75 0,-0.965 0.785,-1.75 1.75,-1.75 z m 0,2.5 c 0.414,0 0.75,-0.337 0.75,-0.75 0,-0.413 -0.336,-0.75 -0.75,-0.75 -0.414,0 -0.75,0.337 -0.75,0.75 0,0.413 0.336,0.75 0.75,0.75 z m -8.5,-2.5 c 0.965,0 1.75,0.785 1.75,1.75 0,0.965 -0.785,1.75 -1.75,1.75 -0.965,0 -1.75,-0.785 -1.75,-1.75 0,-0.965 0.785,-1.75 1.75,-1.75 z m 0,2.5 c 0.414,0 0.75,-0.337 0.75,-0.75 0,-0.413 -0.336,-0.75 -0.75,-0.75 -0.414,0 -0.75,0.337 -0.75,0.75 0,0.413 0.336,0.75 0.75,0.75 z M 3.555,2 3.857,4 H 17 l -1.118,8.036 H 3.969 L 2.931,4.573 2.695,3 H -0.074 V 2 Z M 4,5 4.139,6 H 15.713 L 15.852,5 Z M 15.012,11.036 15.573,7 H 4.278 l 0.561,4.036 z" fill="#000000" />
-</svg>
-Add to cart</a>
-			<svg xmlns="http://www.w3.org/2000/svg" width="17" height="17" viewBox="0 0 17 17">
-
-
-	<path d="M16.965 8.817c-1.284-3.267-4.687-5.463-8.465-5.463s-7.181 2.196-8.465 5.463c-0.046 0.117-0.046 0.248 0 0.365 1.285 3.268 4.687 5.464 8.465 5.464s7.18-2.195 8.465-5.463c0.047-0.118 0.047-0.248 0-0.366zM8.5 13.646c-3.298 0-6.269-1.859-7.459-4.646 1.189-2.787 4.16-4.646 7.459-4.646s6.27 1.859 7.459 4.646c-1.19 2.786-4.161 4.646-7.459 4.646zM8.5 5.357c-2.009 0-3.643 1.634-3.643 3.643s1.634 3.643 3.644 3.643c2.008 0 3.643-1.634 3.643-3.643s-1.635-3.643-3.644-3.643zM8.5 11.643c-1.458 0-2.644-1.186-2.644-2.643s1.187-2.643 2.644-2.643c1.457 0 2.643 1.186 2.643 2.643s-1.185 2.643-2.643 2.643zM8.5 7.643c-0.748 0-1.357 0.609-1.357 1.357s0.609 1.357 1.357 1.357 1.357-0.609 1.357-1.357-0.609-1.357-1.357-1.357zM8.5 9.357c-0.197 0-0.357-0.16-0.357-0.357s0.16-0.357 0.357-0.357 0.357 0.16 0.357 0.357-0.16 0.357-0.357 0.357z" fill="#000000" />
-</svg>
-	<a role="button" aria-label="Add to Wishlist" data-tinv-wl-list="[]" data-tinv-wl-product="409" data-tinv-wl-productvariation="0" data-tinv-wl-productvariations="[0]" data-tinv-wl-producttype="simple" data-tinv-wl-action="add">Add to Wishlist</a>		Add to Wishlist
+	<a role="button" tabindex="0" name="add-to-wishlist" aria-label="Add to Wishlist" data-tinv-wl-list="[]" data-tinv-wl-product="409" data-tinv-wl-productvariation="0" data-tinv-wl-productvariations="[]" data-tinv-wl-producttype="simple" data-tinv-wl-action="add">Add to Wishlist</a>		Add to Wishlist
 		<a href="https://demo.woostify.com/jery/product/medium-flat-hoops/">				
-				<img width="450" height="450" src="https://demo.woostify.com/jery/wp-content/uploads/sites/34/2022/09/3-600x600.jpg" alt="Product image" loading="lazy" /></a>		<h2>
+				<img width="450" height="450" src="https://demo.woostify.com/jery/wp-content/uploads/sites/34/2022/09/3-600x600.jpg" alt="Product image" decoding="async" loading="lazy" srcset="https://demo.woostify.com/jery/wp-content/uploads/sites/34/2022/09/3-600x600.jpg 600w, https://demo.woostify.com/jery/wp-content/uploads/sites/34/2022/09/3-300x300.jpg 300w, https://demo.woostify.com/jery/wp-content/uploads/sites/34/2022/09/3-150x150.jpg 150w, https://demo.woostify.com/jery/wp-content/uploads/sites/34/2022/09/3-768x768.jpg 768w, https://demo.woostify.com/jery/wp-content/uploads/sites/34/2022/09/3-100x100.jpg 100w, https://demo.woostify.com/jery/wp-content/uploads/sites/34/2022/09/3.jpg 1000w" sizes="(max-width: 450px) 100vw, 450px" /></a>		<h2>
 			<a href="https://demo.woostify.com/jery/product/medium-flat-hoops/">Medium Flat Hoops</a>		</h2>
 					&#036;80.00
 		</li>
 <li>
-				<a href="?add-to-cart=410" data-quantity="1" data-product_id="410" data-product_sku="" title="Add &ldquo;Medium Tube Hoops&rdquo; to your cart" rel="nofollow"><svg xmlns="http://www.w3.org/2000/svg" width="17" height="17" viewBox="0 0 17 17">
-  
-    
-      
-        image/svg+xml
-        
-        
-      
-    
-  
-  
-  
-  
-  <path d="m 14.176,12.5 c 0.965,0 1.75,0.785 1.75,1.75 0,0.965 -0.785,1.75 -1.75,1.75 -0.965,0 -1.75,-0.785 -1.75,-1.75 0,-0.965 0.785,-1.75 1.75,-1.75 z m 0,2.5 c 0.414,0 0.75,-0.337 0.75,-0.75 0,-0.413 -0.336,-0.75 -0.75,-0.75 -0.414,0 -0.75,0.337 -0.75,0.75 0,0.413 0.336,0.75 0.75,0.75 z m -8.5,-2.5 c 0.965,0 1.75,0.785 1.75,1.75 0,0.965 -0.785,1.75 -1.75,1.75 -0.965,0 -1.75,-0.785 -1.75,-1.75 0,-0.965 0.785,-1.75 1.75,-1.75 z m 0,2.5 c 0.414,0 0.75,-0.337 0.75,-0.75 0,-0.413 -0.336,-0.75 -0.75,-0.75 -0.414,0 -0.75,0.337 -0.75,0.75 0,0.413 0.336,0.75 0.75,0.75 z M 3.555,2 3.857,4 H 17 l -1.118,8.036 H 3.969 L 2.931,4.573 2.695,3 H -0.074 V 2 Z M 4,5 4.139,6 H 15.713 L 15.852,5 Z M 15.012,11.036 15.573,7 H 4.278 l 0.561,4.036 z" fill="#000000" />
+				<a href="?add-to-cart=413" data-quantity="1" data-product_id="413" data-product_sku="D2300-3-1" title="Add &ldquo;Organic Pearl Stacked Hoops&rdquo; to your cart" rel="nofollow"><svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   width="17"
+   height="17"
+   viewBox="0 0 17 17"
+   id="svg50"
+   sodipodi:docname="shopping-cart-2.svg"
+   inkscape:version="1.0.2-2 (e86c870879, 2021-01-15)">
+  <metadata
+     id="metadata56">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs54" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="2400"
+     inkscape:window-height="1271"
+     id="namedview52"
+     showgrid="false"
+     inkscape:zoom="48.823529"
+     inkscape:cx="8.5"
+     inkscape:cy="8.5"
+     inkscape:window-x="2391"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg50" />
+  <g
+     id="g46"
+     transform="matrix(-1,0,0,1,16.926,0)" />
+  <path
+     d="m 14.176,12.5 c 0.965,0 1.75,0.785 1.75,1.75 0,0.965 -0.785,1.75 -1.75,1.75 -0.965,0 -1.75,-0.785 -1.75,-1.75 0,-0.965 0.785,-1.75 1.75,-1.75 z m 0,2.5 c 0.414,0 0.75,-0.337 0.75,-0.75 0,-0.413 -0.336,-0.75 -0.75,-0.75 -0.414,0 -0.75,0.337 -0.75,0.75 0,0.413 0.336,0.75 0.75,0.75 z m -8.5,-2.5 c 0.965,0 1.75,0.785 1.75,1.75 0,0.965 -0.785,1.75 -1.75,1.75 -0.965,0 -1.75,-0.785 -1.75,-1.75 0,-0.965 0.785,-1.75 1.75,-1.75 z m 0,2.5 c 0.414,0 0.75,-0.337 0.75,-0.75 0,-0.413 -0.336,-0.75 -0.75,-0.75 -0.414,0 -0.75,0.337 -0.75,0.75 0,0.413 0.336,0.75 0.75,0.75 z M 3.555,2 3.857,4 H 17 l -1.118,8.036 H 3.969 L 2.931,4.573 2.695,3 H -0.074 V 2 Z M 4,5 4.139,6 H 15.713 L 15.852,5 Z M 15.012,11.036 15.573,7 H 4.278 l 0.561,4.036 z"
+     fill="#000000"
+     id="path48" />
 </svg>
 Add to cart</a>
-			<svg xmlns="http://www.w3.org/2000/svg" width="17" height="17" viewBox="0 0 17 17">
-
-
+			<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="17" height="17" viewBox="0 0 17 17">
+<g>
+</g>
 	<path d="M16.965 8.817c-1.284-3.267-4.687-5.463-8.465-5.463s-7.181 2.196-8.465 5.463c-0.046 0.117-0.046 0.248 0 0.365 1.285 3.268 4.687 5.464 8.465 5.464s7.18-2.195 8.465-5.463c0.047-0.118 0.047-0.248 0-0.366zM8.5 13.646c-3.298 0-6.269-1.859-7.459-4.646 1.189-2.787 4.16-4.646 7.459-4.646s6.27 1.859 7.459 4.646c-1.19 2.786-4.161 4.646-7.459 4.646zM8.5 5.357c-2.009 0-3.643 1.634-3.643 3.643s1.634 3.643 3.644 3.643c2.008 0 3.643-1.634 3.643-3.643s-1.635-3.643-3.644-3.643zM8.5 11.643c-1.458 0-2.644-1.186-2.644-2.643s1.187-2.643 2.644-2.643c1.457 0 2.643 1.186 2.643 2.643s-1.185 2.643-2.643 2.643zM8.5 7.643c-0.748 0-1.357 0.609-1.357 1.357s0.609 1.357 1.357 1.357 1.357-0.609 1.357-1.357-0.609-1.357-1.357-1.357zM8.5 9.357c-0.197 0-0.357-0.16-0.357-0.357s0.16-0.357 0.357-0.357 0.357 0.16 0.357 0.357-0.16 0.357-0.357 0.357z" fill="#000000" />
 </svg>
-	<a role="button" aria-label="Add to Wishlist" data-tinv-wl-list="[]" data-tinv-wl-product="410" data-tinv-wl-productvariation="0" data-tinv-wl-productvariations="[0]" data-tinv-wl-producttype="simple" data-tinv-wl-action="add">Add to Wishlist</a>		Add to Wishlist
-		<a href="https://demo.woostify.com/jery/product/medium-tube-hoops/">				
-				<img width="450" height="450" src="https://demo.woostify.com/jery/wp-content/uploads/sites/34/2022/09/4-600x600.jpg" alt="Product image" loading="lazy" /></a>		<h2>
-			<a href="https://demo.woostify.com/jery/product/medium-tube-hoops/">Medium Tube Hoops</a>		</h2>
-					&#036;135.00
+	<a role="button" tabindex="0" name="add-to-wishlist" aria-label="Add to Wishlist" data-tinv-wl-list="[]" data-tinv-wl-product="413" data-tinv-wl-productvariation="0" data-tinv-wl-productvariations="[]" data-tinv-wl-producttype="simple" data-tinv-wl-action="add">Add to Wishlist</a>		Add to Wishlist
+		<a href="https://demo.woostify.com/jery/product/organic-pearl-stacked-hoops/">				
+				<img width="450" height="450" src="https://demo.woostify.com/jery/wp-content/uploads/sites/34/2022/09/11-600x600.jpg" alt="Product image" decoding="async" loading="lazy" srcset="https://demo.woostify.com/jery/wp-content/uploads/sites/34/2022/09/11-600x600.jpg 600w, https://demo.woostify.com/jery/wp-content/uploads/sites/34/2022/09/11-300x300.jpg 300w, https://demo.woostify.com/jery/wp-content/uploads/sites/34/2022/09/11-150x150.jpg 150w, https://demo.woostify.com/jery/wp-content/uploads/sites/34/2022/09/11-768x768.jpg 768w, https://demo.woostify.com/jery/wp-content/uploads/sites/34/2022/09/11-100x100.jpg 100w, https://demo.woostify.com/jery/wp-content/uploads/sites/34/2022/09/11.jpg 1000w" sizes="(max-width: 450px) 100vw, 450px" /></a>		<h2>
+			<a href="https://demo.woostify.com/jery/product/organic-pearl-stacked-hoops/">Organic Pearl Stacked Hoops</a>		</h2>
+		Rated <strong>4.00</strong> out of 5			&#036;120.00
+		</li>
+<li>
+				<a href="?add-to-cart=2922" data-quantity="1" data-product_id="2922" data-product_sku="D2300-2" title="Add &ldquo;Large Charlotte Hoops&rdquo; to your cart" rel="nofollow"><svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   width="17"
+   height="17"
+   viewBox="0 0 17 17"
+   id="svg50"
+   sodipodi:docname="shopping-cart-2.svg"
+   inkscape:version="1.0.2-2 (e86c870879, 2021-01-15)">
+  <metadata
+     id="metadata56">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs54" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="2400"
+     inkscape:window-height="1271"
+     id="namedview52"
+     showgrid="false"
+     inkscape:zoom="48.823529"
+     inkscape:cx="8.5"
+     inkscape:cy="8.5"
+     inkscape:window-x="2391"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg50" />
+  <g
+     id="g46"
+     transform="matrix(-1,0,0,1,16.926,0)" />
+  <path
+     d="m 14.176,12.5 c 0.965,0 1.75,0.785 1.75,1.75 0,0.965 -0.785,1.75 -1.75,1.75 -0.965,0 -1.75,-0.785 -1.75,-1.75 0,-0.965 0.785,-1.75 1.75,-1.75 z m 0,2.5 c 0.414,0 0.75,-0.337 0.75,-0.75 0,-0.413 -0.336,-0.75 -0.75,-0.75 -0.414,0 -0.75,0.337 -0.75,0.75 0,0.413 0.336,0.75 0.75,0.75 z m -8.5,-2.5 c 0.965,0 1.75,0.785 1.75,1.75 0,0.965 -0.785,1.75 -1.75,1.75 -0.965,0 -1.75,-0.785 -1.75,-1.75 0,-0.965 0.785,-1.75 1.75,-1.75 z m 0,2.5 c 0.414,0 0.75,-0.337 0.75,-0.75 0,-0.413 -0.336,-0.75 -0.75,-0.75 -0.414,0 -0.75,0.337 -0.75,0.75 0,0.413 0.336,0.75 0.75,0.75 z M 3.555,2 3.857,4 H 17 l -1.118,8.036 H 3.969 L 2.931,4.573 2.695,3 H -0.074 V 2 Z M 4,5 4.139,6 H 15.713 L 15.852,5 Z M 15.012,11.036 15.573,7 H 4.278 l 0.561,4.036 z"
+     fill="#000000"
+     id="path48" />
+</svg>
+Add to cart</a>
+			<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="17" height="17" viewBox="0 0 17 17">
+<g>
+</g>
+	<path d="M16.965 8.817c-1.284-3.267-4.687-5.463-8.465-5.463s-7.181 2.196-8.465 5.463c-0.046 0.117-0.046 0.248 0 0.365 1.285 3.268 4.687 5.464 8.465 5.464s7.18-2.195 8.465-5.463c0.047-0.118 0.047-0.248 0-0.366zM8.5 13.646c-3.298 0-6.269-1.859-7.459-4.646 1.189-2.787 4.16-4.646 7.459-4.646s6.27 1.859 7.459 4.646c-1.19 2.786-4.161 4.646-7.459 4.646zM8.5 5.357c-2.009 0-3.643 1.634-3.643 3.643s1.634 3.643 3.644 3.643c2.008 0 3.643-1.634 3.643-3.643s-1.635-3.643-3.644-3.643zM8.5 11.643c-1.458 0-2.644-1.186-2.644-2.643s1.187-2.643 2.644-2.643c1.457 0 2.643 1.186 2.643 2.643s-1.185 2.643-2.643 2.643zM8.5 7.643c-0.748 0-1.357 0.609-1.357 1.357s0.609 1.357 1.357 1.357 1.357-0.609 1.357-1.357-0.609-1.357-1.357-1.357zM8.5 9.357c-0.197 0-0.357-0.16-0.357-0.357s0.16-0.357 0.357-0.357 0.357 0.16 0.357 0.357-0.16 0.357-0.357 0.357z" fill="#000000" />
+</svg>
+	<a role="button" tabindex="0" name="add-to-wishlist" aria-label="Add to Wishlist" data-tinv-wl-list="[]" data-tinv-wl-product="2922" data-tinv-wl-productvariation="0" data-tinv-wl-productvariations="[]" data-tinv-wl-producttype="simple" data-tinv-wl-action="add">Add to Wishlist</a>		Add to Wishlist
+		<a href="https://demo.woostify.com/jery/product/large-charlotte-hoops/">				
+				<img width="450" height="450" src="https://demo.woostify.com/jery/wp-content/uploads/sites/34/2022/09/13-600x600.jpg" alt="Product image" decoding="async" loading="lazy" srcset="https://demo.woostify.com/jery/wp-content/uploads/sites/34/2022/09/13-600x600.jpg 600w, https://demo.woostify.com/jery/wp-content/uploads/sites/34/2022/09/13-300x300.jpg 300w, https://demo.woostify.com/jery/wp-content/uploads/sites/34/2022/09/13-150x150.jpg 150w, https://demo.woostify.com/jery/wp-content/uploads/sites/34/2022/09/13-768x768.jpg 768w, https://demo.woostify.com/jery/wp-content/uploads/sites/34/2022/09/13-100x100.jpg 100w, https://demo.woostify.com/jery/wp-content/uploads/sites/34/2022/09/13.jpg 1000w" sizes="(max-width: 450px) 100vw, 450px" /></a>		<h2>
+			<a href="https://demo.woostify.com/jery/product/large-charlotte-hoops/">Large Charlotte Hoops</a>		</h2>
+					&#036;214.22
 		</li>
 			</ul>]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>517</wp:post_id>
 		<wp:post_date><![CDATA[2022-09-20 02:00:02]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2022-09-20 02:00:02]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2022-09-26 08:34:48]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2022-09-26 08:34:48]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2023-06-26 02:39:51]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-06-26 02:39:51]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[mega-menu]]></wp:post_name>
@@ -6945,7 +7154,7 @@ Add to cart</a>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_elementor_version]]></wp:meta_key>
-		<wp:meta_value><![CDATA[3.7.4]]></wp:meta_value>
+		<wp:meta_value><![CDATA[3.13.4]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
@@ -6953,7 +7162,7 @@ Add to cart</a>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_elementor_data]]></wp:meta_key>
-		<wp:meta_value><![CDATA[[{"id":"9b6dee3","elType":"section","settings":{"structure":"20","padding":{"unit":"px","top":"15","right":"15","bottom":"15","left":"15","isLinked":""},"padding_mobile":{"unit":"px","top":"10","right":"10","bottom":"10","left":"10","isLinked":"1"},"z_index":"2","padding_tablet":{"unit":"px","top":"15","right":"15","bottom":"15","left":"15","isLinked":"1"},"background_background":"classic"},"elements":[{"id":"622d807","elType":"column","settings":{"_column_size":"50","padding":{"unit":"px","top":"0","right":"15","bottom":"0","left":"15","isLinked":""},"margin_mobile":{"unit":"px","top":"0","right":"0","bottom":"15","left":"0","isLinked":""},"_inline_size_tablet":"100","margin_tablet":{"unit":"px","top":"0","right":"0","bottom":"15","left":"0","isLinked":""}},"elements":[{"id":"6744375","elType":"widget","settings":{"title":"Shop Style","typography_typography":"custom","typography_font_size":{"unit":"px","size":"18","sizes":[]},"typography_text_transform":"capitalize","_margin":{"unit":"px","top":"0","right":"0","bottom":"17","left":"0","isLinked":""},"__globals__":{"title_color":"globals\/colors?id=primary"},"_title":"Heading"},"elements":[],"widgetType":"heading"},{"id":"1836e03","elType":"widget","settings":{"icon_list":[{"text":"Shop Standard","selected_icon":{"value":"","library":""},"_id":"72c3e3a","link":{"url":"#","is_external":"","nofollow":"","custom_attributes":""}},{"text":"Shop Full","selected_icon":{"value":"","library":""},"link":{"url":"#","is_external":"","nofollow":"","custom_attributes":""},"_id":"39355cf"},{"text":"Shop Only Categories","selected_icon":{"value":"","library":""},"link":{"url":"#","is_external":"","nofollow":"","custom_attributes":""},"_id":"15f344c"},{"text":"Shop Icon Categories","selected_icon":{"value":"","library":""},"link":{"url":"#","is_external":"","nofollow":"","custom_attributes":""},"_id":"9247a37"},{"text":"Shop Image Categories","selected_icon":{"value":"","library":""},"link":{"url":"#","is_external":"","nofollow":"","custom_attributes":""},"_id":"927d6a2"},{"text":"Shop Sub Categories","selected_icon":{"value":"","library":""},"link":{"url":"#","is_external":"","nofollow":"","custom_attributes":""},"_id":"59fb1cb"},{"text":"Shop Simple","selected_icon":{"value":"","library":""},"link":{"url":"#","is_external":"","nofollow":"","custom_attributes":""},"_id":"d607383"},{"text":"Shop Overlay Header","selected_icon":{"value":"","library":""},"link":{"url":"#","is_external":"","nofollow":"","custom_attributes":""},"_id":"9ea02a2"},{"text":"Shop Sidebar","selected_icon":{"value":"","library":""},"link":{"url":"#","is_external":"","nofollow":"","custom_attributes":""},"_id":"66814a5"},{"text":"Shop List","selected_icon":{"value":"","library":""},"link":{"url":"#","is_external":"","nofollow":"","custom_attributes":""},"_id":"356e9d9"}],"space_between":{"unit":"px","size":"10","sizes":[]},"__globals__":{"text_color":"globals\/colors?id=secondary","text_color_hover":"globals\/colors?id=accent"},"icon_typography_typography":"custom","icon_typography_line_height":{"unit":"px","size":"24","sizes":[]},"space_between_tablet":{"unit":"px","size":"0","sizes":[]},"icon_typography_text_transform":"capitalize"},"elements":[],"widgetType":"icon-list"}],"isInner":""},{"id":"2615d88","elType":"column","settings":{"_column_size":"50","padding":{"unit":"px","top":"0","right":"15","bottom":"0","left":"15","isLinked":""},"margin_mobile":{"unit":"px","top":"0","right":"0","bottom":"15","left":"0","isLinked":""},"_inline_size_tablet":"100","margin_tablet":{"unit":"px","top":"0","right":"0","bottom":"15","left":"0","isLinked":""}},"elements":[{"id":"9d0f7ad","elType":"widget","settings":{"columns":"1","columns_tablet":"1","columns_mobile":"1","gap":{"unit":"px","size":"0","sizes":[]},"gap_tablet":{"unit":"px","size":"0","sizes":[]},"gap_mobile":{"unit":"px","size":"","sizes":[]},"arrows_position":{"unit":"px","size":"-35","sizes":[]},"arrows_bg_color":"#00000000","dots_size":{"unit":"px","size":"10","sizes":[]},"dots_position":{"unit":"px","size":"25","sizes":[]},"source":"featured","product_style_title_typo_typography":"custom","product_style_title_typo_font_size":{"unit":"px","size":"11","sizes":[]},"product_style_title_typo_font_weight":"400","product_style_title_typo_line_height":{"unit":"px","size":"16","sizes":[]},"product_style_title_typo_line_height_tablet":{"unit":"px","size":"","sizes":[]},"product_style_title_typo_line_height_mobile":{"unit":"px","size":"","sizes":[]},"product_style_title_typo_letter_spacing":{"unit":"px","size":"1.5","sizes":[]},"title_spacing":{"unit":"px","size":"7","sizes":[]},"product_price_typo_typography":"custom","product_price_typo_font_size":{"unit":"px","size":"16","sizes":[]},"product_regular_price_color":"#9B9B9B","product_regular_price_typo_typography":"custom","product_regular_price_typo_font_size":{"unit":"px","size":"14","sizes":[]},"__globals__":{"product_style_title_color":"globals\/colors?id=primary","product_price_color":"globals\/colors?id=accent","dots_color":"globals\/colors?id=primary"},"product_button_typo_typography":"custom","product_button_typo_font_size":{"unit":"px","size":"0","sizes":[]}},"elements":[],"widgetType":"woostify-new-product-slider"}],"isInner":""}],"isInner":""}]]]></wp:meta_value>
+		<wp:meta_value><![CDATA[[{"id":"7c4519e","elType":"container","settings":{"structure":"20","padding":{"unit":"px","top":"15","right":"15","bottom":"15","left":"15","isLinked":""},"padding_mobile":{"unit":"px","top":"10","right":"10","bottom":"10","left":"10","isLinked":"1"},"z_index":"2","padding_tablet":{"unit":"px","top":"15","right":"15","bottom":"15","left":"15","isLinked":"1"},"background_background":"classic","flex_direction":"row","flex_align_items":"stretch","flex_gap":{"size":0,"unit":"px"},"flex_direction_tablet":"column"},"elements":[{"id":"376c683","elType":"container","settings":{"_column_size":"50","padding":{"unit":"px","top":"0","right":"15","bottom":"0","left":"15","isLinked":""},"margin_mobile":{"unit":"px","top":"0","right":"0","bottom":"15","left":"0","isLinked":""},"width_tablet":{"size":"100","unit":"%"},"margin_tablet":{"unit":"px","top":"0","right":"0","bottom":"15","left":"0","isLinked":""},"content_width":"full"},"elements":[{"id":"2bdc84c","elType":"widget","settings":{"title":"Shop Style","typography_typography":"custom","typography_font_size":{"unit":"px","size":"18","sizes":[]},"typography_text_transform":"capitalize","_margin":{"unit":"px","top":"0","right":"0","bottom":"17","left":"0","isLinked":""},"__globals__":{"title_color":"globals\/colors?id=primary"},"_title":"Heading"},"elements":[],"widgetType":"heading"},{"id":"75e260d","elType":"widget","settings":{"icon_list":[{"text":"Shop Standard","selected_icon":{"value":"","library":""},"_id":"72c3e3a","link":{"url":"#","is_external":"","nofollow":"","custom_attributes":""}},{"text":"Shop Full","selected_icon":{"value":"","library":""},"link":{"url":"#","is_external":"","nofollow":"","custom_attributes":""},"_id":"39355cf"},{"text":"Shop Only Categories","selected_icon":{"value":"","library":""},"link":{"url":"#","is_external":"","nofollow":"","custom_attributes":""},"_id":"15f344c"},{"text":"Shop Icon Categories","selected_icon":{"value":"","library":""},"link":{"url":"#","is_external":"","nofollow":"","custom_attributes":""},"_id":"9247a37"},{"text":"Shop Image Categories","selected_icon":{"value":"","library":""},"link":{"url":"#","is_external":"","nofollow":"","custom_attributes":""},"_id":"927d6a2"},{"text":"Shop Sub Categories","selected_icon":{"value":"","library":""},"link":{"url":"#","is_external":"","nofollow":"","custom_attributes":""},"_id":"59fb1cb"},{"text":"Shop Simple","selected_icon":{"value":"","library":""},"link":{"url":"#","is_external":"","nofollow":"","custom_attributes":""},"_id":"d607383"},{"text":"Shop Overlay Header","selected_icon":{"value":"","library":""},"link":{"url":"#","is_external":"","nofollow":"","custom_attributes":""},"_id":"9ea02a2"},{"text":"Shop Sidebar","selected_icon":{"value":"","library":""},"link":{"url":"#","is_external":"","nofollow":"","custom_attributes":""},"_id":"66814a5"},{"text":"Shop List","selected_icon":{"value":"","library":""},"link":{"url":"#","is_external":"","nofollow":"","custom_attributes":""},"_id":"356e9d9"}],"space_between":{"unit":"px","size":"10","sizes":[]},"__globals__":{"text_color":"globals\/colors?id=secondary","text_color_hover":"globals\/colors?id=accent"},"icon_typography_typography":"custom","icon_typography_line_height":{"unit":"px","size":"24","sizes":[]},"space_between_tablet":{"unit":"px","size":"0","sizes":[]},"icon_typography_text_transform":"capitalize"},"elements":[],"widgetType":"icon-list"}],"isInner":false},{"id":"892e51a","elType":"container","settings":{"_column_size":"50","padding":{"unit":"px","top":"0","right":"15","bottom":"0","left":"15","isLinked":""},"margin_mobile":{"unit":"px","top":"0","right":"0","bottom":"15","left":"0","isLinked":""},"width_tablet":{"size":"100","unit":"%"},"margin_tablet":{"unit":"px","top":"0","right":"0","bottom":"15","left":"0","isLinked":""},"content_width":"full"},"elements":[{"id":"050c93f","elType":"widget","settings":{"columns":"1","columns_tablet":"1","columns_mobile":"1","gap":{"unit":"px","size":"0","sizes":[]},"gap_tablet":{"unit":"px","size":"0","sizes":[]},"gap_mobile":{"unit":"px","size":"","sizes":[]},"arrows_position":{"unit":"px","size":"-35","sizes":[]},"arrows_bg_color":"#00000000","dots_size":{"unit":"px","size":"10","sizes":[]},"dots_position":{"unit":"px","size":"25","sizes":[]},"source":"featured","product_style_title_typo_typography":"custom","product_style_title_typo_font_size":{"unit":"px","size":"11","sizes":[]},"product_style_title_typo_font_weight":"400","product_style_title_typo_line_height":{"unit":"px","size":"16","sizes":[]},"product_style_title_typo_line_height_tablet":{"unit":"px","size":"","sizes":[]},"product_style_title_typo_line_height_mobile":{"unit":"px","size":"","sizes":[]},"product_style_title_typo_letter_spacing":{"unit":"px","size":"1.5","sizes":[]},"title_spacing":{"unit":"px","size":"7","sizes":[]},"product_price_typo_typography":"custom","product_price_typo_font_size":{"unit":"px","size":"16","sizes":[]},"product_regular_price_color":"#9B9B9B","product_regular_price_typo_typography":"custom","product_regular_price_typo_font_size":{"unit":"px","size":"14","sizes":[]},"__globals__":{"product_style_title_color":"globals\/colors?id=primary","product_price_color":"globals\/colors?id=accent","dots_color":"globals\/colors?id=primary"},"product_button_typo_typography":"custom","product_button_typo_font_size":{"unit":"px","size":"0","sizes":[]}},"elements":[],"widgetType":"woostify-new-product-slider"}],"isInner":false}],"isInner":false}]]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_elementor_page_assets]]></wp:meta_key>
@@ -9268,7 +9477,7 @@ Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed 
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[pageview]]></wp:meta_key>
-		<wp:meta_value><![CDATA[223]]></wp:meta_value>
+		<wp:meta_value><![CDATA[231]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_product_attributes]]></wp:meta_key>
@@ -9540,7 +9749,7 @@ Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed 
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[pageview]]></wp:meta_key>
-		<wp:meta_value><![CDATA[155]]></wp:meta_value>
+		<wp:meta_value><![CDATA[156]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -9679,7 +9888,7 @@ Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed 
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[pageview]]></wp:meta_key>
-		<wp:meta_value><![CDATA[372]]></wp:meta_value>
+		<wp:meta_value><![CDATA[377]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -10323,7 +10532,7 @@ Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed 
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[pageview]]></wp:meta_key>
-		<wp:meta_value><![CDATA[57]]></wp:meta_value>
+		<wp:meta_value><![CDATA[58]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wc_rating_count]]></wp:meta_key>
@@ -12403,7 +12612,7 @@ Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed 
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[pageview]]></wp:meta_key>
-		<wp:meta_value><![CDATA[13]]></wp:meta_value>
+		<wp:meta_value><![CDATA[14]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -13129,7 +13338,7 @@ Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed 
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[pageview]]></wp:meta_key>
-		<wp:meta_value><![CDATA[82]]></wp:meta_value>
+		<wp:meta_value><![CDATA[84]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wc_rating_count]]></wp:meta_key>
@@ -13295,7 +13504,7 @@ Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed 
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[pageview]]></wp:meta_key>
-		<wp:meta_value><![CDATA[26]]></wp:meta_value>
+		<wp:meta_value><![CDATA[27]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -14115,7 +14324,7 @@ Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed 
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[pageview]]></wp:meta_key>
-		<wp:meta_value><![CDATA[116]]></wp:meta_value>
+		<wp:meta_value><![CDATA[117]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_sku]]></wp:meta_key>

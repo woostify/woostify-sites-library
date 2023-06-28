@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/6.2.2" created="2023-06-22 10:38" -->
+	<!-- generator="WordPress/6.2.2" created="2023-06-27 08:05" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
 	<title>Freshio</title>
 	<link>https://demo.woostify.com/freshio</link>
 	<description>Just another Woostify Pro Demo Sites site</description>
-	<pubDate>Thu, 22 Jun 2023 10:38:29 +0000</pubDate>
+	<pubDate>Tue, 27 Jun 2023 08:05:42 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>https://demo.woostify.com/</wp:base_site_url>
@@ -5874,8 +5874,7 @@ Shop by Department					</button>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://demo.woostify.com/freshio/?post_type=mega_menu&#038;p=275</guid>
 		<description></description>
-		<content:encoded><![CDATA[<style>/*! elementor - v3.5.3 - 28-12-2021 */
-.elementor-widget.elementor-icon-list--layout-inline .elementor-widget-container{overflow:hidden}.elementor-widget .elementor-icon-list-items.elementor-inline-items{margin-right:-8px;margin-left:-8px}.elementor-widget .elementor-icon-list-items.elementor-inline-items .elementor-icon-list-item{margin-right:8px;margin-left:8px}.elementor-widget .elementor-icon-list-items.elementor-inline-items .elementor-icon-list-item:after{width:auto;left:auto;right:auto;position:relative;height:100%;border-top:0;border-bottom:0;border-right:0;border-left-width:1px;border-style:solid;right:-8px}.elementor-widget .elementor-icon-list-items{list-style-type:none;margin:0;padding:0}.elementor-widget .elementor-icon-list-item{margin:0;padding:0;position:relative}.elementor-widget .elementor-icon-list-item:after{position:absolute;bottom:0;width:100%}.elementor-widget .elementor-icon-list-item,.elementor-widget .elementor-icon-list-item a{display:-webkit-box;display:-ms-flexbox;display:flex;-webkit-box-align:center;-ms-flex-align:center;align-items:center;font-size:inherit}.elementor-widget .elementor-icon-list-icon+.elementor-icon-list-text{-ms-flex-item-align:center;align-self:center;padding-left:5px}.elementor-widget .elementor-icon-list-icon{display:-webkit-box;display:-ms-flexbox;display:flex}.elementor-widget .elementor-icon-list-icon svg{width:var(--e-icon-list-icon-size,1em);height:var(--e-icon-list-icon-size,1em)}.elementor-widget .elementor-icon-list-icon i{width:1.25em;font-size:var(--e-icon-list-icon-size)}.elementor-widget.elementor-widget-icon-list .elementor-icon-list-icon{text-align:var(--e-icon-list-icon-align)}.elementor-widget.elementor-widget-icon-list .elementor-icon-list-icon svg{margin:var(--e-icon-list-icon-margin,0 calc(var(--e-icon-list-icon-size, 1em) * .25) 0 0)}.elementor-widget.elementor-list-item-link-full_width a{width:100%}.elementor-widget.elementor-align-center .elementor-icon-list-item,.elementor-widget.elementor-align-center .elementor-icon-list-item a{-webkit-box-pack:center;-ms-flex-pack:center;justify-content:center}.elementor-widget.elementor-align-center .elementor-icon-list-item:after{margin:auto}.elementor-widget.elementor-align-center .elementor-inline-items{-webkit-box-pack:center;-ms-flex-pack:center;justify-content:center}.elementor-widget.elementor-align-left .elementor-icon-list-item,.elementor-widget.elementor-align-left .elementor-icon-list-item a{-webkit-box-pack:start;-ms-flex-pack:start;justify-content:flex-start;text-align:left}.elementor-widget.elementor-align-left .elementor-inline-items{-webkit-box-pack:start;-ms-flex-pack:start;justify-content:flex-start}.elementor-widget.elementor-align-right .elementor-icon-list-item,.elementor-widget.elementor-align-right .elementor-icon-list-item a{-webkit-box-pack:end;-ms-flex-pack:end;justify-content:flex-end;text-align:right}.elementor-widget.elementor-align-right .elementor-icon-list-items{-webkit-box-pack:end;-ms-flex-pack:end;justify-content:flex-end}.elementor-widget:not(.elementor-align-right) .elementor-icon-list-item:after{left:0}.elementor-widget:not(.elementor-align-left) .elementor-icon-list-item:after{right:0}@media (max-width:1024px){.elementor-widget.elementor-tablet-align-center .elementor-icon-list-item,.elementor-widget.elementor-tablet-align-center .elementor-icon-list-item a,.elementor-widget.elementor-tablet-align-center .elementor-icon-list-items{-webkit-box-pack:center;-ms-flex-pack:center;justify-content:center}.elementor-widget.elementor-tablet-align-center .elementor-icon-list-item:after{margin:auto}.elementor-widget.elementor-tablet-align-left .elementor-icon-list-items{-webkit-box-pack:start;-ms-flex-pack:start;justify-content:flex-start}.elementor-widget.elementor-tablet-align-left .elementor-icon-list-item,.elementor-widget.elementor-tablet-align-left .elementor-icon-list-item a{-webkit-box-pack:start;-ms-flex-pack:start;justify-content:flex-start;text-align:left}.elementor-widget.elementor-tablet-align-right .elementor-icon-list-items{-webkit-box-pack:end;-ms-flex-pack:end;justify-content:flex-end}.elementor-widget.elementor-tablet-align-right .elementor-icon-list-item,.elementor-widget.elementor-tablet-align-right .elementor-icon-list-item a{-webkit-box-pack:end;-ms-flex-pack:end;justify-content:flex-end;text-align:right}.elementor-widget:not(.elementor-tablet-align-right) .elementor-icon-list-item:after{left:0}.elementor-widget:not(.elementor-tablet-align-left) .elementor-icon-list-item:after{right:0}}@media (max-width:767px){.elementor-widget.elementor-mobile-align-center .elementor-icon-list-item,.elementor-widget.elementor-mobile-align-center .elementor-icon-list-item a,.elementor-widget.elementor-mobile-align-center .elementor-icon-list-items{-webkit-box-pack:center;-ms-flex-pack:center;justify-content:center}.elementor-widget.elementor-mobile-align-center .elementor-icon-list-item:after{margin:auto}.elementor-widget.elementor-mobile-align-left .elementor-icon-list-items{-webkit-box-pack:start;-ms-flex-pack:start;justify-content:flex-start}.elementor-widget.elementor-mobile-align-left .elementor-icon-list-item,.elementor-widget.elementor-mobile-align-left .elementor-icon-list-item a{-webkit-box-pack:start;-ms-flex-pack:start;justify-content:flex-start;text-align:left}.elementor-widget.elementor-mobile-align-right .elementor-icon-list-items{-webkit-box-pack:end;-ms-flex-pack:end;justify-content:flex-end}.elementor-widget.elementor-mobile-align-right .elementor-icon-list-item,.elementor-widget.elementor-mobile-align-right .elementor-icon-list-item a{-webkit-box-pack:end;-ms-flex-pack:end;justify-content:flex-end;text-align:right}.elementor-widget:not(.elementor-mobile-align-right) .elementor-icon-list-item:after{left:0}.elementor-widget:not(.elementor-mobile-align-left) .elementor-icon-list-item:after{right:0}}</style>		<ul>
+		<content:encoded><![CDATA[<link rel="stylesheet" href="https://demo.woostify.com/freshio/wp-content/plugins/elementor/assets/css/widget-icon-list.min.css">		<ul>
 							<li>
 											<a href="https://demo.woostify.com/freshio/shop/">
 											Vegetables
@@ -5901,8 +5900,8 @@ Shop by Department					</button>
 		<wp:post_id>275</wp:post_id>
 		<wp:post_date><![CDATA[2022-03-15 07:27:12]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2022-03-15 07:27:12]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2022-03-15 07:31:41]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2022-03-15 07:31:41]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2023-06-26 03:09:12]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-06-26 03:09:12]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[supplyments]]></wp:post_name>
@@ -5922,7 +5921,7 @@ Shop by Department					</button>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_elementor_version]]></wp:meta_key>
-		<wp:meta_value><![CDATA[3.5.3]]></wp:meta_value>
+		<wp:meta_value><![CDATA[3.13.4]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
@@ -5930,7 +5929,7 @@ Shop by Department					</button>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_elementor_data]]></wp:meta_key>
-		<wp:meta_value><![CDATA[[{"id":"bd0768f","elType":"section","settings":[],"elements":[{"id":"c32c98f","elType":"column","settings":{"_column_size":100,"_inline_size":null},"elements":[{"id":"77026d3","elType":"widget","settings":{"icon_list":[{"text":"Vegetables","selected_icon":{"value":"","library":""},"_id":"9fab8ed","link":{"url":"https:\/\/demo.woostify.com\/freshio\/shop\/","is_external":"","nofollow":"","custom_attributes":""}},{"text":"Fresh Meat","selected_icon":{"value":"","library":""},"link":{"url":"https:\/\/demo.woostify.com\/freshio\/shop\/","is_external":"","nofollow":"","custom_attributes":""},"_id":"bea3930"},{"text":"Fruit & Nut Gifts","selected_icon":{"value":"","library":""},"link":{"url":"https:\/\/demo.woostify.com\/freshio\/shop\/","is_external":"","nofollow":"","custom_attributes":""},"_id":"041266b"},{"text":"Fresh Berries","selected_icon":{"value":"","library":""},"link":{"url":"https:\/\/demo.woostify.com\/freshio\/shop\/","is_external":"","nofollow":"","custom_attributes":""},"_id":"8267727"}],"space_between":{"unit":"px","size":8,"sizes":[]},"text_color":"#616161","text_color_hover":"#80891B","icon_typography_typography":"custom","icon_typography_font_size":{"unit":"px","size":15,"sizes":[]},"icon_typography_line_height":{"unit":"em","size":"","sizes":[]},"icon_typography_word_spacing":{"unit":"em","size":"","sizes":[]}},"elements":[],"widgetType":"icon-list"}],"isInner":false}],"isInner":false}]]]></wp:meta_value>
+		<wp:meta_value><![CDATA[[{"id":"7c279c1","elType":"container","settings":{"flex_direction":"row","flex_align_items":"stretch","flex_gap":{"size":0,"unit":"px"},"padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true}},"elements":[{"id":"e5addd4","elType":"container","settings":{"_column_size":100,"width":{"size":null,"unit":"%"},"content_width":"full"},"elements":[{"id":"8e43a42","elType":"widget","settings":{"icon_list":[{"text":"Vegetables","selected_icon":{"value":"","library":""},"_id":"9fab8ed","link":{"url":"https:\/\/demo.woostify.com\/freshio\/shop\/","is_external":"","nofollow":"","custom_attributes":""}},{"text":"Fresh Meat","selected_icon":{"value":"","library":""},"link":{"url":"https:\/\/demo.woostify.com\/freshio\/shop\/","is_external":"","nofollow":"","custom_attributes":""},"_id":"bea3930"},{"text":"Fruit & Nut Gifts","selected_icon":{"value":"","library":""},"link":{"url":"https:\/\/demo.woostify.com\/freshio\/shop\/","is_external":"","nofollow":"","custom_attributes":""},"_id":"041266b"},{"text":"Fresh Berries","selected_icon":{"value":"","library":""},"link":{"url":"https:\/\/demo.woostify.com\/freshio\/shop\/","is_external":"","nofollow":"","custom_attributes":""},"_id":"8267727"}],"space_between":{"unit":"px","size":8,"sizes":[]},"text_color":"#616161","text_color_hover":"#80891B","icon_typography_typography":"custom","icon_typography_font_size":{"unit":"px","size":15,"sizes":[]},"icon_typography_line_height":{"unit":"em","size":"","sizes":[]},"icon_typography_word_spacing":{"unit":"em","size":"","sizes":[]}},"elements":[],"widgetType":"icon-list"}],"isInner":false}],"isInner":false}]]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_elementor_page_assets]]></wp:meta_key>
@@ -11715,7 +11714,7 @@ Ipsa consequatur dolore labore eos et tempore et. Ab inventore rerum eligendi ip
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[pageview]]></wp:meta_key>
-		<wp:meta_value><![CDATA[173]]></wp:meta_value>
+		<wp:meta_value><![CDATA[175]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:comment>
 			<wp:comment_id>20</wp:comment_id>
@@ -11873,7 +11872,7 @@ Ipsa consequatur dolore labore eos et tempore et. Ab inventore rerum eligendi ip
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[pageview]]></wp:meta_key>
-		<wp:meta_value><![CDATA[54]]></wp:meta_value>
+		<wp:meta_value><![CDATA[56]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:comment>
 			<wp:comment_id>9</wp:comment_id>
@@ -12187,7 +12186,7 @@ Ipsa consequatur dolore labore eos et tempore et. Ab inventore rerum eligendi ip
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[pageview]]></wp:meta_key>
-		<wp:meta_value><![CDATA[45]]></wp:meta_value>
+		<wp:meta_value><![CDATA[46]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:comment>
 			<wp:comment_id>3</wp:comment_id>
@@ -12341,7 +12340,7 @@ Ipsa consequatur dolore labore eos et tempore et. Ab inventore rerum eligendi ip
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[pageview]]></wp:meta_key>
-		<wp:meta_value><![CDATA[198]]></wp:meta_value>
+		<wp:meta_value><![CDATA[200]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:comment>
 			<wp:comment_id>21</wp:comment_id>
@@ -12492,7 +12491,7 @@ Ipsa consequatur dolore labore eos et tempore et. Ab inventore rerum eligendi ip
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[pageview]]></wp:meta_key>
-		<wp:meta_value><![CDATA[233]]></wp:meta_value>
+		<wp:meta_value><![CDATA[236]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:comment>
 			<wp:comment_id>15</wp:comment_id>
@@ -12643,7 +12642,7 @@ Ipsa consequatur dolore labore eos et tempore et. Ab inventore rerum eligendi ip
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[pageview]]></wp:meta_key>
-		<wp:meta_value><![CDATA[176]]></wp:meta_value>
+		<wp:meta_value><![CDATA[180]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:comment>
 			<wp:comment_id>14</wp:comment_id>
@@ -13256,7 +13255,7 @@ Ipsa consequatur dolore labore eos et tempore et. Ab inventore rerum eligendi ip
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[pageview]]></wp:meta_key>
-		<wp:meta_value><![CDATA[29]]></wp:meta_value>
+		<wp:meta_value><![CDATA[30]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:comment>
 			<wp:comment_id>5</wp:comment_id>
@@ -13569,7 +13568,7 @@ Ipsa consequatur dolore labore eos et tempore et. Ab inventore rerum eligendi ip
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[pageview]]></wp:meta_key>
-		<wp:meta_value><![CDATA[139]]></wp:meta_value>
+		<wp:meta_value><![CDATA[141]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:comment>
 			<wp:comment_id>18</wp:comment_id>
@@ -13721,7 +13720,7 @@ Ipsa consequatur dolore labore eos et tempore et. Ab inventore rerum eligendi ip
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[pageview]]></wp:meta_key>
-		<wp:meta_value><![CDATA[71]]></wp:meta_value>
+		<wp:meta_value><![CDATA[75]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:comment>
 			<wp:comment_id>17</wp:comment_id>
@@ -14178,7 +14177,7 @@ Ipsa consequatur dolore labore eos et tempore et. Ab inventore rerum eligendi ip
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[pageview]]></wp:meta_key>
-		<wp:meta_value><![CDATA[22]]></wp:meta_value>
+		<wp:meta_value><![CDATA[23]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:comment>
 			<wp:comment_id>4</wp:comment_id>
@@ -14334,7 +14333,7 @@ Ipsa consequatur dolore labore eos et tempore et. Ab inventore rerum eligendi ip
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[pageview]]></wp:meta_key>
-		<wp:meta_value><![CDATA[55]]></wp:meta_value>
+		<wp:meta_value><![CDATA[57]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:comment>
 			<wp:comment_id>13</wp:comment_id>

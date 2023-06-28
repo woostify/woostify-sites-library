@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/6.2.2" created="2023-06-22 10:26" -->
+	<!-- generator="WordPress/6.2.2" created="2023-06-28 08:01" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
 	<title>Auto Car</title>
 	<link>https://demo.woostify.com/autocar</link>
 	<description>Just another Woostify Pro Demo Sites site</description>
-	<pubDate>Thu, 22 Jun 2023 10:26:06 +0000</pubDate>
+	<pubDate>Wed, 28 Jun 2023 08:01:31 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>https://demo.woostify.com/</wp:base_site_url>
@@ -4937,116 +4937,141 @@ Shop Departments					</button>
 		<description></description>
 		<content:encoded><![CDATA[<h2>Brake &amp; pads</h2>		
 					<ul>
-							<li >
-					<a href="#">					Brake Calipers
+							<li>
+											<a href="#">
+											Brake Calipers
 											</a>
 									</li>
-								<li >
-					<a href="#">					Brake Hoses & Lines
+								<li>
+											<a href="#">
+											Brake Hoses & Lines
 											</a>
 									</li>
-								<li >
-					<a href="#">					Brake Pads & Shoes
+								<li>
+											<a href="#">
+											Brake Pads & Shoes
 											</a>
 									</li>
-								<li >
-					<a href="#">					Brake Rotorsc
+								<li>
+											<a href="#">
+											Brake Rotorsc
 											</a>
 									</li>
-								<li >
-					<a href="#">					Cylinders & Kits
+								<li>
+											<a href="#">
+											Cylinders & Kits
 											</a>
 									</li>
 						</ul>
 			<h2>Oil & lubricants</h2>		
 					<ul>
-							<li >
-					<a href="#">					Engine Oil
+							<li>
+											<a href="#">
+											Engine Oil
 											</a>
 									</li>
-								<li >
-					<a href="#">					Motor Oil
+								<li>
+											<a href="#">
+											Motor Oil
 											</a>
 									</li>
-								<li >
-					<a href="#">					Powersport
+								<li>
+											<a href="#">
+											Powersport
 											</a>
 									</li>
-								<li >
-					<a href="#">					Racing Motor Oil
+								<li>
+											<a href="#">
+											Racing Motor Oil
 											</a>
 									</li>
-								<li >
-					<a href="#">					Synthetic
+								<li>
+											<a href="#">
+											Synthetic
 											</a>
 									</li>
 						</ul>
 			<h2>Engine Parts</h2>		
 					<ul>
-							<li >
-					<a href="#">					Air Boxes
+							<li>
+											<a href="#">
+											Air Boxes
 											</a>
 									</li>
-								<li >
-					<a href="#">					Cold Start Valves
+								<li>
+											<a href="#">
+											Cold Start Valves
 											</a>
 									</li>
-								<li >
-					<a href="#">					Cylinder Heads
+								<li>
+											<a href="#">
+											Cylinder Heads
 											</a>
 									</li>
-								<li >
-					<a href="#">					Pistons liners
+								<li>
+											<a href="#">
+											Pistons liners
 											</a>
 									</li>
-								<li >
-					<a href="#">					Sump Pans & Plugs
+								<li>
+											<a href="#">
+											Sump Pans & Plugs
 											</a>
 									</li>
 						</ul>
 			<h2>Service kits</h2>		
 					<ul>
-							<li >
-					<a href="#">					Air Filters
+							<li>
+											<a href="#">
+											Air Filters
 											</a>
 									</li>
-								<li >
-					<a href="#">					Cabin Air Filters
+								<li>
+											<a href="#">
+											Cabin Air Filters
 											</a>
 									</li>
-								<li >
-					<a href="#">					Oil Filters
+								<li>
+											<a href="#">
+											Oil Filters
 											</a>
 									</li>
-								<li >
-					<a href="#">					Oxygen Sensors
+								<li>
+											<a href="#">
+											Oxygen Sensors
 											</a>
 									</li>
-								<li >
-					<a href="#">					PCV Valves
+								<li>
+											<a href="#">
+											PCV Valves
 											</a>
 									</li>
 						</ul>
 			<h2>Lighting</h2>		
 					<ul>
-							<li >
-					<a href="#">					Adapters
+							<li>
+											<a href="#">
+											Adapters
 											</a>
 									</li>
-								<li >
-					<a href="#">					Cameras & Cases
+								<li>
+											<a href="#">
+											Cameras & Cases
 											</a>
 									</li>
-								<li >
-					<a href="#">					GPS Systems
+								<li>
+											<a href="#">
+											GPS Systems
 											</a>
 									</li>
-								<li >
-					<a href="#">					Mobile Electronics
+								<li>
+											<a href="#">
+											Mobile Electronics
 											</a>
 									</li>
-								<li >
-					<a href="#">					Radar Detectors
+								<li>
+											<a href="#">
+											Radar Detectors
 											</a>
 									</li>
 						</ul>]]></content:encoded>
@@ -5054,8 +5079,8 @@ Shop Departments					</button>
 		<wp:post_id>154</wp:post_id>
 		<wp:post_date><![CDATA[2020-05-21 04:43:35]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-05-21 04:43:35]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2020-05-21 04:43:35]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2020-05-21 04:43:35]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2023-06-26 03:58:33]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-06-26 03:58:33]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[wheel-tire]]></wp:post_name>
@@ -5075,7 +5100,7 @@ Shop Departments					</button>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_elementor_version]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2.9.12]]></wp:meta_value>
+		<wp:meta_value><![CDATA[3.13.4]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
@@ -5083,7 +5108,7 @@ Shop Departments					</button>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_elementor_data]]></wp:meta_key>
-		<wp:meta_value><![CDATA[[{"id":"2e7c7f4","elType":"section","settings":{"structure":"40","background_background":"classic","background_color":"#FFFFFF","background_image":{"url":"https:\/\/demo.woostify.com\/autocar\/wp-content\/uploads\/sites\/26\/2020\/05\/mm1-1-3.jpg","id":831},"background_position":"bottom right","background_repeat":"no-repeat","padding":{"unit":"px","top":"0","right":"0","bottom":"20","left":"0","isLinked":false}},"elements":[{"id":"75aae49","elType":"column","settings":{"_column_size":25,"_inline_size":null,"padding":{"unit":"px","top":"10","right":"10","bottom":"10","left":"20","isLinked":false}},"elements":[{"id":"e042757","elType":"widget","settings":{"title":"Brake &amp; pads","typography_typography":"custom","typography_font_size":{"unit":"px","size":18,"sizes":[]}},"elements":[],"widgetType":"heading"},{"id":"c284b6a","elType":"widget","settings":{"width":{"unit":"%","size":80,"sizes":[]},"align":"left","text":"Divider","color":"#AEAEAE","gap":{"unit":"px","size":5,"sizes":[]}},"elements":[],"widgetType":"divider"},{"id":"279c080","elType":"widget","settings":{"icon_list":[{"text":"Brake Calipers","selected_icon":{"value":"","library":""},"_id":"9fab8ed","link":{"url":"#","is_external":"","nofollow":"","custom_attributes":""}},{"text":"Brake Hoses & Lines","selected_icon":{"value":"","library":""},"link":{"url":"#","is_external":"","nofollow":"","custom_attributes":""},"_id":"d2e31fa"},{"text":"Brake Pads & Shoes","selected_icon":{"value":"","library":""},"link":{"url":"#","is_external":"","nofollow":"","custom_attributes":""},"_id":"b9c7c38"},{"text":"Brake Rotorsc","selected_icon":{"value":"","library":""},"link":{"url":"#","is_external":"","nofollow":"","custom_attributes":""},"_id":"77c3523"},{"text":"Cylinders & Kits","selected_icon":{"value":"","library":""},"link":{"url":"#","is_external":"","nofollow":"","custom_attributes":""},"_id":"c75e7a1"}],"space_between":{"unit":"px","size":8,"sizes":[]},"text_color":"#616161","text_color_hover":"#FC5A34","icon_typography_typography":"custom","icon_typography_font_size":{"unit":"px","size":15,"sizes":[]}},"elements":[],"widgetType":"icon-list"},{"id":"a6c8c78","elType":"widget","settings":{"title":"Oil & lubricants","typography_typography":"custom","typography_font_size":{"unit":"px","size":18,"sizes":[]},"_margin":{"unit":"px","top":"40","right":"0","bottom":"0","left":"0","isLinked":false}},"elements":[],"widgetType":"heading"},{"id":"e69992c","elType":"widget","settings":{"width":{"unit":"%","size":80,"sizes":[]},"align":"left","text":"Divider","color":"#AEAEAE","gap":{"unit":"px","size":5,"sizes":[]}},"elements":[],"widgetType":"divider"},{"id":"f98f838","elType":"widget","settings":{"icon_list":[{"text":"Engine Oil","selected_icon":{"value":"","library":""},"_id":"9fab8ed","link":{"url":"#","is_external":"","nofollow":"","custom_attributes":""}},{"text":"Motor Oil","selected_icon":{"value":"","library":""},"link":{"url":"#","is_external":"","nofollow":"","custom_attributes":""},"_id":"d2e31fa"},{"text":"Powersport","selected_icon":{"value":"","library":""},"link":{"url":"#","is_external":"","nofollow":"","custom_attributes":""},"_id":"b9c7c38"},{"text":"Racing Motor Oil","selected_icon":{"value":"","library":""},"link":{"url":"#","is_external":"","nofollow":"","custom_attributes":""},"_id":"77c3523"},{"text":"Synthetic","selected_icon":{"value":"","library":""},"link":{"url":"#","is_external":"","nofollow":"","custom_attributes":""},"_id":"c75e7a1"}],"space_between":{"unit":"px","size":8,"sizes":[]},"text_color":"#616161","text_color_hover":"#FC5A34","icon_typography_typography":"custom","icon_typography_font_size":{"unit":"px","size":15,"sizes":[]}},"elements":[],"widgetType":"icon-list"}],"isInner":false},{"id":"ceb9b25","elType":"column","settings":{"_column_size":25,"_inline_size":null},"elements":[{"id":"5ed4a36","elType":"widget","settings":{"title":"Engine Parts","typography_typography":"custom","typography_font_size":{"unit":"px","size":18,"sizes":[]}},"elements":[],"widgetType":"heading"},{"id":"ef86d8f","elType":"widget","settings":{"width":{"unit":"%","size":80,"sizes":[]},"text":"Divider","color":"#AEAEAE","gap":{"unit":"px","size":5,"sizes":[]}},"elements":[],"widgetType":"divider"},{"id":"dde954d","elType":"widget","settings":{"icon_list":[{"text":"Air Boxes","selected_icon":{"value":"","library":""},"_id":"9fab8ed","link":{"url":"#","is_external":"","nofollow":"","custom_attributes":""}},{"text":"Cold Start Valves","selected_icon":{"value":"","library":""},"link":{"url":"#","is_external":"","nofollow":"","custom_attributes":""},"_id":"d2e31fa"},{"text":"Cylinder Heads","selected_icon":{"value":"","library":""},"link":{"url":"#","is_external":"","nofollow":"","custom_attributes":""},"_id":"b9c7c38"},{"text":"Pistons liners","selected_icon":{"value":"","library":""},"link":{"url":"#","is_external":"","nofollow":"","custom_attributes":""},"_id":"77c3523"},{"text":"Sump Pans & Plugs","selected_icon":{"value":"","library":""},"link":{"url":"#","is_external":"","nofollow":"","custom_attributes":""},"_id":"c75e7a1"}],"space_between":{"unit":"px","size":8,"sizes":[]},"text_color":"#616161","text_color_hover":"#FC5A34","icon_typography_typography":"custom","icon_typography_font_size":{"unit":"px","size":15,"sizes":[]}},"elements":[],"widgetType":"icon-list"},{"id":"8167dcb","elType":"widget","settings":{"title":"Service kits","typography_typography":"custom","typography_font_size":{"unit":"px","size":18,"sizes":[]},"_margin":{"unit":"px","top":"40","right":"0","bottom":"0","left":"0","isLinked":false}},"elements":[],"widgetType":"heading"},{"id":"d72496d","elType":"widget","settings":{"width":{"unit":"%","size":80,"sizes":[]},"text":"Divider","color":"#AEAEAE","gap":{"unit":"px","size":5,"sizes":[]}},"elements":[],"widgetType":"divider"},{"id":"1436e20","elType":"widget","settings":{"icon_list":[{"text":"Air Filters","selected_icon":{"value":"","library":""},"_id":"9fab8ed","link":{"url":"#","is_external":"","nofollow":"","custom_attributes":""}},{"text":"Cabin Air Filters","selected_icon":{"value":"","library":""},"link":{"url":"#","is_external":"","nofollow":"","custom_attributes":""},"_id":"d2e31fa"},{"text":"Oil Filters","selected_icon":{"value":"","library":""},"link":{"url":"#","is_external":"","nofollow":"","custom_attributes":""},"_id":"b9c7c38"},{"text":"Oxygen Sensors","selected_icon":{"value":"","library":""},"link":{"url":"#","is_external":"","nofollow":"","custom_attributes":""},"_id":"77c3523"},{"text":"PCV Valves","selected_icon":{"value":"","library":""},"link":{"url":"#","is_external":"","nofollow":"","custom_attributes":""},"_id":"c75e7a1"}],"space_between":{"unit":"px","size":8,"sizes":[]},"text_color":"#616161","text_color_hover":"#FC5A34","icon_typography_typography":"custom","icon_typography_font_size":{"unit":"px","size":15,"sizes":[]}},"elements":[],"widgetType":"icon-list"}],"isInner":false},{"id":"303bc00","elType":"column","settings":{"_column_size":25,"_inline_size":null},"elements":[{"id":"9978f6e","elType":"widget","settings":{"title":"Lighting","typography_typography":"custom","typography_font_size":{"unit":"px","size":18,"sizes":[]}},"elements":[],"widgetType":"heading"},{"id":"4908a7c","elType":"widget","settings":{"width":{"unit":"%","size":80,"sizes":[]},"text":"Divider","color":"#AEAEAE","gap":{"unit":"px","size":5,"sizes":[]}},"elements":[],"widgetType":"divider"},{"id":"e3ae7c6","elType":"widget","settings":{"icon_list":[{"text":"Adapters","selected_icon":{"value":"","library":""},"_id":"9fab8ed","link":{"url":"#","is_external":"","nofollow":"","custom_attributes":""}},{"text":"Cameras & Cases","selected_icon":{"value":"","library":""},"link":{"url":"#","is_external":"","nofollow":"","custom_attributes":""},"_id":"d2e31fa"},{"text":"GPS Systems","selected_icon":{"value":"","library":""},"link":{"url":"#","is_external":"","nofollow":"","custom_attributes":""},"_id":"b9c7c38"},{"text":"Mobile Electronics","selected_icon":{"value":"","library":""},"link":{"url":"#","is_external":"","nofollow":"","custom_attributes":""},"_id":"77c3523"},{"text":"Radar Detectors","selected_icon":{"value":"","library":""},"link":{"url":"#","is_external":"","nofollow":"","custom_attributes":""},"_id":"c75e7a1"}],"space_between":{"unit":"px","size":8,"sizes":[]},"text_color":"#616161","text_color_hover":"#FC5A34","icon_typography_typography":"custom","icon_typography_font_size":{"unit":"px","size":15,"sizes":[]}},"elements":[],"widgetType":"icon-list"}],"isInner":false},{"id":"c05beb6","elType":"column","settings":{"_column_size":25,"_inline_size":null},"elements":[],"isInner":false}],"isInner":false}]]]></wp:meta_value>
+		<wp:meta_value><![CDATA[[{"id":"2249a14","elType":"container","settings":{"structure":"40","background_background":"classic","background_color":"#FFFFFF","background_image":{"url":"https:\/\/demo.woostify.com\/autocar\/wp-content\/uploads\/sites\/26\/2020\/05\/mm1-1-3.jpg","id":831},"background_position":"bottom right","background_repeat":"no-repeat","padding":{"unit":"px","top":"0","right":"0","bottom":"20","left":"0","isLinked":false},"flex_direction":"row","flex_align_items":"stretch","flex_gap":{"size":0,"unit":"px"}},"elements":[{"id":"e5f506e","elType":"container","settings":{"_column_size":25,"width":{"size":25,"unit":"%"},"padding":{"unit":"px","top":"10","right":"10","bottom":"10","left":"20","isLinked":false},"content_width":"full","padding_mobile":{"unit":"px","top":"10","right":"10","bottom":"10","left":"10","isLinked":true}},"elements":[{"id":"3794a1e","elType":"widget","settings":{"title":"Brake &amp; pads","typography_typography":"custom","typography_font_size":{"unit":"px","size":18,"sizes":[]}},"elements":[],"widgetType":"heading"},{"id":"4417c12","elType":"widget","settings":{"width":{"unit":"%","size":80,"sizes":[]},"align":"left","text":"Divider","color":"#AEAEAE","gap":{"unit":"px","size":5,"sizes":[]}},"elements":[],"widgetType":"divider"},{"id":"32730c8","elType":"widget","settings":{"icon_list":[{"text":"Brake Calipers","selected_icon":{"value":"","library":""},"_id":"9fab8ed","link":{"url":"#","is_external":"","nofollow":"","custom_attributes":""}},{"text":"Brake Hoses & Lines","selected_icon":{"value":"","library":""},"link":{"url":"#","is_external":"","nofollow":"","custom_attributes":""},"_id":"d2e31fa"},{"text":"Brake Pads & Shoes","selected_icon":{"value":"","library":""},"link":{"url":"#","is_external":"","nofollow":"","custom_attributes":""},"_id":"b9c7c38"},{"text":"Brake Rotorsc","selected_icon":{"value":"","library":""},"link":{"url":"#","is_external":"","nofollow":"","custom_attributes":""},"_id":"77c3523"},{"text":"Cylinders & Kits","selected_icon":{"value":"","library":""},"link":{"url":"#","is_external":"","nofollow":"","custom_attributes":""},"_id":"c75e7a1"}],"space_between":{"unit":"px","size":8,"sizes":[]},"text_color":"#616161","text_color_hover":"#FC5A34","icon_typography_typography":"custom","icon_typography_font_size":{"unit":"px","size":15,"sizes":[]}},"elements":[],"widgetType":"icon-list"},{"id":"8a8a69f","elType":"widget","settings":{"title":"Oil & lubricants","typography_typography":"custom","typography_font_size":{"unit":"px","size":18,"sizes":[]},"_margin":{"unit":"px","top":"40","right":"0","bottom":"0","left":"0","isLinked":false}},"elements":[],"widgetType":"heading"},{"id":"4ef737e","elType":"widget","settings":{"width":{"unit":"%","size":80,"sizes":[]},"align":"left","text":"Divider","color":"#AEAEAE","gap":{"unit":"px","size":5,"sizes":[]}},"elements":[],"widgetType":"divider"},{"id":"6a87055","elType":"widget","settings":{"icon_list":[{"text":"Engine Oil","selected_icon":{"value":"","library":""},"_id":"9fab8ed","link":{"url":"#","is_external":"","nofollow":"","custom_attributes":""}},{"text":"Motor Oil","selected_icon":{"value":"","library":""},"link":{"url":"#","is_external":"","nofollow":"","custom_attributes":""},"_id":"d2e31fa"},{"text":"Powersport","selected_icon":{"value":"","library":""},"link":{"url":"#","is_external":"","nofollow":"","custom_attributes":""},"_id":"b9c7c38"},{"text":"Racing Motor Oil","selected_icon":{"value":"","library":""},"link":{"url":"#","is_external":"","nofollow":"","custom_attributes":""},"_id":"77c3523"},{"text":"Synthetic","selected_icon":{"value":"","library":""},"link":{"url":"#","is_external":"","nofollow":"","custom_attributes":""},"_id":"c75e7a1"}],"space_between":{"unit":"px","size":8,"sizes":[]},"text_color":"#616161","text_color_hover":"#FC5A34","icon_typography_typography":"custom","icon_typography_font_size":{"unit":"px","size":15,"sizes":[]}},"elements":[],"widgetType":"icon-list"}],"isInner":false},{"id":"85bbd34","elType":"container","settings":{"_column_size":25,"width":{"size":25,"unit":"%"},"content_width":"full"},"elements":[{"id":"7af1792","elType":"widget","settings":{"title":"Engine Parts","typography_typography":"custom","typography_font_size":{"unit":"px","size":18,"sizes":[]}},"elements":[],"widgetType":"heading"},{"id":"5246255","elType":"widget","settings":{"width":{"unit":"%","size":80,"sizes":[]},"text":"Divider","color":"#AEAEAE","gap":{"unit":"px","size":5,"sizes":[]}},"elements":[],"widgetType":"divider"},{"id":"b5376b3","elType":"widget","settings":{"icon_list":[{"text":"Air Boxes","selected_icon":{"value":"","library":""},"_id":"9fab8ed","link":{"url":"#","is_external":"","nofollow":"","custom_attributes":""}},{"text":"Cold Start Valves","selected_icon":{"value":"","library":""},"link":{"url":"#","is_external":"","nofollow":"","custom_attributes":""},"_id":"d2e31fa"},{"text":"Cylinder Heads","selected_icon":{"value":"","library":""},"link":{"url":"#","is_external":"","nofollow":"","custom_attributes":""},"_id":"b9c7c38"},{"text":"Pistons liners","selected_icon":{"value":"","library":""},"link":{"url":"#","is_external":"","nofollow":"","custom_attributes":""},"_id":"77c3523"},{"text":"Sump Pans & Plugs","selected_icon":{"value":"","library":""},"link":{"url":"#","is_external":"","nofollow":"","custom_attributes":""},"_id":"c75e7a1"}],"space_between":{"unit":"px","size":8,"sizes":[]},"text_color":"#616161","text_color_hover":"#FC5A34","icon_typography_typography":"custom","icon_typography_font_size":{"unit":"px","size":15,"sizes":[]}},"elements":[],"widgetType":"icon-list"},{"id":"f1cefe2","elType":"widget","settings":{"title":"Service kits","typography_typography":"custom","typography_font_size":{"unit":"px","size":18,"sizes":[]},"_margin":{"unit":"px","top":"40","right":"0","bottom":"0","left":"0","isLinked":false}},"elements":[],"widgetType":"heading"},{"id":"b9be5df","elType":"widget","settings":{"width":{"unit":"%","size":80,"sizes":[]},"text":"Divider","color":"#AEAEAE","gap":{"unit":"px","size":5,"sizes":[]}},"elements":[],"widgetType":"divider"},{"id":"f644557","elType":"widget","settings":{"icon_list":[{"text":"Air Filters","selected_icon":{"value":"","library":""},"_id":"9fab8ed","link":{"url":"#","is_external":"","nofollow":"","custom_attributes":""}},{"text":"Cabin Air Filters","selected_icon":{"value":"","library":""},"link":{"url":"#","is_external":"","nofollow":"","custom_attributes":""},"_id":"d2e31fa"},{"text":"Oil Filters","selected_icon":{"value":"","library":""},"link":{"url":"#","is_external":"","nofollow":"","custom_attributes":""},"_id":"b9c7c38"},{"text":"Oxygen Sensors","selected_icon":{"value":"","library":""},"link":{"url":"#","is_external":"","nofollow":"","custom_attributes":""},"_id":"77c3523"},{"text":"PCV Valves","selected_icon":{"value":"","library":""},"link":{"url":"#","is_external":"","nofollow":"","custom_attributes":""},"_id":"c75e7a1"}],"space_between":{"unit":"px","size":8,"sizes":[]},"text_color":"#616161","text_color_hover":"#FC5A34","icon_typography_typography":"custom","icon_typography_font_size":{"unit":"px","size":15,"sizes":[]}},"elements":[],"widgetType":"icon-list"}],"isInner":false},{"id":"7fe2cc6","elType":"container","settings":{"_column_size":25,"width":{"size":25,"unit":"%"},"content_width":"full"},"elements":[{"id":"73f781f","elType":"widget","settings":{"title":"Lighting","typography_typography":"custom","typography_font_size":{"unit":"px","size":18,"sizes":[]}},"elements":[],"widgetType":"heading"},{"id":"0a4fe40","elType":"widget","settings":{"width":{"unit":"%","size":80,"sizes":[]},"text":"Divider","color":"#AEAEAE","gap":{"unit":"px","size":5,"sizes":[]}},"elements":[],"widgetType":"divider"},{"id":"aa3f9fa","elType":"widget","settings":{"icon_list":[{"text":"Adapters","selected_icon":{"value":"","library":""},"_id":"9fab8ed","link":{"url":"#","is_external":"","nofollow":"","custom_attributes":""}},{"text":"Cameras & Cases","selected_icon":{"value":"","library":""},"link":{"url":"#","is_external":"","nofollow":"","custom_attributes":""},"_id":"d2e31fa"},{"text":"GPS Systems","selected_icon":{"value":"","library":""},"link":{"url":"#","is_external":"","nofollow":"","custom_attributes":""},"_id":"b9c7c38"},{"text":"Mobile Electronics","selected_icon":{"value":"","library":""},"link":{"url":"#","is_external":"","nofollow":"","custom_attributes":""},"_id":"77c3523"},{"text":"Radar Detectors","selected_icon":{"value":"","library":""},"link":{"url":"#","is_external":"","nofollow":"","custom_attributes":""},"_id":"c75e7a1"}],"space_between":{"unit":"px","size":8,"sizes":[]},"text_color":"#616161","text_color_hover":"#FC5A34","icon_typography_typography":"custom","icon_typography_font_size":{"unit":"px","size":15,"sizes":[]}},"elements":[],"widgetType":"icon-list"}],"isInner":false},{"id":"25611f0","elType":"container","settings":{"_column_size":25,"width":{"size":25,"unit":"%"},"content_width":"full","padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true}},"elements":[],"isInner":false}],"isInner":false}]]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_elementor_controls_usage]]></wp:meta_key>
@@ -5092,6 +5117,10 @@ Shop Departments					</button>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wxr_import_user_slug]]></wp:meta_key>
 		<wp:meta_value><![CDATA[woostify]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_elementor_page_assets]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -5103,139 +5132,169 @@ Shop Departments					</button>
 		<description></description>
 		<content:encoded><![CDATA[<h2>Brake disks & pads</h2>		
 					<ul>
-							<li >
-					<a href="#">					Brake Calipers
+							<li>
+											<a href="#">
+											Brake Calipers
 											</a>
 									</li>
-								<li >
-					<a href="#">					Brake Hoses & Lines
+								<li>
+											<a href="#">
+											Brake Hoses & Lines
 											</a>
 									</li>
-								<li >
-					<a href="#">					Brake Pads & Shoes
+								<li>
+											<a href="#">
+											Brake Pads & Shoes
 											</a>
 									</li>
-								<li >
-					<a href="#">					Brake Rotorsc
+								<li>
+											<a href="#">
+											Brake Rotorsc
 											</a>
 									</li>
-								<li >
-					<a href="#">					Cylinders & Kits
+								<li>
+											<a href="#">
+											Cylinders & Kits
 											</a>
 									</li>
 						</ul>
 			<h2>Engine Parts</h2>		
 					<ul>
-							<li >
-					<a href="#">					Air Boxes
+							<li>
+											<a href="#">
+											Air Boxes
 											</a>
 									</li>
-								<li >
-					<a href="#">					Cold Start Valves
+								<li>
+											<a href="#">
+											Cold Start Valves
 											</a>
 									</li>
-								<li >
-					<a href="#">					Cylinder Heads
+								<li>
+											<a href="#">
+											Cylinder Heads
 											</a>
 									</li>
-								<li >
-					<a href="#">					Pistons liners
+								<li>
+											<a href="#">
+											Pistons liners
 											</a>
 									</li>
-								<li >
-					<a href="#">					Sump Pans & Plugs
+								<li>
+											<a href="#">
+											Sump Pans & Plugs
 											</a>
 									</li>
 						</ul>
 			<h2>Lighting</h2>		
 					<ul>
-							<li >
-					<a href="#">					Adapters
+							<li>
+											<a href="#">
+											Adapters
 											</a>
 									</li>
-								<li >
-					<a href="#">					Cameras & Cases
+								<li>
+											<a href="#">
+											Cameras & Cases
 											</a>
 									</li>
-								<li >
-					<a href="#">					GPS Systems
+								<li>
+											<a href="#">
+											GPS Systems
 											</a>
 									</li>
-								<li >
-					<a href="#">					Mobile Electronics
+								<li>
+											<a href="#">
+											Mobile Electronics
 											</a>
 									</li>
-								<li >
-					<a href="#">					Radar Detectors
+								<li>
+											<a href="#">
+											Radar Detectors
 											</a>
 									</li>
 						</ul>
 			<h2>Oil & lubricants</h2>		
 					<ul>
-							<li >
-					<a href="#">					Engine Oil
+							<li>
+											<a href="#">
+											Engine Oil
 											</a>
 									</li>
-								<li >
-					<a href="#">					Motor Oil
+								<li>
+											<a href="#">
+											Motor Oil
 											</a>
 									</li>
-								<li >
-					<a href="#">					Powersport
+								<li>
+											<a href="#">
+											Powersport
 											</a>
 									</li>
-								<li >
-					<a href="#">					Racing Motor Oil
+								<li>
+											<a href="#">
+											Racing Motor Oil
 											</a>
 									</li>
-								<li >
-					<a href="#">					Synthetic
+								<li>
+											<a href="#">
+											Synthetic
 											</a>
 									</li>
 						</ul>
 			<h2>Service kits</h2>		
 					<ul>
-							<li >
-					<a href="#">					Air Filters
+							<li>
+											<a href="#">
+											Air Filters
 											</a>
 									</li>
-								<li >
-					<a href="#">					Cabin Air Filters
+								<li>
+											<a href="#">
+											Cabin Air Filters
 											</a>
 									</li>
-								<li >
-					<a href="#">					Oil Filters
+								<li>
+											<a href="#">
+											Oil Filters
 											</a>
 									</li>
-								<li >
-					<a href="#">					Oxygen Sensors
+								<li>
+											<a href="#">
+											Oxygen Sensors
 											</a>
 									</li>
-								<li >
-					<a href="#">					PCV Valves
+								<li>
+											<a href="#">
+											PCV Valves
 											</a>
 									</li>
 						</ul>
 			<h2>Tires & Wheels</h2>		
 					<ul>
-							<li >
-					<a href="#">					Custom Wheels
+							<li>
+											<a href="#">
+											Custom Wheels
 											</a>
 									</li>
-								<li >
-					<a href="#">					Cameras & Cases
+								<li>
+											<a href="#">
+											Cameras & Cases
 											</a>
 									</li>
-								<li >
-					<a href="#">					Factory Wheels
+								<li>
+											<a href="#">
+											Factory Wheels
 											</a>
 									</li>
-								<li >
-					<a href="#">					Lug Nuts & Locks
+								<li>
+											<a href="#">
+											Lug Nuts & Locks
 											</a>
 									</li>
-								<li >
-					<a href="#">					Misc
+								<li>
+											<a href="#">
+											Misc
 											</a>
 									</li>
 						</ul>]]></content:encoded>
@@ -5243,8 +5302,8 @@ Shop Departments					</button>
 		<wp:post_id>156</wp:post_id>
 		<wp:post_date><![CDATA[2020-05-21 06:53:43]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-05-21 06:53:43]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2020-05-21 06:53:43]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2020-05-21 06:53:43]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2023-06-26 03:53:33]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-06-26 03:53:33]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[lighting]]></wp:post_name>
@@ -5264,7 +5323,7 @@ Shop Departments					</button>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_elementor_version]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2.9.12]]></wp:meta_value>
+		<wp:meta_value><![CDATA[3.13.4]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
@@ -5272,7 +5331,7 @@ Shop Departments					</button>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_elementor_data]]></wp:meta_key>
-		<wp:meta_value><![CDATA[[{"id":"6e220dc","elType":"section","settings":{"structure":"30","background_background":"classic","background_color":"#FFFFFF"},"elements":[{"id":"5986d20","elType":"column","settings":{"_column_size":33,"_inline_size":null,"padding":{"unit":"px","top":"10","right":"10","bottom":"10","left":"20","isLinked":false}},"elements":[{"id":"4e4407c","elType":"widget","settings":{"title":"Brake disks & pads","typography_typography":"custom","typography_font_size":{"unit":"px","size":18,"sizes":[]}},"elements":[],"widgetType":"heading"},{"id":"04dfdf0","elType":"widget","settings":{"width":{"unit":"%","size":80,"sizes":[]},"align":"left","text":"Divider","color":"#AEAEAE","gap":{"unit":"px","size":5,"sizes":[]}},"elements":[],"widgetType":"divider"},{"id":"48f3455","elType":"widget","settings":{"icon_list":[{"text":"Brake Calipers","selected_icon":{"value":"","library":""},"_id":"9fab8ed","link":{"url":"#","is_external":"","nofollow":"","custom_attributes":""}},{"text":"Brake Hoses & Lines","selected_icon":{"value":"","library":""},"link":{"url":"#","is_external":"","nofollow":"","custom_attributes":""},"_id":"d2e31fa"},{"text":"Brake Pads & Shoes","selected_icon":{"value":"","library":""},"link":{"url":"#","is_external":"","nofollow":"","custom_attributes":""},"_id":"b9c7c38"},{"text":"Brake Rotorsc","selected_icon":{"value":"","library":""},"link":{"url":"#","is_external":"","nofollow":"","custom_attributes":""},"_id":"77c3523"},{"text":"Cylinders & Kits","selected_icon":{"value":"","library":""},"link":{"url":"#","is_external":"","nofollow":"","custom_attributes":""},"_id":"c75e7a1"}],"space_between":{"unit":"px","size":8,"sizes":[]},"text_color":"#616161","text_color_hover":"#FC5A34","icon_typography_typography":"custom","icon_typography_font_size":{"unit":"px","size":15,"sizes":[]}},"elements":[],"widgetType":"icon-list"}],"isInner":false},{"id":"7bcf35d","elType":"column","settings":{"_column_size":33,"_inline_size":null},"elements":[{"id":"2387015","elType":"widget","settings":{"title":"Engine Parts","typography_typography":"custom","typography_font_size":{"unit":"px","size":18,"sizes":[]}},"elements":[],"widgetType":"heading"},{"id":"fae1937","elType":"widget","settings":{"width":{"unit":"%","size":80,"sizes":[]},"text":"Divider","color":"#AEAEAE","gap":{"unit":"px","size":5,"sizes":[]}},"elements":[],"widgetType":"divider"},{"id":"f03bcf5","elType":"widget","settings":{"icon_list":[{"text":"Air Boxes","selected_icon":{"value":"","library":""},"_id":"9fab8ed","link":{"url":"#","is_external":"","nofollow":"","custom_attributes":""}},{"text":"Cold Start Valves","selected_icon":{"value":"","library":""},"link":{"url":"#","is_external":"","nofollow":"","custom_attributes":""},"_id":"d2e31fa"},{"text":"Cylinder Heads","selected_icon":{"value":"","library":""},"link":{"url":"#","is_external":"","nofollow":"","custom_attributes":""},"_id":"b9c7c38"},{"text":"Pistons liners","selected_icon":{"value":"","library":""},"link":{"url":"#","is_external":"","nofollow":"","custom_attributes":""},"_id":"77c3523"},{"text":"Sump Pans & Plugs","selected_icon":{"value":"","library":""},"link":{"url":"#","is_external":"","nofollow":"","custom_attributes":""},"_id":"c75e7a1"}],"space_between":{"unit":"px","size":8,"sizes":[]},"text_color":"#616161","text_color_hover":"#FC5A34","icon_typography_typography":"custom","icon_typography_font_size":{"unit":"px","size":15,"sizes":[]}},"elements":[],"widgetType":"icon-list"}],"isInner":false},{"id":"15b2c85","elType":"column","settings":{"_column_size":33,"_inline_size":null},"elements":[{"id":"d93ebc0","elType":"widget","settings":{"title":"Lighting","typography_typography":"custom","typography_font_size":{"unit":"px","size":18,"sizes":[]}},"elements":[],"widgetType":"heading"},{"id":"590dc39","elType":"widget","settings":{"width":{"unit":"%","size":80,"sizes":[]},"text":"Divider","color":"#AEAEAE","gap":{"unit":"px","size":5,"sizes":[]}},"elements":[],"widgetType":"divider"},{"id":"8133cc9","elType":"widget","settings":{"icon_list":[{"text":"Adapters","selected_icon":{"value":"","library":""},"_id":"9fab8ed","link":{"url":"#","is_external":"","nofollow":"","custom_attributes":""}},{"text":"Cameras & Cases","selected_icon":{"value":"","library":""},"link":{"url":"#","is_external":"","nofollow":"","custom_attributes":""},"_id":"d2e31fa"},{"text":"GPS Systems","selected_icon":{"value":"","library":""},"link":{"url":"#","is_external":"","nofollow":"","custom_attributes":""},"_id":"b9c7c38"},{"text":"Mobile Electronics","selected_icon":{"value":"","library":""},"link":{"url":"#","is_external":"","nofollow":"","custom_attributes":""},"_id":"77c3523"},{"text":"Radar Detectors","selected_icon":{"value":"","library":""},"link":{"url":"#","is_external":"","nofollow":"","custom_attributes":""},"_id":"c75e7a1"}],"space_between":{"unit":"px","size":8,"sizes":[]},"text_color":"#616161","text_color_hover":"#FC5A34","icon_typography_typography":"custom","icon_typography_font_size":{"unit":"px","size":15,"sizes":[]}},"elements":[],"widgetType":"icon-list"}],"isInner":false}],"isInner":false},{"id":"a7b7fef","elType":"section","settings":{"structure":"30","background_background":"classic","background_color":"#FFFFFF","margin":{"unit":"px","top":"0","right":0,"bottom":"0","left":0,"isLinked":false},"padding":{"unit":"px","top":"30","right":"0","bottom":"20","left":"0","isLinked":false}},"elements":[{"id":"be4cd71","elType":"column","settings":{"_column_size":33,"_inline_size":null,"padding":{"unit":"px","top":"10","right":"10","bottom":"10","left":"20","isLinked":false}},"elements":[{"id":"9f5c890","elType":"widget","settings":{"title":"Oil & lubricants","typography_typography":"custom","typography_font_size":{"unit":"px","size":18,"sizes":[]}},"elements":[],"widgetType":"heading"},{"id":"47fc8e0","elType":"widget","settings":{"width":{"unit":"%","size":80,"sizes":[]},"align":"left","text":"Divider","color":"#AEAEAE","gap":{"unit":"px","size":5,"sizes":[]}},"elements":[],"widgetType":"divider"},{"id":"4d6986d","elType":"widget","settings":{"icon_list":[{"text":"Engine Oil","selected_icon":{"value":"","library":""},"_id":"9fab8ed","link":{"url":"#","is_external":"","nofollow":"","custom_attributes":""}},{"text":"Motor Oil","selected_icon":{"value":"","library":""},"link":{"url":"#","is_external":"","nofollow":"","custom_attributes":""},"_id":"d2e31fa"},{"text":"Powersport","selected_icon":{"value":"","library":""},"link":{"url":"#","is_external":"","nofollow":"","custom_attributes":""},"_id":"b9c7c38"},{"text":"Racing Motor Oil","selected_icon":{"value":"","library":""},"link":{"url":"#","is_external":"","nofollow":"","custom_attributes":""},"_id":"77c3523"},{"text":"Synthetic","selected_icon":{"value":"","library":""},"link":{"url":"#","is_external":"","nofollow":"","custom_attributes":""},"_id":"c75e7a1"}],"space_between":{"unit":"px","size":8,"sizes":[]},"text_color":"#616161","text_color_hover":"#FC5A34","icon_typography_typography":"custom","icon_typography_font_size":{"unit":"px","size":15,"sizes":[]}},"elements":[],"widgetType":"icon-list"}],"isInner":false},{"id":"7438054","elType":"column","settings":{"_column_size":33,"_inline_size":null},"elements":[{"id":"25c47c3","elType":"widget","settings":{"title":"Service kits","typography_typography":"custom","typography_font_size":{"unit":"px","size":18,"sizes":[]}},"elements":[],"widgetType":"heading"},{"id":"9fac240","elType":"widget","settings":{"width":{"unit":"%","size":80,"sizes":[]},"text":"Divider","color":"#AEAEAE","gap":{"unit":"px","size":5,"sizes":[]}},"elements":[],"widgetType":"divider"},{"id":"5a677e1","elType":"widget","settings":{"icon_list":[{"text":"Air Filters","selected_icon":{"value":"","library":""},"_id":"9fab8ed","link":{"url":"#","is_external":"","nofollow":"","custom_attributes":""}},{"text":"Cabin Air Filters","selected_icon":{"value":"","library":""},"link":{"url":"#","is_external":"","nofollow":"","custom_attributes":""},"_id":"d2e31fa"},{"text":"Oil Filters","selected_icon":{"value":"","library":""},"link":{"url":"#","is_external":"","nofollow":"","custom_attributes":""},"_id":"b9c7c38"},{"text":"Oxygen Sensors","selected_icon":{"value":"","library":""},"link":{"url":"#","is_external":"","nofollow":"","custom_attributes":""},"_id":"77c3523"},{"text":"PCV Valves","selected_icon":{"value":"","library":""},"link":{"url":"#","is_external":"","nofollow":"","custom_attributes":""},"_id":"c75e7a1"}],"space_between":{"unit":"px","size":8,"sizes":[]},"text_color":"#616161","text_color_hover":"#FC5A34","icon_typography_typography":"custom","icon_typography_font_size":{"unit":"px","size":15,"sizes":[]}},"elements":[],"widgetType":"icon-list"}],"isInner":false},{"id":"0fa5a4e","elType":"column","settings":{"_column_size":33,"_inline_size":null},"elements":[{"id":"ea72777","elType":"widget","settings":{"title":"Tires & Wheels","typography_typography":"custom","typography_font_size":{"unit":"px","size":18,"sizes":[]}},"elements":[],"widgetType":"heading"},{"id":"ea44703","elType":"widget","settings":{"width":{"unit":"%","size":80,"sizes":[]},"text":"Divider","color":"#AEAEAE","gap":{"unit":"px","size":5,"sizes":[]}},"elements":[],"widgetType":"divider"},{"id":"c0df224","elType":"widget","settings":{"icon_list":[{"text":"Custom Wheels","selected_icon":{"value":"","library":""},"_id":"9fab8ed","link":{"url":"#","is_external":"","nofollow":"","custom_attributes":""}},{"text":"Cameras & Cases","selected_icon":{"value":"","library":""},"link":{"url":"#","is_external":"","nofollow":"","custom_attributes":""},"_id":"d2e31fa"},{"text":"Factory Wheels","selected_icon":{"value":"","library":""},"link":{"url":"#","is_external":"","nofollow":"","custom_attributes":""},"_id":"b9c7c38"},{"text":"Lug Nuts & Locks","selected_icon":{"value":"","library":""},"link":{"url":"#","is_external":"","nofollow":"","custom_attributes":""},"_id":"77c3523"},{"text":"Misc","selected_icon":{"value":"","library":""},"link":{"url":"#","is_external":"","nofollow":"","custom_attributes":""},"_id":"c75e7a1"}],"space_between":{"unit":"px","size":8,"sizes":[]},"text_color":"#616161","text_color_hover":"#FC5A34","icon_typography_typography":"custom","icon_typography_font_size":{"unit":"px","size":15,"sizes":[]}},"elements":[],"widgetType":"icon-list"}],"isInner":false}],"isInner":false}]]]></wp:meta_value>
+		<wp:meta_value><![CDATA[[{"id":"51985ab","elType":"container","settings":{"structure":"30","background_background":"classic","background_color":"#FFFFFF","flex_direction":"row","flex_align_items":"stretch","flex_gap":{"size":0,"unit":"px"},"padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true}},"elements":[{"id":"c4867f3","elType":"container","settings":{"_column_size":33,"width":{"size":33.333,"unit":"%"},"padding":{"unit":"px","top":"10","right":"10","bottom":"10","left":"20","isLinked":false},"content_width":"full","padding_mobile":{"unit":"px","top":"10","right":"10","bottom":"10","left":"10","isLinked":true}},"elements":[{"id":"cedcaab","elType":"widget","settings":{"title":"Brake disks & pads","typography_typography":"custom","typography_font_size":{"unit":"px","size":18,"sizes":[]}},"elements":[],"widgetType":"heading"},{"id":"2d77a44","elType":"widget","settings":{"width":{"unit":"%","size":80,"sizes":[]},"align":"left","text":"Divider","color":"#AEAEAE","gap":{"unit":"px","size":5,"sizes":[]}},"elements":[],"widgetType":"divider"},{"id":"7ed0f33","elType":"widget","settings":{"icon_list":[{"text":"Brake Calipers","selected_icon":{"value":"","library":""},"_id":"9fab8ed","link":{"url":"#","is_external":"","nofollow":"","custom_attributes":""}},{"text":"Brake Hoses & Lines","selected_icon":{"value":"","library":""},"link":{"url":"#","is_external":"","nofollow":"","custom_attributes":""},"_id":"d2e31fa"},{"text":"Brake Pads & Shoes","selected_icon":{"value":"","library":""},"link":{"url":"#","is_external":"","nofollow":"","custom_attributes":""},"_id":"b9c7c38"},{"text":"Brake Rotorsc","selected_icon":{"value":"","library":""},"link":{"url":"#","is_external":"","nofollow":"","custom_attributes":""},"_id":"77c3523"},{"text":"Cylinders & Kits","selected_icon":{"value":"","library":""},"link":{"url":"#","is_external":"","nofollow":"","custom_attributes":""},"_id":"c75e7a1"}],"space_between":{"unit":"px","size":8,"sizes":[]},"text_color":"#616161","text_color_hover":"#FC5A34","icon_typography_typography":"custom","icon_typography_font_size":{"unit":"px","size":15,"sizes":[]}},"elements":[],"widgetType":"icon-list"}],"isInner":false},{"id":"4b7bb63","elType":"container","settings":{"_column_size":33,"width":{"size":33.333,"unit":"%"},"content_width":"full"},"elements":[{"id":"7d35de9","elType":"widget","settings":{"title":"Engine Parts","typography_typography":"custom","typography_font_size":{"unit":"px","size":18,"sizes":[]}},"elements":[],"widgetType":"heading"},{"id":"e72e67a","elType":"widget","settings":{"width":{"unit":"%","size":80,"sizes":[]},"text":"Divider","color":"#AEAEAE","gap":{"unit":"px","size":5,"sizes":[]}},"elements":[],"widgetType":"divider"},{"id":"a9deec6","elType":"widget","settings":{"icon_list":[{"text":"Air Boxes","selected_icon":{"value":"","library":""},"_id":"9fab8ed","link":{"url":"#","is_external":"","nofollow":"","custom_attributes":""}},{"text":"Cold Start Valves","selected_icon":{"value":"","library":""},"link":{"url":"#","is_external":"","nofollow":"","custom_attributes":""},"_id":"d2e31fa"},{"text":"Cylinder Heads","selected_icon":{"value":"","library":""},"link":{"url":"#","is_external":"","nofollow":"","custom_attributes":""},"_id":"b9c7c38"},{"text":"Pistons liners","selected_icon":{"value":"","library":""},"link":{"url":"#","is_external":"","nofollow":"","custom_attributes":""},"_id":"77c3523"},{"text":"Sump Pans & Plugs","selected_icon":{"value":"","library":""},"link":{"url":"#","is_external":"","nofollow":"","custom_attributes":""},"_id":"c75e7a1"}],"space_between":{"unit":"px","size":8,"sizes":[]},"text_color":"#616161","text_color_hover":"#FC5A34","icon_typography_typography":"custom","icon_typography_font_size":{"unit":"px","size":15,"sizes":[]}},"elements":[],"widgetType":"icon-list"}],"isInner":false},{"id":"037b989","elType":"container","settings":{"_column_size":33,"width":{"size":33.333,"unit":"%"},"content_width":"full"},"elements":[{"id":"182dd56","elType":"widget","settings":{"title":"Lighting","typography_typography":"custom","typography_font_size":{"unit":"px","size":18,"sizes":[]}},"elements":[],"widgetType":"heading"},{"id":"62d5aef","elType":"widget","settings":{"width":{"unit":"%","size":80,"sizes":[]},"text":"Divider","color":"#AEAEAE","gap":{"unit":"px","size":5,"sizes":[]}},"elements":[],"widgetType":"divider"},{"id":"897895e","elType":"widget","settings":{"icon_list":[{"text":"Adapters","selected_icon":{"value":"","library":""},"_id":"9fab8ed","link":{"url":"#","is_external":"","nofollow":"","custom_attributes":""}},{"text":"Cameras & Cases","selected_icon":{"value":"","library":""},"link":{"url":"#","is_external":"","nofollow":"","custom_attributes":""},"_id":"d2e31fa"},{"text":"GPS Systems","selected_icon":{"value":"","library":""},"link":{"url":"#","is_external":"","nofollow":"","custom_attributes":""},"_id":"b9c7c38"},{"text":"Mobile Electronics","selected_icon":{"value":"","library":""},"link":{"url":"#","is_external":"","nofollow":"","custom_attributes":""},"_id":"77c3523"},{"text":"Radar Detectors","selected_icon":{"value":"","library":""},"link":{"url":"#","is_external":"","nofollow":"","custom_attributes":""},"_id":"c75e7a1"}],"space_between":{"unit":"px","size":8,"sizes":[]},"text_color":"#616161","text_color_hover":"#FC5A34","icon_typography_typography":"custom","icon_typography_font_size":{"unit":"px","size":15,"sizes":[]}},"elements":[],"widgetType":"icon-list"}],"isInner":false}],"isInner":false},{"id":"e012a0c","elType":"container","settings":{"structure":"30","background_background":"classic","background_color":"#FFFFFF","margin":{"unit":"px","top":"0","right":0,"bottom":"0","left":0,"isLinked":false},"padding":{"unit":"px","top":"30","right":"0","bottom":"20","left":"0","isLinked":false},"flex_direction":"row","flex_align_items":"stretch","flex_gap":{"size":0,"unit":"px"}},"elements":[{"id":"b67fb12","elType":"container","settings":{"_column_size":33,"width":{"size":33.333,"unit":"%"},"padding":{"unit":"px","top":"10","right":"10","bottom":"10","left":"20","isLinked":false},"content_width":"full","padding_mobile":{"unit":"px","top":"10","right":"10","bottom":"10","left":"10","isLinked":true}},"elements":[{"id":"a8c4f5f","elType":"widget","settings":{"title":"Oil & lubricants","typography_typography":"custom","typography_font_size":{"unit":"px","size":18,"sizes":[]}},"elements":[],"widgetType":"heading"},{"id":"3763385","elType":"widget","settings":{"width":{"unit":"%","size":80,"sizes":[]},"align":"left","text":"Divider","color":"#AEAEAE","gap":{"unit":"px","size":5,"sizes":[]}},"elements":[],"widgetType":"divider"},{"id":"44a645b","elType":"widget","settings":{"icon_list":[{"text":"Engine Oil","selected_icon":{"value":"","library":""},"_id":"9fab8ed","link":{"url":"#","is_external":"","nofollow":"","custom_attributes":""}},{"text":"Motor Oil","selected_icon":{"value":"","library":""},"link":{"url":"#","is_external":"","nofollow":"","custom_attributes":""},"_id":"d2e31fa"},{"text":"Powersport","selected_icon":{"value":"","library":""},"link":{"url":"#","is_external":"","nofollow":"","custom_attributes":""},"_id":"b9c7c38"},{"text":"Racing Motor Oil","selected_icon":{"value":"","library":""},"link":{"url":"#","is_external":"","nofollow":"","custom_attributes":""},"_id":"77c3523"},{"text":"Synthetic","selected_icon":{"value":"","library":""},"link":{"url":"#","is_external":"","nofollow":"","custom_attributes":""},"_id":"c75e7a1"}],"space_between":{"unit":"px","size":8,"sizes":[]},"text_color":"#616161","text_color_hover":"#FC5A34","icon_typography_typography":"custom","icon_typography_font_size":{"unit":"px","size":15,"sizes":[]}},"elements":[],"widgetType":"icon-list"}],"isInner":false},{"id":"ffb1fd1","elType":"container","settings":{"_column_size":33,"width":{"size":33.333,"unit":"%"},"content_width":"full"},"elements":[{"id":"dd76e2c","elType":"widget","settings":{"title":"Service kits","typography_typography":"custom","typography_font_size":{"unit":"px","size":18,"sizes":[]}},"elements":[],"widgetType":"heading"},{"id":"7f66acd","elType":"widget","settings":{"width":{"unit":"%","size":80,"sizes":[]},"text":"Divider","color":"#AEAEAE","gap":{"unit":"px","size":5,"sizes":[]}},"elements":[],"widgetType":"divider"},{"id":"25a8aaa","elType":"widget","settings":{"icon_list":[{"text":"Air Filters","selected_icon":{"value":"","library":""},"_id":"9fab8ed","link":{"url":"#","is_external":"","nofollow":"","custom_attributes":""}},{"text":"Cabin Air Filters","selected_icon":{"value":"","library":""},"link":{"url":"#","is_external":"","nofollow":"","custom_attributes":""},"_id":"d2e31fa"},{"text":"Oil Filters","selected_icon":{"value":"","library":""},"link":{"url":"#","is_external":"","nofollow":"","custom_attributes":""},"_id":"b9c7c38"},{"text":"Oxygen Sensors","selected_icon":{"value":"","library":""},"link":{"url":"#","is_external":"","nofollow":"","custom_attributes":""},"_id":"77c3523"},{"text":"PCV Valves","selected_icon":{"value":"","library":""},"link":{"url":"#","is_external":"","nofollow":"","custom_attributes":""},"_id":"c75e7a1"}],"space_between":{"unit":"px","size":8,"sizes":[]},"text_color":"#616161","text_color_hover":"#FC5A34","icon_typography_typography":"custom","icon_typography_font_size":{"unit":"px","size":15,"sizes":[]}},"elements":[],"widgetType":"icon-list"}],"isInner":false},{"id":"255bdef","elType":"container","settings":{"_column_size":33,"width":{"size":33.333,"unit":"%"},"content_width":"full"},"elements":[{"id":"53e204a","elType":"widget","settings":{"title":"Tires & Wheels","typography_typography":"custom","typography_font_size":{"unit":"px","size":18,"sizes":[]}},"elements":[],"widgetType":"heading"},{"id":"25c9a0a","elType":"widget","settings":{"width":{"unit":"%","size":80,"sizes":[]},"text":"Divider","color":"#AEAEAE","gap":{"unit":"px","size":5,"sizes":[]}},"elements":[],"widgetType":"divider"},{"id":"e0a0dd2","elType":"widget","settings":{"icon_list":[{"text":"Custom Wheels","selected_icon":{"value":"","library":""},"_id":"9fab8ed","link":{"url":"#","is_external":"","nofollow":"","custom_attributes":""}},{"text":"Cameras & Cases","selected_icon":{"value":"","library":""},"link":{"url":"#","is_external":"","nofollow":"","custom_attributes":""},"_id":"d2e31fa"},{"text":"Factory Wheels","selected_icon":{"value":"","library":""},"link":{"url":"#","is_external":"","nofollow":"","custom_attributes":""},"_id":"b9c7c38"},{"text":"Lug Nuts & Locks","selected_icon":{"value":"","library":""},"link":{"url":"#","is_external":"","nofollow":"","custom_attributes":""},"_id":"77c3523"},{"text":"Misc","selected_icon":{"value":"","library":""},"link":{"url":"#","is_external":"","nofollow":"","custom_attributes":""},"_id":"c75e7a1"}],"space_between":{"unit":"px","size":8,"sizes":[]},"text_color":"#616161","text_color_hover":"#FC5A34","icon_typography_typography":"custom","icon_typography_font_size":{"unit":"px","size":15,"sizes":[]}},"elements":[],"widgetType":"icon-list"}],"isInner":false}],"isInner":false}]]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_elementor_controls_usage]]></wp:meta_key>
@@ -5282,6 +5341,10 @@ Shop Departments					</button>
 		<wp:meta_key><![CDATA[_wxr_import_user_slug]]></wp:meta_key>
 		<wp:meta_value><![CDATA[woostify]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_elementor_page_assets]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[service kits]]></title>
@@ -5290,99 +5353,119 @@ Shop Departments					</button>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://prodemo.woostify.com/autocar/?post_type=mega_menu&#038;p=158</guid>
 		<description></description>
-		<content:encoded><![CDATA[<img width="200" height="200" src="http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/autocar/wp-content/uploads/sites/26/2020/05/cat_6-1-3.jpg" alt="" srcset="http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/autocar/wp-content/uploads/sites/26/2020/05/cat_6-1-3.jpg 200w, https://prodemo.woostify.com/autocar/wp-content/uploads/sites/15/2020/05/cat_6-1-3-150x150.jpg 150w, https://prodemo.woostify.com/autocar/wp-content/uploads/sites/15/2020/05/cat_6-1-3-100x100.jpg 100w" sizes="(max-width: 200px) 100vw, 200px" />											
+		<content:encoded><![CDATA[<img width="200" height="200" src="https://demo.woostify.com/autocar/wp-content/uploads/sites/26/2020/05/cat_6-1-3.jpg" alt="" loading="lazy" srcset="https://demo.woostify.com/autocar/wp-content/uploads/sites/26/2020/05/cat_6-1-3.jpg 200w, https://demo.woostify.com/autocar/wp-content/uploads/sites/26/2020/05/cat_6-1-3-150x150.jpg 150w, https://demo.woostify.com/autocar/wp-content/uploads/sites/26/2020/05/cat_6-1-3-100x100.jpg 100w" sizes="(max-width: 200px) 100vw, 200px" />														
 			<h2>Oil & lubricants</h2>		
 					<ul>
-							<li >
-					<a href="#">					Engine Oil
+							<li>
+											<a href="#">
+											Engine Oil
 											</a>
 									</li>
-								<li >
-					<a href="#">					Motor Oil
+								<li>
+											<a href="#">
+											Motor Oil
 											</a>
 									</li>
-								<li >
-					<a href="#">					Powersport
+								<li>
+											<a href="#">
+											Powersport
 											</a>
 									</li>
-								<li >
-					<a href="#">					Racing Motor Oil
+								<li>
+											<a href="#">
+											Racing Motor Oil
 											</a>
 									</li>
-								<li >
-					<a href="#">					Synthetic
+								<li>
+											<a href="#">
+											Synthetic
 											</a>
 									</li>
 						</ul>
-										<img width="200" height="200" src="http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/autocar/wp-content/uploads/sites/26/2020/05/cat_9-1-3.jpg" alt="" srcset="http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/autocar/wp-content/uploads/sites/26/2020/05/cat_9-1-3.jpg 200w, https://prodemo.woostify.com/autocar/wp-content/uploads/sites/15/2020/05/cat_9-1-3-150x150.jpg 150w, https://prodemo.woostify.com/autocar/wp-content/uploads/sites/15/2020/05/cat_9-1-3-100x100.jpg 100w" sizes="(max-width: 200px) 100vw, 200px" />											
+												<img width="200" height="200" src="https://demo.woostify.com/autocar/wp-content/uploads/sites/26/2020/05/cat_9-1-3.jpg" alt="" loading="lazy" srcset="https://demo.woostify.com/autocar/wp-content/uploads/sites/26/2020/05/cat_9-1-3.jpg 200w, https://demo.woostify.com/autocar/wp-content/uploads/sites/26/2020/05/cat_9-1-3-150x150.jpg 150w, https://demo.woostify.com/autocar/wp-content/uploads/sites/26/2020/05/cat_9-1-3-100x100.jpg 100w" sizes="(max-width: 200px) 100vw, 200px" />														
 			<h2>Brake disks & pads</h2>		
 					<ul>
-							<li >
-					<a href="#">					Brake Calipers
+							<li>
+											<a href="#">
+											Brake Calipers
 											</a>
 									</li>
-								<li >
-					<a href="#">					Brake Hoses & Lines
+								<li>
+											<a href="#">
+											Brake Hoses & Lines
 											</a>
 									</li>
-								<li >
-					<a href="#3">					Brake Pads & Shoes
+								<li>
+											<a href="#3">
+											Brake Pads & Shoes
 											</a>
 									</li>
-								<li >
-					<a href="#">					Brake Rotors
+								<li>
+											<a href="#">
+											Brake Rotors
 											</a>
 									</li>
-								<li >
-					<a href="#">					Cylinders & Kits
+								<li>
+											<a href="#">
+											Cylinders & Kits
 											</a>
 									</li>
 						</ul>
-										<img width="200" height="200" src="http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/autocar/wp-content/uploads/sites/26/2020/05/cat_8-1-3.jpg" alt="" srcset="http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/autocar/wp-content/uploads/sites/26/2020/05/cat_8-1-3.jpg 200w, https://prodemo.woostify.com/autocar/wp-content/uploads/sites/15/2020/05/cat_8-1-3-150x150.jpg 150w, https://prodemo.woostify.com/autocar/wp-content/uploads/sites/15/2020/05/cat_8-1-3-100x100.jpg 100w" sizes="(max-width: 200px) 100vw, 200px" />											
+												<img width="200" height="200" src="https://demo.woostify.com/autocar/wp-content/uploads/sites/26/2020/05/cat_8-1-3.jpg" alt="" loading="lazy" srcset="https://demo.woostify.com/autocar/wp-content/uploads/sites/26/2020/05/cat_8-1-3.jpg 200w, https://demo.woostify.com/autocar/wp-content/uploads/sites/26/2020/05/cat_8-1-3-150x150.jpg 150w, https://demo.woostify.com/autocar/wp-content/uploads/sites/26/2020/05/cat_8-1-3-100x100.jpg 100w" sizes="(max-width: 200px) 100vw, 200px" />														
 			<h2>Engine Parts</h2>		
 					<ul>
-							<li >
-					<a href="#">					Air Boxes
+							<li>
+											<a href="#">
+											Air Boxes
 											</a>
 									</li>
-								<li >
-					<a href="#">					Cold Start Valves
+								<li>
+											<a href="#">
+											Cold Start Valves
 											</a>
 									</li>
-								<li >
-					<a href="#">					Cylinder Heads
+								<li>
+											<a href="#">
+											Cylinder Heads
 											</a>
 									</li>
-								<li >
-					<a href="#">					Pistons liners
+								<li>
+											<a href="#">
+											Pistons liners
 											</a>
 									</li>
-								<li >
-					<a href="#">					Sump Pans & Plugs
+								<li>
+											<a href="#">
+											Sump Pans & Plugs
 											</a>
 									</li>
 						</ul>
-										<img width="200" height="200" src="http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/autocar/wp-content/uploads/sites/26/2020/05/cat_7-1-3.jpg" alt="" srcset="http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/autocar/wp-content/uploads/sites/26/2020/05/cat_7-1-3.jpg 200w, https://prodemo.woostify.com/autocar/wp-content/uploads/sites/15/2020/05/cat_7-1-3-150x150.jpg 150w, https://prodemo.woostify.com/autocar/wp-content/uploads/sites/15/2020/05/cat_7-1-3-100x100.jpg 100w" sizes="(max-width: 200px) 100vw, 200px" />											
+												<img width="200" height="200" src="https://demo.woostify.com/autocar/wp-content/uploads/sites/26/2020/05/cat_7-1-3.jpg" alt="" loading="lazy" srcset="https://demo.woostify.com/autocar/wp-content/uploads/sites/26/2020/05/cat_7-1-3.jpg 200w, https://demo.woostify.com/autocar/wp-content/uploads/sites/26/2020/05/cat_7-1-3-150x150.jpg 150w, https://demo.woostify.com/autocar/wp-content/uploads/sites/26/2020/05/cat_7-1-3-100x100.jpg 100w" sizes="(max-width: 200px) 100vw, 200px" />														
 			<h2>Lighting</h2>		
 					<ul>
-							<li >
-					<a href="#">					Adapters
+							<li>
+											<a href="#">
+											Adapters
 											</a>
 									</li>
-								<li >
-					<a href="#">					Cameras & Cases
+								<li>
+											<a href="#">
+											Cameras & Cases
 											</a>
 									</li>
-								<li >
-					<a href="#">					GPS Systems
+								<li>
+											<a href="#">
+											GPS Systems
 											</a>
 									</li>
-								<li >
-					<a href="#">					Mobile Electronics
+								<li>
+											<a href="#">
+											Mobile Electronics
 											</a>
 									</li>
-								<li >
-					<a href="#">					Radar Detectors
+								<li>
+											<a href="#">
+											Radar Detectors
 											</a>
 									</li>
 						</ul>]]></content:encoded>
@@ -5390,8 +5473,8 @@ Shop Departments					</button>
 		<wp:post_id>158</wp:post_id>
 		<wp:post_date><![CDATA[2020-05-21 06:54:14]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-05-21 06:54:14]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2020-10-22 04:19:09]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2020-10-22 04:19:09]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2023-06-26 03:28:00]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-06-26 03:28:00]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[service-kits]]></wp:post_name>
@@ -5411,7 +5494,7 @@ Shop Departments					</button>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_elementor_version]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2.9.12]]></wp:meta_value>
+		<wp:meta_value><![CDATA[3.13.4]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
@@ -5419,11 +5502,15 @@ Shop Departments					</button>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_elementor_data]]></wp:meta_key>
-		<wp:meta_value><![CDATA[[{"id":"daf0f98","elType":"section","settings":{"structure":"40","background_background":"classic","background_color":"#FFFFFF","padding":{"unit":"px","top":"0","right":"0","bottom":"20","left":"0","isLinked":false}},"elements":[{"id":"ee8a071","elType":"column","settings":{"_column_size":25,"_inline_size":25,"padding":{"unit":"px","top":"10","right":"0","bottom":"10","left":"20","isLinked":false}},"elements":[{"id":"a4f6b4c","elType":"widget","settings":{"image":{"url":"https:\/\/demo.woostify.com\/autocar\/wp-content\/uploads\/sites\/26\/2020\/05\/cat_6-1-3.jpg","id":797}},"elements":[],"widgetType":"image"},{"id":"cb2176c","elType":"widget","settings":{"width":{"unit":"%","size":90,"sizes":[]},"align":"left","text":"Divider","color":"#C5C2C2","gap":{"unit":"px","size":5,"sizes":[]}},"elements":[],"widgetType":"divider"},{"id":"23183a6","elType":"widget","settings":{"title":"Oil & lubricants","typography_typography":"custom","typography_font_size":{"unit":"px","size":18,"sizes":[]}},"elements":[],"widgetType":"heading"},{"id":"d9476bf","elType":"widget","settings":{"icon_list":[{"text":"Engine Oil","selected_icon":{"value":"","library":""},"_id":"23a1193","link":{"url":"#","is_external":"","nofollow":"","custom_attributes":""}},{"text":"Motor Oil","selected_icon":{"value":"","library":""},"link":{"url":"#","is_external":"","nofollow":"","custom_attributes":""},"_id":"660f084"},{"text":"Powersport","selected_icon":{"value":"","library":""},"link":{"url":"#","is_external":"","nofollow":"","custom_attributes":""},"_id":"4a3a6b7"},{"text":"Racing Motor Oil","selected_icon":{"value":"","library":""},"link":{"url":"#","is_external":"","nofollow":"","custom_attributes":""},"_id":"396828e"},{"text":"Synthetic","selected_icon":{"value":"","library":""},"link":{"url":"#","is_external":"","nofollow":"","custom_attributes":""},"_id":"026b32f"}],"space_between":{"unit":"px","size":9,"sizes":[]},"text_color":"#616161","text_color_hover":"#FC5A34","text_indent":{"unit":"px","size":0,"sizes":[]},"icon_typography_typography":"custom","icon_typography_font_family":"Open Sans","icon_typography_font_size":{"unit":"px","size":15,"sizes":[]}},"elements":[],"widgetType":"icon-list"}],"isInner":false},{"id":"ac2c5b3","elType":"column","settings":{"_column_size":25,"_inline_size":24.978},"elements":[{"id":"5b03dcd","elType":"widget","settings":{"image":{"url":"https:\/\/demo.woostify.com\/autocar\/wp-content\/uploads\/sites\/26\/2020\/05\/cat_9-1-3.jpg","id":800}},"elements":[],"widgetType":"image"},{"id":"9b689b0","elType":"widget","settings":{"width":{"unit":"%","size":90,"sizes":[]},"align":"left","text":"Divider","color":"#C5C2C2","gap":{"unit":"px","size":5,"sizes":[]}},"elements":[],"widgetType":"divider"},{"id":"fc18b8a","elType":"widget","settings":{"title":"Brake disks & pads","typography_typography":"custom","typography_font_size":{"unit":"px","size":18,"sizes":[]}},"elements":[],"widgetType":"heading"},{"id":"4b7c123","elType":"widget","settings":{"icon_list":[{"text":"Brake Calipers","selected_icon":{"value":"","library":""},"_id":"23a1193","link":{"url":"#","is_external":"","nofollow":"","custom_attributes":""}},{"text":"Brake Hoses & Lines","selected_icon":{"value":"","library":""},"link":{"url":"#","is_external":"","nofollow":"","custom_attributes":""},"_id":"660f084"},{"text":"Brake Pads & Shoes","selected_icon":{"value":"","library":""},"link":{"url":"#3","is_external":"","nofollow":"","custom_attributes":""},"_id":"4a3a6b7"},{"text":"Brake Rotors","selected_icon":{"value":"","library":""},"link":{"url":"#","is_external":"","nofollow":"","custom_attributes":""},"_id":"396828e"},{"text":"Cylinders & Kits","selected_icon":{"value":"","library":""},"link":{"url":"#","is_external":"","nofollow":"","custom_attributes":""},"_id":"026b32f"}],"space_between":{"unit":"px","size":9,"sizes":[]},"text_color":"#616161","text_color_hover":"#FC5A34","text_indent":{"unit":"px","size":0,"sizes":[]},"icon_typography_typography":"custom","icon_typography_font_family":"Open Sans","icon_typography_font_size":{"unit":"px","size":15,"sizes":[]}},"elements":[],"widgetType":"icon-list"}],"isInner":false},{"id":"503a222","elType":"column","settings":{"_column_size":25,"_inline_size":null},"elements":[{"id":"f2e63eb","elType":"widget","settings":{"image":{"url":"https:\/\/demo.woostify.com\/autocar\/wp-content\/uploads\/sites\/26\/2020\/05\/cat_8-1-3.jpg","id":799}},"elements":[],"widgetType":"image"},{"id":"cc1144f","elType":"widget","settings":{"width":{"unit":"%","size":90,"sizes":[]},"align":"left","text":"Divider","color":"#C5C2C2","gap":{"unit":"px","size":5,"sizes":[]}},"elements":[],"widgetType":"divider"},{"id":"112b4f1","elType":"widget","settings":{"title":"Engine Parts","typography_typography":"custom","typography_font_size":{"unit":"px","size":18,"sizes":[]}},"elements":[],"widgetType":"heading"},{"id":"54f6295","elType":"widget","settings":{"icon_list":[{"text":"Air Boxes","selected_icon":{"value":"","library":""},"_id":"23a1193","link":{"url":"#","is_external":"","nofollow":"","custom_attributes":""}},{"text":"Cold Start Valves","selected_icon":{"value":"","library":""},"link":{"url":"#","is_external":"","nofollow":"","custom_attributes":""},"_id":"660f084"},{"text":"Cylinder Heads","selected_icon":{"value":"","library":""},"link":{"url":"#","is_external":"","nofollow":"","custom_attributes":""},"_id":"4a3a6b7"},{"text":"Pistons liners","selected_icon":{"value":"","library":""},"link":{"url":"#","is_external":"","nofollow":"","custom_attributes":""},"_id":"396828e"},{"text":"Sump Pans & Plugs","selected_icon":{"value":"","library":""},"link":{"url":"#","is_external":"","nofollow":"","custom_attributes":""},"_id":"026b32f"}],"space_between":{"unit":"px","size":9,"sizes":[]},"text_color":"#616161","text_color_hover":"#FC5A34","text_indent":{"unit":"px","size":0,"sizes":[]},"icon_typography_typography":"custom","icon_typography_font_family":"Open Sans","icon_typography_font_size":{"unit":"px","size":15,"sizes":[]}},"elements":[],"widgetType":"icon-list"}],"isInner":false},{"id":"60a5613","elType":"column","settings":{"_column_size":25,"_inline_size":null},"elements":[{"id":"3cde868","elType":"widget","settings":{"image":{"url":"https:\/\/demo.woostify.com\/autocar\/wp-content\/uploads\/sites\/26\/2020\/05\/cat_7-1-3.jpg","id":798}},"elements":[],"widgetType":"image"},{"id":"1170500","elType":"widget","settings":{"width":{"unit":"%","size":90,"sizes":[]},"align":"left","text":"Divider","color":"#C5C2C2","gap":{"unit":"px","size":5,"sizes":[]}},"elements":[],"widgetType":"divider"},{"id":"44050e7","elType":"widget","settings":{"title":"Lighting","typography_typography":"custom","typography_font_size":{"unit":"px","size":18,"sizes":[]}},"elements":[],"widgetType":"heading"},{"id":"5e7b895","elType":"widget","settings":{"icon_list":[{"text":"Adapters","selected_icon":{"value":"","library":""},"_id":"23a1193","link":{"url":"#","is_external":"","nofollow":"","custom_attributes":""}},{"text":"Cameras & Cases","selected_icon":{"value":"","library":""},"link":{"url":"#","is_external":"","nofollow":"","custom_attributes":""},"_id":"660f084"},{"text":"GPS Systems","selected_icon":{"value":"","library":""},"link":{"url":"#","is_external":"","nofollow":"","custom_attributes":""},"_id":"4a3a6b7"},{"text":"Mobile Electronics","selected_icon":{"value":"","library":""},"link":{"url":"#","is_external":"","nofollow":"","custom_attributes":""},"_id":"396828e"},{"text":"Radar Detectors","selected_icon":{"value":"","library":""},"link":{"url":"#","is_external":"","nofollow":"","custom_attributes":""},"_id":"026b32f"}],"space_between":{"unit":"px","size":9,"sizes":[]},"text_color":"#616161","text_color_hover":"#FC5A34","text_indent":{"unit":"px","size":0,"sizes":[]},"icon_typography_typography":"custom","icon_typography_font_family":"Open Sans","icon_typography_font_size":{"unit":"px","size":15,"sizes":[]}},"elements":[],"widgetType":"icon-list"}],"isInner":false}],"isInner":false}]]]></wp:meta_value>
+		<wp:meta_value><![CDATA[[{"id":"9acef76","elType":"container","settings":{"structure":"40","background_background":"classic","background_color":"#FFFFFF","padding":{"unit":"px","top":"0","right":"0","bottom":"20","left":"0","isLinked":false},"flex_direction":"row","flex_align_items":"stretch","flex_gap":{"size":0,"unit":"px"}},"elements":[{"id":"2a0badd","elType":"container","settings":{"_column_size":25,"width":{"size":25,"unit":"%"},"padding":{"unit":"px","top":"10","right":"0","bottom":"10","left":"20","isLinked":false},"content_width":"full"},"elements":[{"id":"ebadb8b","elType":"widget","settings":{"image":{"url":"https:\/\/demo.woostify.com\/autocar\/wp-content\/uploads\/sites\/26\/2020\/05\/cat_6-1-3.jpg","id":797}},"elements":[],"widgetType":"image"},{"id":"b44b2ee","elType":"widget","settings":{"width":{"unit":"%","size":90,"sizes":[]},"align":"left","text":"Divider","color":"#C5C2C2","gap":{"unit":"px","size":5,"sizes":[]}},"elements":[],"widgetType":"divider"},{"id":"98b21d8","elType":"widget","settings":{"title":"Oil & lubricants","typography_typography":"custom","typography_font_size":{"unit":"px","size":18,"sizes":[]}},"elements":[],"widgetType":"heading"},{"id":"231bd61","elType":"widget","settings":{"icon_list":[{"text":"Engine Oil","selected_icon":{"value":"","library":""},"_id":"23a1193","link":{"url":"#","is_external":"","nofollow":"","custom_attributes":""}},{"text":"Motor Oil","selected_icon":{"value":"","library":""},"link":{"url":"#","is_external":"","nofollow":"","custom_attributes":""},"_id":"660f084"},{"text":"Powersport","selected_icon":{"value":"","library":""},"link":{"url":"#","is_external":"","nofollow":"","custom_attributes":""},"_id":"4a3a6b7"},{"text":"Racing Motor Oil","selected_icon":{"value":"","library":""},"link":{"url":"#","is_external":"","nofollow":"","custom_attributes":""},"_id":"396828e"},{"text":"Synthetic","selected_icon":{"value":"","library":""},"link":{"url":"#","is_external":"","nofollow":"","custom_attributes":""},"_id":"026b32f"}],"space_between":{"unit":"px","size":9,"sizes":[]},"text_color":"#616161","text_color_hover":"#FC5A34","text_indent":{"unit":"px","size":0,"sizes":[]},"icon_typography_typography":"custom","icon_typography_font_family":"Open Sans","icon_typography_font_size":{"unit":"px","size":15,"sizes":[]}},"elements":[],"widgetType":"icon-list"}],"isInner":false},{"id":"c638a8f","elType":"container","settings":{"_column_size":25,"width":{"size":24.978,"unit":"%"},"content_width":"full"},"elements":[{"id":"1e3105f","elType":"widget","settings":{"image":{"url":"https:\/\/demo.woostify.com\/autocar\/wp-content\/uploads\/sites\/26\/2020\/05\/cat_9-1-3.jpg","id":800}},"elements":[],"widgetType":"image"},{"id":"4f4f952","elType":"widget","settings":{"width":{"unit":"%","size":90,"sizes":[]},"align":"left","text":"Divider","color":"#C5C2C2","gap":{"unit":"px","size":5,"sizes":[]}},"elements":[],"widgetType":"divider"},{"id":"747f8a4","elType":"widget","settings":{"title":"Brake disks & pads","typography_typography":"custom","typography_font_size":{"unit":"px","size":18,"sizes":[]}},"elements":[],"widgetType":"heading"},{"id":"d2326dd","elType":"widget","settings":{"icon_list":[{"text":"Brake Calipers","selected_icon":{"value":"","library":""},"_id":"23a1193","link":{"url":"#","is_external":"","nofollow":"","custom_attributes":""}},{"text":"Brake Hoses & Lines","selected_icon":{"value":"","library":""},"link":{"url":"#","is_external":"","nofollow":"","custom_attributes":""},"_id":"660f084"},{"text":"Brake Pads & Shoes","selected_icon":{"value":"","library":""},"link":{"url":"#3","is_external":"","nofollow":"","custom_attributes":""},"_id":"4a3a6b7"},{"text":"Brake Rotors","selected_icon":{"value":"","library":""},"link":{"url":"#","is_external":"","nofollow":"","custom_attributes":""},"_id":"396828e"},{"text":"Cylinders & Kits","selected_icon":{"value":"","library":""},"link":{"url":"#","is_external":"","nofollow":"","custom_attributes":""},"_id":"026b32f"}],"space_between":{"unit":"px","size":9,"sizes":[]},"text_color":"#616161","text_color_hover":"#FC5A34","text_indent":{"unit":"px","size":0,"sizes":[]},"icon_typography_typography":"custom","icon_typography_font_family":"Open Sans","icon_typography_font_size":{"unit":"px","size":15,"sizes":[]}},"elements":[],"widgetType":"icon-list"}],"isInner":false},{"id":"f29186a","elType":"container","settings":{"_column_size":25,"width":{"size":25,"unit":"%"},"content_width":"full"},"elements":[{"id":"95de936","elType":"widget","settings":{"image":{"url":"https:\/\/demo.woostify.com\/autocar\/wp-content\/uploads\/sites\/26\/2020\/05\/cat_8-1-3.jpg","id":799}},"elements":[],"widgetType":"image"},{"id":"6a0e7e1","elType":"widget","settings":{"width":{"unit":"%","size":90,"sizes":[]},"align":"left","text":"Divider","color":"#C5C2C2","gap":{"unit":"px","size":5,"sizes":[]}},"elements":[],"widgetType":"divider"},{"id":"1aeb8dc","elType":"widget","settings":{"title":"Engine Parts","typography_typography":"custom","typography_font_size":{"unit":"px","size":18,"sizes":[]}},"elements":[],"widgetType":"heading"},{"id":"6290942","elType":"widget","settings":{"icon_list":[{"text":"Air Boxes","selected_icon":{"value":"","library":""},"_id":"23a1193","link":{"url":"#","is_external":"","nofollow":"","custom_attributes":""}},{"text":"Cold Start Valves","selected_icon":{"value":"","library":""},"link":{"url":"#","is_external":"","nofollow":"","custom_attributes":""},"_id":"660f084"},{"text":"Cylinder Heads","selected_icon":{"value":"","library":""},"link":{"url":"#","is_external":"","nofollow":"","custom_attributes":""},"_id":"4a3a6b7"},{"text":"Pistons liners","selected_icon":{"value":"","library":""},"link":{"url":"#","is_external":"","nofollow":"","custom_attributes":""},"_id":"396828e"},{"text":"Sump Pans & Plugs","selected_icon":{"value":"","library":""},"link":{"url":"#","is_external":"","nofollow":"","custom_attributes":""},"_id":"026b32f"}],"space_between":{"unit":"px","size":9,"sizes":[]},"text_color":"#616161","text_color_hover":"#FC5A34","text_indent":{"unit":"px","size":0,"sizes":[]},"icon_typography_typography":"custom","icon_typography_font_family":"Open Sans","icon_typography_font_size":{"unit":"px","size":15,"sizes":[]}},"elements":[],"widgetType":"icon-list"}],"isInner":false},{"id":"ceea456","elType":"container","settings":{"_column_size":25,"width":{"size":25,"unit":"%"},"content_width":"full"},"elements":[{"id":"2c7d610","elType":"widget","settings":{"image":{"url":"https:\/\/demo.woostify.com\/autocar\/wp-content\/uploads\/sites\/26\/2020\/05\/cat_7-1-3.jpg","id":798}},"elements":[],"widgetType":"image"},{"id":"a798b48","elType":"widget","settings":{"width":{"unit":"%","size":90,"sizes":[]},"align":"left","text":"Divider","color":"#C5C2C2","gap":{"unit":"px","size":5,"sizes":[]}},"elements":[],"widgetType":"divider"},{"id":"3c46d56","elType":"widget","settings":{"title":"Lighting","typography_typography":"custom","typography_font_size":{"unit":"px","size":18,"sizes":[]}},"elements":[],"widgetType":"heading"},{"id":"28a5136","elType":"widget","settings":{"icon_list":[{"text":"Adapters","selected_icon":{"value":"","library":""},"_id":"23a1193","link":{"url":"#","is_external":"","nofollow":"","custom_attributes":""}},{"text":"Cameras & Cases","selected_icon":{"value":"","library":""},"link":{"url":"#","is_external":"","nofollow":"","custom_attributes":""},"_id":"660f084"},{"text":"GPS Systems","selected_icon":{"value":"","library":""},"link":{"url":"#","is_external":"","nofollow":"","custom_attributes":""},"_id":"4a3a6b7"},{"text":"Mobile Electronics","selected_icon":{"value":"","library":""},"link":{"url":"#","is_external":"","nofollow":"","custom_attributes":""},"_id":"396828e"},{"text":"Radar Detectors","selected_icon":{"value":"","library":""},"link":{"url":"#","is_external":"","nofollow":"","custom_attributes":""},"_id":"026b32f"}],"space_between":{"unit":"px","size":9,"sizes":[]},"text_color":"#616161","text_color_hover":"#FC5A34","text_indent":{"unit":"px","size":0,"sizes":[]},"icon_typography_typography":"custom","icon_typography_font_family":"Open Sans","icon_typography_font_size":{"unit":"px","size":15,"sizes":[]}},"elements":[],"widgetType":"icon-list"}],"isInner":false}],"isInner":false}]]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_elementor_controls_usage]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:6:{s:5:"image";a:3:{s:5:"count";i:4;s:15:"control_percent";i:0;s:8:"controls";a:1:{s:7:"content";a:1:{s:13:"section_image";a:1:{s:5:"image";i:4;}}}}s:7:"divider";a:3:{s:5:"count";i:4;s:15:"control_percent";i:1;s:8:"controls";a:2:{s:7:"content";a:1:{s:15:"section_divider";a:2:{s:5:"width";i:4;s:5:"align";i:4;}}s:5:"style";a:1:{s:21:"section_divider_style";a:2:{s:5:"color";i:4;s:3:"gap";i:4;}}}}s:7:"heading";a:3:{s:5:"count";i:4;s:15:"control_percent";i:1;s:8:"controls";a:2:{s:7:"content";a:1:{s:13:"section_title";a:1:{s:5:"title";i:4;}}s:5:"style";a:1:{s:19:"section_title_style";a:2:{s:21:"typography_typography";i:4;s:20:"typography_font_size";i:4;}}}}s:9:"icon-list";a:3:{s:5:"count";i:4;s:15:"control_percent";i:3;s:8:"controls";a:2:{s:7:"content";a:1:{s:12:"section_icon";a:1:{s:9:"icon_list";i:4;}}s:5:"style";a:2:{s:17:"section_icon_list";a:1:{s:13:"space_between";i:4;}s:18:"section_text_style";a:6:{s:10:"text_color";i:4;s:16:"text_color_hover";i:4;s:11:"text_indent";i:4;s:26:"icon_typography_typography";i:4;s:27:"icon_typography_font_family";i:4;s:25:"icon_typography_font_size";i:4;}}}}s:6:"column";a:3:{s:5:"count";i:4;s:15:"control_percent";i:0;s:8:"controls";a:2:{s:6:"layout";a:1:{s:6:"layout";a:1:{s:12:"_inline_size";i:4;}}s:8:"advanced";a:1:{s:16:"section_advanced";a:1:{s:7:"padding";i:1;}}}}s:7:"section";a:3:{s:5:"count";i:1;s:15:"control_percent";i:1;s:8:"controls";a:3:{s:6:"layout";a:1:{s:17:"section_structure";a:1:{s:9:"structure";i:1;}}s:5:"style";a:1:{s:18:"section_background";a:2:{s:21:"background_background";i:1;s:16:"background_color";i:1;}}s:8:"advanced";a:1:{s:16:"section_advanced";a:1:{s:7:"padding";i:1;}}}}}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_elementor_page_assets]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -5573,66 +5660,66 @@ Shop Departments					</button>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://prodemo.woostify.com/autocar/?post_type=mega_menu&#038;p=170</guid>
 		<description></description>
-		<content:encoded><![CDATA[<img width="200" height="200" src="http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/autocar/wp-content/uploads/sites/26/2020/05/cat_5-1-3.jpg" alt="" srcset="http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/autocar/wp-content/uploads/sites/26/2020/05/cat_5-1-3.jpg 200w, https://prodemo.woostify.com/autocar/wp-content/uploads/sites/15/2020/05/cat_5-1-3-150x150.jpg 150w, https://prodemo.woostify.com/autocar/wp-content/uploads/sites/15/2020/05/cat_5-1-3-100x100.jpg 100w" sizes="(max-width: 200px) 100vw, 200px" />											
+		<content:encoded><![CDATA[<img width="200" height="200" src="https://demo.woostify.com/autocar/wp-content/uploads/sites/26/2020/05/cat_5-1-3.jpg" alt="" loading="lazy" srcset="https://demo.woostify.com/autocar/wp-content/uploads/sites/26/2020/05/cat_5-1-3.jpg 200w, https://demo.woostify.com/autocar/wp-content/uploads/sites/26/2020/05/cat_5-1-3-150x150.jpg 150w, https://demo.woostify.com/autocar/wp-content/uploads/sites/26/2020/05/cat_5-1-3-100x100.jpg 100w" sizes="(max-width: 200px) 100vw, 200px" />														
 			<h2>Service kits</h2>		
 					<ul>
-							<li >
+							<li>
 										Air Filters
 									</li>
-								<li >
+								<li>
 										Cabin Air Filters
 									</li>
-								<li >
+								<li>
 										Oil Filters
 									</li>
-								<li >
+								<li>
 										Oxygen Sensors
 									</li>
-								<li >
+								<li>
 										PCV Valves
 									</li>
 						</ul>
 			<a href="#" role="button">
 						View all
 					</a>
-										<img width="200" height="200" src="http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/autocar/wp-content/uploads/sites/26/2020/05/cat_6-1-3.jpg" alt="" srcset="http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/autocar/wp-content/uploads/sites/26/2020/05/cat_6-1-3.jpg 200w, https://prodemo.woostify.com/autocar/wp-content/uploads/sites/15/2020/05/cat_6-1-3-150x150.jpg 150w, https://prodemo.woostify.com/autocar/wp-content/uploads/sites/15/2020/05/cat_6-1-3-100x100.jpg 100w" sizes="(max-width: 200px) 100vw, 200px" />											
+												<img width="200" height="200" src="https://demo.woostify.com/autocar/wp-content/uploads/sites/26/2020/05/cat_6-1-3.jpg" alt="" loading="lazy" srcset="https://demo.woostify.com/autocar/wp-content/uploads/sites/26/2020/05/cat_6-1-3.jpg 200w, https://demo.woostify.com/autocar/wp-content/uploads/sites/26/2020/05/cat_6-1-3-150x150.jpg 150w, https://demo.woostify.com/autocar/wp-content/uploads/sites/26/2020/05/cat_6-1-3-100x100.jpg 100w" sizes="(max-width: 200px) 100vw, 200px" />														
 			<h2>Oil & lubricants</h2>		
 					<ul>
-							<li >
+							<li>
 										Engine Oil
 									</li>
-								<li >
+								<li>
 										Motor Oil
 									</li>
-								<li >
+								<li>
 										Powersport
 									</li>
-								<li >
+								<li>
 										Racing Motor Oil
 									</li>
-								<li >
+								<li>
 										Synthetic
 									</li>
 						</ul>
 			<a href="#" role="button">
 						View all
 					</a>
-										<img width="200" height="200" src="http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/autocar/wp-content/uploads/sites/26/2020/05/cat_9-1-3.jpg" alt="" srcset="http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/autocar/wp-content/uploads/sites/26/2020/05/cat_9-1-3.jpg 200w, https://prodemo.woostify.com/autocar/wp-content/uploads/sites/15/2020/05/cat_9-1-3-150x150.jpg 150w, https://prodemo.woostify.com/autocar/wp-content/uploads/sites/15/2020/05/cat_9-1-3-100x100.jpg 100w" sizes="(max-width: 200px) 100vw, 200px" />											
+												<img width="200" height="200" src="https://demo.woostify.com/autocar/wp-content/uploads/sites/26/2020/05/cat_9-1-3.jpg" alt="" loading="lazy" srcset="https://demo.woostify.com/autocar/wp-content/uploads/sites/26/2020/05/cat_9-1-3.jpg 200w, https://demo.woostify.com/autocar/wp-content/uploads/sites/26/2020/05/cat_9-1-3-150x150.jpg 150w, https://demo.woostify.com/autocar/wp-content/uploads/sites/26/2020/05/cat_9-1-3-100x100.jpg 100w" sizes="(max-width: 200px) 100vw, 200px" />														
 			<h2>Brake disks & pads</h2>		
 					<ul>
-							<li >
+							<li>
 										Brake Calipers
 									</li>
-								<li >
+								<li>
 										Brake Hoses & Lines
 									</li>
-								<li >
+								<li>
 										Brake Pads & Shoes
 									</li>
-								<li >
+								<li>
 										Brake Rotors
 									</li>
-								<li >
+								<li>
 										Cylinders & Kits
 									</li>
 						</ul>
@@ -5643,8 +5730,8 @@ Shop Departments					</button>
 		<wp:post_id>170</wp:post_id>
 		<wp:post_date><![CDATA[2020-05-21 06:56:36]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2020-05-21 06:56:36]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2020-10-22 04:19:09]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2020-10-22 04:19:09]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2023-06-26 03:21:07]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-06-26 03:21:07]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[electronics]]></wp:post_name>
@@ -5664,7 +5751,7 @@ Shop Departments					</button>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_elementor_version]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2.9.12]]></wp:meta_value>
+		<wp:meta_value><![CDATA[3.13.4]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
@@ -5672,11 +5759,15 @@ Shop Departments					</button>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_elementor_data]]></wp:meta_key>
-		<wp:meta_value><![CDATA[[{"id":"4ec7ad7","elType":"section","settings":{"structure":"30","background_background":"classic","background_color":"#FFFFFF"},"elements":[{"id":"ef6c56c","elType":"column","settings":{"_column_size":33,"_inline_size":null},"elements":[{"id":"9db0c61","elType":"section","settings":{"border_border":"solid","border_width":{"unit":"px","top":"1","right":"1","bottom":"1","left":"1","isLinked":true},"border_color":"#E0E0E0","margin":{"unit":"px","top":"0","right":0,"bottom":"0","left":0,"isLinked":false}},"elements":[{"id":"7463e20","elType":"column","settings":{"_column_size":100,"_inline_size":null,"padding":{"unit":"px","top":"30","right":"30","bottom":"30","left":"30","isLinked":true}},"elements":[{"id":"910edf9","elType":"widget","settings":{"image":{"url":"https:\/\/demo.woostify.com\/autocar\/wp-content\/uploads\/sites\/26\/2020\/05\/cat_5-1-3.jpg","id":849}},"elements":[],"widgetType":"image"},{"id":"325c556","elType":"widget","settings":{"align":"center","text":"Divider","color":"#E0E0E0","gap":{"unit":"px","size":5,"sizes":[]}},"elements":[],"widgetType":"divider"},{"id":"c5468df","elType":"widget","settings":{"title":"Service kits","typography_typography":"custom","typography_font_size":{"unit":"px","size":19,"sizes":[]}},"elements":[],"widgetType":"heading"},{"id":"2d1df13","elType":"widget","settings":{"icon_list":[{"text":"Air Filters","selected_icon":{"value":"fas fa-chevron-right","library":"fa-solid"},"link":{"url":"","is_external":"","nofollow":"","custom_attributes":""},"_id":"8e6ab15"},{"text":"Cabin Air Filters","selected_icon":{"value":"fas fa-chevron-right","library":"fa-solid"},"link":{"url":"","is_external":"","nofollow":"","custom_attributes":""},"_id":"a695f28"},{"text":"Oil Filters","selected_icon":{"value":"fas fa-chevron-right","library":"fa-solid"},"link":{"url":"","is_external":"","nofollow":"","custom_attributes":""},"_id":"8434d9e"},{"text":"Oxygen Sensors","selected_icon":{"value":"fas fa-chevron-right","library":"fa-solid"},"link":{"url":"","is_external":"","nofollow":"","custom_attributes":""},"_id":"4f436d4"},{"text":"PCV Valves","selected_icon":{"value":"fas fa-chevron-right","library":"fa-solid"},"link":{"url":"","is_external":"","nofollow":"","custom_attributes":""},"_id":"9b674cc"}],"space_between":{"unit":"px","size":3,"sizes":[]},"icon_color":"#FC5A34","text_color":"#616161","icon_typography_typography":"custom","icon_typography_font_size":{"unit":"px","size":15,"sizes":[]}},"elements":[],"widgetType":"icon-list"},{"id":"09a8b07","elType":"widget","settings":{"text":"View all","align":"justify","typography_typography":"custom","typography_font_family":"Poppins","typography_font_size":{"unit":"px","size":15,"sizes":[]},"typography_font_weight":"600","typography_text_transform":"uppercase","hover_color":"#FC5A34","button_background_hover_color":"#FFFFFF","button_hover_border_color":"#FC5A34","border_border":"solid","border_width":{"unit":"px","top":"1","right":"1","bottom":"1","left":"1","isLinked":true},"border_color":"#FC5A34","border_radius":{"unit":"px","top":"3","right":"3","bottom":"3","left":"3","isLinked":true},"text_padding":{"unit":"px","top":"","right":"","bottom":"","left":"","isLinked":false},"size":"xs"},"elements":[],"widgetType":"button"}],"isInner":true}],"isInner":true}],"isInner":false},{"id":"d187513","elType":"column","settings":{"_column_size":33,"_inline_size":null},"elements":[{"id":"8583932","elType":"section","settings":{"border_border":"solid","border_width":{"unit":"px","top":"1","right":"1","bottom":"1","left":"1","isLinked":true},"border_color":"#E0E0E0","margin":{"unit":"px","top":"0","right":0,"bottom":"0","left":0,"isLinked":false}},"elements":[{"id":"deb5257","elType":"column","settings":{"_column_size":100,"_inline_size":null,"padding":{"unit":"px","top":"30","right":"30","bottom":"30","left":"30","isLinked":true}},"elements":[{"id":"b30b1e7","elType":"widget","settings":{"image":{"url":"https:\/\/demo.woostify.com\/autocar\/wp-content\/uploads\/sites\/26\/2020\/05\/cat_6-1-3.jpg","id":797}},"elements":[],"widgetType":"image"},{"id":"e05dff1","elType":"widget","settings":{"align":"center","text":"Divider","color":"#E0E0E0","gap":{"unit":"px","size":5,"sizes":[]}},"elements":[],"widgetType":"divider"},{"id":"9585a58","elType":"widget","settings":{"title":"Oil & lubricants","typography_typography":"custom","typography_font_size":{"unit":"px","size":19,"sizes":[]}},"elements":[],"widgetType":"heading"},{"id":"2d031cb","elType":"widget","settings":{"icon_list":[{"text":"Engine Oil","selected_icon":{"value":"fas fa-chevron-right","library":"fa-solid"},"link":{"url":"","is_external":"","nofollow":"","custom_attributes":""},"_id":"8e6ab15"},{"text":"Motor Oil","selected_icon":{"value":"fas fa-chevron-right","library":"fa-solid"},"link":{"url":"","is_external":"","nofollow":"","custom_attributes":""},"_id":"a695f28"},{"text":"Powersport","selected_icon":{"value":"fas fa-chevron-right","library":"fa-solid"},"link":{"url":"","is_external":"","nofollow":"","custom_attributes":""},"_id":"8434d9e"},{"text":"Racing Motor Oil","selected_icon":{"value":"fas fa-chevron-right","library":"fa-solid"},"link":{"url":"","is_external":"","nofollow":"","custom_attributes":""},"_id":"4f436d4"},{"text":"Synthetic","selected_icon":{"value":"fas fa-chevron-right","library":"fa-solid"},"link":{"url":"","is_external":"","nofollow":"","custom_attributes":""},"_id":"9b674cc"}],"space_between":{"unit":"px","size":3,"sizes":[]},"icon_color":"#FC5A34","text_color":"#616161","icon_typography_typography":"custom","icon_typography_font_size":{"unit":"px","size":15,"sizes":[]}},"elements":[],"widgetType":"icon-list"},{"id":"338d38c","elType":"widget","settings":{"text":"View all","align":"justify","typography_typography":"custom","typography_font_family":"Poppins","typography_font_size":{"unit":"px","size":15,"sizes":[]},"typography_font_weight":"600","typography_text_transform":"uppercase","hover_color":"#FC5A34","button_background_hover_color":"#FFFFFF","button_hover_border_color":"#FC5A34","border_border":"solid","border_width":{"unit":"px","top":"1","right":"1","bottom":"1","left":"1","isLinked":true},"border_color":"#FC5A34","border_radius":{"unit":"px","top":"3","right":"3","bottom":"3","left":"3","isLinked":true},"text_padding":{"unit":"px","top":"","right":"","bottom":"","left":"","isLinked":false},"size":"xs"},"elements":[],"widgetType":"button"}],"isInner":true}],"isInner":true}],"isInner":false},{"id":"6c6641b","elType":"column","settings":{"_column_size":33,"_inline_size":null},"elements":[{"id":"2ee0c45","elType":"section","settings":{"border_border":"solid","border_width":{"unit":"px","top":"1","right":"1","bottom":"1","left":"1","isLinked":true},"border_color":"#E0E0E0","margin":{"unit":"px","top":"0","right":0,"bottom":"0","left":0,"isLinked":false}},"elements":[{"id":"058d9ef","elType":"column","settings":{"_column_size":100,"_inline_size":null,"padding":{"unit":"px","top":"30","right":"30","bottom":"30","left":"30","isLinked":true}},"elements":[{"id":"c39dc27","elType":"widget","settings":{"image":{"url":"https:\/\/demo.woostify.com\/autocar\/wp-content\/uploads\/sites\/26\/2020\/05\/cat_9-1-3.jpg","id":800}},"elements":[],"widgetType":"image"},{"id":"6ed8335","elType":"widget","settings":{"align":"center","text":"Divider","color":"#E0E0E0","gap":{"unit":"px","size":5,"sizes":[]}},"elements":[],"widgetType":"divider"},{"id":"4769d5d","elType":"widget","settings":{"title":"Brake disks & pads","typography_typography":"custom","typography_font_size":{"unit":"px","size":19,"sizes":[]}},"elements":[],"widgetType":"heading"},{"id":"d4586d2","elType":"widget","settings":{"icon_list":[{"text":"Brake Calipers","selected_icon":{"value":"fas fa-chevron-right","library":"fa-solid"},"link":{"url":"","is_external":"","nofollow":"","custom_attributes":""},"_id":"8e6ab15"},{"text":"Brake Hoses & Lines","selected_icon":{"value":"fas fa-chevron-right","library":"fa-solid"},"link":{"url":"","is_external":"","nofollow":"","custom_attributes":""},"_id":"a695f28"},{"text":"Brake Pads & Shoes","selected_icon":{"value":"fas fa-chevron-right","library":"fa-solid"},"link":{"url":"","is_external":"","nofollow":"","custom_attributes":""},"_id":"8434d9e"},{"text":"Brake Rotors","selected_icon":{"value":"fas fa-chevron-right","library":"fa-solid"},"link":{"url":"","is_external":"","nofollow":"","custom_attributes":""},"_id":"4f436d4"},{"text":"Cylinders & Kits","selected_icon":{"value":"fas fa-chevron-right","library":"fa-solid"},"link":{"url":"","is_external":"","nofollow":"","custom_attributes":""},"_id":"9b674cc"}],"space_between":{"unit":"px","size":3,"sizes":[]},"icon_color":"#FC5A34","text_color":"#616161","icon_typography_typography":"custom","icon_typography_font_size":{"unit":"px","size":15,"sizes":[]}},"elements":[],"widgetType":"icon-list"},{"id":"1dcde2f","elType":"widget","settings":{"text":"View all","align":"justify","typography_typography":"custom","typography_font_family":"Poppins","typography_font_size":{"unit":"px","size":15,"sizes":[]},"typography_font_weight":"600","typography_text_transform":"uppercase","hover_color":"#FC5A34","button_background_hover_color":"#FFFFFF","button_hover_border_color":"#FC5A34","border_border":"solid","border_width":{"unit":"px","top":"1","right":"1","bottom":"1","left":"1","isLinked":true},"border_color":"#FC5A34","border_radius":{"unit":"px","top":"3","right":"3","bottom":"3","left":"3","isLinked":true},"text_padding":{"unit":"px","top":"","right":"","bottom":"","left":"","isLinked":false},"size":"xs"},"elements":[],"widgetType":"button"}],"isInner":true}],"isInner":true}],"isInner":false}],"isInner":false}]]]></wp:meta_value>
+		<wp:meta_value><![CDATA[[{"id":"ef59e57","elType":"container","settings":{"structure":"30","background_background":"classic","background_color":"#FFFFFF","flex_direction":"row","flex_align_items":"stretch","flex_gap":{"size":0,"unit":"px"},"padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true}},"elements":[{"id":"5aeb5da","elType":"container","settings":{"_column_size":33,"width":{"size":33.333,"unit":"%"},"content_width":"full"},"elements":[{"id":"fd140e9","elType":"container","settings":{"border_border":"solid","border_width":{"unit":"px","top":"1","right":"1","bottom":"1","left":"1","isLinked":true},"border_color":"#E0E0E0","margin":{"unit":"px","top":"0","right":0,"bottom":"0","left":0,"isLinked":false},"flex_direction":"row","flex_align_items":"stretch","flex_gap":{"size":0,"unit":"px"},"content_width":"full","padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true}},"elements":[{"id":"5f387df","elType":"container","settings":{"_column_size":100,"width":{"size":null,"unit":"%"},"padding":{"unit":"px","top":"30","right":"30","bottom":"30","left":"30","isLinked":true},"content_width":"full"},"elements":[{"id":"ab73e41","elType":"widget","settings":{"image":{"url":"https:\/\/demo.woostify.com\/autocar\/wp-content\/uploads\/sites\/26\/2020\/05\/cat_5-1-3.jpg","id":849}},"elements":[],"widgetType":"image"},{"id":"7ee59f1","elType":"widget","settings":{"align":"center","text":"Divider","color":"#E0E0E0","gap":{"unit":"px","size":5,"sizes":[]}},"elements":[],"widgetType":"divider"},{"id":"e2446c6","elType":"widget","settings":{"title":"Service kits","typography_typography":"custom","typography_font_size":{"unit":"px","size":19,"sizes":[]}},"elements":[],"widgetType":"heading"},{"id":"2729757","elType":"widget","settings":{"icon_list":[{"text":"Air Filters","selected_icon":{"value":"fas fa-chevron-right","library":"fa-solid"},"_id":"8e6ab15"},{"text":"Cabin Air Filters","selected_icon":{"value":"fas fa-chevron-right","library":"fa-solid"},"_id":"a695f28"},{"text":"Oil Filters","selected_icon":{"value":"fas fa-chevron-right","library":"fa-solid"},"_id":"8434d9e"},{"text":"Oxygen Sensors","selected_icon":{"value":"fas fa-chevron-right","library":"fa-solid"},"_id":"4f436d4"},{"text":"PCV Valves","selected_icon":{"value":"fas fa-chevron-right","library":"fa-solid"},"_id":"9b674cc"}],"space_between":{"unit":"px","size":3,"sizes":[]},"icon_color":"#FC5A34","text_color":"#616161","icon_typography_typography":"custom","icon_typography_font_size":{"unit":"px","size":15,"sizes":[]}},"elements":[],"widgetType":"icon-list"},{"id":"66e462b","elType":"widget","settings":{"text":"View all","align":"justify","typography_typography":"custom","typography_font_family":"Poppins","typography_font_size":{"unit":"px","size":15,"sizes":[]},"typography_font_weight":"600","typography_text_transform":"uppercase","hover_color":"#FC5A34","button_background_hover_color":"#FFFFFF","button_hover_border_color":"#FC5A34","border_border":"solid","border_width":{"unit":"px","top":"1","right":"1","bottom":"1","left":"1","isLinked":true},"border_color":"#FC5A34","border_radius":{"unit":"px","top":"3","right":"3","bottom":"3","left":"3","isLinked":true},"text_padding":{"unit":"px","top":"","right":"","bottom":"","left":"","isLinked":false},"size":"xs"},"elements":[],"widgetType":"button"}],"isInner":false}],"isInner":false}],"isInner":false},{"id":"4bf5eba","elType":"container","settings":{"_column_size":33,"width":{"size":33.333,"unit":"%"},"content_width":"full"},"elements":[{"id":"b4eded3","elType":"container","settings":{"border_border":"solid","border_width":{"unit":"px","top":"1","right":"1","bottom":"1","left":"1","isLinked":true},"border_color":"#E0E0E0","margin":{"unit":"px","top":"0","right":0,"bottom":"0","left":0,"isLinked":false},"flex_direction":"row","flex_align_items":"stretch","flex_gap":{"size":0,"unit":"px"},"content_width":"full","padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true}},"elements":[{"id":"7564f31","elType":"container","settings":{"_column_size":100,"width":{"size":null,"unit":"%"},"padding":{"unit":"px","top":"30","right":"30","bottom":"30","left":"30","isLinked":true},"content_width":"full"},"elements":[{"id":"1b9467b","elType":"widget","settings":{"image":{"url":"https:\/\/demo.woostify.com\/autocar\/wp-content\/uploads\/sites\/26\/2020\/05\/cat_6-1-3.jpg","id":797}},"elements":[],"widgetType":"image"},{"id":"80d60bd","elType":"widget","settings":{"align":"center","text":"Divider","color":"#E0E0E0","gap":{"unit":"px","size":5,"sizes":[]}},"elements":[],"widgetType":"divider"},{"id":"5c1eeb8","elType":"widget","settings":{"title":"Oil & lubricants","typography_typography":"custom","typography_font_size":{"unit":"px","size":19,"sizes":[]}},"elements":[],"widgetType":"heading"},{"id":"709c795","elType":"widget","settings":{"icon_list":[{"text":"Engine Oil","selected_icon":{"value":"fas fa-chevron-right","library":"fa-solid"},"_id":"8e6ab15"},{"text":"Motor Oil","selected_icon":{"value":"fas fa-chevron-right","library":"fa-solid"},"_id":"a695f28"},{"text":"Powersport","selected_icon":{"value":"fas fa-chevron-right","library":"fa-solid"},"_id":"8434d9e"},{"text":"Racing Motor Oil","selected_icon":{"value":"fas fa-chevron-right","library":"fa-solid"},"_id":"4f436d4"},{"text":"Synthetic","selected_icon":{"value":"fas fa-chevron-right","library":"fa-solid"},"_id":"9b674cc"}],"space_between":{"unit":"px","size":3,"sizes":[]},"icon_color":"#FC5A34","text_color":"#616161","icon_typography_typography":"custom","icon_typography_font_size":{"unit":"px","size":15,"sizes":[]}},"elements":[],"widgetType":"icon-list"},{"id":"f4dcc05","elType":"widget","settings":{"text":"View all","align":"justify","typography_typography":"custom","typography_font_family":"Poppins","typography_font_size":{"unit":"px","size":15,"sizes":[]},"typography_font_weight":"600","typography_text_transform":"uppercase","hover_color":"#FC5A34","button_background_hover_color":"#FFFFFF","button_hover_border_color":"#FC5A34","border_border":"solid","border_width":{"unit":"px","top":"1","right":"1","bottom":"1","left":"1","isLinked":true},"border_color":"#FC5A34","border_radius":{"unit":"px","top":"3","right":"3","bottom":"3","left":"3","isLinked":true},"text_padding":{"unit":"px","top":"","right":"","bottom":"","left":"","isLinked":false},"size":"xs"},"elements":[],"widgetType":"button"}],"isInner":false}],"isInner":false}],"isInner":false},{"id":"7ea000d","elType":"container","settings":{"_column_size":33,"width":{"size":33.333,"unit":"%"},"content_width":"full"},"elements":[{"id":"f4272a1","elType":"container","settings":{"border_border":"solid","border_width":{"unit":"px","top":"1","right":"1","bottom":"1","left":"1","isLinked":true},"border_color":"#E0E0E0","margin":{"unit":"px","top":"0","right":0,"bottom":"0","left":0,"isLinked":false},"flex_direction":"row","flex_align_items":"stretch","flex_gap":{"size":0,"unit":"px"},"content_width":"full","padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true}},"elements":[{"id":"9c5b902","elType":"container","settings":{"_column_size":100,"width":{"size":null,"unit":"%"},"padding":{"unit":"px","top":"30","right":"30","bottom":"30","left":"30","isLinked":true},"content_width":"full"},"elements":[{"id":"4691685","elType":"widget","settings":{"image":{"url":"https:\/\/demo.woostify.com\/autocar\/wp-content\/uploads\/sites\/26\/2020\/05\/cat_9-1-3.jpg","id":800}},"elements":[],"widgetType":"image"},{"id":"bf1060c","elType":"widget","settings":{"align":"center","text":"Divider","color":"#E0E0E0","gap":{"unit":"px","size":5,"sizes":[]}},"elements":[],"widgetType":"divider"},{"id":"3239759","elType":"widget","settings":{"title":"Brake disks & pads","typography_typography":"custom","typography_font_size":{"unit":"px","size":19,"sizes":[]}},"elements":[],"widgetType":"heading"},{"id":"bac9386","elType":"widget","settings":{"icon_list":[{"text":"Brake Calipers","selected_icon":{"value":"fas fa-chevron-right","library":"fa-solid"},"_id":"8e6ab15"},{"text":"Brake Hoses & Lines","selected_icon":{"value":"fas fa-chevron-right","library":"fa-solid"},"_id":"a695f28"},{"text":"Brake Pads & Shoes","selected_icon":{"value":"fas fa-chevron-right","library":"fa-solid"},"_id":"8434d9e"},{"text":"Brake Rotors","selected_icon":{"value":"fas fa-chevron-right","library":"fa-solid"},"_id":"4f436d4"},{"text":"Cylinders & Kits","selected_icon":{"value":"fas fa-chevron-right","library":"fa-solid"},"_id":"9b674cc"}],"space_between":{"unit":"px","size":3,"sizes":[]},"icon_color":"#FC5A34","text_color":"#616161","icon_typography_typography":"custom","icon_typography_font_size":{"unit":"px","size":15,"sizes":[]}},"elements":[],"widgetType":"icon-list"},{"id":"c5d42ac","elType":"widget","settings":{"text":"View all","align":"justify","typography_typography":"custom","typography_font_family":"Poppins","typography_font_size":{"unit":"px","size":15,"sizes":[]},"typography_font_weight":"600","typography_text_transform":"uppercase","hover_color":"#FC5A34","button_background_hover_color":"#FFFFFF","button_hover_border_color":"#FC5A34","border_border":"solid","border_width":{"unit":"px","top":"1","right":"1","bottom":"1","left":"1","isLinked":true},"border_color":"#FC5A34","border_radius":{"unit":"px","top":"3","right":"3","bottom":"3","left":"3","isLinked":true},"text_padding":{"unit":"px","top":"","right":"","bottom":"","left":"","isLinked":false},"size":"xs"},"elements":[],"widgetType":"button"}],"isInner":false}],"isInner":false}],"isInner":false}],"isInner":false}]]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_elementor_controls_usage]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:7:{s:5:"image";a:3:{s:5:"count";i:3;s:15:"control_percent";i:0;s:8:"controls";a:1:{s:7:"content";a:1:{s:13:"section_image";a:1:{s:5:"image";i:3;}}}}s:7:"divider";a:3:{s:5:"count";i:3;s:15:"control_percent";i:1;s:8:"controls";a:2:{s:7:"content";a:1:{s:15:"section_divider";a:1:{s:5:"align";i:3;}}s:5:"style";a:1:{s:21:"section_divider_style";a:2:{s:5:"color";i:3;s:3:"gap";i:3;}}}}s:7:"heading";a:3:{s:5:"count";i:3;s:15:"control_percent";i:1;s:8:"controls";a:2:{s:7:"content";a:1:{s:13:"section_title";a:1:{s:5:"title";i:3;}}s:5:"style";a:1:{s:19:"section_title_style";a:2:{s:21:"typography_typography";i:3;s:20:"typography_font_size";i:3;}}}}s:9:"icon-list";a:3:{s:5:"count";i:3;s:15:"control_percent";i:2;s:8:"controls";a:2:{s:7:"content";a:1:{s:12:"section_icon";a:1:{s:9:"icon_list";i:3;}}s:5:"style";a:3:{s:17:"section_icon_list";a:1:{s:13:"space_between";i:3;}s:18:"section_icon_style";a:1:{s:10:"icon_color";i:3;}s:18:"section_text_style";a:3:{s:10:"text_color";i:3;s:26:"icon_typography_typography";i:3;s:25:"icon_typography_font_size";i:3;}}}}s:6:"button";a:3:{s:5:"count";i:3;s:15:"control_percent";i:4;s:8:"controls";a:2:{s:7:"content";a:1:{s:14:"section_button";a:3:{s:4:"text";i:3;s:5:"align";i:3;s:4:"size";i:3;}}s:5:"style";a:1:{s:13:"section_style";a:13:{s:21:"typography_typography";i:3;s:22:"typography_font_family";i:3;s:20:"typography_font_size";i:3;s:22:"typography_font_weight";i:3;s:25:"typography_text_transform";i:3;s:11:"hover_color";i:3;s:29:"button_background_hover_color";i:3;s:25:"button_hover_border_color";i:3;s:13:"border_border";i:3;s:12:"border_width";i:3;s:12:"border_color";i:3;s:13:"border_radius";i:3;s:12:"text_padding";i:3;}}}}s:6:"column";a:3:{s:5:"count";i:6;s:15:"control_percent";i:0;s:8:"controls";a:2:{s:6:"layout";a:1:{s:6:"layout";a:1:{s:12:"_inline_size";i:6;}}s:8:"advanced";a:1:{s:16:"section_advanced";a:1:{s:7:"padding";i:3;}}}}s:7:"section";a:3:{s:5:"count";i:4;s:15:"control_percent";i:1;s:8:"controls";a:3:{s:5:"style";a:2:{s:14:"section_border";a:3:{s:13:"border_border";i:3;s:12:"border_width";i:3;s:12:"border_color";i:3;}s:18:"section_background";a:2:{s:21:"background_background";i:1;s:16:"background_color";i:1;}}s:8:"advanced";a:1:{s:16:"section_advanced";a:1:{s:6:"margin";i:3;}}s:6:"layout";a:1:{s:17:"section_structure";a:1:{s:9:"structure";i:1;}}}}}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_elementor_page_assets]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -9830,6 +9921,25 @@ my website; <a href="http://Ttlink.com/merletaft/all" rel="nofollow ugc">สล�
 			<wp:comment_parent>0</wp:comment_parent>
 			<wp:comment_user_id>0</wp:comment_user_id>
 							</wp:comment>
+					<wp:comment>
+			<wp:comment_id>103</wp:comment_id>
+			<wp:comment_author><![CDATA[Charli]]></wp:comment_author>
+			<wp:comment_author_email><![CDATA[charliforlonge@yahoo.de]]></wp:comment_author_email>
+			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_author_IP><![CDATA[162.158.155.19]]></wp:comment_author_IP>
+			<wp:comment_date><![CDATA[2023-06-27 02:59:54]]></wp:comment_date>
+			<wp:comment_date_gmt><![CDATA[2023-06-27 02:59:54]]></wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[Hello there,  You've done a fantastic job. I will certainly digg it and personally suggest to my friends.
+
+I'm confident they'll be benefited from this web site.
+
+
+Look at my webpage: <a href="https://buy.paybis.com/click?pid=412&amp;offer_id=1" rel="nofollow ugc">Buy Bitcoin online</a>]]></wp:comment_content>
+			<wp:comment_approved><![CDATA[0]]></wp:comment_approved>
+			<wp:comment_type><![CDATA[comment]]></wp:comment_type>
+			<wp:comment_parent>0</wp:comment_parent>
+			<wp:comment_user_id>0</wp:comment_user_id>
+							</wp:comment>
 					</item>
 					<item>
 		<title><![CDATA[Car Care Month: A DIY Car Maintenance Checklist]]></title>
@@ -11478,7 +11588,7 @@ Main Line Wheels are built upon the most forward styling and an uncompromising l
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[pageview]]></wp:meta_key>
-		<wp:meta_value><![CDATA[347]]></wp:meta_value>
+		<wp:meta_value><![CDATA[349]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[inactive_product_flag]]></wp:meta_key>
@@ -13333,7 +13443,7 @@ Main Line Wheels are built upon the most forward styling and an uncompromising l
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[pageview]]></wp:meta_key>
-		<wp:meta_value><![CDATA[843]]></wp:meta_value>
+		<wp:meta_value><![CDATA[844]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[inactive_product_flag]]></wp:meta_key>
@@ -14282,7 +14392,7 @@ Main Line Wheels are built upon the most forward styling and an uncompromising l
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[pageview]]></wp:meta_key>
-		<wp:meta_value><![CDATA[468]]></wp:meta_value>
+		<wp:meta_value><![CDATA[469]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[inactive_product_flag]]></wp:meta_key>

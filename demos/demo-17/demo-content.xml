@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/6.2.2" created="2023-06-22 10:31" -->
+	<!-- generator="WordPress/6.2.2" created="2023-06-28 08:14" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
 	<title>Meins</title>
 	<link>https://demo.woostify.com/meins</link>
 	<description>Just another Woostify Pro Demo Sites site</description>
-	<pubDate>Thu, 22 Jun 2023 10:31:03 +0000</pubDate>
+	<pubDate>Wed, 28 Jun 2023 08:14:04 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>https://demo.woostify.com/</wp:base_site_url>
@@ -6216,7 +6216,7 @@ This product is uniquely formulated to be non-drying and non-irritating to skin,
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[pageview]]></wp:meta_key>
-		<wp:meta_value><![CDATA[145]]></wp:meta_value>
+		<wp:meta_value><![CDATA[151]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -6341,7 +6341,7 @@ This product is uniquely formulated to be non-drying and non-irritating to skin,
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[pageview]]></wp:meta_key>
-		<wp:meta_value><![CDATA[254]]></wp:meta_value>
+		<wp:meta_value><![CDATA[257]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:comment>
 			<wp:comment_id>6</wp:comment_id>
@@ -6708,7 +6708,7 @@ This product is uniquely formulated to be non-drying and non-irritating to skin,
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[pageview]]></wp:meta_key>
-		<wp:meta_value><![CDATA[205]]></wp:meta_value>
+		<wp:meta_value><![CDATA[208]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:comment>
 			<wp:comment_id>12</wp:comment_id>
@@ -7039,7 +7039,7 @@ This product is uniquely formulated to be non-drying and non-irritating to skin,
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[pageview]]></wp:meta_key>
-		<wp:meta_value><![CDATA[127]]></wp:meta_value>
+		<wp:meta_value><![CDATA[131]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:comment>
 			<wp:comment_id>5</wp:comment_id>
@@ -7545,7 +7545,7 @@ This product is uniquely formulated to be non-drying and non-irritating to skin,
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[pageview]]></wp:meta_key>
-		<wp:meta_value><![CDATA[284]]></wp:meta_value>
+		<wp:meta_value><![CDATA[291]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:comment>
 			<wp:comment_id>50</wp:comment_id>
@@ -7902,7 +7902,7 @@ This product is uniquely formulated to be non-drying and non-irritating to skin,
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[pageview]]></wp:meta_key>
-		<wp:meta_value><![CDATA[39]]></wp:meta_value>
+		<wp:meta_value><![CDATA[41]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -8179,7 +8179,7 @@ This product is uniquely formulated to be non-drying and non-irritating to skin,
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[pageview]]></wp:meta_key>
-		<wp:meta_value><![CDATA[207]]></wp:meta_value>
+		<wp:meta_value><![CDATA[212]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:comment>
 			<wp:comment_id>4</wp:comment_id>

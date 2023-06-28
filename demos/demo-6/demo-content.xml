@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/6.2.2" created="2023-06-22 09:46" -->
+	<!-- generator="WordPress/6.2.2" created="2023-06-27 09:31" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
 	<title>Cosmetica</title>
 	<link>https://demo.woostify.com/cosmetica</link>
 	<description>Just another Woostify Pro Demo Sites site</description>
-	<pubDate>Thu, 22 Jun 2023 09:46:54 +0000</pubDate>
+	<pubDate>Tue, 27 Jun 2023 09:31:42 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>https://demo.woostify.com/</wp:base_site_url>
@@ -7937,7 +7937,7 @@ I’ve arrived on time to every lesson I’ve had to teach this year, bar one.&n
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[pageview]]></wp:meta_key>
-		<wp:meta_value><![CDATA[65]]></wp:meta_value>
+		<wp:meta_value><![CDATA[66]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -8118,7 +8118,7 @@ I’ve arrived on time to every lesson I’ve had to teach this year, bar one.&n
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[pageview]]></wp:meta_key>
-		<wp:meta_value><![CDATA[225]]></wp:meta_value>
+		<wp:meta_value><![CDATA[233]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -8299,7 +8299,7 @@ I’ve arrived on time to every lesson I’ve had to teach this year, bar one.&n
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[pageview]]></wp:meta_key>
-		<wp:meta_value><![CDATA[92]]></wp:meta_value>
+		<wp:meta_value><![CDATA[94]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>

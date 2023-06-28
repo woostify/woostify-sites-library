@@ -323,7 +323,7 @@ function woostify_sites_local_import_files() {
 		),
 		array(
 			'id'                           => 9,
-			'import_file_name'             => 'Hippine - Jewelry ',
+			'import_file_name'             => 'Hippine - Jewelry',
 			'local_import_file'            => WOOSTIFY_SITES_DIR . 'demos/demo-10/demo-content.xml',
 			'local_import_widget_file'     => WOOSTIFY_SITES_DIR . 'demos/demo-10/widgets.wie',
 			'local_import_customizer_file' => WOOSTIFY_SITES_DIR . 'demos/demo-10/customizer.dat',

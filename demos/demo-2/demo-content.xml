@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/6.2.2" created="2023-06-22 09:28" -->
+	<!-- generator="WordPress/6.2.2" created="2023-06-28 07:07" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
 	<title>Yoga</title>
 	<link>https://demo.woostify.com/fashion2</link>
 	<description>Just another Woostify Pro Demo Sites site</description>
-	<pubDate>Thu, 22 Jun 2023 09:28:29 +0000</pubDate>
+	<pubDate>Wed, 28 Jun 2023 07:07:16 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>https://demo.woostify.com/</wp:base_site_url>
@@ -421,6 +421,17 @@
 		</wp:termmeta>
 	</wp:term>
 		<wp:term>
+		<wp:term_id>51</wp:term_id>
+		<wp:term_taxonomy><![CDATA[product_tag]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[trousers]]></wp:term_slug>
+		<wp:term_parent><![CDATA[]]></wp:term_parent>
+		<wp:term_name><![CDATA[Trousers]]></wp:term_name>
+		<wp:termmeta>
+			<wp:meta_key><![CDATA[product_count_product_tag]]></wp:meta_key>
+			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:termmeta>
+	</wp:term>
+		<wp:term>
 		<wp:term_id>50</wp:term_id>
 		<wp:term_taxonomy><![CDATA[product_cat]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[trousers]]></wp:term_slug>
@@ -445,17 +456,6 @@
 		<wp:termmeta>
 			<wp:meta_key><![CDATA[product_count_product_cat]]></wp:meta_key>
 			<wp:meta_value><![CDATA[2]]></wp:meta_value>
-		</wp:termmeta>
-	</wp:term>
-		<wp:term>
-		<wp:term_id>51</wp:term_id>
-		<wp:term_taxonomy><![CDATA[product_tag]]></wp:term_taxonomy>
-		<wp:term_slug><![CDATA[trousers]]></wp:term_slug>
-		<wp:term_parent><![CDATA[]]></wp:term_parent>
-		<wp:term_name><![CDATA[Trousers]]></wp:term_name>
-		<wp:termmeta>
-			<wp:meta_key><![CDATA[product_count_product_tag]]></wp:meta_key>
-			<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:termmeta>
 	</wp:term>
 		<wp:term>
@@ -548,7 +548,7 @@
 
 		<item>
 		<title><![CDATA[blog-img-1]]></title>
-		<link>https://demo.woostify.com/fashion2/2018/12/28/alice-palmers-diary-lessons-from-the-first-year-of-yoga-teaching/blog-img-1/</link>
+		<link>https://demo.woostify.com/fashion2/alice-palmers-diary-lessons-from-the-first-year-of-yoga-teaching/blog-img-1/</link>
 		<pubDate>Fri, 28 Dec 2018 03:55:34 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/fashion2/wp-content/uploads/2018/12/blog-single-img-1.jpg</guid>
@@ -630,7 +630,7 @@
 							</item>
 					<item>
 		<title><![CDATA[blog-img-2]]></title>
-		<link>https://demo.woostify.com/fashion2/2018/12/28/alice-palmers-diary-lessons-from-the-first-year-of-yoga-teaching/blog-img-2/</link>
+		<link>https://demo.woostify.com/fashion2/alice-palmers-diary-lessons-from-the-first-year-of-yoga-teaching/blog-img-2/</link>
 		<pubDate>Wed, 02 Jan 2019 03:37:18 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/fashion2/wp-content/uploads/2018/12/blog-img-2.jpg</guid>
@@ -663,7 +663,7 @@
 							</item>
 					<item>
 		<title><![CDATA[blog-img-3]]></title>
-		<link>https://demo.woostify.com/fashion2/2018/12/28/alice-palmers-diary-lessons-from-the-first-year-of-yoga-teaching/blog-img-3/</link>
+		<link>https://demo.woostify.com/fashion2/alice-palmers-diary-lessons-from-the-first-year-of-yoga-teaching/blog-img-3/</link>
 		<pubDate>Wed, 02 Jan 2019 03:37:20 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/fashion2/wp-content/uploads/2018/12/blog-img-3.jpg</guid>
@@ -696,7 +696,7 @@
 							</item>
 					<item>
 		<title><![CDATA[blog-img-4]]></title>
-		<link>https://demo.woostify.com/fashion2/2018/12/28/alice-palmers-diary-lessons-from-the-first-year-of-yoga-teaching/blog-img-4/</link>
+		<link>https://demo.woostify.com/fashion2/alice-palmers-diary-lessons-from-the-first-year-of-yoga-teaching/blog-img-4/</link>
 		<pubDate>Wed, 02 Jan 2019 03:37:22 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/fashion2/wp-content/uploads/2018/12/blog-img-4.jpg</guid>
@@ -729,7 +729,7 @@
 							</item>
 					<item>
 		<title><![CDATA[blog-img-5]]></title>
-		<link>https://demo.woostify.com/fashion2/2018/12/28/alice-palmers-diary-lessons-from-the-first-year-of-yoga-teaching/blog-img-5/</link>
+		<link>https://demo.woostify.com/fashion2/alice-palmers-diary-lessons-from-the-first-year-of-yoga-teaching/blog-img-5/</link>
 		<pubDate>Wed, 02 Jan 2019 03:37:24 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/fashion2/wp-content/uploads/2018/12/blog-img-5.jpg</guid>
@@ -762,7 +762,7 @@
 							</item>
 					<item>
 		<title><![CDATA[blog-img-6]]></title>
-		<link>https://demo.woostify.com/fashion2/2018/12/28/alice-palmers-diary-lessons-from-the-first-year-of-yoga-teaching/blog-img-6/</link>
+		<link>https://demo.woostify.com/fashion2/alice-palmers-diary-lessons-from-the-first-year-of-yoga-teaching/blog-img-6/</link>
 		<pubDate>Wed, 02 Jan 2019 03:37:26 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/fashion2/wp-content/uploads/2018/12/blog-img-6.jpg</guid>
@@ -795,7 +795,7 @@
 							</item>
 					<item>
 		<title><![CDATA[blog-img-7]]></title>
-		<link>https://demo.woostify.com/fashion2/2018/12/28/alice-palmers-diary-lessons-from-the-first-year-of-yoga-teaching/blog-img-7/</link>
+		<link>https://demo.woostify.com/fashion2/alice-palmers-diary-lessons-from-the-first-year-of-yoga-teaching/blog-img-7/</link>
 		<pubDate>Wed, 02 Jan 2019 03:37:27 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/fashion2/wp-content/uploads/2018/12/blog-img-7.jpg</guid>
@@ -828,7 +828,7 @@
 							</item>
 					<item>
 		<title><![CDATA[blog-img-8]]></title>
-		<link>https://demo.woostify.com/fashion2/2018/12/28/alice-palmers-diary-lessons-from-the-first-year-of-yoga-teaching/blog-img-8/</link>
+		<link>https://demo.woostify.com/fashion2/alice-palmers-diary-lessons-from-the-first-year-of-yoga-teaching/blog-img-8/</link>
 		<pubDate>Wed, 02 Jan 2019 03:37:29 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/fashion2/wp-content/uploads/2018/12/blog-img-8.jpg</guid>
@@ -861,7 +861,7 @@
 							</item>
 					<item>
 		<title><![CDATA[blog-img-9]]></title>
-		<link>https://demo.woostify.com/fashion2/2018/12/28/alice-palmers-diary-lessons-from-the-first-year-of-yoga-teaching/blog-img-9/</link>
+		<link>https://demo.woostify.com/fashion2/alice-palmers-diary-lessons-from-the-first-year-of-yoga-teaching/blog-img-9/</link>
 		<pubDate>Wed, 02 Jan 2019 03:37:30 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/fashion2/wp-content/uploads/2018/12/blog-img-9.jpg</guid>
@@ -894,7 +894,7 @@
 							</item>
 					<item>
 		<title><![CDATA[blog-img-10]]></title>
-		<link>https://demo.woostify.com/fashion2/2018/12/28/alice-palmers-diary-lessons-from-the-first-year-of-yoga-teaching/blog-img-10/</link>
+		<link>https://demo.woostify.com/fashion2/alice-palmers-diary-lessons-from-the-first-year-of-yoga-teaching/blog-img-10/</link>
 		<pubDate>Wed, 02 Jan 2019 03:37:31 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/fashion2/wp-content/uploads/2018/12/blog-img-10.jpg</guid>
@@ -2624,7 +2624,7 @@
 							</item>
 					<item>
 		<title><![CDATA[]]></title>
-		<link>https://demo.woostify.com/fashion2/2018/12/28/128/</link>
+		<link>https://demo.woostify.com/fashion2/128/</link>
 		<pubDate>Fri, 28 Dec 2018 08:29:54 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/fashion2/?p=128</guid>
@@ -2697,7 +2697,7 @@
 							</item>
 					<item>
 		<title><![CDATA[Home]]></title>
-		<link>https://demo.woostify.com/fashion2/2018/12/28/home/</link>
+		<link>https://demo.woostify.com/fashion2/home/</link>
 		<pubDate>Fri, 28 Dec 2018 08:29:54 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/fashion2/?p=129</guid>
@@ -2770,7 +2770,7 @@
 							</item>
 					<item>
 		<title><![CDATA[Sizing Charts]]></title>
-		<link>https://demo.woostify.com/fashion2/2019/01/02/sizing-charts/</link>
+		<link>https://demo.woostify.com/fashion2/sizing-charts/</link>
 		<pubDate>Wed, 02 Jan 2019 08:04:53 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/fashion2/?p=165</guid>
@@ -2843,7 +2843,7 @@
 							</item>
 					<item>
 		<title><![CDATA[Guides & Expert Advice]]></title>
-		<link>https://demo.woostify.com/fashion2/2019/01/02/guides-expert-advice/</link>
+		<link>https://demo.woostify.com/fashion2/guides-expert-advice/</link>
 		<pubDate>Wed, 02 Jan 2019 08:04:53 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/fashion2/?p=166</guid>
@@ -2916,7 +2916,7 @@
 							</item>
 					<item>
 		<title><![CDATA[Returns]]></title>
-		<link>https://demo.woostify.com/fashion2/2019/01/02/returns/</link>
+		<link>https://demo.woostify.com/fashion2/returns/</link>
 		<pubDate>Wed, 02 Jan 2019 08:04:53 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/fashion2/?p=167</guid>
@@ -2989,7 +2989,7 @@
 							</item>
 					<item>
 		<title><![CDATA[Shipping]]></title>
-		<link>https://demo.woostify.com/fashion2/2019/01/02/shipping/</link>
+		<link>https://demo.woostify.com/fashion2/shipping/</link>
 		<pubDate>Wed, 02 Jan 2019 08:04:53 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/fashion2/?p=168</guid>
@@ -3062,7 +3062,7 @@
 							</item>
 					<item>
 		<title><![CDATA[Contact Us]]></title>
-		<link>https://demo.woostify.com/fashion2/2019/01/02/contact-us/</link>
+		<link>https://demo.woostify.com/fashion2/contact-us/</link>
 		<pubDate>Wed, 02 Jan 2019 08:04:53 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/fashion2/?p=169</guid>
@@ -3135,7 +3135,7 @@
 							</item>
 					<item>
 		<title><![CDATA[What's New]]></title>
-		<link>https://demo.woostify.com/fashion2/2019/01/02/whats-new/</link>
+		<link>https://demo.woostify.com/fashion2/whats-new/</link>
 		<pubDate>Wed, 02 Jan 2019 08:07:41 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/fashion2/?p=171</guid>
@@ -3208,7 +3208,7 @@
 							</item>
 					<item>
 		<title><![CDATA[Shop By Brand]]></title>
-		<link>https://demo.woostify.com/fashion2/2019/01/02/shop-by-brand/</link>
+		<link>https://demo.woostify.com/fashion2/shop-by-brand/</link>
 		<pubDate>Wed, 02 Jan 2019 08:07:41 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/fashion2/?p=172</guid>
@@ -3281,7 +3281,7 @@
 							</item>
 					<item>
 		<title><![CDATA[Subscribe To Our Emails]]></title>
-		<link>https://demo.woostify.com/fashion2/2019/01/02/subscribe-to-our-emails/</link>
+		<link>https://demo.woostify.com/fashion2/subscribe-to-our-emails/</link>
 		<pubDate>Wed, 02 Jan 2019 08:07:41 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/fashion2/?p=173</guid>
@@ -3478,7 +3478,7 @@
 							</item>
 					<item>
 		<title><![CDATA[woostify]]></title>
-		<link>https://demo.woostify.com/fashion2/2019/03/11/woostify/</link>
+		<link>https://demo.woostify.com/fashion2/woostify/</link>
 		<pubDate>Mon, 11 Mar 2019 14:15:26 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/fashion2/woostify/</guid>
@@ -3501,8 +3501,8 @@
 		<wp:post_id>427</wp:post_id>
 		<wp:post_date><![CDATA[2019-03-11 14:15:26]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-03-11 14:15:26]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2022-04-21 09:47:03]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2022-04-21 09:47:03]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2023-06-28 04:47:29]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-06-28 04:47:29]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[woostify]]></wp:post_name>
@@ -3536,64 +3536,527 @@
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/fashion2/?post_type=mega_menu&#038;p=513</guid>
 		<description></description>
-		<content:encoded><![CDATA[<ul data-tiny-slider='{"items":2,"autoplay":true,"autoplayTimeout":5000,"autoplayHoverPause":true,"controls":true,"nav":true,"speed":300,"loop":true,"gutter":15,"mouseDrag":true,"slideBy":1,"responsive":{"768":{"items":3,"gutter":15,"controls":true,"nav":true},"992":{"items":1,"gutter":15,"controls":true,"nav":true}}}'>
+		<content:encoded><![CDATA[<h5>Furniture</h5>		
+					<ul>
+							<li>
+											<a href="/fashion2/product-category/bottom/">
+											Bottom
+											</a>
+									</li>
+								<li>
+											<a href="/fashion2/product-category/top/">
+											Top
+											</a>
+									</li>
+								<li>
+											<a href="/fashion2/product-category/trousers/">
+											Trousers
+											</a>
+									</li>
+								<li>
+											<a href="/fashion2/product-category/uncategorized/">
+											Uncategorized
+											</a>
+									</li>
+								<li>
+											<a href="/fashion2/product-category/women/">
+											Women
+											</a>
+									</li>
+						</ul>
+			<h5>Product categories</h5>		
+					<ul>
+							<li>
+											<a href="/fashion2/product-category/bottom/">
+											Bottom
+											</a>
+									</li>
+								<li>
+											<a href="/fashion2/product-category/top/">
+											Top
+											</a>
+									</li>
+								<li>
+											<a href="/fashion2/product-category/trousers/">
+											Trousers
+											</a>
+									</li>
+								<li>
+											<a href="/fashion2/product-category/uncategorized/">
+											Uncategorized
+											</a>
+									</li>
+								<li>
+											<a href="/fashion2/product-category/women/">
+											Women
+											</a>
+									</li>
+						</ul>
+			<h5>Product categories</h5>		
+					<ul>
+							<li>
+											<a href="/fashion2/product-category/bottom/">
+											Bottom
+											</a>
+									</li>
+								<li>
+											<a href="/fashion2/product-category/top/">
+											Top
+											</a>
+									</li>
+								<li>
+											<a href="/fashion2/product-category/trousers/">
+											Trousers
+											</a>
+									</li>
+								<li>
+											<a href="/fashion2/product-category/uncategorized/">
+											Uncategorized
+											</a>
+									</li>
+								<li>
+											<a href="/fashion2/product-category/women/">
+											Women
+											</a>
+									</li>
+						</ul>
+			<ul data-tiny-slider='{"items":1,"autoplay":true,"autoplayTimeout":5000,"autoplayHoverPause":true,"controls":true,"nav":true,"speed":300,"loop":true,"gutter":15,"slideBy":"1","responsive":{"768":{"items":1,"gutter":15,"controls":true,"nav":true},"992":{"items":1,"gutter":15,"controls":true,"nav":true}}}' data-col="1">
 				<li>
-	<a href="javascript:void(0)" data-tinv-wl-list="[{&quot;ID&quot;:1,&quot;title&quot;:&quot;Default wishlist&quot;,&quot;url&quot;:&quot;&quot;,&quot;in&quot;:false}]" data-tinv-wl-product="299" data-tinv-wl-productvariation="0" data-tinv-wl-producttype="variable" data-tinv-wl-action="addto" rel="nofollow">Add to Wishlist</a>		Add to Wishlist
-		<a href="https://woostify.com/demos/pro/fashion2/product/yoge-the-cotton-shirt/">				
-			<img width="300" height="300" src="https://woostify.com/demos/pro/fashion2/wp-content/uploads/sites/17/2019/01/2-1-300x300.jpg" alt="Product image" data-src="https://woostify.com/demos/pro/fashion2/wp-content/uploads/sites/17/2019/01/2-1-300x300.jpg" srcset="https://woostify.com/demos/pro/fashion2/wp-content/uploads/sites/17/2019/01/2-1-300x300.jpg 300w, https://woostify.com/demos/pro/fashion2/wp-content/uploads/sites/17/2019/01/2-1-150x150.jpg 150w, https://woostify.com/demos/pro/fashion2/wp-content/uploads/sites/17/2019/01/2-1-100x100.jpg 100w" sizes="(max-width: 300px) 100vw, 300px" /></a>		<h2>
-			<a href="https://woostify.com/demos/pro/fashion2/product/yoge-the-cotton-shirt/">Yoge The cotton Shirt</a>		</h2>
+			<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="17" height="17" viewBox="0 0 17 17">
+<g>
+</g>
+	<path d="M16.965 8.817c-1.284-3.267-4.687-5.463-8.465-5.463s-7.181 2.196-8.465 5.463c-0.046 0.117-0.046 0.248 0 0.365 1.285 3.268 4.687 5.464 8.465 5.464s7.18-2.195 8.465-5.463c0.047-0.118 0.047-0.248 0-0.366zM8.5 13.646c-3.298 0-6.269-1.859-7.459-4.646 1.189-2.787 4.16-4.646 7.459-4.646s6.27 1.859 7.459 4.646c-1.19 2.786-4.161 4.646-7.459 4.646zM8.5 5.357c-2.009 0-3.643 1.634-3.643 3.643s1.634 3.643 3.644 3.643c2.008 0 3.643-1.634 3.643-3.643s-1.635-3.643-3.644-3.643zM8.5 11.643c-1.458 0-2.644-1.186-2.644-2.643s1.187-2.643 2.644-2.643c1.457 0 2.643 1.186 2.643 2.643s-1.185 2.643-2.643 2.643zM8.5 7.643c-0.748 0-1.357 0.609-1.357 1.357s0.609 1.357 1.357 1.357 1.357-0.609 1.357-1.357-0.609-1.357-1.357-1.357zM8.5 9.357c-0.197 0-0.357-0.16-0.357-0.357s0.16-0.357 0.357-0.357 0.357 0.16 0.357 0.357-0.16 0.357-0.357 0.357z" fill="#000000" />
+</svg>
+	<a role="button" tabindex="0" name="add-to-wishlist" aria-label="Add to Wishlist" data-tinv-wl-list="[]" data-tinv-wl-product="299" data-tinv-wl-productvariation="0" data-tinv-wl-productvariations="[]" data-tinv-wl-producttype="variable" data-tinv-wl-action="add">Add to Wishlist</a>		Add to Wishlist
+		<a href="https://demo.woostify.com/fashion2/product/yoge-the-cotton-shirt/">				
+				<img width="300" height="300" src="https://demo.woostify.com/fashion2/wp-content/uploads/sites/17/2019/01/2-1-300x300.jpg" alt="Product image" decoding="async" loading="lazy" srcset="https://demo.woostify.com/fashion2/wp-content/uploads/sites/17/2019/01/2-1-300x300.jpg 300w, https://demo.woostify.com/fashion2/wp-content/uploads/sites/17/2019/01/2-1-150x150.jpg 150w, https://demo.woostify.com/fashion2/wp-content/uploads/sites/17/2019/01/2-1-100x100.jpg 100w" sizes="(max-width: 300px) 100vw, 300px" /></a>		<h2>
+			<a href="https://demo.woostify.com/fashion2/product/yoge-the-cotton-shirt/">Yoge The cotton Shirt</a>		</h2>
 					&pound;34.00
-			<a href="https://woostify.com/demos/pro/fashion2/product/yoge-the-cotton-shirt/" data-quantity="1" data-product_id="299" data-product_sku="" title="Select options for &ldquo;Yoge The cotton Shirt&rdquo;" rel="nofollow">Select options</a>		
+			<a href="https://demo.woostify.com/fashion2/product/yoge-the-cotton-shirt/" data-quantity="1" data-product_id="299" data-product_sku="" title="Select options for &ldquo;Yoge The cotton Shirt&rdquo;" rel="nofollow"><svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   width="17"
+   height="17"
+   viewBox="0 0 17 17"
+   id="svg50"
+   sodipodi:docname="shopping-cart-2.svg"
+   inkscape:version="1.0.2-2 (e86c870879, 2021-01-15)">
+  <metadata
+     id="metadata56">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs54" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="2400"
+     inkscape:window-height="1271"
+     id="namedview52"
+     showgrid="false"
+     inkscape:zoom="48.823529"
+     inkscape:cx="8.5"
+     inkscape:cy="8.5"
+     inkscape:window-x="2391"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg50" />
+  <g
+     id="g46"
+     transform="matrix(-1,0,0,1,16.926,0)" />
+  <path
+     d="m 14.176,12.5 c 0.965,0 1.75,0.785 1.75,1.75 0,0.965 -0.785,1.75 -1.75,1.75 -0.965,0 -1.75,-0.785 -1.75,-1.75 0,-0.965 0.785,-1.75 1.75,-1.75 z m 0,2.5 c 0.414,0 0.75,-0.337 0.75,-0.75 0,-0.413 -0.336,-0.75 -0.75,-0.75 -0.414,0 -0.75,0.337 -0.75,0.75 0,0.413 0.336,0.75 0.75,0.75 z m -8.5,-2.5 c 0.965,0 1.75,0.785 1.75,1.75 0,0.965 -0.785,1.75 -1.75,1.75 -0.965,0 -1.75,-0.785 -1.75,-1.75 0,-0.965 0.785,-1.75 1.75,-1.75 z m 0,2.5 c 0.414,0 0.75,-0.337 0.75,-0.75 0,-0.413 -0.336,-0.75 -0.75,-0.75 -0.414,0 -0.75,0.337 -0.75,0.75 0,0.413 0.336,0.75 0.75,0.75 z M 3.555,2 3.857,4 H 17 l -1.118,8.036 H 3.969 L 2.931,4.573 2.695,3 H -0.074 V 2 Z M 4,5 4.139,6 H 15.713 L 15.852,5 Z M 15.012,11.036 15.573,7 H 4.278 l 0.561,4.036 z"
+     fill="#000000"
+     id="path48" />
+</svg>
+Select options</a>
+	<a role="button" tabindex="0" name="add-to-wishlist" aria-label="Add to Wishlist" data-tinv-wl-list="[]" data-tinv-wl-product="299" data-tinv-wl-productvariation="0" data-tinv-wl-productvariations="[433,0]" data-tinv-wl-producttype="variable" data-tinv-wl-action="add">Add to Wishlist</a>				<input name="attribute_pa_size" type="hidden" value="m"/>
+						Add to Wishlist
 		</li>
 <li>
 				-13%			
-	<a href="javascript:void(0)" data-tinv-wl-list="[{&quot;ID&quot;:1,&quot;title&quot;:&quot;Default wishlist&quot;,&quot;url&quot;:&quot;&quot;,&quot;in&quot;:false}]" data-tinv-wl-product="323" data-tinv-wl-productvariation="0" data-tinv-wl-producttype="simple" data-tinv-wl-action="addto" rel="nofollow">Add to Wishlist</a>		Add to Wishlist
-		<a href="https://woostify.com/demos/pro/fashion2/product/langarmshirt/">				
-			<img width="300" height="300" src="https://woostify.com/demos/pro/fashion2/wp-content/uploads/sites/17/2019/01/9-1-300x300.jpg" alt="Product image" data-src="https://woostify.com/demos/pro/fashion2/wp-content/uploads/sites/17/2019/01/9-1-300x300.jpg" srcset="https://woostify.com/demos/pro/fashion2/wp-content/uploads/sites/17/2019/01/9-1-300x300.jpg 300w, https://woostify.com/demos/pro/fashion2/wp-content/uploads/sites/17/2019/01/9-1-150x150.jpg 150w, https://woostify.com/demos/pro/fashion2/wp-content/uploads/sites/17/2019/01/9-1-100x100.jpg 100w" sizes="(max-width: 300px) 100vw, 300px" /></a>		<h2>
-			<a href="https://woostify.com/demos/pro/fashion2/product/langarmshirt/">Langarmshirt</a>		</h2>
-					<del>&pound;40.00</del> <ins>&pound;35.00</ins>
-			<a href="?add-to-cart=323" data-quantity="1" data-product_id="323" data-product_sku="" title="Add &ldquo;Langarmshirt&rdquo; to your cart" rel="nofollow">Add to cart</a>		
+			<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="17" height="17" viewBox="0 0 17 17">
+<g>
+</g>
+	<path d="M16.965 8.817c-1.284-3.267-4.687-5.463-8.465-5.463s-7.181 2.196-8.465 5.463c-0.046 0.117-0.046 0.248 0 0.365 1.285 3.268 4.687 5.464 8.465 5.464s7.18-2.195 8.465-5.463c0.047-0.118 0.047-0.248 0-0.366zM8.5 13.646c-3.298 0-6.269-1.859-7.459-4.646 1.189-2.787 4.16-4.646 7.459-4.646s6.27 1.859 7.459 4.646c-1.19 2.786-4.161 4.646-7.459 4.646zM8.5 5.357c-2.009 0-3.643 1.634-3.643 3.643s1.634 3.643 3.644 3.643c2.008 0 3.643-1.634 3.643-3.643s-1.635-3.643-3.644-3.643zM8.5 11.643c-1.458 0-2.644-1.186-2.644-2.643s1.187-2.643 2.644-2.643c1.457 0 2.643 1.186 2.643 2.643s-1.185 2.643-2.643 2.643zM8.5 7.643c-0.748 0-1.357 0.609-1.357 1.357s0.609 1.357 1.357 1.357 1.357-0.609 1.357-1.357-0.609-1.357-1.357-1.357zM8.5 9.357c-0.197 0-0.357-0.16-0.357-0.357s0.16-0.357 0.357-0.357 0.357 0.16 0.357 0.357-0.16 0.357-0.357 0.357z" fill="#000000" />
+</svg>
+	<a role="button" tabindex="0" name="add-to-wishlist" aria-label="Add to Wishlist" data-tinv-wl-list="[]" data-tinv-wl-product="323" data-tinv-wl-productvariation="0" data-tinv-wl-productvariations="[]" data-tinv-wl-producttype="simple" data-tinv-wl-action="add">Add to Wishlist</a>		Add to Wishlist
+		<a href="https://demo.woostify.com/fashion2/product/langarmshirt/">				
+				<img width="300" height="300" src="https://demo.woostify.com/fashion2/wp-content/uploads/sites/17/2019/01/9-1-300x300.jpg" alt="Product image" decoding="async" loading="lazy" srcset="https://demo.woostify.com/fashion2/wp-content/uploads/sites/17/2019/01/9-1-300x300.jpg 300w, https://demo.woostify.com/fashion2/wp-content/uploads/sites/17/2019/01/9-1-150x150.jpg 150w, https://demo.woostify.com/fashion2/wp-content/uploads/sites/17/2019/01/9-1-100x100.jpg 100w" sizes="(max-width: 300px) 100vw, 300px" /></a>		<h2>
+			<a href="https://demo.woostify.com/fashion2/product/langarmshirt/">Langarmshirt</a>		</h2>
+					<del aria-hidden="true">&pound;40.00</del> <ins>&pound;35.00</ins>
+			<a href="?add-to-cart=323" data-quantity="1" data-product_id="323" data-product_sku="" title="Add &ldquo;Langarmshirt&rdquo; to your cart" rel="nofollow"><svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   width="17"
+   height="17"
+   viewBox="0 0 17 17"
+   id="svg50"
+   sodipodi:docname="shopping-cart-2.svg"
+   inkscape:version="1.0.2-2 (e86c870879, 2021-01-15)">
+  <metadata
+     id="metadata56">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs54" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="2400"
+     inkscape:window-height="1271"
+     id="namedview52"
+     showgrid="false"
+     inkscape:zoom="48.823529"
+     inkscape:cx="8.5"
+     inkscape:cy="8.5"
+     inkscape:window-x="2391"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg50" />
+  <g
+     id="g46"
+     transform="matrix(-1,0,0,1,16.926,0)" />
+  <path
+     d="m 14.176,12.5 c 0.965,0 1.75,0.785 1.75,1.75 0,0.965 -0.785,1.75 -1.75,1.75 -0.965,0 -1.75,-0.785 -1.75,-1.75 0,-0.965 0.785,-1.75 1.75,-1.75 z m 0,2.5 c 0.414,0 0.75,-0.337 0.75,-0.75 0,-0.413 -0.336,-0.75 -0.75,-0.75 -0.414,0 -0.75,0.337 -0.75,0.75 0,0.413 0.336,0.75 0.75,0.75 z m -8.5,-2.5 c 0.965,0 1.75,0.785 1.75,1.75 0,0.965 -0.785,1.75 -1.75,1.75 -0.965,0 -1.75,-0.785 -1.75,-1.75 0,-0.965 0.785,-1.75 1.75,-1.75 z m 0,2.5 c 0.414,0 0.75,-0.337 0.75,-0.75 0,-0.413 -0.336,-0.75 -0.75,-0.75 -0.414,0 -0.75,0.337 -0.75,0.75 0,0.413 0.336,0.75 0.75,0.75 z M 3.555,2 3.857,4 H 17 l -1.118,8.036 H 3.969 L 2.931,4.573 2.695,3 H -0.074 V 2 Z M 4,5 4.139,6 H 15.713 L 15.852,5 Z M 15.012,11.036 15.573,7 H 4.278 l 0.561,4.036 z"
+     fill="#000000"
+     id="path48" />
+</svg>
+Add to cart</a>
+	<a role="button" tabindex="0" name="add-to-wishlist" aria-label="Add to Wishlist" data-tinv-wl-list="[]" data-tinv-wl-product="323" data-tinv-wl-productvariation="0" data-tinv-wl-productvariations="[]" data-tinv-wl-producttype="simple" data-tinv-wl-action="add">Add to Wishlist</a>		Add to Wishlist
 		</li>
 <li>
-	<a href="javascript:void(0)" data-tinv-wl-list="[{&quot;ID&quot;:1,&quot;title&quot;:&quot;Default wishlist&quot;,&quot;url&quot;:&quot;&quot;,&quot;in&quot;:false}]" data-tinv-wl-product="324" data-tinv-wl-productvariation="0" data-tinv-wl-producttype="simple" data-tinv-wl-action="addto" rel="nofollow">Add to Wishlist</a>		Add to Wishlist
-		<a href="https://woostify.com/demos/pro/fashion2/product/gfast-spliced-leggings-in-performance-cotton/">				
-			<img width="300" height="300" src="https://woostify.com/demos/pro/fashion2/wp-content/uploads/sites/17/2019/01/6-1-300x300.jpg" alt="Product image" data-src="https://woostify.com/demos/pro/fashion2/wp-content/uploads/sites/17/2019/01/6-1-300x300.jpg" srcset="https://woostify.com/demos/pro/fashion2/wp-content/uploads/sites/17/2019/01/6-1-300x300.jpg 300w, https://woostify.com/demos/pro/fashion2/wp-content/uploads/sites/17/2019/01/6-1-150x150.jpg 150w, https://woostify.com/demos/pro/fashion2/wp-content/uploads/sites/17/2019/01/6-1-100x100.jpg 100w" sizes="(max-width: 300px) 100vw, 300px" /></a>		<h2>
-			<a href="https://woostify.com/demos/pro/fashion2/product/gfast-spliced-leggings-in-performance-cotton/">GFast Spliced Leggings in Performance Cotton</a>		</h2>
+			<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="17" height="17" viewBox="0 0 17 17">
+<g>
+</g>
+	<path d="M16.965 8.817c-1.284-3.267-4.687-5.463-8.465-5.463s-7.181 2.196-8.465 5.463c-0.046 0.117-0.046 0.248 0 0.365 1.285 3.268 4.687 5.464 8.465 5.464s7.18-2.195 8.465-5.463c0.047-0.118 0.047-0.248 0-0.366zM8.5 13.646c-3.298 0-6.269-1.859-7.459-4.646 1.189-2.787 4.16-4.646 7.459-4.646s6.27 1.859 7.459 4.646c-1.19 2.786-4.161 4.646-7.459 4.646zM8.5 5.357c-2.009 0-3.643 1.634-3.643 3.643s1.634 3.643 3.644 3.643c2.008 0 3.643-1.634 3.643-3.643s-1.635-3.643-3.644-3.643zM8.5 11.643c-1.458 0-2.644-1.186-2.644-2.643s1.187-2.643 2.644-2.643c1.457 0 2.643 1.186 2.643 2.643s-1.185 2.643-2.643 2.643zM8.5 7.643c-0.748 0-1.357 0.609-1.357 1.357s0.609 1.357 1.357 1.357 1.357-0.609 1.357-1.357-0.609-1.357-1.357-1.357zM8.5 9.357c-0.197 0-0.357-0.16-0.357-0.357s0.16-0.357 0.357-0.357 0.357 0.16 0.357 0.357-0.16 0.357-0.357 0.357z" fill="#000000" />
+</svg>
+	<a role="button" tabindex="0" name="add-to-wishlist" aria-label="Add to Wishlist" data-tinv-wl-list="[]" data-tinv-wl-product="324" data-tinv-wl-productvariation="0" data-tinv-wl-productvariations="[]" data-tinv-wl-producttype="simple" data-tinv-wl-action="add">Add to Wishlist</a>		Add to Wishlist
+		<a href="https://demo.woostify.com/fashion2/product/gfast-spliced-leggings-in-performance-cotton/">				
+				<img width="300" height="300" src="https://demo.woostify.com/fashion2/wp-content/uploads/sites/17/2019/01/6-1-300x300.jpg" alt="Product image" decoding="async" loading="lazy" srcset="https://demo.woostify.com/fashion2/wp-content/uploads/sites/17/2019/01/6-1-300x300.jpg 300w, https://demo.woostify.com/fashion2/wp-content/uploads/sites/17/2019/01/6-1-150x150.jpg 150w, https://demo.woostify.com/fashion2/wp-content/uploads/sites/17/2019/01/6-1-100x100.jpg 100w" sizes="(max-width: 300px) 100vw, 300px" /></a>		<h2>
+			<a href="https://demo.woostify.com/fashion2/product/gfast-spliced-leggings-in-performance-cotton/">GFast Spliced Leggings in Performance Cotton</a>		</h2>
 					&pound;42.00
-			<a href="?add-to-cart=324" data-quantity="1" data-product_id="324" data-product_sku="" title="Add &ldquo;GFast Spliced Leggings in Performance Cotton&rdquo; to your cart" rel="nofollow">Add to cart</a>		
+			<a href="?add-to-cart=324" data-quantity="1" data-product_id="324" data-product_sku="" title="Add &ldquo;GFast Spliced Leggings in Performance Cotton&rdquo; to your cart" rel="nofollow"><svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   width="17"
+   height="17"
+   viewBox="0 0 17 17"
+   id="svg50"
+   sodipodi:docname="shopping-cart-2.svg"
+   inkscape:version="1.0.2-2 (e86c870879, 2021-01-15)">
+  <metadata
+     id="metadata56">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs54" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="2400"
+     inkscape:window-height="1271"
+     id="namedview52"
+     showgrid="false"
+     inkscape:zoom="48.823529"
+     inkscape:cx="8.5"
+     inkscape:cy="8.5"
+     inkscape:window-x="2391"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg50" />
+  <g
+     id="g46"
+     transform="matrix(-1,0,0,1,16.926,0)" />
+  <path
+     d="m 14.176,12.5 c 0.965,0 1.75,0.785 1.75,1.75 0,0.965 -0.785,1.75 -1.75,1.75 -0.965,0 -1.75,-0.785 -1.75,-1.75 0,-0.965 0.785,-1.75 1.75,-1.75 z m 0,2.5 c 0.414,0 0.75,-0.337 0.75,-0.75 0,-0.413 -0.336,-0.75 -0.75,-0.75 -0.414,0 -0.75,0.337 -0.75,0.75 0,0.413 0.336,0.75 0.75,0.75 z m -8.5,-2.5 c 0.965,0 1.75,0.785 1.75,1.75 0,0.965 -0.785,1.75 -1.75,1.75 -0.965,0 -1.75,-0.785 -1.75,-1.75 0,-0.965 0.785,-1.75 1.75,-1.75 z m 0,2.5 c 0.414,0 0.75,-0.337 0.75,-0.75 0,-0.413 -0.336,-0.75 -0.75,-0.75 -0.414,0 -0.75,0.337 -0.75,0.75 0,0.413 0.336,0.75 0.75,0.75 z M 3.555,2 3.857,4 H 17 l -1.118,8.036 H 3.969 L 2.931,4.573 2.695,3 H -0.074 V 2 Z M 4,5 4.139,6 H 15.713 L 15.852,5 Z M 15.012,11.036 15.573,7 H 4.278 l 0.561,4.036 z"
+     fill="#000000"
+     id="path48" />
+</svg>
+Add to cart</a>
+	<a role="button" tabindex="0" name="add-to-wishlist" aria-label="Add to Wishlist" data-tinv-wl-list="[]" data-tinv-wl-product="324" data-tinv-wl-productvariation="0" data-tinv-wl-productvariations="[]" data-tinv-wl-producttype="simple" data-tinv-wl-action="add">Add to Wishlist</a>		Add to Wishlist
 		</li>
 <li>
-	<a href="javascript:void(0)" data-tinv-wl-list="[{&quot;ID&quot;:1,&quot;title&quot;:&quot;Default wishlist&quot;,&quot;url&quot;:&quot;&quot;,&quot;in&quot;:false}]" data-tinv-wl-product="325" data-tinv-wl-productvariation="0" data-tinv-wl-producttype="simple" data-tinv-wl-action="addto" rel="nofollow">Add to Wishlist</a>		Add to Wishlist
-		<a href="https://woostify.com/demos/pro/fashion2/product/knot-back-tank-top/">				
-			<img width="300" height="300" src="https://woostify.com/demos/pro/fashion2/wp-content/uploads/sites/17/2019/01/8-1-300x300.jpg" alt="Product image" data-src="https://woostify.com/demos/pro/fashion2/wp-content/uploads/sites/17/2019/01/8-1-300x300.jpg" srcset="https://woostify.com/demos/pro/fashion2/wp-content/uploads/sites/17/2019/01/8-1-300x300.jpg 300w, https://woostify.com/demos/pro/fashion2/wp-content/uploads/sites/17/2019/01/8-1-150x150.jpg 150w, https://woostify.com/demos/pro/fashion2/wp-content/uploads/sites/17/2019/01/8-1-100x100.jpg 100w" sizes="(max-width: 300px) 100vw, 300px" /></a>		<h2>
-			<a href="https://woostify.com/demos/pro/fashion2/product/knot-back-tank-top/">Knot-Back Tank Top</a>		</h2>
+			<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="17" height="17" viewBox="0 0 17 17">
+<g>
+</g>
+	<path d="M16.965 8.817c-1.284-3.267-4.687-5.463-8.465-5.463s-7.181 2.196-8.465 5.463c-0.046 0.117-0.046 0.248 0 0.365 1.285 3.268 4.687 5.464 8.465 5.464s7.18-2.195 8.465-5.463c0.047-0.118 0.047-0.248 0-0.366zM8.5 13.646c-3.298 0-6.269-1.859-7.459-4.646 1.189-2.787 4.16-4.646 7.459-4.646s6.27 1.859 7.459 4.646c-1.19 2.786-4.161 4.646-7.459 4.646zM8.5 5.357c-2.009 0-3.643 1.634-3.643 3.643s1.634 3.643 3.644 3.643c2.008 0 3.643-1.634 3.643-3.643s-1.635-3.643-3.644-3.643zM8.5 11.643c-1.458 0-2.644-1.186-2.644-2.643s1.187-2.643 2.644-2.643c1.457 0 2.643 1.186 2.643 2.643s-1.185 2.643-2.643 2.643zM8.5 7.643c-0.748 0-1.357 0.609-1.357 1.357s0.609 1.357 1.357 1.357 1.357-0.609 1.357-1.357-0.609-1.357-1.357-1.357zM8.5 9.357c-0.197 0-0.357-0.16-0.357-0.357s0.16-0.357 0.357-0.357 0.357 0.16 0.357 0.357-0.16 0.357-0.357 0.357z" fill="#000000" />
+</svg>
+	<a role="button" tabindex="0" name="add-to-wishlist" aria-label="Add to Wishlist" data-tinv-wl-list="[]" data-tinv-wl-product="325" data-tinv-wl-productvariation="0" data-tinv-wl-productvariations="[]" data-tinv-wl-producttype="simple" data-tinv-wl-action="add">Add to Wishlist</a>		Add to Wishlist
+		<a href="https://demo.woostify.com/fashion2/product/knot-back-tank-top/">				
+				<img width="300" height="300" src="https://demo.woostify.com/fashion2/wp-content/uploads/sites/17/2019/01/8-1-300x300.jpg" alt="Product image" decoding="async" loading="lazy" srcset="https://demo.woostify.com/fashion2/wp-content/uploads/sites/17/2019/01/8-1-300x300.jpg 300w, https://demo.woostify.com/fashion2/wp-content/uploads/sites/17/2019/01/8-1-150x150.jpg 150w, https://demo.woostify.com/fashion2/wp-content/uploads/sites/17/2019/01/8-1-100x100.jpg 100w" sizes="(max-width: 300px) 100vw, 300px" /></a>		<h2>
+			<a href="https://demo.woostify.com/fashion2/product/knot-back-tank-top/">Knot-Back Tank Top</a>		</h2>
 					&pound;18.00
-			<a href="?add-to-cart=325" data-quantity="1" data-product_id="325" data-product_sku="" title="Add &ldquo;Knot-Back Tank Top&rdquo; to your cart" rel="nofollow">Add to cart</a>		
+			<a href="?add-to-cart=325" data-quantity="1" data-product_id="325" data-product_sku="" title="Add &ldquo;Knot-Back Tank Top&rdquo; to your cart" rel="nofollow"><svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   width="17"
+   height="17"
+   viewBox="0 0 17 17"
+   id="svg50"
+   sodipodi:docname="shopping-cart-2.svg"
+   inkscape:version="1.0.2-2 (e86c870879, 2021-01-15)">
+  <metadata
+     id="metadata56">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs54" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="2400"
+     inkscape:window-height="1271"
+     id="namedview52"
+     showgrid="false"
+     inkscape:zoom="48.823529"
+     inkscape:cx="8.5"
+     inkscape:cy="8.5"
+     inkscape:window-x="2391"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg50" />
+  <g
+     id="g46"
+     transform="matrix(-1,0,0,1,16.926,0)" />
+  <path
+     d="m 14.176,12.5 c 0.965,0 1.75,0.785 1.75,1.75 0,0.965 -0.785,1.75 -1.75,1.75 -0.965,0 -1.75,-0.785 -1.75,-1.75 0,-0.965 0.785,-1.75 1.75,-1.75 z m 0,2.5 c 0.414,0 0.75,-0.337 0.75,-0.75 0,-0.413 -0.336,-0.75 -0.75,-0.75 -0.414,0 -0.75,0.337 -0.75,0.75 0,0.413 0.336,0.75 0.75,0.75 z m -8.5,-2.5 c 0.965,0 1.75,0.785 1.75,1.75 0,0.965 -0.785,1.75 -1.75,1.75 -0.965,0 -1.75,-0.785 -1.75,-1.75 0,-0.965 0.785,-1.75 1.75,-1.75 z m 0,2.5 c 0.414,0 0.75,-0.337 0.75,-0.75 0,-0.413 -0.336,-0.75 -0.75,-0.75 -0.414,0 -0.75,0.337 -0.75,0.75 0,0.413 0.336,0.75 0.75,0.75 z M 3.555,2 3.857,4 H 17 l -1.118,8.036 H 3.969 L 2.931,4.573 2.695,3 H -0.074 V 2 Z M 4,5 4.139,6 H 15.713 L 15.852,5 Z M 15.012,11.036 15.573,7 H 4.278 l 0.561,4.036 z"
+     fill="#000000"
+     id="path48" />
+</svg>
+Add to cart</a>
+	<a role="button" tabindex="0" name="add-to-wishlist" aria-label="Add to Wishlist" data-tinv-wl-list="[]" data-tinv-wl-product="325" data-tinv-wl-productvariation="0" data-tinv-wl-productvariations="[]" data-tinv-wl-producttype="simple" data-tinv-wl-action="add">Add to Wishlist</a>		Add to Wishlist
 		</li>
 <li>
-	<a href="javascript:void(0)" data-tinv-wl-list="[{&quot;ID&quot;:1,&quot;title&quot;:&quot;Default wishlist&quot;,&quot;url&quot;:&quot;&quot;,&quot;in&quot;:false}]" data-tinv-wl-product="326" data-tinv-wl-productvariation="0" data-tinv-wl-producttype="simple" data-tinv-wl-action="addto" rel="nofollow">Add to Wishlist</a>		Add to Wishlist
-		<a href="https://woostify.com/demos/pro/fashion2/product/black-utility-pocket-skinny-stretch-trousers/">				
-			<img width="300" height="300" src="https://woostify.com/demos/pro/fashion2/wp-content/uploads/sites/17/2019/01/7-1-300x300.jpg" alt="Product image" data-src="https://woostify.com/demos/pro/fashion2/wp-content/uploads/sites/17/2019/01/7-1-300x300.jpg" srcset="https://woostify.com/demos/pro/fashion2/wp-content/uploads/sites/17/2019/01/7-1-300x300.jpg 300w, https://woostify.com/demos/pro/fashion2/wp-content/uploads/sites/17/2019/01/7-1-150x150.jpg 150w, https://woostify.com/demos/pro/fashion2/wp-content/uploads/sites/17/2019/01/7-1-100x100.jpg 100w" sizes="(max-width: 300px) 100vw, 300px" /></a>		<h2>
-			<a href="https://woostify.com/demos/pro/fashion2/product/black-utility-pocket-skinny-stretch-trousers/">Black Utility Pocket Skinny Stretch Trousers</a>		</h2>
+			<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="17" height="17" viewBox="0 0 17 17">
+<g>
+</g>
+	<path d="M16.965 8.817c-1.284-3.267-4.687-5.463-8.465-5.463s-7.181 2.196-8.465 5.463c-0.046 0.117-0.046 0.248 0 0.365 1.285 3.268 4.687 5.464 8.465 5.464s7.18-2.195 8.465-5.463c0.047-0.118 0.047-0.248 0-0.366zM8.5 13.646c-3.298 0-6.269-1.859-7.459-4.646 1.189-2.787 4.16-4.646 7.459-4.646s6.27 1.859 7.459 4.646c-1.19 2.786-4.161 4.646-7.459 4.646zM8.5 5.357c-2.009 0-3.643 1.634-3.643 3.643s1.634 3.643 3.644 3.643c2.008 0 3.643-1.634 3.643-3.643s-1.635-3.643-3.644-3.643zM8.5 11.643c-1.458 0-2.644-1.186-2.644-2.643s1.187-2.643 2.644-2.643c1.457 0 2.643 1.186 2.643 2.643s-1.185 2.643-2.643 2.643zM8.5 7.643c-0.748 0-1.357 0.609-1.357 1.357s0.609 1.357 1.357 1.357 1.357-0.609 1.357-1.357-0.609-1.357-1.357-1.357zM8.5 9.357c-0.197 0-0.357-0.16-0.357-0.357s0.16-0.357 0.357-0.357 0.357 0.16 0.357 0.357-0.16 0.357-0.357 0.357z" fill="#000000" />
+</svg>
+	<a role="button" tabindex="0" name="add-to-wishlist" aria-label="Add to Wishlist" data-tinv-wl-list="[]" data-tinv-wl-product="326" data-tinv-wl-productvariation="0" data-tinv-wl-productvariations="[]" data-tinv-wl-producttype="simple" data-tinv-wl-action="add">Add to Wishlist</a>		Add to Wishlist
+		<a href="https://demo.woostify.com/fashion2/product/black-utility-pocket-skinny-stretch-trousers/">				
+				<img width="300" height="300" src="https://demo.woostify.com/fashion2/wp-content/uploads/sites/17/2019/01/7-1-300x300.jpg" alt="Product image" decoding="async" loading="lazy" srcset="https://demo.woostify.com/fashion2/wp-content/uploads/sites/17/2019/01/7-1-300x300.jpg 300w, https://demo.woostify.com/fashion2/wp-content/uploads/sites/17/2019/01/7-1-150x150.jpg 150w, https://demo.woostify.com/fashion2/wp-content/uploads/sites/17/2019/01/7-1-100x100.jpg 100w" sizes="(max-width: 300px) 100vw, 300px" /></a>		<h2>
+			<a href="https://demo.woostify.com/fashion2/product/black-utility-pocket-skinny-stretch-trousers/">Black Utility Pocket Skinny Stretch Trousers</a>		</h2>
 					&pound;30.00
-			<a href="?add-to-cart=326" data-quantity="1" data-product_id="326" data-product_sku="" title="Add &ldquo;Black Utility Pocket Skinny Stretch Trousers&rdquo; to your cart" rel="nofollow">Add to cart</a>		
+			<a href="?add-to-cart=326" data-quantity="1" data-product_id="326" data-product_sku="" title="Add &ldquo;Black Utility Pocket Skinny Stretch Trousers&rdquo; to your cart" rel="nofollow"><svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   width="17"
+   height="17"
+   viewBox="0 0 17 17"
+   id="svg50"
+   sodipodi:docname="shopping-cart-2.svg"
+   inkscape:version="1.0.2-2 (e86c870879, 2021-01-15)">
+  <metadata
+     id="metadata56">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs54" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="2400"
+     inkscape:window-height="1271"
+     id="namedview52"
+     showgrid="false"
+     inkscape:zoom="48.823529"
+     inkscape:cx="8.5"
+     inkscape:cy="8.5"
+     inkscape:window-x="2391"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg50" />
+  <g
+     id="g46"
+     transform="matrix(-1,0,0,1,16.926,0)" />
+  <path
+     d="m 14.176,12.5 c 0.965,0 1.75,0.785 1.75,1.75 0,0.965 -0.785,1.75 -1.75,1.75 -0.965,0 -1.75,-0.785 -1.75,-1.75 0,-0.965 0.785,-1.75 1.75,-1.75 z m 0,2.5 c 0.414,0 0.75,-0.337 0.75,-0.75 0,-0.413 -0.336,-0.75 -0.75,-0.75 -0.414,0 -0.75,0.337 -0.75,0.75 0,0.413 0.336,0.75 0.75,0.75 z m -8.5,-2.5 c 0.965,0 1.75,0.785 1.75,1.75 0,0.965 -0.785,1.75 -1.75,1.75 -0.965,0 -1.75,-0.785 -1.75,-1.75 0,-0.965 0.785,-1.75 1.75,-1.75 z m 0,2.5 c 0.414,0 0.75,-0.337 0.75,-0.75 0,-0.413 -0.336,-0.75 -0.75,-0.75 -0.414,0 -0.75,0.337 -0.75,0.75 0,0.413 0.336,0.75 0.75,0.75 z M 3.555,2 3.857,4 H 17 l -1.118,8.036 H 3.969 L 2.931,4.573 2.695,3 H -0.074 V 2 Z M 4,5 4.139,6 H 15.713 L 15.852,5 Z M 15.012,11.036 15.573,7 H 4.278 l 0.561,4.036 z"
+     fill="#000000"
+     id="path48" />
+</svg>
+Add to cart</a>
+	<a role="button" tabindex="0" name="add-to-wishlist" aria-label="Add to Wishlist" data-tinv-wl-list="[]" data-tinv-wl-product="326" data-tinv-wl-productvariation="0" data-tinv-wl-productvariations="[]" data-tinv-wl-producttype="simple" data-tinv-wl-action="add">Add to Wishlist</a>		Add to Wishlist
 		</li>
 <li>
 				-23%			
-	<a href="javascript:void(0)" data-tinv-wl-list="[{&quot;ID&quot;:1,&quot;title&quot;:&quot;Default wishlist&quot;,&quot;url&quot;:&quot;&quot;,&quot;in&quot;:false}]" data-tinv-wl-product="327" data-tinv-wl-productvariation="0" data-tinv-wl-producttype="simple" data-tinv-wl-action="addto" rel="nofollow">Add to Wishlist</a>		Add to Wishlist
-		<a href="https://woostify.com/demos/pro/fashion2/product/gapfit-medium-impact-shelf-tank-top/">				
-			<img width="300" height="300" src="https://woostify.com/demos/pro/fashion2/wp-content/uploads/sites/17/2019/01/5-1-300x300.jpg" alt="Product image" data-src="https://woostify.com/demos/pro/fashion2/wp-content/uploads/sites/17/2019/01/5-1-300x300.jpg" srcset="https://woostify.com/demos/pro/fashion2/wp-content/uploads/sites/17/2019/01/5-1-300x300.jpg 300w, https://woostify.com/demos/pro/fashion2/wp-content/uploads/sites/17/2019/01/5-1-150x150.jpg 150w, https://woostify.com/demos/pro/fashion2/wp-content/uploads/sites/17/2019/01/5-1-100x100.jpg 100w" sizes="(max-width: 300px) 100vw, 300px" /></a>		<h2>
-			<a href="https://woostify.com/demos/pro/fashion2/product/gapfit-medium-impact-shelf-tank-top/">GapFit Medium Impact Shelf Tank Top</a>		</h2>
-		Rated <strong>5.00</strong> out of 5			<del>&pound;35.00</del> <ins>&pound;27.00</ins>
-			<a href="?add-to-cart=327" data-quantity="1" data-product_id="327" data-product_sku="" title="Add &ldquo;GapFit Medium Impact Shelf Tank Top&rdquo; to your cart" rel="nofollow">Add to cart</a>		
+			<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="17" height="17" viewBox="0 0 17 17">
+<g>
+</g>
+	<path d="M16.965 8.817c-1.284-3.267-4.687-5.463-8.465-5.463s-7.181 2.196-8.465 5.463c-0.046 0.117-0.046 0.248 0 0.365 1.285 3.268 4.687 5.464 8.465 5.464s7.18-2.195 8.465-5.463c0.047-0.118 0.047-0.248 0-0.366zM8.5 13.646c-3.298 0-6.269-1.859-7.459-4.646 1.189-2.787 4.16-4.646 7.459-4.646s6.27 1.859 7.459 4.646c-1.19 2.786-4.161 4.646-7.459 4.646zM8.5 5.357c-2.009 0-3.643 1.634-3.643 3.643s1.634 3.643 3.644 3.643c2.008 0 3.643-1.634 3.643-3.643s-1.635-3.643-3.644-3.643zM8.5 11.643c-1.458 0-2.644-1.186-2.644-2.643s1.187-2.643 2.644-2.643c1.457 0 2.643 1.186 2.643 2.643s-1.185 2.643-2.643 2.643zM8.5 7.643c-0.748 0-1.357 0.609-1.357 1.357s0.609 1.357 1.357 1.357 1.357-0.609 1.357-1.357-0.609-1.357-1.357-1.357zM8.5 9.357c-0.197 0-0.357-0.16-0.357-0.357s0.16-0.357 0.357-0.357 0.357 0.16 0.357 0.357-0.16 0.357-0.357 0.357z" fill="#000000" />
+</svg>
+	<a role="button" tabindex="0" name="add-to-wishlist" aria-label="Add to Wishlist" data-tinv-wl-list="[]" data-tinv-wl-product="327" data-tinv-wl-productvariation="0" data-tinv-wl-productvariations="[]" data-tinv-wl-producttype="simple" data-tinv-wl-action="add">Add to Wishlist</a>		Add to Wishlist
+		<a href="https://demo.woostify.com/fashion2/product/gapfit-medium-impact-shelf-tank-top/">				
+				<img width="300" height="300" src="https://demo.woostify.com/fashion2/wp-content/uploads/sites/17/2019/01/5-1-300x300.jpg" alt="Product image" decoding="async" loading="lazy" srcset="https://demo.woostify.com/fashion2/wp-content/uploads/sites/17/2019/01/5-1-300x300.jpg 300w, https://demo.woostify.com/fashion2/wp-content/uploads/sites/17/2019/01/5-1-150x150.jpg 150w, https://demo.woostify.com/fashion2/wp-content/uploads/sites/17/2019/01/5-1-100x100.jpg 100w" sizes="(max-width: 300px) 100vw, 300px" /></a>		<h2>
+			<a href="https://demo.woostify.com/fashion2/product/gapfit-medium-impact-shelf-tank-top/">GapFit Medium Impact Shelf Tank Top</a>		</h2>
+		Rated <strong>5.00</strong> out of 5			<del aria-hidden="true">&pound;35.00</del> <ins>&pound;27.00</ins>
+			<a href="?add-to-cart=327" data-quantity="1" data-product_id="327" data-product_sku="" title="Add &ldquo;GapFit Medium Impact Shelf Tank Top&rdquo; to your cart" rel="nofollow"><svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   width="17"
+   height="17"
+   viewBox="0 0 17 17"
+   id="svg50"
+   sodipodi:docname="shopping-cart-2.svg"
+   inkscape:version="1.0.2-2 (e86c870879, 2021-01-15)">
+  <metadata
+     id="metadata56">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs54" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="2400"
+     inkscape:window-height="1271"
+     id="namedview52"
+     showgrid="false"
+     inkscape:zoom="48.823529"
+     inkscape:cx="8.5"
+     inkscape:cy="8.5"
+     inkscape:window-x="2391"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg50" />
+  <g
+     id="g46"
+     transform="matrix(-1,0,0,1,16.926,0)" />
+  <path
+     d="m 14.176,12.5 c 0.965,0 1.75,0.785 1.75,1.75 0,0.965 -0.785,1.75 -1.75,1.75 -0.965,0 -1.75,-0.785 -1.75,-1.75 0,-0.965 0.785,-1.75 1.75,-1.75 z m 0,2.5 c 0.414,0 0.75,-0.337 0.75,-0.75 0,-0.413 -0.336,-0.75 -0.75,-0.75 -0.414,0 -0.75,0.337 -0.75,0.75 0,0.413 0.336,0.75 0.75,0.75 z m -8.5,-2.5 c 0.965,0 1.75,0.785 1.75,1.75 0,0.965 -0.785,1.75 -1.75,1.75 -0.965,0 -1.75,-0.785 -1.75,-1.75 0,-0.965 0.785,-1.75 1.75,-1.75 z m 0,2.5 c 0.414,0 0.75,-0.337 0.75,-0.75 0,-0.413 -0.336,-0.75 -0.75,-0.75 -0.414,0 -0.75,0.337 -0.75,0.75 0,0.413 0.336,0.75 0.75,0.75 z M 3.555,2 3.857,4 H 17 l -1.118,8.036 H 3.969 L 2.931,4.573 2.695,3 H -0.074 V 2 Z M 4,5 4.139,6 H 15.713 L 15.852,5 Z M 15.012,11.036 15.573,7 H 4.278 l 0.561,4.036 z"
+     fill="#000000"
+     id="path48" />
+</svg>
+Add to cart</a>
+	<a role="button" tabindex="0" name="add-to-wishlist" aria-label="Add to Wishlist" data-tinv-wl-list="[]" data-tinv-wl-product="327" data-tinv-wl-productvariation="0" data-tinv-wl-productvariations="[]" data-tinv-wl-producttype="simple" data-tinv-wl-action="add">Add to Wishlist</a>		Add to Wishlist
 		</li>
 			</ul>]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>513</wp:post_id>
 		<wp:post_date><![CDATA[2019-11-06 08:32:18]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-11-06 08:32:18]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2019-11-06 08:32:18]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2019-11-06 08:32:18]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2023-06-28 06:51:51]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-06-28 06:51:51]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[mega-menu]]></wp:post_name>
@@ -3613,7 +4076,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_elementor_version]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2.7.5]]></wp:meta_value>
+		<wp:meta_value><![CDATA[3.13.4]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
@@ -3621,7 +4084,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_elementor_data]]></wp:meta_key>
-		<wp:meta_value><![CDATA[[{"id":"6f9ec00","elType":"section","settings":{"structure":"40"},"elements":[{"id":"99dcd36","elType":"column","settings":{"_column_size":25,"_inline_size":null},"elements":[{"id":"fb704c1","elType":"widget","settings":{"wp":{"title":"Furniture","orderby":"name","hierarchical":"1","max_depth":""}},"elements":[],"widgetType":"wp-widget-woocommerce_product_categories"}],"isInner":false},{"id":"236f403","elType":"column","settings":{"_column_size":25,"_inline_size":null},"elements":[{"id":"226e692","elType":"widget","settings":[],"elements":[],"widgetType":"wp-widget-woocommerce_product_categories"}],"isInner":false},{"id":"12f5927","elType":"column","settings":{"_column_size":25,"_inline_size":null},"elements":[{"id":"aaa0e3d","elType":"widget","settings":[],"elements":[],"widgetType":"wp-widget-woocommerce_product_categories"}],"isInner":false},{"id":"ed46353","elType":"column","settings":{"_column_size":25,"_inline_size":null},"elements":[{"id":"488d739","elType":"widget","settings":{"columns":"1"},"elements":[],"widgetType":"woostify-product-slider"}],"isInner":false}],"isInner":false}]]]></wp:meta_value>
+		<wp:meta_value><![CDATA[[{"id":"9a5f177","elType":"container","settings":{"structure":"40","flex_direction":"row","flex_align_items":"stretch","flex_gap":{"size":0,"unit":"px"},"padding":{"unit":"px","top":"20","right":"0","bottom":"20","left":"0","isLinked":false},"flex_wrap_tablet":"wrap"},"elements":[{"id":"ff51a53","elType":"container","settings":{"_column_size":25,"width":{"size":25,"unit":"%"},"content_width":"full","width_tablet":{"unit":"%","size":50,"sizes":[]},"width_mobile":{"unit":"%","size":"","sizes":[]},"flex_gap":{"unit":"px","size":0,"sizes":[]},"margin_tablet":{"unit":"px","top":"0","right":"0","bottom":"30","left":"0","isLinked":false},"margin_mobile":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true}},"elements":[{"id":"b3373c8","elType":"widget","settings":{"title":"Furniture","header_size":"h5","title_color":"#2B2B2B","typography_typography":"custom","typography_font_family":"Open Sans","typography_font_size":{"unit":"px","size":18,"sizes":[]},"typography_font_weight":"700","typography_line_height":{"unit":"px","size":24,"sizes":[]},"_margin":{"unit":"px","top":"0","right":"0","bottom":"10","left":"0","isLinked":false},"__globals__":{"typography_typography":""}},"elements":[],"widgetType":"heading"},{"id":"09b307e","elType":"widget","settings":{"icon_list":[{"text":"Bottom","selected_icon":{"value":"","library":""},"_id":"ee35bb3","link":{"url":"\/fashion2\/product-category\/bottom\/","is_external":"","nofollow":"","custom_attributes":""}},{"text":"Top","selected_icon":{"value":"","library":""},"link":{"url":"\/fashion2\/product-category\/top\/","is_external":"","nofollow":"","custom_attributes":""},"_id":"4e80050"},{"text":"Trousers","selected_icon":{"value":"","library":""},"link":{"url":"\/fashion2\/product-category\/trousers\/","is_external":"","nofollow":"","custom_attributes":""},"_id":"24077be"},{"text":"Uncategorized","selected_icon":{"value":"","library":""},"link":{"url":"\/fashion2\/product-category\/uncategorized\/","is_external":"","nofollow":"","custom_attributes":""},"_id":"d4cc437"},{"text":"Women","selected_icon":{"value":"","library":""},"link":{"url":"\/fashion2\/product-category\/women\/","is_external":"","nofollow":"","custom_attributes":""},"_id":"65e9952"}],"icon_size":{"unit":"px","size":0,"sizes":[]},"icon_typography_typography":"custom","icon_typography_font_family":"Poppins","icon_typography_font_size":{"unit":"px","size":14,"sizes":[]},"icon_typography_font_weight":"400","icon_typography_line_height":{"unit":"px","size":24,"sizes":[]}},"elements":[],"widgetType":"icon-list"}],"isInner":false},{"id":"d91a1c8","elType":"container","settings":{"_column_size":25,"width":{"size":25,"unit":"%"},"content_width":"full","width_tablet":{"unit":"%","size":50,"sizes":[]},"width_mobile":{"unit":"%","size":"","sizes":[]},"flex_gap":{"unit":"px","size":0,"sizes":[]},"margin_tablet":{"unit":"px","top":"0","right":"0","bottom":"30","left":"0","isLinked":false},"margin_mobile":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true}},"elements":[{"id":"439f380","elType":"widget","settings":{"title":"Product categories","header_size":"h5","title_color":"#2B2B2B","typography_typography":"custom","typography_font_family":"Open Sans","typography_font_size":{"unit":"px","size":18,"sizes":[]},"typography_font_weight":"700","typography_line_height":{"unit":"px","size":24,"sizes":[]},"_margin":{"unit":"px","top":"0","right":"0","bottom":"10","left":"0","isLinked":false},"__globals__":{"typography_typography":""}},"elements":[],"widgetType":"heading"},{"id":"c287630","elType":"widget","settings":{"icon_list":[{"text":"Bottom","selected_icon":{"value":"","library":""},"_id":"ee35bb3","link":{"url":"\/fashion2\/product-category\/bottom\/","is_external":"","nofollow":"","custom_attributes":""}},{"text":"Top","selected_icon":{"value":"","library":""},"link":{"url":"\/fashion2\/product-category\/top\/","is_external":"","nofollow":"","custom_attributes":""},"_id":"4e80050"},{"text":"Trousers","selected_icon":{"value":"","library":""},"link":{"url":"\/fashion2\/product-category\/trousers\/","is_external":"","nofollow":"","custom_attributes":""},"_id":"24077be"},{"text":"Uncategorized","selected_icon":{"value":"","library":""},"link":{"url":"\/fashion2\/product-category\/uncategorized\/","is_external":"","nofollow":"","custom_attributes":""},"_id":"d4cc437"},{"text":"Women","selected_icon":{"value":"","library":""},"link":{"url":"\/fashion2\/product-category\/women\/","is_external":"","nofollow":"","custom_attributes":""},"_id":"65e9952"}],"icon_size":{"unit":"px","size":0,"sizes":[]},"icon_typography_typography":"custom","icon_typography_font_family":"Poppins","icon_typography_font_size":{"unit":"px","size":14,"sizes":[]},"icon_typography_font_weight":"400","icon_typography_line_height":{"unit":"px","size":24,"sizes":[]}},"elements":[],"widgetType":"icon-list"}],"isInner":false},{"id":"b6cb577","elType":"container","settings":{"_column_size":25,"width":{"size":25,"unit":"%"},"content_width":"full","width_tablet":{"unit":"%","size":50,"sizes":[]},"width_mobile":{"unit":"%","size":"","sizes":[]},"flex_gap":{"unit":"px","size":0,"sizes":[]}},"elements":[{"id":"bafb7a3","elType":"widget","settings":{"title":"Product categories","header_size":"h5","title_color":"#2B2B2B","typography_typography":"custom","typography_font_family":"Open Sans","typography_font_size":{"unit":"px","size":18,"sizes":[]},"typography_font_weight":"700","typography_line_height":{"unit":"px","size":24,"sizes":[]},"_margin":{"unit":"px","top":"0","right":"0","bottom":"10","left":"0","isLinked":false},"__globals__":{"typography_typography":""}},"elements":[],"widgetType":"heading"},{"id":"1bf6782","elType":"widget","settings":{"icon_list":[{"text":"Bottom","selected_icon":{"value":"","library":""},"_id":"ee35bb3","link":{"url":"\/fashion2\/product-category\/bottom\/","is_external":"","nofollow":"","custom_attributes":""}},{"text":"Top","selected_icon":{"value":"","library":""},"link":{"url":"\/fashion2\/product-category\/top\/","is_external":"","nofollow":"","custom_attributes":""},"_id":"4e80050"},{"text":"Trousers","selected_icon":{"value":"","library":""},"link":{"url":"\/fashion2\/product-category\/trousers\/","is_external":"","nofollow":"","custom_attributes":""},"_id":"24077be"},{"text":"Uncategorized","selected_icon":{"value":"","library":""},"link":{"url":"\/fashion2\/product-category\/uncategorized\/","is_external":"","nofollow":"","custom_attributes":""},"_id":"d4cc437"},{"text":"Women","selected_icon":{"value":"","library":""},"link":{"url":"\/fashion2\/product-category\/women\/","is_external":"","nofollow":"","custom_attributes":""},"_id":"65e9952"}],"icon_size":{"unit":"px","size":0,"sizes":[]},"icon_typography_typography":"custom","icon_typography_font_family":"Poppins","icon_typography_font_size":{"unit":"px","size":14,"sizes":[]},"icon_typography_font_weight":"400","icon_typography_line_height":{"unit":"px","size":24,"sizes":[]}},"elements":[],"widgetType":"icon-list"}],"isInner":false},{"id":"1f41020","elType":"container","settings":{"_column_size":25,"width":{"size":25,"unit":"%"},"content_width":"full","width_tablet":{"unit":"%","size":50,"sizes":[]},"width_mobile":{"unit":"%","size":"","sizes":[]},"flex_gap":{"unit":"px","size":0,"sizes":[]}},"elements":[{"id":"9088bc4","elType":"widget","settings":{"columns":"1","slideby":"1","columns_tablet":"1","columns_mobile":"1"},"elements":[],"widgetType":"woostify-product-slider"}],"isInner":false}],"isInner":false}]]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wxr_import_user_slug]]></wp:meta_key>
@@ -3650,6 +4113,10 @@
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wxr_import_has_attachment_refs]]></wp:meta_key>
 		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_elementor_page_assets]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -4125,21 +4592,21 @@ arrivals</a></h2>
 		<description></description>
 		<content:encoded><![CDATA[Yoga’n’Life — Everything you need to 
 kick-start your healthy yoga practice.
-																					<a href="https://woostify.com/demos/fashion2/shop/pros/335/pros/335/pros/335/pros/335/pros/335/pros/335/">Shop Now</a>
+																					<a href="https://woostify.com/demos/fashion2/shop/pros/335/pros/335/pros/335/pros/335/pros/335/pros/335/pros/335/pros/335/pros/335/pros/335/">Shop Now</a>
 																		Your friendly &amp; stylish wellness community
-																					<a href="https://woostify.com/demos/fashion2/shop/pros/335/pros/335/pros/335/pros/335/pros/335/pros/335/">Shop Now</a>
-			<p><a href="https://woostify.com/demos/pro/fashion2/shop/pros/335/pros/335/pros/335/pros/335/pros/335/pros/335/">best<br>leggings</a></p>		
-													<a href="https://woostify.com/demos/pro/fashion2/shop/pros/335/pros/335/pros/335/pros/335/pros/335/pros/335/">
+																					<a href="https://woostify.com/demos/fashion2/shop/pros/335/pros/335/pros/335/pros/335/pros/335/pros/335/pros/335/pros/335/pros/335/pros/335/">Shop Now</a>
+			<p><a href="https://woostify.com/demos/pro/fashion2/shop/pros/335/pros/335/pros/335/pros/335/pros/335/pros/335/pros/335/pros/335/pros/335/pros/335/">best<br>leggings</a></p>		
+													<a href="https://woostify.com/demos/pro/fashion2/shop/pros/335/pros/335/pros/335/pros/335/pros/335/pros/335/pros/335/pros/335/pros/335/pros/335/">
 							<img width="285" height="280" src="https://demo.woostify.com/fashion2/wp-content/uploads/sites/17/2019/03/img-cat-1.jpg" alt="" loading="lazy" />								</a>
-													<a href="https://woostify.com/demos/pro/fashion2/shop/pros/335/pros/335/pros/335/pros/335/pros/335/pros/335/">
+													<a href="https://woostify.com/demos/pro/fashion2/shop/pros/335/pros/335/pros/335/pros/335/pros/335/pros/335/pros/335/pros/335/pros/335/pros/335/">
 							<img width="285" height="280" src="https://demo.woostify.com/fashion2/wp-content/uploads/sites/17/2019/03/img-cat-2.jpg" alt="" loading="lazy" />								</a>
-			<p><a href="https://woostify.com/demos/pro/fashion2/shop/pros/335/pros/335/pros/335/pros/335/pros/335/pros/335/">Your friend &<br>stylish wellness<br>community.</a></p>		
-			<h2><a href="https://woostify.com/demos/pro/fashion2/shop/pros/335/pros/335/pros/335/pros/335/pros/335/pros/335/">new
+			<p><a href="https://woostify.com/demos/pro/fashion2/shop/pros/335/pros/335/pros/335/pros/335/pros/335/pros/335/pros/335/pros/335/pros/335/pros/335/">Your friend &<br>stylish wellness<br>community.</a></p>		
+			<h2><a href="https://woostify.com/demos/pro/fashion2/shop/pros/335/pros/335/pros/335/pros/335/pros/335/pros/335/pros/335/pros/335/pros/335/pros/335/">new
 arrivals</a></h2>		
-													<a href="https://woostify.com/demos/pro/fashion2/shop/pros/335/pros/335/pros/335/pros/335/pros/335/pros/335/">
+													<a href="https://woostify.com/demos/pro/fashion2/shop/pros/335/pros/335/pros/335/pros/335/pros/335/pros/335/pros/335/pros/335/pros/335/pros/335/">
 							<img width="580" height="280" src="https://demo.woostify.com/fashion2/wp-content/uploads/sites/17/2019/03/img-cat-4.jpg" alt="" loading="lazy" srcset="https://demo.woostify.com/fashion2/wp-content/uploads/sites/17/2019/03/img-cat-4.jpg 580w, https://demo.woostify.com/fashion2/wp-content/uploads/sites/17/2019/03/img-cat-4-300x145.jpg 300w" sizes="(max-width: 580px) 100vw, 580px" />								</a>
-			<h2><a href="https://woostify.com/demos/pro/fashion2/shop/pros/335/pros/335/pros/335/pros/335/pros/335/pros/335/">yoga<br>mats</a></h2>		
-													<a href="https://woostify.com/demos/pro/fashion2/shop/pros/335/pros/335/pros/335/pros/335/pros/335/pros/335/">
+			<h2><a href="https://woostify.com/demos/pro/fashion2/shop/pros/335/pros/335/pros/335/pros/335/pros/335/pros/335/pros/335/pros/335/pros/335/pros/335/">yoga<br>mats</a></h2>		
+													<a href="https://woostify.com/demos/pro/fashion2/shop/pros/335/pros/335/pros/335/pros/335/pros/335/pros/335/pros/335/pros/335/pros/335/pros/335/">
 							<img width="580" height="570" src="https://demo.woostify.com/fashion2/wp-content/uploads/sites/17/2019/03/img-cat-3.jpg" alt="" loading="lazy" srcset="https://demo.woostify.com/fashion2/wp-content/uploads/sites/17/2019/03/img-cat-3.jpg 580w, https://demo.woostify.com/fashion2/wp-content/uploads/sites/17/2019/03/img-cat-3-300x295.jpg 300w" sizes="(max-width: 580px) 100vw, 580px" />								</a>
 			<h3>Find something new to love</h3>		
 			<p>Curated favorites just for you</p>		
@@ -4577,7 +5044,7 @@ Add to cart</a>
 			<h2>Starter Kit</h2>		
 			<p>Everything you need to kick-start your 
 healthy yoga practice.</p>		
-			<a href="https://woostify.com/demos/pro/fashion2/shop/pros/335/pros/335/pros/335/pros/335/pros/335/pros/335/" role="button">
+			<a href="https://woostify.com/demos/pro/fashion2/shop/pros/335/pros/335/pros/335/pros/335/pros/335/pros/335/pros/335/pros/335/pros/335/pros/335/" role="button">
 						Buy Package From $150
 					</a>
 			<h3>Testimonial</h3>		
@@ -4587,7 +5054,7 @@ healthy yoga practice.</p>
 						Sandra Ford
 					</a>
 		<p>Yoga’n’Life is pretty easy to navigate to see what you would want to get. The reviews are also well done. I wish some of the pants were way less expensive though.</p>		
-			<a href="https://woostify.com/demos/fashion2/shop/pros/335/pros/335/pros/335/pros/335/pros/335/pros/335/" role="button">
+			<a href="https://woostify.com/demos/fashion2/shop/pros/335/pros/335/pros/335/pros/335/pros/335/pros/335/pros/335/pros/335/pros/335/pros/335/" role="button">
 						Rachel Foster
 					</a>
 		<p>Hard to find a sports bra that fits well online, so I like a site that has a good return policy. If I find a good fit, I tend to buy a few of the same next time. Good prices!</p>		
@@ -4595,31 +5062,31 @@ healthy yoga practice.</p>
 						Jeffrey Black
 					</a>
 			<h3>From Our Blog</h3>		
-													<a href="https://demo.woostify.com/fashion2/2018/12/28/alice-palmers-diary-lessons-from-the-first-year-of-yoga-teaching/">
+													<a href="https://demo.woostify.com/fashion2/alice-palmers-diary-lessons-from-the-first-year-of-yoga-teaching/">
 								<img width="768" height="480" alt="Post thumbnail" srcset="https://demo.woostify.com/fashion2/wp-content/uploads/sites/17/2018/12/blog-img-2-768x480.jpg 768w, https://demo.woostify.com/fashion2/wp-content/uploads/sites/17/2018/12/blog-img-2-300x188.jpg 300w, https://demo.woostify.com/fashion2/wp-content/uploads/sites/17/2018/12/blog-img-2-600x375.jpg 600w, https://demo.woostify.com/fashion2/wp-content/uploads/sites/17/2018/12/blog-img-2.jpg 800w" sizes="(max-width: 768px) 100vw, 768px" />							</a>
-																	<h3><a href="https://demo.woostify.com/fashion2/2018/12/28/alice-palmers-diary-lessons-from-the-first-year-of-yoga-teaching/">Alice Palmer&#8217;s Diary: Lessons from  the first  year of Yoga teaching</a></h3>
+																	<h3><a href="https://demo.woostify.com/fashion2/alice-palmers-diary-lessons-from-the-first-year-of-yoga-teaching/">Alice Palmer&#8217;s Diary: Lessons from  the first  year of Yoga teaching</a></h3>
 										On the 25th of June 2017 I spent a nerve-wracking 6 hours taking my Introductory&hellip;									
-													<a href="https://demo.woostify.com/fashion2/2018/12/28/how-to-get-back-in-the-gym-after-a-break/">
+													<a href="https://demo.woostify.com/fashion2/how-to-get-back-in-the-gym-after-a-break/">
 								<img width="768" height="479" alt="Post thumbnail" srcset="https://demo.woostify.com/fashion2/wp-content/uploads/sites/17/2018/12/blog-single-img-1-768x479.jpg 768w, https://demo.woostify.com/fashion2/wp-content/uploads/sites/17/2018/12/blog-single-img-1-300x187.jpg 300w, https://demo.woostify.com/fashion2/wp-content/uploads/sites/17/2018/12/blog-single-img-1-600x374.jpg 600w, https://demo.woostify.com/fashion2/wp-content/uploads/sites/17/2018/12/blog-single-img-1.jpg 800w" sizes="(max-width: 768px) 100vw, 768px" />							</a>
-																	<h3><a href="https://demo.woostify.com/fashion2/2018/12/28/how-to-get-back-in-the-gym-after-a-break/">How To Get Back In The Gym After A Break</a></h3>
+																	<h3><a href="https://demo.woostify.com/fashion2/how-to-get-back-in-the-gym-after-a-break/">How To Get Back In The Gym After A Break</a></h3>
 										On the 25th of June 2017 I spent a nerve-wracking 6 hours taking my Introductory&hellip;									
-													<a href="https://demo.woostify.com/fashion2/2019/01/02/eleonora-zampattis-path-to-self-acceptance-through-yoga/">
+													<a href="https://demo.woostify.com/fashion2/eleonora-zampattis-path-to-self-acceptance-through-yoga/">
 								<img width="768" height="480" alt="Post thumbnail" srcset="https://demo.woostify.com/fashion2/wp-content/uploads/sites/17/2018/12/blog-img-10-768x480.jpg 768w, https://demo.woostify.com/fashion2/wp-content/uploads/sites/17/2018/12/blog-img-10-300x188.jpg 300w, https://demo.woostify.com/fashion2/wp-content/uploads/sites/17/2018/12/blog-img-10-600x375.jpg 600w, https://demo.woostify.com/fashion2/wp-content/uploads/sites/17/2018/12/blog-img-10.jpg 800w" sizes="(max-width: 768px) 100vw, 768px" />							</a>
-																	<h3><a href="https://demo.woostify.com/fashion2/2019/01/02/eleonora-zampattis-path-to-self-acceptance-through-yoga/">Eleonora Zampatti&#8217;s path to  self-acceptance through Yoga</a></h3>
+																	<h3><a href="https://demo.woostify.com/fashion2/eleonora-zampattis-path-to-self-acceptance-through-yoga/">Eleonora Zampatti&#8217;s path to  self-acceptance through Yoga</a></h3>
 										On the 25th of June 2017 I spent a nerve-wracking 6 hours taking my Introductory&hellip;									
-													<a href="https://demo.woostify.com/fashion2/2019/01/02/aromatherapy-101-how-to-find-healing-with-essential-oils/">
+													<a href="https://demo.woostify.com/fashion2/aromatherapy-101-how-to-find-healing-with-essential-oils/">
 								<img width="768" height="480" alt="Post thumbnail" srcset="https://demo.woostify.com/fashion2/wp-content/uploads/sites/17/2018/12/blog-img-9-768x480.jpg 768w, https://demo.woostify.com/fashion2/wp-content/uploads/sites/17/2018/12/blog-img-9-300x188.jpg 300w, https://demo.woostify.com/fashion2/wp-content/uploads/sites/17/2018/12/blog-img-9-600x375.jpg 600w, https://demo.woostify.com/fashion2/wp-content/uploads/sites/17/2018/12/blog-img-9.jpg 800w" sizes="(max-width: 768px) 100vw, 768px" />							</a>
-																	<h3><a href="https://demo.woostify.com/fashion2/2019/01/02/aromatherapy-101-how-to-find-healing-with-essential-oils/">AROMATHERAPY 101: How to find  healing with essential oils</a></h3>
+																	<h3><a href="https://demo.woostify.com/fashion2/aromatherapy-101-how-to-find-healing-with-essential-oils/">AROMATHERAPY 101: How to find  healing with essential oils</a></h3>
 										On the 25th of June 2017 I spent a nerve-wracking 6 hours taking my Introductory&hellip;									
-													<a href="https://demo.woostify.com/fashion2/2019/01/02/advance-your-practice-5-essential-video-classes-for-building-strength/">
+													<a href="https://demo.woostify.com/fashion2/advance-your-practice-5-essential-video-classes-for-building-strength/">
 								<img width="768" height="480" alt="Post thumbnail" srcset="https://demo.woostify.com/fashion2/wp-content/uploads/sites/17/2018/12/blog-img-5-768x480.jpg 768w, https://demo.woostify.com/fashion2/wp-content/uploads/sites/17/2018/12/blog-img-5-300x188.jpg 300w, https://demo.woostify.com/fashion2/wp-content/uploads/sites/17/2018/12/blog-img-5-600x375.jpg 600w, https://demo.woostify.com/fashion2/wp-content/uploads/sites/17/2018/12/blog-img-5.jpg 800w" sizes="(max-width: 768px) 100vw, 768px" />							</a>
-																	<h3><a href="https://demo.woostify.com/fashion2/2019/01/02/advance-your-practice-5-essential-video-classes-for-building-strength/">Advance your practice: 5 essential  video classes for building strength</a></h3>
+																	<h3><a href="https://demo.woostify.com/fashion2/advance-your-practice-5-essential-video-classes-for-building-strength/">Advance your practice: 5 essential  video classes for building strength</a></h3>
 										On the 25th of June 2017 I spent a nerve-wracking 6 hours taking my Introductory&hellip;									
-													<a href="https://demo.woostify.com/fashion2/2019/01/02/september-l-a-wellness-events-you-dont-want-to-miss/">
+													<a href="https://demo.woostify.com/fashion2/september-l-a-wellness-events-you-dont-want-to-miss/">
 								<img width="768" height="480" alt="Post thumbnail" srcset="https://demo.woostify.com/fashion2/wp-content/uploads/sites/17/2018/12/blog-img-6-768x480.jpg 768w, https://demo.woostify.com/fashion2/wp-content/uploads/sites/17/2018/12/blog-img-6-300x188.jpg 300w, https://demo.woostify.com/fashion2/wp-content/uploads/sites/17/2018/12/blog-img-6-600x375.jpg 600w, https://demo.woostify.com/fashion2/wp-content/uploads/sites/17/2018/12/blog-img-6.jpg 800w" sizes="(max-width: 768px) 100vw, 768px" />							</a>
-																	<h3><a href="https://demo.woostify.com/fashion2/2019/01/02/september-l-a-wellness-events-you-dont-want-to-miss/">September L.A. wellness events  you don’t want to miss</a></h3>
+																	<h3><a href="https://demo.woostify.com/fashion2/september-l-a-wellness-events-you-dont-want-to-miss/">September L.A. wellness events  you don’t want to miss</a></h3>
 										On the 25th of June 2017 I spent a nerve-wracking 6 hours taking my Introductory&hellip;									
-			<a href="https://woostify.com/demos/fashion2/blog/pros/335/pros/335/pros/335/pros/335/pros/335/pros/335/" role="button">
+			<a href="https://woostify.com/demos/fashion2/blog/pros/335/pros/335/pros/335/pros/335/pros/335/pros/335/pros/335/pros/335/pros/335/pros/335/" role="button">
 						Read More Posts
 					</a>
 												<img width="51" height="37" src="https://demo.woostify.com/fashion2/wp-content/uploads/sites/17/2019/01/icon-1.jpg" alt="" loading="lazy" />														
@@ -4631,7 +5098,7 @@ healthy yoga practice.</p>
 												<img width="37" height="37" src="https://demo.woostify.com/fashion2/wp-content/uploads/sites/17/2019/01/icon-2.jpg" alt="" loading="lazy" />														
 			<h6>Secure Payment</h6>		
 			<p>Accept Paypal, Visa, Mastercard & more</p>		
-		[instagram-feed]		
+		[instagram-feed feed=1]		
 			<h2>Hey, Lady! Want 10% Off?</h2>		
 			<p>Treat your inbox to the latest from Yoga’n’Life</p>		
 		[contact-form-7 id="262" title="Subsbrice Form"]]]></content:encoded>
@@ -4639,8 +5106,8 @@ healthy yoga practice.</p>
 		<wp:post_id>11</wp:post_id>
 		<wp:post_date><![CDATA[2018-12-18 03:58:40]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-12-18 03:58:40]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2023-06-15 03:15:35]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2023-06-15 03:15:35]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2023-06-28 07:06:45]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-06-28 07:06:45]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[woostify]]></wp:post_name>
@@ -4672,7 +5139,7 @@ healthy yoga practice.</p>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_elementor_data]]></wp:meta_key>
-		<wp:meta_value><![CDATA[[{"id":"5c6b483","elType":"container","settings":{"stretch_section":"section-stretched","content_width":"full","flex_gap":{"size":0,"unit":"px"},"flex_direction":"row","flex_align_items":"stretch","padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true}},"elements":[{"id":"896bdbd","elType":"container","settings":{"_column_size":100,"content_width":"full","padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true}},"elements":[{"id":"f13ca64","elType":"widget","settings":{"slides":[{"title":"","description":"Yoga\u2019n\u2019Life \u2014 Everything you need to \nkick-start your healthy yoga practice.","btn1_text":"Shop Now","btn1_link":{"url":"https:\/\/woostify.com\/demos\/fashion2\/shop\/pros\/335\/pros\/335\/pros\/335\/pros\/335\/pros\/335\/pros\/335\/"},"background_background":"classic","_id":"b0c596e","btn2_link":{"url":"","is_external":"","nofollow":""},"background_color_stop":{"unit":"%","size":0},"background_color_b_stop":{"unit":"%","size":100},"background_gradient_angle":{"unit":"deg","size":180},"background_image":{"url":"https:\/\/demo.woostify.com\/fashion2\/wp-content\/uploads\/sites\/17\/2019\/01\/img-1.jpg","id":386},"background_position":"center center","background_xpos":{"unit":"px","size":0},"background_xpos_tablet":{"unit":"px","size":0},"background_xpos_mobile":{"unit":"px","size":0},"background_ypos":{"unit":"px","size":0},"background_ypos_tablet":{"unit":"px","size":0},"background_ypos_mobile":{"unit":"px","size":0},"background_attachment_tablet":"","background_attachment_mobile":"","background_repeat":"no-repeat","background_size":"cover","background_bg_width":{"unit":"%","size":100},"background_bg_width_tablet":{"unit":"px","size":""},"background_bg_width_mobile":{"unit":"px","size":""}},{"title":"","description":"Your friendly & stylish wellness community","btn1_text":"Shop Now","btn1_link":{"url":"https:\/\/woostify.com\/demos\/fashion2\/shop\/pros\/335\/pros\/335\/pros\/335\/pros\/335\/pros\/335\/pros\/335\/"},"background_background":"classic","_id":"e66424c","btn2_link":{"url":"","is_external":"","nofollow":""},"background_color_stop":{"unit":"%","size":0},"background_color_b_stop":{"unit":"%","size":100},"background_gradient_angle":{"unit":"deg","size":180},"background_image":{"url":"https:\/\/demo.woostify.com\/fashion2\/wp-content\/uploads\/sites\/17\/2019\/01\/slide2.jpg","id":346},"background_position":"center center","background_xpos":{"unit":"px","size":0},"background_xpos_tablet":{"unit":"px","size":0},"background_xpos_mobile":{"unit":"px","size":0},"background_ypos":{"unit":"px","size":0},"background_ypos_tablet":{"unit":"px","size":0},"background_ypos_mobile":{"unit":"px","size":0},"background_attachment_tablet":"","background_attachment_mobile":"","background_repeat":"no-repeat","background_size":"cover","background_bg_width":{"unit":"%","size":100},"background_bg_width_tablet":{"unit":"px","size":""},"background_bg_width_mobile":{"unit":"px","size":""},"custom_content_animation":"zoomIn"}],"navigation":"dots","content_animation":"fadeInUp","slider_height":{"unit":"px","size":600},"slide_width":{"unit":"px","size":1170},"slide_padding":{"unit":"px","top":"100","right":"100","bottom":"100","left":"100","isLinked":true},"horizontal_pos":"left","vertical_pos":"flex-end","text_align":"left","description_color":"#3e3e3e","button_typography_typography":"custom","button_typography_font_weight":"700","button_border_width":{"unit":"px","size":1},"button_border_radius":{"unit":"px","size":0},"button_padding":{"unit":"px","top":"5","right":"25","bottom":"5","left":"25","isLinked":false},"button_bg_color":"#0b3ee3","button_border_color":"#0b3ee3","title_color":"#3e3e3e","description_space":{"unit":"px","size":40},"slide_width_tablet":{"unit":"%","size":100},"slide_padding_tablet":{"unit":"px","top":"50","right":"70","bottom":"50","left":"70","isLinked":false},"slide_padding_mobile":{"unit":"px","top":"50","right":"30","bottom":"50","left":"30","isLinked":false},"vertical_pos_tablet":"center","slider_height_tablet":{"unit":"px","size":400,"sizes":[]},"slider_height_mobile":{"unit":"px","size":320,"sizes":[]},"container_width":{"unit":"px","size":1170,"sizes":[]},"content_width":{"unit":"px","size":300,"sizes":[]},"button_bg_color_hover":"#fe454b","button_border_color_hover":"#fe454b","arrows_position":{"unit":"px","size":-9,"sizes":[]}},"elements":[],"widgetType":"woostify-slider"}],"isInner":false}],"isInner":false},{"id":"a1fb96b","elType":"container","settings":{"flex_direction":"row","flex_align_items":"stretch","flex_gap":{"size":10,"unit":"px"},"padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true}},"elements":[{"id":"320eec4","elType":"container","settings":{"_column_size":100,"content_width":"full"},"elements":[{"id":"882a503","elType":"widget","settings":{"space":{"unit":"px","size":75}},"elements":[],"widgetType":"spacer"}],"isInner":false}],"isInner":false},{"id":"b05d264","elType":"container","settings":{"flex_gap":{"size":0,"unit":"px"},"structure":"20","flex_direction":"row","flex_align_items":"stretch","padding":{"unit":"px","top":"0","right":"10","bottom":"0","left":"10","isLinked":false}},"elements":[{"id":"a340923","elType":"container","settings":{"_column_size":50,"width":{"size":null,"unit":"%"},"content_width":"full","flex_gap":{"unit":"px","size":0,"sizes":[]},"padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true}},"elements":[{"id":"9612d70","elType":"container","settings":{"flex_gap":{"size":0,"unit":"px"},"structure":"20","flex_direction":"row","flex_align_items":"stretch","content_width":"full","padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true}},"elements":[{"id":"7236f68","elType":"container","settings":{"_column_size":50,"width":{"size":null,"unit":"%"},"flex_gap":{"size":0,"unit":"px"},"content_width":"full","padding":{"unit":"px","top":"5","right":"5","bottom":"5","left":"5","isLinked":true}},"elements":[{"id":"f230ac2","elType":"widget","settings":{"title":"best<br>leggings","header_size":"p","align":"center","title_color":"#ffffff","typography_typography":"custom","typography_font_size":{"unit":"px","size":30,"sizes":[]},"typography_font_size_tablet":{"unit":"px","size":24,"sizes":[]},"typography_font_weight":"300","_element_width":"initial","_element_width_tablet":"initial","_element_custom_width":{"unit":"%","size":100},"_element_custom_width_tablet":{"unit":"px","size":124},"_position":"absolute","_offset_x":{"size":0,"unit":"%"},"_offset_x_tablet":{"size":30,"unit":"px"},"_offset_x_mobile":{"size":100,"unit":"px"},"_offset_y":{"size":39.889,"unit":"%"},"_offset_y_tablet":{"size":60.219,"unit":"px"},"_offset_y_mobile":{"size":98.219,"unit":"px"},"_padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true},"link":{"url":"https:\/\/woostify.com\/demos\/pro\/fashion2\/shop\/pros\/335\/pros\/335\/pros\/335\/pros\/335\/pros\/335\/pros\/335\/","is_external":"","nofollow":""}},"elements":[],"widgetType":"heading"},{"id":"ec8b7ed","elType":"widget","settings":{"image":{"url":"https:\/\/woostify.com\/demos\/fashion2\/wp-content\/uploads\/2019\/03\/img-cat-1.jpg\/pros\/335\/pros\/335\/pros\/335\/pros\/335\/pros\/335\/pros\/335\/","id":437},"caption":"hello","link_to":"custom","link":{"url":"https:\/\/woostify.com\/demos\/pro\/fashion2\/shop\/pros\/335\/pros\/335\/pros\/335\/pros\/335\/pros\/335\/pros\/335\/","is_external":"","nofollow":""}},"elements":[],"widgetType":"image"}],"isInner":false},{"id":"b4214d5","elType":"container","settings":{"_column_size":50,"width":{"size":null,"unit":"%"},"flex_gap":{"size":0,"unit":"px"},"content_width":"full","padding":{"unit":"px","top":"5","right":"5","bottom":"5","left":"5","isLinked":true}},"elements":[{"id":"b3bdffd","elType":"widget","settings":{"image":{"url":"https:\/\/woostify.com\/demos\/fashion2\/wp-content\/uploads\/2019\/03\/img-cat-2.jpg\/pros\/335\/pros\/335\/pros\/335\/pros\/335\/pros\/335\/pros\/335\/","id":438},"link_to":"custom","link":{"url":"https:\/\/woostify.com\/demos\/pro\/fashion2\/shop\/pros\/335\/pros\/335\/pros\/335\/pros\/335\/pros\/335\/pros\/335\/","is_external":"","nofollow":""}},"elements":[],"widgetType":"image"},{"id":"0debe61","elType":"widget","settings":{"title":"Your friend &<br>stylish wellness<br>community.","header_size":"p","align":"center","title_color":"#ffffff","typography_typography":"custom","typography_font_size":{"unit":"px","size":26,"sizes":[]},"typography_font_size_tablet":{"unit":"px","size":18,"sizes":[]},"typography_line_height":{"unit":"em","size":1.3,"sizes":[]},"_element_width":"initial","_element_width_tablet":"initial","_element_width_mobile":"initial","_element_custom_width":{"unit":"%","size":100},"_element_custom_width_tablet":{"unit":"px","size":135},"_element_custom_width_mobile":{"unit":"px","size":170},"_position":"absolute","_offset_x":{"size":0,"unit":"%"},"_offset_x_tablet":{"size":20,"unit":"px"},"_offset_x_mobile":{"size":75,"unit":"px"},"_offset_y":{"size":31,"unit":"%"},"_offset_y_tablet":{"size":58,"unit":"px"},"_offset_y_mobile":{"size":105,"unit":"px"},"_padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false},"link":{"url":"https:\/\/woostify.com\/demos\/pro\/fashion2\/shop\/pros\/335\/pros\/335\/pros\/335\/pros\/335\/pros\/335\/pros\/335\/","is_external":"","nofollow":""}},"elements":[],"widgetType":"heading"}],"isInner":false}],"isInner":false},{"id":"52eab7d","elType":"container","settings":{"flex_gap":{"size":5,"unit":"px"},"flex_direction":"row","flex_align_items":"stretch","content_width":"full","padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true}},"elements":[{"id":"1f57588","elType":"container","settings":{"_column_size":100,"width":{"size":null,"unit":"%"},"content_width":"full","padding":{"unit":"px","top":"5","right":"5","bottom":"5","left":"5","isLinked":true}},"elements":[{"id":"ec3d954","elType":"widget","settings":{"title":"new\narrivals","align_mobile":"center","title_color":"#68c5ae","typography_typography":"custom","typography_font_size":{"unit":"px","size":48,"sizes":[]},"typography_font_size_tablet":{"unit":"px","size":42,"sizes":[]},"_element_width":"initial","_element_custom_width":{"unit":"px","size":222},"_position":"absolute","_offset_x":{"size":50,"unit":"px"},"_offset_x_tablet":{"size":17,"unit":"px"},"_offset_x_mobile":{"size":39,"unit":"px"},"_offset_y":{"size":10,"unit":"%"},"_offset_y_tablet":{"size":50,"unit":"px"},"_offset_y_mobile":{"size":31,"unit":"px"},"_offset_orientation_v":"end","_offset_y_end":{"unit":"%","size":10,"sizes":[]},"link":{"url":"https:\/\/woostify.com\/demos\/pro\/fashion2\/shop\/pros\/335\/pros\/335\/pros\/335\/pros\/335\/pros\/335\/pros\/335\/","is_external":"","nofollow":""}},"elements":[],"widgetType":"heading"},{"id":"33fdef8","elType":"widget","settings":{"image":{"url":"https:\/\/woostify.com\/demos\/fashion2\/wp-content\/uploads\/2019\/03\/img-cat-4.jpg\/pros\/335\/pros\/335\/pros\/335\/pros\/335\/pros\/335\/pros\/335\/","id":440},"link_to":"custom","link":{"url":"https:\/\/woostify.com\/demos\/pro\/fashion2\/shop\/pros\/335\/pros\/335\/pros\/335\/pros\/335\/pros\/335\/pros\/335\/","is_external":"","nofollow":""}},"elements":[],"widgetType":"image"}],"isInner":false}],"isInner":false}],"isInner":false},{"id":"ec5ae46","elType":"container","settings":{"_column_size":50,"width":{"size":null,"unit":"%"},"content_width":"full","padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true}},"elements":[{"id":"0bea11a","elType":"container","settings":{"flex_gap":{"size":5,"unit":"px"},"flex_direction":"row","flex_align_items":"stretch","content_width":"full","padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true}},"elements":[{"id":"2287058","elType":"container","settings":{"_column_size":100,"width":{"size":null,"unit":"%"},"content_width":"full","padding":{"unit":"px","top":"5","right":"5","bottom":"5","left":"5","isLinked":true}},"elements":[{"id":"b983f12","elType":"widget","settings":{"title":"yoga<br>mats","align":"center","title_color":"#fe454b","typography_typography":"custom","typography_font_size":{"unit":"px","size":72,"sizes":[]},"typography_font_size_tablet":{"unit":"px","size":60,"sizes":[]},"typography_font_size_mobile":{"unit":"px","size":42,"sizes":[]},"_element_width":"initial","_element_width_tablet":"initial","_element_width_mobile":"initial","_element_custom_width":{"unit":"%","size":100},"_element_custom_width_tablet":{"unit":"px","size":266},"_element_custom_width_mobile":{"unit":"px","size":200},"_position":"absolute","_offset_x":{"size":0,"unit":"%"},"_offset_x_tablet":{"size":38,"unit":"px"},"_offset_x_mobile":{"size":52,"unit":"px"},"_offset_y":{"size":28,"unit":"px"},"_offset_y_tablet":{"size":11,"unit":"px"},"_offset_y_mobile":{"size":21,"unit":"px"},"link":{"url":"https:\/\/woostify.com\/demos\/pro\/fashion2\/shop\/pros\/335\/pros\/335\/pros\/335\/pros\/335\/pros\/335\/pros\/335\/","is_external":"","nofollow":""}},"elements":[],"widgetType":"heading"},{"id":"ea3574e","elType":"widget","settings":{"image":{"url":"https:\/\/woostify.com\/demos\/fashion2\/wp-content\/uploads\/2019\/03\/img-cat-3.jpg\/pros\/335\/pros\/335\/pros\/335\/pros\/335\/pros\/335\/pros\/335\/","id":439},"link_to":"custom","link":{"url":"https:\/\/woostify.com\/demos\/pro\/fashion2\/shop\/pros\/335\/pros\/335\/pros\/335\/pros\/335\/pros\/335\/pros\/335\/","is_external":"","nofollow":""}},"elements":[],"widgetType":"image"}],"isInner":false}],"isInner":false}],"isInner":false}],"isInner":false},{"id":"90e88d3","elType":"container","settings":{"flex_direction":"row","flex_align_items":"stretch","flex_gap":{"size":10,"unit":"px"},"padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true}},"elements":[{"id":"b5eeda0","elType":"container","settings":{"_column_size":100,"content_width":"full"},"elements":[{"id":"90f70f6","elType":"widget","settings":{"space":{"unit":"px","size":65}},"elements":[],"widgetType":"spacer"}],"isInner":false}],"isInner":false},{"id":"1fd613b","elType":"container","settings":{"flex_direction":"row","flex_align_items":"stretch","flex_gap":{"size":10,"unit":"px"},"padding":{"unit":"px","top":"0","right":"5","bottom":"0","left":"5","isLinked":false}},"elements":[{"id":"41f8a35","elType":"container","settings":{"_column_size":100,"content_width":"full"},"elements":[{"id":"bab63dc","elType":"widget","settings":{"title":"Find something new to love","header_size":"h3","align":"center"},"elements":[],"widgetType":"heading"},{"id":"7875dd0","elType":"widget","settings":{"title":"Curated favorites just for you","header_size":"p","align":"center","typography_typography":"custom","typography_line_height":{"unit":"em","size":3}},"elements":[],"widgetType":"heading"},{"id":"c490ca0","elType":"widget","settings":{"space":{"unit":"px","size":30}},"elements":[],"widgetType":"spacer"},{"id":"44db37f","elType":"widget","settings":{"arrows_position":{"unit":"px","size":-80,"sizes":[]},"arrows_bg_color":"#00000008","arrows_color":"#FE454B","dots_position":{"unit":"px","size":"","sizes":[]},"dots_bg_color":"#00000054","dots_color":"#FE454B"},"elements":[],"widgetType":"woostify-new-product-slider"}],"isInner":false}],"isInner":false},{"id":"8024ed1","elType":"container","settings":{"stretch_section":"section-stretched","boxed_width":{"unit":"px","size":1600},"flex_gap":{"size":0,"unit":"px"},"background_background":"classic","background_image":{"url":"https:\/\/demo.woostify.com\/fashion2\/wp-content\/uploads\/sites\/17\/2019\/01\/timg-6.jpg","id":290},"background_position":"center center","background_repeat":"no-repeat","background_size":"cover","padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false},"border_border":"solid","border_width":{"unit":"px","top":"0","right":"60","bottom":"0","left":"60","isLinked":false},"border_width_mobile":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false},"border_color":"#ffffff","flex_direction":"row","flex_align_items":"stretch"},"elements":[{"id":"97d1bba","elType":"container","settings":{"_column_size":100,"content_width":"full","padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true}},"elements":[{"id":"d2f6eb8","elType":"widget","settings":{"space":{"unit":"px","size":150}},"elements":[],"widgetType":"spacer"},{"id":"8b66859","elType":"container","settings":{"structure":"20","flex_direction":"row","flex_align_items":"stretch","flex_gap":{"size":0,"unit":"px"},"padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true}},"elements":[{"id":"0ddc6ca","elType":"container","settings":{"_column_size":50,"width":{"size":50,"unit":"%"},"content_width":"full"},"elements":[{"id":"9936a43","elType":"widget","settings":{"title":"Starter Kit","align":"center","typography_typography":"custom","typography_font_size":{"unit":"px","size":48},"typography_font_weight":"300"},"elements":[],"widgetType":"heading"},{"id":"242ec76","elType":"widget","settings":{"title":"Everything you need to kick-start your \nhealthy yoga practice.","header_size":"p","align":"center","typography_typography":"custom","typography_line_height":{"unit":"px","size":30},"_padding":{"unit":"px","top":"0","right":"100","bottom":"0","left":"100","isLinked":false},"_padding_tablet":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true}},"elements":[],"widgetType":"heading"},{"id":"ae69d82","elType":"widget","settings":{"space":{"unit":"px","size":5}},"elements":[],"widgetType":"spacer"},{"id":"e83452c","elType":"widget","settings":{"text":"Buy Package From $150","link":{"url":"https:\/\/woostify.com\/demos\/pro\/fashion2\/shop\/pros\/335\/pros\/335\/pros\/335\/pros\/335\/pros\/335\/pros\/335\/","is_external":"","nofollow":""},"align":"center","typography_typography":"custom","typography_font_weight":"700","typography_text_decoration":"underline","button_text_color":"#fe454b","background_color":"rgba(0,0,0,0)"},"elements":[],"widgetType":"button"}],"isInner":false},{"id":"f195736","elType":"container","settings":{"_column_size":50,"width":{"size":50,"unit":"%"},"content_width":"full","padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true}},"elements":[],"isInner":false}],"isInner":false},{"id":"756a80d","elType":"widget","settings":{"space":{"unit":"px","size":150}},"elements":[],"widgetType":"spacer"}],"isInner":false}],"isInner":false},{"id":"7a87092","elType":"container","settings":{"stretch_section":"section-stretched","content_width":"full","flex_gap":{"size":0,"unit":"px"},"flex_direction":"row","flex_align_items":"stretch","padding":{"unit":"px","top":"0","right":"5","bottom":"0","left":"5","isLinked":false}},"elements":[{"id":"bd9e21d","elType":"container","settings":{"_column_size":100,"content_width":"full","padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true}},"elements":[{"id":"b3ef2fe","elType":"widget","settings":[],"elements":[],"widgetType":"spacer"},{"id":"4173681","elType":"widget","settings":{"title":"Testimonial","header_size":"h3","align":"center"},"elements":[],"widgetType":"heading"},{"id":"9b600ad","elType":"widget","settings":{"space":{"unit":"px","size":10}},"elements":[],"widgetType":"spacer"},{"id":"4c7eb12","elType":"widget","settings":{"title":"Read why yogis love & trust Yoga\u2019n\u2019Life","header_size":"p","align":"center","title_color":"#8f8f8f"},"elements":[],"widgetType":"heading"},{"id":"c1d7d42","elType":"container","settings":{"structure":"30","flex_direction":"row","flex_align_items":"stretch","flex_gap":{"size":0,"unit":"px"},"padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true}},"elements":[{"id":"cdee1a8","elType":"container","settings":{"_column_size":33,"width":{"size":null,"unit":"%"},"content_width":"full"},"elements":[{"id":"20f5965","elType":"widget","settings":{"space":{"unit":"px","size":30}},"elements":[],"widgetType":"spacer"},{"id":"e325b81","elType":"widget","settings":{"editor":"<p>Great selection of yoga products. Found everything I was looking for with lots of selections to choose from and great pricing to fit everyone's budget.<\/p>","align":"center"},"elements":[],"widgetType":"text-editor"},{"id":"6419c14","elType":"widget","settings":{"space":{"unit":"px","size":10}},"elements":[],"widgetType":"spacer"},{"id":"2a36fb5","elType":"widget","settings":{"text":"Sandra Ford","align":"center","typography_typography":"custom","typography_font_weight":"700","button_text_color":"#fe454b","background_color":"rgba(0,0,0,0)","text_padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false}},"elements":[],"widgetType":"button"}],"isInner":false},{"id":"c5444f1","elType":"container","settings":{"_column_size":33,"width":{"size":null,"unit":"%"},"content_width":"full"},"elements":[{"id":"aa45a88","elType":"widget","settings":{"space":{"unit":"px","size":30}},"elements":[],"widgetType":"spacer"},{"id":"8c80d1c","elType":"widget","settings":{"editor":"<p>Yoga\u2019n\u2019Life is pretty easy to navigate to see what you would want to get. The reviews are also well done. I wish some of the pants were way less expensive though.<\/p>","align":"center"},"elements":[],"widgetType":"text-editor"},{"id":"fc5a59b","elType":"widget","settings":{"space":{"unit":"px","size":10}},"elements":[],"widgetType":"spacer"},{"id":"d1ee014","elType":"widget","settings":{"text":"Rachel Foster","link":{"url":"https:\/\/woostify.com\/demos\/fashion2\/shop\/pros\/335\/pros\/335\/pros\/335\/pros\/335\/pros\/335\/pros\/335\/","is_external":"","nofollow":""},"align":"center","typography_typography":"custom","typography_font_weight":"700","button_text_color":"#fe454b","background_color":"rgba(0,0,0,0)","text_padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false}},"elements":[],"widgetType":"button"}],"isInner":false},{"id":"79880aa","elType":"container","settings":{"_column_size":33,"width":{"size":null,"unit":"%"},"content_width":"full"},"elements":[{"id":"e37ada9","elType":"widget","settings":{"space":{"unit":"px","size":30}},"elements":[],"widgetType":"spacer"},{"id":"8643983","elType":"widget","settings":{"editor":"<p>Hard to find a sports bra that fits well online, so I like a site that has a good return policy. If I find a good fit, I tend to buy a few of the same next time. Good prices!<\/p>","align":"center"},"elements":[],"widgetType":"text-editor"},{"id":"aa00079","elType":"widget","settings":{"space":{"unit":"px","size":10}},"elements":[],"widgetType":"spacer"},{"id":"6c51908","elType":"widget","settings":{"text":"Jeffrey Black","align":"center","typography_typography":"custom","typography_font_weight":"700","button_text_color":"#fe454b","background_color":"rgba(0,0,0,0)","text_padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false}},"elements":[],"widgetType":"button"}],"isInner":false}],"isInner":false}],"isInner":false}],"isInner":false},{"id":"14fe8fb","elType":"container","settings":{"flex_direction":"row","flex_align_items":"stretch","flex_gap":{"size":10,"unit":"px"},"padding":{"unit":"px","top":"0","right":"5","bottom":"0","left":"5","isLinked":false}},"elements":[{"id":"5f7d674","elType":"container","settings":{"_column_size":100,"content_width":"full"},"elements":[{"id":"db33c52","elType":"widget","settings":[],"elements":[],"widgetType":"spacer"},{"id":"0ab0f71","elType":"widget","settings":{"title":"From Our Blog","header_size":"h3","align":"center"},"elements":[],"widgetType":"heading"},{"id":"9f13249","elType":"widget","settings":[],"elements":[],"widgetType":"spacer"},{"id":"3c7b495","elType":"widget","settings":{"layout":"carousel","title_typography_typography":"custom","title_typography_font_weight":"normal","title_alignment":"center","excerpt_typography_typography":"custom","excrept_alignment":"center","read_more_text":"Read More","arrows_position":{"unit":"px","size":-90},"title_space":{"unit":"px","top":"10","right":"10","bottom":"10","left":"10","isLinked":false},"arrows_position_tablet":{"unit":"px","size":7,"sizes":[]},"arrows_bg_color":"rgba(0,0,0,0.05)","arrows_color":"#0b3ee3"},"elements":[],"widgetType":"woostify-post"},{"id":"9d41267","elType":"widget","settings":{"space":{"unit":"px","size":40}},"elements":[],"widgetType":"spacer"},{"id":"aff8b41","elType":"widget","settings":{"text":"Read More Posts","link":{"url":"https:\/\/woostify.com\/demos\/fashion2\/blog\/pros\/335\/pros\/335\/pros\/335\/pros\/335\/pros\/335\/pros\/335\/","is_external":"","nofollow":""},"align":"center","typography_typography":"custom","typography_font_weight":"bold","background_color":"#0b3ee3","border_radius":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true},"text_padding":{"unit":"px","top":"12","right":"23","bottom":"12","left":"23","isLinked":false},"button_background_hover_color":"#fe454b"},"elements":[],"widgetType":"button"}],"isInner":false}],"isInner":false},{"id":"52fe09b","elType":"container","settings":{"structure":"30","flex_direction":"row","flex_align_items":"stretch","flex_gap":{"size":0,"unit":"px"},"padding":{"unit":"px","top":"0","right":"5","bottom":"0","left":"5","isLinked":false}},"elements":[{"id":"aa1ae4f","elType":"container","settings":{"_column_size":33,"width":{"size":null,"unit":"%"},"content_width":"full"},"elements":[{"id":"06b969f","elType":"widget","settings":[],"elements":[],"widgetType":"spacer"},{"id":"cbfccec","elType":"widget","settings":{"image":{"url":"https:\/\/woostify.com\/demos\/fashion2\/wp-content\/uploads\/2019\/01\/icon-1.jpg\/pros\/335\/pros\/335\/pros\/335\/pros\/335\/pros\/335\/pros\/335\/","id":361},"image_size":"full","align":"center"},"elements":[],"widgetType":"image"},{"id":"0cb49d8","elType":"widget","settings":{"title":"Free Shipping","header_size":"h6","align":"center","typography_typography":"custom","typography_font_size":{"unit":"px","size":14},"_margin":{"unit":"px","top":"25","right":"0","bottom":"15","left":"0","isLinked":false}},"elements":[],"widgetType":"heading"},{"id":"f993507","elType":"widget","settings":{"title":"Free shipping on all orders over $50.00","header_size":"p","align":"center","title_color":"#8f8f8f"},"elements":[],"widgetType":"heading"}],"isInner":false},{"id":"7d7a351","elType":"container","settings":{"_column_size":33,"width":{"size":null,"unit":"%"},"content_width":"full"},"elements":[{"id":"e4dc02c","elType":"widget","settings":[],"elements":[],"widgetType":"spacer"},{"id":"b14a125","elType":"widget","settings":{"image":{"url":"https:\/\/demo.woostify.com\/fashion2\/wp-content\/uploads\/sites\/17\/2019\/01\/icon-3.jpg","id":365},"image_size":"full","align":"center"},"elements":[],"widgetType":"image"},{"id":"68bd89e","elType":"widget","settings":{"title":"Money-back Guarantee","header_size":"h6","align":"center","typography_typography":"custom","typography_font_size":{"unit":"px","size":14},"_margin":{"unit":"px","top":"25","right":"0","bottom":"15","left":"0","isLinked":false}},"elements":[],"widgetType":"heading"},{"id":"f4624f0","elType":"widget","settings":{"title":"100% no risk shopping. 14 days refund.","header_size":"p","align":"center","title_color":"#8f8f8f"},"elements":[],"widgetType":"heading"}],"isInner":false},{"id":"993b7c0","elType":"container","settings":{"_column_size":33,"width":{"size":null,"unit":"%"},"content_width":"full"},"elements":[{"id":"61afa81","elType":"widget","settings":[],"elements":[],"widgetType":"spacer"},{"id":"ccf9d46","elType":"widget","settings":{"image":{"url":"https:\/\/demo.woostify.com\/fashion2\/wp-content\/uploads\/sites\/17\/2019\/01\/icon-2.jpg","id":364},"image_size":"full","align":"center"},"elements":[],"widgetType":"image"},{"id":"6061bb9","elType":"widget","settings":{"title":"Secure Payment","header_size":"h6","align":"center","typography_typography":"custom","typography_font_size":{"unit":"px","size":14},"_margin":{"unit":"px","top":"25","right":"0","bottom":"15","left":"0","isLinked":false}},"elements":[],"widgetType":"heading"},{"id":"bd938a2","elType":"widget","settings":{"title":"Accept Paypal, Visa, Mastercard & more","header_size":"p","align":"center","title_color":"#8f8f8f"},"elements":[],"widgetType":"heading"}],"isInner":false}],"isInner":false},{"id":"1c2bb92","elType":"container","settings":{"flex_direction":"row","flex_align_items":"stretch","flex_gap":{"size":10,"unit":"px"},"padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true}},"elements":[{"id":"a0e938a","elType":"container","settings":{"_column_size":100,"content_width":"full"},"elements":[{"id":"8eb8466","elType":"widget","settings":[],"elements":[],"widgetType":"spacer"}],"isInner":false}],"isInner":false},{"id":"642ee6c","elType":"container","settings":{"stretch_section":"section-stretched","content_width":"full","flex_gap":{"size":0,"unit":"px"},"border_border":"solid","border_width":{"unit":"px","top":"0","right":"55","bottom":"0","left":"55","isLinked":false},"border_color":"#ffffff","flex_direction":"row","flex_align_items":"stretch","padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true}},"elements":[{"id":"6fa8aab","elType":"container","settings":{"_column_size":100,"content_width":"full","padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true}},"elements":[{"id":"6ebfeec","elType":"widget","settings":{"shortcode":"[instagram-feed]"},"elements":[],"widgetType":"shortcode"}],"isInner":false}],"isInner":false},{"id":"cfdaf59","elType":"container","settings":{"flex_direction":"row","flex_align_items":"stretch","flex_gap":{"size":10,"unit":"px"},"padding":{"unit":"px","top":"0","right":"5","bottom":"0","left":"5","isLinked":false}},"elements":[{"id":"25a5352","elType":"container","settings":{"_column_size":100,"content_width":"full"},"elements":[{"id":"e653da1","elType":"widget","settings":{"space":{"unit":"px","size":60}},"elements":[],"widgetType":"spacer"},{"id":"ae2b78d","elType":"widget","settings":{"title":"Hey, Lady! Want 10% Off?","align":"center"},"elements":[],"widgetType":"heading"},{"id":"f1e6857","elType":"widget","settings":{"space":{"unit":"px","size":10}},"elements":[],"widgetType":"spacer"},{"id":"b2456bd","elType":"widget","settings":{"title":"Treat your inbox to the latest from Yoga\u2019n\u2019Life","header_size":"p","align":"center","title_color":"#3e3e3e"},"elements":[],"widgetType":"heading"},{"id":"f8c7cd7","elType":"widget","settings":{"space":{"unit":"px","size":30}},"elements":[],"widgetType":"spacer"},{"id":"e4ddf55","elType":"container","settings":{"structure":"33","flex_direction":"row","flex_align_items":"stretch","flex_gap":{"size":0,"unit":"px"},"content_width":"full","padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true}},"elements":[{"id":"db6dfb8","elType":"container","settings":{"_column_size":25,"width":{"size":25,"unit":"%"},"content_width":"full","padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true}},"elements":[],"isInner":false},{"id":"061c1a7","elType":"container","settings":{"_column_size":50,"width":{"size":50,"unit":"%"},"content_width":"full"},"elements":[{"id":"296d5be","elType":"widget","settings":{"shortcode":"[contact-form-7 id=\"262\" title=\"Subsbrice Form\"]"},"elements":[],"widgetType":"shortcode"}],"isInner":false},{"id":"468fa8d","elType":"container","settings":{"_column_size":25,"width":{"size":25,"unit":"%"},"content_width":"full","padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true}},"elements":[],"isInner":false}],"isInner":false},{"id":"c4b4ed5","elType":"widget","settings":[],"elements":[],"widgetType":"spacer"}],"isInner":false}],"isInner":false},{"id":"6f475b8","elType":"container","settings":{"flex_direction":"row","flex_align_items":"stretch","flex_gap":{"size":10,"unit":"px"},"padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true}},"elements":[{"id":"5b0e58e","elType":"container","settings":{"_column_size":100,"content_width":"full","padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true}},"elements":[],"isInner":false}],"isInner":false}]]]></wp:meta_value>
+		<wp:meta_value><![CDATA[[{"id":"5c6b483","elType":"container","settings":{"stretch_section":"section-stretched","content_width":"full","flex_gap":{"size":0,"unit":"px"},"flex_direction":"row","flex_align_items":"stretch","padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true}},"elements":[{"id":"896bdbd","elType":"container","settings":{"_column_size":100,"content_width":"full","padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true}},"elements":[{"id":"f13ca64","elType":"widget","settings":{"slides":[{"title":"","description":"Yoga\u2019n\u2019Life \u2014 Everything you need to \nkick-start your healthy yoga practice.","btn1_text":"Shop Now","btn1_link":{"url":"https:\/\/woostify.com\/demos\/fashion2\/shop\/pros\/335\/pros\/335\/pros\/335\/pros\/335\/pros\/335\/pros\/335\/pros\/335\/pros\/335\/pros\/335\/pros\/335\/"},"background_background":"classic","_id":"b0c596e","btn2_link":{"url":"","is_external":"","nofollow":""},"background_color_stop":{"unit":"%","size":0},"background_color_b_stop":{"unit":"%","size":100},"background_gradient_angle":{"unit":"deg","size":180},"background_image":{"url":"https:\/\/demo.woostify.com\/fashion2\/wp-content\/uploads\/sites\/17\/2019\/01\/img-1.jpg","id":386},"background_position":"center center","background_xpos":{"unit":"px","size":0},"background_xpos_tablet":{"unit":"px","size":0},"background_xpos_mobile":{"unit":"px","size":0},"background_ypos":{"unit":"px","size":0},"background_ypos_tablet":{"unit":"px","size":0},"background_ypos_mobile":{"unit":"px","size":0},"background_attachment_tablet":"","background_attachment_mobile":"","background_repeat":"no-repeat","background_size":"cover","background_bg_width":{"unit":"%","size":100},"background_bg_width_tablet":{"unit":"px","size":""},"background_bg_width_mobile":{"unit":"px","size":""}},{"title":"","description":"Your friendly & stylish wellness community","btn1_text":"Shop Now","btn1_link":{"url":"https:\/\/woostify.com\/demos\/fashion2\/shop\/pros\/335\/pros\/335\/pros\/335\/pros\/335\/pros\/335\/pros\/335\/pros\/335\/pros\/335\/pros\/335\/pros\/335\/"},"background_background":"classic","_id":"e66424c","btn2_link":{"url":"","is_external":"","nofollow":""},"background_color_stop":{"unit":"%","size":0},"background_color_b_stop":{"unit":"%","size":100},"background_gradient_angle":{"unit":"deg","size":180},"background_image":{"url":"https:\/\/demo.woostify.com\/fashion2\/wp-content\/uploads\/sites\/17\/2019\/01\/slide2.jpg","id":346},"background_position":"center center","background_xpos":{"unit":"px","size":0},"background_xpos_tablet":{"unit":"px","size":0},"background_xpos_mobile":{"unit":"px","size":0},"background_ypos":{"unit":"px","size":0},"background_ypos_tablet":{"unit":"px","size":0},"background_ypos_mobile":{"unit":"px","size":0},"background_attachment_tablet":"","background_attachment_mobile":"","background_repeat":"no-repeat","background_size":"cover","background_bg_width":{"unit":"%","size":100},"background_bg_width_tablet":{"unit":"px","size":""},"background_bg_width_mobile":{"unit":"px","size":""},"custom_content_animation":"zoomIn"}],"navigation":"dots","content_animation":"fadeInUp","slider_height":{"unit":"px","size":600},"slide_width":{"unit":"px","size":1170},"slide_padding":{"unit":"px","top":"100","right":"100","bottom":"100","left":"100","isLinked":true},"horizontal_pos":"left","vertical_pos":"flex-end","text_align":"left","description_color":"#3e3e3e","button_typography_typography":"custom","button_typography_font_weight":"700","button_border_width":{"unit":"px","size":1},"button_border_radius":{"unit":"px","size":0},"button_padding":{"unit":"px","top":"5","right":"25","bottom":"5","left":"25","isLinked":false},"button_bg_color":"#0b3ee3","button_border_color":"#0b3ee3","title_color":"#3e3e3e","description_space":{"unit":"px","size":40},"slide_width_tablet":{"unit":"%","size":100},"slide_padding_tablet":{"unit":"px","top":"50","right":"70","bottom":"50","left":"70","isLinked":false},"slide_padding_mobile":{"unit":"px","top":"50","right":"30","bottom":"50","left":"30","isLinked":false},"vertical_pos_tablet":"center","slider_height_tablet":{"unit":"px","size":400,"sizes":[]},"slider_height_mobile":{"unit":"px","size":320,"sizes":[]},"container_width":{"unit":"px","size":1170,"sizes":[]},"content_width":{"unit":"px","size":300,"sizes":[]},"button_bg_color_hover":"#fe454b","button_border_color_hover":"#fe454b","arrows_position":{"unit":"px","size":-9,"sizes":[]}},"elements":[],"widgetType":"woostify-slider"}],"isInner":false}],"isInner":false},{"id":"a1fb96b","elType":"container","settings":{"flex_direction":"row","flex_align_items":"stretch","flex_gap":{"size":10,"unit":"px"},"padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true}},"elements":[{"id":"320eec4","elType":"container","settings":{"_column_size":100,"content_width":"full"},"elements":[{"id":"882a503","elType":"widget","settings":{"space":{"unit":"px","size":75}},"elements":[],"widgetType":"spacer"}],"isInner":false}],"isInner":false},{"id":"b05d264","elType":"container","settings":{"flex_gap":{"size":0,"unit":"px"},"structure":"20","flex_direction":"row","flex_align_items":"stretch","padding":{"unit":"px","top":"0","right":"10","bottom":"0","left":"10","isLinked":false}},"elements":[{"id":"a340923","elType":"container","settings":{"_column_size":50,"width":{"size":null,"unit":"%"},"content_width":"full","flex_gap":{"unit":"px","size":0,"sizes":[]},"padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true}},"elements":[{"id":"9612d70","elType":"container","settings":{"flex_gap":{"size":0,"unit":"px"},"structure":"20","flex_direction":"row","flex_align_items":"stretch","content_width":"full","padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true}},"elements":[{"id":"7236f68","elType":"container","settings":{"_column_size":50,"width":{"size":null,"unit":"%"},"flex_gap":{"size":0,"unit":"px"},"content_width":"full","padding":{"unit":"px","top":"5","right":"5","bottom":"5","left":"5","isLinked":true}},"elements":[{"id":"f230ac2","elType":"widget","settings":{"title":"best<br>leggings","header_size":"p","align":"center","title_color":"#ffffff","typography_typography":"custom","typography_font_size":{"unit":"px","size":30,"sizes":[]},"typography_font_size_tablet":{"unit":"px","size":24,"sizes":[]},"typography_font_weight":"300","_element_width":"initial","_element_width_tablet":"initial","_element_custom_width":{"unit":"%","size":100},"_element_custom_width_tablet":{"unit":"px","size":124},"_position":"absolute","_offset_x":{"size":0,"unit":"%"},"_offset_x_tablet":{"size":30,"unit":"px"},"_offset_x_mobile":{"size":100,"unit":"px"},"_offset_y":{"size":39.889,"unit":"%"},"_offset_y_tablet":{"size":60.219,"unit":"px"},"_offset_y_mobile":{"size":98.219,"unit":"px"},"_padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true},"link":{"url":"https:\/\/woostify.com\/demos\/pro\/fashion2\/shop\/pros\/335\/pros\/335\/pros\/335\/pros\/335\/pros\/335\/pros\/335\/pros\/335\/pros\/335\/pros\/335\/pros\/335\/","is_external":"","nofollow":""}},"elements":[],"widgetType":"heading"},{"id":"ec8b7ed","elType":"widget","settings":{"image":{"url":"https:\/\/woostify.com\/demos\/fashion2\/wp-content\/uploads\/2019\/03\/img-cat-1.jpg\/pros\/335\/pros\/335\/pros\/335\/pros\/335\/pros\/335\/pros\/335\/pros\/335\/pros\/335\/pros\/335\/pros\/335\/","id":437},"caption":"hello","link_to":"custom","link":{"url":"https:\/\/woostify.com\/demos\/pro\/fashion2\/shop\/pros\/335\/pros\/335\/pros\/335\/pros\/335\/pros\/335\/pros\/335\/pros\/335\/pros\/335\/pros\/335\/pros\/335\/","is_external":"","nofollow":""}},"elements":[],"widgetType":"image"}],"isInner":false},{"id":"b4214d5","elType":"container","settings":{"_column_size":50,"width":{"size":null,"unit":"%"},"flex_gap":{"size":0,"unit":"px"},"content_width":"full","padding":{"unit":"px","top":"5","right":"5","bottom":"5","left":"5","isLinked":true}},"elements":[{"id":"b3bdffd","elType":"widget","settings":{"image":{"url":"https:\/\/woostify.com\/demos\/fashion2\/wp-content\/uploads\/2019\/03\/img-cat-2.jpg\/pros\/335\/pros\/335\/pros\/335\/pros\/335\/pros\/335\/pros\/335\/pros\/335\/pros\/335\/pros\/335\/pros\/335\/","id":438},"link_to":"custom","link":{"url":"https:\/\/woostify.com\/demos\/pro\/fashion2\/shop\/pros\/335\/pros\/335\/pros\/335\/pros\/335\/pros\/335\/pros\/335\/pros\/335\/pros\/335\/pros\/335\/pros\/335\/","is_external":"","nofollow":""}},"elements":[],"widgetType":"image"},{"id":"0debe61","elType":"widget","settings":{"title":"Your friend &<br>stylish wellness<br>community.","header_size":"p","align":"center","title_color":"#ffffff","typography_typography":"custom","typography_font_size":{"unit":"px","size":26,"sizes":[]},"typography_font_size_tablet":{"unit":"px","size":18,"sizes":[]},"typography_line_height":{"unit":"em","size":1.3,"sizes":[]},"_element_width":"initial","_element_width_tablet":"initial","_element_width_mobile":"initial","_element_custom_width":{"unit":"%","size":100},"_element_custom_width_tablet":{"unit":"px","size":135},"_element_custom_width_mobile":{"unit":"px","size":170},"_position":"absolute","_offset_x":{"size":0,"unit":"%"},"_offset_x_tablet":{"size":20,"unit":"px"},"_offset_x_mobile":{"size":75,"unit":"px"},"_offset_y":{"size":31,"unit":"%"},"_offset_y_tablet":{"size":58,"unit":"px"},"_offset_y_mobile":{"size":105,"unit":"px"},"_padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false},"link":{"url":"https:\/\/woostify.com\/demos\/pro\/fashion2\/shop\/pros\/335\/pros\/335\/pros\/335\/pros\/335\/pros\/335\/pros\/335\/pros\/335\/pros\/335\/pros\/335\/pros\/335\/","is_external":"","nofollow":""}},"elements":[],"widgetType":"heading"}],"isInner":false}],"isInner":false},{"id":"52eab7d","elType":"container","settings":{"flex_gap":{"size":5,"unit":"px"},"flex_direction":"row","flex_align_items":"stretch","content_width":"full","padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true}},"elements":[{"id":"1f57588","elType":"container","settings":{"_column_size":100,"width":{"size":null,"unit":"%"},"content_width":"full","padding":{"unit":"px","top":"5","right":"5","bottom":"5","left":"5","isLinked":true}},"elements":[{"id":"ec3d954","elType":"widget","settings":{"title":"new\narrivals","align_mobile":"center","title_color":"#68c5ae","typography_typography":"custom","typography_font_size":{"unit":"px","size":48,"sizes":[]},"typography_font_size_tablet":{"unit":"px","size":42,"sizes":[]},"_element_width":"initial","_element_custom_width":{"unit":"px","size":222},"_position":"absolute","_offset_x":{"size":50,"unit":"px"},"_offset_x_tablet":{"size":17,"unit":"px"},"_offset_x_mobile":{"size":39,"unit":"px"},"_offset_y":{"size":10,"unit":"%"},"_offset_y_tablet":{"size":50,"unit":"px"},"_offset_y_mobile":{"size":31,"unit":"px"},"_offset_orientation_v":"end","_offset_y_end":{"unit":"%","size":10,"sizes":[]},"link":{"url":"https:\/\/woostify.com\/demos\/pro\/fashion2\/shop\/pros\/335\/pros\/335\/pros\/335\/pros\/335\/pros\/335\/pros\/335\/pros\/335\/pros\/335\/pros\/335\/pros\/335\/","is_external":"","nofollow":""}},"elements":[],"widgetType":"heading"},{"id":"33fdef8","elType":"widget","settings":{"image":{"url":"https:\/\/woostify.com\/demos\/fashion2\/wp-content\/uploads\/2019\/03\/img-cat-4.jpg\/pros\/335\/pros\/335\/pros\/335\/pros\/335\/pros\/335\/pros\/335\/pros\/335\/pros\/335\/pros\/335\/pros\/335\/","id":440},"link_to":"custom","link":{"url":"https:\/\/woostify.com\/demos\/pro\/fashion2\/shop\/pros\/335\/pros\/335\/pros\/335\/pros\/335\/pros\/335\/pros\/335\/pros\/335\/pros\/335\/pros\/335\/pros\/335\/","is_external":"","nofollow":""}},"elements":[],"widgetType":"image"}],"isInner":false}],"isInner":false}],"isInner":false},{"id":"ec5ae46","elType":"container","settings":{"_column_size":50,"width":{"size":null,"unit":"%"},"content_width":"full","padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true}},"elements":[{"id":"0bea11a","elType":"container","settings":{"flex_gap":{"size":5,"unit":"px"},"flex_direction":"row","flex_align_items":"stretch","content_width":"full","padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true}},"elements":[{"id":"2287058","elType":"container","settings":{"_column_size":100,"width":{"size":null,"unit":"%"},"content_width":"full","padding":{"unit":"px","top":"5","right":"5","bottom":"5","left":"5","isLinked":true}},"elements":[{"id":"b983f12","elType":"widget","settings":{"title":"yoga<br>mats","align":"center","title_color":"#fe454b","typography_typography":"custom","typography_font_size":{"unit":"px","size":72,"sizes":[]},"typography_font_size_tablet":{"unit":"px","size":60,"sizes":[]},"typography_font_size_mobile":{"unit":"px","size":42,"sizes":[]},"_element_width":"initial","_element_width_tablet":"initial","_element_width_mobile":"initial","_element_custom_width":{"unit":"%","size":100},"_element_custom_width_tablet":{"unit":"px","size":266},"_element_custom_width_mobile":{"unit":"px","size":200},"_position":"absolute","_offset_x":{"size":0,"unit":"%"},"_offset_x_tablet":{"size":38,"unit":"px"},"_offset_x_mobile":{"size":52,"unit":"px"},"_offset_y":{"size":28,"unit":"px"},"_offset_y_tablet":{"size":11,"unit":"px"},"_offset_y_mobile":{"size":21,"unit":"px"},"link":{"url":"https:\/\/woostify.com\/demos\/pro\/fashion2\/shop\/pros\/335\/pros\/335\/pros\/335\/pros\/335\/pros\/335\/pros\/335\/pros\/335\/pros\/335\/pros\/335\/pros\/335\/","is_external":"","nofollow":""}},"elements":[],"widgetType":"heading"},{"id":"ea3574e","elType":"widget","settings":{"image":{"url":"https:\/\/woostify.com\/demos\/fashion2\/wp-content\/uploads\/2019\/03\/img-cat-3.jpg\/pros\/335\/pros\/335\/pros\/335\/pros\/335\/pros\/335\/pros\/335\/pros\/335\/pros\/335\/pros\/335\/pros\/335\/","id":439},"link_to":"custom","link":{"url":"https:\/\/woostify.com\/demos\/pro\/fashion2\/shop\/pros\/335\/pros\/335\/pros\/335\/pros\/335\/pros\/335\/pros\/335\/pros\/335\/pros\/335\/pros\/335\/pros\/335\/","is_external":"","nofollow":""}},"elements":[],"widgetType":"image"}],"isInner":false}],"isInner":false}],"isInner":false}],"isInner":false},{"id":"90e88d3","elType":"container","settings":{"flex_direction":"row","flex_align_items":"stretch","flex_gap":{"size":10,"unit":"px"},"padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true}},"elements":[{"id":"b5eeda0","elType":"container","settings":{"_column_size":100,"content_width":"full"},"elements":[{"id":"90f70f6","elType":"widget","settings":{"space":{"unit":"px","size":65}},"elements":[],"widgetType":"spacer"}],"isInner":false}],"isInner":false},{"id":"1fd613b","elType":"container","settings":{"flex_direction":"row","flex_align_items":"stretch","flex_gap":{"size":10,"unit":"px"},"padding":{"unit":"px","top":"0","right":"5","bottom":"0","left":"5","isLinked":false}},"elements":[{"id":"41f8a35","elType":"container","settings":{"_column_size":100,"content_width":"full"},"elements":[{"id":"bab63dc","elType":"widget","settings":{"title":"Find something new to love","header_size":"h3","align":"center"},"elements":[],"widgetType":"heading"},{"id":"7875dd0","elType":"widget","settings":{"title":"Curated favorites just for you","header_size":"p","align":"center","typography_typography":"custom","typography_line_height":{"unit":"em","size":3}},"elements":[],"widgetType":"heading"},{"id":"c490ca0","elType":"widget","settings":{"space":{"unit":"px","size":30}},"elements":[],"widgetType":"spacer"},{"id":"44db37f","elType":"widget","settings":{"arrows_position":{"unit":"px","size":-80,"sizes":[]},"arrows_bg_color":"#00000008","arrows_color":"#FE454B","dots_position":{"unit":"px","size":"","sizes":[]},"dots_bg_color":"#00000054","dots_color":"#FE454B"},"elements":[],"widgetType":"woostify-new-product-slider"}],"isInner":false}],"isInner":false},{"id":"8024ed1","elType":"container","settings":{"stretch_section":"section-stretched","boxed_width":{"unit":"px","size":1600},"flex_gap":{"size":0,"unit":"px"},"background_background":"classic","background_image":{"url":"https:\/\/demo.woostify.com\/fashion2\/wp-content\/uploads\/sites\/17\/2019\/01\/timg-6.jpg","id":290},"background_position":"center center","background_repeat":"no-repeat","background_size":"cover","padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false},"border_border":"solid","border_width":{"unit":"px","top":"0","right":"60","bottom":"0","left":"60","isLinked":false},"border_width_mobile":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false},"border_color":"#ffffff","flex_direction":"row","flex_align_items":"stretch"},"elements":[{"id":"97d1bba","elType":"container","settings":{"_column_size":100,"content_width":"full","padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true}},"elements":[{"id":"d2f6eb8","elType":"widget","settings":{"space":{"unit":"px","size":150}},"elements":[],"widgetType":"spacer"},{"id":"8b66859","elType":"container","settings":{"structure":"20","flex_direction":"row","flex_align_items":"stretch","flex_gap":{"size":0,"unit":"px"},"padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true}},"elements":[{"id":"0ddc6ca","elType":"container","settings":{"_column_size":50,"width":{"size":50,"unit":"%"},"content_width":"full"},"elements":[{"id":"9936a43","elType":"widget","settings":{"title":"Starter Kit","align":"center","typography_typography":"custom","typography_font_size":{"unit":"px","size":48},"typography_font_weight":"300"},"elements":[],"widgetType":"heading"},{"id":"242ec76","elType":"widget","settings":{"title":"Everything you need to kick-start your \nhealthy yoga practice.","header_size":"p","align":"center","typography_typography":"custom","typography_line_height":{"unit":"px","size":30},"_padding":{"unit":"px","top":"0","right":"100","bottom":"0","left":"100","isLinked":false},"_padding_tablet":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true}},"elements":[],"widgetType":"heading"},{"id":"ae69d82","elType":"widget","settings":{"space":{"unit":"px","size":5}},"elements":[],"widgetType":"spacer"},{"id":"e83452c","elType":"widget","settings":{"text":"Buy Package From $150","link":{"url":"https:\/\/woostify.com\/demos\/pro\/fashion2\/shop\/pros\/335\/pros\/335\/pros\/335\/pros\/335\/pros\/335\/pros\/335\/pros\/335\/pros\/335\/pros\/335\/pros\/335\/","is_external":"","nofollow":""},"align":"center","typography_typography":"custom","typography_font_weight":"700","typography_text_decoration":"underline","button_text_color":"#fe454b","background_color":"rgba(0,0,0,0)"},"elements":[],"widgetType":"button"}],"isInner":false},{"id":"f195736","elType":"container","settings":{"_column_size":50,"width":{"size":50,"unit":"%"},"content_width":"full","padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true}},"elements":[],"isInner":false}],"isInner":false},{"id":"756a80d","elType":"widget","settings":{"space":{"unit":"px","size":150}},"elements":[],"widgetType":"spacer"}],"isInner":false}],"isInner":false},{"id":"7a87092","elType":"container","settings":{"stretch_section":"section-stretched","content_width":"full","flex_gap":{"size":0,"unit":"px"},"flex_direction":"row","flex_align_items":"stretch","padding":{"unit":"px","top":"0","right":"5","bottom":"0","left":"5","isLinked":false}},"elements":[{"id":"bd9e21d","elType":"container","settings":{"_column_size":100,"content_width":"full","padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true}},"elements":[{"id":"b3ef2fe","elType":"widget","settings":[],"elements":[],"widgetType":"spacer"},{"id":"4173681","elType":"widget","settings":{"title":"Testimonial","header_size":"h3","align":"center"},"elements":[],"widgetType":"heading"},{"id":"9b600ad","elType":"widget","settings":{"space":{"unit":"px","size":10}},"elements":[],"widgetType":"spacer"},{"id":"4c7eb12","elType":"widget","settings":{"title":"Read why yogis love & trust Yoga\u2019n\u2019Life","header_size":"p","align":"center","title_color":"#8f8f8f"},"elements":[],"widgetType":"heading"},{"id":"c1d7d42","elType":"container","settings":{"structure":"30","flex_direction":"row","flex_align_items":"stretch","flex_gap":{"size":0,"unit":"px"},"padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true}},"elements":[{"id":"cdee1a8","elType":"container","settings":{"_column_size":33,"width":{"size":null,"unit":"%"},"content_width":"full"},"elements":[{"id":"20f5965","elType":"widget","settings":{"space":{"unit":"px","size":30}},"elements":[],"widgetType":"spacer"},{"id":"e325b81","elType":"widget","settings":{"editor":"<p>Great selection of yoga products. Found everything I was looking for with lots of selections to choose from and great pricing to fit everyone's budget.<\/p>","align":"center"},"elements":[],"widgetType":"text-editor"},{"id":"6419c14","elType":"widget","settings":{"space":{"unit":"px","size":10}},"elements":[],"widgetType":"spacer"},{"id":"2a36fb5","elType":"widget","settings":{"text":"Sandra Ford","align":"center","typography_typography":"custom","typography_font_weight":"700","button_text_color":"#fe454b","background_color":"rgba(0,0,0,0)","text_padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false}},"elements":[],"widgetType":"button"}],"isInner":false},{"id":"c5444f1","elType":"container","settings":{"_column_size":33,"width":{"size":null,"unit":"%"},"content_width":"full"},"elements":[{"id":"aa45a88","elType":"widget","settings":{"space":{"unit":"px","size":30}},"elements":[],"widgetType":"spacer"},{"id":"8c80d1c","elType":"widget","settings":{"editor":"<p>Yoga\u2019n\u2019Life is pretty easy to navigate to see what you would want to get. The reviews are also well done. I wish some of the pants were way less expensive though.<\/p>","align":"center"},"elements":[],"widgetType":"text-editor"},{"id":"fc5a59b","elType":"widget","settings":{"space":{"unit":"px","size":10}},"elements":[],"widgetType":"spacer"},{"id":"d1ee014","elType":"widget","settings":{"text":"Rachel Foster","link":{"url":"https:\/\/woostify.com\/demos\/fashion2\/shop\/pros\/335\/pros\/335\/pros\/335\/pros\/335\/pros\/335\/pros\/335\/pros\/335\/pros\/335\/pros\/335\/pros\/335\/","is_external":"","nofollow":""},"align":"center","typography_typography":"custom","typography_font_weight":"700","button_text_color":"#fe454b","background_color":"rgba(0,0,0,0)","text_padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false}},"elements":[],"widgetType":"button"}],"isInner":false},{"id":"79880aa","elType":"container","settings":{"_column_size":33,"width":{"size":null,"unit":"%"},"content_width":"full"},"elements":[{"id":"e37ada9","elType":"widget","settings":{"space":{"unit":"px","size":30}},"elements":[],"widgetType":"spacer"},{"id":"8643983","elType":"widget","settings":{"editor":"<p>Hard to find a sports bra that fits well online, so I like a site that has a good return policy. If I find a good fit, I tend to buy a few of the same next time. Good prices!<\/p>","align":"center"},"elements":[],"widgetType":"text-editor"},{"id":"aa00079","elType":"widget","settings":{"space":{"unit":"px","size":10}},"elements":[],"widgetType":"spacer"},{"id":"6c51908","elType":"widget","settings":{"text":"Jeffrey Black","align":"center","typography_typography":"custom","typography_font_weight":"700","button_text_color":"#fe454b","background_color":"rgba(0,0,0,0)","text_padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false}},"elements":[],"widgetType":"button"}],"isInner":false}],"isInner":false}],"isInner":false}],"isInner":false},{"id":"14fe8fb","elType":"container","settings":{"flex_direction":"row","flex_align_items":"stretch","flex_gap":{"size":10,"unit":"px"},"padding":{"unit":"px","top":"0","right":"5","bottom":"0","left":"5","isLinked":false}},"elements":[{"id":"5f7d674","elType":"container","settings":{"_column_size":100,"content_width":"full"},"elements":[{"id":"db33c52","elType":"widget","settings":[],"elements":[],"widgetType":"spacer"},{"id":"0ab0f71","elType":"widget","settings":{"title":"From Our Blog","header_size":"h3","align":"center"},"elements":[],"widgetType":"heading"},{"id":"9f13249","elType":"widget","settings":[],"elements":[],"widgetType":"spacer"},{"id":"3c7b495","elType":"widget","settings":{"layout":"carousel","title_typography_typography":"custom","title_typography_font_weight":"normal","title_alignment":"center","excerpt_typography_typography":"custom","excrept_alignment":"center","read_more_text":"Read More","arrows_position":{"unit":"px","size":-90},"title_space":{"unit":"px","top":"10","right":"10","bottom":"10","left":"10","isLinked":false},"arrows_position_tablet":{"unit":"px","size":7,"sizes":[]},"arrows_bg_color":"rgba(0,0,0,0.05)","arrows_color":"#0b3ee3"},"elements":[],"widgetType":"woostify-post"},{"id":"9d41267","elType":"widget","settings":{"space":{"unit":"px","size":40}},"elements":[],"widgetType":"spacer"},{"id":"aff8b41","elType":"widget","settings":{"text":"Read More Posts","link":{"url":"https:\/\/woostify.com\/demos\/fashion2\/blog\/pros\/335\/pros\/335\/pros\/335\/pros\/335\/pros\/335\/pros\/335\/pros\/335\/pros\/335\/pros\/335\/pros\/335\/","is_external":"","nofollow":""},"align":"center","typography_typography":"custom","typography_font_weight":"bold","background_color":"#0b3ee3","border_radius":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true},"text_padding":{"unit":"px","top":"12","right":"23","bottom":"12","left":"23","isLinked":false},"button_background_hover_color":"#fe454b"},"elements":[],"widgetType":"button"}],"isInner":false}],"isInner":false},{"id":"52fe09b","elType":"container","settings":{"structure":"30","flex_direction":"row","flex_align_items":"stretch","flex_gap":{"size":0,"unit":"px"},"padding":{"unit":"px","top":"0","right":"5","bottom":"0","left":"5","isLinked":false}},"elements":[{"id":"aa1ae4f","elType":"container","settings":{"_column_size":33,"width":{"size":null,"unit":"%"},"content_width":"full"},"elements":[{"id":"06b969f","elType":"widget","settings":[],"elements":[],"widgetType":"spacer"},{"id":"cbfccec","elType":"widget","settings":{"image":{"url":"https:\/\/woostify.com\/demos\/fashion2\/wp-content\/uploads\/2019\/01\/icon-1.jpg\/pros\/335\/pros\/335\/pros\/335\/pros\/335\/pros\/335\/pros\/335\/pros\/335\/pros\/335\/pros\/335\/pros\/335\/","id":361},"image_size":"full","align":"center"},"elements":[],"widgetType":"image"},{"id":"0cb49d8","elType":"widget","settings":{"title":"Free Shipping","header_size":"h6","align":"center","typography_typography":"custom","typography_font_size":{"unit":"px","size":14},"_margin":{"unit":"px","top":"25","right":"0","bottom":"15","left":"0","isLinked":false}},"elements":[],"widgetType":"heading"},{"id":"f993507","elType":"widget","settings":{"title":"Free shipping on all orders over $50.00","header_size":"p","align":"center","title_color":"#8f8f8f"},"elements":[],"widgetType":"heading"}],"isInner":false},{"id":"7d7a351","elType":"container","settings":{"_column_size":33,"width":{"size":null,"unit":"%"},"content_width":"full"},"elements":[{"id":"e4dc02c","elType":"widget","settings":[],"elements":[],"widgetType":"spacer"},{"id":"b14a125","elType":"widget","settings":{"image":{"url":"https:\/\/demo.woostify.com\/fashion2\/wp-content\/uploads\/sites\/17\/2019\/01\/icon-3.jpg","id":365},"image_size":"full","align":"center"},"elements":[],"widgetType":"image"},{"id":"68bd89e","elType":"widget","settings":{"title":"Money-back Guarantee","header_size":"h6","align":"center","typography_typography":"custom","typography_font_size":{"unit":"px","size":14},"_margin":{"unit":"px","top":"25","right":"0","bottom":"15","left":"0","isLinked":false}},"elements":[],"widgetType":"heading"},{"id":"f4624f0","elType":"widget","settings":{"title":"100% no risk shopping. 14 days refund.","header_size":"p","align":"center","title_color":"#8f8f8f"},"elements":[],"widgetType":"heading"}],"isInner":false},{"id":"993b7c0","elType":"container","settings":{"_column_size":33,"width":{"size":null,"unit":"%"},"content_width":"full"},"elements":[{"id":"61afa81","elType":"widget","settings":[],"elements":[],"widgetType":"spacer"},{"id":"ccf9d46","elType":"widget","settings":{"image":{"url":"https:\/\/demo.woostify.com\/fashion2\/wp-content\/uploads\/sites\/17\/2019\/01\/icon-2.jpg","id":364,"alt":"","source":"library","size":""},"image_size":"full","align":"center"},"elements":[],"widgetType":"image"},{"id":"6061bb9","elType":"widget","settings":{"title":"Secure Payment","header_size":"h6","align":"center","typography_typography":"custom","typography_font_size":{"unit":"px","size":14},"_margin":{"unit":"px","top":"25","right":"0","bottom":"15","left":"0","isLinked":false}},"elements":[],"widgetType":"heading"},{"id":"bd938a2","elType":"widget","settings":{"title":"Accept Paypal, Visa, Mastercard & more","header_size":"p","align":"center","title_color":"#8f8f8f"},"elements":[],"widgetType":"heading"}],"isInner":false}],"isInner":false},{"id":"1c2bb92","elType":"container","settings":{"flex_direction":"row","flex_align_items":"stretch","flex_gap":{"size":10,"unit":"px"},"padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true}},"elements":[{"id":"a0e938a","elType":"container","settings":{"_column_size":100,"content_width":"full"},"elements":[{"id":"8eb8466","elType":"widget","settings":[],"elements":[],"widgetType":"spacer"}],"isInner":false}],"isInner":false},{"id":"642ee6c","elType":"container","settings":{"stretch_section":"section-stretched","content_width":"full","flex_gap":{"size":0,"unit":"px"},"border_border":"solid","border_width":{"unit":"px","top":"0","right":"55","bottom":"0","left":"55","isLinked":false},"border_color":"#ffffff","flex_direction":"row","flex_align_items":"stretch","padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true}},"elements":[{"id":"6fa8aab","elType":"container","settings":{"_column_size":100,"content_width":"full","padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true}},"elements":[{"id":"6ebfeec","elType":"widget","settings":{"shortcode":"[instagram-feed feed=1]"},"elements":[],"widgetType":"shortcode"}],"isInner":false}],"isInner":false},{"id":"cfdaf59","elType":"container","settings":{"flex_direction":"row","flex_align_items":"stretch","flex_gap":{"size":10,"unit":"px"},"padding":{"unit":"px","top":"0","right":"5","bottom":"0","left":"5","isLinked":false}},"elements":[{"id":"25a5352","elType":"container","settings":{"_column_size":100,"content_width":"full"},"elements":[{"id":"e653da1","elType":"widget","settings":{"space":{"unit":"px","size":60}},"elements":[],"widgetType":"spacer"},{"id":"ae2b78d","elType":"widget","settings":{"title":"Hey, Lady! Want 10% Off?","align":"center"},"elements":[],"widgetType":"heading"},{"id":"f1e6857","elType":"widget","settings":{"space":{"unit":"px","size":10}},"elements":[],"widgetType":"spacer"},{"id":"b2456bd","elType":"widget","settings":{"title":"Treat your inbox to the latest from Yoga\u2019n\u2019Life","header_size":"p","align":"center","title_color":"#3e3e3e"},"elements":[],"widgetType":"heading"},{"id":"f8c7cd7","elType":"widget","settings":{"space":{"unit":"px","size":30}},"elements":[],"widgetType":"spacer"},{"id":"e4ddf55","elType":"container","settings":{"structure":"33","flex_direction":"row","flex_align_items":"stretch","flex_gap":{"size":0,"unit":"px"},"content_width":"full","padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true}},"elements":[{"id":"db6dfb8","elType":"container","settings":{"_column_size":25,"width":{"size":25,"unit":"%"},"content_width":"full","padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true}},"elements":[],"isInner":false},{"id":"061c1a7","elType":"container","settings":{"_column_size":50,"width":{"size":50,"unit":"%"},"content_width":"full"},"elements":[{"id":"296d5be","elType":"widget","settings":{"shortcode":"[contact-form-7 id=\"262\" title=\"Subsbrice Form\"]"},"elements":[],"widgetType":"shortcode"}],"isInner":false},{"id":"468fa8d","elType":"container","settings":{"_column_size":25,"width":{"size":25,"unit":"%"},"content_width":"full","padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true}},"elements":[],"isInner":false}],"isInner":false},{"id":"c4b4ed5","elType":"widget","settings":[],"elements":[],"widgetType":"spacer"}],"isInner":false}],"isInner":false},{"id":"6f475b8","elType":"container","settings":{"flex_direction":"row","flex_align_items":"stretch","flex_gap":{"size":10,"unit":"px"},"padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true}},"elements":[{"id":"5b0e58e","elType":"container","settings":{"_column_size":100,"content_width":"full","padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true}},"elements":[],"isInner":false}],"isInner":false}]]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_elementor_version]]></wp:meta_key>
@@ -4749,7 +5216,7 @@ healthy yoga practice.</p>
 							</item>
 					<item>
 		<title><![CDATA[Gift Cards]]></title>
-		<link>https://demo.woostify.com/fashion2/2019/01/02/gift-cards/</link>
+		<link>https://demo.woostify.com/fashion2/gift-cards/</link>
 		<pubDate>Wed, 02 Jan 2019 08:07:41 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/fashion2/?p=174</guid>
@@ -4822,7 +5289,7 @@ healthy yoga practice.</p>
 							</item>
 					<item>
 		<title><![CDATA[Why Shop At Yoga'n'Life]]></title>
-		<link>https://demo.woostify.com/fashion2/2019/01/02/why-shop-at-yoganlife/</link>
+		<link>https://demo.woostify.com/fashion2/why-shop-at-yoganlife/</link>
 		<pubDate>Wed, 02 Jan 2019 08:07:41 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/fashion2/?p=175</guid>
@@ -4895,7 +5362,7 @@ healthy yoga practice.</p>
 							</item>
 					<item>
 		<title><![CDATA[Company Information]]></title>
-		<link>https://demo.woostify.com/fashion2/2019/01/02/company-information/</link>
+		<link>https://demo.woostify.com/fashion2/company-information/</link>
 		<pubDate>Wed, 02 Jan 2019 08:11:05 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/fashion2/?p=176</guid>
@@ -4968,7 +5435,7 @@ healthy yoga practice.</p>
 							</item>
 					<item>
 		<title><![CDATA[Career]]></title>
-		<link>https://demo.woostify.com/fashion2/2019/01/02/career/</link>
+		<link>https://demo.woostify.com/fashion2/career/</link>
 		<pubDate>Wed, 02 Jan 2019 08:11:05 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/fashion2/?p=177</guid>
@@ -5041,7 +5508,7 @@ healthy yoga practice.</p>
 							</item>
 					<item>
 		<title><![CDATA[Testimonials]]></title>
-		<link>https://demo.woostify.com/fashion2/2019/01/02/testimonials/</link>
+		<link>https://demo.woostify.com/fashion2/testimonials/</link>
 		<pubDate>Wed, 02 Jan 2019 08:11:05 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/fashion2/?p=178</guid>
@@ -5114,7 +5581,7 @@ healthy yoga practice.</p>
 							</item>
 					<item>
 		<title><![CDATA[Terms of Use]]></title>
-		<link>https://demo.woostify.com/fashion2/2019/01/03/terms-of-use/</link>
+		<link>https://demo.woostify.com/fashion2/terms-of-use/</link>
 		<pubDate>Thu, 03 Jan 2019 03:22:20 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/fashion2/?p=195</guid>
@@ -5187,7 +5654,7 @@ healthy yoga practice.</p>
 							</item>
 					<item>
 		<title><![CDATA[Privacy Policy]]></title>
-		<link>https://demo.woostify.com/fashion2/2019/01/03/privacy-policy/</link>
+		<link>https://demo.woostify.com/fashion2/privacy-policy/</link>
 		<pubDate>Thu, 03 Jan 2019 03:22:20 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/fashion2/?p=196</guid>
@@ -5260,7 +5727,7 @@ healthy yoga practice.</p>
 							</item>
 					<item>
 		<title><![CDATA[Accessibility Statement]]></title>
-		<link>https://demo.woostify.com/fashion2/2019/01/03/accessibility-statement/</link>
+		<link>https://demo.woostify.com/fashion2/accessibility-statement/</link>
 		<pubDate>Thu, 03 Jan 2019 03:22:20 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/fashion2/?p=197</guid>
@@ -5333,7 +5800,7 @@ healthy yoga practice.</p>
 							</item>
 					<item>
 		<title><![CDATA[Company Information]]></title>
-		<link>https://demo.woostify.com/fashion2/2019/01/03/company-information-2/</link>
+		<link>https://demo.woostify.com/fashion2/company-information-2/</link>
 		<pubDate>Thu, 03 Jan 2019 03:22:20 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/fashion2/?p=198</guid>
@@ -5614,7 +6081,7 @@ customer experience</h3>
 							</item>
 					<item>
 		<title><![CDATA[]]></title>
-		<link>https://demo.woostify.com/fashion2/2019/01/03/260/</link>
+		<link>https://demo.woostify.com/fashion2/260/</link>
 		<pubDate>Thu, 03 Jan 2019 10:28:53 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/fashion2/?p=260</guid>
@@ -5687,7 +6154,7 @@ customer experience</h3>
 							</item>
 					<item>
 		<title><![CDATA[]]></title>
-		<link>https://demo.woostify.com/fashion2/2019/01/03/261/</link>
+		<link>https://demo.woostify.com/fashion2/261/</link>
 		<pubDate>Thu, 03 Jan 2019 10:28:53 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/fashion2/?p=261</guid>
@@ -5760,7 +6227,7 @@ customer experience</h3>
 							</item>
 					<item>
 		<title><![CDATA[]]></title>
-		<link>https://demo.woostify.com/fashion2/2019/11/06/516/</link>
+		<link>https://demo.woostify.com/fashion2/516/</link>
 		<pubDate>Wed, 06 Nov 2019 08:36:07 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/fashion2/?p=516</guid>
@@ -5845,7 +6312,7 @@ customer experience</h3>
 							</item>
 					<item>
 		<title><![CDATA[]]></title>
-		<link>https://demo.woostify.com/fashion2/2020/10/22/602/</link>
+		<link>https://demo.woostify.com/fashion2/602/</link>
 		<pubDate>Thu, 22 Oct 2020 04:24:33 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/fashion2/?p=602</guid>
@@ -5902,7 +6369,7 @@ customer experience</h3>
 							</item>
 					<item>
 		<title><![CDATA[]]></title>
-		<link>https://demo.woostify.com/fashion2/2020/10/22/603/</link>
+		<link>https://demo.woostify.com/fashion2/603/</link>
 		<pubDate>Thu, 22 Oct 2020 04:24:33 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/fashion2/?p=603</guid>
@@ -5959,7 +6426,7 @@ customer experience</h3>
 							</item>
 					<item>
 		<title><![CDATA[]]></title>
-		<link>https://demo.woostify.com/fashion2/2020/10/22/604/</link>
+		<link>https://demo.woostify.com/fashion2/604/</link>
 		<pubDate>Thu, 22 Oct 2020 04:24:33 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/fashion2/?p=604</guid>
@@ -6016,7 +6483,7 @@ customer experience</h3>
 							</item>
 					<item>
 		<title><![CDATA[]]></title>
-		<link>https://demo.woostify.com/fashion2/2020/10/22/605/</link>
+		<link>https://demo.woostify.com/fashion2/605/</link>
 		<pubDate>Thu, 22 Oct 2020 04:24:33 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/fashion2/?p=605</guid>
@@ -6169,7 +6636,7 @@ customer experience</h3>
 														</item>
 					<item>
 		<title><![CDATA[Alice Palmer's Diary: Lessons from  the first  year of Yoga teaching]]></title>
-		<link>https://demo.woostify.com/fashion2/2018/12/28/alice-palmers-diary-lessons-from-the-first-year-of-yoga-teaching/</link>
+		<link>https://demo.woostify.com/fashion2/alice-palmers-diary-lessons-from-the-first-year-of-yoga-teaching/</link>
 		<pubDate>Fri, 28 Dec 2018 04:15:43 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/fashion2/?p=105</guid>
@@ -6308,7 +6775,7 @@ I’ve arrived on time to every lesson I’ve had to teach this year, bar one.&n
 					</item>
 					<item>
 		<title><![CDATA[How To Get Back In The Gym After A Break]]></title>
-		<link>https://demo.woostify.com/fashion2/2018/12/28/how-to-get-back-in-the-gym-after-a-break/</link>
+		<link>https://demo.woostify.com/fashion2/how-to-get-back-in-the-gym-after-a-break/</link>
 		<pubDate>Fri, 28 Dec 2018 08:57:53 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/fashion2/?p=134</guid>
@@ -6437,7 +6904,7 @@ I’ve arrived on time to every lesson I’ve had to teach this year, bar one.&n
 							</item>
 					<item>
 		<title><![CDATA[Eleonora Zampatti's path to  self-acceptance through Yoga]]></title>
-		<link>https://demo.woostify.com/fashion2/2019/01/02/eleonora-zampattis-path-to-self-acceptance-through-yoga/</link>
+		<link>https://demo.woostify.com/fashion2/eleonora-zampattis-path-to-self-acceptance-through-yoga/</link>
 		<pubDate>Wed, 02 Jan 2019 04:32:30 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/fashion2/?p=148</guid>
@@ -6567,7 +7034,7 @@ I’ve arrived on time to every lesson I’ve had to teach this year, bar one.&n
 							</item>
 					<item>
 		<title><![CDATA[AROMATHERAPY 101: How to find  healing with essential oils]]></title>
-		<link>https://demo.woostify.com/fashion2/2019/01/02/aromatherapy-101-how-to-find-healing-with-essential-oils/</link>
+		<link>https://demo.woostify.com/fashion2/aromatherapy-101-how-to-find-healing-with-essential-oils/</link>
 		<pubDate>Wed, 02 Jan 2019 04:45:29 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/fashion2/?p=150</guid>
@@ -6695,7 +7162,7 @@ I’ve arrived on time to every lesson I’ve had to teach this year, bar one.&n
 							</item>
 					<item>
 		<title><![CDATA[Advance your practice: 5 essential  video classes for building strength]]></title>
-		<link>https://demo.woostify.com/fashion2/2019/01/02/advance-your-practice-5-essential-video-classes-for-building-strength/</link>
+		<link>https://demo.woostify.com/fashion2/advance-your-practice-5-essential-video-classes-for-building-strength/</link>
 		<pubDate>Wed, 02 Jan 2019 04:46:36 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/fashion2/?p=152</guid>
@@ -6821,7 +7288,7 @@ I’ve arrived on time to every lesson I’ve had to teach this year, bar one.&n
 							</item>
 					<item>
 		<title><![CDATA[September L.A. wellness events  you don’t want to miss]]></title>
-		<link>https://demo.woostify.com/fashion2/2019/01/02/september-l-a-wellness-events-you-dont-want-to-miss/</link>
+		<link>https://demo.woostify.com/fashion2/september-l-a-wellness-events-you-dont-want-to-miss/</link>
 		<pubDate>Wed, 02 Jan 2019 04:47:12 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/fashion2/?p=154</guid>
@@ -6949,7 +7416,7 @@ I’ve arrived on time to every lesson I’ve had to teach this year, bar one.&n
 							</item>
 					<item>
 		<title><![CDATA[You'n'Life at the Groove - Come and say hey]]></title>
-		<link>https://demo.woostify.com/fashion2/2019/01/02/younlife-at-the-groove-come-and-say-hey/</link>
+		<link>https://demo.woostify.com/fashion2/younlife-at-the-groove-come-and-say-hey/</link>
 		<pubDate>Wed, 02 Jan 2019 04:47:52 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/fashion2/?p=156</guid>
@@ -7077,7 +7544,7 @@ I’ve arrived on time to every lesson I’ve had to teach this year, bar one.&n
 							</item>
 					<item>
 		<title><![CDATA[The routine that will make you like yoga]]></title>
-		<link>https://demo.woostify.com/fashion2/2019/01/02/the-routine-that-will-make-you-like-yoga/</link>
+		<link>https://demo.woostify.com/fashion2/the-routine-that-will-make-you-like-yoga/</link>
 		<pubDate>Wed, 02 Jan 2019 04:49:07 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/fashion2/?p=158</guid>
@@ -7204,7 +7671,7 @@ I’ve arrived on time to every lesson I’ve had to teach this year, bar one.&n
 							</item>
 					<item>
 		<title><![CDATA[Exercise – A cornerstone of a healthy lifestyle]]></title>
-		<link>https://demo.woostify.com/fashion2/2019/01/02/exercise-a-cornerstone-of-a-healthy-lifestyle/</link>
+		<link>https://demo.woostify.com/fashion2/exercise-a-cornerstone-of-a-healthy-lifestyle/</link>
 		<pubDate>Wed, 02 Jan 2019 04:50:29 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/fashion2/?p=160</guid>
@@ -8749,7 +9216,7 @@ Check out my blog :: <a href="https://vosrozdenie.org/alternative-medicine-what-
 					</item>
 					<item>
 		<title><![CDATA[How I became young and fit once again]]></title>
-		<link>https://demo.woostify.com/fashion2/2019/01/02/how-i-became-young-and-fit-once-again/</link>
+		<link>https://demo.woostify.com/fashion2/how-i-became-young-and-fit-once-again/</link>
 		<pubDate>Wed, 02 Jan 2019 04:51:20 +0000</pubDate>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/fashion2/?p=162</guid>
@@ -9076,7 +9543,7 @@ I’ve arrived on time to every lesson I’ve had to teach this year, bar one.&n
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[pageview]]></wp:meta_key>
-		<wp:meta_value><![CDATA[251]]></wp:meta_value>
+		<wp:meta_value><![CDATA[258]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -9267,7 +9734,7 @@ I’ve arrived on time to every lesson I’ve had to teach this year, bar one.&n
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[pageview]]></wp:meta_key>
-		<wp:meta_value><![CDATA[170]]></wp:meta_value>
+		<wp:meta_value><![CDATA[171]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:comment>
 			<wp:comment_id>10</wp:comment_id>
@@ -9502,7 +9969,7 @@ I’ve arrived on time to every lesson I’ve had to teach this year, bar one.&n
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[pageview]]></wp:meta_key>
-		<wp:meta_value><![CDATA[228]]></wp:meta_value>
+		<wp:meta_value><![CDATA[230]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -9693,7 +10160,7 @@ I’ve arrived on time to every lesson I’ve had to teach this year, bar one.&n
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[pageview]]></wp:meta_key>
-		<wp:meta_value><![CDATA[79]]></wp:meta_value>
+		<wp:meta_value><![CDATA[81]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -9884,7 +10351,7 @@ I’ve arrived on time to every lesson I’ve had to teach this year, bar one.&n
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[pageview]]></wp:meta_key>
-		<wp:meta_value><![CDATA[137]]></wp:meta_value>
+		<wp:meta_value><![CDATA[139]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -10263,18 +10730,17 @@ You must accept the terms and conditions before sending your message.
 The field is required.
 The field is too long.
 The field is too short.
-The date format is incorrect.
-The date is before the earliest one allowed.
-The date is after the latest one allowed.
 There was an unknown error uploading the file.
 You are not allowed to upload files of this type.
 The file is too big.
 There was an error uploading the file.
+The date format is incorrect.
+The date is before the earliest one allowed.
+The date is after the latest one allowed.
 The number format is invalid.
 The number is smaller than the minimum allowed.
 The number is larger than the maximum allowed.
 The answer to the quiz is incorrect.
-Your entered code is incorrect.
 The e-mail address entered is invalid.
 The URL is invalid.
 The telephone number is invalid.]]></content:encoded>
@@ -10282,8 +10748,8 @@ The telephone number is invalid.]]></content:encoded>
 		<wp:post_id>262</wp:post_id>
 		<wp:post_date><![CDATA[2019-01-04 01:48:09]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-01-04 01:48:09]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2019-01-04 01:48:09]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2019-01-04 01:48:09]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2023-06-24 02:42:57]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-06-24 02:42:57]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[subsbrice-form]]></wp:post_name>
@@ -10325,7 +10791,7 @@ This e-mail was sent from a contact form on Woostify (https://woostify.com/demos
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_messages]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:23:{s:12:"mail_sent_ok";s:45:"Thank you for your message. It has been sent.";s:12:"mail_sent_ng";s:71:"There was an error trying to send your message. Please try again later.";s:16:"validation_error";s:61:"One or more fields have an error. Please check and try again.";s:4:"spam";s:71:"There was an error trying to send your message. Please try again later.";s:12:"accept_terms";s:69:"You must accept the terms and conditions before sending your message.";s:16:"invalid_required";s:22:"The field is required.";s:16:"invalid_too_long";s:22:"The field is too long.";s:17:"invalid_too_short";s:23:"The field is too short.";s:12:"invalid_date";s:29:"The date format is incorrect.";s:14:"date_too_early";s:44:"The date is before the earliest one allowed.";s:13:"date_too_late";s:41:"The date is after the latest one allowed.";s:13:"upload_failed";s:46:"There was an unknown error uploading the file.";s:24:"upload_file_type_invalid";s:49:"You are not allowed to upload files of this type.";s:21:"upload_file_too_large";s:20:"The file is too big.";s:23:"upload_failed_php_error";s:38:"There was an error uploading the file.";s:14:"invalid_number";s:29:"The number format is invalid.";s:16:"number_too_small";s:47:"The number is smaller than the minimum allowed.";s:16:"number_too_large";s:46:"The number is larger than the maximum allowed.";s:23:"quiz_answer_not_correct";s:36:"The answer to the quiz is incorrect.";s:17:"captcha_not_match";s:31:"Your entered code is incorrect.";s:13:"invalid_email";s:38:"The e-mail address entered is invalid.";s:11:"invalid_url";s:19:"The URL is invalid.";s:11:"invalid_tel";s:32:"The telephone number is invalid.";}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:22:{s:12:"mail_sent_ok";s:45:"Thank you for your message. It has been sent.";s:12:"mail_sent_ng";s:71:"There was an error trying to send your message. Please try again later.";s:16:"validation_error";s:61:"One or more fields have an error. Please check and try again.";s:4:"spam";s:71:"There was an error trying to send your message. Please try again later.";s:12:"accept_terms";s:69:"You must accept the terms and conditions before sending your message.";s:16:"invalid_required";s:22:"The field is required.";s:16:"invalid_too_long";s:22:"The field is too long.";s:17:"invalid_too_short";s:23:"The field is too short.";s:13:"upload_failed";s:46:"There was an unknown error uploading the file.";s:24:"upload_file_type_invalid";s:49:"You are not allowed to upload files of this type.";s:21:"upload_file_too_large";s:20:"The file is too big.";s:23:"upload_failed_php_error";s:38:"There was an error uploading the file.";s:12:"invalid_date";s:29:"The date format is incorrect.";s:14:"date_too_early";s:44:"The date is before the earliest one allowed.";s:13:"date_too_late";s:41:"The date is after the latest one allowed.";s:14:"invalid_number";s:29:"The number format is invalid.";s:16:"number_too_small";s:47:"The number is smaller than the minimum allowed.";s:16:"number_too_large";s:46:"The number is larger than the maximum allowed.";s:23:"quiz_answer_not_correct";s:36:"The answer to the quiz is incorrect.";s:13:"invalid_email";s:38:"The e-mail address entered is invalid.";s:11:"invalid_url";s:19:"The URL is invalid.";s:11:"invalid_tel";s:32:"The telephone number is invalid.";}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_additional_settings]]></wp:meta_key>
@@ -10537,7 +11003,7 @@ This e-mail was sent from a contact form on Woostify (https://woostify.com/demos
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[pageview]]></wp:meta_key>
-		<wp:meta_value><![CDATA[84]]></wp:meta_value>
+		<wp:meta_value><![CDATA[85]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:comment>
 			<wp:comment_id>4</wp:comment_id>
@@ -11440,13 +11906,13 @@ I like this very much. I think its high enough in the front to offer some suppor
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/fashion2/?post_type=size_guide&#038;p=547</guid>
 		<description></description>
-		<content:encoded><![CDATA[<img width="691" height="439" src="http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/fashion2/wp-content/uploads/sites/17/2019/11/womensize-1.png" alt="" srcset="http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/fashion2/wp-content/uploads/sites/17/2019/11/womensize-1.png 691w, https://woostify.com/demos/fashion2/wp-content/uploads/2019/11/womensize-1-300x191.png 300w, https://woostify.com/demos/fashion2/wp-content/uploads/2019/11/womensize-1-600x381.png 600w" sizes="(max-width: 691px) 100vw, 691px" />]]></content:encoded>
+		<content:encoded><![CDATA[<img width="691" height="439" src="https://demo.woostify.com/fashion2/wp-content/uploads/sites/17/2019/11/womensize-1.png" alt="" loading="lazy" srcset="https://demo.woostify.com/fashion2/wp-content/uploads/sites/17/2019/11/womensize-1.png 691w, https://demo.woostify.com/fashion2/wp-content/uploads/sites/17/2019/11/womensize-1-300x191.png 300w, https://demo.woostify.com/fashion2/wp-content/uploads/sites/17/2019/11/womensize-1-600x381.png 600w" sizes="(max-width: 691px) 100vw, 691px" />]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>547</wp:post_id>
 		<wp:post_date><![CDATA[2019-11-14 01:50:08]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-11-14 01:50:08]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2020-10-22 04:02:33]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2020-10-22 04:02:33]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2023-06-26 07:00:15]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-06-26 07:00:15]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[size-guide]]></wp:post_name>
@@ -11478,7 +11944,7 @@ I like this very much. I think its high enough in the front to offer some suppor
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_elementor_version]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2.7.5]]></wp:meta_value>
+		<wp:meta_value><![CDATA[3.13.4]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
@@ -11486,7 +11952,7 @@ I like this very much. I think its high enough in the front to offer some suppor
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_elementor_data]]></wp:meta_key>
-		<wp:meta_value><![CDATA[[{"id":"f2b5715","elType":"section","settings":[],"elements":[{"id":"a03a641","elType":"column","settings":{"_column_size":100},"elements":[{"id":"ab48efc","elType":"widget","settings":[],"elements":[],"widgetType":"spacer"},{"id":"e60793f","elType":"widget","settings":{"image":{"url":"https:\/\/woostify.com\/demos\/fashion2\/wp-content\/uploads\/2019\/11\/womensize-1.png","id":556},"align":"center"},"elements":[],"widgetType":"image"},{"id":"0b266d7","elType":"widget","settings":[],"elements":[],"widgetType":"spacer"}],"isInner":false}],"isInner":false}]]]></wp:meta_value>
+		<wp:meta_value><![CDATA[[{"id":"3732dd9","elType":"container","settings":{"flex_direction":"row","flex_align_items":"stretch","flex_gap":{"size":0,"unit":"px"},"padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true}},"elements":[{"id":"9d6fe4c","elType":"container","settings":{"_column_size":100,"content_width":"full"},"elements":[{"id":"e982648","elType":"widget","settings":[],"elements":[],"widgetType":"spacer"},{"id":"ee125d3","elType":"widget","settings":{"image":{"url":"https:\/\/woostify.com\/demos\/fashion2\/wp-content\/uploads\/2019\/11\/womensize-1.png\/pros\/335\/pros\/335\/","id":556},"align":"center"},"elements":[],"widgetType":"image"},{"id":"396c4e7","elType":"widget","settings":[],"elements":[],"widgetType":"spacer"}],"isInner":false}],"isInner":false}]]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_elementor_controls_usage]]></wp:meta_key>
@@ -11495,6 +11961,10 @@ I like this very much. I think its high enough in the front to offer some suppor
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_old_slug]]></wp:meta_key>
 		<wp:meta_value><![CDATA[size-guide-sample-2]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_elementor_page_assets]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
