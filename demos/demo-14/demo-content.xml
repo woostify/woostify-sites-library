@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/6.0.3" created="2022-11-04 02:27" -->
+	<!-- generator="WordPress/6.2.2" created="2023-06-28 02:29" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
 	<title>Randy</title>
 	<link>https://demo.woostify.com/randy</link>
 	<description>Just another Woostify Pro Demo Sites site</description>
-	<pubDate>Fri, 04 Nov 2022 02:27:56 +0000</pubDate>
+	<pubDate>Wed, 28 Jun 2023 02:29:55 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>https://demo.woostify.com/</wp:base_site_url>
@@ -571,7 +571,7 @@
 	<wp:term><wp:term_id>65</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug><![CDATA[women]]></wp:term_slug><wp:term_name><![CDATA[Women]]></wp:term_name>
 </wp:term>
 
-	<generator>https://wordpress.org/?v=6.0.3</generator>
+	<generator>https://wordpress.org/?v=6.2.2</generator>
 
 <image>
 	<url>https://demo.woostify.com/randy/wp-content/uploads/sites/22/2018/12/favicon.png</url>
@@ -6036,50 +6036,428 @@
 		<description></description>
 		<content:encoded><![CDATA[<h2>Share the secret</h2>		
 			Let desire lead you		
-			<a href="https://woostify.com/demos/randy/shop/" role="button">
+			<a href="https://woostify.com/demos/randy/shop/pros/335/pros/335/" role="button">
 						Discover
 					</a>
 		<p>MAECENAS RHONCUS  — eu lacus eu viverra. Nunc interdum</p><p>lorem a lacus mattis blandit. Donec id rutrum eros.</p><p>In orci leo, malesuada non. Morbi ac eros feugiat, lacinia</p><p>elit ut, elementum turpis. Curabitur justo sapien, tempus sit</p><p>amet rutrum eu, commodo eu lacus. Morbi in ligula nibh.</p><p>Maecenas ut mi at odio hendrerit eleifend.</p>		
 			<h2>Featured Products</h2>		
 					<ul>
 		<li>
-	<a role="button" aria-label="Add to Wishlist" data-tinv-wl-list="[]" data-tinv-wl-product="1223" data-tinv-wl-productvariation="0" data-tinv-wl-productvariations="[0]" data-tinv-wl-producttype="simple" data-tinv-wl-action="add">Add to Wishlist</a>		Add to Wishlist
-		<a href="https://demo.woostify.com/randy/product/rose-water/"><img width="600" height="600" src="https://demo.woostify.com/randy/wp-content/uploads/sites/22/2019/08/img-14-600x600.jpg" alt="Product image" loading="lazy" srcset="https://demo.woostify.com/randy/wp-content/uploads/sites/22/2019/08/img-14-600x600.jpg 600w, https://demo.woostify.com/randy/wp-content/uploads/sites/22/2019/08/img-14-300x300.jpg 300w, https://demo.woostify.com/randy/wp-content/uploads/sites/22/2019/08/img-14-150x150.jpg 150w, https://demo.woostify.com/randy/wp-content/uploads/sites/22/2019/08/img-14-768x768.jpg 768w, https://demo.woostify.com/randy/wp-content/uploads/sites/22/2019/08/img-14-100x100.jpg 100w, https://demo.woostify.com/randy/wp-content/uploads/sites/22/2019/08/img-14.jpg 1000w" sizes="(max-width: 600px) 100vw, 600px" /></a><a href="?add-to-cart=1223" data-quantity="1" data-product_id="1223" data-product_sku="NH350RS" title="Add &ldquo;Rose water&rdquo; to your cart" rel="nofollow">Add to cart</a>		<h2>
+			<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="17" height="17" viewBox="0 0 17 17">
+<g>
+</g>
+	<path d="M16.965 8.817c-1.284-3.267-4.687-5.463-8.465-5.463s-7.181 2.196-8.465 5.463c-0.046 0.117-0.046 0.248 0 0.365 1.285 3.268 4.687 5.464 8.465 5.464s7.18-2.195 8.465-5.463c0.047-0.118 0.047-0.248 0-0.366zM8.5 13.646c-3.298 0-6.269-1.859-7.459-4.646 1.189-2.787 4.16-4.646 7.459-4.646s6.27 1.859 7.459 4.646c-1.19 2.786-4.161 4.646-7.459 4.646zM8.5 5.357c-2.009 0-3.643 1.634-3.643 3.643s1.634 3.643 3.644 3.643c2.008 0 3.643-1.634 3.643-3.643s-1.635-3.643-3.644-3.643zM8.5 11.643c-1.458 0-2.644-1.186-2.644-2.643s1.187-2.643 2.644-2.643c1.457 0 2.643 1.186 2.643 2.643s-1.185 2.643-2.643 2.643zM8.5 7.643c-0.748 0-1.357 0.609-1.357 1.357s0.609 1.357 1.357 1.357 1.357-0.609 1.357-1.357-0.609-1.357-1.357-1.357zM8.5 9.357c-0.197 0-0.357-0.16-0.357-0.357s0.16-0.357 0.357-0.357 0.357 0.16 0.357 0.357-0.16 0.357-0.357 0.357z" fill="#000000" />
+</svg>
+	<a role="button" tabindex="0" name="add-to-wishlist" aria-label="Add to Wishlist" data-tinv-wl-list="[]" data-tinv-wl-product="1223" data-tinv-wl-productvariation="0" data-tinv-wl-productvariations="[]" data-tinv-wl-producttype="simple" data-tinv-wl-action="add">Add to Wishlist</a>		Add to Wishlist
+		<a href="https://demo.woostify.com/randy/product/rose-water/"><img width="600" height="600" src="https://demo.woostify.com/randy/wp-content/uploads/sites/22/2019/08/img-14-600x600.jpg" alt="Product image" decoding="async" loading="lazy" srcset="https://demo.woostify.com/randy/wp-content/uploads/sites/22/2019/08/img-14-600x600.jpg 600w, https://demo.woostify.com/randy/wp-content/uploads/sites/22/2019/08/img-14-300x300.jpg 300w, https://demo.woostify.com/randy/wp-content/uploads/sites/22/2019/08/img-14-150x150.jpg 150w, https://demo.woostify.com/randy/wp-content/uploads/sites/22/2019/08/img-14-768x768.jpg 768w, https://demo.woostify.com/randy/wp-content/uploads/sites/22/2019/08/img-14-100x100.jpg 100w, https://demo.woostify.com/randy/wp-content/uploads/sites/22/2019/08/img-14.jpg 1000w" sizes="(max-width: 600px) 100vw, 600px" /></a><a href="?add-to-cart=1223" data-quantity="1" data-product_id="1223" data-product_sku="NH350RS" title="Add &ldquo;Rose water&rdquo; to your cart" rel="nofollow"><svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   width="17"
+   height="17"
+   viewBox="0 0 17 17"
+   id="svg50"
+   sodipodi:docname="shopping-cart-2.svg"
+   inkscape:version="1.0.2-2 (e86c870879, 2021-01-15)">
+  <metadata
+     id="metadata56">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs54" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="2400"
+     inkscape:window-height="1271"
+     id="namedview52"
+     showgrid="false"
+     inkscape:zoom="48.823529"
+     inkscape:cx="8.5"
+     inkscape:cy="8.5"
+     inkscape:window-x="2391"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg50" />
+  <g
+     id="g46"
+     transform="matrix(-1,0,0,1,16.926,0)" />
+  <path
+     d="m 14.176,12.5 c 0.965,0 1.75,0.785 1.75,1.75 0,0.965 -0.785,1.75 -1.75,1.75 -0.965,0 -1.75,-0.785 -1.75,-1.75 0,-0.965 0.785,-1.75 1.75,-1.75 z m 0,2.5 c 0.414,0 0.75,-0.337 0.75,-0.75 0,-0.413 -0.336,-0.75 -0.75,-0.75 -0.414,0 -0.75,0.337 -0.75,0.75 0,0.413 0.336,0.75 0.75,0.75 z m -8.5,-2.5 c 0.965,0 1.75,0.785 1.75,1.75 0,0.965 -0.785,1.75 -1.75,1.75 -0.965,0 -1.75,-0.785 -1.75,-1.75 0,-0.965 0.785,-1.75 1.75,-1.75 z m 0,2.5 c 0.414,0 0.75,-0.337 0.75,-0.75 0,-0.413 -0.336,-0.75 -0.75,-0.75 -0.414,0 -0.75,0.337 -0.75,0.75 0,0.413 0.336,0.75 0.75,0.75 z M 3.555,2 3.857,4 H 17 l -1.118,8.036 H 3.969 L 2.931,4.573 2.695,3 H -0.074 V 2 Z M 4,5 4.139,6 H 15.713 L 15.852,5 Z M 15.012,11.036 15.573,7 H 4.278 l 0.561,4.036 z"
+     fill="#000000"
+     id="path48" />
+</svg>
+Add to cart</a>		<h2>
 			<a href="https://demo.woostify.com/randy/product/rose-water/">Rose water</a>		</h2>
 					&pound;180.00
+	<a role="button" tabindex="0" name="add-to-wishlist" aria-label="Add to Wishlist" data-tinv-wl-list="[]" data-tinv-wl-product="1223" data-tinv-wl-productvariation="0" data-tinv-wl-productvariations="[]" data-tinv-wl-producttype="simple" data-tinv-wl-action="add">Add to Wishlist</a>		Add to Wishlist
 		</li>
 <li>
-	<a role="button" aria-label="Add to Wishlist" data-tinv-wl-list="[]" data-tinv-wl-product="1248" data-tinv-wl-productvariation="0" data-tinv-wl-productvariations="[0]" data-tinv-wl-producttype="simple" data-tinv-wl-action="add">Add to Wishlist</a>		Add to Wishlist
-		<a href="https://demo.woostify.com/randy/product/lily-water/"><img width="600" height="600" src="https://demo.woostify.com/randy/wp-content/uploads/sites/22/2019/08/img-15-600x600.jpg" alt="Product image" loading="lazy" srcset="https://demo.woostify.com/randy/wp-content/uploads/sites/22/2019/08/img-15-600x600.jpg 600w, https://demo.woostify.com/randy/wp-content/uploads/sites/22/2019/08/img-15-300x300.jpg 300w, https://demo.woostify.com/randy/wp-content/uploads/sites/22/2019/08/img-15-150x150.jpg 150w, https://demo.woostify.com/randy/wp-content/uploads/sites/22/2019/08/img-15-768x768.jpg 768w, https://demo.woostify.com/randy/wp-content/uploads/sites/22/2019/08/img-15-100x100.jpg 100w, https://demo.woostify.com/randy/wp-content/uploads/sites/22/2019/08/img-15.jpg 1000w" sizes="(max-width: 600px) 100vw, 600px" /></a><a href="?add-to-cart=1248" data-quantity="1" data-product_id="1248" data-product_sku="" title="Add &ldquo;Lily water&rdquo; to your cart" rel="nofollow">Add to cart</a>		<h2>
+			<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="17" height="17" viewBox="0 0 17 17">
+<g>
+</g>
+	<path d="M16.965 8.817c-1.284-3.267-4.687-5.463-8.465-5.463s-7.181 2.196-8.465 5.463c-0.046 0.117-0.046 0.248 0 0.365 1.285 3.268 4.687 5.464 8.465 5.464s7.18-2.195 8.465-5.463c0.047-0.118 0.047-0.248 0-0.366zM8.5 13.646c-3.298 0-6.269-1.859-7.459-4.646 1.189-2.787 4.16-4.646 7.459-4.646s6.27 1.859 7.459 4.646c-1.19 2.786-4.161 4.646-7.459 4.646zM8.5 5.357c-2.009 0-3.643 1.634-3.643 3.643s1.634 3.643 3.644 3.643c2.008 0 3.643-1.634 3.643-3.643s-1.635-3.643-3.644-3.643zM8.5 11.643c-1.458 0-2.644-1.186-2.644-2.643s1.187-2.643 2.644-2.643c1.457 0 2.643 1.186 2.643 2.643s-1.185 2.643-2.643 2.643zM8.5 7.643c-0.748 0-1.357 0.609-1.357 1.357s0.609 1.357 1.357 1.357 1.357-0.609 1.357-1.357-0.609-1.357-1.357-1.357zM8.5 9.357c-0.197 0-0.357-0.16-0.357-0.357s0.16-0.357 0.357-0.357 0.357 0.16 0.357 0.357-0.16 0.357-0.357 0.357z" fill="#000000" />
+</svg>
+	<a role="button" tabindex="0" name="add-to-wishlist" aria-label="Add to Wishlist" data-tinv-wl-list="[]" data-tinv-wl-product="1248" data-tinv-wl-productvariation="0" data-tinv-wl-productvariations="[]" data-tinv-wl-producttype="simple" data-tinv-wl-action="add">Add to Wishlist</a>		Add to Wishlist
+		<a href="https://demo.woostify.com/randy/product/lily-water/"><img width="600" height="600" src="https://demo.woostify.com/randy/wp-content/uploads/sites/22/2019/08/img-15-600x600.jpg" alt="Product image" decoding="async" loading="lazy" srcset="https://demo.woostify.com/randy/wp-content/uploads/sites/22/2019/08/img-15-600x600.jpg 600w, https://demo.woostify.com/randy/wp-content/uploads/sites/22/2019/08/img-15-300x300.jpg 300w, https://demo.woostify.com/randy/wp-content/uploads/sites/22/2019/08/img-15-150x150.jpg 150w, https://demo.woostify.com/randy/wp-content/uploads/sites/22/2019/08/img-15-768x768.jpg 768w, https://demo.woostify.com/randy/wp-content/uploads/sites/22/2019/08/img-15-100x100.jpg 100w, https://demo.woostify.com/randy/wp-content/uploads/sites/22/2019/08/img-15.jpg 1000w" sizes="(max-width: 600px) 100vw, 600px" /></a><a href="?add-to-cart=1248" data-quantity="1" data-product_id="1248" data-product_sku="" title="Add &ldquo;Lily water&rdquo; to your cart" rel="nofollow"><svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   width="17"
+   height="17"
+   viewBox="0 0 17 17"
+   id="svg50"
+   sodipodi:docname="shopping-cart-2.svg"
+   inkscape:version="1.0.2-2 (e86c870879, 2021-01-15)">
+  <metadata
+     id="metadata56">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs54" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="2400"
+     inkscape:window-height="1271"
+     id="namedview52"
+     showgrid="false"
+     inkscape:zoom="48.823529"
+     inkscape:cx="8.5"
+     inkscape:cy="8.5"
+     inkscape:window-x="2391"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg50" />
+  <g
+     id="g46"
+     transform="matrix(-1,0,0,1,16.926,0)" />
+  <path
+     d="m 14.176,12.5 c 0.965,0 1.75,0.785 1.75,1.75 0,0.965 -0.785,1.75 -1.75,1.75 -0.965,0 -1.75,-0.785 -1.75,-1.75 0,-0.965 0.785,-1.75 1.75,-1.75 z m 0,2.5 c 0.414,0 0.75,-0.337 0.75,-0.75 0,-0.413 -0.336,-0.75 -0.75,-0.75 -0.414,0 -0.75,0.337 -0.75,0.75 0,0.413 0.336,0.75 0.75,0.75 z m -8.5,-2.5 c 0.965,0 1.75,0.785 1.75,1.75 0,0.965 -0.785,1.75 -1.75,1.75 -0.965,0 -1.75,-0.785 -1.75,-1.75 0,-0.965 0.785,-1.75 1.75,-1.75 z m 0,2.5 c 0.414,0 0.75,-0.337 0.75,-0.75 0,-0.413 -0.336,-0.75 -0.75,-0.75 -0.414,0 -0.75,0.337 -0.75,0.75 0,0.413 0.336,0.75 0.75,0.75 z M 3.555,2 3.857,4 H 17 l -1.118,8.036 H 3.969 L 2.931,4.573 2.695,3 H -0.074 V 2 Z M 4,5 4.139,6 H 15.713 L 15.852,5 Z M 15.012,11.036 15.573,7 H 4.278 l 0.561,4.036 z"
+     fill="#000000"
+     id="path48" />
+</svg>
+Add to cart</a>		<h2>
 			<a href="https://demo.woostify.com/randy/product/lily-water/">Lily water</a>		</h2>
 					&pound;280.00
+	<a role="button" tabindex="0" name="add-to-wishlist" aria-label="Add to Wishlist" data-tinv-wl-list="[]" data-tinv-wl-product="1248" data-tinv-wl-productvariation="0" data-tinv-wl-productvariations="[]" data-tinv-wl-producttype="simple" data-tinv-wl-action="add">Add to Wishlist</a>		Add to Wishlist
 		</li>
 <li>
-	<a role="button" aria-label="Add to Wishlist" data-tinv-wl-list="[]" data-tinv-wl-product="1250" data-tinv-wl-productvariation="0" data-tinv-wl-productvariations="[0]" data-tinv-wl-producttype="simple" data-tinv-wl-action="add">Add to Wishlist</a>		Add to Wishlist
-		<a href="https://demo.woostify.com/randy/product/orchid-water/"><img width="600" height="600" src="https://demo.woostify.com/randy/wp-content/uploads/sites/22/2019/08/img-10-600x600.jpg" alt="Product image" loading="lazy" srcset="https://demo.woostify.com/randy/wp-content/uploads/sites/22/2019/08/img-10-600x600.jpg 600w, https://demo.woostify.com/randy/wp-content/uploads/sites/22/2019/08/img-10-300x300.jpg 300w, https://demo.woostify.com/randy/wp-content/uploads/sites/22/2019/08/img-10-150x150.jpg 150w, https://demo.woostify.com/randy/wp-content/uploads/sites/22/2019/08/img-10-768x768.jpg 768w, https://demo.woostify.com/randy/wp-content/uploads/sites/22/2019/08/img-10-100x100.jpg 100w, https://demo.woostify.com/randy/wp-content/uploads/sites/22/2019/08/img-10.jpg 1000w" sizes="(max-width: 600px) 100vw, 600px" /></a><a href="?add-to-cart=1250" data-quantity="1" data-product_id="1250" data-product_sku="" title="Add &ldquo;Orchid water&rdquo; to your cart" rel="nofollow">Add to cart</a>		<h2>
+			<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="17" height="17" viewBox="0 0 17 17">
+<g>
+</g>
+	<path d="M16.965 8.817c-1.284-3.267-4.687-5.463-8.465-5.463s-7.181 2.196-8.465 5.463c-0.046 0.117-0.046 0.248 0 0.365 1.285 3.268 4.687 5.464 8.465 5.464s7.18-2.195 8.465-5.463c0.047-0.118 0.047-0.248 0-0.366zM8.5 13.646c-3.298 0-6.269-1.859-7.459-4.646 1.189-2.787 4.16-4.646 7.459-4.646s6.27 1.859 7.459 4.646c-1.19 2.786-4.161 4.646-7.459 4.646zM8.5 5.357c-2.009 0-3.643 1.634-3.643 3.643s1.634 3.643 3.644 3.643c2.008 0 3.643-1.634 3.643-3.643s-1.635-3.643-3.644-3.643zM8.5 11.643c-1.458 0-2.644-1.186-2.644-2.643s1.187-2.643 2.644-2.643c1.457 0 2.643 1.186 2.643 2.643s-1.185 2.643-2.643 2.643zM8.5 7.643c-0.748 0-1.357 0.609-1.357 1.357s0.609 1.357 1.357 1.357 1.357-0.609 1.357-1.357-0.609-1.357-1.357-1.357zM8.5 9.357c-0.197 0-0.357-0.16-0.357-0.357s0.16-0.357 0.357-0.357 0.357 0.16 0.357 0.357-0.16 0.357-0.357 0.357z" fill="#000000" />
+</svg>
+	<a role="button" tabindex="0" name="add-to-wishlist" aria-label="Add to Wishlist" data-tinv-wl-list="[]" data-tinv-wl-product="1250" data-tinv-wl-productvariation="0" data-tinv-wl-productvariations="[]" data-tinv-wl-producttype="simple" data-tinv-wl-action="add">Add to Wishlist</a>		Add to Wishlist
+		<a href="https://demo.woostify.com/randy/product/orchid-water/"><img width="600" height="600" src="https://demo.woostify.com/randy/wp-content/uploads/sites/22/2019/08/img-10-600x600.jpg" alt="Product image" decoding="async" loading="lazy" srcset="https://demo.woostify.com/randy/wp-content/uploads/sites/22/2019/08/img-10-600x600.jpg 600w, https://demo.woostify.com/randy/wp-content/uploads/sites/22/2019/08/img-10-300x300.jpg 300w, https://demo.woostify.com/randy/wp-content/uploads/sites/22/2019/08/img-10-150x150.jpg 150w, https://demo.woostify.com/randy/wp-content/uploads/sites/22/2019/08/img-10-768x768.jpg 768w, https://demo.woostify.com/randy/wp-content/uploads/sites/22/2019/08/img-10-100x100.jpg 100w, https://demo.woostify.com/randy/wp-content/uploads/sites/22/2019/08/img-10.jpg 1000w" sizes="(max-width: 600px) 100vw, 600px" /></a><a href="?add-to-cart=1250" data-quantity="1" data-product_id="1250" data-product_sku="" title="Add &ldquo;Orchid water&rdquo; to your cart" rel="nofollow"><svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   width="17"
+   height="17"
+   viewBox="0 0 17 17"
+   id="svg50"
+   sodipodi:docname="shopping-cart-2.svg"
+   inkscape:version="1.0.2-2 (e86c870879, 2021-01-15)">
+  <metadata
+     id="metadata56">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs54" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="2400"
+     inkscape:window-height="1271"
+     id="namedview52"
+     showgrid="false"
+     inkscape:zoom="48.823529"
+     inkscape:cx="8.5"
+     inkscape:cy="8.5"
+     inkscape:window-x="2391"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg50" />
+  <g
+     id="g46"
+     transform="matrix(-1,0,0,1,16.926,0)" />
+  <path
+     d="m 14.176,12.5 c 0.965,0 1.75,0.785 1.75,1.75 0,0.965 -0.785,1.75 -1.75,1.75 -0.965,0 -1.75,-0.785 -1.75,-1.75 0,-0.965 0.785,-1.75 1.75,-1.75 z m 0,2.5 c 0.414,0 0.75,-0.337 0.75,-0.75 0,-0.413 -0.336,-0.75 -0.75,-0.75 -0.414,0 -0.75,0.337 -0.75,0.75 0,0.413 0.336,0.75 0.75,0.75 z m -8.5,-2.5 c 0.965,0 1.75,0.785 1.75,1.75 0,0.965 -0.785,1.75 -1.75,1.75 -0.965,0 -1.75,-0.785 -1.75,-1.75 0,-0.965 0.785,-1.75 1.75,-1.75 z m 0,2.5 c 0.414,0 0.75,-0.337 0.75,-0.75 0,-0.413 -0.336,-0.75 -0.75,-0.75 -0.414,0 -0.75,0.337 -0.75,0.75 0,0.413 0.336,0.75 0.75,0.75 z M 3.555,2 3.857,4 H 17 l -1.118,8.036 H 3.969 L 2.931,4.573 2.695,3 H -0.074 V 2 Z M 4,5 4.139,6 H 15.713 L 15.852,5 Z M 15.012,11.036 15.573,7 H 4.278 l 0.561,4.036 z"
+     fill="#000000"
+     id="path48" />
+</svg>
+Add to cart</a>		<h2>
 			<a href="https://demo.woostify.com/randy/product/orchid-water/">Orchid water</a>		</h2>
 					&pound;210.00
+	<a role="button" tabindex="0" name="add-to-wishlist" aria-label="Add to Wishlist" data-tinv-wl-list="[]" data-tinv-wl-product="1250" data-tinv-wl-productvariation="0" data-tinv-wl-productvariations="[]" data-tinv-wl-producttype="simple" data-tinv-wl-action="add">Add to Wishlist</a>		Add to Wishlist
 		</li>
 <li>
-	<a role="button" aria-label="Add to Wishlist" data-tinv-wl-list="[]" data-tinv-wl-product="1251" data-tinv-wl-productvariation="0" data-tinv-wl-productvariations="[0]" data-tinv-wl-producttype="simple" data-tinv-wl-action="add">Add to Wishlist</a>		Add to Wishlist
-		<a href="https://demo.woostify.com/randy/product/perfume-japan/"><img width="600" height="600" src="https://demo.woostify.com/randy/wp-content/uploads/sites/22/2019/08/img-6-600x600.jpg" alt="Product image" loading="lazy" srcset="https://demo.woostify.com/randy/wp-content/uploads/sites/22/2019/08/img-6-600x600.jpg 600w, https://demo.woostify.com/randy/wp-content/uploads/sites/22/2019/08/img-6-300x300.jpg 300w, https://demo.woostify.com/randy/wp-content/uploads/sites/22/2019/08/img-6-150x150.jpg 150w, https://demo.woostify.com/randy/wp-content/uploads/sites/22/2019/08/img-6-768x768.jpg 768w, https://demo.woostify.com/randy/wp-content/uploads/sites/22/2019/08/img-6-100x100.jpg 100w, https://demo.woostify.com/randy/wp-content/uploads/sites/22/2019/08/img-6.jpg 1000w" sizes="(max-width: 600px) 100vw, 600px" /></a><a href="?add-to-cart=1251" data-quantity="1" data-product_id="1251" data-product_sku="" title="Add &ldquo;Perfume Japan&rdquo; to your cart" rel="nofollow">Add to cart</a>		<h2>
+			<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="17" height="17" viewBox="0 0 17 17">
+<g>
+</g>
+	<path d="M16.965 8.817c-1.284-3.267-4.687-5.463-8.465-5.463s-7.181 2.196-8.465 5.463c-0.046 0.117-0.046 0.248 0 0.365 1.285 3.268 4.687 5.464 8.465 5.464s7.18-2.195 8.465-5.463c0.047-0.118 0.047-0.248 0-0.366zM8.5 13.646c-3.298 0-6.269-1.859-7.459-4.646 1.189-2.787 4.16-4.646 7.459-4.646s6.27 1.859 7.459 4.646c-1.19 2.786-4.161 4.646-7.459 4.646zM8.5 5.357c-2.009 0-3.643 1.634-3.643 3.643s1.634 3.643 3.644 3.643c2.008 0 3.643-1.634 3.643-3.643s-1.635-3.643-3.644-3.643zM8.5 11.643c-1.458 0-2.644-1.186-2.644-2.643s1.187-2.643 2.644-2.643c1.457 0 2.643 1.186 2.643 2.643s-1.185 2.643-2.643 2.643zM8.5 7.643c-0.748 0-1.357 0.609-1.357 1.357s0.609 1.357 1.357 1.357 1.357-0.609 1.357-1.357-0.609-1.357-1.357-1.357zM8.5 9.357c-0.197 0-0.357-0.16-0.357-0.357s0.16-0.357 0.357-0.357 0.357 0.16 0.357 0.357-0.16 0.357-0.357 0.357z" fill="#000000" />
+</svg>
+	<a role="button" tabindex="0" name="add-to-wishlist" aria-label="Add to Wishlist" data-tinv-wl-list="[]" data-tinv-wl-product="1251" data-tinv-wl-productvariation="0" data-tinv-wl-productvariations="[]" data-tinv-wl-producttype="simple" data-tinv-wl-action="add">Add to Wishlist</a>		Add to Wishlist
+		<a href="https://demo.woostify.com/randy/product/perfume-japan/"><img width="600" height="600" src="https://demo.woostify.com/randy/wp-content/uploads/sites/22/2019/08/img-6-600x600.jpg" alt="Product image" decoding="async" loading="lazy" srcset="https://demo.woostify.com/randy/wp-content/uploads/sites/22/2019/08/img-6-600x600.jpg 600w, https://demo.woostify.com/randy/wp-content/uploads/sites/22/2019/08/img-6-300x300.jpg 300w, https://demo.woostify.com/randy/wp-content/uploads/sites/22/2019/08/img-6-150x150.jpg 150w, https://demo.woostify.com/randy/wp-content/uploads/sites/22/2019/08/img-6-768x768.jpg 768w, https://demo.woostify.com/randy/wp-content/uploads/sites/22/2019/08/img-6-100x100.jpg 100w, https://demo.woostify.com/randy/wp-content/uploads/sites/22/2019/08/img-6.jpg 1000w" sizes="(max-width: 600px) 100vw, 600px" /></a><a href="?add-to-cart=1251" data-quantity="1" data-product_id="1251" data-product_sku="" title="Add &ldquo;Perfume Japan&rdquo; to your cart" rel="nofollow"><svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   width="17"
+   height="17"
+   viewBox="0 0 17 17"
+   id="svg50"
+   sodipodi:docname="shopping-cart-2.svg"
+   inkscape:version="1.0.2-2 (e86c870879, 2021-01-15)">
+  <metadata
+     id="metadata56">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs54" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="2400"
+     inkscape:window-height="1271"
+     id="namedview52"
+     showgrid="false"
+     inkscape:zoom="48.823529"
+     inkscape:cx="8.5"
+     inkscape:cy="8.5"
+     inkscape:window-x="2391"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg50" />
+  <g
+     id="g46"
+     transform="matrix(-1,0,0,1,16.926,0)" />
+  <path
+     d="m 14.176,12.5 c 0.965,0 1.75,0.785 1.75,1.75 0,0.965 -0.785,1.75 -1.75,1.75 -0.965,0 -1.75,-0.785 -1.75,-1.75 0,-0.965 0.785,-1.75 1.75,-1.75 z m 0,2.5 c 0.414,0 0.75,-0.337 0.75,-0.75 0,-0.413 -0.336,-0.75 -0.75,-0.75 -0.414,0 -0.75,0.337 -0.75,0.75 0,0.413 0.336,0.75 0.75,0.75 z m -8.5,-2.5 c 0.965,0 1.75,0.785 1.75,1.75 0,0.965 -0.785,1.75 -1.75,1.75 -0.965,0 -1.75,-0.785 -1.75,-1.75 0,-0.965 0.785,-1.75 1.75,-1.75 z m 0,2.5 c 0.414,0 0.75,-0.337 0.75,-0.75 0,-0.413 -0.336,-0.75 -0.75,-0.75 -0.414,0 -0.75,0.337 -0.75,0.75 0,0.413 0.336,0.75 0.75,0.75 z M 3.555,2 3.857,4 H 17 l -1.118,8.036 H 3.969 L 2.931,4.573 2.695,3 H -0.074 V 2 Z M 4,5 4.139,6 H 15.713 L 15.852,5 Z M 15.012,11.036 15.573,7 H 4.278 l 0.561,4.036 z"
+     fill="#000000"
+     id="path48" />
+</svg>
+Add to cart</a>		<h2>
 			<a href="https://demo.woostify.com/randy/product/perfume-japan/">Perfume Japan</a>		</h2>
 					&pound;170.00
+	<a role="button" tabindex="0" name="add-to-wishlist" aria-label="Add to Wishlist" data-tinv-wl-list="[]" data-tinv-wl-product="1251" data-tinv-wl-productvariation="0" data-tinv-wl-productvariations="[]" data-tinv-wl-producttype="simple" data-tinv-wl-action="add">Add to Wishlist</a>		Add to Wishlist
 		</li>
 <li>
-	<a role="button" aria-label="Add to Wishlist" data-tinv-wl-list="[]" data-tinv-wl-product="1252" data-tinv-wl-productvariation="0" data-tinv-wl-productvariations="[0]" data-tinv-wl-producttype="simple" data-tinv-wl-action="add">Add to Wishlist</a>		Add to Wishlist
-		<a href="https://demo.woostify.com/randy/product/perfume-china/"><img width="600" height="600" src="https://demo.woostify.com/randy/wp-content/uploads/sites/22/2019/08/img-7-600x600.jpg" alt="Product image" loading="lazy" srcset="https://demo.woostify.com/randy/wp-content/uploads/sites/22/2019/08/img-7-600x600.jpg 600w, https://demo.woostify.com/randy/wp-content/uploads/sites/22/2019/08/img-7-300x300.jpg 300w, https://demo.woostify.com/randy/wp-content/uploads/sites/22/2019/08/img-7-150x150.jpg 150w, https://demo.woostify.com/randy/wp-content/uploads/sites/22/2019/08/img-7-768x768.jpg 768w, https://demo.woostify.com/randy/wp-content/uploads/sites/22/2019/08/img-7-100x100.jpg 100w, https://demo.woostify.com/randy/wp-content/uploads/sites/22/2019/08/img-7.jpg 1000w" sizes="(max-width: 600px) 100vw, 600px" /></a><a href="?add-to-cart=1252" data-quantity="1" data-product_id="1252" data-product_sku="" title="Add &ldquo;Perfume China&rdquo; to your cart" rel="nofollow">Add to cart</a>		<h2>
+			<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="17" height="17" viewBox="0 0 17 17">
+<g>
+</g>
+	<path d="M16.965 8.817c-1.284-3.267-4.687-5.463-8.465-5.463s-7.181 2.196-8.465 5.463c-0.046 0.117-0.046 0.248 0 0.365 1.285 3.268 4.687 5.464 8.465 5.464s7.18-2.195 8.465-5.463c0.047-0.118 0.047-0.248 0-0.366zM8.5 13.646c-3.298 0-6.269-1.859-7.459-4.646 1.189-2.787 4.16-4.646 7.459-4.646s6.27 1.859 7.459 4.646c-1.19 2.786-4.161 4.646-7.459 4.646zM8.5 5.357c-2.009 0-3.643 1.634-3.643 3.643s1.634 3.643 3.644 3.643c2.008 0 3.643-1.634 3.643-3.643s-1.635-3.643-3.644-3.643zM8.5 11.643c-1.458 0-2.644-1.186-2.644-2.643s1.187-2.643 2.644-2.643c1.457 0 2.643 1.186 2.643 2.643s-1.185 2.643-2.643 2.643zM8.5 7.643c-0.748 0-1.357 0.609-1.357 1.357s0.609 1.357 1.357 1.357 1.357-0.609 1.357-1.357-0.609-1.357-1.357-1.357zM8.5 9.357c-0.197 0-0.357-0.16-0.357-0.357s0.16-0.357 0.357-0.357 0.357 0.16 0.357 0.357-0.16 0.357-0.357 0.357z" fill="#000000" />
+</svg>
+	<a role="button" tabindex="0" name="add-to-wishlist" aria-label="Add to Wishlist" data-tinv-wl-list="[]" data-tinv-wl-product="1252" data-tinv-wl-productvariation="0" data-tinv-wl-productvariations="[]" data-tinv-wl-producttype="simple" data-tinv-wl-action="add">Add to Wishlist</a>		Add to Wishlist
+		<a href="https://demo.woostify.com/randy/product/perfume-china/"><img width="600" height="600" src="https://demo.woostify.com/randy/wp-content/uploads/sites/22/2019/08/img-7-600x600.jpg" alt="Product image" decoding="async" loading="lazy" srcset="https://demo.woostify.com/randy/wp-content/uploads/sites/22/2019/08/img-7-600x600.jpg 600w, https://demo.woostify.com/randy/wp-content/uploads/sites/22/2019/08/img-7-300x300.jpg 300w, https://demo.woostify.com/randy/wp-content/uploads/sites/22/2019/08/img-7-150x150.jpg 150w, https://demo.woostify.com/randy/wp-content/uploads/sites/22/2019/08/img-7-768x768.jpg 768w, https://demo.woostify.com/randy/wp-content/uploads/sites/22/2019/08/img-7-100x100.jpg 100w, https://demo.woostify.com/randy/wp-content/uploads/sites/22/2019/08/img-7.jpg 1000w" sizes="(max-width: 600px) 100vw, 600px" /></a><a href="?add-to-cart=1252" data-quantity="1" data-product_id="1252" data-product_sku="" title="Add &ldquo;Perfume China&rdquo; to your cart" rel="nofollow"><svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   width="17"
+   height="17"
+   viewBox="0 0 17 17"
+   id="svg50"
+   sodipodi:docname="shopping-cart-2.svg"
+   inkscape:version="1.0.2-2 (e86c870879, 2021-01-15)">
+  <metadata
+     id="metadata56">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs54" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="2400"
+     inkscape:window-height="1271"
+     id="namedview52"
+     showgrid="false"
+     inkscape:zoom="48.823529"
+     inkscape:cx="8.5"
+     inkscape:cy="8.5"
+     inkscape:window-x="2391"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg50" />
+  <g
+     id="g46"
+     transform="matrix(-1,0,0,1,16.926,0)" />
+  <path
+     d="m 14.176,12.5 c 0.965,0 1.75,0.785 1.75,1.75 0,0.965 -0.785,1.75 -1.75,1.75 -0.965,0 -1.75,-0.785 -1.75,-1.75 0,-0.965 0.785,-1.75 1.75,-1.75 z m 0,2.5 c 0.414,0 0.75,-0.337 0.75,-0.75 0,-0.413 -0.336,-0.75 -0.75,-0.75 -0.414,0 -0.75,0.337 -0.75,0.75 0,0.413 0.336,0.75 0.75,0.75 z m -8.5,-2.5 c 0.965,0 1.75,0.785 1.75,1.75 0,0.965 -0.785,1.75 -1.75,1.75 -0.965,0 -1.75,-0.785 -1.75,-1.75 0,-0.965 0.785,-1.75 1.75,-1.75 z m 0,2.5 c 0.414,0 0.75,-0.337 0.75,-0.75 0,-0.413 -0.336,-0.75 -0.75,-0.75 -0.414,0 -0.75,0.337 -0.75,0.75 0,0.413 0.336,0.75 0.75,0.75 z M 3.555,2 3.857,4 H 17 l -1.118,8.036 H 3.969 L 2.931,4.573 2.695,3 H -0.074 V 2 Z M 4,5 4.139,6 H 15.713 L 15.852,5 Z M 15.012,11.036 15.573,7 H 4.278 l 0.561,4.036 z"
+     fill="#000000"
+     id="path48" />
+</svg>
+Add to cart</a>		<h2>
 			<a href="https://demo.woostify.com/randy/product/perfume-china/">Perfume China</a>		</h2>
 					&pound;250.00
+	<a role="button" tabindex="0" name="add-to-wishlist" aria-label="Add to Wishlist" data-tinv-wl-list="[]" data-tinv-wl-product="1252" data-tinv-wl-productvariation="0" data-tinv-wl-productvariations="[]" data-tinv-wl-producttype="simple" data-tinv-wl-action="add">Add to Wishlist</a>		Add to Wishlist
 		</li>
 <li>
-	<a role="button" aria-label="Add to Wishlist" data-tinv-wl-list="[]" data-tinv-wl-product="1253" data-tinv-wl-productvariation="0" data-tinv-wl-productvariations="[0]" data-tinv-wl-producttype="simple" data-tinv-wl-action="add">Add to Wishlist</a>		Add to Wishlist
-		<a href="https://demo.woostify.com/randy/product/perfume/"><img width="600" height="600" src="https://demo.woostify.com/randy/wp-content/uploads/sites/22/2019/08/img-2-600x600.jpg" alt="Product image" loading="lazy" srcset="https://demo.woostify.com/randy/wp-content/uploads/sites/22/2019/08/img-2-600x600.jpg 600w, https://demo.woostify.com/randy/wp-content/uploads/sites/22/2019/08/img-2-300x300.jpg 300w, https://demo.woostify.com/randy/wp-content/uploads/sites/22/2019/08/img-2-150x150.jpg 150w, https://demo.woostify.com/randy/wp-content/uploads/sites/22/2019/08/img-2-768x768.jpg 768w, https://demo.woostify.com/randy/wp-content/uploads/sites/22/2019/08/img-2-100x100.jpg 100w, https://demo.woostify.com/randy/wp-content/uploads/sites/22/2019/08/img-2.jpg 1000w" sizes="(max-width: 600px) 100vw, 600px" /></a><a href="?add-to-cart=1253" data-quantity="1" data-product_id="1253" data-product_sku="" title="Add &ldquo;Perfume&rdquo; to your cart" rel="nofollow">Add to cart</a>		<h2>
+			<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="17" height="17" viewBox="0 0 17 17">
+<g>
+</g>
+	<path d="M16.965 8.817c-1.284-3.267-4.687-5.463-8.465-5.463s-7.181 2.196-8.465 5.463c-0.046 0.117-0.046 0.248 0 0.365 1.285 3.268 4.687 5.464 8.465 5.464s7.18-2.195 8.465-5.463c0.047-0.118 0.047-0.248 0-0.366zM8.5 13.646c-3.298 0-6.269-1.859-7.459-4.646 1.189-2.787 4.16-4.646 7.459-4.646s6.27 1.859 7.459 4.646c-1.19 2.786-4.161 4.646-7.459 4.646zM8.5 5.357c-2.009 0-3.643 1.634-3.643 3.643s1.634 3.643 3.644 3.643c2.008 0 3.643-1.634 3.643-3.643s-1.635-3.643-3.644-3.643zM8.5 11.643c-1.458 0-2.644-1.186-2.644-2.643s1.187-2.643 2.644-2.643c1.457 0 2.643 1.186 2.643 2.643s-1.185 2.643-2.643 2.643zM8.5 7.643c-0.748 0-1.357 0.609-1.357 1.357s0.609 1.357 1.357 1.357 1.357-0.609 1.357-1.357-0.609-1.357-1.357-1.357zM8.5 9.357c-0.197 0-0.357-0.16-0.357-0.357s0.16-0.357 0.357-0.357 0.357 0.16 0.357 0.357-0.16 0.357-0.357 0.357z" fill="#000000" />
+</svg>
+	<a role="button" tabindex="0" name="add-to-wishlist" aria-label="Add to Wishlist" data-tinv-wl-list="[]" data-tinv-wl-product="1253" data-tinv-wl-productvariation="0" data-tinv-wl-productvariations="[]" data-tinv-wl-producttype="simple" data-tinv-wl-action="add">Add to Wishlist</a>		Add to Wishlist
+		<a href="https://demo.woostify.com/randy/product/perfume/"><img width="600" height="600" src="https://demo.woostify.com/randy/wp-content/uploads/sites/22/2019/08/img-2-600x600.jpg" alt="Product image" decoding="async" loading="lazy" srcset="https://demo.woostify.com/randy/wp-content/uploads/sites/22/2019/08/img-2-600x600.jpg 600w, https://demo.woostify.com/randy/wp-content/uploads/sites/22/2019/08/img-2-300x300.jpg 300w, https://demo.woostify.com/randy/wp-content/uploads/sites/22/2019/08/img-2-150x150.jpg 150w, https://demo.woostify.com/randy/wp-content/uploads/sites/22/2019/08/img-2-768x768.jpg 768w, https://demo.woostify.com/randy/wp-content/uploads/sites/22/2019/08/img-2-100x100.jpg 100w, https://demo.woostify.com/randy/wp-content/uploads/sites/22/2019/08/img-2.jpg 1000w" sizes="(max-width: 600px) 100vw, 600px" /></a><a href="?add-to-cart=1253" data-quantity="1" data-product_id="1253" data-product_sku="" title="Add &ldquo;Perfume&rdquo; to your cart" rel="nofollow"><svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   width="17"
+   height="17"
+   viewBox="0 0 17 17"
+   id="svg50"
+   sodipodi:docname="shopping-cart-2.svg"
+   inkscape:version="1.0.2-2 (e86c870879, 2021-01-15)">
+  <metadata
+     id="metadata56">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs54" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="2400"
+     inkscape:window-height="1271"
+     id="namedview52"
+     showgrid="false"
+     inkscape:zoom="48.823529"
+     inkscape:cx="8.5"
+     inkscape:cy="8.5"
+     inkscape:window-x="2391"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg50" />
+  <g
+     id="g46"
+     transform="matrix(-1,0,0,1,16.926,0)" />
+  <path
+     d="m 14.176,12.5 c 0.965,0 1.75,0.785 1.75,1.75 0,0.965 -0.785,1.75 -1.75,1.75 -0.965,0 -1.75,-0.785 -1.75,-1.75 0,-0.965 0.785,-1.75 1.75,-1.75 z m 0,2.5 c 0.414,0 0.75,-0.337 0.75,-0.75 0,-0.413 -0.336,-0.75 -0.75,-0.75 -0.414,0 -0.75,0.337 -0.75,0.75 0,0.413 0.336,0.75 0.75,0.75 z m -8.5,-2.5 c 0.965,0 1.75,0.785 1.75,1.75 0,0.965 -0.785,1.75 -1.75,1.75 -0.965,0 -1.75,-0.785 -1.75,-1.75 0,-0.965 0.785,-1.75 1.75,-1.75 z m 0,2.5 c 0.414,0 0.75,-0.337 0.75,-0.75 0,-0.413 -0.336,-0.75 -0.75,-0.75 -0.414,0 -0.75,0.337 -0.75,0.75 0,0.413 0.336,0.75 0.75,0.75 z M 3.555,2 3.857,4 H 17 l -1.118,8.036 H 3.969 L 2.931,4.573 2.695,3 H -0.074 V 2 Z M 4,5 4.139,6 H 15.713 L 15.852,5 Z M 15.012,11.036 15.573,7 H 4.278 l 0.561,4.036 z"
+     fill="#000000"
+     id="path48" />
+</svg>
+Add to cart</a>		<h2>
 			<a href="https://demo.woostify.com/randy/product/perfume/">Perfume</a>		</h2>
 					&pound;170.00
+	<a role="button" tabindex="0" name="add-to-wishlist" aria-label="Add to Wishlist" data-tinv-wl-list="[]" data-tinv-wl-product="1253" data-tinv-wl-productvariation="0" data-tinv-wl-productvariations="[]" data-tinv-wl-producttype="simple" data-tinv-wl-action="add">Add to Wishlist</a>		Add to Wishlist
 		</li>
 </ul>
-										<img width="310" height="310" src="https://demo.woostify.com/randy/wp-content/uploads/sites/22/2019/08/instergrama.jpg" alt="" loading="lazy" srcset="https://demo.woostify.com/randy/wp-content/uploads/sites/22/2019/08/instergrama.jpg 310w, https://demo.woostify.com/randy/wp-content/uploads/sites/22/2019/08/instergrama-300x300.jpg 300w, https://demo.woostify.com/randy/wp-content/uploads/sites/22/2019/08/instergrama-150x150.jpg 150w, https://demo.woostify.com/randy/wp-content/uploads/sites/22/2019/08/instergrama-100x100.jpg 100w" sizes="(max-width: 310px) 100vw, 310px" />											
+												<img width="310" height="310" src="https://demo.woostify.com/randy/wp-content/uploads/sites/22/2019/08/instergrama.jpg" alt="" loading="lazy" srcset="https://demo.woostify.com/randy/wp-content/uploads/sites/22/2019/08/instergrama.jpg 310w, https://demo.woostify.com/randy/wp-content/uploads/sites/22/2019/08/instergrama-300x300.jpg 300w, https://demo.woostify.com/randy/wp-content/uploads/sites/22/2019/08/instergrama-150x150.jpg 150w, https://demo.woostify.com/randy/wp-content/uploads/sites/22/2019/08/instergrama-100x100.jpg 100w" sizes="(max-width: 310px) 100vw, 310px" />														
 			<h2><a href="#">Follow @randy.perfume</a></h2>		
 			<h2>Latest News</h2>		
 		<p>Nunc interdum lorem a lacus mattis blandit.</p><p>Donec id rutrum ero. In orci leo, malesuada</p><p>non.</p>		
@@ -6102,8 +6480,8 @@
 		<wp:post_id>11</wp:post_id>
 		<wp:post_date><![CDATA[2018-12-18 03:58:40]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-12-18 03:58:40]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-04-02 03:55:30]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-04-02 03:55:30]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2023-06-20 03:12:36]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-06-20 03:12:36]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[woostify]]></wp:post_name>
@@ -6115,7 +6493,7 @@
 		<wp:is_sticky>0</wp:is_sticky>
 														<wp:postmeta>
 		<wp:meta_key><![CDATA[site-container]]></wp:meta_key>
-		<wp:meta_value><![CDATA[full-width]]></wp:meta_value>
+		<wp:meta_value><![CDATA[full-width-stretched]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[site-sidebar]]></wp:meta_key>
@@ -6135,11 +6513,11 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_elementor_data]]></wp:meta_key>
-		<wp:meta_value><![CDATA[[{"id":"b430f77","elType":"section","settings":{"gap":"no","height":"min-height","background_background":"classic","background_image":{"url":"https:\/\/demo.woostify.com\/randy\/wp-content\/uploads\/sites\/22\/2019\/08\/home-hero01.jpg","id":1524},"background_size":"cover","padding":{"unit":"px","top":"100","right":"0","bottom":"100","left":"0","isLinked":false},"custom_height_mobile":{"unit":"px","size":100,"sizes":[]},"background_repeat":"no-repeat","custom_height":{"unit":"px","size":600,"sizes":[]}},"elements":[{"id":"df2ce95","elType":"column","settings":{"_column_size":100},"elements":[{"id":"a919338","elType":"widget","settings":{"title":"Share the secret","align":"center","title_color":"#ffffff","typography_typography":"custom","typography_font_size":{"unit":"px","size":60,"sizes":[]}},"elements":[],"widgetType":"heading"},{"id":"b8af14d","elType":"widget","settings":{"title":"Let desire lead you","header_size":"span","align":"center","title_color":"#ffffff","typography_typography":"custom","typography_font_size":{"unit":"px","size":18,"sizes":[]},"typography_text_transform":"uppercase","_margin":{"unit":"px","top":"20","right":"0","bottom":"0","left":"0","isLinked":false},"typography_letter_spacing":{"unit":"px","size":2,"sizes":[]}},"elements":[],"widgetType":"heading"},{"id":"c1d9ae4","elType":"widget","settings":{"space":{"unit":"px","size":20,"sizes":[]}},"elements":[],"widgetType":"spacer"},{"id":"56775d9","elType":"widget","settings":{"space":{"unit":"px","size":10,"sizes":[]}},"elements":[],"widgetType":"spacer"},{"id":"f1a8fed","elType":"widget","settings":{"text":"Discover","align":"center","typography_typography":"custom","typography_text_transform":"uppercase","typography_text_decoration":"underline","background_color":"rgba(0,0,0,0)","text_padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false},"typography_font_size":{"unit":"px","size":15,"sizes":[]},"typography_font_weight":"600","typography_letter_spacing":{"unit":"px","size":1,"sizes":[]},"link":{"url":"https:\/\/woostify.com\/demos\/randy\/shop\/","is_external":"","nofollow":""}},"elements":[],"widgetType":"button"}],"isInner":false}],"isInner":false},{"id":"401c811","elType":"section","settings":{"layout":"full_width","height":"min-height","custom_height":{"unit":"px","size":600,"sizes":[]},"background_background":"classic","background_image":{"url":"https:\/\/demo.woostify.com\/randy\/wp-content\/uploads\/sites\/22\/2019\/08\/our-story.jpg","id":1533},"background_repeat":"no-repeat","background_size":"cover","custom_height_mobile":{"unit":"px","size":400,"sizes":[]}},"elements":[{"id":"d66d2f8","elType":"column","settings":{"_column_size":100},"elements":[{"id":"9b8f205","elType":"section","settings":{"structure":"20"},"elements":[{"id":"56a2567","elType":"column","settings":{"_column_size":50,"_inline_size":null},"elements":[],"isInner":true},{"id":"1f9493a","elType":"column","settings":{"_column_size":50,"_inline_size":null},"elements":[{"id":"50692d5","elType":"widget","settings":{"color":"#ffffff","width":{"unit":"%","size":8,"sizes":[]},"align":"left","text":"Divider"},"elements":[],"widgetType":"divider"},{"id":"6bb1bc4","elType":"widget","settings":{"editor":"<p><span class=\"t-white\">MAECENAS RHONCUS <\/span> \u2014 eu lacus eu viverra. Nunc interdum<\/p><p>lorem a lacus mattis blandit. Donec id rutrum eros.<\/p><p>In orci leo, malesuada non. Morbi ac eros feugiat, lacinia<\/p><p>elit ut, elementum turpis. Curabitur justo sapien, tempus sit<\/p><p>amet rutrum eu, commodo eu lacus. Morbi in ligula nibh.<\/p><p>Maecenas ut mi at odio hendrerit eleifend.<\/p>","text_color":"#8c96a5","typography_typography":"custom","typography_line_height":{"unit":"px","size":15,"sizes":[]}},"elements":[],"widgetType":"text-editor"}],"isInner":true}],"isInner":true}],"isInner":false}],"isInner":false},{"id":"5a8df39","elType":"section","settings":[],"elements":[{"id":"861ebf3","elType":"column","settings":{"_column_size":100},"elements":[{"id":"9a9d7e0","elType":"widget","settings":{"space":{"unit":"px","size":90,"sizes":[]},"space_mobile":{"unit":"px","size":40,"sizes":[]}},"elements":[],"widgetType":"spacer"},{"id":"d34280b","elType":"widget","settings":{"title":"Featured Products","align":"center","typography_typography":"custom","typography_font_weight":"300"},"elements":[],"widgetType":"heading"},{"id":"0a95fa4","elType":"widget","settings":{"space_mobile":{"unit":"px","size":30,"sizes":[]}},"elements":[],"widgetType":"spacer"},{"id":"c980dcb","elType":"widget","settings":{"col":"3"},"elements":[],"widgetType":"woostify-new-products"}],"isInner":false}],"isInner":false},{"id":"0056e4e","elType":"section","settings":{"layout":"full_width","gap":"no","height":"min-height","custom_height":{"unit":"px","size":1000,"sizes":[]},"background_background":"classic","background_image":{"url":"https:\/\/demo.woostify.com\/randy\/wp-content\/uploads\/sites\/22\/2019\/08\/instergram.jpg","id":1311},"background_position":"center left","background_xpos":{"unit":"px","size":300,"sizes":[]},"background_repeat":"no-repeat","background_size":"cover","custom_height_mobile":{"unit":"px","size":400,"sizes":[]},"background_xpos_mobile":{"unit":"px","size":800,"sizes":[]},"background_ypos_mobile":{"unit":"px","size":800,"sizes":[]}},"elements":[{"id":"9403877","elType":"column","settings":{"_column_size":100},"elements":[{"id":"04d422b","elType":"section","settings":{"structure":"20"},"elements":[{"id":"06454da","elType":"column","settings":{"_column_size":50,"_inline_size":63.077},"elements":[],"isInner":true},{"id":"dd0b41b","elType":"column","settings":{"_column_size":50,"_inline_size":36.923,"background_background":"classic","background_color":"#1d2736","padding":{"unit":"px","top":"70","right":"70","bottom":"70","left":"70","isLinked":true}},"elements":[{"id":"00bf5fb","elType":"widget","settings":{"image":{"url":"https:\/\/woostify.com\/demos\/randy\/wp-content\/uploads\/2019\/08\/instergrama.jpg","id":1328}},"elements":[],"widgetType":"image"},{"id":"0c4ff68","elType":"widget","settings":{"space":{"unit":"px","size":20,"sizes":[]}},"elements":[],"widgetType":"spacer"},{"id":"e30c5ed","elType":"widget","settings":{"title":"Follow @randy.perfume","link":{"url":"#","is_external":"","nofollow":""},"align":"center","title_color":"#ffffff","typography_typography":"custom","typography_font_size":{"unit":"px","size":14,"sizes":[]},"typography_text_transform":"uppercase"},"elements":[],"widgetType":"heading"}],"isInner":true}],"isInner":true}],"isInner":false}],"isInner":false},{"id":"5949a74","elType":"section","settings":{"layout":"full_width","gap":"no","background_background":"classic","background_color":"#232d3d","padding":{"unit":"px","top":"0","right":"0","bottom":"100","left":"0","isLinked":false},"padding_mobile":{"unit":"px","top":"50","right":"0","bottom":"50","left":"0","isLinked":false}},"elements":[{"id":"bb31f33","elType":"column","settings":{"_column_size":100},"elements":[{"id":"e560f46","elType":"section","settings":{"structure":"20"},"elements":[{"id":"b0fa099","elType":"column","settings":{"_column_size":50,"_inline_size":null},"elements":[{"id":"f04b9f7","elType":"widget","settings":{"title":"Latest News","title_color":"#ffffff"},"elements":[],"widgetType":"heading"},{"id":"1bad165","elType":"widget","settings":{"space":{"unit":"px","size":20,"sizes":[]}},"elements":[],"widgetType":"spacer"},{"id":"8887ec5","elType":"widget","settings":{"editor":"<p>Nunc interdum lorem a lacus mattis blandit.<\/p><p>Donec id rutrum ero. In orci leo, malesuada<\/p><p>non.<\/p>","typography_typography":"custom","typography_line_height":{"unit":"px","size":15,"sizes":[]}},"elements":[],"widgetType":"text-editor"},{"id":"7802b99","elType":"widget","settings":{"space":{"unit":"px","size":10,"sizes":[]}},"elements":[],"widgetType":"spacer"},{"id":"b5efd79","elType":"widget","settings":{"text":"all blog posts","typography_typography":"custom","typography_text_transform":"uppercase","background_color":"rgba(0,0,0,0)","text_padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false},"link":{"url":"\/blog","is_external":"","nofollow":""}},"elements":[],"widgetType":"button"}],"isInner":true},{"id":"9710b98","elType":"column","settings":{"_column_size":50,"_inline_size":null},"elements":[{"id":"6333a01","elType":"widget","settings":{"columns":"2","date":"yes","author":"yes","title_color":"#ffffff","excerpt":"","excerpt_color":"#8c96a5","read_more_text":"Read More","count":2},"elements":[],"widgetType":"woostify-post"}],"isInner":true}],"isInner":true}],"isInner":false}],"isInner":false}]]]></wp:meta_value>
+		<wp:meta_value><![CDATA[[{"id":"bd3d966","elType":"container","settings":{"flex_gap":{"size":0,"unit":"px"},"background_background":"classic","background_image":{"url":"https:\/\/demo.woostify.com\/randy\/wp-content\/uploads\/sites\/22\/2019\/08\/home-hero01.jpg","id":1524},"background_size":"cover","padding":{"unit":"px","top":"100","right":"0","bottom":"100","left":"0","isLinked":false},"background_repeat":"no-repeat","flex_direction":"row"},"elements":[{"id":"d8e6463","elType":"container","settings":{"_column_size":100,"content_width":"full","min_height":{"unit":"px","size":600,"sizes":[]},"min_height_mobile":{"unit":"px","size":100,"sizes":[]},"flex_justify_content":"center","padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true}},"elements":[{"id":"3b91c8b","elType":"widget","settings":{"title":"Share the secret","align":"center","title_color":"#ffffff","typography_typography":"custom","typography_font_size":{"unit":"px","size":60,"sizes":[]}},"elements":[],"widgetType":"heading"},{"id":"5a6ba17","elType":"widget","settings":{"title":"Let desire lead you","header_size":"span","align":"center","title_color":"#ffffff","typography_typography":"custom","typography_font_size":{"unit":"px","size":18,"sizes":[]},"typography_text_transform":"uppercase","_margin":{"unit":"px","top":"20","right":"0","bottom":"0","left":"0","isLinked":false},"typography_letter_spacing":{"unit":"px","size":2,"sizes":[]}},"elements":[],"widgetType":"heading"},{"id":"7993d03","elType":"widget","settings":{"space":{"unit":"px","size":20,"sizes":[]}},"elements":[],"widgetType":"spacer"},{"id":"cf9365d","elType":"widget","settings":{"space":{"unit":"px","size":10,"sizes":[]}},"elements":[],"widgetType":"spacer"},{"id":"c24338e","elType":"widget","settings":{"text":"Discover","align":"center","typography_typography":"custom","typography_text_transform":"uppercase","typography_text_decoration":"underline","background_color":"rgba(0,0,0,0)","text_padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false},"typography_font_size":{"unit":"px","size":15,"sizes":[]},"typography_font_weight":"600","typography_letter_spacing":{"unit":"px","size":1,"sizes":[]},"link":{"url":"https:\/\/woostify.com\/demos\/randy\/shop\/pros\/335\/pros\/335\/","is_external":"","nofollow":""}},"elements":[],"widgetType":"button"}],"isInner":false}],"isInner":false},{"id":"3ffec96","elType":"container","settings":{"content_width":"full","min_height":{"unit":"px","size":600,"sizes":[]},"background_background":"classic","background_image":{"url":"https:\/\/demo.woostify.com\/randy\/wp-content\/uploads\/sites\/22\/2019\/08\/our-story.jpg","id":1533},"background_repeat":"no-repeat","background_size":"cover","min_height_mobile":{"unit":"px","size":400,"sizes":[]},"flex_direction":"row","flex_align_items":"center","flex_gap":{"size":0,"unit":"px"},"padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true}},"elements":[{"id":"18dca62","elType":"container","settings":{"_column_size":100,"content_width":"full"},"elements":[{"id":"10b91c6","elType":"container","settings":{"structure":"20","flex_direction":"row","flex_align_items":"stretch","flex_gap":{"size":0,"unit":"px"},"padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true}},"elements":[{"id":"4b0d5a8","elType":"container","settings":{"_column_size":50,"width":{"size":50,"unit":"%"},"content_width":"full","padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true}},"elements":[],"isInner":false},{"id":"67674c7","elType":"container","settings":{"_column_size":50,"width":{"size":50,"unit":"%"},"content_width":"full"},"elements":[{"id":"20a51e1","elType":"widget","settings":{"color":"#ffffff","width":{"unit":"%","size":8,"sizes":[]},"align":"left","text":"Divider"},"elements":[],"widgetType":"divider"},{"id":"8eb2899","elType":"widget","settings":{"editor":"<p><span class=\"t-white\">MAECENAS RHONCUS <\/span> \u2014 eu lacus eu viverra. Nunc interdum<\/p><p>lorem a lacus mattis blandit. Donec id rutrum eros.<\/p><p>In orci leo, malesuada non. Morbi ac eros feugiat, lacinia<\/p><p>elit ut, elementum turpis. Curabitur justo sapien, tempus sit<\/p><p>amet rutrum eu, commodo eu lacus. Morbi in ligula nibh.<\/p><p>Maecenas ut mi at odio hendrerit eleifend.<\/p>","text_color":"#8c96a5","typography_typography":"custom","typography_line_height":{"unit":"px","size":15,"sizes":[]}},"elements":[],"widgetType":"text-editor"}],"isInner":false}],"isInner":false}],"isInner":false}],"isInner":false},{"id":"a871215","elType":"container","settings":{"flex_direction":"row","flex_align_items":"stretch","flex_gap":{"size":0,"unit":"px"},"padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true}},"elements":[{"id":"2f4a3ba","elType":"container","settings":{"_column_size":100,"content_width":"full"},"elements":[{"id":"f612bae","elType":"widget","settings":{"space":{"unit":"px","size":90,"sizes":[]},"space_mobile":{"unit":"px","size":40,"sizes":[]}},"elements":[],"widgetType":"spacer"},{"id":"333da2d","elType":"widget","settings":{"title":"Featured Products","align":"center","typography_typography":"custom","typography_font_weight":"300"},"elements":[],"widgetType":"heading"},{"id":"fbb1a6e","elType":"widget","settings":{"space_mobile":{"unit":"px","size":30,"sizes":[]}},"elements":[],"widgetType":"spacer"},{"id":"a4c966d","elType":"widget","settings":{"col":"3"},"elements":[],"widgetType":"woostify-new-products"}],"isInner":false}],"isInner":false},{"id":"73908db","elType":"container","settings":{"content_width":"full","flex_gap":{"size":0,"unit":"px"},"min_height":{"unit":"px","size":1000,"sizes":[]},"background_background":"classic","background_image":{"url":"https:\/\/demo.woostify.com\/randy\/wp-content\/uploads\/sites\/22\/2019\/08\/instergram.jpg","id":1311},"background_position":"center left","background_xpos":{"unit":"px","size":300,"sizes":[]},"background_repeat":"no-repeat","background_size":"cover","min_height_mobile":{"unit":"px","size":400,"sizes":[]},"background_xpos_mobile":{"unit":"px","size":800,"sizes":[]},"background_ypos_mobile":{"unit":"px","size":800,"sizes":[]},"flex_direction":"row","flex_align_items":"center","padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true}},"elements":[{"id":"81d76f8","elType":"container","settings":{"_column_size":100,"content_width":"full","padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true}},"elements":[{"id":"051767e","elType":"container","settings":{"structure":"20","flex_direction":"row","flex_align_items":"stretch","flex_gap":{"size":0,"unit":"px"},"padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true}},"elements":[{"id":"308aab6","elType":"container","settings":{"_column_size":50,"width":{"size":63.077,"unit":"%"},"content_width":"full","padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true}},"elements":[],"isInner":false},{"id":"e5998fa","elType":"container","settings":{"_column_size":50,"width":{"size":36.923,"unit":"%"},"background_background":"classic","background_color":"#1d2736","padding":{"unit":"px","top":"70","right":"70","bottom":"70","left":"70","isLinked":true},"content_width":"full"},"elements":[{"id":"5d0dd91","elType":"widget","settings":{"image":{"url":"https:\/\/woostify.com\/demos\/randy\/wp-content\/uploads\/2019\/08\/instergrama.jpg\/pros\/335\/pros\/335\/","id":1328}},"elements":[],"widgetType":"image"},{"id":"b717841","elType":"widget","settings":{"space":{"unit":"px","size":20,"sizes":[]}},"elements":[],"widgetType":"spacer"},{"id":"8c6dcac","elType":"widget","settings":{"title":"Follow @randy.perfume","link":{"url":"#","is_external":"","nofollow":""},"align":"center","title_color":"#ffffff","typography_typography":"custom","typography_font_size":{"unit":"px","size":14,"sizes":[]},"typography_text_transform":"uppercase"},"elements":[],"widgetType":"heading"}],"isInner":false}],"isInner":false}],"isInner":false}],"isInner":false},{"id":"8227248","elType":"container","settings":{"content_width":"full","flex_gap":{"size":0,"unit":"px"},"background_background":"classic","background_color":"#232d3d","padding":{"unit":"px","top":"0","right":"0","bottom":"100","left":"0","isLinked":false},"padding_mobile":{"unit":"px","top":"50","right":"0","bottom":"50","left":"0","isLinked":false},"flex_direction":"row","flex_align_items":"stretch"},"elements":[{"id":"2f7dea8","elType":"container","settings":{"_column_size":100,"content_width":"full","padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true}},"elements":[{"id":"bfa94e2","elType":"container","settings":{"structure":"20","flex_direction":"row","flex_align_items":"stretch","flex_gap":{"size":0,"unit":"px"},"padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true}},"elements":[{"id":"08d50b3","elType":"container","settings":{"_column_size":50,"width":{"size":null,"unit":"%"},"content_width":"full"},"elements":[{"id":"c11364e","elType":"widget","settings":{"title":"Latest News","title_color":"#ffffff"},"elements":[],"widgetType":"heading"},{"id":"3d9b79e","elType":"widget","settings":{"space":{"unit":"px","size":20,"sizes":[]}},"elements":[],"widgetType":"spacer"},{"id":"72e4571","elType":"widget","settings":{"editor":"<p>Nunc interdum lorem a lacus mattis blandit.<\/p><p>Donec id rutrum ero. In orci leo, malesuada<\/p><p>non.<\/p>","typography_typography":"custom","typography_line_height":{"unit":"px","size":15,"sizes":[]}},"elements":[],"widgetType":"text-editor"},{"id":"249d90d","elType":"widget","settings":{"space":{"unit":"px","size":10,"sizes":[]}},"elements":[],"widgetType":"spacer"},{"id":"14530c8","elType":"widget","settings":{"text":"all blog posts","typography_typography":"custom","typography_text_transform":"uppercase","background_color":"rgba(0,0,0,0)","text_padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false},"link":{"url":"\/blog","is_external":"","nofollow":""}},"elements":[],"widgetType":"button"}],"isInner":false},{"id":"25ac102","elType":"container","settings":{"_column_size":50,"width":{"size":null,"unit":"%"},"content_width":"full"},"elements":[{"id":"209ae42","elType":"widget","settings":{"columns":"2","date":"yes","author":"yes","title_color":"#ffffff","excerpt":"","excerpt_color":"#8c96a5","read_more_text":"Read More","count":2},"elements":[],"widgetType":"woostify-post"}],"isInner":false}],"isInner":false}],"isInner":false}],"isInner":false}]]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_elementor_version]]></wp:meta_key>
-		<wp:meta_value><![CDATA[3.1.4]]></wp:meta_value>
+		<wp:meta_value><![CDATA[3.13.4]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[site-header-transparent]]></wp:meta_key>
@@ -6156,6 +6534,14 @@
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_elementor_controls_usage]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:10:{s:7:"heading";a:3:{s:5:"count";i:5;s:15:"control_percent";i:1;s:8:"controls";a:3:{s:7:"content";a:1:{s:13:"section_title";a:4:{s:5:"title";i:5;s:5:"align";i:4;s:11:"header_size";i:1;s:4:"link";i:1;}}s:5:"style";a:1:{s:19:"section_title_style";a:6:{s:11:"title_color";i:4;s:21:"typography_typography";i:4;s:20:"typography_font_size";i:3;s:25:"typography_text_transform";i:2;s:25:"typography_letter_spacing";i:1;s:22:"typography_font_weight";i:1;}}s:8:"advanced";a:1:{s:14:"_section_style";a:1:{s:7:"_margin";i:1;}}}}s:6:"spacer";a:3:{s:5:"count";i:7;s:15:"control_percent";i:0;s:8:"controls";a:1:{s:7:"content";a:1:{s:14:"section_spacer";a:2:{s:5:"space";i:6;s:12:"space_mobile";i:2;}}}}s:6:"button";a:3:{s:5:"count";i:2;s:15:"control_percent";i:2;s:8:"controls";a:2:{s:7:"content";a:1:{s:14:"section_button";a:3:{s:4:"text";i:2;s:5:"align";i:1;s:4:"link";i:2;}}s:5:"style";a:1:{s:13:"section_style";a:8:{s:21:"typography_typography";i:2;s:25:"typography_text_transform";i:2;s:26:"typography_text_decoration";i:1;s:16:"background_color";i:2;s:12:"text_padding";i:2;s:20:"typography_font_size";i:1;s:22:"typography_font_weight";i:1;s:25:"typography_letter_spacing";i:1;}}}}s:6:"column";a:3:{s:5:"count";i:11;s:15:"control_percent";i:0;s:8:"controls";a:3:{s:6:"layout";a:1:{s:6:"layout";a:1:{s:12:"_inline_size";i:6;}}s:5:"style";a:1:{s:13:"section_style";a:2:{s:21:"background_background";i:1;s:16:"background_color";i:1;}}s:8:"advanced";a:1:{s:16:"section_advanced";a:1:{s:7:"padding";i:1;}}}}s:7:"section";a:3:{s:5:"count";i:8;s:15:"control_percent";i:2;s:8:"controls";a:3:{s:6:"layout";a:2:{s:14:"section_layout";a:5:{s:3:"gap";i:3;s:6:"height";i:3;s:20:"custom_height_mobile";i:3;s:13:"custom_height";i:3;s:6:"layout";i:3;}s:17:"section_structure";a:1:{s:9:"structure";i:3;}}s:5:"style";a:1:{s:18:"section_background";a:9:{s:21:"background_background";i:4;s:16:"background_image";i:3;s:15:"background_size";i:3;s:17:"background_repeat";i:3;s:19:"background_position";i:1;s:15:"background_xpos";i:1;s:22:"background_xpos_mobile";i:1;s:22:"background_ypos_mobile";i:1;s:16:"background_color";i:1;}}s:8:"advanced";a:1:{s:16:"section_advanced";a:2:{s:7:"padding";i:2;s:14:"padding_mobile";i:1;}}}}s:7:"divider";a:3:{s:5:"count";i:1;s:15:"control_percent";i:1;s:8:"controls";a:2:{s:5:"style";a:1:{s:21:"section_divider_style";a:1:{s:5:"color";i:1;}}s:7:"content";a:1:{s:15:"section_divider";a:2:{s:5:"width";i:1;s:5:"align";i:1;}}}}s:11:"text-editor";a:3:{s:5:"count";i:2;s:15:"control_percent";i:1;s:8:"controls";a:2:{s:7:"content";a:1:{s:14:"section_editor";a:1:{s:6:"editor";i:2;}}s:5:"style";a:1:{s:13:"section_style";a:3:{s:10:"text_color";i:1;s:21:"typography_typography";i:2;s:22:"typography_line_height";i:2;}}}}s:21:"woostify-new-products";a:3:{s:5:"count";i:1;s:15:"control_percent";i:0;s:8:"controls";a:1:{s:7:"content";a:1:{s:15:"product_content";a:1:{s:3:"col";i:1;}}}}s:5:"image";a:3:{s:5:"count";i:1;s:15:"control_percent";i:0;s:8:"controls";a:1:{s:7:"content";a:1:{s:13:"section_image";a:1:{s:5:"image";i:1;}}}}s:13:"woostify-post";a:3:{s:5:"count";i:1;s:15:"control_percent";i:2;s:8:"controls";a:1:{s:7:"content";a:3:{s:12:"post_content";a:1:{s:7:"columns";i:1;}s:17:"post_meta_section";a:5:{s:4:"date";i:1;s:6:"author";i:1;s:11:"title_color";i:1;s:7:"excerpt";i:1;s:13:"excerpt_color";i:1;}s:10:"post_query";a:1:{s:5:"count";i:1;}}}}}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_elementor_page_assets]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -6221,28 +6607,36 @@
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/randy/?page_id=201</guid>
 		<description></description>
-		<content:encoded><![CDATA[<h4>Contact Info</h4>
-<h3>
-					Address</h3>
-168 Baker Str, Manhattan, New York City
-NY10001, United States
-<h3>
-					phone</h3>
-(+01) 342-582-7183
-<h3>
-					Email</h3>
-sale@randy.perfume.com
-<h4>Email us</h4>
-<h2>Do not hesitate to get in
-touch with us</h2>
-[contact-form-7 id="238" title="Contact Form"]
-<iframe frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps?q=London%20Eye%2C%20London%2C%20United%20Kingdom&amp;t=m&amp;z=15&amp;output=embed&amp;iwloc=near" aria-label="London Eye, London, United Kingdom"></iframe>]]></content:encoded>
+		<content:encoded><![CDATA[<h4>Contact Info</h4>		
+				<h3>
+						Address					
+				</h3>
+									<p>
+						168 Baker Str, Manhattan, New York City <br> NY10001, United States					</p>
+				<h3>
+						phone					
+				</h3>
+									<p>
+						(+01) 342-582-7183					</p>
+				<h3>
+						Email					
+				</h3>
+									<p>
+						sale@randy.perfume.com					</p>
+			<h4>Email us</h4>		
+			<h2>Do not hesitate to get in <br> touch with us</h2>		
+		[contact-form-7 id="238" title="Contact Form"]		
+			<iframe loading="lazy"
+					src="https://maps.google.com/maps?q=London%20Eye%2C%20London%2C%20United%20Kingdom&#038;t=m&#038;z=15&#038;output=embed&#038;iwloc=near"
+					title="London Eye, London, United Kingdom"
+					aria-label="London Eye, London, United Kingdom"
+			></iframe>]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>201</wp:post_id>
 		<wp:post_date><![CDATA[2019-01-03 03:25:53]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-01-03 03:25:53]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-02-16 09:18:32]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-02-16 09:18:32]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2023-06-20 03:39:03]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-06-20 03:39:03]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[contact-us]]></wp:post_name>
@@ -6270,7 +6664,7 @@ touch with us</h2>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_elementor_template_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[post]]></wp:meta_value>
+		<wp:meta_value><![CDATA[wp-post]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
@@ -6278,11 +6672,11 @@ touch with us</h2>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_elementor_data]]></wp:meta_key>
-		<wp:meta_value><![CDATA[[{"id":"1b22690","elType":"section","settings":{"layout":"full_width","gap":"no","background_background":"classic","background_color":"#232d3d","margin":{"unit":"px","top":"-50","right":0,"bottom":"0","left":0,"isLinked":false},"padding":{"unit":"px","top":"100","right":"0","bottom":"80","left":"0","isLinked":false},"padding_mobile":{"unit":"px","top":"50","right":"15","bottom":"50","left":"15","isLinked":false}},"elements":[{"id":"0cf6a81","elType":"column","settings":{"_column_size":100},"elements":[{"id":"7a72de9","elType":"section","settings":{"structure":"20"},"elements":[{"id":"86a273e","elType":"column","settings":{"_column_size":50,"_inline_size":45.128,"padding_mobile":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false}},"elements":[{"id":"c967c06","elType":"widget","settings":{"title":"Contact Info","header_size":"h4","typography_typography":"custom","typography_font_size":{"unit":"px","size":18},"title_color":"#ffffff","typography_font_weight":"400","typography_text_transform":"uppercase"},"elements":[],"widgetType":"heading"},{"id":"e12f1fc","elType":"widget","settings":{"icon":"fa fa-map-marker","title_text":"Address","description_text":"168 Baker Str, Manhattan, New York City <br> NY10001, United States","position":"left","primary_color":"#cd3366","text_align":"left","content_vertical_alignment":"bottom","title_color":"#8c96a5","title_typography_typography":"custom","title_typography_font_family":"PT Sans","title_typography_font_size":{"unit":"px","size":15},"title_typography_font_weight":"400","title_typography_text_transform":"uppercase","title_typography_line_height":{"unit":"px","size":0},"title_typography_letter_spacing":{"unit":"px","size":2},"description_color":"#ffffff","description_typography_typography":"custom","description_typography_font_size":{"unit":"px","size":18},"description_typography_line_height":{"unit":"px","size":30},"_margin":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false},"icon_space":{"unit":"px","size":20,"sizes":[]},"selected_icon":{"value":"","library":""},"__fa4_migrated":{"selected_icon":true},"title_bottom_space":{"unit":"px","size":20,"sizes":[]}},"elements":[],"widgetType":"icon-box"},{"id":"b3ca923","elType":"widget","settings":{"color":"#8c96a5","width":{"unit":"%","size":15},"gap_mobile":{"unit":"px","size":5,"sizes":[]}},"elements":[],"widgetType":"divider"},{"id":"455b586","elType":"widget","settings":{"icon":"fa fa-phone","title_text":"phone","description_text":"(+01) 342-582-7183","position":"left","primary_color":"#cd3366","text_align":"left","content_vertical_alignment":"bottom","title_color":"#8c96a5","title_typography_typography":"custom","title_typography_font_family":"PT Sans","title_typography_font_size":{"unit":"px","size":15},"title_typography_font_weight":"400","title_typography_text_transform":"uppercase","title_typography_line_height":{"unit":"px","size":0},"title_typography_letter_spacing":{"unit":"px","size":2},"description_color":"#ffffff","description_typography_typography":"custom","description_typography_font_size":{"unit":"px","size":18},"description_typography_line_height":{"unit":"px","size":30},"_margin":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false},"icon_space":{"unit":"px","size":20,"sizes":[]},"selected_icon":{"value":"","library":""},"__fa4_migrated":{"selected_icon":true},"title_bottom_space":{"unit":"px","size":20,"sizes":[]}},"elements":[],"widgetType":"icon-box"},{"id":"8187e8e","elType":"widget","settings":{"color":"#8c96a5","width":{"unit":"%","size":15},"gap_mobile":{"unit":"px","size":5,"sizes":[]}},"elements":[],"widgetType":"divider"},{"id":"92e2459","elType":"widget","settings":{"icon":"fa fa-envelope","title_text":"Email","description_text":"sale@randy.perfume.com","position":"left","primary_color":"#cd3366","text_align":"left","content_vertical_alignment":"bottom","title_color":"#8c96a5","title_typography_typography":"custom","title_typography_font_family":"PT Sans","title_typography_font_size":{"unit":"px","size":15},"title_typography_font_weight":"400","title_typography_text_transform":"uppercase","title_typography_line_height":{"unit":"px","size":0},"title_typography_letter_spacing":{"unit":"px","size":2},"description_color":"#ffffff","description_typography_typography":"custom","description_typography_font_size":{"unit":"px","size":18},"description_typography_line_height":{"unit":"px","size":30},"_margin":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false},"icon_space":{"unit":"px","size":20,"sizes":[]},"selected_icon":{"value":"","library":""},"__fa4_migrated":{"selected_icon":true},"title_bottom_space":{"unit":"px","size":20,"sizes":[]}},"elements":[],"widgetType":"icon-box"}],"isInner":true},{"id":"ef9e3ab","elType":"column","settings":{"_column_size":50,"_inline_size":54.872,"margin":{"unit":"px","top":"0","right":"0","bottom":"0","left":"30","isLinked":false},"margin_mobile":{"unit":"px","top":"50","right":"0","bottom":"0","left":"0","isLinked":false},"padding_mobile":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false}},"elements":[{"id":"227946b","elType":"widget","settings":{"title":"Email us","header_size":"h4","typography_typography":"custom","typography_font_size":{"unit":"px","size":18},"title_color":"#ffffff","typography_font_weight":"400","typography_text_transform":"uppercase"},"elements":[],"widgetType":"heading"},{"id":"d07a47a","elType":"widget","settings":{"space":{"unit":"px","size":10,"sizes":[]}},"elements":[],"widgetType":"spacer"},{"id":"55a47fb","elType":"widget","settings":{"title":"Do not hesitate to get in <br> touch with us","title_color":"#ffffff","typography_typography":"custom","typography_font_size":{"unit":"px","size":36,"sizes":[]},"typography_line_height":{"unit":"px","size":48,"sizes":[]}},"elements":[],"widgetType":"heading"},{"id":"0aaa2da","elType":"widget","settings":{"space":{"unit":"px","size":20,"sizes":[]}},"elements":[],"widgetType":"spacer"},{"id":"d89d750","elType":"widget","settings":{"shortcode":"[contact-form-7 id=\"238\" title=\"Contact Form\"]"},"elements":[],"widgetType":"shortcode"}],"isInner":true}],"isInner":true}],"isInner":false}],"isInner":false},{"id":"baa8c48","elType":"section","settings":{"layout":"full_width","gap":"no","custom_height":{"unit":"px","size":650}},"elements":[{"id":"e5a39c9","elType":"column","settings":{"_column_size":100},"elements":[{"id":"c3277f3","elType":"widget","settings":{"address":"London Eye, London, United Kingdom","height":{"unit":"px","size":650},"height_tablet":{"unit":"px","size":400},"height_mobile":{"unit":"px","size":240},"zoom":{"unit":"px","size":15},"prevent_scroll":"","css_filters_css_filter":"custom","css_filters_brightness":{"unit":"px","size":54,"sizes":[]},"css_filters_contrast":{"unit":"px","size":126,"sizes":[]},"css_filters_saturate":{"unit":"px","size":0,"sizes":[]}},"elements":[],"widgetType":"google_maps"}],"isInner":false}],"isInner":false}]]]></wp:meta_value>
+		<wp:meta_value><![CDATA[[{"id":"7ad41dc","elType":"container","settings":{"content_width":"full","flex_gap":{"size":0,"unit":"px"},"background_background":"classic","background_color":"#232d3d","margin":{"unit":"px","top":"-50","right":0,"bottom":"0","left":0,"isLinked":false},"padding":{"unit":"px","top":"100","right":"0","bottom":"80","left":"0","isLinked":false},"padding_mobile":{"unit":"px","top":"50","right":"15","bottom":"50","left":"15","isLinked":false},"flex_direction":"row","flex_align_items":"stretch"},"elements":[{"id":"1ee8a31","elType":"container","settings":{"_column_size":100,"content_width":"full","padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true}},"elements":[{"id":"62b3280","elType":"container","settings":{"structure":"20","flex_direction":"row","flex_align_items":"stretch","flex_gap":{"size":0,"unit":"px"},"padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true}},"elements":[{"id":"2d21eaa","elType":"container","settings":{"_column_size":50,"width":{"size":45.128,"unit":"%"},"padding_mobile":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false},"content_width":"full"},"elements":[{"id":"4b25780","elType":"widget","settings":{"title":"Contact Info","header_size":"h4","typography_typography":"custom","typography_font_size":{"unit":"px","size":18},"title_color":"#ffffff","typography_font_weight":"400","typography_text_transform":"uppercase"},"elements":[],"widgetType":"heading"},{"id":"2b16629","elType":"widget","settings":{"icon":"fa fa-map-marker","title_text":"Address","description_text":"168 Baker Str, Manhattan, New York City <br> NY10001, United States","position":"left","primary_color":"#cd3366","text_align":"left","content_vertical_alignment":"bottom","title_color":"#8c96a5","title_typography_typography":"custom","title_typography_font_family":"PT Sans","title_typography_font_size":{"unit":"px","size":15},"title_typography_font_weight":"400","title_typography_text_transform":"uppercase","title_typography_line_height":{"unit":"px","size":0},"title_typography_letter_spacing":{"unit":"px","size":2},"description_color":"#ffffff","description_typography_typography":"custom","description_typography_font_size":{"unit":"px","size":18},"description_typography_line_height":{"unit":"px","size":30},"_margin":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false},"icon_space":{"unit":"px","size":20,"sizes":[]},"selected_icon":{"value":"","library":""},"__fa4_migrated":{"selected_icon":true},"title_bottom_space":{"unit":"px","size":20,"sizes":[]}},"elements":[],"widgetType":"icon-box"},{"id":"281c189","elType":"widget","settings":{"color":"#8c96a5","width":{"unit":"%","size":15},"gap_mobile":{"unit":"px","size":5,"sizes":[]},"text":"Divider"},"elements":[],"widgetType":"divider"},{"id":"783a28f","elType":"widget","settings":{"icon":"fa fa-phone","title_text":"phone","description_text":"(+01) 342-582-7183","position":"left","primary_color":"#cd3366","text_align":"left","content_vertical_alignment":"bottom","title_color":"#8c96a5","title_typography_typography":"custom","title_typography_font_family":"PT Sans","title_typography_font_size":{"unit":"px","size":15},"title_typography_font_weight":"400","title_typography_text_transform":"uppercase","title_typography_line_height":{"unit":"px","size":0},"title_typography_letter_spacing":{"unit":"px","size":2},"description_color":"#ffffff","description_typography_typography":"custom","description_typography_font_size":{"unit":"px","size":18},"description_typography_line_height":{"unit":"px","size":30},"_margin":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false},"icon_space":{"unit":"px","size":20,"sizes":[]},"selected_icon":{"value":"","library":""},"__fa4_migrated":{"selected_icon":true},"title_bottom_space":{"unit":"px","size":20,"sizes":[]}},"elements":[],"widgetType":"icon-box"},{"id":"3ce366d","elType":"widget","settings":{"color":"#8c96a5","width":{"unit":"%","size":15},"gap_mobile":{"unit":"px","size":5,"sizes":[]},"text":"Divider"},"elements":[],"widgetType":"divider"},{"id":"632cbe4","elType":"widget","settings":{"icon":"fa fa-envelope","title_text":"Email","description_text":"sale@randy.perfume.com","position":"left","primary_color":"#cd3366","text_align":"left","content_vertical_alignment":"bottom","title_color":"#8c96a5","title_typography_typography":"custom","title_typography_font_family":"PT Sans","title_typography_font_size":{"unit":"px","size":15},"title_typography_font_weight":"400","title_typography_text_transform":"uppercase","title_typography_line_height":{"unit":"px","size":0},"title_typography_letter_spacing":{"unit":"px","size":2},"description_color":"#ffffff","description_typography_typography":"custom","description_typography_font_size":{"unit":"px","size":18},"description_typography_line_height":{"unit":"px","size":30},"_margin":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false},"icon_space":{"unit":"px","size":20,"sizes":[]},"selected_icon":{"value":"","library":""},"__fa4_migrated":{"selected_icon":true},"title_bottom_space":{"unit":"px","size":20,"sizes":[]}},"elements":[],"widgetType":"icon-box"}],"isInner":false},{"id":"7d3d164","elType":"container","settings":{"_column_size":50,"width":{"size":54.872,"unit":"%"},"padding_mobile":{"unit":"px","top":"50","right":"0","bottom":"0","left":"0","isLinked":false},"content_width":"full","padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"30","isLinked":false}},"elements":[{"id":"9950791","elType":"container","settings":{"content_width":"full","padding_mobile":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true}},"elements":[{"id":"d14eb19","elType":"widget","settings":{"title":"Email us","header_size":"h4","typography_typography":"custom","typography_font_size":{"unit":"px","size":18},"title_color":"#ffffff","typography_font_weight":"400","typography_text_transform":"uppercase"},"elements":[],"widgetType":"heading"},{"id":"573925f","elType":"widget","settings":{"space":{"unit":"px","size":10,"sizes":[]}},"elements":[],"widgetType":"spacer"},{"id":"ea70a0d","elType":"widget","settings":{"title":"Do not hesitate to get in <br> touch with us","title_color":"#ffffff","typography_typography":"custom","typography_font_size":{"unit":"px","size":36,"sizes":[]},"typography_line_height":{"unit":"px","size":48,"sizes":[]}},"elements":[],"widgetType":"heading"},{"id":"aad8402","elType":"widget","settings":{"space":{"unit":"px","size":20,"sizes":[]}},"elements":[],"widgetType":"spacer"},{"id":"393206f","elType":"widget","settings":{"shortcode":"[contact-form-7 id=\"238\" title=\"Contact Form\"]"},"elements":[],"widgetType":"shortcode"}],"isInner":false}],"isInner":false}],"isInner":false}],"isInner":false}],"isInner":false},{"id":"4f56ff8","elType":"container","settings":{"content_width":"full","flex_gap":{"size":0,"unit":"px"},"custom_height":{"unit":"px","size":650},"flex_direction":"row","flex_align_items":"stretch","padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true}},"elements":[{"id":"d5bf62c","elType":"container","settings":{"_column_size":100,"content_width":"full","padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true}},"elements":[{"id":"c865a0a","elType":"widget","settings":{"address":"London Eye, London, United Kingdom","height":{"unit":"px","size":650},"height_tablet":{"unit":"px","size":400},"height_mobile":{"unit":"px","size":240},"zoom":{"unit":"px","size":15},"prevent_scroll":"","css_filters_css_filter":"custom","css_filters_brightness":{"unit":"px","size":54,"sizes":[]},"css_filters_contrast":{"unit":"px","size":126,"sizes":[]},"css_filters_saturate":{"unit":"px","size":0,"sizes":[]}},"elements":[],"widgetType":"google_maps"}],"isInner":false}],"isInner":false}]]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_elementor_version]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2.6.8]]></wp:meta_value>
+		<wp:meta_value><![CDATA[3.13.4]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[site-header-transparent]]></wp:meta_key>
@@ -6311,6 +6705,10 @@ touch with us</h2>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
 		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_elementor_page_assets]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -6503,7 +6901,7 @@ touch with us</h2>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[pageview]]></wp:meta_key>
-		<wp:meta_value><![CDATA[3]]></wp:meta_value>
+		<wp:meta_value><![CDATA[19]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -6908,49 +7306,46 @@ touch with us</h2>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/randy/?page_id=1347</guid>
 		<description></description>
-		<content:encoded><![CDATA[<h2>Our Story</h2>
-<h2>We put our reputation
-on the line</h2>
-MAECENAS RHONCUS  — eu lacus eu viverra. Nunc interdum lorem a lacus mattis blandit. Donec id rutrum eros. In orci leo, malesuada non. Morbi ac eros feugiat, lacinia elit ut, elementum turpis. Curabitur justo sapien, tempus sit amet rutrum
-eu, commodo eu lacus. Morbi in ligula nibh.
-
-Eget velit sodales, tristique dui a, malesuada erat. Phasellus at neque augue. Nullam convallis tincidunt tincidunt. Maecenas a libero aliquam, sollicitudin lectus vel, ultrices lacus.
-
-Sem eu aliquet eleifend, turpis mauris faucibus ligula, vel hendrerit lacus augue sit amet lacus. Sed&nbsp; id ornare neque. In eget tortor varius, pharetra elit porttitor, porttitor metus. Integer bibendum diam vitae mi semper pellentesque.
-<h2>Our Partners</h2>
-<h2>We collaborate with ambitious brands &amp;
-we’d love to build something great.</h2>
-Sem eu aliquet eleifend, turpis mauris faucibus ligula, vel hendrerit lacus augue sit amet lacus. Sed id ornare neque. In eget tortor varius, pharetra elit porttitor, porttitor metus. Integer bibendum diam vitae mi semper pellentesque.
-<figure class="gallery-item">
-				<a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="adf09e1" data-elementor-lightbox-title="logo01" href="http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/randy/wp-content/uploads/sites/22/2019/08/logo01.jpg"><img width="291" height="150" src="http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/randy/wp-content/uploads/sites/22/2019/08/logo01.jpg" alt="" loading="lazy"></a></figure>
-<figure class="gallery-item">
-				<a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="adf09e1" data-elementor-lightbox-title="logo02" href="http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/randy/wp-content/uploads/sites/22/2019/08/logo02.jpg"><img width="291" height="150" src="http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/randy/wp-content/uploads/sites/22/2019/08/logo02.jpg" alt="" loading="lazy"></a></figure>
-<figure class="gallery-item">
-				<a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="adf09e1" data-elementor-lightbox-title="logo03" href="http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/randy/wp-content/uploads/sites/22/2019/08/logo03.jpg"><img width="291" height="150" src="http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/randy/wp-content/uploads/sites/22/2019/08/logo03.jpg" alt="" loading="lazy"></a></figure>
-<figure class="gallery-item">
-				<a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="adf09e1" data-elementor-lightbox-title="logo04" href="http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/randy/wp-content/uploads/sites/22/2019/08/logo04.jpg"><img width="291" height="150" src="http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/randy/wp-content/uploads/sites/22/2019/08/logo04.jpg" alt="" loading="lazy"></a></figure>
-<figure class="gallery-item">
-				<a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="adf09e1" data-elementor-lightbox-title="logo05" href="http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/randy/wp-content/uploads/sites/22/2019/08/logo05.jpg"><img width="291" height="150" src="http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/randy/wp-content/uploads/sites/22/2019/08/logo05.jpg" alt="" loading="lazy"></a></figure>
-<figure class="gallery-item">
-				<a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="adf09e1" data-elementor-lightbox-title="logo06" href="http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/randy/wp-content/uploads/sites/22/2019/08/logo06.jpg"><img width="291" height="150" src="http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/randy/wp-content/uploads/sites/22/2019/08/logo06.jpg" alt="" loading="lazy"></a></figure>
-<figure class="gallery-item">
-				<a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="adf09e1" data-elementor-lightbox-title="logo07" href="http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/randy/wp-content/uploads/sites/22/2019/08/logo07.jpg"><img width="291" height="150" src="http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/randy/wp-content/uploads/sites/22/2019/08/logo07.jpg" alt="" loading="lazy"></a></figure>
-<figure class="gallery-item">
-				<a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="adf09e1" data-elementor-lightbox-title="logo08" href="http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/randy/wp-content/uploads/sites/22/2019/08/logo08.jpg"><img width="291" height="150" src="http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/randy/wp-content/uploads/sites/22/2019/08/logo08.jpg" alt="" loading="lazy"></a></figure>
-<figure class="gallery-item">
-				<a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="adf09e1" data-elementor-lightbox-title="logo09" href="http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/randy/wp-content/uploads/sites/22/2019/08/logo09.jpg"><img width="291" height="150" src="http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/randy/wp-content/uploads/sites/22/2019/08/logo09.jpg" alt="" loading="lazy"></a></figure>
-<figure class="gallery-item">
-				<a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="adf09e1" data-elementor-lightbox-title="logo10" href="http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/randy/wp-content/uploads/sites/22/2019/08/logo10.jpg"><img width="291" height="150" src="http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/randy/wp-content/uploads/sites/22/2019/08/logo10.jpg" alt="" loading="lazy"></a></figure>
-<figure class="gallery-item">
-				<a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="adf09e1" data-elementor-lightbox-title="logo01" href="http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/randy/wp-content/uploads/sites/22/2019/08/logo01-1.jpg"><img width="291" height="150" src="http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/randy/wp-content/uploads/sites/22/2019/08/logo01-1.jpg" alt="" loading="lazy"></a></figure>
-<figure class="gallery-item">
-				<a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="adf09e1" data-elementor-lightbox-title="logo11" href="http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/randy/wp-content/uploads/sites/22/2019/08/logo11.jpg"><img width="291" height="150" src="http://prodemo.4rrv1turjo-rz83yv8w03d7.p.runcloud.link/randy/wp-content/uploads/sites/22/2019/08/logo11.jpg" alt="" loading="lazy"></a></figure>]]></content:encoded>
+		<content:encoded><![CDATA[<h2>Our Story</h2>		
+			<h2>We put our reputation <br>
+on the line</h2>		
+		<p>MAECENAS RHONCUS  — eu lacus eu viverra. Nunc interdum lorem a lacus mattis blandit. Donec id rutrum eros. In orci leo, malesuada non. Morbi ac eros feugiat, lacinia elit ut, elementum turpis. Curabitur justo sapien, tempus sit amet rutrum<br />eu, commodo eu lacus. Morbi in ligula nibh.</p>		
+		<p>Eget velit sodales, tristique dui a, malesuada erat. Phasellus at neque augue. Nullam convallis tincidunt tincidunt. Maecenas a libero aliquam, sollicitudin lectus vel, ultrices lacus.</p>		
+		<p>Sem eu aliquet eleifend, turpis mauris faucibus ligula, vel hendrerit lacus augue sit amet lacus. Sed  id ornare neque. In eget tortor varius, pharetra elit porttitor, porttitor metus. Integer bibendum diam vitae mi semper pellentesque.</p>		
+			<h2>Our Partners</h2>		
+			<h2>We collaborate with ambitious brands & <br>we’d love to build something great.</h2>		
+		<p>Sem eu aliquet eleifend, turpis mauris faucibus ligula, vel hendrerit lacus augue sit amet lacus. Sed id ornare neque. In eget tortor varius, pharetra elit porttitor, porttitor metus. Integer bibendum diam vitae mi semper pellentesque.</p>		
+			<figure class='gallery-item'>
+				<a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="9b4e868" data-elementor-lightbox-title="logo01" data-e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6MTM3NiwidXJsIjoiaHR0cHM6XC9cL2RlbW8ud29vc3RpZnkuY29tXC9yYW5keVwvd3AtY29udGVudFwvdXBsb2Fkc1wvc2l0ZXNcLzIyXC8yMDE5XC8wOFwvbG9nbzAxLmpwZyIsInNsaWRlc2hvdyI6IjliNGU4NjgifQ%3D%3D" href='https://demo.woostify.com/randy/wp-content/uploads/sites/22/2019/08/logo01.jpg'><img width="291" height="150" src="https://demo.woostify.com/randy/wp-content/uploads/sites/22/2019/08/logo01.jpg" alt="" decoding="async" loading="lazy" /></a>
+			</figure><figure class='gallery-item'>
+				<a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="9b4e868" data-elementor-lightbox-title="logo02" data-e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6MTM3NywidXJsIjoiaHR0cHM6XC9cL2RlbW8ud29vc3RpZnkuY29tXC9yYW5keVwvd3AtY29udGVudFwvdXBsb2Fkc1wvc2l0ZXNcLzIyXC8yMDE5XC8wOFwvbG9nbzAyLmpwZyIsInNsaWRlc2hvdyI6IjliNGU4NjgifQ%3D%3D" href='https://demo.woostify.com/randy/wp-content/uploads/sites/22/2019/08/logo02.jpg'><img width="291" height="150" src="https://demo.woostify.com/randy/wp-content/uploads/sites/22/2019/08/logo02.jpg" alt="" decoding="async" loading="lazy" /></a>
+			</figure><figure class='gallery-item'>
+				<a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="9b4e868" data-elementor-lightbox-title="logo03" data-e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6MTM3OCwidXJsIjoiaHR0cHM6XC9cL2RlbW8ud29vc3RpZnkuY29tXC9yYW5keVwvd3AtY29udGVudFwvdXBsb2Fkc1wvc2l0ZXNcLzIyXC8yMDE5XC8wOFwvbG9nbzAzLmpwZyIsInNsaWRlc2hvdyI6IjliNGU4NjgifQ%3D%3D" href='https://demo.woostify.com/randy/wp-content/uploads/sites/22/2019/08/logo03.jpg'><img width="291" height="150" src="https://demo.woostify.com/randy/wp-content/uploads/sites/22/2019/08/logo03.jpg" alt="" decoding="async" loading="lazy" /></a>
+			</figure><figure class='gallery-item'>
+				<a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="9b4e868" data-elementor-lightbox-title="logo04" data-e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6MTM3OSwidXJsIjoiaHR0cHM6XC9cL2RlbW8ud29vc3RpZnkuY29tXC9yYW5keVwvd3AtY29udGVudFwvdXBsb2Fkc1wvc2l0ZXNcLzIyXC8yMDE5XC8wOFwvbG9nbzA0LmpwZyIsInNsaWRlc2hvdyI6IjliNGU4NjgifQ%3D%3D" href='https://demo.woostify.com/randy/wp-content/uploads/sites/22/2019/08/logo04.jpg'><img width="291" height="150" src="https://demo.woostify.com/randy/wp-content/uploads/sites/22/2019/08/logo04.jpg" alt="" decoding="async" loading="lazy" /></a>
+			</figure><figure class='gallery-item'>
+				<a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="9b4e868" data-elementor-lightbox-title="logo05" data-e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6MTM4MCwidXJsIjoiaHR0cHM6XC9cL2RlbW8ud29vc3RpZnkuY29tXC9yYW5keVwvd3AtY29udGVudFwvdXBsb2Fkc1wvc2l0ZXNcLzIyXC8yMDE5XC8wOFwvbG9nbzA1LmpwZyIsInNsaWRlc2hvdyI6IjliNGU4NjgifQ%3D%3D" href='https://demo.woostify.com/randy/wp-content/uploads/sites/22/2019/08/logo05.jpg'><img width="291" height="150" src="https://demo.woostify.com/randy/wp-content/uploads/sites/22/2019/08/logo05.jpg" alt="" decoding="async" loading="lazy" /></a>
+			</figure><figure class='gallery-item'>
+				<a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="9b4e868" data-elementor-lightbox-title="logo06" data-e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6MTM4MSwidXJsIjoiaHR0cHM6XC9cL2RlbW8ud29vc3RpZnkuY29tXC9yYW5keVwvd3AtY29udGVudFwvdXBsb2Fkc1wvc2l0ZXNcLzIyXC8yMDE5XC8wOFwvbG9nbzA2LmpwZyIsInNsaWRlc2hvdyI6IjliNGU4NjgifQ%3D%3D" href='https://demo.woostify.com/randy/wp-content/uploads/sites/22/2019/08/logo06.jpg'><img width="291" height="150" src="https://demo.woostify.com/randy/wp-content/uploads/sites/22/2019/08/logo06.jpg" alt="" decoding="async" loading="lazy" /></a>
+			</figure><figure class='gallery-item'>
+				<a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="9b4e868" data-elementor-lightbox-title="logo07" data-e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6MTM4MywidXJsIjoiaHR0cHM6XC9cL2RlbW8ud29vc3RpZnkuY29tXC9yYW5keVwvd3AtY29udGVudFwvdXBsb2Fkc1wvc2l0ZXNcLzIyXC8yMDE5XC8wOFwvbG9nbzA3LmpwZyIsInNsaWRlc2hvdyI6IjliNGU4NjgifQ%3D%3D" href='https://demo.woostify.com/randy/wp-content/uploads/sites/22/2019/08/logo07.jpg'><img width="291" height="150" src="https://demo.woostify.com/randy/wp-content/uploads/sites/22/2019/08/logo07.jpg" alt="" decoding="async" loading="lazy" /></a>
+			</figure><figure class='gallery-item'>
+				<a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="9b4e868" data-elementor-lightbox-title="logo08" data-e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6MTM4NCwidXJsIjoiaHR0cHM6XC9cL2RlbW8ud29vc3RpZnkuY29tXC9yYW5keVwvd3AtY29udGVudFwvdXBsb2Fkc1wvc2l0ZXNcLzIyXC8yMDE5XC8wOFwvbG9nbzA4LmpwZyIsInNsaWRlc2hvdyI6IjliNGU4NjgifQ%3D%3D" href='https://demo.woostify.com/randy/wp-content/uploads/sites/22/2019/08/logo08.jpg'><img width="291" height="150" src="https://demo.woostify.com/randy/wp-content/uploads/sites/22/2019/08/logo08.jpg" alt="" decoding="async" loading="lazy" /></a>
+			</figure><figure class='gallery-item'>
+				<a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="9b4e868" data-elementor-lightbox-title="logo09" data-e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6MTM4NSwidXJsIjoiaHR0cHM6XC9cL2RlbW8ud29vc3RpZnkuY29tXC9yYW5keVwvd3AtY29udGVudFwvdXBsb2Fkc1wvc2l0ZXNcLzIyXC8yMDE5XC8wOFwvbG9nbzA5LmpwZyIsInNsaWRlc2hvdyI6IjliNGU4NjgifQ%3D%3D" href='https://demo.woostify.com/randy/wp-content/uploads/sites/22/2019/08/logo09.jpg'><img width="291" height="150" src="https://demo.woostify.com/randy/wp-content/uploads/sites/22/2019/08/logo09.jpg" alt="" decoding="async" loading="lazy" /></a>
+			</figure><figure class='gallery-item'>
+				<a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="9b4e868" data-elementor-lightbox-title="logo10" data-e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6MTM4NiwidXJsIjoiaHR0cHM6XC9cL2RlbW8ud29vc3RpZnkuY29tXC9yYW5keVwvd3AtY29udGVudFwvdXBsb2Fkc1wvc2l0ZXNcLzIyXC8yMDE5XC8wOFwvbG9nbzEwLmpwZyIsInNsaWRlc2hvdyI6IjliNGU4NjgifQ%3D%3D" href='https://demo.woostify.com/randy/wp-content/uploads/sites/22/2019/08/logo10.jpg'><img width="291" height="150" src="https://demo.woostify.com/randy/wp-content/uploads/sites/22/2019/08/logo10.jpg" alt="" decoding="async" loading="lazy" /></a>
+			</figure><figure class='gallery-item'>
+				<a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="9b4e868" data-elementor-lightbox-title="logo01" data-e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6MTM4OSwidXJsIjoiaHR0cHM6XC9cL2RlbW8ud29vc3RpZnkuY29tXC9yYW5keVwvd3AtY29udGVudFwvdXBsb2Fkc1wvc2l0ZXNcLzIyXC8yMDE5XC8wOFwvbG9nbzAxLTEuanBnIiwic2xpZGVzaG93IjoiOWI0ZTg2OCJ9" href='https://demo.woostify.com/randy/wp-content/uploads/sites/22/2019/08/logo01-1.jpg'><img width="291" height="150" src="https://demo.woostify.com/randy/wp-content/uploads/sites/22/2019/08/logo01-1.jpg" alt="" decoding="async" loading="lazy" /></a>
+			</figure><figure class='gallery-item'>
+				<a data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="9b4e868" data-elementor-lightbox-title="logo11" data-e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6MTM4NywidXJsIjoiaHR0cHM6XC9cL2RlbW8ud29vc3RpZnkuY29tXC9yYW5keVwvd3AtY29udGVudFwvdXBsb2Fkc1wvc2l0ZXNcLzIyXC8yMDE5XC8wOFwvbG9nbzExLmpwZyIsInNsaWRlc2hvdyI6IjliNGU4NjgifQ%3D%3D" href='https://demo.woostify.com/randy/wp-content/uploads/sites/22/2019/08/logo11.jpg'><img width="291" height="150" src="https://demo.woostify.com/randy/wp-content/uploads/sites/22/2019/08/logo11.jpg" alt="" decoding="async" loading="lazy" /></a>
+			</figure>]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>1347</wp:post_id>
 		<wp:post_date><![CDATA[2019-08-30 01:38:18]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-08-30 01:38:18]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-02-16 09:17:55]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-02-16 09:17:55]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2023-06-20 03:28:24]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-06-20 03:28:24]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[about-us]]></wp:post_name>
@@ -6986,7 +7381,7 @@ Sem eu aliquet eleifend, turpis mauris faucibus ligula, vel hendrerit lacus augu
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_elementor_version]]></wp:meta_key>
-		<wp:meta_value><![CDATA[3.0.12]]></wp:meta_value>
+		<wp:meta_value><![CDATA[3.13.4]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
@@ -6998,7 +7393,7 @@ Sem eu aliquet eleifend, turpis mauris faucibus ligula, vel hendrerit lacus augu
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_elementor_data]]></wp:meta_key>
-		<wp:meta_value><![CDATA[[{"id":"56bf11a","elType":"section","settings":{"layout":"full_width","gap":"no","height":"min-height","custom_height":{"unit":"px","size":800,"sizes":[]},"background_background":"classic","background_image":{"url":"https:\/\/demo.woostify.com\/randy\/wp-content\/uploads\/sites\/22\/2019\/08\/bg-about.jpg","id":1539},"background_position":"initial","background_repeat":"no-repeat","background_size":"cover","margin":{"unit":"px","top":"-55","right":0,"bottom":"0","left":0,"isLinked":false}},"elements":[{"id":"5cd11ce","elType":"column","settings":{"_column_size":100},"elements":[{"id":"1c0595e","elType":"section","settings":{"structure":"20"},"elements":[{"id":"d1fb826","elType":"column","settings":{"_column_size":50,"_inline_size":null},"elements":[{"id":"8342775","elType":"widget","settings":{"title":"Our Story","title_color":"#ffffff","typography_typography":"custom","typography_font_size":{"unit":"px","size":18,"sizes":[]}},"elements":[],"widgetType":"heading"},{"id":"afbf55d","elType":"widget","settings":{"space":{"unit":"px","size":20,"sizes":[]},"space_mobile":{"unit":"px","size":0,"sizes":[]}},"elements":[],"widgetType":"spacer"},{"id":"4727527","elType":"widget","settings":{"title":"We put our reputation <br>\non the line","title_color":"#ffffff","typography_typography":"custom","typography_font_size":{"unit":"px","size":36,"sizes":[]},"typography_line_height":{"unit":"px","size":48,"sizes":[]}},"elements":[],"widgetType":"heading"}],"isInner":true},{"id":"fb6a046","elType":"column","settings":{"_column_size":50,"_inline_size":null},"elements":[{"id":"5f1585d","elType":"widget","settings":{"editor":"<p><span class=\"t-white\">MAECENAS RHONCUS <\/span> \u2014 eu lacus eu viverra. Nunc interdum lorem a lacus mattis blandit. Donec id rutrum eros. In orci leo, malesuada non. Morbi ac eros feugiat, lacinia elit ut, elementum turpis. Curabitur justo sapien, tempus sit amet rutrum<br \/>eu, commodo eu lacus. Morbi in ligula nibh.<\/p>","text_color":"#8c96a5","typography_typography":"custom","typography_line_height":{"unit":"px","size":22,"sizes":[]}},"elements":[],"widgetType":"text-editor"},{"id":"28e5d10","elType":"widget","settings":{"space":{"unit":"px","size":5,"sizes":[]}},"elements":[],"widgetType":"spacer"},{"id":"932cbbb","elType":"widget","settings":{"editor":"<p>Eget velit sodales, tristique dui a, malesuada erat. Phasellus at neque augue. Nullam convallis tincidunt tincidunt. Maecenas a libero aliquam, sollicitudin lectus vel, ultrices lacus.<\/p>","text_color":"#8c96a5","typography_typography":"custom","typography_line_height":{"unit":"px","size":26,"sizes":[]},"typography_font_size":{"unit":"px","size":18,"sizes":[]},"typography_font_style":"italic","_padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"40","isLinked":false}},"elements":[],"widgetType":"text-editor"},{"id":"99a3e94","elType":"widget","settings":{"space":{"unit":"px","size":5,"sizes":[]}},"elements":[],"widgetType":"spacer"},{"id":"cc16c0c","elType":"widget","settings":{"editor":"<p>Sem eu aliquet eleifend, turpis mauris faucibus ligula, vel hendrerit lacus augue sit amet lacus. Sed\u00a0 id ornare neque. In eget tortor varius, pharetra elit porttitor, porttitor metus. Integer bibendum diam vitae mi semper pellentesque.<\/p>","text_color":"#8c96a5","typography_typography":"custom","typography_line_height":{"unit":"px","size":22,"sizes":[]}},"elements":[],"widgetType":"text-editor"}],"isInner":true}],"isInner":true}],"isInner":false}],"isInner":false},{"id":"176bdab","elType":"section","settings":{"layout":"full_width","gap":"no","height":"min-height","custom_height":{"unit":"px","size":600,"sizes":[]},"background_background":"classic","background_image":{"url":"https:\/\/demo.woostify.com\/randy\/wp-content\/uploads\/sites\/22\/2019\/08\/about-image01.jpg","id":1363},"background_repeat":"no-repeat","background_size":"cover","custom_height_mobile":{"unit":"px","size":200,"sizes":[]}},"elements":[{"id":"14673e5","elType":"column","settings":{"_column_size":100},"elements":[],"isInner":false}],"isInner":false},{"id":"391c943","elType":"section","settings":{"layout":"full_width","gap":"no","background_background":"classic","background_color":"#232d3d","padding":{"unit":"px","top":"100","right":"0","bottom":"100","left":"0","isLinked":false}},"elements":[{"id":"eed3a15","elType":"column","settings":{"_column_size":100},"elements":[{"id":"068539b","elType":"widget","settings":{"title":"Our Partners","align":"center","title_color":"#ffffff","typography_typography":"custom","typography_font_size":{"unit":"px","size":18,"sizes":[]},"typography_text_transform":"uppercase"},"elements":[],"widgetType":"heading"},{"id":"c02058d","elType":"widget","settings":{"space":{"unit":"px","size":5,"sizes":[]}},"elements":[],"widgetType":"spacer"},{"id":"2a8267e","elType":"widget","settings":{"title":"We collaborate with ambitious brands & <br>we\u2019d love to build something great.","align":"center","title_color":"#ffffff","typography_typography":"custom","typography_font_size":{"unit":"px","size":36,"sizes":[]},"typography_line_height":{"unit":"px","size":48,"sizes":[]}},"elements":[],"widgetType":"heading"},{"id":"abba45c","elType":"section","settings":{"content_width":{"unit":"px","size":550,"sizes":[]}},"elements":[{"id":"e02d1c5","elType":"column","settings":{"_column_size":100,"_inline_size":null},"elements":[{"id":"0699961","elType":"widget","settings":{"editor":"<p>Sem eu aliquet eleifend, turpis mauris faucibus ligula, vel hendrerit lacus augue sit amet lacus. Sed id ornare neque. In eget tortor varius, pharetra elit porttitor, porttitor metus. Integer bibendum diam vitae mi semper pellentesque.<\/p>","align":"center"},"elements":[],"widgetType":"text-editor"}],"isInner":true}],"isInner":true},{"id":"3983cd0","elType":"section","settings":[],"elements":[{"id":"8f3f76d","elType":"column","settings":{"_column_size":100,"_inline_size":null},"elements":[{"id":"a0052a0","elType":"widget","settings":[],"elements":[],"widgetType":"spacer"},{"id":"adf09e1","elType":"widget","settings":{"wp_gallery":[{"id":1376,"url":"https:\/\/demo.woostify.com\/randy\/wp-content\/uploads\/sites\/22\/2019\/08\/logo01.jpg"},{"id":1377,"url":"https:\/\/demo.woostify.com\/randy\/wp-content\/uploads\/sites\/22\/2019\/08\/logo02.jpg"},{"id":1378,"url":"https:\/\/demo.woostify.com\/randy\/wp-content\/uploads\/sites\/22\/2019\/08\/logo03.jpg"},{"id":1379,"url":"https:\/\/demo.woostify.com\/randy\/wp-content\/uploads\/sites\/22\/2019\/08\/logo04.jpg"},{"id":1380,"url":"https:\/\/demo.woostify.com\/randy\/wp-content\/uploads\/sites\/22\/2019\/08\/logo05.jpg"},{"id":1381,"url":"https:\/\/demo.woostify.com\/randy\/wp-content\/uploads\/sites\/22\/2019\/08\/logo06.jpg"},{"id":1383,"url":"https:\/\/demo.woostify.com\/randy\/wp-content\/uploads\/sites\/22\/2019\/08\/logo07.jpg"},{"id":1384,"url":"https:\/\/demo.woostify.com\/randy\/wp-content\/uploads\/sites\/22\/2019\/08\/logo08.jpg"},{"id":1385,"url":"https:\/\/demo.woostify.com\/randy\/wp-content\/uploads\/sites\/22\/2019\/08\/logo09.jpg"},{"id":1386,"url":"https:\/\/demo.woostify.com\/randy\/wp-content\/uploads\/sites\/22\/2019\/08\/logo10.jpg"},{"id":1389,"url":"https:\/\/demo.woostify.com\/randy\/wp-content\/uploads\/sites\/22\/2019\/08\/logo01-1.jpg"},{"id":1387,"url":"https:\/\/demo.woostify.com\/randy\/wp-content\/uploads\/sites\/22\/2019\/08\/logo11.jpg"}],"thumbnail_size":"full","image_spacing":"custom","image_spacing_custom":{"unit":"px","size":5,"sizes":[]}},"elements":[],"widgetType":"image-gallery"}],"isInner":true}],"isInner":true}],"isInner":false}],"isInner":false}]]]></wp:meta_value>
+		<wp:meta_value><![CDATA[[{"id":"dc46e66","elType":"container","settings":{"content_width":"full","flex_gap":{"size":0,"unit":"px"},"min_height":{"unit":"px","size":800,"sizes":[]},"background_background":"classic","background_image":{"url":"https:\/\/demo.woostify.com\/randy\/wp-content\/uploads\/sites\/22\/2019\/08\/bg-about.jpg","id":1539},"background_position":"initial","background_repeat":"no-repeat","background_size":"cover","margin":{"unit":"px","top":"-55","right":0,"bottom":"0","left":0,"isLinked":false},"flex_direction":"row","flex_align_items":"center","padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true}},"elements":[{"id":"11f2e17","elType":"container","settings":{"_column_size":100,"content_width":"full","padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true}},"elements":[{"id":"c57f501","elType":"container","settings":{"structure":"20","flex_direction":"row","flex_align_items":"stretch","flex_gap":{"size":0,"unit":"px"},"padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true}},"elements":[{"id":"c34fd22","elType":"container","settings":{"_column_size":50,"width":{"size":null,"unit":"%"},"content_width":"full"},"elements":[{"id":"0bd4061","elType":"widget","settings":{"title":"Our Story","title_color":"#ffffff","typography_typography":"custom","typography_font_size":{"unit":"px","size":18,"sizes":[]}},"elements":[],"widgetType":"heading"},{"id":"e703e05","elType":"widget","settings":{"space":{"unit":"px","size":20,"sizes":[]},"space_mobile":{"unit":"px","size":0,"sizes":[]}},"elements":[],"widgetType":"spacer"},{"id":"a8fbfe8","elType":"widget","settings":{"title":"We put our reputation <br>\non the line","title_color":"#ffffff","typography_typography":"custom","typography_font_size":{"unit":"px","size":36,"sizes":[]},"typography_line_height":{"unit":"px","size":48,"sizes":[]}},"elements":[],"widgetType":"heading"}],"isInner":false},{"id":"53e4783","elType":"container","settings":{"_column_size":50,"width":{"size":null,"unit":"%"},"content_width":"full"},"elements":[{"id":"5259115","elType":"widget","settings":{"editor":"<p><span class=\"t-white\">MAECENAS RHONCUS <\/span> \u2014 eu lacus eu viverra. Nunc interdum lorem a lacus mattis blandit. Donec id rutrum eros. In orci leo, malesuada non. Morbi ac eros feugiat, lacinia elit ut, elementum turpis. Curabitur justo sapien, tempus sit amet rutrum<br \/>eu, commodo eu lacus. Morbi in ligula nibh.<\/p>","text_color":"#8c96a5","typography_typography":"custom","typography_line_height":{"unit":"px","size":22,"sizes":[]}},"elements":[],"widgetType":"text-editor"},{"id":"766bc8e","elType":"widget","settings":{"space":{"unit":"px","size":5,"sizes":[]}},"elements":[],"widgetType":"spacer"},{"id":"d6b917e","elType":"widget","settings":{"editor":"<p>Eget velit sodales, tristique dui a, malesuada erat. Phasellus at neque augue. Nullam convallis tincidunt tincidunt. Maecenas a libero aliquam, sollicitudin lectus vel, ultrices lacus.<\/p>","text_color":"#8c96a5","typography_typography":"custom","typography_line_height":{"unit":"px","size":26,"sizes":[]},"typography_font_size":{"unit":"px","size":18,"sizes":[]},"typography_font_style":"italic","_padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"40","isLinked":false}},"elements":[],"widgetType":"text-editor"},{"id":"3631852","elType":"widget","settings":{"space":{"unit":"px","size":5,"sizes":[]}},"elements":[],"widgetType":"spacer"},{"id":"c4fde44","elType":"widget","settings":{"editor":"<p>Sem eu aliquet eleifend, turpis mauris faucibus ligula, vel hendrerit lacus augue sit amet lacus. Sed\u00a0 id ornare neque. In eget tortor varius, pharetra elit porttitor, porttitor metus. Integer bibendum diam vitae mi semper pellentesque.<\/p>","text_color":"#8c96a5","typography_typography":"custom","typography_line_height":{"unit":"px","size":22,"sizes":[]}},"elements":[],"widgetType":"text-editor"}],"isInner":false}],"isInner":false}],"isInner":false}],"isInner":false},{"id":"0044d14","elType":"container","settings":{"content_width":"full","flex_gap":{"size":0,"unit":"px"},"min_height":{"unit":"px","size":600,"sizes":[]},"background_background":"classic","background_image":{"url":"https:\/\/demo.woostify.com\/randy\/wp-content\/uploads\/sites\/22\/2019\/08\/about-image01.jpg","id":1363},"background_repeat":"no-repeat","background_size":"cover","min_height_mobile":{"unit":"px","size":200,"sizes":[]},"flex_direction":"row","flex_align_items":"center","padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true}},"elements":[{"id":"bfc3678","elType":"container","settings":{"_column_size":100,"content_width":"full","padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true}},"elements":[],"isInner":false}],"isInner":false},{"id":"4a717b3","elType":"container","settings":{"content_width":"full","flex_gap":{"size":0,"unit":"px"},"background_background":"classic","background_color":"#232d3d","padding":{"unit":"px","top":"100","right":"0","bottom":"100","left":"0","isLinked":false},"flex_direction":"row","flex_align_items":"stretch"},"elements":[{"id":"6a159e9","elType":"container","settings":{"_column_size":100,"content_width":"full","padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true}},"elements":[{"id":"475240c","elType":"widget","settings":{"title":"Our Partners","align":"center","title_color":"#ffffff","typography_typography":"custom","typography_font_size":{"unit":"px","size":18,"sizes":[]},"typography_text_transform":"uppercase"},"elements":[],"widgetType":"heading"},{"id":"4cc680c","elType":"widget","settings":{"space":{"unit":"px","size":5,"sizes":[]}},"elements":[],"widgetType":"spacer"},{"id":"d9b41da","elType":"widget","settings":{"title":"We collaborate with ambitious brands & <br>we\u2019d love to build something great.","align":"center","title_color":"#ffffff","typography_typography":"custom","typography_font_size":{"unit":"px","size":36,"sizes":[]},"typography_line_height":{"unit":"px","size":48,"sizes":[]}},"elements":[],"widgetType":"heading"},{"id":"996bfe1","elType":"container","settings":{"width":{"unit":"px","size":550,"sizes":[]},"flex_direction":"row","flex_align_items":"stretch","flex_gap":{"size":0,"unit":"px"},"boxed_width":{"unit":"px","size":550,"sizes":[]},"padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true}},"elements":[{"id":"22a130c","elType":"container","settings":{"_column_size":100,"width":{"size":null,"unit":"%"},"content_width":"full"},"elements":[{"id":"6a7f23a","elType":"widget","settings":{"editor":"<p>Sem eu aliquet eleifend, turpis mauris faucibus ligula, vel hendrerit lacus augue sit amet lacus. Sed id ornare neque. In eget tortor varius, pharetra elit porttitor, porttitor metus. Integer bibendum diam vitae mi semper pellentesque.<\/p>","align":"center"},"elements":[],"widgetType":"text-editor"}],"isInner":false}],"isInner":false},{"id":"6801144","elType":"container","settings":{"flex_direction":"row","flex_align_items":"stretch","flex_gap":{"size":0,"unit":"px"},"padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true}},"elements":[{"id":"3cb6367","elType":"container","settings":{"_column_size":100,"width":{"size":null,"unit":"%"},"content_width":"full"},"elements":[{"id":"e32b776","elType":"widget","settings":{"space":{"unit":"px","size":30,"sizes":[]}},"elements":[],"widgetType":"spacer"},{"id":"9b4e868","elType":"widget","settings":{"wp_gallery":[{"id":1376,"url":"https:\/\/demo.woostify.com\/randy\/wp-content\/uploads\/sites\/22\/2019\/08\/logo01.jpg"},{"id":1377,"url":"https:\/\/demo.woostify.com\/randy\/wp-content\/uploads\/sites\/22\/2019\/08\/logo02.jpg"},{"id":1378,"url":"https:\/\/demo.woostify.com\/randy\/wp-content\/uploads\/sites\/22\/2019\/08\/logo03.jpg"},{"id":1379,"url":"https:\/\/demo.woostify.com\/randy\/wp-content\/uploads\/sites\/22\/2019\/08\/logo04.jpg"},{"id":1380,"url":"https:\/\/demo.woostify.com\/randy\/wp-content\/uploads\/sites\/22\/2019\/08\/logo05.jpg"},{"id":1381,"url":"https:\/\/demo.woostify.com\/randy\/wp-content\/uploads\/sites\/22\/2019\/08\/logo06.jpg"},{"id":1383,"url":"https:\/\/demo.woostify.com\/randy\/wp-content\/uploads\/sites\/22\/2019\/08\/logo07.jpg"},{"id":1384,"url":"https:\/\/demo.woostify.com\/randy\/wp-content\/uploads\/sites\/22\/2019\/08\/logo08.jpg"},{"id":1385,"url":"https:\/\/demo.woostify.com\/randy\/wp-content\/uploads\/sites\/22\/2019\/08\/logo09.jpg"},{"id":1386,"url":"https:\/\/demo.woostify.com\/randy\/wp-content\/uploads\/sites\/22\/2019\/08\/logo10.jpg"},{"id":1389,"url":"https:\/\/demo.woostify.com\/randy\/wp-content\/uploads\/sites\/22\/2019\/08\/logo01-1.jpg"},{"id":1387,"url":"https:\/\/demo.woostify.com\/randy\/wp-content\/uploads\/sites\/22\/2019\/08\/logo11.jpg"}],"thumbnail_size":"full","image_spacing":"custom","image_spacing_custom":{"unit":"px","size":5,"sizes":[]}},"elements":[],"widgetType":"image-gallery"}],"isInner":false}],"isInner":false}],"isInner":false}],"isInner":false}]]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_elementor_controls_usage]]></wp:meta_key>
@@ -7007,6 +7402,10 @@ Sem eu aliquet eleifend, turpis mauris faucibus ligula, vel hendrerit lacus augu
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
 		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_elementor_page_assets]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -7725,7 +8124,7 @@ This e-mail was sent from a contact form on Woostify (https://woostify.com/demos
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[pageview]]></wp:meta_key>
-		<wp:meta_value><![CDATA[10]]></wp:meta_value>
+		<wp:meta_value><![CDATA[34]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -7857,7 +8256,7 @@ This e-mail was sent from a contact form on Woostify (https://woostify.com/demos
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[pageview]]></wp:meta_key>
-		<wp:meta_value><![CDATA[4]]></wp:meta_value>
+		<wp:meta_value><![CDATA[11]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -7989,7 +8388,7 @@ This e-mail was sent from a contact form on Woostify (https://woostify.com/demos
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[pageview]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		<wp:meta_value><![CDATA[6]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -8121,7 +8520,7 @@ This e-mail was sent from a contact form on Woostify (https://woostify.com/demos
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[pageview]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		<wp:meta_value><![CDATA[13]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -8252,7 +8651,7 @@ This e-mail was sent from a contact form on Woostify (https://woostify.com/demos
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[pageview]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		<wp:meta_value><![CDATA[5]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -8548,7 +8947,7 @@ This e-mail was sent from a contact form on Woostify (https://woostify.com/demos
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[pageview]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		<wp:meta_value><![CDATA[9]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -8680,7 +9079,7 @@ This e-mail was sent from a contact form on Woostify (https://woostify.com/demos
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[pageview]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		<wp:meta_value><![CDATA[3]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
