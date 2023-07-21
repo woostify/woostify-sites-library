@@ -773,6 +773,114 @@ function woostify_sites_local_import_files() {
 			),
 		),
 
+		array(
+			'id'                           => 22,
+			'import_file_name'             => 'Kids',
+			'local_import_file'            => WOOSTIFY_SITES_DIR . 'demos/demo-23/demo-content.xml',
+			'local_import_widget_file'     => WOOSTIFY_SITES_DIR . 'demos/demo-23/widgets.wie',
+			'local_import_customizer_file' => WOOSTIFY_SITES_DIR . 'demos/demo-23/customizer.dat',
+			'import_preview_image_url'     => WOOSTIFY_SITES_URI . 'demos/demo-23/demo-23.png',
+			'import_notice'                => __( 'After you import this demo, you should update permalink.', 'woostify' ),
+			'preview_url'                  => 'https://demo.woostify.com/kids/',
+			'homepage'                     => 'Home',
+			'blog_page'                    => 'Blog',
+			'primary_menu'                 => 'Primary Menu',
+			'footer_menu'                  => '',
+			'type'                         => 'pro',
+			'page_builder'                 => 'elementor',
+			'font_page'                    => 15,
+			'page'                         => array(
+				'15' => array(
+					'title'   => 'Home',
+					'id'      => 15,
+					'preview' => WOOSTIFY_SITES_URI . 'demos/demo-23/demo-23.png',
+
+				),
+				'733' => array(
+					'title'   => 'Contact Us',
+					'id'      => 733,
+					'preview' => WOOSTIFY_SITES_URI . 'demos/demo-23/contact.jpg',
+				),
+				'731' => array(
+					'title'   => 'About Us',
+					'id'      => 731,
+					'preview' => WOOSTIFY_SITES_URI . 'demos/demo-23/about.jpg',
+				),
+			),
+		),
+
+		array(
+			'id'                           => 23,
+			'import_file_name'             => 'Bakery',
+			'local_import_file'            => WOOSTIFY_SITES_DIR . 'demos/demo-24/demo-content.xml',
+			'local_import_widget_file'     => WOOSTIFY_SITES_DIR . 'demos/demo-24/widgets.wie',
+			'local_import_customizer_file' => WOOSTIFY_SITES_DIR . 'demos/demo-24/customizer.dat',
+			'import_preview_image_url'     => WOOSTIFY_SITES_URI . 'demos/demo-24/demo-24.png',
+			'import_notice'                => __( 'After you import this demo, you should update permalink.', 'woostify' ),
+			'preview_url'                  => 'https://demo.woostify.com/bakery/',
+			'homepage'                     => 'Home',
+			'blog_page'                    => 'Blog',
+			'primary_menu'                 => 'Primary Menu',
+			'footer_menu'                  => '',
+			'type'                         => 'pro',
+			'page_builder'                 => 'elementor',
+			'font_page'                    => 13,
+			'page'                         => array(
+				'13' => array(
+					'title'   => 'Home',
+					'id'      => 13,
+					'preview' => WOOSTIFY_SITES_URI . 'demos/demo-24/demo-24.png',
+
+				),
+				'19' => array(
+					'title'   => 'Contact Us',
+					'id'      => 19,
+					'preview' => WOOSTIFY_SITES_URI . 'demos/demo-24/contact.jpg',
+				),
+				'17' => array(
+					'title'   => 'About Us',
+					'id'      => 17,
+					'preview' => WOOSTIFY_SITES_URI . 'demos/demo-24/about.jpg',
+				),
+			),
+		),
+
+		array(
+			'id'                           => 24,
+			'import_file_name'             => 'Bag',
+			'local_import_file'            => WOOSTIFY_SITES_DIR . 'demos/demo-25/demo-content.xml',
+			'local_import_widget_file'     => WOOSTIFY_SITES_DIR . 'demos/demo-25/widgets.wie',
+			'local_import_customizer_file' => WOOSTIFY_SITES_DIR . 'demos/demo-25/customizer.dat',
+			'import_preview_image_url'     => WOOSTIFY_SITES_URI . 'demos/demo-25/demo-25.png',
+			'import_notice'                => __( 'After you import this demo, you should update permalink.', 'woostify' ),
+			'preview_url'                  => 'https://demo.woostify.com/bag/',
+			'homepage'                     => 'Home',
+			'blog_page'                    => 'Blog',
+			'primary_menu'                 => 'Primary Menu',
+			'footer_menu'                  => '',
+			'type'                         => 'pro',
+			'page_builder'                 => 'elementor',
+			'font_page'                    => 14,
+			'page'                         => array(
+				'14' => array(
+					'title'   => 'Home',
+					'id'      => 14,
+					'preview' => WOOSTIFY_SITES_URI . 'demos/demo-25/demo-25.png',
+
+				),
+				'18' => array(
+					'title'   => 'Contact Us',
+					'id'      => 18,
+					'preview' => WOOSTIFY_SITES_URI . 'demos/demo-25/contact.jpg',
+				),
+				'16' => array(
+					'title'   => 'About Us',
+					'id'      => 16,
+					'preview' => WOOSTIFY_SITES_URI . 'demos/demo-25/about.jpg',
+				),
+			),
+		),
+
 	);
 }
 add_filter( 'woostify_sites_import_files', 'woostify_sites_local_import_files' );
