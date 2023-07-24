@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/6.2.2" created="2023-07-21 08:50" -->
+	<!-- generator="WordPress/6.2.2" created="2023-07-24 08:47" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
 	<title>Bakery</title>
 	<link>https://demo.woostify.com/bakery</link>
 	<description>Just another Woostify Pro Demo Sites site</description>
-	<pubDate>Fri, 21 Jul 2023 08:50:57 +0000</pubDate>
+	<pubDate>Mon, 24 Jul 2023 08:47:15 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>https://demo.woostify.com/</wp:base_site_url>
@@ -1613,10 +1613,10 @@
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>23</wp:post_id>
-		<wp:post_date><![CDATA[2023-07-20 06:56:24]]></wp:post_date>
+		<wp:post_date><![CDATA[2023-07-24 08:46:03]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2023-07-04 07:51:07]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2023-07-20 06:56:24]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2023-07-20 06:56:24]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2023-07-24 08:46:03]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-07-24 08:46:03]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[23]]></wp:post_name>
@@ -1671,6 +1671,10 @@
 		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2023-07-17]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2023-07-20]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[]]></title>
@@ -1682,10 +1686,10 @@
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>24</wp:post_id>
-		<wp:post_date><![CDATA[2023-07-20 06:56:24]]></wp:post_date>
+		<wp:post_date><![CDATA[2023-07-24 08:46:03]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2023-07-04 07:51:07]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2023-07-20 06:56:24]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2023-07-20 06:56:24]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2023-07-24 08:46:03]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-07-24 08:46:03]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[24]]></wp:post_name>
@@ -1740,6 +1744,10 @@
 		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2023-07-17]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2023-07-20]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Pages]]></title>
@@ -1751,10 +1759,10 @@
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>25</wp:post_id>
-		<wp:post_date><![CDATA[2023-07-20 06:56:24]]></wp:post_date>
+		<wp:post_date><![CDATA[2023-07-24 08:46:03]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2023-07-04 07:51:07]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2023-07-20 06:56:24]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2023-07-20 06:56:24]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2023-07-24 08:46:03]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-07-24 08:46:03]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[pages]]></wp:post_name>
@@ -1808,6 +1816,10 @@
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2023-07-17]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2023-07-20]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -2228,116 +2240,116 @@ All Rights Reserved © 2023 <a href="#" style="color:#d81600">Kalles</a> store -
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://demo.woostify.com/bakery/?post_type=hf_builder&#038;p=305</guid>
 		<description></description>
-		<content:encoded><![CDATA[<link rel="stylesheet" href="https://demo.woostify.com/bakery/wp-content/plugins/elementor/assets/css/widget-icon-list.min.css">		<ul>
-							<li>
-											<a href="#">
-										+01 23456789
-											</a>
-									</li>
-								<li>
-											<a href="#">
-										bakery@domain.com
-											</a>
-									</li>
-						</ul>
-			<style>/*! elementor - v3.13.3 - 28-05-2023 */
-.elementor-heading-title{padding:0;margin:0;line-height:1}.elementor-widget-heading .elementor-heading-title[class*=elementor-size-]>a{color:inherit;font-size:inherit;line-height:inherit}.elementor-widget-heading .elementor-heading-title.elementor-size-small{font-size:15px}.elementor-widget-heading .elementor-heading-title.elementor-size-medium{font-size:19px}.elementor-widget-heading .elementor-heading-title.elementor-size-large{font-size:29px}.elementor-widget-heading .elementor-heading-title.elementor-size-xl{font-size:39px}.elementor-widget-heading .elementor-heading-title.elementor-size-xxl{font-size:59px}</style>Summer sale discount off 50% <a href="#">Shop Now</a>		
-        <select>
-            <option value="0">EUR
-            </option>
-            <option value="1">JPY
-            </option>
-            <option value="2">RUB
-            </option>
-            <option value="3">USD
-            </option>
-            <option value="4">XOF
-            </option>
-        </select>
-			<a href="https://demo.woostify.com/bakery/" rel="home"><img width="356" height="354" src="https://demo.woostify.com/bakery/wp-content/uploads/sites/37/2023/07/cropped-logo.png" alt="Bakery" decoding="async" srcset="https://demo.woostify.com/bakery/wp-content/uploads/sites/37/2023/07/cropped-logo.png 356w, https://demo.woostify.com/bakery/wp-content/uploads/sites/37/2023/07/cropped-logo-300x298.png 300w, https://demo.woostify.com/bakery/wp-content/uploads/sites/37/2023/07/cropped-logo-150x150.png 150w, https://demo.woostify.com/bakery/wp-content/uploads/sites/37/2023/07/cropped-logo-100x100.png 100w" sizes="(max-width: 356px) 100vw, 356px" /></a>		
-			<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="17" height="17" viewBox="0 0 17 17">
-<g>
-</g>
-	<path d="M9.207 8.5l6.646 6.646-0.707 0.707-6.646-6.646-6.646 6.646-0.707-0.707 6.646-6.646-6.647-6.646 0.707-0.707 6.647 6.646 6.646-6.646 0.707 0.707-6.646 6.646z" fill="#000000" />
-</svg>
-			<form role="search" method="get" action="https://demo.woostify.com/bakery/"><label for="woocommerce-product-search-field-1">Search for:></label><input type="search" id="woocommerce-product-search-field-1" placeholder="Search products&hellip;" value="" name="s" /><button type="submit" value="Search">Search</button><input type="hidden" name="post_type" value="product" /><svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="17" height="17" viewBox="0 0 17 17">
-<g>
-</g>
-	<path d="M16.604 15.868l-5.173-5.173c0.975-1.137 1.569-2.611 1.569-4.223 0-3.584-2.916-6.5-6.5-6.5-1.736 0-3.369 0.676-4.598 1.903-1.227 1.228-1.903 2.861-1.902 4.597 0 3.584 2.916 6.5 6.5 6.5 1.612 0 3.087-0.594 4.224-1.569l5.173 5.173 0.707-0.708zM6.5 11.972c-3.032 0-5.5-2.467-5.5-5.5-0.001-1.47 0.571-2.851 1.61-3.889 1.038-1.039 2.42-1.611 3.89-1.611 3.032 0 5.5 2.467 5.5 5.5 0 3.032-2.468 5.5-5.5 5.5z" fill="#000000" />
-</svg>
-</form>					
-				<nav aria-label="Primary navigation">
-					<ul id="menu-primary-menu"><li id="menu-item-23"><a href="https://demo.woostify.com/bakery/">Home</a></li>
-<li id="menu-item-24"><a href="https://demo.woostify.com/bakery/shop/">Shop<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="17" height="17" viewBox="0 0 17 17">
-<g>
-</g>
-	<path d="M16.354 5.075l-7.855 7.854-7.853-7.854 0.707-0.707 7.145 7.146 7.148-7.147 0.708 0.708z" fill="#000000" />
-</svg>
-</a>
+		<content:encoded><![CDATA[<link rel="stylesheet" href="https://demo.woostify.com/bakery/wp-content/plugins/elementor/assets/css/widget-icon-list.min.css">
 <ul>
-	<li id="menu-item-1468"><a href="https://demo.woostify.com/bakery/cart/">Cart</a></li>
-	<li id="menu-item-1467"><a href="https://demo.woostify.com/bakery/checkout/">Checkout</a></li>
-	<li id="menu-item-1466"><a href="https://demo.woostify.com/bakery/my-account/">My account</a></li>
+ 	<li>
+											<a href="#">
++01 23456789
+</a></li>
+ 	<li>
+											<a href="#">
+bakery@domain.com
+</a></li>
+</ul>
+<style>/*! elementor - v3.13.3 - 28-05-2023 */<br />
+.elementor-heading-title{padding:0;margin:0;line-height:1}.elementor-widget-heading .elementor-heading-title[class*=elementor-size-]>a{color:inherit;font-size:inherit;line-height:inherit}.elementor-widget-heading .elementor-heading-title.elementor-size-small{font-size:15px}.elementor-widget-heading .elementor-heading-title.elementor-size-medium{font-size:19px}.elementor-widget-heading .elementor-heading-title.elementor-size-large{font-size:29px}.elementor-widget-heading .elementor-heading-title.elementor-size-xl{font-size:39px}.elementor-widget-heading .elementor-heading-title.elementor-size-xxl{font-size:59px}</style>Summer sale discount off 50% <a href="#">Shop Now</a>
+<select>
+<option value="0">EUR
+            </option>
+<option value="1">JPY
+            </option>
+<option value="2">RUB
+            </option>
+<option value="3">USD
+            </option>
+<option value="4">XOF
+            </option>
+</select>
+<a href="https://demo.woostify.com/bakery/" rel="home"><img width="356" height="354" src="https://demo.woostify.com/bakery/wp-content/uploads/sites/37/2023/07/cropped-logo.png" alt="Bakery" decoding="async" srcset="https://demo.woostify.com/bakery/wp-content/uploads/sites/37/2023/07/cropped-logo.png 356w, https://demo.woostify.com/bakery/wp-content/uploads/sites/37/2023/07/cropped-logo-300x298.png 300w, https://demo.woostify.com/bakery/wp-content/uploads/sites/37/2023/07/cropped-logo-150x150.png 150w, https://demo.woostify.com/bakery/wp-content/uploads/sites/37/2023/07/cropped-logo-100x100.png 100w" sizes="(max-width: 356px) 100vw, 356px"></a>
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="17" height="17" viewBox="0 0 17 17"></svg>
+<g>
+</g>
+	<path d="M9.207 8.5l6.646 6.646-0.707 0.707-6.646-6.646-6.646 6.646-0.707-0.707 6.646-6.646-6.647-6.646 0.707-0.707 6.647 6.646 6.646-6.646 0.707 0.707-6.646 6.646z" fill="#000000">
+</path>
+
+<form role="search" method="get" action="https://demo.woostify.com/bakery/"><label for="woocommerce-product-search-field-1">Search for:&gt;</label><input type="search" id="woocommerce-product-search-field-1" placeholder="Search products…" value="" name="s"><button type="submit" value="Search">Search</button><input type="hidden" name="post_type" value="product"><svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="17" height="17" viewBox="0 0 17 17"></svg>
+<g>
+</g>
+	<path d="M16.604 15.868l-5.173-5.173c0.975-1.137 1.569-2.611 1.569-4.223 0-3.584-2.916-6.5-6.5-6.5-1.736 0-3.369 0.676-4.598 1.903-1.227 1.228-1.903 2.861-1.902 4.597 0 3.584 2.916 6.5 6.5 6.5 1.612 0 3.087-0.594 4.224-1.569l5.173 5.173 0.707-0.708zM6.5 11.972c-3.032 0-5.5-2.467-5.5-5.5-0.001-1.47 0.571-2.851 1.61-3.889 1.038-1.039 2.42-1.611 3.89-1.611 3.032 0 5.5 2.467 5.5 5.5 0 3.032-2.468 5.5-5.5 5.5z" fill="#000000">
+<nav aria-label="Primary navigation">
+<ul id="menu-primary-menu">
+ 	<li id="menu-item-23"><a href="https://demo.woostify.com/bakery/">Home</a></li>
+ 	<li id="menu-item-24"><a href="https://demo.woostify.com/bakery/shop/">Shop<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="17" height="17" viewBox="0 0 17 17"></svg>
+<g>
+</g>
+	<path d="M16.354 5.075l-7.855 7.854-7.853-7.854 0.707-0.707 7.145 7.146 7.148-7.147 0.708 0.708z" fill="#000000">
+</path></a>
+<ul>
+ 	<li id="menu-item-1468"><a href="https://demo.woostify.com/bakery/cart/">Cart</a></li>
+ 	<li id="menu-item-1467"><a href="https://demo.woostify.com/bakery/checkout/">Checkout</a></li>
+ 	<li id="menu-item-1466"><a href="https://demo.woostify.com/bakery/my-account/">My account</a></li>
 </ul>
 </li>
-<li id="menu-item-25"><a href="#">Pages<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="17" height="17" viewBox="0 0 17 17">
+ 	<li id="menu-item-25"><a href="#">Pages<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="17" height="17" viewBox="0 0 17 17"></svg>
 <g>
 </g>
-	<path d="M16.354 5.075l-7.855 7.854-7.853-7.854 0.707-0.707 7.145 7.146 7.148-7.147 0.708 0.708z" fill="#000000" />
-</svg>
-</a>
+	<path d="M16.354 5.075l-7.855 7.854-7.853-7.854 0.707-0.707 7.145 7.146 7.148-7.147 0.708 0.708z" fill="#000000">
+</path></a>
 <ul>
-	<li id="menu-item-26"><a href="https://demo.woostify.com/bakery/about-us/">About Us</a></li>
-	<li id="menu-item-1513"><a href="https://demo.woostify.com/bakery/faq/">Faq</a></li>
+ 	<li id="menu-item-26"><a href="https://demo.woostify.com/bakery/about-us/">About Us</a></li>
+ 	<li id="menu-item-1513"><a href="https://demo.woostify.com/bakery/faq/">Faq</a></li>
 </ul>
 </li>
-<li id="menu-item-28"><a href="https://demo.woostify.com/bakery/blog/">Blog</a></li>
-<li id="menu-item-27"><a href="https://demo.woostify.com/bakery/contact-us/">Contact Us</a></li>
-</ul>				</nav>
-			<ul>
-							<li><a href="https://demo.woostify.com/bakery/my-account/">Dashboard</a></li>
-			<li>
-				<a href="https://demo.woostify.com/bakery/wp-login.php?action=logout&#038;redirect_to=https%3A%2F%2Fdemo.woostify.com%2Fbakery%2Fmy-account%2F&#038;_wpnonce=8c2f8c3af3">Logout</a>
-			</li>
-						</ul>
-				<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="17" height="17" viewBox="0 0 17 17">
+ 	<li id="menu-item-28"><a href="https://demo.woostify.com/bakery/blog/">Blog</a></li>
+ 	<li id="menu-item-27"><a href="https://demo.woostify.com/bakery/contact-us/">Contact Us</a></li>
+</ul>
+</nav>
+<ul>
+ 	<li><a href="https://demo.woostify.com/bakery/my-account/">Dashboard</a></li>
+ 	<li>
+				<a href="https://demo.woostify.com/bakery/wp-login.php?action=logout&amp;redirect_to=https%3A%2F%2Fdemo.woostify.com%2Fbakery%2Fmy-account%2F&amp;_wpnonce=8c2f8c3af3">Logout</a></li>
+</ul>
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="17" height="17" viewBox="0 0 17 17"></svg>
 <g>
 </g>
-	<path d="M16.604 15.868l-5.173-5.173c0.975-1.137 1.569-2.611 1.569-4.223 0-3.584-2.916-6.5-6.5-6.5-1.736 0-3.369 0.676-4.598 1.903-1.227 1.228-1.903 2.861-1.902 4.597 0 3.584 2.916 6.5 6.5 6.5 1.612 0 3.087-0.594 4.224-1.569l5.173 5.173 0.707-0.708zM6.5 11.972c-3.032 0-5.5-2.467-5.5-5.5-0.001-1.47 0.571-2.851 1.61-3.889 1.038-1.039 2.42-1.611 3.89-1.611 3.032 0 5.5 2.467 5.5 5.5 0 3.032-2.468 5.5-5.5 5.5z" fill="#000000" />
-</svg>
-			<a href="#">
-				<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="17" height="17" viewBox="0 0 17 17">
+	<path d="M16.604 15.868l-5.173-5.173c0.975-1.137 1.569-2.611 1.569-4.223 0-3.584-2.916-6.5-6.5-6.5-1.736 0-3.369 0.676-4.598 1.903-1.227 1.228-1.903 2.861-1.902 4.597 0 3.584 2.916 6.5 6.5 6.5 1.612 0 3.087-0.594 4.224-1.569l5.173 5.173 0.707-0.708zM6.5 11.972c-3.032 0-5.5-2.467-5.5-5.5-0.001-1.47 0.571-2.851 1.61-3.889 1.038-1.039 2.42-1.611 3.89-1.611 3.032 0 5.5 2.467 5.5 5.5 0 3.032-2.468 5.5-5.5 5.5z" fill="#000000">
+</path>
+
+<a href="#">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="17" height="17" viewBox="0 0 17 17"></svg>
 <g>
 </g>
-	<path d="M17 16.488c-0.063-2.687-2.778-4.999-6.521-5.609v-1.374c0.492-0.473 0.842-1.207 1.071-1.833 0.332-0.166 0.624-0.536 0.794-1.033 0.238-0.688 0.146-1.323-0.206-1.629 0.028-0.238 0.046-0.481 0.015-0.723-0.079-0.663 0.065-1.038 0.194-1.368 0.106-0.277 0.229-0.591 0.106-0.945-0.442-1.273-1.727-1.974-3.618-1.974l-0.264 0.005c-1.313 0.047-1.707 0.6-1.971 1.115-0.033 0.062-0.077 0.146-0.077 0.151-1.712 0.153-1.697 1.569-1.684 2.707l0.003 0.369c0 0.205 0.009 0.419 0.026 0.639-0.425 0.3-0.504 1.005-0.179 1.737 0.185 0.415 0.452 0.729 0.749 0.892 0.243 0.674 0.625 1.47 1.179 1.965v1.283c-3.798 0.589-6.554 2.907-6.617 5.625l-0.012 0.512h17.023l-0.011-0.512zM1.054 16c0.392-2.094 2.859-3.821 6.122-4.204l0.441-0.052v-2.666l-0.216-0.15c-0.393-0.272-0.791-0.947-1.090-1.851l-0.083-0.281-0.294-0.051c-0.053-0.019-0.208-0.153-0.33-0.428-0.075-0.168-0.104-0.312-0.112-0.415l0.51 0.143-0.096-0.749c-0.042-0.33-0.064-0.651-0.064-0.95l-0.003-0.38c-0.015-1.341 0.051-1.634 0.773-1.699 0.545-0.048 0.752-0.449 0.876-0.689 0.15-0.292 0.28-0.543 1.12-0.574l0.227-0.004c0.829 0 2.279 0.169 2.669 1.282 0 0.043-0.052 0.177-0.090 0.275-0.145 0.374-0.364 0.939-0.254 1.853 0.024 0.188-0.007 0.424-0.040 0.675l-0.089 0.805 0.441-0.048c0.008 0.104-0.004 0.269-0.075 0.472-0.097 0.289-0.242 0.438-0.237 0.454h-0.36l-0.114 0.342c-0.283 0.853-0.65 1.497-1.009 1.768l-0.198 0.15v2.726l0.438 0.055c3.211 0.401 5.641 2.123 6.030 4.192h-14.893z" fill="#000000" />
-</svg>
-			</a>
-							<li>
-								<a href="https://demo.woostify.com/bakery/wp-login.php?action=logout&#038;redirect_to=https%3A%2F%2Fdemo.woostify.com%2Fbakery%2Fmy-account%2F&#038;_wpnonce=8c2f8c3af3">Logout</a>
-							</li>
-			<a href="https://demo.woostify.com/bakery/wishlist/">
-				<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="17" height="17" viewBox="0 0 17 17">
+	<path d="M17 16.488c-0.063-2.687-2.778-4.999-6.521-5.609v-1.374c0.492-0.473 0.842-1.207 1.071-1.833 0.332-0.166 0.624-0.536 0.794-1.033 0.238-0.688 0.146-1.323-0.206-1.629 0.028-0.238 0.046-0.481 0.015-0.723-0.079-0.663 0.065-1.038 0.194-1.368 0.106-0.277 0.229-0.591 0.106-0.945-0.442-1.273-1.727-1.974-3.618-1.974l-0.264 0.005c-1.313 0.047-1.707 0.6-1.971 1.115-0.033 0.062-0.077 0.146-0.077 0.151-1.712 0.153-1.697 1.569-1.684 2.707l0.003 0.369c0 0.205 0.009 0.419 0.026 0.639-0.425 0.3-0.504 1.005-0.179 1.737 0.185 0.415 0.452 0.729 0.749 0.892 0.243 0.674 0.625 1.47 1.179 1.965v1.283c-3.798 0.589-6.554 2.907-6.617 5.625l-0.012 0.512h17.023l-0.011-0.512zM1.054 16c0.392-2.094 2.859-3.821 6.122-4.204l0.441-0.052v-2.666l-0.216-0.15c-0.393-0.272-0.791-0.947-1.090-1.851l-0.083-0.281-0.294-0.051c-0.053-0.019-0.208-0.153-0.33-0.428-0.075-0.168-0.104-0.312-0.112-0.415l0.51 0.143-0.096-0.749c-0.042-0.33-0.064-0.651-0.064-0.95l-0.003-0.38c-0.015-1.341 0.051-1.634 0.773-1.699 0.545-0.048 0.752-0.449 0.876-0.689 0.15-0.292 0.28-0.543 1.12-0.574l0.227-0.004c0.829 0 2.279 0.169 2.669 1.282 0 0.043-0.052 0.177-0.090 0.275-0.145 0.374-0.364 0.939-0.254 1.853 0.024 0.188-0.007 0.424-0.040 0.675l-0.089 0.805 0.441-0.048c0.008 0.104-0.004 0.269-0.075 0.472-0.097 0.289-0.242 0.438-0.237 0.454h-0.36l-0.114 0.342c-0.283 0.853-0.65 1.497-1.009 1.768l-0.198 0.15v2.726l0.438 0.055c3.211 0.401 5.641 2.123 6.030 4.192h-14.893z" fill="#000000">
+</path></a>
+ 	<li>
+								<a href="https://demo.woostify.com/bakery/wp-login.php?action=logout&amp;redirect_to=https%3A%2F%2Fdemo.woostify.com%2Fbakery%2Fmy-account%2F&amp;_wpnonce=8c2f8c3af3">Logout</a></li>
+<a href="https://demo.woostify.com/bakery/wishlist/">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="17" height="17" viewBox="0 0 17 17"></svg>
 <g>
 </g>
-	<path d="M12.5 0.658c-1.739 0-3.251 0.992-4 2.439-0.749-1.447-2.261-2.439-4-2.439-2.481 0-4.5 2.019-4.5 4.5 0 0.343 0.048 0.699 0.154 1.118l0.109 0.351c1.432 4.354 7.659 9.393 7.924 9.604l0.313 0.252 0.313-0.252c0.282-0.227 6.926-5.598 7.927-9.614l0.112-0.368c0.101-0.402 0.148-0.749 0.148-1.091 0-2.481-2.019-4.5-4.5-4.5zM15.889 5.98l-0.113 0.37c-0.809 3.246-5.946 7.727-7.276 8.843-1.282-1.083-6.122-5.337-7.285-8.872l-0.1-0.316c-0.077-0.311-0.115-0.588-0.115-0.847 0-1.93 1.57-3.5 3.5-3.5s3.5 1.571 3.5 3.5v0.252h1v-0.252c0-1.93 1.57-3.5 3.5-3.5s3.5 1.57 3.5 3.5c0 0.258-0.038 0.527-0.111 0.822z" fill="#000000" />
-</svg>
-				0
-			</a>
-						<a href="https://demo.woostify.com/bakery/cart/">
-				<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="17" height="17" viewBox="0 0 17 17">
+	<path d="M12.5 0.658c-1.739 0-3.251 0.992-4 2.439-0.749-1.447-2.261-2.439-4-2.439-2.481 0-4.5 2.019-4.5 4.5 0 0.343 0.048 0.699 0.154 1.118l0.109 0.351c1.432 4.354 7.659 9.393 7.924 9.604l0.313 0.252 0.313-0.252c0.282-0.227 6.926-5.598 7.927-9.614l0.112-0.368c0.101-0.402 0.148-0.749 0.148-1.091 0-2.481-2.019-4.5-4.5-4.5zM15.889 5.98l-0.113 0.37c-0.809 3.246-5.946 7.727-7.276 8.843-1.282-1.083-6.122-5.337-7.285-8.872l-0.1-0.316c-0.077-0.311-0.115-0.588-0.115-0.847 0-1.93 1.57-3.5 3.5-3.5s3.5 1.571 3.5 3.5v0.252h1v-0.252c0-1.93 1.57-3.5 3.5-3.5s3.5 1.57 3.5 3.5c0 0.258-0.038 0.527-0.111 0.822z" fill="#000000">
+</path></a>
+
+<a href="https://demo.woostify.com/bakery/wishlist/">0
+</a>
+<a href="https://demo.woostify.com/bakery/cart/">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="17" height="17" viewBox="0 0 17 17"></svg>
 <g>
 </g>
-	<path d="M2.75 12.5c-0.965 0-1.75 0.785-1.75 1.75s0.785 1.75 1.75 1.75 1.75-0.785 1.75-1.75-0.785-1.75-1.75-1.75zM2.75 15c-0.414 0-0.75-0.337-0.75-0.75s0.336-0.75 0.75-0.75 0.75 0.337 0.75 0.75-0.336 0.75-0.75 0.75zM11.25 12.5c-0.965 0-1.75 0.785-1.75 1.75s0.785 1.75 1.75 1.75 1.75-0.785 1.75-1.75-0.785-1.75-1.75-1.75zM11.25 15c-0.414 0-0.75-0.337-0.75-0.75s0.336-0.75 0.75-0.75 0.75 0.337 0.75 0.75-0.336 0.75-0.75 0.75zM13.371 2l-0.302 2h-13.143l1.118 8.036h11.913l1.038-7.463 0.236-1.573h2.769v-1h-3.629zM12.926 5l-0.139 1h-11.574l-0.139-1h11.852zM1.914 11.036l-0.561-4.036h11.295l-0.561 4.036h-10.173z" fill="#000000" />
-</svg>
-				1
-			</a>
-					<bdi>&#36;11.50</bdi>]]></content:encoded>
+	<path d="M2.75 12.5c-0.965 0-1.75 0.785-1.75 1.75s0.785 1.75 1.75 1.75 1.75-0.785 1.75-1.75-0.785-1.75-1.75-1.75zM2.75 15c-0.414 0-0.75-0.337-0.75-0.75s0.336-0.75 0.75-0.75 0.75 0.337 0.75 0.75-0.336 0.75-0.75 0.75zM11.25 12.5c-0.965 0-1.75 0.785-1.75 1.75s0.785 1.75 1.75 1.75 1.75-0.785 1.75-1.75-0.785-1.75-1.75-1.75zM11.25 15c-0.414 0-0.75-0.337-0.75-0.75s0.336-0.75 0.75-0.75 0.75 0.337 0.75 0.75-0.336 0.75-0.75 0.75zM13.371 2l-0.302 2h-13.143l1.118 8.036h11.913l1.038-7.463 0.236-1.573h2.769v-1h-3.629zM12.926 5l-0.139 1h-11.574l-0.139-1h11.852zM1.914 11.036l-0.561-4.036h11.295l-0.561 4.036h-10.173z" fill="#000000">
+</path></a>
+
+<a href="https://demo.woostify.com/bakery/cart/">1
+</a>
+<bdi>$11.50</bdi>
+
+</path></form>]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>305</wp:post_id>
 		<wp:post_date><![CDATA[2023-07-05 09:11:09]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2023-07-05 09:11:09]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2023-07-21 08:46:27]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2023-07-21 08:46:27]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2023-07-24 08:29:00]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-07-24 08:29:00]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[header-home]]></wp:post_name>
@@ -2364,14 +2376,6 @@ All Rights Reserved © 2023 <a href="#" style="color:#d81600">Kalles</a> store -
 		<wp:meta_value><![CDATA[page]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[woostify-header-template-post-ids]]></wp:meta_key>
-		<wp:meta_value><![CDATA[13]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[woostify-header-template-post-type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[page]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_elementor_edit_mode]]></wp:meta_key>
 		<wp:meta_value><![CDATA[builder]]></wp:meta_value>
 		</wp:postmeta>
@@ -2394,6 +2398,14 @@ All Rights Reserved © 2023 <a href="#" style="color:#d81600">Kalles</a> store -
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_elementor_page_assets]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[woostify-header-template-post-ids]]></wp:meta_key>
+		<wp:meta_value><![CDATA[13]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[woostify-header-template-post-type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[page]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -2622,116 +2634,116 @@ All Rights Reserved © 2023 <a href="#" style="color:#d81600">Kalles</a> store -
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://demo.woostify.com/bakery/?post_type=hf_builder&#038;p=714</guid>
 		<description></description>
-		<content:encoded><![CDATA[<link rel="stylesheet" href="https://demo.woostify.com/bakery/wp-content/plugins/elementor/assets/css/widget-icon-list.min.css">		<ul>
-							<li>
-											<a href="#">
-										+01 23456789
-											</a>
-									</li>
-								<li>
-											<a href="#">
-										bakery@domain.com
-											</a>
-									</li>
-						</ul>
-			<style>/*! elementor - v3.13.3 - 28-05-2023 */
-.elementor-heading-title{padding:0;margin:0;line-height:1}.elementor-widget-heading .elementor-heading-title[class*=elementor-size-]>a{color:inherit;font-size:inherit;line-height:inherit}.elementor-widget-heading .elementor-heading-title.elementor-size-small{font-size:15px}.elementor-widget-heading .elementor-heading-title.elementor-size-medium{font-size:19px}.elementor-widget-heading .elementor-heading-title.elementor-size-large{font-size:29px}.elementor-widget-heading .elementor-heading-title.elementor-size-xl{font-size:39px}.elementor-widget-heading .elementor-heading-title.elementor-size-xxl{font-size:59px}</style>Summer sale discount off 50% <a href="#">Shop Now</a>		
-        <select>
-            <option value="0">EUR
-            </option>
-            <option value="1">JPY
-            </option>
-            <option value="2">RUB
-            </option>
-            <option value="3">USD
-            </option>
-            <option value="4">XOF
-            </option>
-        </select>
-			<a href="https://demo.woostify.com/bakery/" rel="home"><img width="356" height="354" src="https://demo.woostify.com/bakery/wp-content/uploads/sites/37/2023/07/cropped-logo.png" alt="Bakery" decoding="async" srcset="https://demo.woostify.com/bakery/wp-content/uploads/sites/37/2023/07/cropped-logo.png 356w, https://demo.woostify.com/bakery/wp-content/uploads/sites/37/2023/07/cropped-logo-300x298.png 300w, https://demo.woostify.com/bakery/wp-content/uploads/sites/37/2023/07/cropped-logo-150x150.png 150w, https://demo.woostify.com/bakery/wp-content/uploads/sites/37/2023/07/cropped-logo-100x100.png 100w" sizes="(max-width: 356px) 100vw, 356px" /></a>		
-			<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="17" height="17" viewBox="0 0 17 17">
-<g>
-</g>
-	<path d="M9.207 8.5l6.646 6.646-0.707 0.707-6.646-6.646-6.646 6.646-0.707-0.707 6.646-6.646-6.647-6.646 0.707-0.707 6.647 6.646 6.646-6.646 0.707 0.707-6.646 6.646z" fill="#000000" />
-</svg>
-			<form role="search" method="get" action="https://demo.woostify.com/bakery/"><label for="woocommerce-product-search-field-1">Search for:></label><input type="search" id="woocommerce-product-search-field-1" placeholder="Search products&hellip;" value="" name="s" /><button type="submit" value="Search">Search</button><input type="hidden" name="post_type" value="product" /><svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="17" height="17" viewBox="0 0 17 17">
-<g>
-</g>
-	<path d="M16.604 15.868l-5.173-5.173c0.975-1.137 1.569-2.611 1.569-4.223 0-3.584-2.916-6.5-6.5-6.5-1.736 0-3.369 0.676-4.598 1.903-1.227 1.228-1.903 2.861-1.902 4.597 0 3.584 2.916 6.5 6.5 6.5 1.612 0 3.087-0.594 4.224-1.569l5.173 5.173 0.707-0.708zM6.5 11.972c-3.032 0-5.5-2.467-5.5-5.5-0.001-1.47 0.571-2.851 1.61-3.889 1.038-1.039 2.42-1.611 3.89-1.611 3.032 0 5.5 2.467 5.5 5.5 0 3.032-2.468 5.5-5.5 5.5z" fill="#000000" />
-</svg>
-</form>					
-				<nav aria-label="Primary navigation">
-					<ul id="menu-primary-menu"><li id="menu-item-23"><a href="https://demo.woostify.com/bakery/">Home</a></li>
-<li id="menu-item-24"><a href="https://demo.woostify.com/bakery/shop/">Shop<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="17" height="17" viewBox="0 0 17 17">
-<g>
-</g>
-	<path d="M16.354 5.075l-7.855 7.854-7.853-7.854 0.707-0.707 7.145 7.146 7.148-7.147 0.708 0.708z" fill="#000000" />
-</svg>
-</a>
+		<content:encoded><![CDATA[<link rel="stylesheet" href="https://demo.woostify.com/bakery/wp-content/plugins/elementor/assets/css/widget-icon-list.min.css">
 <ul>
-	<li id="menu-item-1468"><a href="https://demo.woostify.com/bakery/cart/">Cart</a></li>
-	<li id="menu-item-1467"><a href="https://demo.woostify.com/bakery/checkout/">Checkout</a></li>
-	<li id="menu-item-1466"><a href="https://demo.woostify.com/bakery/my-account/">My account</a></li>
+ 	<li>
+											<a href="#">
++01 23456789
+</a></li>
+ 	<li>
+											<a href="#">
+bakery@domain.com
+</a></li>
+</ul>
+<style>/*! elementor - v3.13.3 - 28-05-2023 */<br />
+.elementor-heading-title{padding:0;margin:0;line-height:1}.elementor-widget-heading .elementor-heading-title[class*=elementor-size-]>a{color:inherit;font-size:inherit;line-height:inherit}.elementor-widget-heading .elementor-heading-title.elementor-size-small{font-size:15px}.elementor-widget-heading .elementor-heading-title.elementor-size-medium{font-size:19px}.elementor-widget-heading .elementor-heading-title.elementor-size-large{font-size:29px}.elementor-widget-heading .elementor-heading-title.elementor-size-xl{font-size:39px}.elementor-widget-heading .elementor-heading-title.elementor-size-xxl{font-size:59px}</style>Summer sale discount off 50% <a href="#">Shop Now</a>
+<select>
+<option value="0">EUR
+            </option>
+<option value="1">JPY
+            </option>
+<option value="2">RUB
+            </option>
+<option value="3">USD
+            </option>
+<option value="4">XOF
+            </option>
+</select>
+<a href="https://demo.woostify.com/bakery/" rel="home"><img width="356" height="354" src="https://demo.woostify.com/bakery/wp-content/uploads/sites/37/2023/07/cropped-logo.png" alt="Bakery" decoding="async" srcset="https://demo.woostify.com/bakery/wp-content/uploads/sites/37/2023/07/cropped-logo.png 356w, https://demo.woostify.com/bakery/wp-content/uploads/sites/37/2023/07/cropped-logo-300x298.png 300w, https://demo.woostify.com/bakery/wp-content/uploads/sites/37/2023/07/cropped-logo-150x150.png 150w, https://demo.woostify.com/bakery/wp-content/uploads/sites/37/2023/07/cropped-logo-100x100.png 100w" sizes="(max-width: 356px) 100vw, 356px"></a>
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="17" height="17" viewBox="0 0 17 17"></svg>
+<g>
+</g>
+	<path d="M9.207 8.5l6.646 6.646-0.707 0.707-6.646-6.646-6.646 6.646-0.707-0.707 6.646-6.646-6.647-6.646 0.707-0.707 6.647 6.646 6.646-6.646 0.707 0.707-6.646 6.646z" fill="#000000">
+</path>
+
+<form role="search" method="get" action="https://demo.woostify.com/bakery/"><label for="woocommerce-product-search-field-1">Search for:&gt;</label><input type="search" id="woocommerce-product-search-field-1" placeholder="Search products…" value="" name="s"><button type="submit" value="Search">Search</button><input type="hidden" name="post_type" value="product"><svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="17" height="17" viewBox="0 0 17 17"></svg>
+<g>
+</g>
+	<path d="M16.604 15.868l-5.173-5.173c0.975-1.137 1.569-2.611 1.569-4.223 0-3.584-2.916-6.5-6.5-6.5-1.736 0-3.369 0.676-4.598 1.903-1.227 1.228-1.903 2.861-1.902 4.597 0 3.584 2.916 6.5 6.5 6.5 1.612 0 3.087-0.594 4.224-1.569l5.173 5.173 0.707-0.708zM6.5 11.972c-3.032 0-5.5-2.467-5.5-5.5-0.001-1.47 0.571-2.851 1.61-3.889 1.038-1.039 2.42-1.611 3.89-1.611 3.032 0 5.5 2.467 5.5 5.5 0 3.032-2.468 5.5-5.5 5.5z" fill="#000000">
+<nav aria-label="Primary navigation">
+<ul id="menu-primary-menu">
+ 	<li id="menu-item-23"><a href="https://demo.woostify.com/bakery/">Home</a></li>
+ 	<li id="menu-item-24"><a href="https://demo.woostify.com/bakery/shop/">Shop<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="17" height="17" viewBox="0 0 17 17"></svg>
+<g>
+</g>
+	<path d="M16.354 5.075l-7.855 7.854-7.853-7.854 0.707-0.707 7.145 7.146 7.148-7.147 0.708 0.708z" fill="#000000">
+</path></a>
+<ul>
+ 	<li id="menu-item-1468"><a href="https://demo.woostify.com/bakery/cart/">Cart</a></li>
+ 	<li id="menu-item-1467"><a href="https://demo.woostify.com/bakery/checkout/">Checkout</a></li>
+ 	<li id="menu-item-1466"><a href="https://demo.woostify.com/bakery/my-account/">My account</a></li>
 </ul>
 </li>
-<li id="menu-item-25"><a href="#">Pages<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="17" height="17" viewBox="0 0 17 17">
+ 	<li id="menu-item-25"><a href="#">Pages<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="17" height="17" viewBox="0 0 17 17"></svg>
 <g>
 </g>
-	<path d="M16.354 5.075l-7.855 7.854-7.853-7.854 0.707-0.707 7.145 7.146 7.148-7.147 0.708 0.708z" fill="#000000" />
-</svg>
-</a>
+	<path d="M16.354 5.075l-7.855 7.854-7.853-7.854 0.707-0.707 7.145 7.146 7.148-7.147 0.708 0.708z" fill="#000000">
+</path></a>
 <ul>
-	<li id="menu-item-26"><a href="https://demo.woostify.com/bakery/about-us/">About Us</a></li>
-	<li id="menu-item-1513"><a href="https://demo.woostify.com/bakery/faq/">Faq</a></li>
+ 	<li id="menu-item-26"><a href="https://demo.woostify.com/bakery/about-us/">About Us</a></li>
+ 	<li id="menu-item-1513"><a href="https://demo.woostify.com/bakery/faq/">Faq</a></li>
 </ul>
 </li>
-<li id="menu-item-28"><a href="https://demo.woostify.com/bakery/blog/">Blog</a></li>
-<li id="menu-item-27"><a href="https://demo.woostify.com/bakery/contact-us/">Contact Us</a></li>
-</ul>				</nav>
-			<ul>
-							<li><a href="https://demo.woostify.com/bakery/my-account/">Dashboard</a></li>
-			<li>
-				<a href="https://demo.woostify.com/bakery/wp-login.php?action=logout&#038;redirect_to=https%3A%2F%2Fdemo.woostify.com%2Fbakery%2Fmy-account%2F&#038;_wpnonce=8c2f8c3af3">Logout</a>
-			</li>
-						</ul>
-				<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="17" height="17" viewBox="0 0 17 17">
+ 	<li id="menu-item-28"><a href="https://demo.woostify.com/bakery/blog/">Blog</a></li>
+ 	<li id="menu-item-27"><a href="https://demo.woostify.com/bakery/contact-us/">Contact Us</a></li>
+</ul>
+</nav>
+<ul>
+ 	<li><a href="https://demo.woostify.com/bakery/my-account/">Dashboard</a></li>
+ 	<li>
+				<a href="https://demo.woostify.com/bakery/wp-login.php?action=logout&amp;redirect_to=https%3A%2F%2Fdemo.woostify.com%2Fbakery%2Fmy-account%2F&amp;_wpnonce=8c2f8c3af3">Logout</a></li>
+</ul>
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="17" height="17" viewBox="0 0 17 17"></svg>
 <g>
 </g>
-	<path d="M16.604 15.868l-5.173-5.173c0.975-1.137 1.569-2.611 1.569-4.223 0-3.584-2.916-6.5-6.5-6.5-1.736 0-3.369 0.676-4.598 1.903-1.227 1.228-1.903 2.861-1.902 4.597 0 3.584 2.916 6.5 6.5 6.5 1.612 0 3.087-0.594 4.224-1.569l5.173 5.173 0.707-0.708zM6.5 11.972c-3.032 0-5.5-2.467-5.5-5.5-0.001-1.47 0.571-2.851 1.61-3.889 1.038-1.039 2.42-1.611 3.89-1.611 3.032 0 5.5 2.467 5.5 5.5 0 3.032-2.468 5.5-5.5 5.5z" fill="#000000" />
-</svg>
-			<a href="#">
-				<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="17" height="17" viewBox="0 0 17 17">
+	<path d="M16.604 15.868l-5.173-5.173c0.975-1.137 1.569-2.611 1.569-4.223 0-3.584-2.916-6.5-6.5-6.5-1.736 0-3.369 0.676-4.598 1.903-1.227 1.228-1.903 2.861-1.902 4.597 0 3.584 2.916 6.5 6.5 6.5 1.612 0 3.087-0.594 4.224-1.569l5.173 5.173 0.707-0.708zM6.5 11.972c-3.032 0-5.5-2.467-5.5-5.5-0.001-1.47 0.571-2.851 1.61-3.889 1.038-1.039 2.42-1.611 3.89-1.611 3.032 0 5.5 2.467 5.5 5.5 0 3.032-2.468 5.5-5.5 5.5z" fill="#000000">
+</path>
+
+<a href="#">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="17" height="17" viewBox="0 0 17 17"></svg>
 <g>
 </g>
-	<path d="M17 16.488c-0.063-2.687-2.778-4.999-6.521-5.609v-1.374c0.492-0.473 0.842-1.207 1.071-1.833 0.332-0.166 0.624-0.536 0.794-1.033 0.238-0.688 0.146-1.323-0.206-1.629 0.028-0.238 0.046-0.481 0.015-0.723-0.079-0.663 0.065-1.038 0.194-1.368 0.106-0.277 0.229-0.591 0.106-0.945-0.442-1.273-1.727-1.974-3.618-1.974l-0.264 0.005c-1.313 0.047-1.707 0.6-1.971 1.115-0.033 0.062-0.077 0.146-0.077 0.151-1.712 0.153-1.697 1.569-1.684 2.707l0.003 0.369c0 0.205 0.009 0.419 0.026 0.639-0.425 0.3-0.504 1.005-0.179 1.737 0.185 0.415 0.452 0.729 0.749 0.892 0.243 0.674 0.625 1.47 1.179 1.965v1.283c-3.798 0.589-6.554 2.907-6.617 5.625l-0.012 0.512h17.023l-0.011-0.512zM1.054 16c0.392-2.094 2.859-3.821 6.122-4.204l0.441-0.052v-2.666l-0.216-0.15c-0.393-0.272-0.791-0.947-1.090-1.851l-0.083-0.281-0.294-0.051c-0.053-0.019-0.208-0.153-0.33-0.428-0.075-0.168-0.104-0.312-0.112-0.415l0.51 0.143-0.096-0.749c-0.042-0.33-0.064-0.651-0.064-0.95l-0.003-0.38c-0.015-1.341 0.051-1.634 0.773-1.699 0.545-0.048 0.752-0.449 0.876-0.689 0.15-0.292 0.28-0.543 1.12-0.574l0.227-0.004c0.829 0 2.279 0.169 2.669 1.282 0 0.043-0.052 0.177-0.090 0.275-0.145 0.374-0.364 0.939-0.254 1.853 0.024 0.188-0.007 0.424-0.040 0.675l-0.089 0.805 0.441-0.048c0.008 0.104-0.004 0.269-0.075 0.472-0.097 0.289-0.242 0.438-0.237 0.454h-0.36l-0.114 0.342c-0.283 0.853-0.65 1.497-1.009 1.768l-0.198 0.15v2.726l0.438 0.055c3.211 0.401 5.641 2.123 6.030 4.192h-14.893z" fill="#000000" />
-</svg>
-			</a>
-							<li>
-								<a href="https://demo.woostify.com/bakery/wp-login.php?action=logout&#038;redirect_to=https%3A%2F%2Fdemo.woostify.com%2Fbakery%2Fmy-account%2F&#038;_wpnonce=8c2f8c3af3">Logout</a>
-							</li>
-			<a href="https://demo.woostify.com/bakery/wishlist/">
-				<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="17" height="17" viewBox="0 0 17 17">
+	<path d="M17 16.488c-0.063-2.687-2.778-4.999-6.521-5.609v-1.374c0.492-0.473 0.842-1.207 1.071-1.833 0.332-0.166 0.624-0.536 0.794-1.033 0.238-0.688 0.146-1.323-0.206-1.629 0.028-0.238 0.046-0.481 0.015-0.723-0.079-0.663 0.065-1.038 0.194-1.368 0.106-0.277 0.229-0.591 0.106-0.945-0.442-1.273-1.727-1.974-3.618-1.974l-0.264 0.005c-1.313 0.047-1.707 0.6-1.971 1.115-0.033 0.062-0.077 0.146-0.077 0.151-1.712 0.153-1.697 1.569-1.684 2.707l0.003 0.369c0 0.205 0.009 0.419 0.026 0.639-0.425 0.3-0.504 1.005-0.179 1.737 0.185 0.415 0.452 0.729 0.749 0.892 0.243 0.674 0.625 1.47 1.179 1.965v1.283c-3.798 0.589-6.554 2.907-6.617 5.625l-0.012 0.512h17.023l-0.011-0.512zM1.054 16c0.392-2.094 2.859-3.821 6.122-4.204l0.441-0.052v-2.666l-0.216-0.15c-0.393-0.272-0.791-0.947-1.090-1.851l-0.083-0.281-0.294-0.051c-0.053-0.019-0.208-0.153-0.33-0.428-0.075-0.168-0.104-0.312-0.112-0.415l0.51 0.143-0.096-0.749c-0.042-0.33-0.064-0.651-0.064-0.95l-0.003-0.38c-0.015-1.341 0.051-1.634 0.773-1.699 0.545-0.048 0.752-0.449 0.876-0.689 0.15-0.292 0.28-0.543 1.12-0.574l0.227-0.004c0.829 0 2.279 0.169 2.669 1.282 0 0.043-0.052 0.177-0.090 0.275-0.145 0.374-0.364 0.939-0.254 1.853 0.024 0.188-0.007 0.424-0.040 0.675l-0.089 0.805 0.441-0.048c0.008 0.104-0.004 0.269-0.075 0.472-0.097 0.289-0.242 0.438-0.237 0.454h-0.36l-0.114 0.342c-0.283 0.853-0.65 1.497-1.009 1.768l-0.198 0.15v2.726l0.438 0.055c3.211 0.401 5.641 2.123 6.030 4.192h-14.893z" fill="#000000">
+</path></a>
+ 	<li>
+								<a href="https://demo.woostify.com/bakery/wp-login.php?action=logout&amp;redirect_to=https%3A%2F%2Fdemo.woostify.com%2Fbakery%2Fmy-account%2F&amp;_wpnonce=8c2f8c3af3">Logout</a></li>
+<a href="https://demo.woostify.com/bakery/wishlist/">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="17" height="17" viewBox="0 0 17 17"></svg>
 <g>
 </g>
-	<path d="M12.5 0.658c-1.739 0-3.251 0.992-4 2.439-0.749-1.447-2.261-2.439-4-2.439-2.481 0-4.5 2.019-4.5 4.5 0 0.343 0.048 0.699 0.154 1.118l0.109 0.351c1.432 4.354 7.659 9.393 7.924 9.604l0.313 0.252 0.313-0.252c0.282-0.227 6.926-5.598 7.927-9.614l0.112-0.368c0.101-0.402 0.148-0.749 0.148-1.091 0-2.481-2.019-4.5-4.5-4.5zM15.889 5.98l-0.113 0.37c-0.809 3.246-5.946 7.727-7.276 8.843-1.282-1.083-6.122-5.337-7.285-8.872l-0.1-0.316c-0.077-0.311-0.115-0.588-0.115-0.847 0-1.93 1.57-3.5 3.5-3.5s3.5 1.571 3.5 3.5v0.252h1v-0.252c0-1.93 1.57-3.5 3.5-3.5s3.5 1.57 3.5 3.5c0 0.258-0.038 0.527-0.111 0.822z" fill="#000000" />
-</svg>
-				0
-			</a>
-						<a href="https://demo.woostify.com/bakery/cart/">
-				<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="17" height="17" viewBox="0 0 17 17">
+	<path d="M12.5 0.658c-1.739 0-3.251 0.992-4 2.439-0.749-1.447-2.261-2.439-4-2.439-2.481 0-4.5 2.019-4.5 4.5 0 0.343 0.048 0.699 0.154 1.118l0.109 0.351c1.432 4.354 7.659 9.393 7.924 9.604l0.313 0.252 0.313-0.252c0.282-0.227 6.926-5.598 7.927-9.614l0.112-0.368c0.101-0.402 0.148-0.749 0.148-1.091 0-2.481-2.019-4.5-4.5-4.5zM15.889 5.98l-0.113 0.37c-0.809 3.246-5.946 7.727-7.276 8.843-1.282-1.083-6.122-5.337-7.285-8.872l-0.1-0.316c-0.077-0.311-0.115-0.588-0.115-0.847 0-1.93 1.57-3.5 3.5-3.5s3.5 1.571 3.5 3.5v0.252h1v-0.252c0-1.93 1.57-3.5 3.5-3.5s3.5 1.57 3.5 3.5c0 0.258-0.038 0.527-0.111 0.822z" fill="#000000">
+</path></a>
+
+<a href="https://demo.woostify.com/bakery/wishlist/">0
+</a>
+<a href="https://demo.woostify.com/bakery/cart/">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="17" height="17" viewBox="0 0 17 17"></svg>
 <g>
 </g>
-	<path d="M2.75 12.5c-0.965 0-1.75 0.785-1.75 1.75s0.785 1.75 1.75 1.75 1.75-0.785 1.75-1.75-0.785-1.75-1.75-1.75zM2.75 15c-0.414 0-0.75-0.337-0.75-0.75s0.336-0.75 0.75-0.75 0.75 0.337 0.75 0.75-0.336 0.75-0.75 0.75zM11.25 12.5c-0.965 0-1.75 0.785-1.75 1.75s0.785 1.75 1.75 1.75 1.75-0.785 1.75-1.75-0.785-1.75-1.75-1.75zM11.25 15c-0.414 0-0.75-0.337-0.75-0.75s0.336-0.75 0.75-0.75 0.75 0.337 0.75 0.75-0.336 0.75-0.75 0.75zM13.371 2l-0.302 2h-13.143l1.118 8.036h11.913l1.038-7.463 0.236-1.573h2.769v-1h-3.629zM12.926 5l-0.139 1h-11.574l-0.139-1h11.852zM1.914 11.036l-0.561-4.036h11.295l-0.561 4.036h-10.173z" fill="#000000" />
-</svg>
-				1
-			</a>
-					<bdi>&#36;11.50</bdi>]]></content:encoded>
+	<path d="M2.75 12.5c-0.965 0-1.75 0.785-1.75 1.75s0.785 1.75 1.75 1.75 1.75-0.785 1.75-1.75-0.785-1.75-1.75-1.75zM2.75 15c-0.414 0-0.75-0.337-0.75-0.75s0.336-0.75 0.75-0.75 0.75 0.337 0.75 0.75-0.336 0.75-0.75 0.75zM11.25 12.5c-0.965 0-1.75 0.785-1.75 1.75s0.785 1.75 1.75 1.75 1.75-0.785 1.75-1.75-0.785-1.75-1.75-1.75zM11.25 15c-0.414 0-0.75-0.337-0.75-0.75s0.336-0.75 0.75-0.75 0.75 0.337 0.75 0.75-0.336 0.75-0.75 0.75zM13.371 2l-0.302 2h-13.143l1.118 8.036h11.913l1.038-7.463 0.236-1.573h2.769v-1h-3.629zM12.926 5l-0.139 1h-11.574l-0.139-1h11.852zM1.914 11.036l-0.561-4.036h11.295l-0.561 4.036h-10.173z" fill="#000000">
+</path></a>
+
+<a href="https://demo.woostify.com/bakery/cart/">1
+</a>
+<bdi>$11.50</bdi>
+
+</path></form>]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>714</wp:post_id>
 		<wp:post_date><![CDATA[2023-07-06 10:01:07]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2023-07-06 10:01:07]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2023-07-21 08:46:52]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2023-07-21 08:46:52]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2023-07-24 04:36:06]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-07-24 04:36:06]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[header]]></wp:post_name>
@@ -2756,18 +2768,6 @@ All Rights Reserved © 2023 <a href="#" style="color:#d81600">Kalles</a> store -
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[woostify-header-template-display-on]]></wp:meta_key>
 		<wp:meta_value><![CDATA[all]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[woostify-header-template-not-display-on]]></wp:meta_key>
-		<wp:meta_value><![CDATA[page]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[woostify-header-template-ex-post-ids]]></wp:meta_key>
-		<wp:meta_value><![CDATA[13]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[woostify-header-template-ex-post-type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[page]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_elementor_edit_mode]]></wp:meta_key>
@@ -4091,8 +4091,8 @@ Quick View
 		<wp:post_id>13</wp:post_id>
 		<wp:post_date><![CDATA[2023-07-04 07:36:25]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2023-07-04 07:36:25]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2023-07-21 08:47:53]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2023-07-21 08:47:53]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2023-07-24 08:45:47]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-07-24 08:45:47]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[home]]></wp:post_name>
@@ -4463,10 +4463,10 @@ Quick View
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>26</wp:post_id>
-		<wp:post_date><![CDATA[2023-07-20 06:56:24]]></wp:post_date>
+		<wp:post_date><![CDATA[2023-07-24 08:46:03]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2023-07-04 07:51:07]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2023-07-20 06:56:24]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2023-07-20 06:56:24]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2023-07-24 08:46:03]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-07-24 08:46:03]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[26]]></wp:post_name>
@@ -4521,6 +4521,10 @@ Quick View
 		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2023-07-17]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2023-07-20]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[]]></title>
@@ -4532,10 +4536,10 @@ Quick View
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>27</wp:post_id>
-		<wp:post_date><![CDATA[2023-07-20 06:56:24]]></wp:post_date>
+		<wp:post_date><![CDATA[2023-07-24 08:46:03]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2023-07-04 07:51:07]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2023-07-20 06:56:24]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2023-07-20 06:56:24]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2023-07-24 08:46:03]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-07-24 08:46:03]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[27]]></wp:post_name>
@@ -4590,6 +4594,10 @@ Quick View
 		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2023-07-17]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2023-07-20]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[]]></title>
@@ -4601,10 +4609,10 @@ Quick View
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>28</wp:post_id>
-		<wp:post_date><![CDATA[2023-07-20 06:56:24]]></wp:post_date>
+		<wp:post_date><![CDATA[2023-07-24 08:46:03]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2023-07-04 07:51:07]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2023-07-20 06:56:24]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2023-07-20 06:56:24]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2023-07-24 08:46:03]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-07-24 08:46:03]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[28]]></wp:post_name>
@@ -4658,6 +4666,10 @@ Quick View
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2023-07-17]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2023-07-20]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -4733,10 +4745,10 @@ Quick View
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>1466</wp:post_id>
-		<wp:post_date><![CDATA[2023-07-20 06:56:24]]></wp:post_date>
+		<wp:post_date><![CDATA[2023-07-24 08:46:03]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2023-07-13 09:27:56]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2023-07-20 06:56:24]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2023-07-20 06:56:24]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2023-07-24 08:46:03]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-07-24 08:46:03]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[1466]]></wp:post_name>
@@ -4787,6 +4799,10 @@ Quick View
 		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2023-07-17]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2023-07-20]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[]]></title>
@@ -4798,10 +4814,10 @@ Quick View
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>1467</wp:post_id>
-		<wp:post_date><![CDATA[2023-07-20 06:56:24]]></wp:post_date>
+		<wp:post_date><![CDATA[2023-07-24 08:46:03]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2023-07-13 09:27:56]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2023-07-20 06:56:24]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2023-07-20 06:56:24]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2023-07-24 08:46:03]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-07-24 08:46:03]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[1467]]></wp:post_name>
@@ -4852,6 +4868,10 @@ Quick View
 		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2023-07-17]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2023-07-20]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[]]></title>
@@ -4863,10 +4883,10 @@ Quick View
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>1468</wp:post_id>
-		<wp:post_date><![CDATA[2023-07-20 06:56:24]]></wp:post_date>
+		<wp:post_date><![CDATA[2023-07-24 08:46:03]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2023-07-13 09:27:56]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2023-07-20 06:56:24]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2023-07-20 06:56:24]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2023-07-24 08:46:03]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-07-24 08:46:03]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[1468]]></wp:post_name>
@@ -4916,6 +4936,10 @@ Quick View
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2023-07-17]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2023-07-20]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -5040,10 +5064,10 @@ Quick View
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>1513</wp:post_id>
-		<wp:post_date><![CDATA[2023-07-20 06:56:24]]></wp:post_date>
+		<wp:post_date><![CDATA[2023-07-24 08:46:03]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2023-07-17 08:30:01]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2023-07-20 06:56:24]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2023-07-20 06:56:24]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2023-07-24 08:46:03]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-07-24 08:46:03]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[1513]]></wp:post_name>
@@ -5089,6 +5113,10 @@ Quick View
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2023-07-17]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2023-07-20]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>

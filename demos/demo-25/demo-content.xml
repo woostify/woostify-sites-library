@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/6.2.2" created="2023-07-21 09:01" -->
+	<!-- generator="WordPress/6.2.2" created="2023-07-24 10:48" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
 	<title>Bag</title>
 	<link>https://demo.woostify.com/bag</link>
 	<description>Just another Woostify Pro Demo Sites site</description>
-	<pubDate>Fri, 21 Jul 2023 09:01:03 +0000</pubDate>
+	<pubDate>Mon, 24 Jul 2023 10:48:50 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>https://demo.woostify.com/</wp:base_site_url>
@@ -6773,8 +6773,8 @@ Hanging internal pockets for small tech and accessories, Padded straps and back 
 		<wp:post_id>27</wp:post_id>
 		<wp:post_date><![CDATA[2023-07-11 08:24:15]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2023-07-11 08:24:15]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2023-07-13 10:19:13]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2023-07-13 10:19:13]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2023-07-24 10:48:21]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-07-24 10:48:21]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[crumpler-rooftop-resume]]></wp:post_name>
@@ -6805,7 +6805,7 @@ Hanging internal pockets for small tech and accessories, Padded straps and back 
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_regular_price]]></wp:meta_key>
-		<wp:meta_value><![CDATA[4535000]]></wp:meta_value>
+		<wp:meta_value><![CDATA[191.55]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[total_sales]]></wp:meta_key>
@@ -6869,7 +6869,7 @@ Hanging internal pockets for small tech and accessories, Padded straps and back 
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_price]]></wp:meta_key>
-		<wp:meta_value><![CDATA[4535000]]></wp:meta_value>
+		<wp:meta_value><![CDATA[191.55]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_product_image_gallery]]></wp:meta_key>
@@ -6903,8 +6903,8 @@ Hanging internal pockets for small tech and accessories, Padded straps and back 
 		<wp:post_id>31</wp:post_id>
 		<wp:post_date><![CDATA[2023-07-11 08:48:18]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2023-07-11 08:48:18]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2023-07-13 10:21:00]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2023-07-13 10:21:00]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2023-07-24 10:48:02]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-07-24 10:48:02]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[tactical-bags]]></wp:post_name>
@@ -6991,18 +6991,6 @@ Hanging internal pockets for small tech and accessories, Padded straps and back 
 		<wp:meta_value><![CDATA[7.7.1]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_price]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1224000]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_price]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1320000]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_price]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1368000]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[woostify_product_video_metabox]]></wp:meta_key>
 		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
@@ -7013,6 +7001,18 @@ Hanging internal pockets for small tech and accessories, Padded straps and back 
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_product_image_gallery]]></wp:meta_key>
 		<wp:meta_value><![CDATA[38,39,36]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_price]]></wp:meta_key>
+		<wp:meta_value><![CDATA[51.70]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_price]]></wp:meta_key>
+		<wp:meta_value><![CDATA[55.75]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_price]]></wp:meta_key>
+		<wp:meta_value><![CDATA[57.78]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -7034,8 +7034,8 @@ Hanging internal pockets for small tech and accessories, Padded straps and back 
 		<wp:post_id>40</wp:post_id>
 		<wp:post_date><![CDATA[2023-07-11 08:56:17]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2023-07-11 08:56:17]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2023-07-13 10:21:31]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2023-07-13 10:21:31]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2023-07-24 10:47:12]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-07-24 10:47:12]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[crumpler-the-drewbob-200]]></wp:post_name>
@@ -7065,7 +7065,7 @@ Hanging internal pockets for small tech and accessories, Padded straps and back 
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_regular_price]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1896000]]></wp:meta_value>
+		<wp:meta_value><![CDATA[80.08]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[total_sales]]></wp:meta_key>
@@ -7129,7 +7129,7 @@ Hanging internal pockets for small tech and accessories, Padded straps and back 
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_price]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1896000]]></wp:meta_value>
+		<wp:meta_value><![CDATA[80.08]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_product_image_gallery]]></wp:meta_key>
@@ -7163,8 +7163,8 @@ Hanging internal pockets for small tech and accessories, Padded straps and back 
 		<wp:post_id>43</wp:post_id>
 		<wp:post_date><![CDATA[2023-07-11 09:01:40]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2023-07-11 09:01:40]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2023-07-13 10:21:55]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2023-07-13 10:21:55]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2023-07-24 10:46:45]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-07-24 10:46:45]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[crumpler-big-breakfast-tote]]></wp:post_name>
@@ -7195,7 +7195,7 @@ Hanging internal pockets for small tech and accessories, Padded straps and back 
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_regular_price]]></wp:meta_key>
-		<wp:meta_value><![CDATA[4775000]]></wp:meta_value>
+		<wp:meta_value><![CDATA[201.69]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[total_sales]]></wp:meta_key>
@@ -7259,7 +7259,7 @@ Hanging internal pockets for small tech and accessories, Padded straps and back 
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_price]]></wp:meta_key>
-		<wp:meta_value><![CDATA[4775000]]></wp:meta_value>
+		<wp:meta_value><![CDATA[201.69]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_product_image_gallery]]></wp:meta_key>
@@ -7293,8 +7293,8 @@ Hanging internal pockets for small tech and accessories, Padded straps and back 
 		<wp:post_id>47</wp:post_id>
 		<wp:post_date><![CDATA[2023-07-11 09:06:25]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2023-07-11 09:06:25]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2023-07-13 10:22:18]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2023-07-13 10:22:18]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2023-07-24 10:46:07]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-07-24 10:46:07]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[welterweight-citizen-backpack]]></wp:post_name>
@@ -7321,7 +7321,7 @@ Hanging internal pockets for small tech and accessories, Padded straps and back 
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_regular_price]]></wp:meta_key>
-		<wp:meta_value><![CDATA[5087000]]></wp:meta_value>
+		<wp:meta_value><![CDATA[214.87]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[total_sales]]></wp:meta_key>
@@ -7385,7 +7385,7 @@ Hanging internal pockets for small tech and accessories, Padded straps and back 
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_price]]></wp:meta_key>
-		<wp:meta_value><![CDATA[5087000]]></wp:meta_value>
+		<wp:meta_value><![CDATA[214.87]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_product_image_gallery]]></wp:meta_key>
@@ -7419,8 +7419,8 @@ Hanging internal pockets for small tech and accessories, Padded straps and back 
 		<wp:post_id>50</wp:post_id>
 		<wp:post_date><![CDATA[2023-07-11 09:11:44]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2023-07-11 09:11:44]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2023-07-13 10:22:41]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2023-07-13 10:22:41]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2023-07-24 10:45:50]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-07-24 10:45:50]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[timbuk-authority-backpack]]></wp:post_name>
@@ -7443,7 +7443,7 @@ Hanging internal pockets for small tech and accessories, Padded straps and back 
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_regular_price]]></wp:meta_key>
-		<wp:meta_value><![CDATA[4919000]]></wp:meta_value>
+		<wp:meta_value><![CDATA[207.77]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[total_sales]]></wp:meta_key>
@@ -7507,7 +7507,7 @@ Hanging internal pockets for small tech and accessories, Padded straps and back 
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_price]]></wp:meta_key>
-		<wp:meta_value><![CDATA[4919000]]></wp:meta_value>
+		<wp:meta_value><![CDATA[207.77]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_product_image_gallery]]></wp:meta_key>
@@ -7541,8 +7541,8 @@ Hanging internal pockets for small tech and accessories, Padded straps and back 
 		<wp:post_id>53</wp:post_id>
 		<wp:post_date><![CDATA[2023-07-11 09:19:41]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2023-07-11 09:19:41]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2023-07-13 10:23:05]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2023-07-13 10:23:05]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2023-07-24 10:45:30]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-07-24 10:45:30]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[antihero-fortnight-backpack]]></wp:post_name>
@@ -7571,7 +7571,7 @@ Hanging internal pockets for small tech and accessories, Padded straps and back 
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_regular_price]]></wp:meta_key>
-		<wp:meta_value><![CDATA[3096000]]></wp:meta_value>
+		<wp:meta_value><![CDATA[130.77]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[total_sales]]></wp:meta_key>
@@ -7635,7 +7635,7 @@ Hanging internal pockets for small tech and accessories, Padded straps and back 
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_price]]></wp:meta_key>
-		<wp:meta_value><![CDATA[3096000]]></wp:meta_value>
+		<wp:meta_value><![CDATA[130.77]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_product_image_gallery]]></wp:meta_key>
@@ -7670,8 +7670,8 @@ Design inspiration lorem ipsum dolor sit amet, consectetuer adipiscing elit. Mor
 		<wp:post_id>57</wp:post_id>
 		<wp:post_date><![CDATA[2023-07-11 09:31:58]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2023-07-11 09:31:58]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2023-07-20 04:51:37]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2023-07-20 04:51:37]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2023-07-24 10:45:13]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-07-24 10:45:13]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[crosshatch-backpack]]></wp:post_name>
@@ -7698,7 +7698,7 @@ Design inspiration lorem ipsum dolor sit amet, consectetuer adipiscing elit. Mor
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_regular_price]]></wp:meta_key>
-		<wp:meta_value><![CDATA[720000]]></wp:meta_value>
+		<wp:meta_value><![CDATA[30.41]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[total_sales]]></wp:meta_key>
@@ -7762,7 +7762,7 @@ Design inspiration lorem ipsum dolor sit amet, consectetuer adipiscing elit. Mor
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_price]]></wp:meta_key>
-		<wp:meta_value><![CDATA[720000]]></wp:meta_value>
+		<wp:meta_value><![CDATA[30.41]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_product_image_gallery]]></wp:meta_key>
@@ -7800,8 +7800,8 @@ Hanging internal pockets for small tech and accessories, Padded straps and back 
 		<wp:post_id>62</wp:post_id>
 		<wp:post_date><![CDATA[2023-07-11 09:36:43]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2023-07-11 09:36:43]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2023-07-13 10:23:38]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2023-07-13 10:23:38]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2023-07-24 10:44:54]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-07-24 10:44:54]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[versatile-laptop-work-bag]]></wp:post_name>
@@ -7824,7 +7824,7 @@ Hanging internal pockets for small tech and accessories, Padded straps and back 
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_regular_price]]></wp:meta_key>
-		<wp:meta_value><![CDATA[4439000]]></wp:meta_value>
+		<wp:meta_value><![CDATA[187.50]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[total_sales]]></wp:meta_key>
@@ -7888,7 +7888,7 @@ Hanging internal pockets for small tech and accessories, Padded straps and back 
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_price]]></wp:meta_key>
-		<wp:meta_value><![CDATA[4439000]]></wp:meta_value>
+		<wp:meta_value><![CDATA[187.50]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_product_image_gallery]]></wp:meta_key>
@@ -7922,8 +7922,8 @@ Hanging internal pockets for small tech and accessories, Padded straps and back 
 		<wp:post_id>65</wp:post_id>
 		<wp:post_date><![CDATA[2023-07-11 09:41:00]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2023-07-11 09:41:00]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2023-07-13 10:23:55]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2023-07-13 10:23:55]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2023-07-24 10:44:36]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-07-24 10:44:36]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[tim-rogue-laptop-backpack]]></wp:post_name>
@@ -7946,7 +7946,7 @@ Hanging internal pockets for small tech and accessories, Padded straps and back 
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_regular_price]]></wp:meta_key>
-		<wp:meta_value><![CDATA[4535000]]></wp:meta_value>
+		<wp:meta_value><![CDATA[191.55]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[total_sales]]></wp:meta_key>
@@ -8010,7 +8010,7 @@ Hanging internal pockets for small tech and accessories, Padded straps and back 
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_price]]></wp:meta_key>
-		<wp:meta_value><![CDATA[4535000]]></wp:meta_value>
+		<wp:meta_value><![CDATA[191.55]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_product_image_gallery]]></wp:meta_key>
@@ -8044,8 +8044,8 @@ Hanging internal pockets for small tech and accessories, Padded straps and back 
 		<wp:post_id>68</wp:post_id>
 		<wp:post_date><![CDATA[2023-07-11 09:49:33]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2023-07-11 09:49:33]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2023-07-13 10:24:14]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2023-07-13 10:24:14]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2023-07-24 10:44:20]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-07-24 10:44:20]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[little-america-herschel-supy]]></wp:post_name>
@@ -8072,7 +8072,7 @@ Hanging internal pockets for small tech and accessories, Padded straps and back 
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_regular_price]]></wp:meta_key>
-		<wp:meta_value><![CDATA[5639000]]></wp:meta_value>
+		<wp:meta_value><![CDATA[238.18]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[total_sales]]></wp:meta_key>
@@ -8136,7 +8136,7 @@ Hanging internal pockets for small tech and accessories, Padded straps and back 
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_price]]></wp:meta_key>
-		<wp:meta_value><![CDATA[5639000]]></wp:meta_value>
+		<wp:meta_value><![CDATA[238.18]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_product_image_gallery]]></wp:meta_key>
@@ -8170,8 +8170,8 @@ Hanging internal pockets for small tech and accessories, Padded straps and back 
 		<wp:post_id>75</wp:post_id>
 		<wp:post_date><![CDATA[2023-07-11 09:55:23]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2023-07-11 09:55:23]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2023-07-13 10:24:37]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2023-07-13 10:24:37]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2023-07-24 10:43:58]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-07-24 10:43:58]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[crumpler-the-algorith-backpack]]></wp:post_name>
@@ -8200,7 +8200,7 @@ Hanging internal pockets for small tech and accessories, Padded straps and back 
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_regular_price]]></wp:meta_key>
-		<wp:meta_value><![CDATA[3815000]]></wp:meta_value>
+		<wp:meta_value><![CDATA[161.14]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[total_sales]]></wp:meta_key>
@@ -8264,7 +8264,7 @@ Hanging internal pockets for small tech and accessories, Padded straps and back 
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_price]]></wp:meta_key>
-		<wp:meta_value><![CDATA[3815000]]></wp:meta_value>
+		<wp:meta_value><![CDATA[161.14]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_product_image_gallery]]></wp:meta_key>
@@ -8298,8 +8298,8 @@ Hanging internal pockets for small tech and accessories, Padded straps and back 
 		<wp:post_id>78</wp:post_id>
 		<wp:post_date><![CDATA[2023-07-11 09:59:52]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2023-07-11 09:59:52]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2023-07-13 10:24:55]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2023-07-13 10:24:55]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2023-07-24 10:43:37]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-07-24 10:43:37]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[nebula-violet-backpack]]></wp:post_name>
@@ -8326,7 +8326,7 @@ Hanging internal pockets for small tech and accessories, Padded straps and back 
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_regular_price]]></wp:meta_key>
-		<wp:meta_value><![CDATA[5639000]]></wp:meta_value>
+		<wp:meta_value><![CDATA[238.18]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[total_sales]]></wp:meta_key>
@@ -8390,7 +8390,7 @@ Hanging internal pockets for small tech and accessories, Padded straps and back 
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_price]]></wp:meta_key>
-		<wp:meta_value><![CDATA[5639000]]></wp:meta_value>
+		<wp:meta_value><![CDATA[238.18]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_product_image_gallery]]></wp:meta_key>
@@ -9450,8 +9450,8 @@ Hanging internal pockets for small tech and accessories, Padded straps and back 
 		<wp:post_id>32</wp:post_id>
 		<wp:post_date><![CDATA[2023-07-11 08:32:40]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2023-07-11 08:32:40]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2023-07-11 08:45:01]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2023-07-11 08:45:01]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2023-07-24 10:47:59]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-07-24 10:47:59]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[tactical-bags-blue]]></wp:post_name>
@@ -9535,7 +9535,7 @@ Hanging internal pockets for small tech and accessories, Padded straps and back 
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_regular_price]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1320000]]></wp:meta_value>
+		<wp:meta_value><![CDATA[55.75]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
@@ -9543,7 +9543,7 @@ Hanging internal pockets for small tech and accessories, Padded straps and back 
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_price]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1320000]]></wp:meta_value>
+		<wp:meta_value><![CDATA[55.75]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -9558,8 +9558,8 @@ Hanging internal pockets for small tech and accessories, Padded straps and back 
 		<wp:post_id>33</wp:post_id>
 		<wp:post_date><![CDATA[2023-07-11 08:32:40]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2023-07-11 08:32:40]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2023-07-11 08:45:01]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2023-07-11 08:45:01]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2023-07-24 10:47:59]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-07-24 10:47:59]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[tactical-bags-green]]></wp:post_name>
@@ -9643,7 +9643,7 @@ Hanging internal pockets for small tech and accessories, Padded straps and back 
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_regular_price]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1224000]]></wp:meta_value>
+		<wp:meta_value><![CDATA[51.70]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
@@ -9651,7 +9651,7 @@ Hanging internal pockets for small tech and accessories, Padded straps and back 
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_price]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1224000]]></wp:meta_value>
+		<wp:meta_value><![CDATA[51.70]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -9666,8 +9666,8 @@ Hanging internal pockets for small tech and accessories, Padded straps and back 
 		<wp:post_id>34</wp:post_id>
 		<wp:post_date><![CDATA[2023-07-11 08:32:40]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2023-07-11 08:32:40]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2023-07-11 08:45:01]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2023-07-11 08:45:01]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2023-07-24 10:47:59]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-07-24 10:47:59]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[tactical-bags-cyan]]></wp:post_name>
@@ -9751,7 +9751,7 @@ Hanging internal pockets for small tech and accessories, Padded straps and back 
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_regular_price]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1368000]]></wp:meta_value>
+		<wp:meta_value><![CDATA[57.78]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
@@ -9759,7 +9759,7 @@ Hanging internal pockets for small tech and accessories, Padded straps and back 
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_price]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1368000]]></wp:meta_value>
+		<wp:meta_value><![CDATA[57.78]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -9774,8 +9774,8 @@ Hanging internal pockets for small tech and accessories, Padded straps and back 
 		<wp:post_id>35</wp:post_id>
 		<wp:post_date><![CDATA[2023-07-11 08:32:40]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2023-07-11 08:32:40]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2023-07-11 08:45:01]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2023-07-11 08:45:01]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2023-07-24 10:47:59]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-07-24 10:47:59]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[tactical-bags-black]]></wp:post_name>
@@ -9859,7 +9859,7 @@ Hanging internal pockets for small tech and accessories, Padded straps and back 
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_regular_price]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1320000]]></wp:meta_value>
+		<wp:meta_value><![CDATA[55.75]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
@@ -9867,7 +9867,7 @@ Hanging internal pockets for small tech and accessories, Padded straps and back 
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_price]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1320000]]></wp:meta_value>
+		<wp:meta_value><![CDATA[55.75]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
