@@ -1431,7 +1431,10 @@ class Woostify_Sites {
 
 			<?php if ( 1 < count( $demos[0] ) ) : ?>
 				<div class="merlin__demos-wrapper">
-					<p><?php esc_html_e( 'Select which demo data you want to import:', 'woostify-sites-library' ); ?></p>
+					<div class="warning-before-install-demo">
+						<span class="dashicons dashicons-warning"></span>
+						<div class="warning-content">To use the demo, make sure <b>Flexbox Container</b> feature is activated. You can check it <a href="<?php echo esc_url( home_url( '/' ) ); ?>wp-admin/admin.php?page=elementor#tab-experiments" target="blank">here</a></div>
+					</div>
 					<div class="merlin__demos" data-callback="load_demo">
 						<?php foreach ( $demos[0] as $import_file ) : ?>
 							<?php
