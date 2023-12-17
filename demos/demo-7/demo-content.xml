@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/6.0.3" created="2022-11-04 02:20" -->
+	<!-- generator="WordPress/6.2.2" created="2023-06-27 09:54" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
 	<title>Ankle</title>
 	<link>https://demo.woostify.com/ankle</link>
 	<description>Just another Woostify Pro Demo Sites site</description>
-	<pubDate>Fri, 04 Nov 2022 02:20:20 +0000</pubDate>
+	<pubDate>Tue, 27 Jun 2023 09:54:41 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>https://demo.woostify.com/</wp:base_site_url>
@@ -93,33 +93,6 @@
 		</wp:termmeta>
 	</wp:term>
 		<wp:term>
-		<wp:term_id>19</wp:term_id>
-		<wp:term_taxonomy><![CDATA[product_cat]]></wp:term_taxonomy>
-		<wp:term_slug><![CDATA[bags-backpacks]]></wp:term_slug>
-		<wp:term_parent><![CDATA[]]></wp:term_parent>
-		<wp:term_name><![CDATA[Bags &amp; Backpacks]]></wp:term_name>
-		<wp:termmeta>
-			<wp:meta_key><![CDATA[order]]></wp:meta_key>
-			<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:termmeta>
-		<wp:termmeta>
-			<wp:meta_key><![CDATA[order]]></wp:meta_key>
-			<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:termmeta>
-		<wp:termmeta>
-			<wp:meta_key><![CDATA[order]]></wp:meta_key>
-			<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:termmeta>
-		<wp:termmeta>
-			<wp:meta_key><![CDATA[order]]></wp:meta_key>
-			<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:termmeta>
-		<wp:termmeta>
-			<wp:meta_key><![CDATA[product_count_product_cat]]></wp:meta_key>
-			<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:termmeta>
-	</wp:term>
-		<wp:term>
 		<wp:term_id>20</wp:term_id>
 		<wp:term_taxonomy><![CDATA[product_cat]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[bags-backpacks-accessories]]></wp:term_slug>
@@ -144,6 +117,33 @@
 		<wp:termmeta>
 			<wp:meta_key><![CDATA[product_count_product_cat]]></wp:meta_key>
 			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:termmeta>
+	</wp:term>
+		<wp:term>
+		<wp:term_id>19</wp:term_id>
+		<wp:term_taxonomy><![CDATA[product_cat]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[bags-backpacks]]></wp:term_slug>
+		<wp:term_parent><![CDATA[]]></wp:term_parent>
+		<wp:term_name><![CDATA[Bags &amp; Backpacks]]></wp:term_name>
+		<wp:termmeta>
+			<wp:meta_key><![CDATA[order]]></wp:meta_key>
+			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:termmeta>
+		<wp:termmeta>
+			<wp:meta_key><![CDATA[order]]></wp:meta_key>
+			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:termmeta>
+		<wp:termmeta>
+			<wp:meta_key><![CDATA[order]]></wp:meta_key>
+			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:termmeta>
+		<wp:termmeta>
+			<wp:meta_key><![CDATA[order]]></wp:meta_key>
+			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:termmeta>
+		<wp:termmeta>
+			<wp:meta_key><![CDATA[product_count_product_cat]]></wp:meta_key>
+			<wp:meta_value><![CDATA[0]]></wp:meta_value>
 		</wp:termmeta>
 	</wp:term>
 		<wp:term>
@@ -197,33 +197,6 @@
 		</wp:termmeta>
 	</wp:term>
 		<wp:term>
-		<wp:term_id>24</wp:term_id>
-		<wp:term_taxonomy><![CDATA[product_cat]]></wp:term_taxonomy>
-		<wp:term_slug><![CDATA[glasses]]></wp:term_slug>
-		<wp:term_parent><![CDATA[]]></wp:term_parent>
-		<wp:term_name><![CDATA[Glasses]]></wp:term_name>
-		<wp:termmeta>
-			<wp:meta_key><![CDATA[order]]></wp:meta_key>
-			<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:termmeta>
-		<wp:termmeta>
-			<wp:meta_key><![CDATA[order]]></wp:meta_key>
-			<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:termmeta>
-		<wp:termmeta>
-			<wp:meta_key><![CDATA[order]]></wp:meta_key>
-			<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:termmeta>
-		<wp:termmeta>
-			<wp:meta_key><![CDATA[order]]></wp:meta_key>
-			<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:termmeta>
-		<wp:termmeta>
-			<wp:meta_key><![CDATA[product_count_product_cat]]></wp:meta_key>
-			<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:termmeta>
-	</wp:term>
-		<wp:term>
 		<wp:term_id>25</wp:term_id>
 		<wp:term_taxonomy><![CDATA[product_cat]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[glasses-accessories]]></wp:term_slug>
@@ -259,6 +232,33 @@
 		<wp:termmeta>
 			<wp:meta_key><![CDATA[product_count_product_tag]]></wp:meta_key>
 			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:termmeta>
+	</wp:term>
+		<wp:term>
+		<wp:term_id>24</wp:term_id>
+		<wp:term_taxonomy><![CDATA[product_cat]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[glasses]]></wp:term_slug>
+		<wp:term_parent><![CDATA[]]></wp:term_parent>
+		<wp:term_name><![CDATA[Glasses]]></wp:term_name>
+		<wp:termmeta>
+			<wp:meta_key><![CDATA[order]]></wp:meta_key>
+			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:termmeta>
+		<wp:termmeta>
+			<wp:meta_key><![CDATA[order]]></wp:meta_key>
+			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:termmeta>
+		<wp:termmeta>
+			<wp:meta_key><![CDATA[order]]></wp:meta_key>
+			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:termmeta>
+		<wp:termmeta>
+			<wp:meta_key><![CDATA[order]]></wp:meta_key>
+			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:termmeta>
+		<wp:termmeta>
+			<wp:meta_key><![CDATA[product_count_product_cat]]></wp:meta_key>
+			<wp:meta_value><![CDATA[0]]></wp:meta_value>
 		</wp:termmeta>
 	</wp:term>
 		<wp:term>
@@ -528,7 +528,7 @@
 			<wp:term><wp:term_id>40</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug><![CDATA[main-menu]]></wp:term_slug><wp:term_name><![CDATA[main menu]]></wp:term_name>
 </wp:term>
 
-	<generator>https://wordpress.org/?v=6.0.3</generator>
+	<generator>https://wordpress.org/?v=6.2.2</generator>
 
 <image>
 	<url>https://demo.woostify.com/ankle/wp-content/uploads/sites/24/2020/05/favicon.png</url>
@@ -3048,6 +3048,10 @@
 	float: left;
 }
 
+.wpcf7 label {
+	width: 100%;
+}
+
 /* Contact Form 7 Submit Button 
 -------------------------------*/
 
@@ -3069,8 +3073,8 @@
 		<wp:post_id>710</wp:post_id>
 		<wp:post_date><![CDATA[2019-04-11 07:50:39]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-04-11 07:50:39]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2019-04-11 07:50:39]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2019-04-11 07:50:39]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2023-06-16 09:46:25]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-06-16 09:46:25]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[woostify]]></wp:post_name>
@@ -3713,8 +3717,8 @@
 		<wp:post_id>893</wp:post_id>
 		<wp:post_date><![CDATA[2019-08-28 06:39:31]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-08-28 06:39:31]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-11-23 09:58:01]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-11-23 09:58:01]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2023-06-16 09:51:45]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-06-16 09:51:45]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[footer-new]]></wp:post_name>
@@ -3742,7 +3746,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_elementor_version]]></wp:meta_key>
-		<wp:meta_value><![CDATA[3.4.4]]></wp:meta_value>
+		<wp:meta_value><![CDATA[3.13.4]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
@@ -3758,7 +3762,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_elementor_data]]></wp:meta_key>
-		<wp:meta_value><![CDATA[[{"id":"469e9c90","elType":"section","settings":{"structure":"50","padding":{"unit":"px","top":"080","right":"0","bottom":"60","left":"0","isLinked":false}},"elements":[{"id":"3bdc81c1","elType":"column","settings":{"_column_size":20,"_inline_size":22.982},"elements":[{"id":"417b4e13","elType":"widget","settings":{"image":{"url":"https:\/\/woostify.com\/demos\/ankle\/wp-content\/uploads\/2019\/04\/ank-logo.png","id":14},"align":"left"},"elements":[],"widgetType":"image"},{"id":"414b4dab","elType":"widget","settings":{"editor":"<p>An amazing E-Commerce theme for WordPress<\/p>","text_color":"#262626","typography_typography":"custom","typography_font_family":"Work Sans","typography_font_size":{"unit":"px","size":14,"sizes":[]},"typography_line_height":{"unit":"em","size":1.5,"sizes":[]},"_margin":{"unit":"px","top":"0","right":"50","bottom":"0","left":"0","isLinked":false}},"elements":[],"widgetType":"text-editor"},{"id":"4b762ae5","elType":"widget","settings":{"social_icon_list":[{"social":"fa fa-facebook","_id":"ec6e218","link":{"url":"","is_external":"true","nofollow":""},"social_icon":{"value":"fab fa-facebook-f","library":"fa-brands"},"__fa4_migrated":{"social_icon":true}},{"social":"fa fa-twitter","_id":"a5133b4","link":{"url":"","is_external":"true","nofollow":""},"social_icon":{"value":"fab fa-twitter","library":"fa-brands"},"__fa4_migrated":{"social_icon":true}},{"social":"fa fa-google-plus","_id":"ed018d7","link":{"url":"","is_external":"true","nofollow":""},"social_icon":{"value":"fab fa-google-plus-g","library":"fa-brands"},"__fa4_migrated":{"social_icon":true}}],"shape":"circle","align":"left","icon_color":"custom","icon_primary_color":"#a2a2a2","icon_secondary_color":"#ffffff","icon_size":{"unit":"px","size":15,"sizes":[]},"icon_padding":{"unit":"em","size":0.7,"sizes":[]},"hover_primary_color":"#262626"},"elements":[],"widgetType":"social-icons"}],"isInner":false},{"id":"55c2e46b","elType":"column","settings":{"_column_size":20,"_inline_size":17.982},"elements":[{"id":"4f5c3f3a","elType":"widget","settings":{"title":"Company","title_color":"#262626","typography_typography":"custom","typography_font_size":{"unit":"px","size":14,"sizes":[]},"typography_font_weight":"900","typography_font_style":"italic"},"elements":[],"widgetType":"heading"},{"id":"1390e396","elType":"widget","settings":{"editor":"<p><a href=\"#\">About Us<\/a><\/p><p><a href=\"#\">Services<\/a><\/p><p><a href=\"#\">News<\/a><\/p><p><a href=\"#\">Career<\/a><\/p><p><a href=\"#\">Contact<\/a><\/p>","text_color":"#969696","typography_typography":"custom","typography_line_height":{"unit":"em","size":1.5,"sizes":[]}},"elements":[],"widgetType":"text-editor"}],"isInner":false},{"id":"7a55b63","elType":"column","settings":{"_column_size":20,"_inline_size":17.982},"elements":[{"id":"d98f51b","elType":"widget","settings":{"title":"Quick Links","title_color":"#262626","typography_typography":"custom","typography_font_size":{"unit":"px","size":14,"sizes":[]},"typography_font_weight":"900","typography_font_style":"italic"},"elements":[],"widgetType":"heading"},{"id":"2a30aaa","elType":"widget","settings":{"editor":"<p><a href=\"#\">Sitemap<\/a><\/p><p><a href=\"#\">Terms<\/a><\/p><p><a href=\"#\">Privacy Policy<\/a><\/p><p><a href=\"#\">Help<\/a><\/p><p><a href=\"#\">Affiliate<\/a><\/p><p><a href=\"#\">Advertisement<\/a><\/p>","text_color":"#969696","typography_typography":"custom","typography_line_height":{"unit":"em","size":1.5,"sizes":[]}},"elements":[],"widgetType":"text-editor"}],"isInner":false},{"id":"40442bad","elType":"column","settings":{"_column_size":20,"_inline_size":17.982},"elements":[{"id":"54e21ed4","elType":"widget","settings":{"title":"Shop","title_color":"#262626","typography_typography":"custom","typography_font_size":{"unit":"px","size":14,"sizes":[]},"typography_font_weight":"900","typography_font_style":"italic"},"elements":[],"widgetType":"heading"},{"id":"1cffde","elType":"widget","settings":{"editor":"<p><a href=\"#\">Products<\/a><\/p><p><a href=\"#\">My Account<\/a><\/p><p><a href=\"#\">Cart<\/a><\/p><p><a href=\"#\">Wishlist<\/a><\/p>","text_color":"#969696","typography_typography":"custom","typography_line_height":{"unit":"em","size":1.5,"sizes":[]}},"elements":[],"widgetType":"text-editor"}],"isInner":false},{"id":"3601ee75","elType":"column","settings":{"_column_size":20,"_inline_size":23.072},"elements":[{"id":"5d84c521","elType":"widget","settings":{"title":"Newsletter","title_color":"#262626","typography_typography":"custom","typography_font_size":{"unit":"px","size":14,"sizes":[]},"typography_font_weight":"900","typography_font_style":"italic"},"elements":[],"widgetType":"heading"},{"id":"6e5c907c","elType":"widget","settings":{"editor":"<p>Get 20% off for your first order by joining our newsletter<\/p>","text_color":"#262626","typography_typography":"custom","typography_font_family":"Work Sans","typography_font_size":{"unit":"px","size":14,"sizes":[]},"typography_line_height":{"unit":"em","size":1.5,"sizes":[]}},"elements":[],"widgetType":"text-editor"},{"id":"7c90251c","elType":"widget","settings":{"shortcode":"[contact-form-7 id=\"706\" title=\"subscription\"]","_margin":{"unit":"px","top":"-8","right":"0","bottom":"0","left":"0","isLinked":false}},"elements":[],"widgetType":"shortcode"}],"isInner":false}],"isInner":false},{"id":"291d0e1f","elType":"section","settings":{"stretch_section":"section-stretched","background_background":"classic","background_color":"#262626"},"elements":[{"id":"32c38007","elType":"column","settings":{"_column_size":100},"elements":[{"id":"2b1539a2","elType":"widget","settings":{"editor":"<p>\u00a9 2021 Ankle Store. All Rights Reserved.<\/p>","align":"center","text_color":"#ffffff","typography_typography":"custom","typography_font_family":"Work Sans","typography_font_weight":"500","_margin":{"unit":"px","top":"0","right":"0","bottom":"-9","left":"0","isLinked":false}},"elements":[],"widgetType":"text-editor"}],"isInner":false}],"isInner":false}]]]></wp:meta_value>
+		<wp:meta_value><![CDATA[[{"id":"69d1d84","elType":"container","settings":{"structure":"50","padding":{"unit":"px","top":"80","right":"0","bottom":"60","left":"0","isLinked":false},"flex_direction":"row","flex_align_items":"stretch","flex_gap":{"size":0,"unit":"px"}},"elements":[{"id":"0ff95f1","elType":"container","settings":{"_column_size":20,"width":{"size":22.982,"unit":"%"},"content_width":"full"},"elements":[{"id":"157838e","elType":"widget","settings":{"image":{"url":"https:\/\/woostify.com\/demos\/ankle\/wp-content\/uploads\/2019\/04\/ank-logo.png\/pros\/335\/pros\/335\/","id":14},"align":"left"},"elements":[],"widgetType":"image"},{"id":"3bcaa64","elType":"widget","settings":{"editor":"<p>An amazing E-Commerce theme for WordPress<\/p>","text_color":"#262626","typography_typography":"custom","typography_font_family":"Work Sans","typography_font_size":{"unit":"px","size":14,"sizes":[]},"typography_line_height":{"unit":"em","size":1.5,"sizes":[]},"_margin":{"unit":"px","top":"0","right":"50","bottom":"0","left":"0","isLinked":false}},"elements":[],"widgetType":"text-editor"},{"id":"eb1aa18","elType":"widget","settings":{"social_icon_list":[{"social":"fa fa-facebook","_id":"ec6e218","link":{"url":"","is_external":"true","nofollow":""},"social_icon":{"value":"fab fa-facebook-f","library":"fa-brands"},"__fa4_migrated":{"social_icon":true}},{"social":"fa fa-twitter","_id":"a5133b4","link":{"url":"","is_external":"true","nofollow":""},"social_icon":{"value":"fab fa-twitter","library":"fa-brands"},"__fa4_migrated":{"social_icon":true}},{"social":"fa fa-google-plus","_id":"ed018d7","link":{"url":"","is_external":"true","nofollow":""},"social_icon":{"value":"fab fa-google-plus-g","library":"fa-brands"},"__fa4_migrated":{"social_icon":true}}],"shape":"circle","align":"left","icon_color":"custom","icon_primary_color":"#a2a2a2","icon_secondary_color":"#ffffff","icon_size":{"unit":"px","size":15,"sizes":[]},"icon_padding":{"unit":"em","size":0.7,"sizes":[]},"hover_primary_color":"#262626"},"elements":[],"widgetType":"social-icons"}],"isInner":false},{"id":"c71f2bb","elType":"container","settings":{"_column_size":20,"width":{"size":17.982,"unit":"%"},"content_width":"full"},"elements":[{"id":"e9fef44","elType":"widget","settings":{"title":"Company","title_color":"#262626","typography_typography":"custom","typography_font_size":{"unit":"px","size":14,"sizes":[]},"typography_font_weight":"900","typography_font_style":"italic"},"elements":[],"widgetType":"heading"},{"id":"3f01142","elType":"widget","settings":{"editor":"<p><a href=\"#\">About Us<\/a><\/p><p><a href=\"#\">Services<\/a><\/p><p><a href=\"#\">News<\/a><\/p><p><a href=\"#\">Career<\/a><\/p><p><a href=\"#\">Contact<\/a><\/p>","text_color":"#969696","typography_typography":"custom","typography_line_height":{"unit":"em","size":1.5,"sizes":[]}},"elements":[],"widgetType":"text-editor"}],"isInner":false},{"id":"8fba5ab","elType":"container","settings":{"_column_size":20,"width":{"size":17.982,"unit":"%"},"content_width":"full"},"elements":[{"id":"1375eb4","elType":"widget","settings":{"title":"Quick Links","title_color":"#262626","typography_typography":"custom","typography_font_size":{"unit":"px","size":14,"sizes":[]},"typography_font_weight":"900","typography_font_style":"italic"},"elements":[],"widgetType":"heading"},{"id":"21964b7","elType":"widget","settings":{"editor":"<p><a href=\"#\">Sitemap<\/a><\/p><p><a href=\"#\">Terms<\/a><\/p><p><a href=\"#\">Privacy Policy<\/a><\/p><p><a href=\"#\">Help<\/a><\/p><p><a href=\"#\">Affiliate<\/a><\/p><p><a href=\"#\">Advertisement<\/a><\/p>","text_color":"#969696","typography_typography":"custom","typography_line_height":{"unit":"em","size":1.5,"sizes":[]}},"elements":[],"widgetType":"text-editor"}],"isInner":false},{"id":"17ede84","elType":"container","settings":{"_column_size":20,"width":{"size":17.982,"unit":"%"},"content_width":"full"},"elements":[{"id":"568ee2c","elType":"widget","settings":{"title":"Shop","title_color":"#262626","typography_typography":"custom","typography_font_size":{"unit":"px","size":14,"sizes":[]},"typography_font_weight":"900","typography_font_style":"italic"},"elements":[],"widgetType":"heading"},{"id":"617e764","elType":"widget","settings":{"editor":"<p><a href=\"#\">Products<\/a><\/p><p><a href=\"#\">My Account<\/a><\/p><p><a href=\"#\">Cart<\/a><\/p><p><a href=\"#\">Wishlist<\/a><\/p>","text_color":"#969696","typography_typography":"custom","typography_line_height":{"unit":"em","size":1.5,"sizes":[]}},"elements":[],"widgetType":"text-editor"}],"isInner":false},{"id":"895f1f7","elType":"container","settings":{"_column_size":20,"width":{"size":23.072,"unit":"%"},"content_width":"full"},"elements":[{"id":"5607317","elType":"widget","settings":{"title":"Newsletter","title_color":"#262626","typography_typography":"custom","typography_font_size":{"unit":"px","size":14,"sizes":[]},"typography_font_weight":"900","typography_font_style":"italic"},"elements":[],"widgetType":"heading"},{"id":"353b75d","elType":"widget","settings":{"editor":"<p>Get 20% off for your first order by joining our newsletter<\/p>","text_color":"#262626","typography_typography":"custom","typography_font_family":"Work Sans","typography_font_size":{"unit":"px","size":14,"sizes":[]},"typography_line_height":{"unit":"em","size":1.5,"sizes":[]}},"elements":[],"widgetType":"text-editor"},{"id":"d3834d6","elType":"widget","settings":{"shortcode":"[contact-form-7 id=\"706\" title=\"subscription\"]","_margin":{"unit":"px","top":"-8","right":"0","bottom":"0","left":"0","isLinked":false}},"elements":[],"widgetType":"shortcode"}],"isInner":false}],"isInner":false},{"id":"b708627","elType":"container","settings":{"stretch_section":"section-stretched","background_background":"classic","background_color":"#262626","flex_direction":"row","flex_align_items":"stretch","flex_gap":{"size":0,"unit":"px"},"padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true}},"elements":[{"id":"2fd2ac4","elType":"container","settings":{"_column_size":100,"content_width":"full"},"elements":[{"id":"42ec73b","elType":"widget","settings":{"editor":"<p>\u00a9 2021 Ankle Store. All Rights Reserved.<\/p>","align":"center","text_color":"#ffffff","typography_typography":"custom","typography_font_family":"Work Sans","typography_font_weight":"500","_margin":{"unit":"px","top":"0","right":"0","bottom":"-9","left":"0","isLinked":false}},"elements":[],"widgetType":"text-editor"}],"isInner":false}],"isInner":false}]]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_elementor_page_assets]]></wp:meta_key>
@@ -4801,7 +4805,7 @@ I’ve arrived on time to every lesson I’ve had to teach this year, bar one.&n
 			<a href="#" role="button">
 						Discover More
 					</a>
-										<img width="470" height="400" src="https://demo.woostify.com/ankle/wp-content/uploads/sites/24/2019/04/ank-about-1.jpg" alt="" loading="lazy" srcset="https://demo.woostify.com/ankle/wp-content/uploads/sites/24/2019/04/ank-about-1.jpg 470w, https://demo.woostify.com/ankle/wp-content/uploads/sites/24/2019/04/ank-about-1-300x255.jpg 300w" sizes="(max-width: 470px) 100vw, 470px" />											
+												<img width="470" height="400" src="https://demo.woostify.com/ankle/wp-content/uploads/sites/24/2019/04/ank-about-1.jpg" alt="" loading="lazy" srcset="https://demo.woostify.com/ankle/wp-content/uploads/sites/24/2019/04/ank-about-1.jpg 470w, https://demo.woostify.com/ankle/wp-content/uploads/sites/24/2019/04/ank-about-1-300x255.jpg 300w" sizes="(max-width: 470px) 100vw, 470px" />														
 			<h2>Why Choose Us</h2>		
 			<h3>Reasonable Price</h3>		
 		<p>One of our mission is to make sure that everyone could be able to afford our products, in general.</p>		
@@ -4833,8 +4837,8 @@ a lot of things for you to explore. The price is reasonable and customer service
 		<wp:post_id>740</wp:post_id>
 		<wp:post_date><![CDATA[2019-04-12 02:24:49]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-04-12 02:24:49]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-02-16 08:03:22]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-02-16 08:03:22]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2023-06-16 09:07:36]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-06-16 09:07:36]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[about]]></wp:post_name>
@@ -4850,7 +4854,7 @@ a lot of things for you to explore. The price is reasonable and customer service
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[site-container]]></wp:meta_key>
-		<wp:meta_value><![CDATA[default]]></wp:meta_value>
+		<wp:meta_value><![CDATA[full-width-stretched]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[site-header-transparent]]></wp:meta_key>
@@ -4874,7 +4878,7 @@ a lot of things for you to explore. The price is reasonable and customer service
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_elementor_version]]></wp:meta_key>
-		<wp:meta_value><![CDATA[3.0.13]]></wp:meta_value>
+		<wp:meta_value><![CDATA[3.13.4]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
@@ -4882,7 +4886,15 @@ a lot of things for you to explore. The price is reasonable and customer service
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_elementor_data]]></wp:meta_key>
-		<wp:meta_value><![CDATA[[{"id":"461e5d8","elType":"section","settings":{"structure":"20","margin":{"unit":"px","top":"100","right":0,"bottom":"0","left":0,"isLinked":false}},"elements":[{"id":"43a12f0","elType":"column","settings":{"_column_size":50,"_inline_size":null,"margin":{"unit":"px","top":"30","right":"60","bottom":"0","left":"0","isLinked":false}},"elements":[{"id":"bd4a68c","elType":"widget","settings":{"title":"<span style=\"font-weight:300\">Welcome to<\/span> Ankle","title_color":"#262626","typography_typography":"custom","typography_font_weight":"900","typography_font_style":"italic","_margin":{"unit":"px","top":"0","right":"0","bottom":"10","left":"0","isLinked":false}},"elements":[],"widgetType":"heading"},{"id":"f50b5d3","elType":"widget","settings":{"editor":"<p>Duis eget velit sodales, tristique dui a, malesuada erat. Phasellus at neque augue. Nullam convallis tincidunt tincidunt. Maecenas a libero aliquam, sollicitudin lectus vel, ultrices lacus.<\/p>","typography_typography":"custom","typography_line_height":{"unit":"em","size":1.6,"sizes":[]}},"elements":[],"widgetType":"text-editor"},{"id":"1007987","elType":"widget","settings":{"editor":"<p>Aliquam placerat venenatis rutrum, sem eu aliquet eleifend, turpis mauris lorem ipsum dolor asut, convallis augue velit dui.<\/p>","typography_typography":"custom","typography_line_height":{"unit":"em","size":1.6,"sizes":[]}},"elements":[],"widgetType":"text-editor"},{"id":"18f1aa6","elType":"widget","settings":{"text":"Discover More","typography_typography":"custom","typography_font_family":"Montserrat","typography_font_size":{"unit":"px","size":14,"sizes":[]},"typography_font_weight":"900","typography_font_style":"italic","button_text_color":"#ffffff","background_color":"#262626","border_radius":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true},"hover_color":"#ffffff","button_background_hover_color":"#a2a2a2"},"elements":[],"widgetType":"button"}],"isInner":false},{"id":"a02c8bf","elType":"column","settings":{"_column_size":50,"_inline_size":null,"margin":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false},"padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false}},"elements":[{"id":"61c82ca","elType":"widget","settings":{"image":{"url":"https:\/\/woostify.com\/demos\/ankle\/wp-content\/uploads\/2019\/04\/ank-about-1.jpg","id":743},"image_size":"full","_margin":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false},"_padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false}},"elements":[],"widgetType":"image"}],"isInner":false}],"isInner":false},{"id":"b648314","elType":"section","settings":{"stretch_section":"section-stretched","background_background":"classic","background_image":{"url":"https:\/\/demo.woostify.com\/ankle\/wp-content\/uploads\/sites\/24\/2019\/04\/ank-about-2-scaled-1.jpg","id":745},"background_position":"center center","background_size":"cover","background_overlay_background":"classic","background_overlay_color":"rgba(0,0,0,0.3)","background_overlay_opacity":{"unit":"px","size":"","sizes":[]},"margin":{"unit":"px","top":"100","right":0,"bottom":"0","left":0,"isLinked":false},"padding":{"unit":"px","top":"090","right":"0","bottom":"60","left":"0","isLinked":false}},"elements":[{"id":"45f9e2d","elType":"column","settings":{"_column_size":100},"elements":[{"id":"191eade","elType":"widget","settings":{"title":"<span style=\"font-weight:300\">Why<\/span> Choose Us","align":"center","title_color":"#ffffff","typography_typography":"custom","typography_font_weight":"900","typography_font_style":"italic","_margin":{"unit":"px","top":"0","right":"0","bottom":"20","left":"0","isLinked":false}},"elements":[],"widgetType":"heading"},{"id":"228635d","elType":"section","settings":{"structure":"30"},"elements":[{"id":"68de73e","elType":"column","settings":{"_column_size":33,"_inline_size":null,"margin":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false}},"elements":[{"id":"495c83c","elType":"section","settings":[],"elements":[{"id":"295fdb9","elType":"column","settings":{"_column_size":100,"_inline_size":null,"margin":{"unit":"px","top":"0","right":"10","bottom":"30","left":"10","isLinked":false}},"elements":[{"id":"99f5196","elType":"widget","settings":{"title":"Reasonable Price","header_size":"h3","align":"center","title_color":"#ffffff","typography_typography":"custom","typography_font_size":{"unit":"px","size":18,"sizes":[]},"typography_font_weight":"900"},"elements":[],"widgetType":"heading"},{"id":"5521658","elType":"widget","settings":{"editor":"<p>One of our mission is to make sure that everyone could be able to afford our products, in general.<\/p>","align":"center","text_color":"#ffffff","typography_typography":"custom","typography_font_family":"Work Sans","typography_font_size":{"unit":"px","size":14,"sizes":[]},"typography_font_weight":"400","typography_line_height":{"unit":"em","size":1.6,"sizes":[]}},"elements":[],"widgetType":"text-editor"}],"isInner":true}],"isInner":true},{"id":"46a9bd5","elType":"section","settings":[],"elements":[{"id":"2be46cf","elType":"column","settings":{"_column_size":100,"_inline_size":null,"margin":{"unit":"px","top":"0","right":"10","bottom":"0","left":"10","isLinked":false}},"elements":[{"id":"6090e6c","elType":"widget","settings":{"title":"Better Quality","header_size":"h3","align":"center","title_color":"#ffffff","typography_typography":"custom","typography_font_size":{"unit":"px","size":18,"sizes":[]},"typography_font_weight":"900"},"elements":[],"widgetType":"heading"},{"id":"cf48038","elType":"widget","settings":{"editor":"<p>One of our mission is to make sure that everyone could be able to afford our products, in general.<\/p>","align":"center","text_color":"#ffffff","typography_typography":"custom","typography_font_family":"Work Sans","typography_font_size":{"unit":"px","size":14,"sizes":[]},"typography_font_weight":"400","typography_line_height":{"unit":"em","size":1.6,"sizes":[]}},"elements":[],"widgetType":"text-editor"}],"isInner":true}],"isInner":true}],"isInner":true},{"id":"9535b92","elType":"column","settings":{"_column_size":33,"_inline_size":null,"margin":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false}},"elements":[{"id":"02827f6","elType":"section","settings":[],"elements":[{"id":"dde0863","elType":"column","settings":{"_column_size":100,"_inline_size":null,"margin":{"unit":"px","top":"0","right":"10","bottom":"30","left":"10","isLinked":false}},"elements":[{"id":"6d7c9b2","elType":"widget","settings":{"title":"Quick Delivery","header_size":"h3","align":"center","title_color":"#ffffff","typography_typography":"custom","typography_font_size":{"unit":"px","size":18,"sizes":[]},"typography_font_weight":"900"},"elements":[],"widgetType":"heading"},{"id":"73a8e24","elType":"widget","settings":{"editor":"<p>One of our mission is to make sure that everyone could be able to afford our products, in general.<\/p>","align":"center","text_color":"#ffffff","typography_typography":"custom","typography_font_family":"Work Sans","typography_font_size":{"unit":"px","size":14,"sizes":[]},"typography_font_weight":"400","typography_line_height":{"unit":"em","size":1.6,"sizes":[]}},"elements":[],"widgetType":"text-editor"}],"isInner":true}],"isInner":true},{"id":"56d06df","elType":"section","settings":[],"elements":[{"id":"3a5d042","elType":"column","settings":{"_column_size":100,"_inline_size":null,"margin":{"unit":"px","top":"0","right":"10","bottom":"0","left":"10","isLinked":false}},"elements":[{"id":"f50c702","elType":"widget","settings":{"title":"<span class=\"elementor-heading-title elementor-size-default elementor-inline-editing pen\" data-elementor-setting-key=\"title\" data-pen-placeholder=\"Type Here...\" style=\"clear: both;\">Dedicated Support<\/span>","header_size":"h3","align":"center","title_color":"#ffffff","typography_typography":"custom","typography_font_size":{"unit":"px","size":18,"sizes":[]},"typography_font_weight":"900"},"elements":[],"widgetType":"heading"},{"id":"81f1953","elType":"widget","settings":{"editor":"<p>One of our mission is to make sure that everyone could be able to afford our products, in general.<\/p>","align":"center","text_color":"#ffffff","typography_typography":"custom","typography_font_family":"Work Sans","typography_font_size":{"unit":"px","size":14,"sizes":[]},"typography_font_weight":"400","typography_line_height":{"unit":"em","size":1.6,"sizes":[]}},"elements":[],"widgetType":"text-editor"}],"isInner":true}],"isInner":true}],"isInner":true},{"id":"b9050a8","elType":"column","settings":{"_column_size":33,"_inline_size":null,"margin":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false}},"elements":[{"id":"5e5076e","elType":"section","settings":[],"elements":[{"id":"e71e4ce","elType":"column","settings":{"_column_size":100,"_inline_size":null,"margin":{"unit":"px","top":"0","right":"10","bottom":"30","left":"10","isLinked":false}},"elements":[{"id":"c4e5021","elType":"widget","settings":{"title":"Safe Payment","header_size":"h3","align":"center","title_color":"#ffffff","typography_typography":"custom","typography_font_size":{"unit":"px","size":18,"sizes":[]},"typography_font_weight":"900"},"elements":[],"widgetType":"heading"},{"id":"b4ea3af","elType":"widget","settings":{"editor":"<p>One of our mission is to make sure that everyone could be able to afford our products, in general.<\/p>","align":"center","text_color":"#ffffff","typography_typography":"custom","typography_font_family":"Work Sans","typography_font_size":{"unit":"px","size":14,"sizes":[]},"typography_font_weight":"400","typography_line_height":{"unit":"em","size":1.6,"sizes":[]}},"elements":[],"widgetType":"text-editor"}],"isInner":true}],"isInner":true},{"id":"2ae7485","elType":"section","settings":[],"elements":[{"id":"f631e5a","elType":"column","settings":{"_column_size":100,"_inline_size":null,"margin":{"unit":"px","top":"0","right":"10","bottom":"0","left":"10","isLinked":false}},"elements":[{"id":"a157f1c","elType":"widget","settings":{"title":"<span class=\"elementor-heading-title elementor-size-default elementor-inline-editing pen\" data-elementor-setting-key=\"title\" data-pen-placeholder=\"Type Here...\" style=\"clear: both;\">Money-back Guarantee<\/span>","header_size":"h3","align":"center","title_color":"#ffffff","typography_typography":"custom","typography_font_size":{"unit":"px","size":18,"sizes":[]},"typography_font_weight":"900"},"elements":[],"widgetType":"heading"},{"id":"862bd7a","elType":"widget","settings":{"editor":"<p>One of our mission is to make sure that everyone could be able to afford our products, in general.<\/p>","align":"center","text_color":"#ffffff","typography_typography":"custom","typography_font_family":"Work Sans","typography_font_size":{"unit":"px","size":14,"sizes":[]},"typography_font_weight":"400","typography_line_height":{"unit":"em","size":1.6,"sizes":[]}},"elements":[],"widgetType":"text-editor"}],"isInner":true}],"isInner":true}],"isInner":true}],"isInner":true}],"isInner":false}],"isInner":false},{"id":"9d47326","elType":"section","settings":{"margin":{"unit":"px","top":"90","right":0,"bottom":"50","left":0,"isLinked":false}},"elements":[{"id":"4dfab9a","elType":"column","settings":{"_column_size":100},"elements":[{"id":"2a3a627","elType":"widget","settings":{"title":"Testimonial","align":"center","title_color":"#262626","typography_typography":"custom","typography_font_weight":"900","typography_font_style":"italic","_margin":{"unit":"px","top":"0","right":"0","bottom":"20","left":"0","isLinked":false}},"elements":[],"widgetType":"heading"},{"id":"5b9c9c2","elType":"widget","settings":{"testimonial_content":"\u201cTo be honest, this is one of the best fashion store. They have \na lot of things for you to explore. The price is reasonable and customer service is dedicated.\u201d","testimonial_image":{"url":"https:\/\/woostify.com\/demos\/ankle\/wp-content\/uploads\/2019\/04\/ank-testimonial-1.png","id":757},"testimonial_name":"John Doe","testimonial_job":"Designer","testimonial_image_position":"top","content_content_color":"#262626","content_typography_typography":"custom","content_typography_font_size":{"unit":"px","size":24,"sizes":[]},"content_typography_font_weight":"300","content_typography_line_height":{"unit":"em","size":1.6,"sizes":[]},"name_text_color":"#262626","name_typography_typography":"custom","name_typography_font_size":{"unit":"px","size":14,"sizes":[]},"name_typography_font_weight":"900","name_typography_font_style":"italic","job_text_color":"#7a7a7a","job_typography_typography":"custom","job_typography_font_family":"Work Sans","job_typography_font_size":{"unit":"px","size":14,"sizes":[]},"job_typography_line_height":{"unit":"em","size":1.8,"sizes":[]},"_margin":{"unit":"%","top":"0","right":"20","bottom":"0","left":"20","isLinked":false}},"elements":[],"widgetType":"testimonial"}],"isInner":false}],"isInner":false},{"id":"689a756","elType":"section","settings":{"structure":"40","margin":{"unit":"px","top":"0","right":0,"bottom":"80","left":0,"isLinked":false}},"elements":[{"id":"ef79f30","elType":"column","settings":{"_column_size":25,"_inline_size":null},"elements":[{"id":"7f07775","elType":"widget","settings":{"ending_number":236,"title":"Design Awards","number_color":"#262626","typography_number_typography":"custom","typography_number_font_family":"Montserrat","title_color":"#262626","typography_title_typography":"custom","typography_title_font_family":"Montserrat","typography_title_font_size":{"unit":"px","size":14,"sizes":[]},"typography_title_font_weight":"900","typography_title_font_style":"italic"},"elements":[],"widgetType":"counter"}],"isInner":false},{"id":"657fe9e","elType":"column","settings":{"_column_size":25,"_inline_size":null},"elements":[{"id":"25e6c0f","elType":"widget","settings":{"ending_number":5204,"title":"Satisfied Customers","number_color":"#262626","typography_number_typography":"custom","typography_number_font_family":"Montserrat","title_color":"#262626","typography_title_typography":"custom","typography_title_font_family":"Montserrat","typography_title_font_size":{"unit":"px","size":14,"sizes":[]},"typography_title_font_weight":"900","typography_title_font_style":"italic"},"elements":[],"widgetType":"counter"}],"isInner":false},{"id":"f4cc274","elType":"column","settings":{"_column_size":25,"_inline_size":null},"elements":[{"id":"ef6a69c","elType":"widget","settings":{"ending_number":143,"title":"On Media","number_color":"#262626","typography_number_typography":"custom","typography_number_font_family":"Montserrat","title_color":"#262626","typography_title_typography":"custom","typography_title_font_family":"Montserrat","typography_title_font_size":{"unit":"px","size":14,"sizes":[]},"typography_title_font_weight":"900","typography_title_font_style":"italic"},"elements":[],"widgetType":"counter"}],"isInner":false},{"id":"37a5cba","elType":"column","settings":{"_column_size":25,"_inline_size":null},"elements":[{"id":"b59f916","elType":"widget","settings":{"ending_number":1592,"title":"Happy Feedbacks","number_color":"#262626","typography_number_typography":"custom","typography_number_font_family":"Montserrat","title_color":"#262626","typography_title_typography":"custom","typography_title_font_family":"Montserrat","typography_title_font_size":{"unit":"px","size":14,"sizes":[]},"typography_title_font_weight":"900","typography_title_font_style":"italic"},"elements":[],"widgetType":"counter"}],"isInner":false}],"isInner":false},{"id":"3231b4b","elType":"section","settings":[],"elements":[{"id":"813a682","elType":"column","settings":{"_column_size":100},"elements":[{"id":"1cb2cd1","elType":"widget","settings":{"color":"#e0e0e0","text":"Divider"},"elements":[],"widgetType":"divider"}],"isInner":false}],"isInner":false}]]]></wp:meta_value>
+		<wp:meta_value><![CDATA[[{"id":"4f49196","elType":"container","settings":{"structure":"20","margin":{"unit":"px","top":"100","right":"0","bottom":"0","left":"0","isLinked":false},"flex_direction":"row","flex_align_items":"stretch","flex_gap":{"size":0,"unit":"px"},"padding":{"unit":"px","top":"0","right":"15","bottom":"0","left":"15","isLinked":false}},"elements":[{"id":"3a3c4e7","elType":"container","settings":{"_column_size":50,"width":{"size":50,"unit":"%"},"margin":{"unit":"px","top":"30","right":"0","bottom":"0","left":"0","isLinked":false},"content_width":"full","padding":{"unit":"px","top":"10","right":"70","bottom":"10","left":"10","isLinked":false},"padding_mobile":{"unit":"px","top":"10","right":"10","bottom":"10","left":"10","isLinked":true}},"elements":[{"id":"f7cf4b0","elType":"widget","settings":{"title":"<span style=\"font-weight:300\">Welcome to<\/span> Ankle","title_color":"#262626","typography_typography":"custom","typography_font_weight":"900","typography_font_style":"italic","_margin":{"unit":"px","top":"0","right":"0","bottom":"10","left":"0","isLinked":false}},"elements":[],"widgetType":"heading"},{"id":"743ea97","elType":"widget","settings":{"editor":"<p>Duis eget velit sodales, tristique dui a, malesuada erat. Phasellus at neque augue. Nullam convallis tincidunt tincidunt. Maecenas a libero aliquam, sollicitudin lectus vel, ultrices lacus.<\/p>","typography_typography":"custom","typography_line_height":{"unit":"em","size":1.6,"sizes":[]}},"elements":[],"widgetType":"text-editor"},{"id":"89fa7e1","elType":"widget","settings":{"editor":"<p>Aliquam placerat venenatis rutrum, sem eu aliquet eleifend, turpis mauris lorem ipsum dolor asut, convallis augue velit dui.<\/p>","typography_typography":"custom","typography_line_height":{"unit":"em","size":1.6,"sizes":[]}},"elements":[],"widgetType":"text-editor"},{"id":"999598c","elType":"widget","settings":{"text":"Discover More","typography_typography":"custom","typography_font_family":"Montserrat","typography_font_size":{"unit":"px","size":14,"sizes":[]},"typography_font_weight":"900","typography_font_style":"italic","button_text_color":"#ffffff","background_color":"#262626","border_radius":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true},"hover_color":"#ffffff","button_background_hover_color":"#a2a2a2"},"elements":[],"widgetType":"button"}],"isInner":false},{"id":"2a9c027","elType":"container","settings":{"_column_size":50,"width":{"size":50,"unit":"%"},"margin":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false},"padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false},"content_width":"full"},"elements":[{"id":"8650526","elType":"widget","settings":{"image":{"url":"https:\/\/woostify.com\/demos\/ankle\/wp-content\/uploads\/2019\/04\/ank-about-1.jpg\/pros\/335\/pros\/335\/","id":743},"image_size":"full","_margin":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false},"_padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false}},"elements":[],"widgetType":"image"}],"isInner":false}],"isInner":false},{"id":"12343d7","elType":"container","settings":{"stretch_section":"section-stretched","background_background":"classic","background_image":{"url":"https:\/\/demo.woostify.com\/ankle\/wp-content\/uploads\/sites\/24\/2019\/04\/ank-about-2-scaled-1.jpg","id":745},"background_position":"center center","background_size":"cover","background_overlay_background":"classic","background_overlay_color":"rgba(0,0,0,0.3)","background_overlay_opacity":{"unit":"px","size":"","sizes":[]},"margin":{"unit":"px","top":"100","right":0,"bottom":"0","left":0,"isLinked":false},"padding":{"unit":"px","top":"090","right":"0","bottom":"60","left":"0","isLinked":false},"flex_direction":"row","flex_align_items":"stretch","flex_gap":{"size":10,"unit":"px"}},"elements":[{"id":"48f1e6c","elType":"container","settings":{"_column_size":100,"content_width":"full"},"elements":[{"id":"e0ae7f7","elType":"widget","settings":{"title":"<span style=\"font-weight:300\">Why<\/span> Choose Us","align":"center","title_color":"#ffffff","typography_typography":"custom","typography_font_weight":"900","typography_font_style":"italic","_margin":{"unit":"px","top":"0","right":"0","bottom":"20","left":"0","isLinked":false}},"elements":[],"widgetType":"heading"},{"id":"362ae33","elType":"container","settings":{"structure":"30","flex_direction":"row","flex_align_items":"stretch","flex_gap":{"size":0,"unit":"px"},"content_width":"full","padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true}},"elements":[{"id":"0b7a0db","elType":"container","settings":{"_column_size":33,"width":{"size":null,"unit":"%"},"margin":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false},"content_width":"full","flex_gap":{"unit":"px","size":0,"sizes":[]}},"elements":[{"id":"538faed","elType":"container","settings":{"flex_direction":"row","flex_align_items":"stretch","flex_gap":{"size":10,"unit":"px"},"content_width":"full","padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true}},"elements":[{"id":"1be61c8","elType":"container","settings":{"_column_size":100,"width":{"size":null,"unit":"%"},"margin":{"unit":"px","top":"0","right":"10","bottom":"30","left":"10","isLinked":false},"content_width":"full"},"elements":[{"id":"3e9c82e","elType":"widget","settings":{"title":"Reasonable Price","header_size":"h3","align":"center","title_color":"#ffffff","typography_typography":"custom","typography_font_size":{"unit":"px","size":18,"sizes":[]},"typography_font_weight":"900"},"elements":[],"widgetType":"heading"},{"id":"c7baedc","elType":"widget","settings":{"editor":"<p>One of our mission is to make sure that everyone could be able to afford our products, in general.<\/p>","align":"center","text_color":"#ffffff","typography_typography":"custom","typography_font_family":"Work Sans","typography_font_size":{"unit":"px","size":14,"sizes":[]},"typography_font_weight":"400","typography_line_height":{"unit":"em","size":1.6,"sizes":[]}},"elements":[],"widgetType":"text-editor"}],"isInner":false}],"isInner":false},{"id":"7dfc990","elType":"container","settings":{"flex_direction":"row","flex_align_items":"stretch","flex_gap":{"size":10,"unit":"px"},"content_width":"full","padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true}},"elements":[{"id":"16f96d5","elType":"container","settings":{"_column_size":100,"width":{"size":null,"unit":"%"},"margin":{"unit":"px","top":"0","right":"10","bottom":"0","left":"10","isLinked":false},"content_width":"full"},"elements":[{"id":"b2f117b","elType":"widget","settings":{"title":"Better Quality","header_size":"h3","align":"center","title_color":"#ffffff","typography_typography":"custom","typography_font_size":{"unit":"px","size":18,"sizes":[]},"typography_font_weight":"900"},"elements":[],"widgetType":"heading"},{"id":"56d8429","elType":"widget","settings":{"editor":"<p>One of our mission is to make sure that everyone could be able to afford our products, in general.<\/p>","align":"center","text_color":"#ffffff","typography_typography":"custom","typography_font_family":"Work Sans","typography_font_size":{"unit":"px","size":14,"sizes":[]},"typography_font_weight":"400","typography_line_height":{"unit":"em","size":1.6,"sizes":[]}},"elements":[],"widgetType":"text-editor"}],"isInner":false}],"isInner":false}],"isInner":false},{"id":"d6db8f7","elType":"container","settings":{"_column_size":33,"width":{"size":null,"unit":"%"},"margin":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false},"content_width":"full","flex_gap":{"unit":"px","size":0,"sizes":[]}},"elements":[{"id":"e511f4c","elType":"container","settings":{"flex_direction":"row","flex_align_items":"stretch","flex_gap":{"size":10,"unit":"px"},"content_width":"full","padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true}},"elements":[{"id":"8876ef7","elType":"container","settings":{"_column_size":100,"width":{"size":null,"unit":"%"},"margin":{"unit":"px","top":"0","right":"10","bottom":"30","left":"10","isLinked":false},"content_width":"full"},"elements":[{"id":"968c4ff","elType":"widget","settings":{"title":"Quick Delivery","header_size":"h3","align":"center","title_color":"#ffffff","typography_typography":"custom","typography_font_size":{"unit":"px","size":18,"sizes":[]},"typography_font_weight":"900"},"elements":[],"widgetType":"heading"},{"id":"e23b7ff","elType":"widget","settings":{"editor":"<p>One of our mission is to make sure that everyone could be able to afford our products, in general.<\/p>","align":"center","text_color":"#ffffff","typography_typography":"custom","typography_font_family":"Work Sans","typography_font_size":{"unit":"px","size":14,"sizes":[]},"typography_font_weight":"400","typography_line_height":{"unit":"em","size":1.6,"sizes":[]}},"elements":[],"widgetType":"text-editor"}],"isInner":false}],"isInner":false},{"id":"6b3d8c3","elType":"container","settings":{"flex_direction":"row","flex_align_items":"stretch","flex_gap":{"size":10,"unit":"px"},"content_width":"full","padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true}},"elements":[{"id":"3cf3476","elType":"container","settings":{"_column_size":100,"width":{"size":null,"unit":"%"},"margin":{"unit":"px","top":"0","right":"10","bottom":"0","left":"10","isLinked":false},"content_width":"full"},"elements":[{"id":"da34111","elType":"widget","settings":{"title":"<span class=\"elementor-heading-title elementor-size-default elementor-inline-editing pen\" data-elementor-setting-key=\"title\" data-pen-placeholder=\"Type Here...\" style=\"clear: both;\">Dedicated Support<\/span>","header_size":"h3","align":"center","title_color":"#ffffff","typography_typography":"custom","typography_font_size":{"unit":"px","size":18,"sizes":[]},"typography_font_weight":"900"},"elements":[],"widgetType":"heading"},{"id":"0c1d2fd","elType":"widget","settings":{"editor":"<p>One of our mission is to make sure that everyone could be able to afford our products, in general.<\/p>","align":"center","text_color":"#ffffff","typography_typography":"custom","typography_font_family":"Work Sans","typography_font_size":{"unit":"px","size":14,"sizes":[]},"typography_font_weight":"400","typography_line_height":{"unit":"em","size":1.6,"sizes":[]}},"elements":[],"widgetType":"text-editor"}],"isInner":false}],"isInner":false}],"isInner":false},{"id":"51f73d0","elType":"container","settings":{"_column_size":33,"width":{"size":null,"unit":"%"},"margin":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false},"content_width":"full","flex_gap":{"unit":"px","size":0,"sizes":[]}},"elements":[{"id":"eeb4376","elType":"container","settings":{"flex_direction":"row","flex_align_items":"stretch","flex_gap":{"size":10,"unit":"px"},"content_width":"full","padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true}},"elements":[{"id":"958e8c5","elType":"container","settings":{"_column_size":100,"width":{"size":null,"unit":"%"},"margin":{"unit":"px","top":"0","right":"10","bottom":"30","left":"10","isLinked":false},"content_width":"full"},"elements":[{"id":"e6ad273","elType":"widget","settings":{"title":"Safe Payment","header_size":"h3","align":"center","title_color":"#ffffff","typography_typography":"custom","typography_font_size":{"unit":"px","size":18,"sizes":[]},"typography_font_weight":"900"},"elements":[],"widgetType":"heading"},{"id":"b27b3f8","elType":"widget","settings":{"editor":"<p>One of our mission is to make sure that everyone could be able to afford our products, in general.<\/p>","align":"center","text_color":"#ffffff","typography_typography":"custom","typography_font_family":"Work Sans","typography_font_size":{"unit":"px","size":14,"sizes":[]},"typography_font_weight":"400","typography_line_height":{"unit":"em","size":1.6,"sizes":[]}},"elements":[],"widgetType":"text-editor"}],"isInner":false}],"isInner":false},{"id":"6ae3267","elType":"container","settings":{"flex_direction":"row","flex_align_items":"stretch","flex_gap":{"size":10,"unit":"px"},"content_width":"full","padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true}},"elements":[{"id":"835582b","elType":"container","settings":{"_column_size":100,"width":{"size":null,"unit":"%"},"margin":{"unit":"px","top":"0","right":"10","bottom":"0","left":"10","isLinked":false},"content_width":"full"},"elements":[{"id":"1da64fe","elType":"widget","settings":{"title":"<span class=\"elementor-heading-title elementor-size-default elementor-inline-editing pen\" data-elementor-setting-key=\"title\" data-pen-placeholder=\"Type Here...\" style=\"clear: both;\">Money-back Guarantee<\/span>","header_size":"h3","align":"center","title_color":"#ffffff","typography_typography":"custom","typography_font_size":{"unit":"px","size":18,"sizes":[]},"typography_font_weight":"900"},"elements":[],"widgetType":"heading"},{"id":"31656b5","elType":"widget","settings":{"editor":"<p>One of our mission is to make sure that everyone could be able to afford our products, in general.<\/p>","align":"center","text_color":"#ffffff","typography_typography":"custom","typography_font_family":"Work Sans","typography_font_size":{"unit":"px","size":14,"sizes":[]},"typography_font_weight":"400","typography_line_height":{"unit":"em","size":1.6,"sizes":[]}},"elements":[],"widgetType":"text-editor"}],"isInner":false}],"isInner":false}],"isInner":false}],"isInner":false}],"isInner":false}],"isInner":false},{"id":"67694d8","elType":"container","settings":{"margin":{"unit":"px","top":"90","right":0,"bottom":"50","left":0,"isLinked":false},"flex_direction":"row","flex_align_items":"stretch","flex_gap":{"size":0,"unit":"px"},"padding":{"unit":"px","top":"0","right":"15","bottom":"0","left":"15","isLinked":false}},"elements":[{"id":"0e45443","elType":"container","settings":{"_column_size":100,"content_width":"full"},"elements":[{"id":"b12581b","elType":"widget","settings":{"title":"Testimonial","align":"center","title_color":"#262626","typography_typography":"custom","typography_font_weight":"900","typography_font_style":"italic","_margin":{"unit":"px","top":"0","right":"0","bottom":"20","left":"0","isLinked":false}},"elements":[],"widgetType":"heading"},{"id":"1bad5b4","elType":"widget","settings":{"testimonial_content":"\u201cTo be honest, this is one of the best fashion store. They have \na lot of things for you to explore. The price is reasonable and customer service is dedicated.\u201d","testimonial_image":{"url":"https:\/\/woostify.com\/demos\/ankle\/wp-content\/uploads\/2019\/04\/ank-testimonial-1.png\/pros\/335\/pros\/335\/","id":757},"testimonial_name":"John Doe","testimonial_job":"Designer","testimonial_image_position":"top","content_content_color":"#262626","content_typography_typography":"custom","content_typography_font_size":{"unit":"px","size":24,"sizes":[]},"content_typography_font_weight":"300","content_typography_line_height":{"unit":"em","size":1.6,"sizes":[]},"name_text_color":"#262626","name_typography_typography":"custom","name_typography_font_size":{"unit":"px","size":14,"sizes":[]},"name_typography_font_weight":"900","name_typography_font_style":"italic","job_text_color":"#7a7a7a","job_typography_typography":"custom","job_typography_font_family":"Work Sans","job_typography_font_size":{"unit":"px","size":14,"sizes":[]},"job_typography_line_height":{"unit":"em","size":1.8,"sizes":[]},"_margin":{"unit":"%","top":"0","right":"20","bottom":"0","left":"20","isLinked":false}},"elements":[],"widgetType":"testimonial"}],"isInner":false}],"isInner":false},{"id":"2c331cf","elType":"container","settings":{"structure":"40","margin":{"unit":"px","top":"0","right":0,"bottom":"80","left":0,"isLinked":false},"flex_direction":"row","flex_align_items":"stretch","flex_gap":{"size":0,"unit":"px"},"padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true}},"elements":[{"id":"2c0dc93","elType":"container","settings":{"_column_size":25,"width":{"size":null,"unit":"%"},"content_width":"full"},"elements":[{"id":"9181bd2","elType":"widget","settings":{"ending_number":236,"title":"Design Awards","number_color":"#262626","typography_number_typography":"custom","typography_number_font_family":"Montserrat","title_color":"#262626","typography_title_typography":"custom","typography_title_font_family":"Montserrat","typography_title_font_size":{"unit":"px","size":14,"sizes":[]},"typography_title_font_weight":"900","typography_title_font_style":"italic"},"elements":[],"widgetType":"counter"}],"isInner":false},{"id":"d7cdc0d","elType":"container","settings":{"_column_size":25,"width":{"size":null,"unit":"%"},"content_width":"full"},"elements":[{"id":"d2df9d2","elType":"widget","settings":{"ending_number":5204,"title":"Satisfied Customers","number_color":"#262626","typography_number_typography":"custom","typography_number_font_family":"Montserrat","title_color":"#262626","typography_title_typography":"custom","typography_title_font_family":"Montserrat","typography_title_font_size":{"unit":"px","size":14,"sizes":[]},"typography_title_font_weight":"900","typography_title_font_style":"italic"},"elements":[],"widgetType":"counter"}],"isInner":false},{"id":"82f3550","elType":"container","settings":{"_column_size":25,"width":{"size":null,"unit":"%"},"content_width":"full"},"elements":[{"id":"cc91c73","elType":"widget","settings":{"ending_number":143,"title":"On Media","number_color":"#262626","typography_number_typography":"custom","typography_number_font_family":"Montserrat","title_color":"#262626","typography_title_typography":"custom","typography_title_font_family":"Montserrat","typography_title_font_size":{"unit":"px","size":14,"sizes":[]},"typography_title_font_weight":"900","typography_title_font_style":"italic"},"elements":[],"widgetType":"counter"}],"isInner":false},{"id":"8c16ed8","elType":"container","settings":{"_column_size":25,"width":{"size":null,"unit":"%"},"content_width":"full"},"elements":[{"id":"98bb5fb","elType":"widget","settings":{"ending_number":1592,"title":"Happy Feedbacks","number_color":"#262626","typography_number_typography":"custom","typography_number_font_family":"Montserrat","title_color":"#262626","typography_title_typography":"custom","typography_title_font_family":"Montserrat","typography_title_font_size":{"unit":"px","size":14,"sizes":[]},"typography_title_font_weight":"900","typography_title_font_style":"italic"},"elements":[],"widgetType":"counter"}],"isInner":false}],"isInner":false},{"id":"e527c37","elType":"container","settings":{"flex_direction":"row","flex_align_items":"stretch","flex_gap":{"size":0,"unit":"px"},"padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true}},"elements":[{"id":"834b60c","elType":"container","settings":{"_column_size":100,"content_width":"full"},"elements":[{"id":"7c11b63","elType":"widget","settings":{"color":"#e0e0e0","text":"Divider"},"elements":[],"widgetType":"divider"}],"isInner":false}],"isInner":false}]]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_elementor_page_assets]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -4948,14 +4960,18 @@ a lot of things for you to explore. The price is reasonable and customer service
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/ankle/?page_id=790</guid>
 		<description></description>
-		<content:encoded><![CDATA[<iframe frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps?q=London%20Eye%2C%20London%2C%20United%20Kingdom&amp;t=m&amp;z=15&amp;output=embed&amp;iwloc=near" aria-label="London Eye, London, United Kingdom"></iframe>		
+		<content:encoded><![CDATA[<iframe loading="lazy"
+					src="https://maps.google.com/maps?q=London%20Eye%2C%20London%2C%20United%20Kingdom&#038;t=m&#038;z=15&#038;output=embed&#038;iwloc=near"
+					title="London Eye, London, United Kingdom"
+					aria-label="London Eye, London, United Kingdom"
+			></iframe>
 		[contact-form-7 id="705" title="Contact form 1"]]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>790</wp:post_id>
 		<wp:post_date><![CDATA[2019-04-17 01:03:36]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-04-17 01:03:36]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2019-04-17 01:03:36]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2019-04-17 01:03:36]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2023-06-16 09:21:26]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-06-16 09:21:26]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[contact]]></wp:post_name>
@@ -4991,23 +5007,19 @@ a lot of things for you to explore. The price is reasonable and customer service
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_elementor_template_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[post]]></wp:meta_value>
+		<wp:meta_value><![CDATA[wp-post]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_elementor_version]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2.5.13]]></wp:meta_value>
+		<wp:meta_value><![CDATA[3.13.4]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
 		<wp:meta_value><![CDATA[default]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_elementor_page_settings]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:12:{s:21:"background_color_stop";a:3:{s:4:"unit";s:1:"%";s:4:"size";i:0;s:5:"sizes";a:0:{}}s:23:"background_color_b_stop";a:3:{s:4:"unit";s:1:"%";s:4:"size";i:100;s:5:"sizes";a:0:{}}s:25:"background_gradient_angle";a:3:{s:4:"unit";s:3:"deg";s:4:"size";i:180;s:5:"sizes";a:0:{}}s:15:"background_xpos";a:3:{s:4:"unit";s:2:"px";s:4:"size";i:0;s:5:"sizes";a:0:{}}s:22:"background_xpos_tablet";a:3:{s:4:"unit";s:2:"px";s:4:"size";i:0;s:5:"sizes";a:0:{}}s:22:"background_xpos_mobile";a:3:{s:4:"unit";s:2:"px";s:4:"size";i:0;s:5:"sizes";a:0:{}}s:15:"background_ypos";a:3:{s:4:"unit";s:2:"px";s:4:"size";i:0;s:5:"sizes";a:0:{}}s:22:"background_ypos_tablet";a:3:{s:4:"unit";s:2:"px";s:4:"size";i:0;s:5:"sizes";a:0:{}}s:22:"background_ypos_mobile";a:3:{s:4:"unit";s:2:"px";s:4:"size";i:0;s:5:"sizes";a:0:{}}s:19:"background_bg_width";a:3:{s:4:"unit";s:1:"%";s:4:"size";i:100;s:5:"sizes";a:0:{}}s:26:"background_bg_width_tablet";a:3:{s:4:"unit";s:2:"px";s:4:"size";s:0:"";s:5:"sizes";a:0:{}}s:26:"background_bg_width_mobile";a:3:{s:4:"unit";s:2:"px";s:4:"size";s:0:"";s:5:"sizes";a:0:{}}}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_elementor_data]]></wp:meta_key>
-		<wp:meta_value><![CDATA[[{"id":"2810c92","elType":"section","settings":{"structure":"20"},"elements":[{"id":"ce65adf","elType":"column","settings":{"_column_size":50},"elements":[{"id":"fe54454","elType":"widget","settings":{"address":"London Eye, London, United Kingdom","zoom":{"unit":"px","size":15,"sizes":[]},"height":{"unit":"px","size":640,"sizes":[]}},"elements":[],"widgetType":"google_maps"}],"isInner":false},{"id":"ae810a3","elType":"column","settings":{"_column_size":50,"_inline_size":48.596,"margin":{"unit":"px","top":"0","right":"0","bottom":"0","left":"030","isLinked":false}},"elements":[{"id":"da4a1d6","elType":"widget","settings":{"shortcode":"[contact-form-7 id=\"705\" title=\"Contact form 1\"]"},"elements":[],"widgetType":"shortcode"}],"isInner":false}],"isInner":false},{"id":"b924214","elType":"section","settings":{"margin":{"unit":"px","top":"60","right":0,"bottom":"0","left":0,"isLinked":false}},"elements":[{"id":"e0d43fa","elType":"column","settings":{"_column_size":100},"elements":[{"id":"65271e9","elType":"widget","settings":{"color":"#e0e0e0"},"elements":[],"widgetType":"divider"}],"isInner":false}],"isInner":false}]]]></wp:meta_value>
+		<wp:meta_value><![CDATA[[{"id":"07cf70f","elType":"container","settings":{"structure":"20","flex_direction":"row","flex_align_items":"stretch","flex_gap":{"size":0,"unit":"px"},"padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true}},"elements":[{"id":"b6714a2","elType":"container","settings":{"_column_size":50,"content_width":"full","width":{"unit":"%","size":50,"sizes":[]}},"elements":[{"id":"08f5a77","elType":"widget","settings":{"address":"London Eye, London, United Kingdom","zoom":{"unit":"px","size":15,"sizes":[]},"height":{"unit":"px","size":640,"sizes":[]}},"elements":[],"widgetType":"google_maps"}],"isInner":false},{"id":"a5c83e3","elType":"container","settings":{"_column_size":50,"width":{"size":50,"unit":"%"},"margin":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false},"content_width":"full","padding":{"unit":"px","top":"10","right":"10","bottom":"10","left":"40","isLinked":false},"padding_mobile":{"unit":"px","top":"10","right":"10","bottom":"10","left":"10","isLinked":true}},"elements":[{"id":"7897bda","elType":"widget","settings":{"shortcode":"[contact-form-7 id=\"705\" title=\"Contact form 1\"]"},"elements":[],"widgetType":"shortcode"}],"isInner":false}],"isInner":false},{"id":"6ed4687","elType":"container","settings":{"margin":{"unit":"px","top":"60","right":0,"bottom":"0","left":0,"isLinked":false},"flex_direction":"row","flex_align_items":"stretch","flex_gap":{"size":0,"unit":"px"},"padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true}},"elements":[{"id":"cfe68e7","elType":"container","settings":{"_column_size":100,"content_width":"full"},"elements":[{"id":"239fbf0","elType":"widget","settings":{"color":"#e0e0e0","text":"Divider"},"elements":[],"widgetType":"divider"}],"isInner":false}],"isInner":false}]]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wxr_import_user_slug]]></wp:meta_key>
@@ -5020,6 +5032,10 @@ a lot of things for you to explore. The price is reasonable and customer service
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wxr_import_user_slug]]></wp:meta_key>
 		<wp:meta_value><![CDATA[woostify]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_elementor_page_assets]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -5468,303 +5484,766 @@ I’ve arrived on time to every lesson I’ve had to teach this year, bar one.&n
 		<guid isPermaLink="false">https://woostify.com/demos/ankle/?page_id=5</guid>
 		<description></description>
 		<content:encoded><![CDATA[<h2>Stay Beautiful</h2>
-<a href="https://woostify.com/demos/pro/ankle/shop/">Shop Now</a>
-<h2>Summer Vibers</h2>
-<a href="https://woostify.com/demos/pro/ankle/shop/">Shop Now</a>
-<h2>New Arrivals</h2>
-<ul data-tiny-slider="{&quot;items&quot;:2,&quot;autoplay&quot;:true,&quot;autoplayTimeout&quot;:5000,&quot;autoplayHoverPause&quot;:true,&quot;controls&quot;:true,&quot;nav&quot;:true,&quot;speed&quot;:300,&quot;loop&quot;:true,&quot;gutter&quot;:15,&quot;slideBy&quot;:1,&quot;responsive&quot;:{&quot;768&quot;:{&quot;items&quot;:3,&quot;gutter&quot;:15,&quot;controls&quot;:true,&quot;nav&quot;:true},&quot;992&quot;:{&quot;items&quot;:4,&quot;gutter&quot;:15,&quot;controls&quot;:true,&quot;nav&quot;:true}}}" data-col="4">
- 	<li>-13%
-
-
-
-<a tabindex="0" role="button" aria-label="Add to Wishlist" data-tinv-wl-list="[]" data-tinv-wl-product="323" data-tinv-wl-productvariation="0" data-tinv-wl-productvariations="[0]" data-tinv-wl-producttype="simple" data-tinv-wl-action="add">Add to Wishlist</a> Add to Wishlist
-<a href="https://demo.woostify.com/ankle/product/burberry-t-shirt/">
-<img src="https://demo.woostify.com/ankle/wp-content/uploads/sites/24/2019/04/7-1-1-300x500.jpg" alt="Burberry T-Shirt" width="300" height="500"></a>&nbsp;
-<h2><a href="https://demo.woostify.com/ankle/product/burberry-t-shirt/">Burberry T-Shirt</a></h2>
-<del aria-hidden="true">£40.00</del> <ins>£35.00</ins>
-<a title="Add “Burberry T-Shirt” to your cart" href="?add-to-cart=323" rel="nofollow" data-quantity="1" data-product_id="323" data-product_sku="">
-
-
-
-image/svg+xml
-
-
-
-
-
-
-
-
-
+																					<a href="https://woostify.com/demos/pro/ankle/shop/pros/335/pros/335/">Shop Now</a>
+																			<h2>Summer Vibers</h2>
+																					<a href="https://woostify.com/demos/pro/ankle/shop/pros/335/pros/335/">Shop Now</a>
+			<h2>New Arrivals</h2>		
+			<ul data-tiny-slider='{"items":4,"autoplay":true,"autoplayTimeout":5000,"autoplayHoverPause":true,"controls":true,"nav":true,"speed":300,"loop":true,"gutter":15,"slideBy":1,"responsive":{"768":{"items":4,"gutter":15,"controls":true,"nav":true},"992":{"items":4,"gutter":15,"controls":true,"nav":true}}}' data-col="4">
+				<li>
+				-13%			
+			<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="17" height="17" viewBox="0 0 17 17">
+<g>
+</g>
+	<path d="M16.965 8.817c-1.284-3.267-4.687-5.463-8.465-5.463s-7.181 2.196-8.465 5.463c-0.046 0.117-0.046 0.248 0 0.365 1.285 3.268 4.687 5.464 8.465 5.464s7.18-2.195 8.465-5.463c0.047-0.118 0.047-0.248 0-0.366zM8.5 13.646c-3.298 0-6.269-1.859-7.459-4.646 1.189-2.787 4.16-4.646 7.459-4.646s6.27 1.859 7.459 4.646c-1.19 2.786-4.161 4.646-7.459 4.646zM8.5 5.357c-2.009 0-3.643 1.634-3.643 3.643s1.634 3.643 3.644 3.643c2.008 0 3.643-1.634 3.643-3.643s-1.635-3.643-3.644-3.643zM8.5 11.643c-1.458 0-2.644-1.186-2.644-2.643s1.187-2.643 2.644-2.643c1.457 0 2.643 1.186 2.643 2.643s-1.185 2.643-2.643 2.643zM8.5 7.643c-0.748 0-1.357 0.609-1.357 1.357s0.609 1.357 1.357 1.357 1.357-0.609 1.357-1.357-0.609-1.357-1.357-1.357zM8.5 9.357c-0.197 0-0.357-0.16-0.357-0.357s0.16-0.357 0.357-0.357 0.357 0.16 0.357 0.357-0.16 0.357-0.357 0.357z" fill="#000000" />
+</svg>
+	<a role="button" tabindex="0" name="add-to-wishlist" aria-label="Add to Wishlist" data-tinv-wl-list="[]" data-tinv-wl-product="323" data-tinv-wl-productvariation="0" data-tinv-wl-productvariations="[]" data-tinv-wl-producttype="simple" data-tinv-wl-action="add">Add to Wishlist</a>		Add to Wishlist
+		<a href="https://demo.woostify.com/ankle/product/burberry-t-shirt/">				
+				<img width="300" height="500" src="https://demo.woostify.com/ankle/wp-content/uploads/sites/24/2019/04/7-1-1-300x500.jpg" alt="Burberry T-Shirt" decoding="async" loading="lazy" /></a>		<h2>
+			<a href="https://demo.woostify.com/ankle/product/burberry-t-shirt/">Burberry T-Shirt</a>		</h2>
+					<del aria-hidden="true">&pound;40.00</del> <ins>&pound;35.00</ins>
+			<a href="?add-to-cart=323" data-quantity="1" data-product_id="323" data-product_sku="" title="Add &ldquo;Burberry T-Shirt&rdquo; to your cart" rel="nofollow"><svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   width="17"
+   height="17"
+   viewBox="0 0 17 17"
+   id="svg50"
+   sodipodi:docname="shopping-cart-2.svg"
+   inkscape:version="1.0.2-2 (e86c870879, 2021-01-15)">
+  <metadata
+     id="metadata56">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs54" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="2400"
+     inkscape:window-height="1271"
+     id="namedview52"
+     showgrid="false"
+     inkscape:zoom="48.823529"
+     inkscape:cx="8.5"
+     inkscape:cy="8.5"
+     inkscape:window-x="2391"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg50" />
+  <g
+     id="g46"
+     transform="matrix(-1,0,0,1,16.926,0)" />
+  <path
+     d="m 14.176,12.5 c 0.965,0 1.75,0.785 1.75,1.75 0,0.965 -0.785,1.75 -1.75,1.75 -0.965,0 -1.75,-0.785 -1.75,-1.75 0,-0.965 0.785,-1.75 1.75,-1.75 z m 0,2.5 c 0.414,0 0.75,-0.337 0.75,-0.75 0,-0.413 -0.336,-0.75 -0.75,-0.75 -0.414,0 -0.75,0.337 -0.75,0.75 0,0.413 0.336,0.75 0.75,0.75 z m -8.5,-2.5 c 0.965,0 1.75,0.785 1.75,1.75 0,0.965 -0.785,1.75 -1.75,1.75 -0.965,0 -1.75,-0.785 -1.75,-1.75 0,-0.965 0.785,-1.75 1.75,-1.75 z m 0,2.5 c 0.414,0 0.75,-0.337 0.75,-0.75 0,-0.413 -0.336,-0.75 -0.75,-0.75 -0.414,0 -0.75,0.337 -0.75,0.75 0,0.413 0.336,0.75 0.75,0.75 z M 3.555,2 3.857,4 H 17 l -1.118,8.036 H 3.969 L 2.931,4.573 2.695,3 H -0.074 V 2 Z M 4,5 4.139,6 H 15.713 L 15.852,5 Z M 15.012,11.036 15.573,7 H 4.278 l 0.561,4.036 z"
+     fill="#000000"
+     id="path48" />
+</svg>
 Add to cart</a>
-<a tabindex="0" role="button" aria-label="Add to Wishlist" data-tinv-wl-list="[]" data-tinv-wl-product="323" data-tinv-wl-productvariation="0" data-tinv-wl-productvariations="[0]" data-tinv-wl-producttype="simple" data-tinv-wl-action="add">Add to Wishlist</a> Add to Wishlist</li>
- 	<li>
-
-
-<a tabindex="0" role="button" aria-label="Add to Wishlist" data-tinv-wl-list="[]" data-tinv-wl-product="324" data-tinv-wl-productvariation="0" data-tinv-wl-productvariations="[0]" data-tinv-wl-producttype="simple" data-tinv-wl-action="add">Add to Wishlist</a> Add to Wishlist
-<a href="https://demo.woostify.com/ankle/product/sporty-backpack/">
-<img src="https://demo.woostify.com/ankle/wp-content/uploads/sites/24/2019/04/6-1-1-300x500.jpg" alt="Sporty Backpack" width="300" height="500"></a>&nbsp;
-<h2><a href="https://demo.woostify.com/ankle/product/sporty-backpack/">Sporty Backpack</a></h2>
-£42.00
-<a title="Add “Sporty Backpack” to your cart" href="?add-to-cart=324" rel="nofollow" data-quantity="1" data-product_id="324" data-product_sku="">
-
-
-
-image/svg+xml
-
-
-
-
-
-
-
-
-
+	<a role="button" tabindex="0" name="add-to-wishlist" aria-label="Add to Wishlist" data-tinv-wl-list="[]" data-tinv-wl-product="323" data-tinv-wl-productvariation="0" data-tinv-wl-productvariations="[]" data-tinv-wl-producttype="simple" data-tinv-wl-action="add">Add to Wishlist</a>		Add to Wishlist
+		</li>
+<li>
+			<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="17" height="17" viewBox="0 0 17 17">
+<g>
+</g>
+	<path d="M16.965 8.817c-1.284-3.267-4.687-5.463-8.465-5.463s-7.181 2.196-8.465 5.463c-0.046 0.117-0.046 0.248 0 0.365 1.285 3.268 4.687 5.464 8.465 5.464s7.18-2.195 8.465-5.463c0.047-0.118 0.047-0.248 0-0.366zM8.5 13.646c-3.298 0-6.269-1.859-7.459-4.646 1.189-2.787 4.16-4.646 7.459-4.646s6.27 1.859 7.459 4.646c-1.19 2.786-4.161 4.646-7.459 4.646zM8.5 5.357c-2.009 0-3.643 1.634-3.643 3.643s1.634 3.643 3.644 3.643c2.008 0 3.643-1.634 3.643-3.643s-1.635-3.643-3.644-3.643zM8.5 11.643c-1.458 0-2.644-1.186-2.644-2.643s1.187-2.643 2.644-2.643c1.457 0 2.643 1.186 2.643 2.643s-1.185 2.643-2.643 2.643zM8.5 7.643c-0.748 0-1.357 0.609-1.357 1.357s0.609 1.357 1.357 1.357 1.357-0.609 1.357-1.357-0.609-1.357-1.357-1.357zM8.5 9.357c-0.197 0-0.357-0.16-0.357-0.357s0.16-0.357 0.357-0.357 0.357 0.16 0.357 0.357-0.16 0.357-0.357 0.357z" fill="#000000" />
+</svg>
+	<a role="button" tabindex="0" name="add-to-wishlist" aria-label="Add to Wishlist" data-tinv-wl-list="[]" data-tinv-wl-product="324" data-tinv-wl-productvariation="0" data-tinv-wl-productvariations="[]" data-tinv-wl-producttype="simple" data-tinv-wl-action="add">Add to Wishlist</a>		Add to Wishlist
+		<a href="https://demo.woostify.com/ankle/product/sporty-backpack/">				
+				<img width="300" height="500" src="https://demo.woostify.com/ankle/wp-content/uploads/sites/24/2019/04/6-1-1-300x500.jpg" alt="Sporty Backpack" decoding="async" loading="lazy" /></a>		<h2>
+			<a href="https://demo.woostify.com/ankle/product/sporty-backpack/">Sporty Backpack</a>		</h2>
+					&pound;42.00
+			<a href="?add-to-cart=324" data-quantity="1" data-product_id="324" data-product_sku="" title="Add &ldquo;Sporty Backpack&rdquo; to your cart" rel="nofollow"><svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   width="17"
+   height="17"
+   viewBox="0 0 17 17"
+   id="svg50"
+   sodipodi:docname="shopping-cart-2.svg"
+   inkscape:version="1.0.2-2 (e86c870879, 2021-01-15)">
+  <metadata
+     id="metadata56">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs54" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="2400"
+     inkscape:window-height="1271"
+     id="namedview52"
+     showgrid="false"
+     inkscape:zoom="48.823529"
+     inkscape:cx="8.5"
+     inkscape:cy="8.5"
+     inkscape:window-x="2391"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg50" />
+  <g
+     id="g46"
+     transform="matrix(-1,0,0,1,16.926,0)" />
+  <path
+     d="m 14.176,12.5 c 0.965,0 1.75,0.785 1.75,1.75 0,0.965 -0.785,1.75 -1.75,1.75 -0.965,0 -1.75,-0.785 -1.75,-1.75 0,-0.965 0.785,-1.75 1.75,-1.75 z m 0,2.5 c 0.414,0 0.75,-0.337 0.75,-0.75 0,-0.413 -0.336,-0.75 -0.75,-0.75 -0.414,0 -0.75,0.337 -0.75,0.75 0,0.413 0.336,0.75 0.75,0.75 z m -8.5,-2.5 c 0.965,0 1.75,0.785 1.75,1.75 0,0.965 -0.785,1.75 -1.75,1.75 -0.965,0 -1.75,-0.785 -1.75,-1.75 0,-0.965 0.785,-1.75 1.75,-1.75 z m 0,2.5 c 0.414,0 0.75,-0.337 0.75,-0.75 0,-0.413 -0.336,-0.75 -0.75,-0.75 -0.414,0 -0.75,0.337 -0.75,0.75 0,0.413 0.336,0.75 0.75,0.75 z M 3.555,2 3.857,4 H 17 l -1.118,8.036 H 3.969 L 2.931,4.573 2.695,3 H -0.074 V 2 Z M 4,5 4.139,6 H 15.713 L 15.852,5 Z M 15.012,11.036 15.573,7 H 4.278 l 0.561,4.036 z"
+     fill="#000000"
+     id="path48" />
+</svg>
 Add to cart</a>
-<a tabindex="0" role="button" aria-label="Add to Wishlist" data-tinv-wl-list="[]" data-tinv-wl-product="324" data-tinv-wl-productvariation="0" data-tinv-wl-productvariations="[0]" data-tinv-wl-producttype="simple" data-tinv-wl-action="add">Add to Wishlist</a> Add to Wishlist</li>
- 	<li>
-
-
-<a tabindex="0" role="button" aria-label="Add to Wishlist" data-tinv-wl-list="[]" data-tinv-wl-product="325" data-tinv-wl-productvariation="0" data-tinv-wl-productvariations="[0]" data-tinv-wl-producttype="variable" data-tinv-wl-action="add">Add to Wishlist</a> Add to Wishlist
-<a href="https://demo.woostify.com/ankle/product/freddie-mercury-t-shirt/">
-<img src="https://demo.woostify.com/ankle/wp-content/uploads/sites/24/2019/04/5-1-1-300x500.jpg" alt="Freddie Mercury T-Shirt" width="300" height="500"></a>&nbsp;
-<h2><a href="https://demo.woostify.com/ankle/product/freddie-mercury-t-shirt/">Freddie Mercury T-Shirt</a></h2>
-<a title="Select options for “Freddie Mercury T-Shirt”" href="https://demo.woostify.com/ankle/product/freddie-mercury-t-shirt/" rel="nofollow" data-quantity="1" data-product_id="325" data-product_sku="">
-
-
-
-image/svg+xml
-
-
-
-
-
-
-
-
-
+	<a role="button" tabindex="0" name="add-to-wishlist" aria-label="Add to Wishlist" data-tinv-wl-list="[]" data-tinv-wl-product="324" data-tinv-wl-productvariation="0" data-tinv-wl-productvariations="[]" data-tinv-wl-producttype="simple" data-tinv-wl-action="add">Add to Wishlist</a>		Add to Wishlist
+		</li>
+<li>
+			<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="17" height="17" viewBox="0 0 17 17">
+<g>
+</g>
+	<path d="M16.965 8.817c-1.284-3.267-4.687-5.463-8.465-5.463s-7.181 2.196-8.465 5.463c-0.046 0.117-0.046 0.248 0 0.365 1.285 3.268 4.687 5.464 8.465 5.464s7.18-2.195 8.465-5.463c0.047-0.118 0.047-0.248 0-0.366zM8.5 13.646c-3.298 0-6.269-1.859-7.459-4.646 1.189-2.787 4.16-4.646 7.459-4.646s6.27 1.859 7.459 4.646c-1.19 2.786-4.161 4.646-7.459 4.646zM8.5 5.357c-2.009 0-3.643 1.634-3.643 3.643s1.634 3.643 3.644 3.643c2.008 0 3.643-1.634 3.643-3.643s-1.635-3.643-3.644-3.643zM8.5 11.643c-1.458 0-2.644-1.186-2.644-2.643s1.187-2.643 2.644-2.643c1.457 0 2.643 1.186 2.643 2.643s-1.185 2.643-2.643 2.643zM8.5 7.643c-0.748 0-1.357 0.609-1.357 1.357s0.609 1.357 1.357 1.357 1.357-0.609 1.357-1.357-0.609-1.357-1.357-1.357zM8.5 9.357c-0.197 0-0.357-0.16-0.357-0.357s0.16-0.357 0.357-0.357 0.357 0.16 0.357 0.357-0.16 0.357-0.357 0.357z" fill="#000000" />
+</svg>
+	<a role="button" tabindex="0" name="add-to-wishlist" aria-label="Add to Wishlist" data-tinv-wl-list="[]" data-tinv-wl-product="325" data-tinv-wl-productvariation="0" data-tinv-wl-productvariations="[]" data-tinv-wl-producttype="variable" data-tinv-wl-action="add">Add to Wishlist</a>		Add to Wishlist
+		<a href="https://demo.woostify.com/ankle/product/freddie-mercury-t-shirt/">				
+				<img width="300" height="500" src="https://demo.woostify.com/ankle/wp-content/uploads/sites/24/2019/04/5-1-1-300x500.jpg" alt="Freddie Mercury T-Shirt" decoding="async" loading="lazy" /></a>		<h2>
+			<a href="https://demo.woostify.com/ankle/product/freddie-mercury-t-shirt/">Freddie Mercury T-Shirt</a>		</h2>
+		<a href="https://demo.woostify.com/ankle/product/freddie-mercury-t-shirt/" data-quantity="1" data-product_id="325" data-product_sku="" title="Select options for &ldquo;Freddie Mercury T-Shirt&rdquo;" rel="nofollow"><svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   width="17"
+   height="17"
+   viewBox="0 0 17 17"
+   id="svg50"
+   sodipodi:docname="shopping-cart-2.svg"
+   inkscape:version="1.0.2-2 (e86c870879, 2021-01-15)">
+  <metadata
+     id="metadata56">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs54" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="2400"
+     inkscape:window-height="1271"
+     id="namedview52"
+     showgrid="false"
+     inkscape:zoom="48.823529"
+     inkscape:cx="8.5"
+     inkscape:cy="8.5"
+     inkscape:window-x="2391"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg50" />
+  <g
+     id="g46"
+     transform="matrix(-1,0,0,1,16.926,0)" />
+  <path
+     d="m 14.176,12.5 c 0.965,0 1.75,0.785 1.75,1.75 0,0.965 -0.785,1.75 -1.75,1.75 -0.965,0 -1.75,-0.785 -1.75,-1.75 0,-0.965 0.785,-1.75 1.75,-1.75 z m 0,2.5 c 0.414,0 0.75,-0.337 0.75,-0.75 0,-0.413 -0.336,-0.75 -0.75,-0.75 -0.414,0 -0.75,0.337 -0.75,0.75 0,0.413 0.336,0.75 0.75,0.75 z m -8.5,-2.5 c 0.965,0 1.75,0.785 1.75,1.75 0,0.965 -0.785,1.75 -1.75,1.75 -0.965,0 -1.75,-0.785 -1.75,-1.75 0,-0.965 0.785,-1.75 1.75,-1.75 z m 0,2.5 c 0.414,0 0.75,-0.337 0.75,-0.75 0,-0.413 -0.336,-0.75 -0.75,-0.75 -0.414,0 -0.75,0.337 -0.75,0.75 0,0.413 0.336,0.75 0.75,0.75 z M 3.555,2 3.857,4 H 17 l -1.118,8.036 H 3.969 L 2.931,4.573 2.695,3 H -0.074 V 2 Z M 4,5 4.139,6 H 15.713 L 15.852,5 Z M 15.012,11.036 15.573,7 H 4.278 l 0.561,4.036 z"
+     fill="#000000"
+     id="path48" />
+</svg>
 Select options</a>
-<a tabindex="0" role="button" aria-label="Add to Wishlist" data-tinv-wl-list="[]" data-tinv-wl-product="325" data-tinv-wl-productvariation="0" data-tinv-wl-productvariations="[0]" data-tinv-wl-producttype="variable" data-tinv-wl-action="add">Add to Wishlist</a> Add to Wishlist</li>
- 	<li>
-
-
-<a tabindex="0" role="button" aria-label="Add to Wishlist" data-tinv-wl-list="[]" data-tinv-wl-product="326" data-tinv-wl-productvariation="0" data-tinv-wl-productvariations="[0]" data-tinv-wl-producttype="variable" data-tinv-wl-action="add">Add to Wishlist</a> Add to Wishlist
-<a href="https://demo.woostify.com/ankle/product/aviator-sunglasses/">
-<img src="https://demo.woostify.com/ankle/wp-content/uploads/sites/24/2019/04/4-1-300x500.jpg" alt="Aviator Sunglasses" width="300" height="500"></a>&nbsp;
-<h2><a href="https://demo.woostify.com/ankle/product/aviator-sunglasses/">Aviator Sunglasses</a></h2>
-<a title="Select options for “Aviator Sunglasses”" href="https://demo.woostify.com/ankle/product/aviator-sunglasses/" rel="nofollow" data-quantity="1" data-product_id="326" data-product_sku="">
-
-
-
-image/svg+xml
-
-
-
-
-
-
-
-
-
+	<a role="button" tabindex="0" name="add-to-wishlist" aria-label="Add to Wishlist" data-tinv-wl-list="[]" data-tinv-wl-product="325" data-tinv-wl-productvariation="0" data-tinv-wl-productvariations="[0]" data-tinv-wl-producttype="variable" data-tinv-wl-action="add">Add to Wishlist</a>				<input name="attribute_pa_size" type="hidden" value="size-s"/>
+						Add to Wishlist
+		</li>
+<li>
+			<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="17" height="17" viewBox="0 0 17 17">
+<g>
+</g>
+	<path d="M16.965 8.817c-1.284-3.267-4.687-5.463-8.465-5.463s-7.181 2.196-8.465 5.463c-0.046 0.117-0.046 0.248 0 0.365 1.285 3.268 4.687 5.464 8.465 5.464s7.18-2.195 8.465-5.463c0.047-0.118 0.047-0.248 0-0.366zM8.5 13.646c-3.298 0-6.269-1.859-7.459-4.646 1.189-2.787 4.16-4.646 7.459-4.646s6.27 1.859 7.459 4.646c-1.19 2.786-4.161 4.646-7.459 4.646zM8.5 5.357c-2.009 0-3.643 1.634-3.643 3.643s1.634 3.643 3.644 3.643c2.008 0 3.643-1.634 3.643-3.643s-1.635-3.643-3.644-3.643zM8.5 11.643c-1.458 0-2.644-1.186-2.644-2.643s1.187-2.643 2.644-2.643c1.457 0 2.643 1.186 2.643 2.643s-1.185 2.643-2.643 2.643zM8.5 7.643c-0.748 0-1.357 0.609-1.357 1.357s0.609 1.357 1.357 1.357 1.357-0.609 1.357-1.357-0.609-1.357-1.357-1.357zM8.5 9.357c-0.197 0-0.357-0.16-0.357-0.357s0.16-0.357 0.357-0.357 0.357 0.16 0.357 0.357-0.16 0.357-0.357 0.357z" fill="#000000" />
+</svg>
+	<a role="button" tabindex="0" name="add-to-wishlist" aria-label="Add to Wishlist" data-tinv-wl-list="[]" data-tinv-wl-product="326" data-tinv-wl-productvariation="0" data-tinv-wl-productvariations="[]" data-tinv-wl-producttype="variable" data-tinv-wl-action="add">Add to Wishlist</a>		Add to Wishlist
+		<a href="https://demo.woostify.com/ankle/product/aviator-sunglasses/">				
+				<img width="300" height="500" src="https://demo.woostify.com/ankle/wp-content/uploads/sites/24/2019/04/4-1-300x500.jpg" alt="Aviator Sunglasses" decoding="async" loading="lazy" /></a>		<h2>
+			<a href="https://demo.woostify.com/ankle/product/aviator-sunglasses/">Aviator Sunglasses</a>		</h2>
+		<a href="https://demo.woostify.com/ankle/product/aviator-sunglasses/" data-quantity="1" data-product_id="326" data-product_sku="" title="Select options for &ldquo;Aviator Sunglasses&rdquo;" rel="nofollow"><svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   width="17"
+   height="17"
+   viewBox="0 0 17 17"
+   id="svg50"
+   sodipodi:docname="shopping-cart-2.svg"
+   inkscape:version="1.0.2-2 (e86c870879, 2021-01-15)">
+  <metadata
+     id="metadata56">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs54" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="2400"
+     inkscape:window-height="1271"
+     id="namedview52"
+     showgrid="false"
+     inkscape:zoom="48.823529"
+     inkscape:cx="8.5"
+     inkscape:cy="8.5"
+     inkscape:window-x="2391"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg50" />
+  <g
+     id="g46"
+     transform="matrix(-1,0,0,1,16.926,0)" />
+  <path
+     d="m 14.176,12.5 c 0.965,0 1.75,0.785 1.75,1.75 0,0.965 -0.785,1.75 -1.75,1.75 -0.965,0 -1.75,-0.785 -1.75,-1.75 0,-0.965 0.785,-1.75 1.75,-1.75 z m 0,2.5 c 0.414,0 0.75,-0.337 0.75,-0.75 0,-0.413 -0.336,-0.75 -0.75,-0.75 -0.414,0 -0.75,0.337 -0.75,0.75 0,0.413 0.336,0.75 0.75,0.75 z m -8.5,-2.5 c 0.965,0 1.75,0.785 1.75,1.75 0,0.965 -0.785,1.75 -1.75,1.75 -0.965,0 -1.75,-0.785 -1.75,-1.75 0,-0.965 0.785,-1.75 1.75,-1.75 z m 0,2.5 c 0.414,0 0.75,-0.337 0.75,-0.75 0,-0.413 -0.336,-0.75 -0.75,-0.75 -0.414,0 -0.75,0.337 -0.75,0.75 0,0.413 0.336,0.75 0.75,0.75 z M 3.555,2 3.857,4 H 17 l -1.118,8.036 H 3.969 L 2.931,4.573 2.695,3 H -0.074 V 2 Z M 4,5 4.139,6 H 15.713 L 15.852,5 Z M 15.012,11.036 15.573,7 H 4.278 l 0.561,4.036 z"
+     fill="#000000"
+     id="path48" />
+</svg>
 Select options</a>
-<a tabindex="0" role="button" aria-label="Add to Wishlist" data-tinv-wl-list="[]" data-tinv-wl-product="326" data-tinv-wl-productvariation="0" data-tinv-wl-productvariations="[0]" data-tinv-wl-producttype="variable" data-tinv-wl-action="add">Add to Wishlist</a> Add to Wishlist</li>
- 	<li>-23%
-
-
-
-<a tabindex="0" role="button" aria-label="Add to Wishlist" data-tinv-wl-list="[]" data-tinv-wl-product="327" data-tinv-wl-productvariation="0" data-tinv-wl-productvariations="[0]" data-tinv-wl-producttype="simple" data-tinv-wl-action="add">Add to Wishlist</a> Add to Wishlist
-<a href="https://demo.woostify.com/ankle/product/t-shirt-with-colored-pocket/">
-<img src="https://demo.woostify.com/ankle/wp-content/uploads/sites/24/2019/04/3-1-1-300x500.jpg" alt="T-Shirt With Colored Pocket" width="300" height="500"></a>&nbsp;
-<h2><a href="https://demo.woostify.com/ankle/product/t-shirt-with-colored-pocket/">T-Shirt With Colored Pocket</a></h2>
-<del aria-hidden="true">£35.00</del> <ins>£27.00</ins>
-<a title="Add “T-Shirt With Colored Pocket” to your cart" href="?add-to-cart=327" rel="nofollow" data-quantity="1" data-product_id="327" data-product_sku="">
-
-
-
-image/svg+xml
-
-
-
-
-
-
-
-
-
+	<a role="button" tabindex="0" name="add-to-wishlist" aria-label="Add to Wishlist" data-tinv-wl-list="[]" data-tinv-wl-product="326" data-tinv-wl-productvariation="0" data-tinv-wl-productvariations="[0]" data-tinv-wl-producttype="variable" data-tinv-wl-action="add">Add to Wishlist</a>				<input name="attribute_pa_color" type="hidden" value="pink"/>
+						Add to Wishlist
+		</li>
+<li>
+				-23%			
+			<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="17" height="17" viewBox="0 0 17 17">
+<g>
+</g>
+	<path d="M16.965 8.817c-1.284-3.267-4.687-5.463-8.465-5.463s-7.181 2.196-8.465 5.463c-0.046 0.117-0.046 0.248 0 0.365 1.285 3.268 4.687 5.464 8.465 5.464s7.18-2.195 8.465-5.463c0.047-0.118 0.047-0.248 0-0.366zM8.5 13.646c-3.298 0-6.269-1.859-7.459-4.646 1.189-2.787 4.16-4.646 7.459-4.646s6.27 1.859 7.459 4.646c-1.19 2.786-4.161 4.646-7.459 4.646zM8.5 5.357c-2.009 0-3.643 1.634-3.643 3.643s1.634 3.643 3.644 3.643c2.008 0 3.643-1.634 3.643-3.643s-1.635-3.643-3.644-3.643zM8.5 11.643c-1.458 0-2.644-1.186-2.644-2.643s1.187-2.643 2.644-2.643c1.457 0 2.643 1.186 2.643 2.643s-1.185 2.643-2.643 2.643zM8.5 7.643c-0.748 0-1.357 0.609-1.357 1.357s0.609 1.357 1.357 1.357 1.357-0.609 1.357-1.357-0.609-1.357-1.357-1.357zM8.5 9.357c-0.197 0-0.357-0.16-0.357-0.357s0.16-0.357 0.357-0.357 0.357 0.16 0.357 0.357-0.16 0.357-0.357 0.357z" fill="#000000" />
+</svg>
+	<a role="button" tabindex="0" name="add-to-wishlist" aria-label="Add to Wishlist" data-tinv-wl-list="[]" data-tinv-wl-product="327" data-tinv-wl-productvariation="0" data-tinv-wl-productvariations="[]" data-tinv-wl-producttype="simple" data-tinv-wl-action="add">Add to Wishlist</a>		Add to Wishlist
+		<a href="https://demo.woostify.com/ankle/product/t-shirt-with-colored-pocket/">				
+				<img width="300" height="500" src="https://demo.woostify.com/ankle/wp-content/uploads/sites/24/2019/04/3-1-1-300x500.jpg" alt="T-Shirt With Colored Pocket" decoding="async" loading="lazy" /></a>		<h2>
+			<a href="https://demo.woostify.com/ankle/product/t-shirt-with-colored-pocket/">T-Shirt With Colored Pocket</a>		</h2>
+					<del aria-hidden="true">&pound;35.00</del> <ins>&pound;27.00</ins>
+			<a href="?add-to-cart=327" data-quantity="1" data-product_id="327" data-product_sku="" title="Add &ldquo;T-Shirt With Colored Pocket&rdquo; to your cart" rel="nofollow"><svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   width="17"
+   height="17"
+   viewBox="0 0 17 17"
+   id="svg50"
+   sodipodi:docname="shopping-cart-2.svg"
+   inkscape:version="1.0.2-2 (e86c870879, 2021-01-15)">
+  <metadata
+     id="metadata56">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs54" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="2400"
+     inkscape:window-height="1271"
+     id="namedview52"
+     showgrid="false"
+     inkscape:zoom="48.823529"
+     inkscape:cx="8.5"
+     inkscape:cy="8.5"
+     inkscape:window-x="2391"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg50" />
+  <g
+     id="g46"
+     transform="matrix(-1,0,0,1,16.926,0)" />
+  <path
+     d="m 14.176,12.5 c 0.965,0 1.75,0.785 1.75,1.75 0,0.965 -0.785,1.75 -1.75,1.75 -0.965,0 -1.75,-0.785 -1.75,-1.75 0,-0.965 0.785,-1.75 1.75,-1.75 z m 0,2.5 c 0.414,0 0.75,-0.337 0.75,-0.75 0,-0.413 -0.336,-0.75 -0.75,-0.75 -0.414,0 -0.75,0.337 -0.75,0.75 0,0.413 0.336,0.75 0.75,0.75 z m -8.5,-2.5 c 0.965,0 1.75,0.785 1.75,1.75 0,0.965 -0.785,1.75 -1.75,1.75 -0.965,0 -1.75,-0.785 -1.75,-1.75 0,-0.965 0.785,-1.75 1.75,-1.75 z m 0,2.5 c 0.414,0 0.75,-0.337 0.75,-0.75 0,-0.413 -0.336,-0.75 -0.75,-0.75 -0.414,0 -0.75,0.337 -0.75,0.75 0,0.413 0.336,0.75 0.75,0.75 z M 3.555,2 3.857,4 H 17 l -1.118,8.036 H 3.969 L 2.931,4.573 2.695,3 H -0.074 V 2 Z M 4,5 4.139,6 H 15.713 L 15.852,5 Z M 15.012,11.036 15.573,7 H 4.278 l 0.561,4.036 z"
+     fill="#000000"
+     id="path48" />
+</svg>
 Add to cart</a>
-<a tabindex="0" role="button" aria-label="Add to Wishlist" data-tinv-wl-list="[]" data-tinv-wl-product="327" data-tinv-wl-productvariation="0" data-tinv-wl-productvariations="[0]" data-tinv-wl-producttype="simple" data-tinv-wl-action="add">Add to Wishlist</a> Add to Wishlist</li>
- 	<li>
-
-
-<a tabindex="0" role="button" aria-label="Add to Wishlist" data-tinv-wl-list="[]" data-tinv-wl-product="328" data-tinv-wl-productvariation="0" data-tinv-wl-productvariations="[0]" data-tinv-wl-producttype="simple" data-tinv-wl-action="add">Add to Wishlist</a> Add to Wishlist
-<a href="https://demo.woostify.com/ankle/product/trainers-multicolored-pieces/">
-<img src="https://demo.woostify.com/ankle/wp-content/uploads/sites/24/2019/04/2-1-1-300x500.jpg" alt="Trainers Multicolored Pieces" width="300" height="500"></a>&nbsp;
-<h2><a href="https://demo.woostify.com/ankle/product/trainers-multicolored-pieces/">Trainers Multicolored Pieces</a></h2>
-£24.00
-<a title="Add “Trainers Multicolored Pieces” to your cart" href="?add-to-cart=328" rel="nofollow" data-quantity="1" data-product_id="328" data-product_sku="">
-
-
-
-image/svg+xml
-
-
-
-
-
-
-
-
-
+	<a role="button" tabindex="0" name="add-to-wishlist" aria-label="Add to Wishlist" data-tinv-wl-list="[]" data-tinv-wl-product="327" data-tinv-wl-productvariation="0" data-tinv-wl-productvariations="[]" data-tinv-wl-producttype="simple" data-tinv-wl-action="add">Add to Wishlist</a>		Add to Wishlist
+		</li>
+<li>
+			<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="17" height="17" viewBox="0 0 17 17">
+<g>
+</g>
+	<path d="M16.965 8.817c-1.284-3.267-4.687-5.463-8.465-5.463s-7.181 2.196-8.465 5.463c-0.046 0.117-0.046 0.248 0 0.365 1.285 3.268 4.687 5.464 8.465 5.464s7.18-2.195 8.465-5.463c0.047-0.118 0.047-0.248 0-0.366zM8.5 13.646c-3.298 0-6.269-1.859-7.459-4.646 1.189-2.787 4.16-4.646 7.459-4.646s6.27 1.859 7.459 4.646c-1.19 2.786-4.161 4.646-7.459 4.646zM8.5 5.357c-2.009 0-3.643 1.634-3.643 3.643s1.634 3.643 3.644 3.643c2.008 0 3.643-1.634 3.643-3.643s-1.635-3.643-3.644-3.643zM8.5 11.643c-1.458 0-2.644-1.186-2.644-2.643s1.187-2.643 2.644-2.643c1.457 0 2.643 1.186 2.643 2.643s-1.185 2.643-2.643 2.643zM8.5 7.643c-0.748 0-1.357 0.609-1.357 1.357s0.609 1.357 1.357 1.357 1.357-0.609 1.357-1.357-0.609-1.357-1.357-1.357zM8.5 9.357c-0.197 0-0.357-0.16-0.357-0.357s0.16-0.357 0.357-0.357 0.357 0.16 0.357 0.357-0.16 0.357-0.357 0.357z" fill="#000000" />
+</svg>
+	<a role="button" tabindex="0" name="add-to-wishlist" aria-label="Add to Wishlist" data-tinv-wl-list="[]" data-tinv-wl-product="328" data-tinv-wl-productvariation="0" data-tinv-wl-productvariations="[]" data-tinv-wl-producttype="simple" data-tinv-wl-action="add">Add to Wishlist</a>		Add to Wishlist
+		<a href="https://demo.woostify.com/ankle/product/trainers-multicolored-pieces/">				
+				<img width="300" height="500" src="https://demo.woostify.com/ankle/wp-content/uploads/sites/24/2019/04/2-1-1-300x500.jpg" alt="Trainers Multicolored Pieces" decoding="async" loading="lazy" /></a>		<h2>
+			<a href="https://demo.woostify.com/ankle/product/trainers-multicolored-pieces/">Trainers Multicolored Pieces</a>		</h2>
+					&pound;24.00
+			<a href="?add-to-cart=328" data-quantity="1" data-product_id="328" data-product_sku="" title="Add &ldquo;Trainers Multicolored Pieces&rdquo; to your cart" rel="nofollow"><svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   width="17"
+   height="17"
+   viewBox="0 0 17 17"
+   id="svg50"
+   sodipodi:docname="shopping-cart-2.svg"
+   inkscape:version="1.0.2-2 (e86c870879, 2021-01-15)">
+  <metadata
+     id="metadata56">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs54" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="2400"
+     inkscape:window-height="1271"
+     id="namedview52"
+     showgrid="false"
+     inkscape:zoom="48.823529"
+     inkscape:cx="8.5"
+     inkscape:cy="8.5"
+     inkscape:window-x="2391"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg50" />
+  <g
+     id="g46"
+     transform="matrix(-1,0,0,1,16.926,0)" />
+  <path
+     d="m 14.176,12.5 c 0.965,0 1.75,0.785 1.75,1.75 0,0.965 -0.785,1.75 -1.75,1.75 -0.965,0 -1.75,-0.785 -1.75,-1.75 0,-0.965 0.785,-1.75 1.75,-1.75 z m 0,2.5 c 0.414,0 0.75,-0.337 0.75,-0.75 0,-0.413 -0.336,-0.75 -0.75,-0.75 -0.414,0 -0.75,0.337 -0.75,0.75 0,0.413 0.336,0.75 0.75,0.75 z m -8.5,-2.5 c 0.965,0 1.75,0.785 1.75,1.75 0,0.965 -0.785,1.75 -1.75,1.75 -0.965,0 -1.75,-0.785 -1.75,-1.75 0,-0.965 0.785,-1.75 1.75,-1.75 z m 0,2.5 c 0.414,0 0.75,-0.337 0.75,-0.75 0,-0.413 -0.336,-0.75 -0.75,-0.75 -0.414,0 -0.75,0.337 -0.75,0.75 0,0.413 0.336,0.75 0.75,0.75 z M 3.555,2 3.857,4 H 17 l -1.118,8.036 H 3.969 L 2.931,4.573 2.695,3 H -0.074 V 2 Z M 4,5 4.139,6 H 15.713 L 15.852,5 Z M 15.012,11.036 15.573,7 H 4.278 l 0.561,4.036 z"
+     fill="#000000"
+     id="path48" />
+</svg>
 Add to cart</a>
-<a tabindex="0" role="button" aria-label="Add to Wishlist" data-tinv-wl-list="[]" data-tinv-wl-product="328" data-tinv-wl-productvariation="0" data-tinv-wl-productvariations="[0]" data-tinv-wl-producttype="simple" data-tinv-wl-action="add">Add to Wishlist</a> Add to Wishlist</li>
+	<a role="button" tabindex="0" name="add-to-wishlist" aria-label="Add to Wishlist" data-tinv-wl-list="[]" data-tinv-wl-product="328" data-tinv-wl-productvariation="0" data-tinv-wl-productvariations="[]" data-tinv-wl-producttype="simple" data-tinv-wl-action="add">Add to Wishlist</a>		Add to Wishlist
+		</li>
+			</ul>
+			<h2>Collections <br>For Women</h2>		
+		DISCOVER NINO WOMEN’S COLLECTION: MINIMAL AESTHETICS, SIMPLE &amp; CHIC, INNOVATIVE GARMENTS FOR SPECIAL WOMEN. 		
+			<a href="https://woostify.com/demos/pro/ankle/shop/pros/335/pros/335/" role="button">
+						Shop Women
+					</a>
+			<h2>Discover<br>Men's Collection</h2>		
+		<p>TRANSFORM THE CLASSICS: RELAXED, EVERYDAY PIECES CAN MAKE THE DIFFERENCE!</p>		
+			<a href="https://woostify.com/demos/pro/ankle/shop/pros/335/pros/335/" role="button">
+						Shop Man
+					</a>
+			<h2>Best Sellers</h2>		
+					<ul>
+		<li>
+			<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="17" height="17" viewBox="0 0 17 17">
+<g>
+</g>
+	<path d="M16.965 8.817c-1.284-3.267-4.687-5.463-8.465-5.463s-7.181 2.196-8.465 5.463c-0.046 0.117-0.046 0.248 0 0.365 1.285 3.268 4.687 5.464 8.465 5.464s7.18-2.195 8.465-5.463c0.047-0.118 0.047-0.248 0-0.366zM8.5 13.646c-3.298 0-6.269-1.859-7.459-4.646 1.189-2.787 4.16-4.646 7.459-4.646s6.27 1.859 7.459 4.646c-1.19 2.786-4.161 4.646-7.459 4.646zM8.5 5.357c-2.009 0-3.643 1.634-3.643 3.643s1.634 3.643 3.644 3.643c2.008 0 3.643-1.634 3.643-3.643s-1.635-3.643-3.644-3.643zM8.5 11.643c-1.458 0-2.644-1.186-2.644-2.643s1.187-2.643 2.644-2.643c1.457 0 2.643 1.186 2.643 2.643s-1.185 2.643-2.643 2.643zM8.5 7.643c-0.748 0-1.357 0.609-1.357 1.357s0.609 1.357 1.357 1.357 1.357-0.609 1.357-1.357-0.609-1.357-1.357-1.357zM8.5 9.357c-0.197 0-0.357-0.16-0.357-0.357s0.16-0.357 0.357-0.357 0.357 0.16 0.357 0.357-0.16 0.357-0.357 0.357z" fill="#000000" />
+</svg>
+	<a role="button" tabindex="0" name="add-to-wishlist" aria-label="Add to Wishlist" data-tinv-wl-list="[]" data-tinv-wl-product="616" data-tinv-wl-productvariation="0" data-tinv-wl-productvariations="[]" data-tinv-wl-producttype="simple" data-tinv-wl-action="add">Add to Wishlist</a>		Add to Wishlist
+		<a href="https://demo.woostify.com/ankle/product/off-shoulder-striped-top/">				
+				<img width="300" height="500" src="https://demo.woostify.com/ankle/wp-content/uploads/sites/24/2019/04/12-1-300x500.jpg" alt="Off-Shoulder Striped Top" decoding="async" loading="lazy" /></a>		<h2>
+			<a href="https://demo.woostify.com/ankle/product/off-shoulder-striped-top/">Off-Shoulder Striped Top</a>		</h2>
+					&pound;15.00
+			<a href="?add-to-cart=616" data-quantity="1" data-product_id="616" data-product_sku="" title="Add &ldquo;Off-Shoulder Striped Top&rdquo; to your cart" rel="nofollow"><svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   width="17"
+   height="17"
+   viewBox="0 0 17 17"
+   id="svg50"
+   sodipodi:docname="shopping-cart-2.svg"
+   inkscape:version="1.0.2-2 (e86c870879, 2021-01-15)">
+  <metadata
+     id="metadata56">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs54" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="2400"
+     inkscape:window-height="1271"
+     id="namedview52"
+     showgrid="false"
+     inkscape:zoom="48.823529"
+     inkscape:cx="8.5"
+     inkscape:cy="8.5"
+     inkscape:window-x="2391"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg50" />
+  <g
+     id="g46"
+     transform="matrix(-1,0,0,1,16.926,0)" />
+  <path
+     d="m 14.176,12.5 c 0.965,0 1.75,0.785 1.75,1.75 0,0.965 -0.785,1.75 -1.75,1.75 -0.965,0 -1.75,-0.785 -1.75,-1.75 0,-0.965 0.785,-1.75 1.75,-1.75 z m 0,2.5 c 0.414,0 0.75,-0.337 0.75,-0.75 0,-0.413 -0.336,-0.75 -0.75,-0.75 -0.414,0 -0.75,0.337 -0.75,0.75 0,0.413 0.336,0.75 0.75,0.75 z m -8.5,-2.5 c 0.965,0 1.75,0.785 1.75,1.75 0,0.965 -0.785,1.75 -1.75,1.75 -0.965,0 -1.75,-0.785 -1.75,-1.75 0,-0.965 0.785,-1.75 1.75,-1.75 z m 0,2.5 c 0.414,0 0.75,-0.337 0.75,-0.75 0,-0.413 -0.336,-0.75 -0.75,-0.75 -0.414,0 -0.75,0.337 -0.75,0.75 0,0.413 0.336,0.75 0.75,0.75 z M 3.555,2 3.857,4 H 17 l -1.118,8.036 H 3.969 L 2.931,4.573 2.695,3 H -0.074 V 2 Z M 4,5 4.139,6 H 15.713 L 15.852,5 Z M 15.012,11.036 15.573,7 H 4.278 l 0.561,4.036 z"
+     fill="#000000"
+     id="path48" />
+</svg>
+Add to cart</a>
+	<a role="button" tabindex="0" name="add-to-wishlist" aria-label="Add to Wishlist" data-tinv-wl-list="[]" data-tinv-wl-product="616" data-tinv-wl-productvariation="0" data-tinv-wl-productvariations="[]" data-tinv-wl-producttype="simple" data-tinv-wl-action="add">Add to Wishlist</a>		Add to Wishlist
+		</li>
+<li>
+			<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="17" height="17" viewBox="0 0 17 17">
+<g>
+</g>
+	<path d="M16.965 8.817c-1.284-3.267-4.687-5.463-8.465-5.463s-7.181 2.196-8.465 5.463c-0.046 0.117-0.046 0.248 0 0.365 1.285 3.268 4.687 5.464 8.465 5.464s7.18-2.195 8.465-5.463c0.047-0.118 0.047-0.248 0-0.366zM8.5 13.646c-3.298 0-6.269-1.859-7.459-4.646 1.189-2.787 4.16-4.646 7.459-4.646s6.27 1.859 7.459 4.646c-1.19 2.786-4.161 4.646-7.459 4.646zM8.5 5.357c-2.009 0-3.643 1.634-3.643 3.643s1.634 3.643 3.644 3.643c2.008 0 3.643-1.634 3.643-3.643s-1.635-3.643-3.644-3.643zM8.5 11.643c-1.458 0-2.644-1.186-2.644-2.643s1.187-2.643 2.644-2.643c1.457 0 2.643 1.186 2.643 2.643s-1.185 2.643-2.643 2.643zM8.5 7.643c-0.748 0-1.357 0.609-1.357 1.357s0.609 1.357 1.357 1.357 1.357-0.609 1.357-1.357-0.609-1.357-1.357-1.357zM8.5 9.357c-0.197 0-0.357-0.16-0.357-0.357s0.16-0.357 0.357-0.357 0.357 0.16 0.357 0.357-0.16 0.357-0.357 0.357z" fill="#000000" />
+</svg>
+	<a role="button" tabindex="0" name="add-to-wishlist" aria-label="Add to Wishlist" data-tinv-wl-list="[]" data-tinv-wl-product="615" data-tinv-wl-productvariation="0" data-tinv-wl-productvariations="[]" data-tinv-wl-producttype="simple" data-tinv-wl-action="add">Add to Wishlist</a>		Add to Wishlist
+		<a href="https://demo.woostify.com/ankle/product/striped-neckerchief/">				
+				<img width="300" height="500" src="https://demo.woostify.com/ankle/wp-content/uploads/sites/24/2019/04/11-1-300x500.jpg" alt="Striped Neckerchief" decoding="async" loading="lazy" /></a>		<h2>
+			<a href="https://demo.woostify.com/ankle/product/striped-neckerchief/">Striped Neckerchief</a>		</h2>
+					&pound;10.00
+			<a href="?add-to-cart=615" data-quantity="1" data-product_id="615" data-product_sku="" title="Add &ldquo;Striped Neckerchief&rdquo; to your cart" rel="nofollow"><svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   width="17"
+   height="17"
+   viewBox="0 0 17 17"
+   id="svg50"
+   sodipodi:docname="shopping-cart-2.svg"
+   inkscape:version="1.0.2-2 (e86c870879, 2021-01-15)">
+  <metadata
+     id="metadata56">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs54" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="2400"
+     inkscape:window-height="1271"
+     id="namedview52"
+     showgrid="false"
+     inkscape:zoom="48.823529"
+     inkscape:cx="8.5"
+     inkscape:cy="8.5"
+     inkscape:window-x="2391"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg50" />
+  <g
+     id="g46"
+     transform="matrix(-1,0,0,1,16.926,0)" />
+  <path
+     d="m 14.176,12.5 c 0.965,0 1.75,0.785 1.75,1.75 0,0.965 -0.785,1.75 -1.75,1.75 -0.965,0 -1.75,-0.785 -1.75,-1.75 0,-0.965 0.785,-1.75 1.75,-1.75 z m 0,2.5 c 0.414,0 0.75,-0.337 0.75,-0.75 0,-0.413 -0.336,-0.75 -0.75,-0.75 -0.414,0 -0.75,0.337 -0.75,0.75 0,0.413 0.336,0.75 0.75,0.75 z m -8.5,-2.5 c 0.965,0 1.75,0.785 1.75,1.75 0,0.965 -0.785,1.75 -1.75,1.75 -0.965,0 -1.75,-0.785 -1.75,-1.75 0,-0.965 0.785,-1.75 1.75,-1.75 z m 0,2.5 c 0.414,0 0.75,-0.337 0.75,-0.75 0,-0.413 -0.336,-0.75 -0.75,-0.75 -0.414,0 -0.75,0.337 -0.75,0.75 0,0.413 0.336,0.75 0.75,0.75 z M 3.555,2 3.857,4 H 17 l -1.118,8.036 H 3.969 L 2.931,4.573 2.695,3 H -0.074 V 2 Z M 4,5 4.139,6 H 15.713 L 15.852,5 Z M 15.012,11.036 15.573,7 H 4.278 l 0.561,4.036 z"
+     fill="#000000"
+     id="path48" />
+</svg>
+Add to cart</a>
+	<a role="button" tabindex="0" name="add-to-wishlist" aria-label="Add to Wishlist" data-tinv-wl-list="[]" data-tinv-wl-product="615" data-tinv-wl-productvariation="0" data-tinv-wl-productvariations="[]" data-tinv-wl-producttype="simple" data-tinv-wl-action="add">Add to Wishlist</a>		Add to Wishlist
+		</li>
+<li>
+			<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="17" height="17" viewBox="0 0 17 17">
+<g>
+</g>
+	<path d="M16.965 8.817c-1.284-3.267-4.687-5.463-8.465-5.463s-7.181 2.196-8.465 5.463c-0.046 0.117-0.046 0.248 0 0.365 1.285 3.268 4.687 5.464 8.465 5.464s7.18-2.195 8.465-5.463c0.047-0.118 0.047-0.248 0-0.366zM8.5 13.646c-3.298 0-6.269-1.859-7.459-4.646 1.189-2.787 4.16-4.646 7.459-4.646s6.27 1.859 7.459 4.646c-1.19 2.786-4.161 4.646-7.459 4.646zM8.5 5.357c-2.009 0-3.643 1.634-3.643 3.643s1.634 3.643 3.644 3.643c2.008 0 3.643-1.634 3.643-3.643s-1.635-3.643-3.644-3.643zM8.5 11.643c-1.458 0-2.644-1.186-2.644-2.643s1.187-2.643 2.644-2.643c1.457 0 2.643 1.186 2.643 2.643s-1.185 2.643-2.643 2.643zM8.5 7.643c-0.748 0-1.357 0.609-1.357 1.357s0.609 1.357 1.357 1.357 1.357-0.609 1.357-1.357-0.609-1.357-1.357-1.357zM8.5 9.357c-0.197 0-0.357-0.16-0.357-0.357s0.16-0.357 0.357-0.357 0.357 0.16 0.357 0.357-0.16 0.357-0.357 0.357z" fill="#000000" />
+</svg>
+	<a role="button" tabindex="0" name="add-to-wishlist" aria-label="Add to Wishlist" data-tinv-wl-list="[]" data-tinv-wl-product="614" data-tinv-wl-productvariation="0" data-tinv-wl-productvariations="[]" data-tinv-wl-producttype="simple" data-tinv-wl-action="add">Add to Wishlist</a>		Add to Wishlist
+		<a href="https://demo.woostify.com/ankle/product/color-block-fanny-pack/">				
+				<img width="300" height="500" src="https://demo.woostify.com/ankle/wp-content/uploads/sites/24/2019/04/10-1-300x500.jpg" alt="Color Block Fanny Pack" decoding="async" loading="lazy" /></a>		<h2>
+			<a href="https://demo.woostify.com/ankle/product/color-block-fanny-pack/">Color Block Fanny Pack</a>		</h2>
+					&pound;25.00
+			<a href="?add-to-cart=614" data-quantity="1" data-product_id="614" data-product_sku="" title="Add &ldquo;Color Block Fanny Pack&rdquo; to your cart" rel="nofollow"><svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   width="17"
+   height="17"
+   viewBox="0 0 17 17"
+   id="svg50"
+   sodipodi:docname="shopping-cart-2.svg"
+   inkscape:version="1.0.2-2 (e86c870879, 2021-01-15)">
+  <metadata
+     id="metadata56">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs54" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="2400"
+     inkscape:window-height="1271"
+     id="namedview52"
+     showgrid="false"
+     inkscape:zoom="48.823529"
+     inkscape:cx="8.5"
+     inkscape:cy="8.5"
+     inkscape:window-x="2391"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg50" />
+  <g
+     id="g46"
+     transform="matrix(-1,0,0,1,16.926,0)" />
+  <path
+     d="m 14.176,12.5 c 0.965,0 1.75,0.785 1.75,1.75 0,0.965 -0.785,1.75 -1.75,1.75 -0.965,0 -1.75,-0.785 -1.75,-1.75 0,-0.965 0.785,-1.75 1.75,-1.75 z m 0,2.5 c 0.414,0 0.75,-0.337 0.75,-0.75 0,-0.413 -0.336,-0.75 -0.75,-0.75 -0.414,0 -0.75,0.337 -0.75,0.75 0,0.413 0.336,0.75 0.75,0.75 z m -8.5,-2.5 c 0.965,0 1.75,0.785 1.75,1.75 0,0.965 -0.785,1.75 -1.75,1.75 -0.965,0 -1.75,-0.785 -1.75,-1.75 0,-0.965 0.785,-1.75 1.75,-1.75 z m 0,2.5 c 0.414,0 0.75,-0.337 0.75,-0.75 0,-0.413 -0.336,-0.75 -0.75,-0.75 -0.414,0 -0.75,0.337 -0.75,0.75 0,0.413 0.336,0.75 0.75,0.75 z M 3.555,2 3.857,4 H 17 l -1.118,8.036 H 3.969 L 2.931,4.573 2.695,3 H -0.074 V 2 Z M 4,5 4.139,6 H 15.713 L 15.852,5 Z M 15.012,11.036 15.573,7 H 4.278 l 0.561,4.036 z"
+     fill="#000000"
+     id="path48" />
+</svg>
+Add to cart</a>
+	<a role="button" tabindex="0" name="add-to-wishlist" aria-label="Add to Wishlist" data-tinv-wl-list="[]" data-tinv-wl-product="614" data-tinv-wl-productvariation="0" data-tinv-wl-productvariations="[]" data-tinv-wl-producttype="simple" data-tinv-wl-action="add">Add to Wishlist</a>		Add to Wishlist
+		</li>
+<li>
+			<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="17" height="17" viewBox="0 0 17 17">
+<g>
+</g>
+	<path d="M16.965 8.817c-1.284-3.267-4.687-5.463-8.465-5.463s-7.181 2.196-8.465 5.463c-0.046 0.117-0.046 0.248 0 0.365 1.285 3.268 4.687 5.464 8.465 5.464s7.18-2.195 8.465-5.463c0.047-0.118 0.047-0.248 0-0.366zM8.5 13.646c-3.298 0-6.269-1.859-7.459-4.646 1.189-2.787 4.16-4.646 7.459-4.646s6.27 1.859 7.459 4.646c-1.19 2.786-4.161 4.646-7.459 4.646zM8.5 5.357c-2.009 0-3.643 1.634-3.643 3.643s1.634 3.643 3.644 3.643c2.008 0 3.643-1.634 3.643-3.643s-1.635-3.643-3.644-3.643zM8.5 11.643c-1.458 0-2.644-1.186-2.644-2.643s1.187-2.643 2.644-2.643c1.457 0 2.643 1.186 2.643 2.643s-1.185 2.643-2.643 2.643zM8.5 7.643c-0.748 0-1.357 0.609-1.357 1.357s0.609 1.357 1.357 1.357 1.357-0.609 1.357-1.357-0.609-1.357-1.357-1.357zM8.5 9.357c-0.197 0-0.357-0.16-0.357-0.357s0.16-0.357 0.357-0.357 0.357 0.16 0.357 0.357-0.16 0.357-0.357 0.357z" fill="#000000" />
+</svg>
+	<a role="button" tabindex="0" name="add-to-wishlist" aria-label="Add to Wishlist" data-tinv-wl-list="[]" data-tinv-wl-product="613" data-tinv-wl-productvariation="0" data-tinv-wl-productvariations="[]" data-tinv-wl-producttype="simple" data-tinv-wl-action="add">Add to Wishlist</a>		Add to Wishlist
+		<a href="https://demo.woostify.com/ankle/product/oversized-denim-jacket/">				
+				<img width="300" height="500" src="https://demo.woostify.com/ankle/wp-content/uploads/sites/24/2019/04/9-1-300x500.jpg" alt="Oversized Denim Jacket" decoding="async" loading="lazy" /></a>		<h2>
+			<a href="https://demo.woostify.com/ankle/product/oversized-denim-jacket/">Oversized Denim Jacket</a>		</h2>
+					&pound;49.00
+			<a href="?add-to-cart=613" data-quantity="1" data-product_id="613" data-product_sku="" title="Add &ldquo;Oversized Denim Jacket&rdquo; to your cart" rel="nofollow"><svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   width="17"
+   height="17"
+   viewBox="0 0 17 17"
+   id="svg50"
+   sodipodi:docname="shopping-cart-2.svg"
+   inkscape:version="1.0.2-2 (e86c870879, 2021-01-15)">
+  <metadata
+     id="metadata56">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs54" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="2400"
+     inkscape:window-height="1271"
+     id="namedview52"
+     showgrid="false"
+     inkscape:zoom="48.823529"
+     inkscape:cx="8.5"
+     inkscape:cy="8.5"
+     inkscape:window-x="2391"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg50" />
+  <g
+     id="g46"
+     transform="matrix(-1,0,0,1,16.926,0)" />
+  <path
+     d="m 14.176,12.5 c 0.965,0 1.75,0.785 1.75,1.75 0,0.965 -0.785,1.75 -1.75,1.75 -0.965,0 -1.75,-0.785 -1.75,-1.75 0,-0.965 0.785,-1.75 1.75,-1.75 z m 0,2.5 c 0.414,0 0.75,-0.337 0.75,-0.75 0,-0.413 -0.336,-0.75 -0.75,-0.75 -0.414,0 -0.75,0.337 -0.75,0.75 0,0.413 0.336,0.75 0.75,0.75 z m -8.5,-2.5 c 0.965,0 1.75,0.785 1.75,1.75 0,0.965 -0.785,1.75 -1.75,1.75 -0.965,0 -1.75,-0.785 -1.75,-1.75 0,-0.965 0.785,-1.75 1.75,-1.75 z m 0,2.5 c 0.414,0 0.75,-0.337 0.75,-0.75 0,-0.413 -0.336,-0.75 -0.75,-0.75 -0.414,0 -0.75,0.337 -0.75,0.75 0,0.413 0.336,0.75 0.75,0.75 z M 3.555,2 3.857,4 H 17 l -1.118,8.036 H 3.969 L 2.931,4.573 2.695,3 H -0.074 V 2 Z M 4,5 4.139,6 H 15.713 L 15.852,5 Z M 15.012,11.036 15.573,7 H 4.278 l 0.561,4.036 z"
+     fill="#000000"
+     id="path48" />
+</svg>
+Add to cart</a>
+	<a role="button" tabindex="0" name="add-to-wishlist" aria-label="Add to Wishlist" data-tinv-wl-list="[]" data-tinv-wl-product="613" data-tinv-wl-productvariation="0" data-tinv-wl-productvariations="[]" data-tinv-wl-producttype="simple" data-tinv-wl-action="add">Add to Wishlist</a>		Add to Wishlist
+		</li>
 </ul>
-<h2>Collections
-For Women</h2>
-DISCOVER NINO WOMEN’S COLLECTION: MINIMAL AESTHETICS, SIMPLE &amp; CHIC, INNOVATIVE GARMENTS FOR SPECIAL WOMEN.
-<a role="button" href="https://woostify.com/demos/pro/ankle/shop/">
-Shop Women
-</a>
-<h2>Discover
-Men's Collection</h2>
-TRANSFORM THE CLASSICS: RELAXED, EVERYDAY PIECES CAN MAKE THE DIFFERENCE!
-
-<a role="button" href="https://woostify.com/demos/pro/ankle/shop/">
-Shop Man
-</a>
-<h2>Best Sellers</h2>
-<ul>
- 	<li>
-
-
-<a tabindex="0" role="button" aria-label="Add to Wishlist" data-tinv-wl-list="[]" data-tinv-wl-product="616" data-tinv-wl-productvariation="0" data-tinv-wl-productvariations="[0]" data-tinv-wl-producttype="simple" data-tinv-wl-action="add">Add to Wishlist</a> Add to Wishlist
-<a href="https://demo.woostify.com/ankle/product/off-shoulder-striped-top/">
-<img src="https://demo.woostify.com/ankle/wp-content/uploads/sites/24/2019/04/12-1-300x500.jpg" alt="Off-Shoulder Striped Top" width="300" height="500"></a>&nbsp;
-<h2><a href="https://demo.woostify.com/ankle/product/off-shoulder-striped-top/">Off-Shoulder Striped Top</a></h2>
-£15.00
-<a title="Add “Off-Shoulder Striped Top” to your cart" href="?add-to-cart=616" rel="nofollow" data-quantity="1" data-product_id="616" data-product_sku="">
-
-
-
-image/svg+xml
-
-
-
-
-
-
-
-
-
-Add to cart</a>
-<a tabindex="0" role="button" aria-label="Add to Wishlist" data-tinv-wl-list="[]" data-tinv-wl-product="616" data-tinv-wl-productvariation="0" data-tinv-wl-productvariations="[0]" data-tinv-wl-producttype="simple" data-tinv-wl-action="add">Add to Wishlist</a> Add to Wishlist</li>
- 	<li>
-
-
-<a tabindex="0" role="button" aria-label="Add to Wishlist" data-tinv-wl-list="[]" data-tinv-wl-product="615" data-tinv-wl-productvariation="0" data-tinv-wl-productvariations="[0]" data-tinv-wl-producttype="simple" data-tinv-wl-action="add">Add to Wishlist</a> Add to Wishlist
-<a href="https://demo.woostify.com/ankle/product/striped-neckerchief/">
-<img src="https://demo.woostify.com/ankle/wp-content/uploads/sites/24/2019/04/11-1-300x500.jpg" alt="Striped Neckerchief" width="300" height="500"></a>&nbsp;
-<h2><a href="https://demo.woostify.com/ankle/product/striped-neckerchief/">Striped Neckerchief</a></h2>
-£10.00
-<a title="Add “Striped Neckerchief” to your cart" href="?add-to-cart=615" rel="nofollow" data-quantity="1" data-product_id="615" data-product_sku="">
-
-
-
-image/svg+xml
-
-
-
-
-
-
-
-
-
-Add to cart</a>
-<a tabindex="0" role="button" aria-label="Add to Wishlist" data-tinv-wl-list="[]" data-tinv-wl-product="615" data-tinv-wl-productvariation="0" data-tinv-wl-productvariations="[0]" data-tinv-wl-producttype="simple" data-tinv-wl-action="add">Add to Wishlist</a> Add to Wishlist</li>
- 	<li>
-
-
-<a tabindex="0" role="button" aria-label="Add to Wishlist" data-tinv-wl-list="[]" data-tinv-wl-product="614" data-tinv-wl-productvariation="0" data-tinv-wl-productvariations="[0]" data-tinv-wl-producttype="simple" data-tinv-wl-action="add">Add to Wishlist</a> Add to Wishlist
-<a href="https://demo.woostify.com/ankle/product/color-block-fanny-pack/">
-<img src="https://demo.woostify.com/ankle/wp-content/uploads/sites/24/2019/04/10-1-300x500.jpg" alt="Color Block Fanny Pack" width="300" height="500"></a>&nbsp;
-<h2><a href="https://demo.woostify.com/ankle/product/color-block-fanny-pack/">Color Block Fanny Pack</a></h2>
-£25.00
-<a title="Add “Color Block Fanny Pack” to your cart" href="?add-to-cart=614" rel="nofollow" data-quantity="1" data-product_id="614" data-product_sku="">
-
-
-
-image/svg+xml
-
-
-
-
-
-
-
-
-
-Add to cart</a>
-<a tabindex="0" role="button" aria-label="Add to Wishlist" data-tinv-wl-list="[]" data-tinv-wl-product="614" data-tinv-wl-productvariation="0" data-tinv-wl-productvariations="[0]" data-tinv-wl-producttype="simple" data-tinv-wl-action="add">Add to Wishlist</a> Add to Wishlist</li>
- 	<li>
-
-
-<a tabindex="0" role="button" aria-label="Add to Wishlist" data-tinv-wl-list="[]" data-tinv-wl-product="613" data-tinv-wl-productvariation="0" data-tinv-wl-productvariations="[0]" data-tinv-wl-producttype="simple" data-tinv-wl-action="add">Add to Wishlist</a> Add to Wishlist
-<a href="https://demo.woostify.com/ankle/product/oversized-denim-jacket/">
-<img src="https://demo.woostify.com/ankle/wp-content/uploads/sites/24/2019/04/9-1-300x500.jpg" alt="Oversized Denim Jacket" width="300" height="500"></a>&nbsp;
-<h2><a href="https://demo.woostify.com/ankle/product/oversized-denim-jacket/">Oversized Denim Jacket</a></h2>
-£49.00
-<a title="Add “Oversized Denim Jacket” to your cart" href="?add-to-cart=613" rel="nofollow" data-quantity="1" data-product_id="613" data-product_sku="">
-
-
-
-image/svg+xml
-
-
-
-
-
-
-
-
-
-Add to cart</a>
-<a tabindex="0" role="button" aria-label="Add to Wishlist" data-tinv-wl-list="[]" data-tinv-wl-product="613" data-tinv-wl-productvariation="0" data-tinv-wl-productvariations="[0]" data-tinv-wl-producttype="simple" data-tinv-wl-action="add">Add to Wishlist</a> Add to Wishlist</li>
-</ul>
-<h2>50% OFF</h2>
-Use code <strong>WST50OFF</strong>
-
-Pellentesque quis dui varius, dapibus velit id, iaculis ipsum. Morbi ac eros feugiat.
-
-<a role="button" href="https://woostify.com/demos/pro/ankle/shop/">
-Shop Now
-</a>
-<h2>New Collection</h2>
-Fall/Summer 2k19
-
-Pellentesque quis dui varius, dapibus velit id, iaculis ipsum. Morbi ac eros feugiat.
-
-<a role="button" href="https://woostify.com/demos/pro/ankle/shop/">
-Explore More
-</a>
-<h2>Latest News</h2>
-<a href="https://demo.woostify.com/ankle/2019/05/08/retro-fashion-a-look-back-to-1990s-copy/">
-<img sizes="(max-width: 768px) 100vw, 768px" srcset="https://demo.woostify.com/ankle/wp-content/uploads/sites/24/2019/05/2-768x432.jpg 768w, https://demo.woostify.com/ankle/wp-content/uploads/sites/24/2019/05/2-300x169.jpg 300w, https://demo.woostify.com/ankle/wp-content/uploads/sites/24/2019/05/2-1024x576.jpg 1024w, https://demo.woostify.com/ankle/wp-content/uploads/sites/24/2019/05/2-1536x864.jpg 1536w, https://demo.woostify.com/ankle/wp-content/uploads/sites/24/2019/05/2-600x338.jpg 600w, https://demo.woostify.com/ankle/wp-content/uploads/sites/24/2019/05/2.jpg 1600w" alt="Post thumbnail" width="768" height="432"> </a>
-<h3><a href="https://demo.woostify.com/ankle/2019/05/08/retro-fashion-a-look-back-to-1990s-copy/">5 Fashion Labels</a></h3>
-On the 25th of June 2017 I spent a nerve-wracking 6 hours taking my Introductory…
-<a href="https://demo.woostify.com/ankle/2019/04/11/retro-fashion-a-look-back-to-1990s/">
-<img sizes="(max-width: 768px) 100vw, 768px" srcset="https://demo.woostify.com/ankle/wp-content/uploads/sites/24/2019/04/ank-blog-3-1-768x516.jpg 768w, https://demo.woostify.com/ankle/wp-content/uploads/sites/24/2019/04/ank-blog-3-1-300x202.jpg 300w, https://demo.woostify.com/ankle/wp-content/uploads/sites/24/2019/04/ank-blog-3-1-600x403.jpg 600w, https://demo.woostify.com/ankle/wp-content/uploads/sites/24/2019/04/ank-blog-3-1.jpg 936w" alt="Post thumbnail" width="768" height="516"> </a>
-<h3><a href="https://demo.woostify.com/ankle/2019/04/11/retro-fashion-a-look-back-to-1990s/">Retro Fashion: Back to 1990s</a></h3>
-On the 25th of June 2017 I spent a nerve-wracking 6 hours taking my Introductory…
-<a href="https://demo.woostify.com/ankle/2019/04/11/show-of-the-week-milano-is-coming-soon/">
-<img sizes="(max-width: 768px) 100vw, 768px" srcset="https://demo.woostify.com/ankle/wp-content/uploads/sites/24/2019/04/ank-blog-2-768x432.jpg 768w, https://demo.woostify.com/ankle/wp-content/uploads/sites/24/2019/04/ank-blog-2-300x169.jpg 300w, https://demo.woostify.com/ankle/wp-content/uploads/sites/24/2019/04/ank-blog-2-1024x576.jpg 1024w, https://demo.woostify.com/ankle/wp-content/uploads/sites/24/2019/04/ank-blog-2-600x338.jpg 600w, https://demo.woostify.com/ankle/wp-content/uploads/sites/24/2019/04/ank-blog-2.jpg 1280w" alt="Post thumbnail" width="768" height="432"> </a>
-<h3><a href="https://demo.woostify.com/ankle/2019/04/11/show-of-the-week-milano-is-coming-soon/">Show of the week: Milano is coming soon</a></h3>
-On the 25th of June 2017 I spent a nerve-wracking 6 hours taking my Introductory…]]></content:encoded>
+			<h2>50% OFF</h2>		
+		<p>Use code <strong>WST50OFF</strong></p><p>Pellentesque quis dui varius, dapibus velit id, iaculis ipsum. Morbi ac eros feugiat.</p>		
+			<a href="https://woostify.com/demos/pro/ankle/shop/pros/335/pros/335/" role="button">
+						Shop Now
+					</a>
+			<h2>New Collection</h2>		
+		<p>Fall/Summer 2k19</p><p>Pellentesque quis dui varius, dapibus velit id, iaculis ipsum. Morbi ac eros feugiat.</p>		
+			<a href="https://woostify.com/demos/pro/ankle/shop/pros/335/pros/335/" role="button">
+						Explore More
+					</a>
+			<h2>Latest News</h2>		
+													<a href="https://demo.woostify.com/ankle/2019/04/11/show-of-the-week-milano-is-coming-soon/">
+								<img width="768" height="432" alt="Post thumbnail" srcset="https://demo.woostify.com/ankle/wp-content/uploads/sites/24/2019/04/ank-blog-2-768x432.jpg 768w, https://demo.woostify.com/ankle/wp-content/uploads/sites/24/2019/04/ank-blog-2-300x169.jpg 300w, https://demo.woostify.com/ankle/wp-content/uploads/sites/24/2019/04/ank-blog-2-1024x576.jpg 1024w, https://demo.woostify.com/ankle/wp-content/uploads/sites/24/2019/04/ank-blog-2-600x338.jpg 600w, https://demo.woostify.com/ankle/wp-content/uploads/sites/24/2019/04/ank-blog-2.jpg 1280w" sizes="(max-width: 768px) 100vw, 768px" />							</a>
+																	<h3><a href="https://demo.woostify.com/ankle/2019/04/11/show-of-the-week-milano-is-coming-soon/">Show of the week: Milano is coming soon</a></h3>
+										On the 25th of June 2017 I spent a nerve-wracking 6 hours taking my Introductory&hellip;									
+													<a href="https://demo.woostify.com/ankle/2019/05/08/retro-fashion-a-look-back-to-1990s-copy-copy/">
+								<img width="768" height="432" alt="Post thumbnail" srcset="https://demo.woostify.com/ankle/wp-content/uploads/sites/24/2019/05/3-768x432.jpg 768w, https://demo.woostify.com/ankle/wp-content/uploads/sites/24/2019/05/3-300x169.jpg 300w, https://demo.woostify.com/ankle/wp-content/uploads/sites/24/2019/05/3-1024x576.jpg 1024w, https://demo.woostify.com/ankle/wp-content/uploads/sites/24/2019/05/3-1536x864.jpg 1536w, https://demo.woostify.com/ankle/wp-content/uploads/sites/24/2019/05/3-600x338.jpg 600w, https://demo.woostify.com/ankle/wp-content/uploads/sites/24/2019/05/3.jpg 1600w" sizes="(max-width: 768px) 100vw, 768px" />							</a>
+																	<h3><a href="https://demo.woostify.com/ankle/2019/05/08/retro-fashion-a-look-back-to-1990s-copy-copy/">A Guide To The Best Accessories</a></h3>
+										On the 25th of June 2017 I spent a nerve-wracking 6 hours taking my Introductory&hellip;									
+													<a href="https://demo.woostify.com/ankle/2019/04/11/retro-fashion-a-look-back-to-1990s/">
+								<img width="768" height="516" alt="Post thumbnail" srcset="https://demo.woostify.com/ankle/wp-content/uploads/sites/24/2019/04/ank-blog-3-1-768x516.jpg 768w, https://demo.woostify.com/ankle/wp-content/uploads/sites/24/2019/04/ank-blog-3-1-300x202.jpg 300w, https://demo.woostify.com/ankle/wp-content/uploads/sites/24/2019/04/ank-blog-3-1-600x403.jpg 600w, https://demo.woostify.com/ankle/wp-content/uploads/sites/24/2019/04/ank-blog-3-1.jpg 936w" sizes="(max-width: 768px) 100vw, 768px" />							</a>
+																	<h3><a href="https://demo.woostify.com/ankle/2019/04/11/retro-fashion-a-look-back-to-1990s/">Retro Fashion: Back to 1990s</a></h3>
+										On the 25th of June 2017 I spent a nerve-wracking 6 hours taking my Introductory&hellip;]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>896</wp:post_id>
 		<wp:post_date><![CDATA[2019-04-09 03:58:15]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-04-09 03:58:15]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2022-07-11 13:32:42]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2022-07-11 13:32:42]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2023-06-16 08:11:35]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-06-16 08:11:35]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[homepage]]></wp:post_name>
@@ -5776,7 +6255,7 @@ On the 25th of June 2017 I spent a nerve-wracking 6 hours taking my Introductory
 		<wp:is_sticky>0</wp:is_sticky>
 														<wp:postmeta>
 		<wp:meta_key><![CDATA[site-container]]></wp:meta_key>
-		<wp:meta_value><![CDATA[default]]></wp:meta_value>
+		<wp:meta_value><![CDATA[full-width-stretched]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[site-header-transparent]]></wp:meta_key>
@@ -5796,7 +6275,7 @@ On the 25th of June 2017 I spent a nerve-wracking 6 hours taking my Introductory
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_elementor_version]]></wp:meta_key>
-		<wp:meta_value><![CDATA[3.5.3]]></wp:meta_value>
+		<wp:meta_value><![CDATA[3.13.4]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
@@ -5804,7 +6283,7 @@ On the 25th of June 2017 I spent a nerve-wracking 6 hours taking my Introductory
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_elementor_data]]></wp:meta_key>
-		<wp:meta_value><![CDATA[[{"id":"2215fb4","elType":"section","settings":{"stretch_section":"section-stretched","layout":"full_width","margin":{"unit":"px","top":"0","right":0,"bottom":"0","left":0,"isLinked":false},"padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false}},"elements":[{"id":"1d86a13","elType":"column","settings":{"_column_size":100,"margin":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false},"padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false}},"elements":[{"id":"c9f1f2c","elType":"widget","settings":{"slides":[{"title":"Stay Beautiful","description":"","btn1_text":"Shop Now","btn1_link":{"url":"https:\/\/woostify.com\/demos\/pro\/ankle\/shop\/"},"background_background":"classic","_id":"0dac58f","btn2_link":{"url":"","is_external":"","nofollow":""},"background_image":{"url":"https:\/\/demo.woostify.com\/ankle\/wp-content\/uploads\/sites\/24\/2019\/04\/ank-slider-1-1.jpg","id":737}},{"title":"Summer Vibers","description":"","btn1_text":"Shop Now","btn1_link":{"url":"https:\/\/woostify.com\/demos\/pro\/ankle\/shop\/"},"background_background":"classic","_id":"474b414","btn2_link":{"url":"","is_external":"","nofollow":""},"background_image":{"url":"https:\/\/demo.woostify.com\/ankle\/wp-content\/uploads\/sites\/24\/2019\/05\/woven_greenhouse_sg-20_1728x.jpg","id":850},"background_position":"top center","background_size":"cover","custom_content_width":{"unit":"px","size":1235,"sizes":[]},"custom_horizontal_pos":"flex-start","custom_vertical_pos":"center","custom_text_align":"left"}],"slider_height":{"unit":"px","size":550,"sizes":[]},"horizontal_pos":"center","vertical_pos":"center","text_align":"center","title_typography_typography":"custom","title_typography_font_size":{"unit":"px","size":56,"sizes":[]},"title_typography_line_height":{"unit":"em","size":1,"sizes":[]},"button_typography_typography":"custom","button_typography_font_size":{"unit":"px","size":14,"sizes":[]},"button_typography_font_weight":"900","button_typography_font_style":"italic","button_border_width":{"unit":"px","size":1,"sizes":[]},"button_border_radius":{"unit":"px","size":0,"sizes":[]},"button_color_hover":"#262626","button_bg_color_hover":"#ffffff","button_border_color_hover":"#ffffff"},"elements":[],"widgetType":"woostify-slider"}],"isInner":false}],"isInner":false},{"id":"cab69ae","elType":"section","settings":{"margin":{"unit":"px","top":"80","right":0,"bottom":"0","left":0,"isLinked":false},"padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false}},"elements":[{"id":"c96ab17","elType":"column","settings":{"_column_size":100,"_inline_size":null},"elements":[{"id":"60a3024","elType":"widget","settings":{"title":"<span style=\"font-weight:300\">New<\/span> Arrivals","align":"center","title_color":"#262626","typography_typography":"custom","typography_font_weight":"900","typography_font_style":"italic","_margin":{"unit":"px","top":"0","right":"0","bottom":"30","left":"0","isLinked":false}},"elements":[],"widgetType":"heading"},{"id":"8928d4d","elType":"widget","settings":[],"elements":[],"widgetType":"woostify-new-product-slider"},{"id":"d0e2d75","elType":"widget","settings":[],"elements":[],"widgetType":"spacer"}],"isInner":false}],"isInner":false},{"id":"1fe0ebd","elType":"section","settings":{"structure":"22","margin":{"unit":"px","top":"40","right":0,"bottom":"0","left":0,"isLinked":false},"margin_tablet":{"unit":"px","top":"20","right":0,"bottom":"0","left":0,"isLinked":false}},"elements":[{"id":"c4780e6","elType":"column","settings":{"_column_size":66,"_inline_size":null,"background_background":"classic","background_image":{"url":"https:\/\/demo.woostify.com\/ankle\/wp-content\/uploads\/sites\/24\/2019\/04\/ank-home-for-women.jpg","id":668},"padding":{"unit":"px","top":"320","right":"0","bottom":"0","left":"0","isLinked":false},"z_index":0,"_inline_size_tablet":100},"elements":[{"id":"6ab8720","elType":"section","settings":{"z_index":1},"elements":[{"id":"bc7c647","elType":"column","settings":{"_column_size":100,"_inline_size":null,"content_position":"bottom","align":"flex-end","background_background":"classic","background_color":"rgba(255,255,255,0.73)","margin":{"unit":"px","top":"0","right":"0","bottom":"0","left":"300","isLinked":false},"padding":{"unit":"px","top":"50","right":"50","bottom":"50","left":"50","isLinked":false},"margin_tablet":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true},"padding_mobile":{"unit":"px","top":"50","right":"15","bottom":"50","left":"15","isLinked":false},"background_image_tablet":{"url":"https:\/\/woostify.com\/demos\/ankle\/wp-content\/uploads\/2019\/05\/transparent-bg-repeat.png","id":821},"background_repeat":"repeat"},"elements":[{"id":"bfe21e4","elType":"widget","settings":{"title":"<span style=\"font-weight:300\">Collections <\/span><br><span style=\"font-weight:300\">For<\/span> Women","title_color":"#262626","typography_typography":"custom","typography_font_weight":"900","typography_font_style":"italic"},"elements":[],"widgetType":"heading"},{"id":"a67fd94","elType":"widget","settings":{"editor":"DISCOVER NINO WOMEN\u2019S COLLECTION: MINIMAL AESTHETICS, SIMPLE &amp; CHIC, INNOVATIVE GARMENTS FOR SPECIAL WOMEN. ","text_color":"#262626","typography_typography":"custom","typography_font_family":"Montserrat","typography_font_size":{"unit":"px","size":13,"sizes":[]},"typography_font_weight":"300","typography_line_height":{"unit":"em","size":1.6,"sizes":[]},"_margin":{"unit":"px","top":"0","right":"20","bottom":"0","left":"0","isLinked":false}},"elements":[],"widgetType":"text-editor"},{"id":"094502b","elType":"widget","settings":{"text":"Shop Women","typography_typography":"custom","typography_font_family":"Montserrat","typography_font_size":{"unit":"px","size":14,"sizes":[]},"typography_font_weight":"900","typography_font_style":"italic","button_text_color":"#ffffff","background_color":"#262626","border_radius":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true},"hover_color":"#ffffff","button_background_hover_color":"#a2a2a2","link":{"url":"https:\/\/woostify.com\/demos\/pro\/ankle\/shop\/","is_external":"","nofollow":""}},"elements":[],"widgetType":"button"}],"isInner":true}],"isInner":true}],"isInner":false},{"id":"f4f86e5","elType":"column","settings":{"_column_size":33,"_inline_size":null,"_inline_size_tablet":100},"elements":[],"isInner":false}],"isInner":false},{"id":"d282d50","elType":"section","settings":{"structure":"21","margin":{"unit":"px","top":"100","right":0,"bottom":"0","left":0,"isLinked":false},"margin_tablet":{"unit":"px","top":"30","right":0,"bottom":"0","left":0,"isLinked":false}},"elements":[{"id":"7c958c8","elType":"column","settings":{"_column_size":33,"_inline_size":null,"_inline_size_tablet":100},"elements":[],"isInner":false},{"id":"0e0d439","elType":"column","settings":{"_column_size":66,"_inline_size":null,"background_background":"classic","background_image":{"url":"https:\/\/demo.woostify.com\/ankle\/wp-content\/uploads\/sites\/24\/2019\/04\/ank-home-for-man.jpg","id":676},"background_position":"top right","padding":{"unit":"px","top":"250","right":"0","bottom":"0","left":"0","isLinked":false},"_inline_size_tablet":100},"elements":[{"id":"5de9436","elType":"section","settings":{"z_index":1},"elements":[{"id":"e2a04fc","elType":"column","settings":{"_column_size":100,"_inline_size":null,"content_position":"bottom","align":"flex-end","background_background":"classic","background_color":"rgba(255,255,255,0.73)","margin":{"unit":"px","top":"0","right":"300","bottom":"0","left":"0","isLinked":false},"padding":{"unit":"px","top":"50","right":"50","bottom":"50","left":"50","isLinked":false},"margin_tablet":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true},"padding_mobile":{"unit":"px","top":"50","right":"15","bottom":"50","left":"15","isLinked":false},"background_image_tablet":{"url":"https:\/\/woostify.com\/demos\/ankle\/wp-content\/uploads\/2019\/05\/transparent-bg-repeat.png","id":821},"background_repeat":"repeat"},"elements":[{"id":"53a93a1","elType":"widget","settings":{"title":"<span style=\"font-weight:300\">Discover<\/span><br>Men's Collection","align":"right","title_color":"#262626","typography_typography":"custom","typography_font_weight":"900","typography_font_style":"italic","align_mobile":"left"},"elements":[],"widgetType":"heading"},{"id":"0f98ee9","elType":"widget","settings":{"editor":"<p>TRANSFORM THE CLASSICS: RELAXED, EVERYDAY PIECES CAN MAKE THE DIFFERENCE!<\/p>","align":"right","text_color":"#262626","typography_typography":"custom","typography_font_family":"Montserrat","typography_font_size":{"unit":"px","size":13,"sizes":[]},"typography_font_weight":"300","typography_line_height":{"unit":"em","size":1.6,"sizes":[]},"_margin":{"unit":"px","top":"0","right":"0","bottom":"0","left":"140","isLinked":false},"align_mobile":"left","_margin_mobile":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true}},"elements":[],"widgetType":"text-editor"},{"id":"ccc2d4d","elType":"widget","settings":{"text":"Shop Man","align":"right","typography_typography":"custom","typography_font_family":"Montserrat","typography_font_size":{"unit":"px","size":14,"sizes":[]},"typography_font_weight":"900","typography_font_style":"italic","button_text_color":"#ffffff","background_color":"#262626","border_radius":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true},"hover_color":"#ffffff","button_background_hover_color":"#a2a2a2","align_mobile":"left","link":{"url":"https:\/\/woostify.com\/demos\/pro\/ankle\/shop\/","is_external":"","nofollow":""}},"elements":[],"widgetType":"button"}],"isInner":true}],"isInner":true}],"isInner":false}],"isInner":false},{"id":"c1136c5","elType":"section","settings":{"margin":{"unit":"px","top":"100","right":0,"bottom":"0","left":0,"isLinked":false},"padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false},"margin_tablet":{"unit":"px","top":"30","right":0,"bottom":"0","left":0,"isLinked":false}},"elements":[{"id":"7863c8a","elType":"column","settings":{"_column_size":100,"_inline_size":null},"elements":[{"id":"57743b0","elType":"widget","settings":{"title":"<span style=\"font-weight:300\">Best<\/span> Sellers","align":"center","title_color":"#262626","typography_typography":"custom","typography_font_weight":"900","typography_font_style":"italic","_margin":{"unit":"px","top":"0","right":"0","bottom":"30","left":"0","isLinked":false}},"elements":[],"widgetType":"heading"},{"id":"51d183c","elType":"widget","settings":{"count":4,"order":"DESC"},"elements":[],"widgetType":"woostify-new-products"}],"isInner":false}],"isInner":false},{"id":"6c9ffbe","elType":"section","settings":{"stretch_section":"section-stretched","background_background":"classic","background_image":{"url":"https:\/\/demo.woostify.com\/ankle\/wp-content\/uploads\/sites\/24\/2019\/04\/christian-gertenbach-179213-unsplash-scaled-1.jpg","id":807},"background_position":"center center","background_attachment":"fixed","background_repeat":"no-repeat","background_size":"cover","background_overlay_background":"classic","background_overlay_color":"rgba(2,2,2,0.4)","padding":{"unit":"px","top":"70","right":"0","bottom":"90","left":"0","isLinked":false}},"elements":[{"id":"7c4c43c","elType":"column","settings":{"_column_size":100},"elements":[{"id":"697e940","elType":"section","settings":{"structure":"20"},"elements":[{"id":"b400e8f","elType":"column","settings":{"_column_size":50,"_inline_size":null,"background_background":"classic","background_color":"rgba(255,255,255,0.15)","border_border":"solid","border_width":{"unit":"px","top":"1","right":"1","bottom":"1","left":"1","isLinked":true},"border_color":"#ffffff","margin":{"unit":"px","top":"0","right":"50","bottom":"0","left":"50","isLinked":false},"padding":{"unit":"px","top":"50","right":"50","bottom":"50","left":"50","isLinked":false},"margin_tablet":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true},"margin_mobile":{"unit":"px","top":"0","right":"0","bottom":"30","left":"0","isLinked":false},"padding_tablet":{"unit":"px","top":"50","right":"15","bottom":"50","left":"15","isLinked":false}},"elements":[{"id":"6a0a411","elType":"widget","settings":{"title":"50% OFF","align":"center","title_color":"#ffffff","typography_typography":"custom"},"elements":[],"widgetType":"heading"},{"id":"a9c44de","elType":"widget","settings":{"editor":"<p>Use code <strong>WST50OFF<\/strong><\/p>","align":"center","text_color":"#ffffff","typography_typography":"custom","typography_font_size":{"unit":"px","size":18,"sizes":[]},"typography_text_transform":"uppercase","_margin":{"unit":"px","top":"0","right":"0","bottom":"-10","left":"0","isLinked":false}},"elements":[],"widgetType":"text-editor"},{"id":"20be84e","elType":"widget","settings":{"editor":"<p>Pellentesque quis dui varius, dapibus velit id, iaculis ipsum. Morbi ac eros feugiat.<\/p>","align":"center","text_color":"#ffffff","typography_typography":"custom","typography_font_family":"Work Sans","typography_font_weight":"400"},"elements":[],"widgetType":"text-editor"},{"id":"e047817","elType":"widget","settings":{"text":"Shop Now","align":"center","typography_typography":"custom","typography_font_family":"Montserrat","typography_font_size":{"unit":"px","size":14,"sizes":[]},"typography_font_weight":"900","typography_font_style":"italic","button_text_color":"#ffffff","background_color":"#262626","hover_color":"#ffffff","button_background_hover_color":"#a2a2a2","border_radius":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true},"link":{"url":"https:\/\/woostify.com\/demos\/pro\/ankle\/shop\/","is_external":"","nofollow":""}},"elements":[],"widgetType":"button"}],"isInner":true},{"id":"a2c68be","elType":"column","settings":{"_column_size":50,"_inline_size":null,"background_background":"classic","background_color":"rgba(255,255,255,0.15)","border_border":"solid","border_width":{"unit":"px","top":"1","right":"1","bottom":"1","left":"1","isLinked":true},"border_color":"#ffffff","margin":{"unit":"px","top":"0","right":"50","bottom":"0","left":"50","isLinked":false},"padding":{"unit":"px","top":"50","right":"50","bottom":"50","left":"50","isLinked":false},"margin_tablet":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true},"padding_tablet":{"unit":"px","top":"50","right":"15","bottom":"50","left":"15","isLinked":false}},"elements":[{"id":"ec18000","elType":"widget","settings":{"title":"New Collection","align":"center","title_color":"#ffffff","typography_typography":"custom"},"elements":[],"widgetType":"heading"},{"id":"5b06879","elType":"widget","settings":{"editor":"<p>Fall\/Summer 2k19<\/p>","align":"center","text_color":"#ffffff","typography_typography":"custom","typography_font_size":{"unit":"px","size":18,"sizes":[]},"typography_text_transform":"uppercase","_margin":{"unit":"px","top":"0","right":"0","bottom":"-10","left":"0","isLinked":false}},"elements":[],"widgetType":"text-editor"},{"id":"6f0dacc","elType":"widget","settings":{"editor":"<p>Pellentesque quis dui varius, dapibus velit id, iaculis ipsum. Morbi ac eros feugiat.<\/p>","align":"center","text_color":"#ffffff","typography_typography":"custom","typography_font_family":"Work Sans","typography_font_weight":"400","_margin":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false}},"elements":[],"widgetType":"text-editor"},{"id":"faa90e5","elType":"widget","settings":{"text":"Explore More","align":"center","typography_typography":"custom","typography_font_family":"Montserrat","typography_font_size":{"unit":"px","size":14,"sizes":[]},"typography_font_weight":"900","typography_font_style":"italic","button_text_color":"#ffffff","background_color":"#262626","hover_color":"#ffffff","button_background_hover_color":"#a2a2a2","border_radius":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true},"link":{"url":"https:\/\/woostify.com\/demos\/pro\/ankle\/shop\/","is_external":"","nofollow":""}},"elements":[],"widgetType":"button"}],"isInner":true}],"isInner":true}],"isInner":false}],"isInner":false},{"id":"662927e","elType":"section","settings":{"stretch_section":"section-stretched","background_background":"classic","background_color":"#f3f3f3","margin":{"unit":"px","top":"0","right":0,"bottom":"0","left":0,"isLinked":false},"padding":{"unit":"px","top":"80","right":"0","bottom":"80","left":"0","isLinked":false},"padding_mobile":{"unit":"px","top":"40","right":"0","bottom":"40","left":"0","isLinked":false}},"elements":[{"id":"83d0c7d","elType":"column","settings":{"_column_size":100},"elements":[{"id":"d5a6d9e","elType":"widget","settings":{"title":"<span style=\"font-weight:300\">Latest<\/span> News","align":"center","title_color":"#262626","typography_typography":"custom","typography_font_weight":"900","typography_font_style":"italic","_margin":{"unit":"px","top":"0","right":"0","bottom":"30","left":"0","isLinked":false}},"elements":[],"widgetType":"heading"},{"id":"eb6230f","elType":"widget","settings":{"columns_gap":{"unit":"px","size":20,"sizes":[]},"read_more_text":"Read More","count":3,"order_by":"rand","space":{"unit":"px","top":"0","right":0,"bottom":"0","left":0,"isLinked":false},"title_color":"#262626","title_typography_typography":"custom","title_typography_font_size":{"unit":"px","size":18,"sizes":[]},"title_typography_font_weight":"900","title_typography_font_style":"italic","excerpt_color":"#262626","excerpt_typography_typography":"custom","excerpt_typography_font_family":"Work Sans","excerpt_typography_font_weight":"400","excerpt_typography_line_height":{"unit":"em","size":1.8,"sizes":[]},"space_tablet":{"unit":"px","top":"0","right":0,"bottom":"40","left":0,"isLinked":false}},"elements":[],"widgetType":"woostify-post"}],"isInner":false}],"isInner":false}]]]></wp:meta_value>
+		<wp:meta_value><![CDATA[[{"id":"e2b1ff1","elType":"container","settings":{"stretch_section":"section-stretched","content_width":"full","margin":{"unit":"px","top":"0","right":0,"bottom":"0","left":0,"isLinked":false},"padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false},"flex_direction":"row","flex_align_items":"stretch","flex_gap":{"size":10,"unit":"px"}},"elements":[{"id":"268b21a","elType":"container","settings":{"_column_size":100,"margin":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false},"padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false},"content_width":"full"},"elements":[{"id":"afdf9ed","elType":"widget","settings":{"slides":[{"title":"Stay Beautiful","description":"","btn1_text":"Shop Now","btn1_link":{"url":"https:\/\/woostify.com\/demos\/pro\/ankle\/shop\/pros\/335\/pros\/335\/"},"background_background":"classic","_id":"0dac58f","btn2_link":{"url":"","is_external":"","nofollow":""},"background_image":{"url":"https:\/\/demo.woostify.com\/ankle\/wp-content\/uploads\/sites\/24\/2019\/04\/ank-slider-1-1.jpg","id":737}},{"title":"Summer Vibers","description":"","btn1_text":"Shop Now","btn1_link":{"url":"https:\/\/woostify.com\/demos\/pro\/ankle\/shop\/pros\/335\/pros\/335\/"},"background_background":"classic","_id":"474b414","btn2_link":{"url":"","is_external":"","nofollow":""},"background_image":{"url":"https:\/\/demo.woostify.com\/ankle\/wp-content\/uploads\/sites\/24\/2019\/05\/woven_greenhouse_sg-20_1728x.jpg","id":850},"background_position":"top center","background_size":"cover","custom_content_width":{"unit":"px","size":1235,"sizes":[]},"custom_horizontal_pos":"flex-start","custom_vertical_pos":"center","custom_text_align":"left"}],"slider_height":{"unit":"px","size":550,"sizes":[]},"horizontal_pos":"center","vertical_pos":"center","text_align":"center","title_typography_typography":"custom","title_typography_font_size":{"unit":"px","size":56,"sizes":[]},"title_typography_line_height":{"unit":"em","size":1,"sizes":[]},"button_typography_typography":"custom","button_typography_font_size":{"unit":"px","size":14,"sizes":[]},"button_typography_font_weight":"900","button_typography_font_style":"italic","button_border_width":{"unit":"px","size":1,"sizes":[]},"button_border_radius":{"unit":"px","size":0,"sizes":[]},"button_color_hover":"#262626","button_bg_color_hover":"#ffffff","button_border_color_hover":"#ffffff"},"elements":[],"widgetType":"woostify-slider"}],"isInner":false}],"isInner":false},{"id":"0b250eb","elType":"container","settings":{"margin":{"unit":"px","top":"80","right":0,"bottom":"0","left":0,"isLinked":false},"padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false},"flex_direction":"row","flex_align_items":"stretch","flex_gap":{"size":10,"unit":"px"}},"elements":[{"id":"c3c05fb","elType":"container","settings":{"_column_size":100,"width":{"size":null,"unit":"%"},"content_width":"full"},"elements":[{"id":"f321247","elType":"widget","settings":{"title":"<span style=\"font-weight:300\">New<\/span> Arrivals","align":"center","title_color":"#262626","typography_typography":"custom","typography_font_weight":"900","typography_font_style":"italic","_margin":{"unit":"px","top":"0","right":"0","bottom":"30","left":"0","isLinked":false}},"elements":[],"widgetType":"heading"},{"id":"d8b2b3d","elType":"widget","settings":[],"elements":[],"widgetType":"woostify-new-product-slider"},{"id":"9263c37","elType":"widget","settings":[],"elements":[],"widgetType":"spacer"}],"isInner":false}],"isInner":false},{"id":"10397cb","elType":"container","settings":{"structure":"22","margin":{"unit":"px","top":"40","right":0,"bottom":"0","left":0,"isLinked":false},"margin_tablet":{"unit":"px","top":"20","right":0,"bottom":"0","left":0,"isLinked":false},"flex_direction":"row","flex_align_items":"stretch","flex_gap":{"size":0,"unit":"px"},"flex_direction_tablet":"column","padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true}},"elements":[{"id":"229747d","elType":"container","settings":{"_column_size":66,"width":{"size":66.666,"unit":"%"},"background_background":"classic","background_image":{"url":"https:\/\/demo.woostify.com\/ankle\/wp-content\/uploads\/sites\/24\/2019\/04\/ank-home-for-women.jpg","id":668},"padding":{"unit":"px","top":"320","right":"0","bottom":"0","left":"0","isLinked":false},"z_index":0,"width_tablet":{"size":100,"unit":"%"},"content_width":"full"},"elements":[{"id":"474f40e","elType":"container","settings":{"z_index":1,"flex_direction":"row","flex_align_items":"stretch","flex_gap":{"size":10,"unit":"px"},"content_width":"full","padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true}},"elements":[{"id":"a48d978","elType":"container","settings":{"_column_size":100,"width":{"size":null,"unit":"%"},"flex_justify_content":"flex-end","align":"flex-end","background_background":"classic","background_color":"rgba(255,255,255,0.73)","margin":{"unit":"px","top":"0","right":"0","bottom":"0","left":"300","isLinked":false},"padding":{"unit":"px","top":"50","right":"50","bottom":"50","left":"50","isLinked":false},"margin_tablet":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true},"padding_mobile":{"unit":"px","top":"50","right":"15","bottom":"50","left":"15","isLinked":false},"background_image_tablet":{"url":"https:\/\/woostify.com\/demos\/ankle\/wp-content\/uploads\/2019\/05\/transparent-bg-repeat.png\/pros\/335\/pros\/335\/","id":821},"background_repeat":"repeat","content_width":"full"},"elements":[{"id":"a2b7bc8","elType":"widget","settings":{"title":"<span style=\"font-weight:300\">Collections <\/span><br><span style=\"font-weight:300\">For<\/span> Women","title_color":"#262626","typography_typography":"custom","typography_font_weight":"900","typography_font_style":"italic"},"elements":[],"widgetType":"heading"},{"id":"5a2baab","elType":"widget","settings":{"editor":"DISCOVER NINO WOMEN\u2019S COLLECTION: MINIMAL AESTHETICS, SIMPLE &amp; CHIC, INNOVATIVE GARMENTS FOR SPECIAL WOMEN. ","text_color":"#262626","typography_typography":"custom","typography_font_family":"Montserrat","typography_font_size":{"unit":"px","size":13,"sizes":[]},"typography_font_weight":"300","typography_line_height":{"unit":"em","size":1.6,"sizes":[]},"_margin":{"unit":"px","top":"0","right":"20","bottom":"0","left":"0","isLinked":false}},"elements":[],"widgetType":"text-editor"},{"id":"7bec5f0","elType":"widget","settings":{"text":"Shop Women","typography_typography":"custom","typography_font_family":"Montserrat","typography_font_size":{"unit":"px","size":14,"sizes":[]},"typography_font_weight":"900","typography_font_style":"italic","button_text_color":"#ffffff","background_color":"#262626","border_radius":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true},"hover_color":"#ffffff","button_background_hover_color":"#a2a2a2","link":{"url":"https:\/\/woostify.com\/demos\/pro\/ankle\/shop\/pros\/335\/pros\/335\/","is_external":"","nofollow":""}},"elements":[],"widgetType":"button"}],"isInner":false}],"isInner":false}],"isInner":false},{"id":"fdb109b","elType":"container","settings":{"_column_size":33,"width":{"size":33.333,"unit":"%"},"width_tablet":{"size":100,"unit":"%"},"content_width":"full","padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true}},"elements":[],"isInner":false}],"isInner":false},{"id":"ef3b77d","elType":"container","settings":{"structure":"21","margin":{"unit":"px","top":"100","right":0,"bottom":"0","left":0,"isLinked":false},"margin_tablet":{"unit":"px","top":"30","right":0,"bottom":"0","left":0,"isLinked":false},"flex_direction":"row","flex_align_items":"stretch","flex_gap":{"size":0,"unit":"px"},"flex_direction_tablet":"column","padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true}},"elements":[{"id":"e8fe8dc","elType":"container","settings":{"_column_size":33,"width":{"size":33.333,"unit":"%"},"width_tablet":{"size":100,"unit":"%"},"content_width":"full","padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true}},"elements":[],"isInner":false},{"id":"9c50f33","elType":"container","settings":{"_column_size":66,"width":{"size":66.666,"unit":"%"},"background_background":"classic","background_image":{"url":"https:\/\/demo.woostify.com\/ankle\/wp-content\/uploads\/sites\/24\/2019\/04\/ank-home-for-man.jpg","id":676},"background_position":"top right","padding":{"unit":"px","top":"250","right":"0","bottom":"0","left":"0","isLinked":false},"width_tablet":{"size":100,"unit":"%"},"content_width":"full"},"elements":[{"id":"b08fc18","elType":"container","settings":{"z_index":1,"flex_direction":"row","flex_align_items":"stretch","flex_gap":{"size":0,"unit":"px"},"content_width":"full","padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true}},"elements":[{"id":"eb33bc8","elType":"container","settings":{"_column_size":100,"width":{"size":null,"unit":"%"},"flex_justify_content":"flex-end","align":"flex-end","background_background":"classic","background_color":"rgba(255,255,255,0.73)","margin":{"unit":"px","top":"0","right":"300","bottom":"0","left":"0","isLinked":false},"padding":{"unit":"px","top":"50","right":"50","bottom":"50","left":"50","isLinked":false},"margin_tablet":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true},"padding_mobile":{"unit":"px","top":"50","right":"15","bottom":"50","left":"15","isLinked":false},"background_image_tablet":{"url":"https:\/\/woostify.com\/demos\/ankle\/wp-content\/uploads\/2019\/05\/transparent-bg-repeat.png\/pros\/335\/pros\/335\/","id":821},"background_repeat":"repeat","content_width":"full"},"elements":[{"id":"54468ed","elType":"widget","settings":{"title":"<span style=\"font-weight:300\">Discover<\/span><br>Men's Collection","align":"right","title_color":"#262626","typography_typography":"custom","typography_font_weight":"900","typography_font_style":"italic","align_mobile":"left"},"elements":[],"widgetType":"heading"},{"id":"401523f","elType":"widget","settings":{"editor":"<p>TRANSFORM THE CLASSICS: RELAXED, EVERYDAY PIECES CAN MAKE THE DIFFERENCE!<\/p>","align":"right","text_color":"#262626","typography_typography":"custom","typography_font_family":"Montserrat","typography_font_size":{"unit":"px","size":13,"sizes":[]},"typography_font_weight":"300","typography_line_height":{"unit":"em","size":1.6,"sizes":[]},"_margin":{"unit":"px","top":"0","right":"0","bottom":"0","left":"140","isLinked":false},"align_mobile":"left","_margin_mobile":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true}},"elements":[],"widgetType":"text-editor"},{"id":"3e2dac5","elType":"widget","settings":{"text":"Shop Man","align":"right","typography_typography":"custom","typography_font_family":"Montserrat","typography_font_size":{"unit":"px","size":14,"sizes":[]},"typography_font_weight":"900","typography_font_style":"italic","button_text_color":"#ffffff","background_color":"#262626","border_radius":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true},"hover_color":"#ffffff","button_background_hover_color":"#a2a2a2","align_mobile":"left","link":{"url":"https:\/\/woostify.com\/demos\/pro\/ankle\/shop\/pros\/335\/pros\/335\/","is_external":"","nofollow":""}},"elements":[],"widgetType":"button"}],"isInner":false}],"isInner":false}],"isInner":false}],"isInner":false},{"id":"12a46ef","elType":"container","settings":{"margin":{"unit":"px","top":"100","right":0,"bottom":"0","left":0,"isLinked":false},"padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false},"margin_tablet":{"unit":"px","top":"30","right":0,"bottom":"0","left":0,"isLinked":false},"flex_direction":"row","flex_align_items":"stretch","flex_gap":{"size":10,"unit":"px"}},"elements":[{"id":"234f186","elType":"container","settings":{"_column_size":100,"width":{"size":null,"unit":"%"},"content_width":"full"},"elements":[{"id":"cbe5a9f","elType":"widget","settings":{"title":"<span style=\"font-weight:300\">Best<\/span> Sellers","align":"center","title_color":"#262626","typography_typography":"custom","typography_font_weight":"900","typography_font_style":"italic","_margin":{"unit":"px","top":"0","right":"0","bottom":"30","left":"0","isLinked":false}},"elements":[],"widgetType":"heading"},{"id":"57101f7","elType":"widget","settings":{"count":4,"order":"DESC"},"elements":[],"widgetType":"woostify-new-products"}],"isInner":false}],"isInner":false},{"id":"4061e61","elType":"container","settings":{"stretch_section":"section-stretched","background_background":"classic","background_image":{"url":"https:\/\/demo.woostify.com\/ankle\/wp-content\/uploads\/sites\/24\/2019\/04\/christian-gertenbach-179213-unsplash-scaled-1.jpg","id":807},"background_position":"center center","background_attachment":"fixed","background_repeat":"no-repeat","background_size":"cover","background_overlay_background":"classic","background_overlay_color":"rgba(2,2,2,0.4)","padding":{"unit":"px","top":"70","right":"0","bottom":"90","left":"0","isLinked":false},"flex_direction":"row","flex_align_items":"stretch","flex_gap":{"size":10,"unit":"px"}},"elements":[{"id":"c4f33b3","elType":"container","settings":{"_column_size":100,"content_width":"full"},"elements":[{"id":"9decc03","elType":"container","settings":{"structure":"20","flex_direction":"row","flex_align_items":"stretch","flex_gap":{"size":0,"unit":"px"},"content_width":"full","padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true}},"elements":[{"id":"536f161","elType":"container","settings":{"_column_size":50,"width":{"size":null,"unit":"%"},"background_background":"classic","background_color":"rgba(255,255,255,0.15)","border_border":"solid","border_width":{"unit":"px","top":"1","right":"1","bottom":"1","left":"1","isLinked":true},"border_color":"#ffffff","margin":{"unit":"px","top":"0","right":"50","bottom":"0","left":"50","isLinked":false},"padding":{"unit":"px","top":"50","right":"50","bottom":"50","left":"50","isLinked":false},"margin_tablet":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true},"margin_mobile":{"unit":"px","top":"0","right":"0","bottom":"30","left":"0","isLinked":false},"padding_tablet":{"unit":"px","top":"50","right":"15","bottom":"50","left":"15","isLinked":false},"content_width":"full"},"elements":[{"id":"1f3391a","elType":"widget","settings":{"title":"50% OFF","align":"center","title_color":"#ffffff","typography_typography":"custom"},"elements":[],"widgetType":"heading"},{"id":"eefb954","elType":"widget","settings":{"editor":"<p>Use code <strong>WST50OFF<\/strong><\/p>","align":"center","text_color":"#ffffff","typography_typography":"custom","typography_font_size":{"unit":"px","size":18,"sizes":[]},"typography_text_transform":"uppercase","_margin":{"unit":"px","top":"0","right":"0","bottom":"-10","left":"0","isLinked":false}},"elements":[],"widgetType":"text-editor"},{"id":"890714f","elType":"widget","settings":{"editor":"<p>Pellentesque quis dui varius, dapibus velit id, iaculis ipsum. Morbi ac eros feugiat.<\/p>","align":"center","text_color":"#ffffff","typography_typography":"custom","typography_font_family":"Work Sans","typography_font_weight":"400"},"elements":[],"widgetType":"text-editor"},{"id":"0c3996d","elType":"widget","settings":{"text":"Shop Now","align":"center","typography_typography":"custom","typography_font_family":"Montserrat","typography_font_size":{"unit":"px","size":14,"sizes":[]},"typography_font_weight":"900","typography_font_style":"italic","button_text_color":"#ffffff","background_color":"#262626","hover_color":"#ffffff","button_background_hover_color":"#a2a2a2","border_radius":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true},"link":{"url":"https:\/\/woostify.com\/demos\/pro\/ankle\/shop\/pros\/335\/pros\/335\/","is_external":"","nofollow":""}},"elements":[],"widgetType":"button"}],"isInner":false},{"id":"c196108","elType":"container","settings":{"_column_size":50,"width":{"size":null,"unit":"%"},"background_background":"classic","background_color":"rgba(255,255,255,0.15)","border_border":"solid","border_width":{"unit":"px","top":"1","right":"1","bottom":"1","left":"1","isLinked":true},"border_color":"#ffffff","margin":{"unit":"px","top":"0","right":"50","bottom":"0","left":"50","isLinked":false},"padding":{"unit":"px","top":"50","right":"50","bottom":"50","left":"50","isLinked":false},"margin_tablet":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true},"padding_tablet":{"unit":"px","top":"50","right":"15","bottom":"50","left":"15","isLinked":false},"content_width":"full"},"elements":[{"id":"f66f787","elType":"widget","settings":{"title":"New Collection","align":"center","title_color":"#ffffff","typography_typography":"custom"},"elements":[],"widgetType":"heading"},{"id":"afd01b3","elType":"widget","settings":{"editor":"<p>Fall\/Summer 2k19<\/p>","align":"center","text_color":"#ffffff","typography_typography":"custom","typography_font_size":{"unit":"px","size":18,"sizes":[]},"typography_text_transform":"uppercase","_margin":{"unit":"px","top":"0","right":"0","bottom":"-10","left":"0","isLinked":false}},"elements":[],"widgetType":"text-editor"},{"id":"23ca10f","elType":"widget","settings":{"editor":"<p>Pellentesque quis dui varius, dapibus velit id, iaculis ipsum. Morbi ac eros feugiat.<\/p>","align":"center","text_color":"#ffffff","typography_typography":"custom","typography_font_family":"Work Sans","typography_font_weight":"400","_margin":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false}},"elements":[],"widgetType":"text-editor"},{"id":"ea06c8c","elType":"widget","settings":{"text":"Explore More","align":"center","typography_typography":"custom","typography_font_family":"Montserrat","typography_font_size":{"unit":"px","size":14,"sizes":[]},"typography_font_weight":"900","typography_font_style":"italic","button_text_color":"#ffffff","background_color":"#262626","hover_color":"#ffffff","button_background_hover_color":"#a2a2a2","border_radius":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true},"link":{"url":"https:\/\/woostify.com\/demos\/pro\/ankle\/shop\/pros\/335\/pros\/335\/","is_external":"","nofollow":""}},"elements":[],"widgetType":"button"}],"isInner":false}],"isInner":false}],"isInner":false}],"isInner":false},{"id":"cf9519f","elType":"container","settings":{"stretch_section":"section-stretched","background_background":"classic","background_color":"#f3f3f3","margin":{"unit":"px","top":"0","right":0,"bottom":"0","left":0,"isLinked":false},"padding":{"unit":"px","top":"80","right":"0","bottom":"80","left":"0","isLinked":false},"padding_mobile":{"unit":"px","top":"40","right":"0","bottom":"40","left":"0","isLinked":false},"flex_direction":"row","flex_align_items":"stretch","flex_gap":{"size":10,"unit":"px"}},"elements":[{"id":"812f57f","elType":"container","settings":{"_column_size":100,"content_width":"full"},"elements":[{"id":"7f00ec6","elType":"widget","settings":{"title":"<span style=\"font-weight:300\">Latest<\/span> News","align":"center","title_color":"#262626","typography_typography":"custom","typography_font_weight":"900","typography_font_style":"italic","_margin":{"unit":"px","top":"0","right":"0","bottom":"30","left":"0","isLinked":false}},"elements":[],"widgetType":"heading"},{"id":"a43c46b","elType":"widget","settings":{"columns_gap":{"unit":"px","size":20,"sizes":[]},"read_more_text":"Read More","count":3,"order_by":"rand","space":{"unit":"px","top":"0","right":0,"bottom":"0","left":0,"isLinked":false},"title_color":"#262626","title_typography_typography":"custom","title_typography_font_size":{"unit":"px","size":18,"sizes":[]},"title_typography_font_weight":"900","title_typography_font_style":"italic","excerpt_color":"#262626","excerpt_typography_typography":"custom","excerpt_typography_font_family":"Work Sans","excerpt_typography_font_weight":"400","excerpt_typography_line_height":{"unit":"em","size":1.8,"sizes":[]},"space_tablet":{"unit":"px","top":"0","right":0,"bottom":"40","left":0,"isLinked":false}},"elements":[],"widgetType":"woostify-post"}],"isInner":false}],"isInner":false}]]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_elementor_controls_usage]]></wp:meta_key>
@@ -6561,7 +7040,7 @@ This e-mail was sent from a contact form on [_site_title] ([_site_url])";s:9:"re
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[pageview]]></wp:meta_key>
-		<wp:meta_value><![CDATA[32]]></wp:meta_value>
+		<wp:meta_value><![CDATA[161]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -6792,7 +7271,7 @@ This e-mail was sent from a contact form on [_site_title] ([_site_url])";s:9:"re
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[pageview]]></wp:meta_key>
-		<wp:meta_value><![CDATA[14]]></wp:meta_value>
+		<wp:meta_value><![CDATA[64]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -7030,7 +7509,7 @@ This e-mail was sent from a contact form on [_site_title] ([_site_url])";s:9:"re
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[pageview]]></wp:meta_key>
-		<wp:meta_value><![CDATA[58]]></wp:meta_value>
+		<wp:meta_value><![CDATA[295]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -7268,7 +7747,7 @@ This e-mail was sent from a contact form on [_site_title] ([_site_url])";s:9:"re
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[pageview]]></wp:meta_key>
-		<wp:meta_value><![CDATA[24]]></wp:meta_value>
+		<wp:meta_value><![CDATA[70]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -7498,7 +7977,7 @@ This e-mail was sent from a contact form on [_site_title] ([_site_url])";s:9:"re
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[pageview]]></wp:meta_key>
-		<wp:meta_value><![CDATA[21]]></wp:meta_value>
+		<wp:meta_value><![CDATA[73]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -7729,7 +8208,7 @@ This e-mail was sent from a contact form on [_site_title] ([_site_url])";s:9:"re
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[pageview]]></wp:meta_key>
-		<wp:meta_value><![CDATA[17]]></wp:meta_value>
+		<wp:meta_value><![CDATA[35]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -7959,7 +8438,7 @@ This e-mail was sent from a contact form on [_site_title] ([_site_url])";s:9:"re
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[pageview]]></wp:meta_key>
-		<wp:meta_value><![CDATA[3]]></wp:meta_value>
+		<wp:meta_value><![CDATA[16]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -8189,7 +8668,7 @@ This e-mail was sent from a contact form on [_site_title] ([_site_url])";s:9:"re
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[pageview]]></wp:meta_key>
-		<wp:meta_value><![CDATA[7]]></wp:meta_value>
+		<wp:meta_value><![CDATA[29]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -8419,7 +8898,7 @@ This e-mail was sent from a contact form on [_site_title] ([_site_url])";s:9:"re
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[pageview]]></wp:meta_key>
-		<wp:meta_value><![CDATA[20]]></wp:meta_value>
+		<wp:meta_value><![CDATA[52]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -8649,7 +9128,7 @@ This e-mail was sent from a contact form on [_site_title] ([_site_url])";s:9:"re
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[pageview]]></wp:meta_key>
-		<wp:meta_value><![CDATA[10]]></wp:meta_value>
+		<wp:meta_value><![CDATA[54]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -8879,7 +9358,7 @@ This e-mail was sent from a contact form on [_site_title] ([_site_url])";s:9:"re
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[pageview]]></wp:meta_key>
-		<wp:meta_value><![CDATA[17]]></wp:meta_value>
+		<wp:meta_value><![CDATA[55]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -9113,7 +9592,7 @@ This e-mail was sent from a contact form on [_site_title] ([_site_url])";s:9:"re
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[pageview]]></wp:meta_key>
-		<wp:meta_value><![CDATA[20]]></wp:meta_value>
+		<wp:meta_value><![CDATA[55]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:comment>
 			<wp:comment_id>5</wp:comment_id>

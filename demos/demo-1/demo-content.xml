@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/6.0.3" created="2022-11-24 02:17" -->
+	<!-- generator="WordPress/6.2.2" created="2023-06-22 09:21" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
 	<title>Fashion1</title>
 	<link>https://demo.woostify.com/fashion1</link>
 	<description>Just another Woostify Pro Demo Sites site</description>
-	<pubDate>Thu, 24 Nov 2022 02:17:28 +0000</pubDate>
+	<pubDate>Thu, 22 Jun 2023 09:21:27 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>https://demo.woostify.com/</wp:base_site_url>
@@ -151,6 +151,17 @@
 		</wp:termmeta>
 	</wp:term>
 		<wp:term>
+		<wp:term_id>36</wp:term_id>
+		<wp:term_taxonomy><![CDATA[product_tag]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[man]]></wp:term_slug>
+		<wp:term_parent><![CDATA[]]></wp:term_parent>
+		<wp:term_name><![CDATA[man]]></wp:term_name>
+		<wp:termmeta>
+			<wp:meta_key><![CDATA[product_count_product_tag]]></wp:meta_key>
+			<wp:meta_value><![CDATA[7]]></wp:meta_value>
+		</wp:termmeta>
+	</wp:term>
+		<wp:term>
 		<wp:term_id>35</wp:term_id>
 		<wp:term_taxonomy><![CDATA[product_cat]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[man]]></wp:term_slug>
@@ -178,17 +189,6 @@
 		</wp:termmeta>
 		<wp:termmeta>
 			<wp:meta_key><![CDATA[product_count_product_cat]]></wp:meta_key>
-			<wp:meta_value><![CDATA[7]]></wp:meta_value>
-		</wp:termmeta>
-	</wp:term>
-		<wp:term>
-		<wp:term_id>36</wp:term_id>
-		<wp:term_taxonomy><![CDATA[product_tag]]></wp:term_taxonomy>
-		<wp:term_slug><![CDATA[man]]></wp:term_slug>
-		<wp:term_parent><![CDATA[]]></wp:term_parent>
-		<wp:term_name><![CDATA[man]]></wp:term_name>
-		<wp:termmeta>
-			<wp:meta_key><![CDATA[product_count_product_tag]]></wp:meta_key>
 			<wp:meta_value><![CDATA[7]]></wp:meta_value>
 		</wp:termmeta>
 	</wp:term>
@@ -463,7 +463,7 @@
 	<wp:term><wp:term_id>49</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug><![CDATA[support]]></wp:term_slug><wp:term_name><![CDATA[Support]]></wp:term_name>
 </wp:term>
 
-	<generator>https://wordpress.org/?v=6.0.3</generator>
+	<generator>https://wordpress.org/?v=6.2.2</generator>
 
 <image>
 	<url>https://demo.woostify.com/fashion1/wp-content/uploads/sites/27/2018/11/favicon.png</url>
@@ -4079,79 +4079,6 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title><![CDATA[Sitemap]]></title>
-		<link>https://demo.woostify.com/fashion1/sitemap/</link>
-		<pubDate>Tue, 19 Nov 2019 06:49:48 +0000</pubDate>
-		<dc:creator><![CDATA[woostify]]></dc:creator>
-		<guid isPermaLink="false">https://woostify.com/demos/free/fashion1/2019/11/19/sitemap/</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>678</wp:post_id>
-		<wp:post_date><![CDATA[2019-11-19 06:49:48]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2019-11-19 06:49:48]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2019-11-19 06:49:48]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2019-11-19 06:49:48]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[sitemap]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>3</wp:menu_order>
-		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="nav_menu" nicename="footer"><![CDATA[Footer]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_elementor_controls_usage]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[678]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[#]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wxr_import_user_slug]]></wp:meta_key>
-		<wp:meta_value><![CDATA[woostify]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wxr_import_user_slug]]></wp:meta_key>
-		<wp:meta_value><![CDATA[woostify]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wxr_import_user_slug]]></wp:meta_key>
-		<wp:meta_value><![CDATA[woostify]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
 		<title><![CDATA[woocommerce-placeholder]]></title>
 		<link>https://demo.woostify.com/fashion1/woocommerce-placeholder-3/</link>
 		<pubDate>Fri, 23 Oct 2020 06:53:47 +0000</pubDate>
@@ -4915,6 +4842,39 @@ with Woostify™</h2>
 		</wp:postmeta>
 							</item>
 					<item>
+		<title><![CDATA[esty01]]></title>
+		<link>https://demo.woostify.com/fashion1/esty01/</link>
+		<pubDate>Mon, 12 Dec 2022 14:00:39 +0000</pubDate>
+		<dc:creator><![CDATA[woostify]]></dc:creator>
+		<guid isPermaLink="false">https://demo.woostify.com/fashion1/wp-content/uploads/sites/27/2022/12/esty01.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>4977</wp:post_id>
+		<wp:post_date><![CDATA[2022-12-12 14:00:39]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2022-12-12 14:00:39]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-12-12 14:00:39]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-12-12 14:00:39]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[esty01]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[https://demo.woostify.com/fashion1/wp-content/uploads/sites/27/2022/12/esty01.jpg]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2022/12/esty01.jpg]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:326;s:6:"height";i:154;s:4:"file";s:18:"2022/12/esty01.jpg";s:8:"filesize";i:15709;s:5:"sizes";a:4:{s:6:"medium";a:5:{s:4:"file";s:18:"esty01-300x142.jpg";s:5:"width";i:300;s:6:"height";i:142;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:7820;}s:9:"thumbnail";a:5:{s:4:"file";s:18:"esty01-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:4646;}s:21:"woocommerce_thumbnail";a:6:{s:4:"file";s:18:"esty01-300x154.jpg";s:5:"width";i:300;s:6:"height";i:154;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:9157;s:9:"uncropped";b:0;}s:29:"woocommerce_gallery_thumbnail";a:5:{s:4:"file";s:18:"esty01-100x100.jpg";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:3067;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
 		<title><![CDATA[Shop]]></title>
 		<link>https://demo.woostify.com/fashion1/shop/</link>
 		<pubDate>Thu, 19 Nov 2020 03:53:51 +0000</pubDate>
@@ -4931,30 +4891,6 @@ with Woostify™</h2>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[shop]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[page]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														</item>
-					<item>
-		<title><![CDATA[Cart]]></title>
-		<link>https://demo.woostify.com/fashion1/cart/</link>
-		<pubDate>Thu, 19 Nov 2020 03:53:51 +0000</pubDate>
-		<dc:creator><![CDATA[woostify]]></dc:creator>
-		<guid isPermaLink="false">https://demo.woostify.com/fashion1/cart/</guid>
-		<description></description>
-		<content:encoded><![CDATA[<!-- wp:shortcode -->[woocommerce_cart]<!-- /wp:shortcode -->]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>5</wp:post_id>
-		<wp:post_date><![CDATA[2020-11-19 03:53:51]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2020-11-19 03:53:51]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2020-11-19 03:53:51]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2020-11-19 03:53:51]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[cart]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
@@ -5022,31 +4958,23 @@ with Woostify™</h2>
 WooCommerce<br>
 WP Theme</h2>		
 		<p>Exclusively from Woostify</p>		
-			<a href="https://woostify.com/demos/free/fashion1/shop/" role="button">
+			<a href="https://woostify.com/demos/free/fashion1/shop/pros/335/pros/335/pros/335/pros/335/pros/335/pros/335/pros/335/pros/335/" role="button">
 						Learn More
 					</a>
 		passion for fashion		
 			<h2>Shop By Categories</h2>		
-									<figure>
-											<a href="https://woostify.com/demos/free/fashion1/product-category/t-shirts/">
+													<a href="https://woostify.com/demos/free/fashion1/product-category/t-shirts/pros/335/pros/335/pros/335/pros/335/pros/335/pros/335/pros/335/pros/335/">
 							<img width="580" height="580" src="https://demo.woostify.com/fashion1/wp-content/uploads/sites/27/2018/10/shop-cat-1.jpg" alt="" loading="lazy" srcset="https://demo.woostify.com/fashion1/wp-content/uploads/sites/27/2018/10/shop-cat-1.jpg 580w, https://demo.woostify.com/fashion1/wp-content/uploads/sites/27/2018/10/shop-cat-1-300x300.jpg 300w, https://demo.woostify.com/fashion1/wp-content/uploads/sites/27/2018/10/shop-cat-1-150x150.jpg 150w, https://demo.woostify.com/fashion1/wp-content/uploads/sites/27/2018/10/shop-cat-1-100x100.jpg 100w" sizes="(max-width: 580px) 100vw, 580px" />								</a>
-											<figcaption>T-Shirts​</figcaption>
-										</figure>
-									<figure>
-											<a href="https://woostify.com/demos/free/fashion1/product-category/t-shirts/">
+			T-Shirts		
+													<a href="https://woostify.com/demos/free/fashion1/product-category/t-shirts/pros/335/pros/335/pros/335/pros/335/pros/335/pros/335/pros/335/pros/335/">
 							<img width="580" height="290" src="https://demo.woostify.com/fashion1/wp-content/uploads/sites/27/2018/10/shop-cat-2.jpg" alt="" loading="lazy" srcset="https://demo.woostify.com/fashion1/wp-content/uploads/sites/27/2018/10/shop-cat-2.jpg 580w, https://demo.woostify.com/fashion1/wp-content/uploads/sites/27/2018/10/shop-cat-2-300x150.jpg 300w" sizes="(max-width: 580px) 100vw, 580px" />								</a>
-											<figcaption>Bags​</figcaption>
-										</figure>
-									<figure>
-											<a href="https://woostify.com/demos/free/fashion1/product-category/t-shirts/">
+			Bags		
+													<a href="https://woostify.com/demos/free/fashion1/product-category/t-shirts/pros/335/pros/335/pros/335/pros/335/pros/335/pros/335/pros/335/pros/335/">
 							<img width="285" height="280" src="https://demo.woostify.com/fashion1/wp-content/uploads/sites/27/2018/10/shop-cat-3.jpg" alt="" loading="lazy" />								</a>
-											<figcaption>Hats​</figcaption>
-										</figure>
-									<figure>
-											<a href="https://woostify.com/demos/free/fashion1/product-category/t-shirts/">
+			Hats		
+													<a href="https://woostify.com/demos/free/fashion1/product-category/t-shirts/pros/335/pros/335/pros/335/pros/335/pros/335/pros/335/pros/335/pros/335/">
 							<img width="285" height="280" src="https://demo.woostify.com/fashion1/wp-content/uploads/sites/27/2018/10/shop-cat-4.jpg" alt="" loading="lazy" />								</a>
-											<figcaption>Shoes</figcaption>
-										</figure>
+			Shoes		
 		<p>Let's Shop</p>		
 			<h2>New Arrivals</h2>		
 		[products limit=4 columns=4 orderby="date"]		
@@ -5081,8 +5009,8 @@ with Woostify™</h2>
 		<wp:post_id>13</wp:post_id>
 		<wp:post_date><![CDATA[2018-10-16 03:55:35]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-10-16 03:55:35]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2022-11-24 02:00:22]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2022-11-24 02:00:22]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2023-06-15 05:27:12]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-06-15 05:27:12]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[fashion]]></wp:post_name>
@@ -5114,11 +5042,11 @@ with Woostify™</h2>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_elementor_data]]></wp:meta_key>
-		<wp:meta_value><![CDATA[[{"id":"2a2f3cc","elType":"section","settings":{"content_width":{"unit":"px","size":1170},"gap":"no","background_background":"classic","background_image":{"url":"https:\/\/demo.woostify.com\/fashion1\/wp-content\/uploads\/sites\/27\/2018\/10\/slide.jpg","id":185},"background_position":"top center","background_repeat":"no-repeat","background_size":"cover","padding":{"unit":"px","top":"0","right":"15","bottom":"0","left":"15","isLinked":false}},"elements":[{"id":"5294a70","elType":"column","settings":{"_column_size":100},"elements":[{"id":"a6cd8b1","elType":"widget","settings":{"space":{"unit":"px","size":67},"space_tablet":{"unit":"px","size":70},"space_mobile":{"unit":"px","size":50}},"elements":[],"widgetType":"spacer"},{"id":"6b2f66b","elType":"widget","settings":{"editor":"<p>We\u2019re proud to<br \/>introduce<\/p>","align":"left","typography_typography":"custom","typography_font_size":{"unit":"px","size":12},"typography_text_transform":"uppercase","typography_font_weight":"600","typography_font_size_mobile":{"unit":"rem","size":0.7},"typography_line_height_mobile":{"unit":"em","size":1.5}},"elements":[],"widgetType":"text-editor"},{"id":"e0ff0fe","elType":"widget","settings":{"title":"An Optimized<br>\nWooCommerce<br>\nWP Theme","typography_typography":"custom","typography_font_size":{"unit":"px","size":45},"typography_line_height":{"unit":"px","size":60},"typography_font_size_tablet":{"unit":"rem","size":2.5},"typography_font_size_mobile":{"unit":"rem","size":1.7},"typography_line_height_tablet":{"unit":"em","size":1.5},"typography_line_height_mobile":{"unit":"em","size":1.3}},"elements":[],"widgetType":"heading"},{"id":"f12fe88","elType":"widget","settings":{"editor":"<p>Exclusively from Woostify<\/p>","text_color":"#2b2b2b","typography_typography":"custom","typography_font_size":{"unit":"px","size":18},"typography_font_weight":"500","typography_font_size_mobile":{"unit":"rem","size":1}},"elements":[],"widgetType":"text-editor"},{"id":"06df132","elType":"widget","settings":{"space":{"unit":"px","size":25},"space_tablet":{"unit":"px","size":30},"space_mobile":{"unit":"px","size":20}},"elements":[],"widgetType":"spacer"},{"id":"1deb122","elType":"widget","settings":{"text":"Learn More","typography_typography":"custom","typography_font_weight":"600","typography_text_transform":"uppercase","typography_line_height":{"unit":"px","size":""},"border_radius":{"unit":"px","top":"50","right":"50","bottom":"50","left":"50","isLinked":true},"text_padding":{"unit":"px","top":"15","right":"35","bottom":"15","left":"35","isLinked":false},"typography_letter_spacing":{"unit":"px","size":1},"text_padding_mobile":{"unit":"px","top":"12","right":"25","bottom":"12","left":"25","isLinked":false},"button_background_hover_color":"#3a3a3a","button_box_shadow_box_shadow_type":"yes","button_box_shadow_box_shadow":{"horizontal":0,"vertical":10,"blur":40,"spread":0,"color":"rgba(19,70,175,0.3)"},"typography_font_size":{"unit":"px","size":14},"background_color":"#1346af","link":{"url":"https:\/\/woostify.com\/demos\/free\/fashion1\/shop\/","is_external":"","nofollow":""}},"elements":[],"widgetType":"button"},{"id":"a7a76c0","elType":"widget","settings":{"space":{"unit":"px","size":92},"space_tablet":{"unit":"px","size":70},"space_mobile":{"unit":"px","size":50}},"elements":[],"widgetType":"spacer"}],"isInner":false}],"isInner":false},{"id":"14770bb","elType":"section","settings":{"gap":"no"},"elements":[{"id":"ed747be","elType":"column","settings":{"_column_size":100},"elements":[{"id":"a5abd61","elType":"widget","settings":{"space":{"unit":"px","size":93},"space_mobile":{"unit":"px","size":50}},"elements":[],"widgetType":"spacer"},{"id":"29cbcee","elType":"widget","settings":{"editor":"passion for fashion","align":"center","typography_typography":"custom","typography_font_size":{"unit":"px","size":12},"typography_text_transform":"uppercase"},"elements":[],"widgetType":"text-editor"},{"id":"7cad6d7","elType":"widget","settings":{"title":"Shop By Categories","align":"center","typography_typography":"custom","typography_font_size_mobile":{"unit":"rem","size":1.7}},"elements":[],"widgetType":"heading"},{"id":"08b355d","elType":"widget","settings":{"space_mobile":{"unit":"px","size":30},"space":{"unit":"px","size":40}},"elements":[],"widgetType":"spacer"}],"isInner":false}],"isInner":false},{"id":"40f4e93","elType":"section","settings":{"structure":"20","gap":"no","css_classes":"woostify-shop-category"},"elements":[{"id":"d2df41a","elType":"column","settings":{"_column_size":50,"_inline_size":null,"background_background":"classic"},"elements":[{"id":"7c8da32","elType":"widget","settings":{"image":{"id":238,"url":"https:\/\/demo.woostify.com\/fashion1\/wp-content\/uploads\/sites\/27\/2018\/10\/shop-cat-1.jpg"},"image_size":"full","caption":"T-Shirts\u200b","link_to":"custom","link":{"url":"https:\/\/woostify.com\/demos\/free\/fashion1\/product-category\/t-shirts\/","is_external":"","nofollow":""},"css_filters_hover_blur":{"unit":"px","size":2},"background_hover_transition":{"unit":"px","size":0.3},"_margin":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false},"_margin_mobile":{"unit":"px","top":"0","right":"0","bottom":"10","left":"0","isLinked":false},"caption_source":"custom"},"elements":[],"widgetType":"image"}],"isInner":false},{"id":"ad518e0","elType":"column","settings":{"_column_size":50,"_inline_size":null,"background_background":"classic","margin":{"unit":"px","top":"0","right":"0","bottom":"0","left":"5","isLinked":false}},"elements":[{"id":"40c4661","elType":"widget","settings":{"image":{"id":239,"url":"https:\/\/demo.woostify.com\/fashion1\/wp-content\/uploads\/sites\/27\/2018\/10\/shop-cat-2.jpg"},"image_size":"full","caption":"Bags\u200b","link_to":"custom","link":{"url":"https:\/\/woostify.com\/demos\/free\/fashion1\/product-category\/t-shirts\/","is_external":"","nofollow":""},"css_filters_hover_blur":{"unit":"px","size":2},"background_hover_transition":{"unit":"px","size":0.3},"_margin":{"unit":"px","top":"0","right":"0","bottom":"-10","left":"0","isLinked":false},"_margin_mobile":{"unit":"px","top":"0","right":"0","bottom":"10","left":"0","isLinked":false},"caption_source":"custom"},"elements":[],"widgetType":"image"},{"id":"d3c3407","elType":"section","settings":{"structure":"20","gap":"no","margin":{"unit":"px","top":"0","right":0,"bottom":"0","left":0,"isLinked":false}},"elements":[{"id":"080002f","elType":"column","settings":{"_column_size":50,"_inline_size":null,"background_background":"classic"},"elements":[{"id":"c3398f1","elType":"widget","settings":{"image":{"id":240,"url":"https:\/\/demo.woostify.com\/fashion1\/wp-content\/uploads\/sites\/27\/2018\/10\/shop-cat-3.jpg"},"image_size":"full","caption":"Hats\u200b","link_to":"custom","link":{"url":"https:\/\/woostify.com\/demos\/free\/fashion1\/product-category\/t-shirts\/","is_external":"","nofollow":""},"css_filters_hover_blur":{"unit":"px","size":2},"background_hover_transition":{"unit":"px","size":0.3},"_margin":{"unit":"px","top":"0","right":"5","bottom":"0","left":"0","isLinked":false},"_margin_mobile":{"unit":"px","top":"0","right":"0","bottom":"10","left":"0","isLinked":false},"_padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false},"caption_source":"custom"},"elements":[],"widgetType":"image"}],"isInner":true},{"id":"31692d0","elType":"column","settings":{"_column_size":50,"_inline_size":null,"background_background":"classic"},"elements":[{"id":"fcdd291","elType":"widget","settings":{"image":{"url":"https:\/\/demo.woostify.com\/fashion1\/wp-content\/uploads\/sites\/27\/2018\/10\/shop-cat-4.jpg","id":241},"image_size":"full","caption":"Shoes","link_to":"custom","link":{"url":"https:\/\/woostify.com\/demos\/free\/fashion1\/product-category\/t-shirts\/","is_external":"","nofollow":""},"css_filters_hover_blur":{"unit":"px","size":2},"background_hover_transition":{"unit":"px","size":0.3},"_margin":{"unit":"px","top":"0","right":"0","bottom":"0","left":"5","isLinked":false},"_margin_mobile":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false},"caption_source":"custom"},"elements":[],"widgetType":"image"}],"isInner":true}],"isInner":true}],"isInner":false}],"isInner":false},{"id":"121c2a9","elType":"section","settings":{"gap":"no"},"elements":[{"id":"8232dca","elType":"column","settings":{"_column_size":100},"elements":[{"id":"c74e8fb","elType":"widget","settings":{"space":{"unit":"px","size":84},"space_mobile":{"unit":"px","size":50}},"elements":[],"widgetType":"spacer"},{"id":"87d95e9","elType":"widget","settings":{"editor":"<p>Let's Shop<\/p>","align":"center","typography_typography":"custom","typography_font_size":{"unit":"px","size":12},"typography_text_transform":"uppercase"},"elements":[],"widgetType":"text-editor"},{"id":"367b8d8","elType":"widget","settings":{"title":"New Arrivals","align":"center","typography_typography":"custom","typography_font_size_mobile":{"unit":"rem","size":1.7}},"elements":[],"widgetType":"heading"},{"id":"85c5b3a","elType":"widget","settings":{"space":{"unit":"px","size":34}},"elements":[],"widgetType":"spacer"},{"id":"5594c20","elType":"widget","settings":{"shortcode":"[products limit=4 columns=4 orderby=\"date\"]"},"elements":[],"widgetType":"shortcode"},{"id":"fea43bf","elType":"widget","settings":{"space":{"unit":"px","size":31}},"elements":[],"widgetType":"spacer"}],"isInner":false}],"isInner":false},{"id":"f9440ab","elType":"section","settings":{"stretch_section":"section-stretched","content_width":{"unit":"px","size":1170},"background_background":"classic","background_image":{"url":"https:\/\/demo.woostify.com\/fashion1\/wp-content\/uploads\/sites\/27\/2018\/10\/build-up.jpg","id":156},"background_position":"center center","background_repeat":"no-repeat","background_size":"cover","gap":"no"},"elements":[{"id":"100dc85","elType":"column","settings":{"_column_size":100},"elements":[{"id":"d79acbc","elType":"widget","settings":{"space":{"unit":"px","size":75},"space_mobile":{"unit":"px","size":50}},"elements":[],"widgetType":"spacer"},{"id":"21614bb","elType":"section","settings":{"structure":"20"},"elements":[{"id":"84b92eb","elType":"column","settings":{"_column_size":50,"_inline_size":null,"margin_mobile":{"unit":"px","top":"0","right":"0","bottom":"30","left":"0","isLinked":false}},"elements":[{"id":"f574305","elType":"widget","settings":{"image":{"url":"https:\/\/demo.woostify.com\/fashion1\/wp-content\/uploads\/sites\/27\/2018\/10\/build-up-1.jpg","id":157},"image_size":"full"},"elements":[],"widgetType":"image"}],"isInner":true},{"id":"4954b70","elType":"column","settings":{"_column_size":50,"_inline_size":null},"elements":[{"id":"e4fa556","elType":"widget","settings":{"space":{"unit":"px","size":21}},"elements":[],"widgetType":"spacer"},{"id":"3833f3d","elType":"widget","settings":{"title":"Build up your <\/br>\nshop today <\/br>\nwith Woostify\u2122","typography_typography":"custom","typography_font_weight":"300","typography_line_height":{"unit":"px","size":48},"typography_font_size_mobile":{"unit":"rem","size":1.7},"typography_line_height_mobile":{"unit":"em","size":1.4}},"elements":[],"widgetType":"heading"},{"id":"c16da55","elType":"widget","settings":{"editor":"A new revolution. A new perspective.\n"},"elements":[],"widgetType":"text-editor"},{"id":"61ff233","elType":"widget","settings":{"text":"Download for free","size":"md","typography_typography":"custom","typography_font_weight":"600","typography_text_transform":"uppercase","typography_line_height":{"unit":"px","size":""},"border_radius":{"unit":"px","top":"50","right":"50","bottom":"50","left":"50","isLinked":true},"text_padding":{"unit":"px","top":"17","right":"35","bottom":"17","left":"35","isLinked":false},"text_padding_mobile":{"unit":"px","top":"12","right":"25","bottom":"12","left":"25","isLinked":false},"button_background_hover_color":"#3a3a3a","button_box_shadow_box_shadow_type":"yes","button_box_shadow_box_shadow":{"horizontal":0,"vertical":10,"blur":40,"spread":0,"color":"rgba(19,70,175,0.3)"},"typography_font_size":{"unit":"px","size":14}},"elements":[],"widgetType":"button"}],"isInner":true}],"isInner":true},{"id":"131b2df","elType":"widget","settings":{"space":{"unit":"px","size":75},"space_mobile":{"unit":"px","size":50}},"elements":[],"widgetType":"spacer"}],"isInner":false}],"isInner":false},{"id":"b6e974c","elType":"section","settings":{"stretch_section":"section-stretched","content_width":{"unit":"px","size":1170},"background_background":"classic","background_color":"#f8f8f8","gap":"no","padding":{"unit":"px","top":"65","right":"15","bottom":"0","left":"15","isLinked":false}},"elements":[{"id":"39e52f5","elType":"column","settings":{"_column_size":100},"elements":[{"id":"9243dd6","elType":"section","settings":{"structure":"60"},"elements":[{"id":"5602df1","elType":"column","settings":{"_column_size":16,"_inline_size":5.982,"padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false},"_inline_size_tablet":10},"elements":[{"id":"d790b0b","elType":"widget","settings":{"image":{"url":"https:\/\/demo.woostify.com\/fashion1\/wp-content\/uploads\/sites\/27\/2018\/10\/free-shipping.png","id":160},"image_size":"full","align_mobile":"center","_margin_mobile":{"unit":"px","top":"0","right":"0","bottom":"20","left":"0","isLinked":false}},"elements":[],"widgetType":"image"}],"isInner":true},{"id":"f9ab9ae","elType":"column","settings":{"_column_size":16,"_inline_size":26.684,"padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"30","isLinked":false},"_inline_size_tablet":40,"padding_mobile":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true}},"elements":[{"id":"8625f3f","elType":"widget","settings":{"title":"Free Shipping","header_size":"h6","typography_typography":"custom","typography_font_weight":"normal","_margin":{"unit":"px","top":"10","right":"0","bottom":"-10","left":"0","isLinked":false},"align_mobile":"center","typography_letter_spacing":{"unit":"px","size":0}},"elements":[],"widgetType":"heading"},{"id":"c9f2eac","elType":"widget","settings":{"editor":"<p>On all orders over $200<\/p><p>\u00a0<\/p>","align_mobile":"center","align":"left"},"elements":[],"widgetType":"text-editor"},{"id":"292e874","elType":"widget","settings":{"space_mobile":{"unit":"px","size":30}},"elements":[],"widgetType":"spacer"}],"isInner":true},{"id":"d0a6db3","elType":"column","settings":{"_column_size":16,"_inline_size":5.982,"padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false},"_inline_size_tablet":10},"elements":[{"id":"276c62b","elType":"widget","settings":{"image":{"url":"https:\/\/demo.woostify.com\/fashion1\/wp-content\/uploads\/sites\/27\/2018\/10\/support.png","id":162},"image_size":"full","align_mobile":"center","_margin_mobile":{"unit":"px","top":"0","right":"0","bottom":"20","left":"0","isLinked":false}},"elements":[],"widgetType":"image"}],"isInner":true},{"id":"fe9fb4a","elType":"column","settings":{"_column_size":16,"_inline_size":26.684,"margin":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true},"padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"30","isLinked":false},"_inline_size_tablet":40,"padding_mobile":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true}},"elements":[{"id":"2f12bb9","elType":"widget","settings":{"title":"Dedicated Support","header_size":"h6","typography_typography":"custom","typography_font_weight":"normal","_margin":{"unit":"px","top":"10","right":"0","bottom":"-10","left":"0","isLinked":false},"align_mobile":"center"},"elements":[],"widgetType":"heading"},{"id":"41f7525","elType":"widget","settings":{"editor":"<p>Quick response 24\/7<\/p>","align_mobile":"center"},"elements":[],"widgetType":"text-editor"},{"id":"d3c6b9e","elType":"widget","settings":{"space_mobile":{"unit":"px","size":30}},"elements":[],"widgetType":"spacer"}],"isInner":true},{"id":"338bc28","elType":"column","settings":{"_column_size":16,"_inline_size":5.982,"padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false},"_inline_size_tablet":10},"elements":[{"id":"b2e7dda","elType":"widget","settings":{"image":{"url":"https:\/\/demo.woostify.com\/fashion1\/wp-content\/uploads\/sites\/27\/2018\/10\/money-back.png","id":161},"image_size":"full","align_mobile":"center","_margin_mobile":{"unit":"px","top":"0","right":"0","bottom":"20","left":"0","isLinked":false}},"elements":[],"widgetType":"image"}],"isInner":true},{"id":"892c119","elType":"column","settings":{"_column_size":16,"_inline_size":26.684,"padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"30","isLinked":false},"_inline_size_tablet":40,"padding_tablet":{"unit":"px","top":"0","right":"0","bottom":"0","left":"30","isLinked":false},"padding_mobile":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false}},"elements":[{"id":"c89a105","elType":"widget","settings":{"title":"Money-Back Guarantee","header_size":"h6","typography_typography":"custom","typography_font_weight":"normal","_margin":{"unit":"px","top":"10","right":"0","bottom":"-10","left":"0","isLinked":false},"align_mobile":"center"},"elements":[],"widgetType":"heading"},{"id":"988f278","elType":"widget","settings":{"editor":"<p>Worry-free shopping<\/p>","align_mobile":"center"},"elements":[],"widgetType":"text-editor"},{"id":"f639806","elType":"widget","settings":[],"elements":[],"widgetType":"spacer"}],"isInner":true}],"isInner":true}],"isInner":false}],"isInner":false},{"id":"7497390","elType":"section","settings":{"gap":"no"},"elements":[{"id":"b8687b4","elType":"column","settings":{"_column_size":100},"elements":[{"id":"f7b666f","elType":"widget","settings":{"space":{"unit":"px","size":81},"space_mobile":{"unit":"px","size":50}},"elements":[],"widgetType":"spacer"},{"id":"920fd79","elType":"widget","settings":{"editor":"<p>Trending now<\/p>","align":"center","typography_typography":"custom","typography_font_size":{"unit":"px","size":12},"typography_text_transform":"uppercase"},"elements":[],"widgetType":"text-editor"},{"id":"d4a9a59","elType":"widget","settings":{"title":"Popular This Week","align":"center","typography_typography":"custom","typography_font_size_mobile":{"unit":"rem","size":1.7}},"elements":[],"widgetType":"heading"},{"id":"4cdca81","elType":"widget","settings":{"space":{"unit":"px","size":18}},"elements":[],"widgetType":"spacer"},{"id":"8f48fad","elType":"widget","settings":{"shortcode":"[products limit=4 columns=4 orderby=\"rand\" order=\"DESC\" ]"},"elements":[],"widgetType":"shortcode"}],"isInner":false}],"isInner":false},{"id":"98f3911","elType":"section","settings":{"gap":"no","stretch_section":"section-stretched","layout":"full_width"},"elements":[{"id":"85b9567","elType":"column","settings":{"_column_size":100},"elements":[{"id":"25ea8d7","elType":"widget","settings":{"space":{"unit":"px","size":47}},"elements":[],"widgetType":"spacer"},{"id":"73e6529","elType":"widget","settings":{"editor":"Stay up-to-date","align":"center","typography_typography":"custom","typography_font_size":{"unit":"px","size":12},"typography_text_transform":"uppercase"},"elements":[],"widgetType":"text-editor"},{"id":"1265f39","elType":"widget","settings":{"title":"Follow Us On Instagram","align":"center","typography_typography":"custom","typography_font_size_mobile":{"unit":"rem","size":1.7}},"elements":[],"widgetType":"heading"},{"id":"47764f3","elType":"widget","settings":{"space":{"unit":"px","size":40}},"elements":[],"widgetType":"spacer"}],"isInner":false}],"isInner":false},{"id":"acb2206","elType":"section","settings":{"stretch_section":"section-stretched","layout":"full_width","gap":"no","structure":"50"},"elements":[{"id":"7ef15a1","elType":"column","settings":{"_column_size":20,"_inline_size":null},"elements":[{"id":"bb7de93","elType":"widget","settings":{"image":{"url":"https:\/\/demo.woostify.com\/fashion1\/wp-content\/uploads\/sites\/27\/2020\/06\/24332219_1529584700462652_6665896630459301888_nfull.jpg","id":892}},"elements":[],"widgetType":"image"}],"isInner":false},{"id":"ab41b6e","elType":"column","settings":{"_column_size":20,"_inline_size":null},"elements":[{"id":"cad7599","elType":"widget","settings":{"image":{"url":"https:\/\/demo.woostify.com\/fashion1\/wp-content\/uploads\/sites\/27\/2020\/06\/24327509_2019331848351789_6045842922174152704_nfull.jpg","id":891}},"elements":[],"widgetType":"image"}],"isInner":false},{"id":"56cc24e","elType":"column","settings":{"_column_size":20,"_inline_size":null},"elements":[{"id":"f979097","elType":"widget","settings":{"image":{"url":"https:\/\/demo.woostify.com\/fashion1\/wp-content\/uploads\/sites\/27\/2020\/06\/24253948_148465415796841_6128439768956010496_nfull.jpg","id":889}},"elements":[],"widgetType":"image"}],"isInner":false},{"id":"8a7b0f7","elType":"column","settings":{"_column_size":20,"_inline_size":null},"elements":[{"id":"6de9c5f","elType":"widget","settings":{"image":{"url":"https:\/\/demo.woostify.com\/fashion1\/wp-content\/uploads\/sites\/27\/2020\/06\/24177654_314505439047217_4089965401700564992_nfull.jpg","id":888}},"elements":[],"widgetType":"image"}],"isInner":false},{"id":"1585e97","elType":"column","settings":{"_column_size":20,"_inline_size":null},"elements":[{"id":"6ae5194","elType":"widget","settings":{"image":{"url":"https:\/\/demo.woostify.com\/fashion1\/wp-content\/uploads\/sites\/27\/2020\/06\/24253999_1232637293546789_49577778160336896_nfull.jpg","id":890}},"elements":[],"widgetType":"image"}],"isInner":false}],"isInner":false}]]]></wp:meta_value>
+		<wp:meta_value><![CDATA[[{"id":"558a45c","elType":"container","settings":{"boxed_width":{"unit":"px","size":1170},"flex_gap":{"size":0,"unit":"px"},"background_background":"classic","background_image":{"url":"https:\/\/demo.woostify.com\/fashion1\/wp-content\/uploads\/sites\/27\/2018\/10\/slide.jpg","id":185},"background_position":"top center","background_repeat":"no-repeat","background_size":"cover","padding":{"unit":"px","top":"0","right":"15","bottom":"0","left":"15","isLinked":false},"flex_direction":"row","flex_align_items":"stretch"},"elements":[{"id":"e3b9bfd","elType":"container","settings":{"_column_size":100,"content_width":"full","padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true}},"elements":[{"id":"a1b2dc2","elType":"widget","settings":{"space":{"unit":"px","size":67},"space_tablet":{"unit":"px","size":70},"space_mobile":{"unit":"px","size":50}},"elements":[],"widgetType":"spacer"},{"id":"9c369db","elType":"widget","settings":{"editor":"<p>We\u2019re proud to<br \/>introduce<\/p>","align":"left","typography_typography":"custom","typography_font_size":{"unit":"px","size":12},"typography_text_transform":"uppercase","typography_font_weight":"600","typography_font_size_mobile":{"unit":"rem","size":0.7},"typography_line_height_mobile":{"unit":"em","size":1.5}},"elements":[],"widgetType":"text-editor"},{"id":"aac8732","elType":"widget","settings":{"title":"An Optimized<br>\nWooCommerce<br>\nWP Theme","typography_typography":"custom","typography_font_size":{"unit":"px","size":45},"typography_line_height":{"unit":"px","size":60},"typography_font_size_tablet":{"unit":"rem","size":2.5},"typography_font_size_mobile":{"unit":"rem","size":1.7},"typography_line_height_tablet":{"unit":"em","size":1.5},"typography_line_height_mobile":{"unit":"em","size":1.3}},"elements":[],"widgetType":"heading"},{"id":"99e7795","elType":"widget","settings":{"editor":"<p>Exclusively from Woostify<\/p>","text_color":"#2b2b2b","typography_typography":"custom","typography_font_size":{"unit":"px","size":18},"typography_font_weight":"500","typography_font_size_mobile":{"unit":"rem","size":1}},"elements":[],"widgetType":"text-editor"},{"id":"0de3ec7","elType":"widget","settings":{"space":{"unit":"px","size":25},"space_tablet":{"unit":"px","size":30},"space_mobile":{"unit":"px","size":20}},"elements":[],"widgetType":"spacer"},{"id":"07df592","elType":"widget","settings":{"text":"Learn More","typography_typography":"custom","typography_font_weight":"600","typography_text_transform":"uppercase","typography_line_height":{"unit":"px","size":""},"border_radius":{"unit":"px","top":"50","right":"50","bottom":"50","left":"50","isLinked":true},"text_padding":{"unit":"px","top":"15","right":"35","bottom":"15","left":"35","isLinked":false},"typography_letter_spacing":{"unit":"px","size":1},"text_padding_mobile":{"unit":"px","top":"12","right":"25","bottom":"12","left":"25","isLinked":false},"button_background_hover_color":"#3a3a3a","button_box_shadow_box_shadow_type":"yes","button_box_shadow_box_shadow":{"horizontal":0,"vertical":10,"blur":40,"spread":0,"color":"rgba(19,70,175,0.3)"},"typography_font_size":{"unit":"px","size":14},"background_color":"#1346af","link":{"url":"https:\/\/woostify.com\/demos\/free\/fashion1\/shop\/pros\/335\/pros\/335\/pros\/335\/pros\/335\/pros\/335\/pros\/335\/pros\/335\/pros\/335\/","is_external":"","nofollow":""}},"elements":[],"widgetType":"button"},{"id":"d643b3b","elType":"widget","settings":{"space":{"unit":"px","size":92},"space_tablet":{"unit":"px","size":70},"space_mobile":{"unit":"px","size":50}},"elements":[],"widgetType":"spacer"}],"isInner":false}],"isInner":false},{"id":"eb4bb26","elType":"container","settings":{"flex_gap":{"size":0,"unit":"px"},"flex_direction":"row","flex_align_items":"stretch","padding":{"unit":"px","top":"0","right":"15","bottom":"0","left":"15","isLinked":false}},"elements":[{"id":"04c0a9c","elType":"container","settings":{"_column_size":100,"content_width":"full","padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true}},"elements":[{"id":"d90c146","elType":"widget","settings":{"space":{"unit":"px","size":93},"space_mobile":{"unit":"px","size":50}},"elements":[],"widgetType":"spacer"},{"id":"d216ec1","elType":"widget","settings":{"editor":"passion for fashion","align":"center","typography_typography":"custom","typography_font_size":{"unit":"px","size":12},"typography_text_transform":"uppercase"},"elements":[],"widgetType":"text-editor"},{"id":"f6ccd5f","elType":"widget","settings":{"title":"Shop By Categories","align":"center","typography_typography":"custom","typography_font_size_mobile":{"unit":"rem","size":1.7}},"elements":[],"widgetType":"heading"},{"id":"9cfb8b7","elType":"widget","settings":{"space_mobile":{"unit":"px","size":30},"space":{"unit":"px","size":40}},"elements":[],"widgetType":"spacer"}],"isInner":false}],"isInner":false},{"id":"b75762f","elType":"container","settings":{"structure":"20","flex_gap":{"size":0,"unit":"px"},"css_classes":"woostify-shop-category","flex_direction":"row","flex_align_items":"stretch","padding":{"unit":"px","top":"0","right":"15","bottom":"0","left":"15","isLinked":false}},"elements":[{"id":"2727230","elType":"container","settings":{"_column_size":50,"width":{"size":"","unit":"%"},"background_background":"classic","content_width":"full","padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true}},"elements":[{"id":"3d55bb5","elType":"widget","settings":{"image":{"id":238,"url":"https:\/\/demo.woostify.com\/fashion1\/wp-content\/uploads\/sites\/27\/2018\/10\/shop-cat-1.jpg"},"image_size":"full","caption":"T-Shirts\u200b","link_to":"custom","link":{"url":"https:\/\/woostify.com\/demos\/free\/fashion1\/product-category\/t-shirts\/pros\/335\/pros\/335\/pros\/335\/pros\/335\/pros\/335\/pros\/335\/pros\/335\/pros\/335\/","is_external":"","nofollow":""},"css_filters_hover_blur":{"unit":"px","size":2},"background_hover_transition":{"unit":"px","size":0.3},"_margin":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false},"_margin_mobile":{"unit":"px","top":"0","right":"0","bottom":"10","left":"0","isLinked":false}},"elements":[],"widgetType":"image"},{"id":"6dfd747","elType":"widget","settings":{"title":"T-Shirts","header_size":"div","title_color":"#2b2b2b","typography_typography":"custom","typography_font_family":"Poppins","typography_font_size":{"unit":"px","size":24,"sizes":[]},"typography_font_weight":"500","typography_line_height":{"unit":"em","size":1,"sizes":[]},"_position":"absolute","_offset_x":{"unit":"px","size":30,"sizes":[]},"_offset_orientation_v":"end","_offset_y_end":{"unit":"px","size":30,"sizes":[]},"__globals__":{"title_color":"globals\/colors?id=woostify_color_3","typography_typography":""}},"elements":[],"widgetType":"heading"}],"isInner":false},{"id":"b376715","elType":"container","settings":{"_column_size":50,"width":{"size":"","unit":"%"},"background_background":"classic","margin":{"unit":"px","top":"0","right":"0","bottom":"0","left":"5","isLinked":false},"content_width":"full","margin_mobile":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true},"padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true}},"elements":[{"id":"7774286","elType":"container","settings":{"content_width":"full","width":{"size":null,"unit":"%"},"background_background":"classic","padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true}},"elements":[{"id":"fe4558e","elType":"widget","settings":{"image":{"id":239,"url":"https:\/\/demo.woostify.com\/fashion1\/wp-content\/uploads\/sites\/27\/2018\/10\/shop-cat-2.jpg"},"image_size":"full","caption":"Bags\u200b","link_to":"custom","link":{"url":"https:\/\/woostify.com\/demos\/free\/fashion1\/product-category\/t-shirts\/pros\/335\/pros\/335\/pros\/335\/pros\/335\/pros\/335\/pros\/335\/pros\/335\/pros\/335\/","is_external":"","nofollow":""},"css_filters_hover_blur":{"unit":"px","size":2},"background_hover_transition":{"unit":"px","size":0.3},"_margin":{"unit":"px","top":"0","right":"0","bottom":"-10","left":"0","isLinked":false},"_margin_mobile":{"unit":"px","top":"0","right":"0","bottom":"10","left":"0","isLinked":false}},"elements":[],"widgetType":"image"},{"id":"20afafb","elType":"widget","settings":{"title":"Bags","header_size":"div","title_color":"#2b2b2b","typography_typography":"custom","typography_font_family":"Poppins","typography_font_size":{"unit":"px","size":24,"sizes":[]},"typography_font_weight":"500","typography_line_height":{"unit":"em","size":1,"sizes":[]},"_position":"absolute","_offset_x":{"unit":"px","size":30,"sizes":[]},"_offset_orientation_v":"end","_offset_y_end":{"unit":"px","size":30,"sizes":[]},"__globals__":{"title_color":"globals\/colors?id=woostify_color_3","typography_typography":""}},"elements":[],"widgetType":"heading"}],"isInner":false},{"id":"25d150d","elType":"container","settings":{"structure":"20","flex_gap":{"size":0,"unit":"px"},"margin":{"unit":"px","top":"0","right":0,"bottom":"0","left":0,"isLinked":false},"flex_direction":"row","flex_align_items":"stretch","content_width":"full","padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true}},"elements":[{"id":"6e19f96","elType":"container","settings":{"_column_size":50,"width":{"size":null,"unit":"%"},"background_background":"classic","content_width":"full","padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true}},"elements":[{"id":"f22ce17","elType":"widget","settings":{"image":{"id":240,"url":"https:\/\/demo.woostify.com\/fashion1\/wp-content\/uploads\/sites\/27\/2018\/10\/shop-cat-3.jpg"},"image_size":"full","caption":"Hats\u200b","link_to":"custom","link":{"url":"https:\/\/woostify.com\/demos\/free\/fashion1\/product-category\/t-shirts\/pros\/335\/pros\/335\/pros\/335\/pros\/335\/pros\/335\/pros\/335\/pros\/335\/pros\/335\/","is_external":"","nofollow":""},"css_filters_hover_blur":{"unit":"px","size":2},"background_hover_transition":{"unit":"px","size":0.3},"_margin":{"unit":"px","top":"0","right":"5","bottom":"0","left":"0","isLinked":false},"_margin_mobile":{"unit":"px","top":"0","right":"0","bottom":"10","left":"0","isLinked":false},"_padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false}},"elements":[],"widgetType":"image"},{"id":"7afa2c7","elType":"widget","settings":{"title":"Hats","header_size":"div","title_color":"#2b2b2b","typography_typography":"custom","typography_font_family":"Poppins","typography_font_size":{"unit":"px","size":24,"sizes":[]},"typography_font_weight":"500","typography_line_height":{"unit":"em","size":1,"sizes":[]},"_position":"absolute","_offset_x":{"unit":"px","size":30,"sizes":[]},"_offset_orientation_v":"end","_offset_y_end":{"unit":"px","size":30,"sizes":[]},"__globals__":{"title_color":"globals\/colors?id=woostify_color_3","typography_typography":""}},"elements":[],"widgetType":"heading"}],"isInner":false},{"id":"9dc9740","elType":"container","settings":{"_column_size":50,"width":{"size":null,"unit":"%"},"background_background":"classic","content_width":"full","padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true}},"elements":[{"id":"4a8faa4","elType":"widget","settings":{"image":{"url":"https:\/\/demo.woostify.com\/fashion1\/wp-content\/uploads\/sites\/27\/2018\/10\/shop-cat-4.jpg","id":241},"image_size":"full","caption":"Shoes","link_to":"custom","link":{"url":"https:\/\/woostify.com\/demos\/free\/fashion1\/product-category\/t-shirts\/pros\/335\/pros\/335\/pros\/335\/pros\/335\/pros\/335\/pros\/335\/pros\/335\/pros\/335\/","is_external":"","nofollow":""},"css_filters_hover_blur":{"unit":"px","size":2},"background_hover_transition":{"unit":"px","size":0.3},"_margin":{"unit":"px","top":"0","right":"0","bottom":"0","left":"5","isLinked":false},"_margin_mobile":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false}},"elements":[],"widgetType":"image"},{"id":"f74eb7f","elType":"widget","settings":{"title":"Shoes","header_size":"div","title_color":"#2b2b2b","typography_typography":"custom","typography_font_family":"Poppins","typography_font_size":{"unit":"px","size":24,"sizes":[]},"typography_font_weight":"500","typography_line_height":{"unit":"em","size":1,"sizes":[]},"_position":"absolute","_offset_x":{"unit":"px","size":30,"sizes":[]},"_offset_orientation_v":"end","_offset_y_end":{"unit":"px","size":30,"sizes":[]},"__globals__":{"title_color":"globals\/colors?id=woostify_color_3","typography_typography":""}},"elements":[],"widgetType":"heading"}],"isInner":false}],"isInner":false}],"isInner":false}],"isInner":false},{"id":"f0ad5cb","elType":"container","settings":{"flex_gap":{"size":0,"unit":"px"},"flex_direction":"row","flex_align_items":"stretch","padding":{"unit":"px","top":"0","right":"15","bottom":"0","left":"15","isLinked":false}},"elements":[{"id":"7ffe66f","elType":"container","settings":{"_column_size":100,"content_width":"full","padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true}},"elements":[{"id":"7370ebf","elType":"widget","settings":{"space":{"unit":"px","size":84},"space_mobile":{"unit":"px","size":50}},"elements":[],"widgetType":"spacer"},{"id":"4543769","elType":"widget","settings":{"editor":"<p>Let's Shop<\/p>","align":"center","typography_typography":"custom","typography_font_size":{"unit":"px","size":12},"typography_text_transform":"uppercase"},"elements":[],"widgetType":"text-editor"},{"id":"e593dba","elType":"widget","settings":{"title":"New Arrivals","align":"center","typography_typography":"custom","typography_font_size_mobile":{"unit":"rem","size":1.7}},"elements":[],"widgetType":"heading"},{"id":"15823f6","elType":"widget","settings":{"space":{"unit":"px","size":34}},"elements":[],"widgetType":"spacer"},{"id":"8a51b4f","elType":"widget","settings":{"shortcode":"[products limit=4 columns=4 orderby=\"date\"]"},"elements":[],"widgetType":"shortcode"},{"id":"4d97cda","elType":"widget","settings":{"space":{"unit":"px","size":31}},"elements":[],"widgetType":"spacer"}],"isInner":false}],"isInner":false},{"id":"ddd30d6","elType":"container","settings":{"stretch_section":"section-stretched","boxed_width":{"unit":"px","size":1170},"background_background":"classic","background_image":{"url":"https:\/\/demo.woostify.com\/fashion1\/wp-content\/uploads\/sites\/27\/2018\/10\/build-up.jpg","id":156},"background_position":"center center","background_repeat":"no-repeat","background_size":"cover","flex_gap":{"size":0,"unit":"px"},"flex_direction":"row","flex_align_items":"stretch","padding":{"unit":"px","top":"0","right":"5","bottom":"0","left":"5","isLinked":false}},"elements":[{"id":"0ac7eb5","elType":"container","settings":{"_column_size":100,"content_width":"full","padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true}},"elements":[{"id":"a27d48e","elType":"widget","settings":{"space":{"unit":"px","size":75},"space_mobile":{"unit":"px","size":50}},"elements":[],"widgetType":"spacer"},{"id":"cb1a04c","elType":"container","settings":{"structure":"20","flex_direction":"row","flex_align_items":"stretch","flex_gap":{"size":0,"unit":"px"},"padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true}},"elements":[{"id":"c02aa55","elType":"container","settings":{"_column_size":50,"width":{"size":null,"unit":"%"},"margin_mobile":{"unit":"px","top":"0","right":"0","bottom":"30","left":"0","isLinked":false},"content_width":"full"},"elements":[{"id":"8ecf910","elType":"widget","settings":{"image":{"url":"https:\/\/demo.woostify.com\/fashion1\/wp-content\/uploads\/sites\/27\/2018\/10\/build-up-1.jpg","id":157},"image_size":"full"},"elements":[],"widgetType":"image"}],"isInner":false},{"id":"b584cbf","elType":"container","settings":{"_column_size":50,"width":{"size":null,"unit":"%"},"content_width":"full"},"elements":[{"id":"6542eeb","elType":"widget","settings":{"space":{"unit":"px","size":21}},"elements":[],"widgetType":"spacer"},{"id":"2c342df","elType":"widget","settings":{"title":"Build up your <\/br>\nshop today <\/br>\nwith Woostify\u2122","typography_typography":"custom","typography_font_weight":"300","typography_line_height":{"unit":"px","size":48},"typography_font_size_mobile":{"unit":"rem","size":1.7},"typography_line_height_mobile":{"unit":"em","size":1.4}},"elements":[],"widgetType":"heading"},{"id":"5d57562","elType":"widget","settings":{"editor":"A new revolution. A new perspective.\n"},"elements":[],"widgetType":"text-editor"},{"id":"c873257","elType":"widget","settings":{"text":"Download for free","size":"md","typography_typography":"custom","typography_font_weight":"600","typography_text_transform":"uppercase","typography_line_height":{"unit":"px","size":""},"border_radius":{"unit":"px","top":"50","right":"50","bottom":"50","left":"50","isLinked":true},"text_padding":{"unit":"px","top":"17","right":"35","bottom":"17","left":"35","isLinked":false},"text_padding_mobile":{"unit":"px","top":"12","right":"25","bottom":"12","left":"25","isLinked":false},"button_background_hover_color":"#3a3a3a","button_box_shadow_box_shadow_type":"yes","button_box_shadow_box_shadow":{"horizontal":0,"vertical":10,"blur":40,"spread":0,"color":"rgba(19,70,175,0.3)"},"typography_font_size":{"unit":"px","size":14}},"elements":[],"widgetType":"button"}],"isInner":false}],"isInner":false},{"id":"9f18341","elType":"widget","settings":{"space":{"unit":"px","size":75},"space_mobile":{"unit":"px","size":50}},"elements":[],"widgetType":"spacer"}],"isInner":false}],"isInner":false},{"id":"bbf8f2f","elType":"container","settings":{"stretch_section":"section-stretched","boxed_width":{"unit":"px","size":1170},"background_background":"classic","background_color":"#f8f8f8","flex_gap":{"size":0,"unit":"px"},"padding":{"unit":"px","top":"65","right":"15","bottom":"0","left":"15","isLinked":false},"flex_direction":"row","flex_align_items":"stretch"},"elements":[{"id":"064df8e","elType":"container","settings":{"_column_size":100,"content_width":"full","padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true}},"elements":[{"id":"9be4064","elType":"container","settings":{"structure":"60","flex_direction":"row","flex_align_items":"stretch","flex_gap":{"size":0,"unit":"px"},"flex_wrap_tablet":"wrap","padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true}},"elements":[{"id":"6614a9f","elType":"container","settings":{"_column_size":16,"width":{"size":5.982,"unit":"%"},"padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false},"width_tablet":{"size":10,"unit":"%"},"content_width":"full"},"elements":[{"id":"1a0599c","elType":"widget","settings":{"image":{"url":"https:\/\/demo.woostify.com\/fashion1\/wp-content\/uploads\/sites\/27\/2018\/10\/free-shipping.png","id":160},"image_size":"full","align_mobile":"center","_margin_mobile":{"unit":"px","top":"0","right":"0","bottom":"20","left":"0","isLinked":false}},"elements":[],"widgetType":"image"}],"isInner":false},{"id":"b56e219","elType":"container","settings":{"_column_size":16,"width":{"size":26.684,"unit":"%"},"padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"30","isLinked":false},"width_tablet":{"size":40,"unit":"%"},"padding_mobile":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true},"content_width":"full"},"elements":[{"id":"7b577da","elType":"widget","settings":{"title":"Free Shipping","header_size":"h6","typography_typography":"custom","typography_font_weight":"normal","_margin":{"unit":"px","top":"10","right":"0","bottom":"-10","left":"0","isLinked":false},"align_mobile":"center","typography_letter_spacing":{"unit":"px","size":0}},"elements":[],"widgetType":"heading"},{"id":"75eaa77","elType":"widget","settings":{"editor":"<p>On all orders over $200<\/p><p>\u00a0<\/p>","align_mobile":"center","align":"left"},"elements":[],"widgetType":"text-editor"},{"id":"2ff9204","elType":"widget","settings":{"space_mobile":{"unit":"px","size":30}},"elements":[],"widgetType":"spacer"}],"isInner":false},{"id":"daef403","elType":"container","settings":{"_column_size":16,"width":{"size":5.982,"unit":"%"},"padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false},"width_tablet":{"size":10,"unit":"%"},"content_width":"full"},"elements":[{"id":"1472001","elType":"widget","settings":{"image":{"url":"https:\/\/demo.woostify.com\/fashion1\/wp-content\/uploads\/sites\/27\/2018\/10\/support.png","id":162},"image_size":"full","align_mobile":"center","_margin_mobile":{"unit":"px","top":"0","right":"0","bottom":"20","left":"0","isLinked":false}},"elements":[],"widgetType":"image"}],"isInner":false},{"id":"a7b3ead","elType":"container","settings":{"_column_size":16,"width":{"size":26.684,"unit":"%"},"margin":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true},"padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"30","isLinked":false},"width_tablet":{"size":40,"unit":"%"},"padding_mobile":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true},"content_width":"full"},"elements":[{"id":"c17f94e","elType":"widget","settings":{"title":"Dedicated Support","header_size":"h6","typography_typography":"custom","typography_font_weight":"normal","_margin":{"unit":"px","top":"10","right":"0","bottom":"-10","left":"0","isLinked":false},"align_mobile":"center"},"elements":[],"widgetType":"heading"},{"id":"9d0a8df","elType":"widget","settings":{"editor":"<p>Quick response 24\/7<\/p>","align_mobile":"center"},"elements":[],"widgetType":"text-editor"},{"id":"5c80020","elType":"widget","settings":{"space_mobile":{"unit":"px","size":30}},"elements":[],"widgetType":"spacer"}],"isInner":false},{"id":"398893f","elType":"container","settings":{"_column_size":16,"width":{"size":5.982,"unit":"%"},"padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false},"width_tablet":{"size":10,"unit":"%"},"content_width":"full"},"elements":[{"id":"713c262","elType":"widget","settings":{"image":{"url":"https:\/\/demo.woostify.com\/fashion1\/wp-content\/uploads\/sites\/27\/2018\/10\/money-back.png","id":161},"image_size":"full","align_mobile":"center","_margin_mobile":{"unit":"px","top":"0","right":"0","bottom":"20","left":"0","isLinked":false}},"elements":[],"widgetType":"image"}],"isInner":false},{"id":"eb81cb4","elType":"container","settings":{"_column_size":16,"width":{"size":26.684,"unit":"%"},"padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"30","isLinked":false},"width_tablet":{"size":40,"unit":"%"},"padding_tablet":{"unit":"px","top":"0","right":"0","bottom":"0","left":"30","isLinked":false},"padding_mobile":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false},"content_width":"full"},"elements":[{"id":"a861846","elType":"widget","settings":{"title":"Money-Back Guarantee","header_size":"h6","typography_typography":"custom","typography_font_weight":"normal","_margin":{"unit":"px","top":"10","right":"0","bottom":"-10","left":"0","isLinked":false},"align_mobile":"center"},"elements":[],"widgetType":"heading"},{"id":"1d3c9eb","elType":"widget","settings":{"editor":"<p>Worry-free shopping<\/p>","align_mobile":"center"},"elements":[],"widgetType":"text-editor"},{"id":"4e409bf","elType":"widget","settings":[],"elements":[],"widgetType":"spacer"}],"isInner":false}],"isInner":false}],"isInner":false}],"isInner":false},{"id":"7ccab2d","elType":"container","settings":{"flex_gap":{"size":0,"unit":"px"},"flex_direction":"row","flex_align_items":"stretch","padding":{"unit":"px","top":"0","right":"15","bottom":"0","left":"15","isLinked":false}},"elements":[{"id":"a8a896c","elType":"container","settings":{"_column_size":100,"content_width":"full","padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true}},"elements":[{"id":"e361106","elType":"widget","settings":{"space":{"unit":"px","size":81},"space_mobile":{"unit":"px","size":50}},"elements":[],"widgetType":"spacer"},{"id":"63749c5","elType":"widget","settings":{"editor":"<p>Trending now<\/p>","align":"center","typography_typography":"custom","typography_font_size":{"unit":"px","size":12},"typography_text_transform":"uppercase"},"elements":[],"widgetType":"text-editor"},{"id":"5abff5b","elType":"widget","settings":{"title":"Popular This Week","align":"center","typography_typography":"custom","typography_font_size_mobile":{"unit":"rem","size":1.7}},"elements":[],"widgetType":"heading"},{"id":"55b788d","elType":"widget","settings":{"space":{"unit":"px","size":18}},"elements":[],"widgetType":"spacer"},{"id":"48b3708","elType":"widget","settings":{"shortcode":"[products limit=4 columns=4 orderby=\"rand\" order=\"DESC\" ]"},"elements":[],"widgetType":"shortcode"}],"isInner":false}],"isInner":false},{"id":"81e0635","elType":"container","settings":{"flex_gap":{"size":0,"unit":"px"},"stretch_section":"section-stretched","content_width":"full","flex_direction":"row","flex_align_items":"stretch","padding":{"unit":"px","top":"0","right":"15","bottom":"0","left":"15","isLinked":false}},"elements":[{"id":"27bf2a8","elType":"container","settings":{"_column_size":100,"content_width":"full","padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true}},"elements":[{"id":"8662424","elType":"widget","settings":{"space":{"unit":"px","size":47}},"elements":[],"widgetType":"spacer"},{"id":"35de4b2","elType":"widget","settings":{"editor":"Stay up-to-date","align":"center","typography_typography":"custom","typography_font_size":{"unit":"px","size":12},"typography_text_transform":"uppercase"},"elements":[],"widgetType":"text-editor"},{"id":"f0221c8","elType":"widget","settings":{"title":"Follow Us On Instagram","align":"center","typography_typography":"custom","typography_font_size_mobile":{"unit":"rem","size":1.7}},"elements":[],"widgetType":"heading"},{"id":"90f252a","elType":"widget","settings":{"space":{"unit":"px","size":40}},"elements":[],"widgetType":"spacer"}],"isInner":false}],"isInner":false},{"id":"711a7e1","elType":"container","settings":{"stretch_section":"section-stretched","content_width":"full","flex_gap":{"size":0,"unit":"px"},"structure":"50","flex_direction":"row","flex_align_items":"stretch","padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true}},"elements":[{"id":"00d2b32","elType":"container","settings":{"_column_size":20,"width":{"size":null,"unit":"%"},"content_width":"full","padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true}},"elements":[{"id":"c166936","elType":"widget","settings":{"image":{"url":"https:\/\/demo.woostify.com\/fashion1\/wp-content\/uploads\/sites\/27\/2020\/06\/24332219_1529584700462652_6665896630459301888_nfull.jpg","id":892}},"elements":[],"widgetType":"image"}],"isInner":false},{"id":"a1366ec","elType":"container","settings":{"_column_size":20,"width":{"size":null,"unit":"%"},"content_width":"full","padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true}},"elements":[{"id":"3c0960b","elType":"widget","settings":{"image":{"url":"https:\/\/demo.woostify.com\/fashion1\/wp-content\/uploads\/sites\/27\/2020\/06\/24327509_2019331848351789_6045842922174152704_nfull.jpg","id":891}},"elements":[],"widgetType":"image"}],"isInner":false},{"id":"796615c","elType":"container","settings":{"_column_size":20,"width":{"size":null,"unit":"%"},"content_width":"full","padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true}},"elements":[{"id":"d7dd1b2","elType":"widget","settings":{"image":{"url":"https:\/\/demo.woostify.com\/fashion1\/wp-content\/uploads\/sites\/27\/2020\/06\/24253948_148465415796841_6128439768956010496_nfull.jpg","id":889}},"elements":[],"widgetType":"image"}],"isInner":false},{"id":"8105425","elType":"container","settings":{"_column_size":20,"width":{"size":null,"unit":"%"},"content_width":"full","padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true}},"elements":[{"id":"373000c","elType":"widget","settings":{"image":{"url":"https:\/\/demo.woostify.com\/fashion1\/wp-content\/uploads\/sites\/27\/2020\/06\/24177654_314505439047217_4089965401700564992_nfull.jpg","id":888}},"elements":[],"widgetType":"image"}],"isInner":false},{"id":"95dc124","elType":"container","settings":{"_column_size":20,"width":{"size":null,"unit":"%"},"content_width":"full","padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true}},"elements":[{"id":"1b7fcd7","elType":"widget","settings":{"image":{"url":"https:\/\/demo.woostify.com\/fashion1\/wp-content\/uploads\/sites\/27\/2020\/06\/24253999_1232637293546789_49577778160336896_nfull.jpg","id":890}},"elements":[],"widgetType":"image"}],"isInner":false}],"isInner":false}]]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_elementor_version]]></wp:meta_key>
-		<wp:meta_value><![CDATA[3.7.4]]></wp:meta_value>
+		<wp:meta_value><![CDATA[3.13.4]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[site-header-transparent]]></wp:meta_key>
@@ -5192,7 +5120,11 @@ with Woostify™</h2>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/fashion1/?page_id=201</guid>
 		<description></description>
-		<content:encoded><![CDATA[<iframe frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps?q=London%20Eye%2C%20London%2C%20United%20Kingdom&amp;t=m&amp;z=10&amp;output=embed&amp;iwloc=near" title="London Eye, London, United Kingdom" aria-label="London Eye, London, United Kingdom"></iframe>		
+		<content:encoded><![CDATA[<iframe loading="lazy"
+					src="https://maps.google.com/maps?q=London%20Eye%2C%20London%2C%20United%20Kingdom&#038;t=m&#038;z=10&#038;output=embed&#038;iwloc=near"
+					title="London Eye, London, United Kingdom"
+					aria-label="London Eye, London, United Kingdom"
+			></iframe>
 			<h5>Contact Info.</h5>		
 		<p>Some information that you may want to know</p>
 <img src="https://demo.woostify.com/fashion1/wp-content/uploads/sites/27/2018/10/contact-phone.jpg" alt="contact-info-image" />
@@ -5211,8 +5143,8 @@ Greenwich Village, NYC 1001 United State
 		<wp:post_id>201</wp:post_id>
 		<wp:post_date><![CDATA[2018-10-23 07:33:09]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-10-23 07:33:09]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-01-26 08:05:55]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-01-26 08:05:55]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2023-06-14 10:21:50]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-06-14 10:21:50]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[contact]]></wp:post_name>
@@ -5232,11 +5164,11 @@ Greenwich Village, NYC 1001 United State
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_elementor_data]]></wp:meta_key>
-		<wp:meta_value><![CDATA[[{"id":"e825f20","elType":"section","settings":{"stretch_section":"section-stretched","layout":"full_width","gap":"no"},"elements":[{"id":"9e0717b","elType":"column","settings":{"_column_size":100},"elements":[{"id":"b0a9a20","elType":"widget","settings":{"address":"London Eye, London, United Kingdom","height":{"unit":"px","size":660},"height_tablet":{"unit":"px","size":480},"height_mobile":{"unit":"px","size":320},"css_filters_hue":{"unit":"px","size":144}},"elements":[],"widgetType":"google_maps"}],"isInner":false}],"isInner":false},{"id":"3153b01","elType":"section","settings":{"gap":"no","structure":"21"},"elements":[{"id":"475bd5a","elType":"column","settings":{"_column_size":33,"_inline_size":null},"elements":[{"id":"b469dcf","elType":"widget","settings":{"space":{"unit":"px","size":90}},"elements":[],"widgetType":"spacer"},{"id":"1a4a148","elType":"widget","settings":{"title":"Contact Info.","header_size":"h5","typography_typography":"custom","typography_font_weight":"normal"},"elements":[],"widgetType":"heading"},{"id":"87ca533","elType":"widget","settings":{"editor":"<p>Some information that you may want to know<\/p>","typography_font_size":{"unit":"px","size":0}},"elements":[],"widgetType":"text-editor"},{"id":"23fb120","elType":"widget","settings":{"editor":"<div class=\"woostify-contact-info\">\n<div class=\"contact-info-list\">\n<div class=\"contact-info-img\"><img src=\"https:\/\/demo.woostify.com\/fashion1\/wp-content\/uploads\/sites\/27\/2018\/10\/contact-phone.jpg\" alt=\"contact-info-image\" \/><\/div>\n<div class=\"contact-info-detail\">\n\n<label>Phone Number<\/label>\n<h6>+1 342 5860 282<\/h6>\n<\/div>\n<\/div>\n<div class=\"contact-info-list\">\n<div class=\"contact-info-img\"><img src=\"https:\/\/demo.woostify.com\/fashion1\/wp-content\/uploads\/sites\/27\/2018\/10\/contact-address.jpg\" alt=\"contact-info-image\" \/><\/div>\n<div class=\"contact-info-detail\">\n\n<label>Address<\/label>\n<h6>168 Park Avenue<\/h6>\nGreenwich Village, NYC 1001 United State\n\n<\/div>\n<\/div>\n<div class=\"contact-info-list\">\n<div class=\"contact-info-img\"><img src=\"https:\/\/demo.woostify.com\/fashion1\/wp-content\/uploads\/sites\/27\/2018\/10\/contact-mail.jpg\" alt=\"contact-info-image\" \/><\/div>\n<div class=\"contact-info-detail\">\n\n<label>Email<\/label>\n<h6>hello@woostify.com<\/h6>\n<\/div>\n<\/div>\n<\/div>"},"elements":[],"widgetType":"text-editor"}],"isInner":false},{"id":"8acbbf2","elType":"column","settings":{"_column_size":66,"_inline_size":null},"elements":[{"id":"4de5970","elType":"widget","settings":{"space":{"unit":"px","size":90}},"elements":[],"widgetType":"spacer"},{"id":"e781879","elType":"widget","settings":{"title":"Leave Your Message","header_size":"h5","typography_typography":"custom","typography_font_weight":"normal"},"elements":[],"widgetType":"heading"},{"id":"309ca6d","elType":"widget","settings":{"editor":"<p>Feel free to contact with us by using the form below<\/p>","typography_font_size":{"unit":"px","size":12}},"elements":[],"widgetType":"text-editor"},{"id":"e32b584","elType":"widget","settings":{"shortcode":"[contact-form-7 id=\"213\" title=\"Contact Form\"]"},"elements":[],"widgetType":"shortcode"}],"isInner":false}],"isInner":false},{"id":"6642261","elType":"section","settings":[],"elements":[{"id":"b9c8db9","elType":"column","settings":{"_column_size":100},"elements":[{"id":"fa619fa","elType":"widget","settings":{"space":{"unit":"px","size":90}},"elements":[],"widgetType":"spacer"}],"isInner":false}],"isInner":false}]]]></wp:meta_value>
+		<wp:meta_value><![CDATA[[{"id":"7c93b72","elType":"container","settings":{"stretch_section":"section-stretched","content_width":"full","flex_gap":{"size":0,"unit":"px"},"flex_direction":"row","flex_align_items":"stretch","padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true}},"elements":[{"id":"01e760b","elType":"container","settings":{"_column_size":100,"content_width":"full","padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true}},"elements":[{"id":"9cc635c","elType":"widget","settings":{"address":"London Eye, London, United Kingdom","height":{"unit":"px","size":660},"height_tablet":{"unit":"px","size":480},"height_mobile":{"unit":"px","size":320},"css_filters_hue":{"unit":"px","size":144}},"elements":[],"widgetType":"google_maps"}],"isInner":false}],"isInner":false},{"id":"e1bfea3","elType":"container","settings":{"flex_gap":{"size":0,"unit":"px"},"structure":"21","flex_direction":"row","flex_align_items":"stretch","padding":{"unit":"px","top":"0","right":"15","bottom":"0","left":"15","isLinked":false}},"elements":[{"id":"56d963d","elType":"container","settings":{"_column_size":33,"width":{"size":33.333,"unit":"%"},"content_width":"full","padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true}},"elements":[{"id":"11d3214","elType":"widget","settings":{"space":{"unit":"px","size":90}},"elements":[],"widgetType":"spacer"},{"id":"e294f14","elType":"widget","settings":{"title":"Contact Info.","header_size":"h5","typography_typography":"custom","typography_font_weight":"normal"},"elements":[],"widgetType":"heading"},{"id":"208233a","elType":"widget","settings":{"editor":"<p>Some information that you may want to know<\/p>","typography_font_size":{"unit":"px","size":0}},"elements":[],"widgetType":"text-editor"},{"id":"c57c540","elType":"widget","settings":{"editor":"<div class=\"woostify-contact-info\">\n<div class=\"contact-info-list\">\n<div class=\"contact-info-img\"><img src=\"https:\/\/demo.woostify.com\/fashion1\/wp-content\/uploads\/sites\/27\/2018\/10\/contact-phone.jpg\" alt=\"contact-info-image\" \/><\/div>\n<div class=\"contact-info-detail\">\n\n<label>Phone Number<\/label>\n<h6>+1 342 5860 282<\/h6>\n<\/div>\n<\/div>\n<div class=\"contact-info-list\">\n<div class=\"contact-info-img\"><img src=\"https:\/\/demo.woostify.com\/fashion1\/wp-content\/uploads\/sites\/27\/2018\/10\/contact-address.jpg\" alt=\"contact-info-image\" \/><\/div>\n<div class=\"contact-info-detail\">\n\n<label>Address<\/label>\n<h6>168 Park Avenue<\/h6>\nGreenwich Village, NYC 1001 United State\n\n<\/div>\n<\/div>\n<div class=\"contact-info-list\">\n<div class=\"contact-info-img\"><img src=\"https:\/\/demo.woostify.com\/fashion1\/wp-content\/uploads\/sites\/27\/2018\/10\/contact-mail.jpg\" alt=\"contact-info-image\" \/><\/div>\n<div class=\"contact-info-detail\">\n\n<label>Email<\/label>\n<h6>hello@woostify.com<\/h6>\n<\/div>\n<\/div>\n<\/div>"},"elements":[],"widgetType":"text-editor"}],"isInner":false},{"id":"1a262bf","elType":"container","settings":{"_column_size":66,"width":{"size":66.666,"unit":"%"},"content_width":"full","padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true}},"elements":[{"id":"ad814ae","elType":"widget","settings":{"space":{"unit":"px","size":90}},"elements":[],"widgetType":"spacer"},{"id":"24080f2","elType":"widget","settings":{"title":"Leave Your Message","header_size":"h5","typography_typography":"custom","typography_font_weight":"normal"},"elements":[],"widgetType":"heading"},{"id":"ac792c4","elType":"widget","settings":{"editor":"<p>Feel free to contact with us by using the form below<\/p>","typography_font_size":{"unit":"px","size":12}},"elements":[],"widgetType":"text-editor"},{"id":"51a9c5b","elType":"widget","settings":{"shortcode":"[contact-form-7 id=\"213\" title=\"Contact Form\"]"},"elements":[],"widgetType":"shortcode"}],"isInner":false}],"isInner":false},{"id":"520acde","elType":"container","settings":{"flex_direction":"row","flex_align_items":"stretch","flex_gap":{"size":10,"unit":"px"},"padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true}},"elements":[{"id":"6674381","elType":"container","settings":{"_column_size":100,"content_width":"full"},"elements":[{"id":"45a7a6e","elType":"widget","settings":{"space":{"unit":"px","size":90}},"elements":[],"widgetType":"spacer"}],"isInner":false}],"isInner":false}]]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_elementor_version]]></wp:meta_key>
-		<wp:meta_value><![CDATA[3.0.13]]></wp:meta_value>
+		<wp:meta_value><![CDATA[3.13.4]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_elementor_template_type]]></wp:meta_key>
@@ -5244,7 +5176,7 @@ Greenwich Village, NYC 1001 United State
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[site-container]]></wp:meta_key>
-		<wp:meta_value><![CDATA[default]]></wp:meta_value>
+		<wp:meta_value><![CDATA[full-width-stretched]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[site-header-transparent]]></wp:meta_key>
@@ -5261,6 +5193,14 @@ Greenwich Village, NYC 1001 United State
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_elementor_controls_usage]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:7:{s:11:"google_maps";a:3:{s:5:"count";i:1;s:15:"control_percent";i:2;s:8:"controls";a:2:{s:7:"content";a:1:{s:11:"section_map";a:3:{s:6:"height";i:1;s:13:"height_tablet";i:1;s:13:"height_mobile";i:1;}}s:5:"style";a:1:{s:17:"section_map_style";a:1:{s:15:"css_filters_hue";i:1;}}}}s:6:"column";a:3:{s:5:"count";i:4;s:15:"control_percent";i:0;s:8:"controls";a:1:{s:6:"layout";a:1:{s:6:"layout";a:1:{s:12:"_inline_size";i:2;}}}}s:7:"section";a:3:{s:5:"count";i:3;s:15:"control_percent";i:0;s:8:"controls";a:1:{s:6:"layout";a:2:{s:14:"section_layout";a:3:{s:15:"stretch_section";i:1;s:6:"layout";i:1;s:3:"gap";i:2;}s:17:"section_structure";a:1:{s:9:"structure";i:1;}}}}s:6:"spacer";a:3:{s:5:"count";i:3;s:15:"control_percent";i:0;s:8:"controls";a:1:{s:7:"content";a:1:{s:14:"section_spacer";a:1:{s:5:"space";i:3;}}}}s:7:"heading";a:3:{s:5:"count";i:2;s:15:"control_percent";i:2;s:8:"controls";a:2:{s:7:"content";a:1:{s:13:"section_title";a:2:{s:5:"title";i:2;s:11:"header_size";i:2;}}s:5:"style";a:1:{s:19:"section_title_style";a:2:{s:21:"typography_typography";i:2;s:22:"typography_font_weight";i:2;}}}}s:11:"text-editor";a:3:{s:5:"count";i:3;s:15:"control_percent";i:1;s:8:"controls";a:2:{s:7:"content";a:1:{s:14:"section_editor";a:1:{s:6:"editor";i:3;}}s:5:"style";a:1:{s:13:"section_style";a:1:{s:20:"typography_font_size";i:2;}}}}s:9:"shortcode";a:3:{s:5:"count";i:1;s:15:"control_percent";i:0;s:8:"controls";a:1:{s:7:"content";a:1:{s:17:"section_shortcode";a:1:{s:9:"shortcode";i:1;}}}}}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_elementor_page_assets]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -5341,6 +5281,79 @@ Greenwich Village, NYC 1001 United State
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
 		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Sitemap]]></title>
+		<link>https://demo.woostify.com/fashion1/sitemap/</link>
+		<pubDate>Tue, 19 Nov 2019 06:49:48 +0000</pubDate>
+		<dc:creator><![CDATA[woostify]]></dc:creator>
+		<guid isPermaLink="false">https://woostify.com/demos/free/fashion1/2019/11/19/sitemap/</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>678</wp:post_id>
+		<wp:post_date><![CDATA[2019-11-19 06:49:48]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2019-11-19 06:49:48]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2019-11-19 06:49:48]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2019-11-19 06:49:48]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[sitemap]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>3</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="nav_menu" nicename="footer"><![CDATA[Footer]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_elementor_controls_usage]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[678]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[#]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wxr_import_user_slug]]></wp:meta_key>
+		<wp:meta_value><![CDATA[woostify]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wxr_import_user_slug]]></wp:meta_key>
+		<wp:meta_value><![CDATA[woostify]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wxr_import_user_slug]]></wp:meta_key>
+		<wp:meta_value><![CDATA[woostify]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -6214,6 +6227,30 @@ Greenwich Village, NYC 1001 United State
 		</wp:postmeta>
 							</item>
 					<item>
+		<title><![CDATA[Cart]]></title>
+		<link>https://demo.woostify.com/fashion1/cart/</link>
+		<pubDate>Thu, 19 Nov 2020 03:53:51 +0000</pubDate>
+		<dc:creator><![CDATA[woostify]]></dc:creator>
+		<guid isPermaLink="false">https://demo.woostify.com/fashion1/cart/</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:shortcode -->[woocommerce_cart]<!-- /wp:shortcode -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>5</wp:post_id>
+		<wp:post_date><![CDATA[2020-11-19 03:53:51]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2020-11-19 03:53:51]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2020-11-19 03:53:51]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2020-11-19 03:53:51]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[cart]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														</item>
+					<item>
 		<title><![CDATA[Checkout]]></title>
 		<link>https://demo.woostify.com/fashion1/checkout/</link>
 		<pubDate>Thu, 19 Nov 2020 03:53:51 +0000</pubDate>
@@ -6839,7 +6876,7 @@ Eum culpa assumenda eligendi fugit laborum vitae odit deleniti illo quasi volupt
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[pageview]]></wp:meta_key>
-		<wp:meta_value><![CDATA[160]]></wp:meta_value>
+		<wp:meta_value><![CDATA[453]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:comment>
 			<wp:comment_id>118</wp:comment_id>
@@ -6892,8 +6929,8 @@ Eum culpa assumenda eligendi fugit laborum vitae odit deleniti illo quasi volupt
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
 										<category domain="product_tag" nicename="fashion"><![CDATA[fashion]]></category>
-		<category domain="product_cat" nicename="man"><![CDATA[Man]]></category>
 		<category domain="product_tag" nicename="man"><![CDATA[man]]></category>
+		<category domain="product_cat" nicename="man"><![CDATA[Man]]></category>
 		<category domain="product_visibility" nicename="outofstock"><![CDATA[outofstock]]></category>
 		<category domain="product_type" nicename="simple"><![CDATA[simple]]></category>
 		<category domain="product_tag" nicename="summer"><![CDATA[summer]]></category>
@@ -7068,7 +7105,7 @@ Eum culpa assumenda eligendi fugit laborum vitae odit deleniti illo quasi volupt
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[pageview]]></wp:meta_key>
-		<wp:meta_value><![CDATA[144]]></wp:meta_value>
+		<wp:meta_value><![CDATA[380]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:comment>
 			<wp:comment_id>124</wp:comment_id>
@@ -7142,8 +7179,8 @@ Tempore provident eligendi sed ipsum ea. Reiciendis nulla neque sapiente, totam 
 		<wp:is_sticky>0</wp:is_sticky>
 										<category domain="pa_color" nicename="black"><![CDATA[Black]]></category>
 		<category domain="product_tag" nicename="fashion"><![CDATA[fashion]]></category>
-		<category domain="product_tag" nicename="man"><![CDATA[man]]></category>
 		<category domain="product_cat" nicename="man"><![CDATA[Man]]></category>
+		<category domain="product_tag" nicename="man"><![CDATA[man]]></category>
 		<category domain="pa_color" nicename="orange"><![CDATA[Orange]]></category>
 		<category domain="product_visibility" nicename="rated-5"><![CDATA[rated-5]]></category>
 		<category domain="product_tag" nicename="summer"><![CDATA[summer]]></category>
@@ -7340,7 +7377,7 @@ Tempore provident eligendi sed ipsum ea. Reiciendis nulla neque sapiente, totam 
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[pageview]]></wp:meta_key>
-		<wp:meta_value><![CDATA[980]]></wp:meta_value>
+		<wp:meta_value><![CDATA[2602]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_price]]></wp:meta_key>
@@ -7507,8 +7544,8 @@ Eum culpa assumenda eligendi fugit laborum vitae odit deleniti illo quasi volupt
 										<category domain="product_tag" nicename="autumn"><![CDATA[autumn]]></category>
 		<category domain="product_type" nicename="external"><![CDATA[external]]></category>
 		<category domain="product_tag" nicename="fashion"><![CDATA[fashion]]></category>
-		<category domain="product_tag" nicename="man"><![CDATA[man]]></category>
 		<category domain="product_cat" nicename="man"><![CDATA[Man]]></category>
+		<category domain="product_tag" nicename="man"><![CDATA[man]]></category>
 		<category domain="product_visibility" nicename="rated-5"><![CDATA[rated-5]]></category>
 						<wp:postmeta>
 		<wp:meta_key><![CDATA[_elementor_controls_usage]]></wp:meta_key>
@@ -7680,7 +7717,7 @@ Eum culpa assumenda eligendi fugit laborum vitae odit deleniti illo quasi volupt
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[pageview]]></wp:meta_key>
-		<wp:meta_value><![CDATA[479]]></wp:meta_value>
+		<wp:meta_value><![CDATA[1286]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:comment>
 			<wp:comment_id>5</wp:comment_id>
@@ -8003,7 +8040,7 @@ Eum culpa assumenda eligendi fugit laborum vitae odit deleniti illo quasi volupt
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[pageview]]></wp:meta_key>
-		<wp:meta_value><![CDATA[635]]></wp:meta_value>
+		<wp:meta_value><![CDATA[1780]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:comment>
 			<wp:comment_id>158</wp:comment_id>
@@ -8219,7 +8256,7 @@ Eum culpa assumenda eligendi fugit laborum vitae odit deleniti illo quasi volupt
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[pageview]]></wp:meta_key>
-		<wp:meta_value><![CDATA[890]]></wp:meta_value>
+		<wp:meta_value><![CDATA[2380]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_price]]></wp:meta_key>
@@ -8318,8 +8355,8 @@ Eum culpa assumenda eligendi fugit laborum vitae odit deleniti illo quasi volupt
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
 										<category domain="product_tag" nicename="fashion"><![CDATA[fashion]]></category>
-		<category domain="product_cat" nicename="man"><![CDATA[Man]]></category>
 		<category domain="product_tag" nicename="man"><![CDATA[man]]></category>
+		<category domain="product_cat" nicename="man"><![CDATA[Man]]></category>
 		<category domain="product_visibility" nicename="rated-5"><![CDATA[rated-5]]></category>
 		<category domain="product_type" nicename="simple"><![CDATA[simple]]></category>
 		<category domain="product_tag" nicename="summer"><![CDATA[summer]]></category>
@@ -8498,7 +8535,7 @@ Eum culpa assumenda eligendi fugit laborum vitae odit deleniti illo quasi volupt
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[pageview]]></wp:meta_key>
-		<wp:meta_value><![CDATA[724]]></wp:meta_value>
+		<wp:meta_value><![CDATA[2010]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:comment>
 			<wp:comment_id>7</wp:comment_id>
@@ -9097,31 +9134,6 @@ Lorem turpis egestas magna, in lacinia felis arcu sit amet arcu. Cras eu risus u
 		</wp:postmeta>
 							</item>
 					<item>
-		<title><![CDATA[Custom Styles]]></title>
-		<link>https://demo.woostify.com/fashion1/wp-global-styles-woostify/</link>
-		<pubDate>Thu, 16 Jun 2022 14:10:40 +0000</pubDate>
-		<dc:creator><![CDATA[woostify]]></dc:creator>
-		<guid isPermaLink="false">https://demo.woostify.com/fashion1/wp-global-styles-woostify/</guid>
-		<description></description>
-		<content:encoded><![CDATA[{"version": 2, "isGlobalStylesUserThemeJSON": true }]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>4064</wp:post_id>
-		<wp:post_date><![CDATA[2022-06-16 14:10:40]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2022-06-16 14:10:40]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2022-06-16 14:10:40]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2022-06-16 14:10:40]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[wp-global-styles-woostify]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[wp_global_styles]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="wp_theme" nicename="woostify"><![CDATA[woostify]]></category>
-						</item>
-					<item>
 		<title><![CDATA[Contact form 1]]></title>
 		<link>https://demo.woostify.com/fashion1/?post_type=wpcf7_contact_form&#038;p=8</link>
 		<pubDate>Thu, 19 Nov 2020 03:54:30 +0000</pubDate>
@@ -9641,6 +9653,31 @@ This e-mail was sent from a contact form on Woostify Fashion (https://freedemo.w
 		<wp:meta_value><![CDATA[woostify]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
+					<item>
+		<title><![CDATA[Custom Styles]]></title>
+		<link>https://demo.woostify.com/fashion1/wp-global-styles-woostify/</link>
+		<pubDate>Thu, 16 Jun 2022 14:10:40 +0000</pubDate>
+		<dc:creator><![CDATA[woostify]]></dc:creator>
+		<guid isPermaLink="false">https://demo.woostify.com/fashion1/wp-global-styles-woostify/</guid>
+		<description></description>
+		<content:encoded><![CDATA[{"version": 2, "isGlobalStylesUserThemeJSON": true }]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>4064</wp:post_id>
+		<wp:post_date><![CDATA[2022-06-16 14:10:40]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2022-06-16 14:10:40]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-06-16 14:10:40]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-06-16 14:10:40]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[wp-global-styles-woostify]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[wp_global_styles]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="wp_theme" nicename="woostify"><![CDATA[woostify]]></category>
+						</item>
 				</channel>
 </rss>
 	

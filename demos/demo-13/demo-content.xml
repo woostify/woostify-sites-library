@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/6.0.3" created="2022-11-04 02:26" -->
+	<!-- generator="WordPress/6.2.2" created="2023-06-28 02:18" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
 	<title>Urbanstyle</title>
 	<link>https://demo.woostify.com/urbanstyle</link>
 	<description>Just another Woostify Pro Demo Sites site</description>
-	<pubDate>Fri, 04 Nov 2022 02:26:50 +0000</pubDate>
+	<pubDate>Wed, 28 Jun 2023 02:18:39 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>https://demo.woostify.com/</wp:base_site_url>
@@ -261,6 +261,17 @@
 		</wp:termmeta>
 	</wp:term>
 		<wp:term>
+		<wp:term_id>36</wp:term_id>
+		<wp:term_taxonomy><![CDATA[product_tag]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[man]]></wp:term_slug>
+		<wp:term_parent><![CDATA[]]></wp:term_parent>
+		<wp:term_name><![CDATA[man]]></wp:term_name>
+		<wp:termmeta>
+			<wp:meta_key><![CDATA[product_count_product_tag]]></wp:meta_key>
+			<wp:meta_value><![CDATA[5]]></wp:meta_value>
+		</wp:termmeta>
+	</wp:term>
+		<wp:term>
 		<wp:term_id>35</wp:term_id>
 		<wp:term_taxonomy><![CDATA[product_cat]]></wp:term_taxonomy>
 		<wp:term_slug><![CDATA[man]]></wp:term_slug>
@@ -288,17 +299,6 @@
 		</wp:termmeta>
 		<wp:termmeta>
 			<wp:meta_key><![CDATA[product_count_product_cat]]></wp:meta_key>
-			<wp:meta_value><![CDATA[5]]></wp:meta_value>
-		</wp:termmeta>
-	</wp:term>
-		<wp:term>
-		<wp:term_id>36</wp:term_id>
-		<wp:term_taxonomy><![CDATA[product_tag]]></wp:term_taxonomy>
-		<wp:term_slug><![CDATA[man]]></wp:term_slug>
-		<wp:term_parent><![CDATA[]]></wp:term_parent>
-		<wp:term_name><![CDATA[man]]></wp:term_name>
-		<wp:termmeta>
-			<wp:meta_key><![CDATA[product_count_product_tag]]></wp:meta_key>
 			<wp:meta_value><![CDATA[5]]></wp:meta_value>
 		</wp:termmeta>
 	</wp:term>
@@ -562,7 +562,7 @@
 	<wp:term><wp:term_id>51</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug><![CDATA[support]]></wp:term_slug><wp:term_name><![CDATA[Support]]></wp:term_name>
 </wp:term>
 
-	<generator>https://wordpress.org/?v=6.0.3</generator>
+	<generator>https://wordpress.org/?v=6.2.2</generator>
 
 <image>
 	<url>https://demo.woostify.com/urbanstyle/wp-content/uploads/sites/28/2018/11/favicon.png</url>
@@ -4284,13 +4284,25 @@ with Woostify™</h2>
 }
 .single-product .woostify-breadcrumb {
 	color: #7a6853;
+}
+
+/* Custom CSS footer */
+.woostify-footer-social-icon.woostify-social-icon a:before {
+	display: none;
+}
+.woostify-footer-social-icon li a {
+	padding: 5px;
+}
+.woostify-footer-social-icon li a:hover svg,
+.woostify-footer-social-icon li a:hover path {
+    fill: #ffffff;
 }]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>658</wp:post_id>
 		<wp:post_date><![CDATA[2019-08-24 08:51:30]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-08-24 08:51:30]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2019-08-24 08:51:30]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2019-08-24 08:51:30]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2023-06-19 10:04:55]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-06-19 10:04:55]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[woostify]]></wp:post_name>
@@ -5147,37 +5159,31 @@ with Woostify™</h2>
 		<description></description>
 		<content:encoded><![CDATA[<p>America’s Finest</p>		
 			<h2>Rugged Outerwear</h2>		
-			<a href="https://woostify.com/demos/free/urbanstyle/shop/" role="button">
+			<a href="https://woostify.com/demos/free/urbanstyle/shop/pros/335/pros/335/pros/335/pros/335/" role="button">
 						Shop now
 					</a>
-										<img width="87" height="87" src="https://demo.woostify.com/urbanstyle/wp-content/uploads/sites/28/2019/08/icon-title.jpg" alt="" loading="lazy" />											
+												<img width="87" height="87" src="https://demo.woostify.com/urbanstyle/wp-content/uploads/sites/28/2019/08/icon-title.jpg" alt="" loading="lazy" />														
 		<p>Our products are inspired by the people and world around us. Beautiful, high quality goods that are designed especially for you. Discover our story and meet the people that make our brand what it is.</p>		
-							<figure>
-											<a href="https://woostify.com/demos/free/urbanstyle/product-category/womens/">
+													<a href="https://woostify.com/demos/free/urbanstyle/product-category/womens/pros/335/pros/335/pros/335/pros/335/">
 							<img width="370" height="500" src="https://demo.woostify.com/urbanstyle/wp-content/uploads/sites/28/2019/08/image01.jpg" alt="" loading="lazy" srcset="https://demo.woostify.com/urbanstyle/wp-content/uploads/sites/28/2019/08/image01.jpg 370w, https://demo.woostify.com/urbanstyle/wp-content/uploads/sites/28/2019/08/image01-222x300.jpg 222w" sizes="(max-width: 370px) 100vw, 370px" />								</a>
-											<figcaption>Mens</figcaption>
-										</figure>
-							<figure>
-											<a href="https://woostify.com/demos/free/urbanstyle/product-category/womens/">
+			Mens		
+													<a href="https://woostify.com/demos/free/urbanstyle/product-category/womens/pros/335/pros/335/pros/335/pros/335/">
 							<img width="370" height="500" src="https://demo.woostify.com/urbanstyle/wp-content/uploads/sites/28/2019/08/image02.jpg" alt="" loading="lazy" srcset="https://demo.woostify.com/urbanstyle/wp-content/uploads/sites/28/2019/08/image02.jpg 370w, https://demo.woostify.com/urbanstyle/wp-content/uploads/sites/28/2019/08/image02-222x300.jpg 222w" sizes="(max-width: 370px) 100vw, 370px" />								</a>
-											<figcaption>Womens</figcaption>
-										</figure>
-							<figure>
-											<a href="https://woostify.com/demos/free/urbanstyle/product-category/womens/">
+			Womens		
+													<a href="https://woostify.com/demos/free/urbanstyle/product-category/womens/pros/335/pros/335/pros/335/pros/335/">
 							<img width="370" height="500" src="https://demo.woostify.com/urbanstyle/wp-content/uploads/sites/28/2019/08/image03.jpg" alt="" loading="lazy" srcset="https://demo.woostify.com/urbanstyle/wp-content/uploads/sites/28/2019/08/image03.jpg 370w, https://demo.woostify.com/urbanstyle/wp-content/uploads/sites/28/2019/08/image03-222x300.jpg 222w" sizes="(max-width: 370px) 100vw, 370px" />								</a>
-											<figcaption>Accessories</figcaption>
-										</figure>
+			Accessories		
 			<h2>Featured Products</h2>		
 		[products limit=4 columns=4 orderby="date"]		
-			<h2><a href="https://woostify.com/demos/urbanstyle/shop/">View all products</a></h2>		
+			<h2><a href="https://woostify.com/demos/urbanstyle/shop/pros/335/pros/335/pros/335/pros/335/">View all products</a></h2>		
 			<h2>Subscribe to our list</h2>		
 		[contact-form-7 id="211" title="Footer Subscribe"]]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>13</wp:post_id>
 		<wp:post_date><![CDATA[2018-10-16 03:55:35]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-10-16 03:55:35]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2021-04-26 08:46:49]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2021-04-26 08:46:49]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2023-06-20 01:28:32]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-06-20 01:28:32]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[fashion]]></wp:post_name>
@@ -5189,7 +5195,7 @@ with Woostify™</h2>
 		<wp:is_sticky>0</wp:is_sticky>
 														<wp:postmeta>
 		<wp:meta_key><![CDATA[site-container]]></wp:meta_key>
-		<wp:meta_value><![CDATA[full-width]]></wp:meta_value>
+		<wp:meta_value><![CDATA[full-width-stretched]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[site-sidebar]]></wp:meta_key>
@@ -5213,11 +5219,11 @@ with Woostify™</h2>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_elementor_data]]></wp:meta_key>
-		<wp:meta_value><![CDATA[[{"id":"6b0382d","elType":"section","settings":{"content_width":{"unit":"px","size":1170},"gap":"no","background_background":"classic","background_image":{"url":"https:\/\/demo.woostify.com\/urbanstyle\/wp-content\/uploads\/sites\/28\/2019\/08\/backgorund-head.jpg","id":785},"background_position":"top center","background_repeat":"no-repeat","background_size":"cover","padding":{"unit":"px","top":"0","right":"15","bottom":"0","left":"15","isLinked":false},"height":"min-height","custom_height":{"unit":"px","size":600,"sizes":[]},"custom_height_tablet":{"unit":"px","size":400,"sizes":[]},"custom_height_mobile":{"unit":"px","size":300,"sizes":[]}},"elements":[{"id":"45c4587","elType":"column","settings":{"_column_size":100},"elements":[{"id":"8fb7794","elType":"widget","settings":{"editor":"<p>America\u2019s Finest<\/p>","text_color":"#ffffff","typography_typography":"custom","typography_font_size":{"unit":"px","size":16},"typography_font_weight":"500","typography_font_size_mobile":{"unit":"rem","size":1},"align":"center","typography_text_transform":"uppercase","typography_letter_spacing":{"unit":"px","size":1,"sizes":[]}},"elements":[],"widgetType":"text-editor"},{"id":"781a716","elType":"widget","settings":{"title":"Rugged Outerwear","typography_typography":"custom","typography_font_size":{"unit":"px","size":45},"typography_line_height":{"unit":"px","size":60},"typography_font_size_tablet":{"unit":"rem","size":2.5},"typography_font_size_mobile":{"unit":"rem","size":1.7},"typography_line_height_tablet":{"unit":"em","size":1.5},"typography_line_height_mobile":{"unit":"em","size":1.3},"align":"center","title_color":"#ffffff","typography_text_transform":"uppercase","typography_letter_spacing":{"unit":"px","size":2,"sizes":[]}},"elements":[],"widgetType":"heading"},{"id":"2fcb47b","elType":"widget","settings":{"space":{"unit":"px","size":25},"space_tablet":{"unit":"px","size":30},"space_mobile":{"unit":"px","size":0}},"elements":[],"widgetType":"spacer"},{"id":"d266b90","elType":"widget","settings":{"text":"Shop now","typography_typography":"custom","typography_font_weight":"600","typography_text_transform":"uppercase","typography_line_height":{"unit":"px","size":""},"border_radius":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true},"text_padding":{"unit":"px","top":"15","right":"35","bottom":"15","left":"35","isLinked":false},"typography_letter_spacing":{"unit":"px","size":1},"text_padding_mobile":{"unit":"px","top":"12","right":"25","bottom":"12","left":"25","isLinked":false},"button_background_hover_color":"#ac8e4d","button_box_shadow_box_shadow_type":"yes","button_box_shadow_box_shadow":{"horizontal":0,"vertical":10,"blur":40,"spread":0,"color":"rgba(19,70,175,0.3)"},"typography_font_size":{"unit":"px","size":14},"background_color":"#ffffff","align":"center","button_text_color":"#ac8e4d","link":{"url":"https:\/\/woostify.com\/demos\/free\/urbanstyle\/shop\/","is_external":"","nofollow":""},"hover_color":"#ffffff"},"elements":[],"widgetType":"button"}],"isInner":false}],"isInner":false},{"id":"14770bb","elType":"section","settings":{"gap":"no","content_width":{"unit":"px","size":370,"sizes":[]}},"elements":[{"id":"ed747be","elType":"column","settings":{"_column_size":100},"elements":[{"id":"a5abd61","elType":"widget","settings":{"space":{"unit":"px","size":93},"space_mobile":{"unit":"px","size":50}},"elements":[],"widgetType":"spacer"},{"id":"42b1808","elType":"widget","settings":{"image":{"url":"https:\/\/demo.woostify.com\/urbanstyle\/wp-content\/uploads\/sites\/28\/2019\/08\/icon-title.jpg","id":666}},"elements":[],"widgetType":"image"},{"id":"6b4b7ee","elType":"widget","settings":{"editor":"<p>Our products are inspired by the people and world around us. Beautiful, high quality goods that are designed especially for you. Discover our story and meet the people that make our brand what it is.<\/p>","align":"center","typography_typography":"custom","typography_font_size":{"unit":"px","size":12},"typography_text_transform":"uppercase"},"elements":[],"widgetType":"text-editor"},{"id":"08b355d","elType":"widget","settings":{"space_mobile":{"unit":"px","size":30},"space":{"unit":"px","size":40}},"elements":[],"widgetType":"spacer"}],"isInner":false}],"isInner":false},{"id":"40f4e93","elType":"section","settings":{"structure":"30","gap":"no","css_classes":"woostify-shop-category"},"elements":[{"id":"d2df41a","elType":"column","settings":{"_column_size":33,"_inline_size":null,"background_background":"classic"},"elements":[{"id":"7c8da32","elType":"widget","settings":{"image":{"id":668,"url":"https:\/\/demo.woostify.com\/urbanstyle\/wp-content\/uploads\/sites\/28\/2019\/08\/image01.jpg"},"image_size":"full","caption":"Mens","link_to":"custom","css_filters_hover_blur":{"unit":"px","size":2},"background_hover_transition":{"unit":"px","size":0.3},"_margin":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false},"_margin_mobile":{"unit":"px","top":"0","right":"0","bottom":"10","left":"0","isLinked":false},"caption_source":"custom","text_color":"#ffffff","link":{"url":"https:\/\/woostify.com\/demos\/free\/urbanstyle\/product-category\/womens\/","is_external":"","nofollow":""}},"elements":[],"widgetType":"image"}],"isInner":false},{"id":"d3006f1","elType":"column","settings":{"_column_size":33,"_inline_size":null,"background_background":"classic"},"elements":[{"id":"2a3328c","elType":"widget","settings":{"image":{"id":669,"url":"https:\/\/demo.woostify.com\/urbanstyle\/wp-content\/uploads\/sites\/28\/2019\/08\/image02.jpg"},"image_size":"full","caption":"Womens","link_to":"custom","css_filters_hover_blur":{"unit":"px","size":2},"background_hover_transition":{"unit":"px","size":0.3},"_margin":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false},"_margin_mobile":{"unit":"px","top":"0","right":"0","bottom":"10","left":"0","isLinked":false},"caption_source":"custom","text_color":"#ffffff","link":{"url":"https:\/\/woostify.com\/demos\/free\/urbanstyle\/product-category\/womens\/","is_external":"","nofollow":""}},"elements":[],"widgetType":"image"}],"isInner":false},{"id":"9e2c528","elType":"column","settings":{"_column_size":33,"_inline_size":null,"background_background":"classic"},"elements":[{"id":"c5f464a","elType":"widget","settings":{"image":{"id":670,"url":"https:\/\/demo.woostify.com\/urbanstyle\/wp-content\/uploads\/sites\/28\/2019\/08\/image03.jpg"},"image_size":"full","caption":"Accessories","link_to":"custom","css_filters_hover_blur":{"unit":"px","size":2},"background_hover_transition":{"unit":"px","size":0.3},"_margin":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false},"_margin_mobile":{"unit":"px","top":"0","right":"0","bottom":"10","left":"0","isLinked":false},"caption_source":"custom","text_color":"#ffffff","caption_space":{"unit":"px","size":0,"sizes":[]},"link":{"url":"https:\/\/woostify.com\/demos\/free\/urbanstyle\/product-category\/womens\/","is_external":"","nofollow":""}},"elements":[],"widgetType":"image"}],"isInner":false}],"isInner":false},{"id":"121c2a9","elType":"section","settings":{"gap":"no"},"elements":[{"id":"8232dca","elType":"column","settings":{"_column_size":100},"elements":[{"id":"c74e8fb","elType":"widget","settings":{"space":{"unit":"px","size":84},"space_mobile":{"unit":"px","size":50}},"elements":[],"widgetType":"spacer"},{"id":"367b8d8","elType":"widget","settings":{"title":"Featured Products","align":"center","typography_typography":"custom","typography_font_size_mobile":{"unit":"rem","size":1.7}},"elements":[],"widgetType":"heading"},{"id":"85c5b3a","elType":"widget","settings":{"space":{"unit":"px","size":34}},"elements":[],"widgetType":"spacer"},{"id":"5594c20","elType":"widget","settings":{"shortcode":"[products limit=4 columns=4 orderby=\"date\"]"},"elements":[],"widgetType":"shortcode"},{"id":"82cdd75","elType":"widget","settings":{"title":"View all products","link":{"url":"https:\/\/woostify.com\/demos\/urbanstyle\/shop\/","is_external":"","nofollow":""},"align":"center","typography_typography":"custom","typography_font_size":{"unit":"px","size":15,"sizes":[]},"typography_text_transform":"uppercase","typography_text_decoration":"underline","typography_line_height":{"unit":"px","size":"","sizes":[]}},"elements":[],"widgetType":"heading"},{"id":"fea43bf","elType":"widget","settings":{"space":{"unit":"px","size":70}},"elements":[],"widgetType":"spacer"}],"isInner":false}],"isInner":false},{"id":"f094607","elType":"section","settings":{"stretch_section":"section-stretched","layout":"full_width","gap":"no","background_background":"classic","background_image":{"url":"https:\/\/demo.woostify.com\/urbanstyle\/wp-content\/uploads\/sites\/28\/2019\/08\/background.jpg","id":677},"background_position":"center center","background_repeat":"no-repeat","background_size":"cover","padding":{"unit":"px","top":"110","right":"0","bottom":"110","left":"0","isLinked":false}},"elements":[{"id":"97b7cbc","elType":"column","settings":{"_column_size":100},"elements":[{"id":"0d1b474","elType":"widget","settings":{"title":"Subscribe to our list","align":"center","title_color":"#ffffff","typography_typography":"custom","typography_font_size_mobile":{"unit":"px","size":28,"sizes":[]}},"elements":[],"widgetType":"heading"},{"id":"56e20ea","elType":"widget","settings":{"color":"#ffffff","width":{"unit":"%","size":3,"sizes":[]},"align":"center","text":"Divider"},"elements":[],"widgetType":"divider"},{"id":"b376088","elType":"section","settings":{"content_width":{"unit":"px","size":400,"sizes":[]}},"elements":[{"id":"d4a6f98","elType":"column","settings":{"_column_size":100,"_inline_size":null},"elements":[{"id":"7542fa7","elType":"widget","settings":{"shortcode":"[contact-form-7 id=\"211\" title=\"Footer Subscribe\"]"},"elements":[],"widgetType":"shortcode"}],"isInner":true}],"isInner":true}],"isInner":false}],"isInner":false}]]]></wp:meta_value>
+		<wp:meta_value><![CDATA[[{"id":"a395383","elType":"container","settings":{"boxed_width":{"unit":"px","size":1170},"flex_gap":{"size":0,"unit":"px"},"background_background":"classic","background_image":{"url":"https:\/\/demo.woostify.com\/urbanstyle\/wp-content\/uploads\/sites\/28\/2019\/08\/backgorund-head.jpg","id":785},"background_position":"top center","background_repeat":"no-repeat","background_size":"cover","padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true},"min_height":{"unit":"px","size":600,"sizes":[]},"min_height_tablet":{"unit":"px","size":400,"sizes":[]},"min_height_mobile":{"unit":"px","size":300,"sizes":[]},"flex_direction":"row","flex_align_items":"center"},"elements":[{"id":"4163c7a","elType":"container","settings":{"_column_size":100,"content_width":"full","padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true}},"elements":[{"id":"c32a964","elType":"widget","settings":{"editor":"<p>America\u2019s Finest<\/p>","text_color":"#ffffff","typography_typography":"custom","typography_font_size":{"unit":"px","size":16},"typography_font_weight":"500","typography_font_size_mobile":{"unit":"rem","size":1},"align":"center","typography_text_transform":"uppercase","typography_letter_spacing":{"unit":"px","size":1,"sizes":[]}},"elements":[],"widgetType":"text-editor"},{"id":"29edd15","elType":"widget","settings":{"title":"Rugged Outerwear","typography_typography":"custom","typography_font_size":{"unit":"px","size":45},"typography_line_height":{"unit":"px","size":60},"typography_font_size_tablet":{"unit":"rem","size":2.5},"typography_font_size_mobile":{"unit":"rem","size":1.7},"typography_line_height_tablet":{"unit":"em","size":1.5},"typography_line_height_mobile":{"unit":"em","size":1.3},"align":"center","title_color":"#ffffff","typography_text_transform":"uppercase","typography_letter_spacing":{"unit":"px","size":2,"sizes":[]}},"elements":[],"widgetType":"heading"},{"id":"eac78e0","elType":"widget","settings":{"space":{"unit":"px","size":25},"space_tablet":{"unit":"px","size":30},"space_mobile":{"unit":"px","size":0}},"elements":[],"widgetType":"spacer"},{"id":"a93c4cd","elType":"widget","settings":{"text":"Shop now","typography_typography":"custom","typography_font_weight":"600","typography_text_transform":"uppercase","typography_line_height":{"unit":"px","size":""},"border_radius":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true},"text_padding":{"unit":"px","top":"15","right":"35","bottom":"15","left":"35","isLinked":false},"typography_letter_spacing":{"unit":"px","size":1},"text_padding_mobile":{"unit":"px","top":"12","right":"25","bottom":"12","left":"25","isLinked":false},"button_background_hover_color":"#ac8e4d","button_box_shadow_box_shadow_type":"yes","button_box_shadow_box_shadow":{"horizontal":0,"vertical":10,"blur":40,"spread":0,"color":"rgba(19,70,175,0.3)"},"typography_font_size":{"unit":"px","size":14},"background_color":"#ffffff","align":"center","button_text_color":"#ac8e4d","link":{"url":"https:\/\/woostify.com\/demos\/free\/urbanstyle\/shop\/pros\/335\/pros\/335\/pros\/335\/pros\/335\/","is_external":"","nofollow":""},"hover_color":"#ffffff"},"elements":[],"widgetType":"button"}],"isInner":false}],"isInner":false},{"id":"bab210d","elType":"container","settings":{"flex_gap":{"size":0,"unit":"px"},"boxed_width":{"unit":"px","size":370,"sizes":[]},"flex_direction":"row","flex_align_items":"stretch","padding":{"unit":"px","top":"0","right":"15","bottom":"0","left":"15","isLinked":false}},"elements":[{"id":"f51d81f","elType":"container","settings":{"_column_size":100,"content_width":"full","padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true}},"elements":[{"id":"3f436ae","elType":"widget","settings":{"space":{"unit":"px","size":93},"space_mobile":{"unit":"px","size":50}},"elements":[],"widgetType":"spacer"},{"id":"2ac51dc","elType":"widget","settings":{"image":{"url":"https:\/\/demo.woostify.com\/urbanstyle\/wp-content\/uploads\/sites\/28\/2019\/08\/icon-title.jpg","id":666}},"elements":[],"widgetType":"image"},{"id":"f943ebd","elType":"widget","settings":{"editor":"<p>Our products are inspired by the people and world around us. Beautiful, high quality goods that are designed especially for you. Discover our story and meet the people that make our brand what it is.<\/p>","align":"center","typography_typography":"custom","typography_font_size":{"unit":"px","size":12},"typography_text_transform":"uppercase"},"elements":[],"widgetType":"text-editor"},{"id":"cc4d5e3","elType":"widget","settings":{"space_mobile":{"unit":"px","size":30},"space":{"unit":"px","size":40}},"elements":[],"widgetType":"spacer"}],"isInner":false}],"isInner":false},{"id":"932ef64","elType":"container","settings":{"structure":"30","flex_gap":{"size":0,"unit":"px"},"css_classes":"woostify-shop-category","flex_direction":"row","flex_align_items":"stretch","padding":{"unit":"px","top":"0","right":"15","bottom":"0","left":"15","isLinked":false}},"elements":[{"id":"a121dbc","elType":"container","settings":{"_column_size":33,"width":{"size":null,"unit":"%"},"background_background":"classic","content_width":"full","padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true}},"elements":[{"id":"f8af399","elType":"widget","settings":{"image":{"id":668,"url":"https:\/\/demo.woostify.com\/urbanstyle\/wp-content\/uploads\/sites\/28\/2019\/08\/image01.jpg"},"image_size":"full","caption":"Mens","link_to":"custom","css_filters_hover_blur":{"unit":"px","size":2},"background_hover_transition":{"unit":"px","size":0.3},"_margin":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false},"_margin_mobile":{"unit":"px","top":"0","right":"0","bottom":"10","left":"0","isLinked":false},"text_color":"#ffffff","link":{"url":"https:\/\/woostify.com\/demos\/free\/urbanstyle\/product-category\/womens\/pros\/335\/pros\/335\/pros\/335\/pros\/335\/","is_external":"","nofollow":""}},"elements":[],"widgetType":"image"},{"id":"c5421a2","elType":"widget","settings":{"title":"Mens","header_size":"div","title_color":"#FFFFFF","typography_typography":"custom","typography_font_size":{"unit":"px","size":24,"sizes":[]},"typography_font_weight":"500","typography_line_height":{"unit":"em","size":1,"sizes":[]},"_position":"absolute","_offset_x":{"unit":"px","size":30,"sizes":[]},"_offset_orientation_v":"end","_offset_y_end":{"unit":"px","size":30,"sizes":[]}},"elements":[],"widgetType":"heading"}],"isInner":false},{"id":"e575177","elType":"container","settings":{"_column_size":33,"width":{"size":null,"unit":"%"},"background_background":"classic","content_width":"full","padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true}},"elements":[{"id":"1da1d80","elType":"widget","settings":{"image":{"id":669,"url":"https:\/\/demo.woostify.com\/urbanstyle\/wp-content\/uploads\/sites\/28\/2019\/08\/image02.jpg"},"image_size":"full","caption":"Womens","link_to":"custom","css_filters_hover_blur":{"unit":"px","size":2},"background_hover_transition":{"unit":"px","size":0.3},"_margin":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false},"_margin_mobile":{"unit":"px","top":"0","right":"0","bottom":"10","left":"0","isLinked":false},"text_color":"#ffffff","link":{"url":"https:\/\/woostify.com\/demos\/free\/urbanstyle\/product-category\/womens\/pros\/335\/pros\/335\/pros\/335\/pros\/335\/","is_external":"","nofollow":""}},"elements":[],"widgetType":"image"},{"id":"abab9af","elType":"widget","settings":{"title":"Womens","header_size":"div","title_color":"#FFFFFF","typography_typography":"custom","typography_font_size":{"unit":"px","size":24,"sizes":[]},"typography_font_weight":"500","typography_line_height":{"unit":"em","size":1,"sizes":[]},"_position":"absolute","_offset_x":{"unit":"px","size":30,"sizes":[]},"_offset_orientation_v":"end","_offset_y_end":{"unit":"px","size":30,"sizes":[]}},"elements":[],"widgetType":"heading"}],"isInner":false},{"id":"81a16cf","elType":"container","settings":{"_column_size":33,"width":{"size":null,"unit":"%"},"background_background":"classic","content_width":"full","padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true}},"elements":[{"id":"946ec41","elType":"widget","settings":{"image":{"id":670,"url":"https:\/\/demo.woostify.com\/urbanstyle\/wp-content\/uploads\/sites\/28\/2019\/08\/image03.jpg"},"image_size":"full","caption":"Accessories","link_to":"custom","css_filters_hover_blur":{"unit":"px","size":2},"background_hover_transition":{"unit":"px","size":0.3},"_margin":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false},"_margin_mobile":{"unit":"px","top":"0","right":"0","bottom":"10","left":"0","isLinked":false},"text_color":"#ffffff","caption_space":{"unit":"px","size":0,"sizes":[]},"link":{"url":"https:\/\/woostify.com\/demos\/free\/urbanstyle\/product-category\/womens\/pros\/335\/pros\/335\/pros\/335\/pros\/335\/","is_external":"","nofollow":""}},"elements":[],"widgetType":"image"},{"id":"c9b07aa","elType":"widget","settings":{"title":"Accessories","header_size":"div","title_color":"#FFFFFF","typography_typography":"custom","typography_font_size":{"unit":"px","size":24,"sizes":[]},"typography_font_weight":"500","typography_line_height":{"unit":"em","size":1,"sizes":[]},"_position":"absolute","_offset_x":{"unit":"px","size":30,"sizes":[]},"_offset_orientation_v":"end","_offset_y_end":{"unit":"px","size":30,"sizes":[]}},"elements":[],"widgetType":"heading"}],"isInner":false}],"isInner":false},{"id":"ce6741f","elType":"container","settings":{"flex_gap":{"size":0,"unit":"px"},"flex_direction":"row","flex_align_items":"stretch","padding":{"unit":"px","top":"0","right":"15","bottom":"0","left":"15","isLinked":false}},"elements":[{"id":"fa44fe4","elType":"container","settings":{"_column_size":100,"content_width":"full","padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true}},"elements":[{"id":"be32831","elType":"widget","settings":{"space":{"unit":"px","size":84},"space_mobile":{"unit":"px","size":50}},"elements":[],"widgetType":"spacer"},{"id":"1832f4b","elType":"widget","settings":{"title":"Featured Products","align":"center","typography_typography":"custom","typography_font_size_mobile":{"unit":"rem","size":1.7}},"elements":[],"widgetType":"heading"},{"id":"53199de","elType":"widget","settings":{"space":{"unit":"px","size":34}},"elements":[],"widgetType":"spacer"},{"id":"dac3992","elType":"widget","settings":{"shortcode":"[products limit=4 columns=4 orderby=\"date\"]"},"elements":[],"widgetType":"shortcode"},{"id":"04de1b1","elType":"widget","settings":{"title":"View all products","link":{"url":"https:\/\/woostify.com\/demos\/urbanstyle\/shop\/pros\/335\/pros\/335\/pros\/335\/pros\/335\/","is_external":"","nofollow":""},"align":"center","typography_typography":"custom","typography_font_size":{"unit":"px","size":15,"sizes":[]},"typography_text_transform":"uppercase","typography_text_decoration":"underline"},"elements":[],"widgetType":"heading"},{"id":"4b89ed2","elType":"widget","settings":{"space":{"unit":"px","size":70}},"elements":[],"widgetType":"spacer"}],"isInner":false}],"isInner":false},{"id":"b8d75f0","elType":"container","settings":{"stretch_section":"section-stretched","content_width":"full","flex_gap":{"size":0,"unit":"px"},"background_background":"classic","background_image":{"url":"https:\/\/demo.woostify.com\/urbanstyle\/wp-content\/uploads\/sites\/28\/2019\/08\/background.jpg","id":677},"background_position":"center center","background_repeat":"no-repeat","background_size":"cover","padding":{"unit":"px","top":"110","right":"0","bottom":"110","left":"0","isLinked":false},"flex_direction":"row","flex_align_items":"stretch"},"elements":[{"id":"0ae614b","elType":"container","settings":{"_column_size":100,"content_width":"full","padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true}},"elements":[{"id":"b047900","elType":"widget","settings":{"title":"Subscribe to our list","align":"center","title_color":"#ffffff","typography_typography":"custom","typography_font_size_mobile":{"unit":"px","size":28,"sizes":[]}},"elements":[],"widgetType":"heading"},{"id":"a63aa23","elType":"widget","settings":{"color":"#ffffff","width":{"unit":"%","size":3,"sizes":[]},"align":"center","text":"Divider"},"elements":[],"widgetType":"divider"},{"id":"5115de8","elType":"container","settings":{"width":{"unit":"px","size":400,"sizes":[]},"flex_direction":"row","flex_align_items":"stretch","flex_gap":{"size":0,"unit":"px"},"boxed_width":{"unit":"px","size":400,"sizes":[]},"padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true}},"elements":[{"id":"28a36db","elType":"container","settings":{"_column_size":100,"width":{"size":null,"unit":"%"},"content_width":"full"},"elements":[{"id":"d142975","elType":"widget","settings":{"shortcode":"[contact-form-7 id=\"211\" title=\"Footer Subscribe\"]"},"elements":[],"widgetType":"shortcode"}],"isInner":false}],"isInner":false}],"isInner":false}],"isInner":false}]]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_elementor_version]]></wp:meta_key>
-		<wp:meta_value><![CDATA[3.1.4]]></wp:meta_value>
+		<wp:meta_value><![CDATA[3.13.4]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[site-header-transparent]]></wp:meta_key>
@@ -5230,6 +5236,14 @@ with Woostify™</h2>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_elementor_controls_usage]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:9:{s:11:"text-editor";a:3:{s:5:"count";i:2;s:15:"control_percent";i:2;s:8:"controls";a:2:{s:7:"content";a:1:{s:14:"section_editor";a:1:{s:6:"editor";i:2;}}s:5:"style";a:1:{s:13:"section_style";a:8:{s:10:"text_color";i:1;s:21:"typography_typography";i:2;s:20:"typography_font_size";i:2;s:22:"typography_font_weight";i:1;s:27:"typography_font_size_mobile";i:1;s:5:"align";i:2;s:25:"typography_text_transform";i:2;s:25:"typography_letter_spacing";i:1;}}}}s:7:"heading";a:3:{s:5:"count";i:4;s:15:"control_percent";i:2;s:8:"controls";a:2:{s:7:"content";a:1:{s:13:"section_title";a:3:{s:5:"title";i:4;s:5:"align";i:4;s:4:"link";i:1;}}s:5:"style";a:1:{s:19:"section_title_style";a:11:{s:21:"typography_typography";i:4;s:20:"typography_font_size";i:2;s:22:"typography_line_height";i:2;s:27:"typography_font_size_tablet";i:1;s:27:"typography_font_size_mobile";i:3;s:29:"typography_line_height_tablet";i:1;s:29:"typography_line_height_mobile";i:1;s:11:"title_color";i:2;s:25:"typography_text_transform";i:2;s:25:"typography_letter_spacing";i:1;s:26:"typography_text_decoration";i:1;}}}}s:6:"spacer";a:3:{s:5:"count";i:6;s:15:"control_percent";i:0;s:8:"controls";a:1:{s:7:"content";a:1:{s:14:"section_spacer";a:3:{s:5:"space";i:6;s:12:"space_tablet";i:1;s:12:"space_mobile";i:4;}}}}s:6:"button";a:3:{s:5:"count";i:1;s:15:"control_percent";i:5;s:8:"controls";a:2:{s:7:"content";a:1:{s:14:"section_button";a:3:{s:4:"text";i:1;s:5:"align";i:1;s:4:"link";i:1;}}s:5:"style";a:1:{s:13:"section_style";a:15:{s:21:"typography_typography";i:1;s:22:"typography_font_weight";i:1;s:25:"typography_text_transform";i:1;s:22:"typography_line_height";i:1;s:13:"border_radius";i:1;s:12:"text_padding";i:1;s:25:"typography_letter_spacing";i:1;s:19:"text_padding_mobile";i:1;s:29:"button_background_hover_color";i:1;s:33:"button_box_shadow_box_shadow_type";i:1;s:28:"button_box_shadow_box_shadow";i:1;s:20:"typography_font_size";i:1;s:16:"background_color";i:1;s:17:"button_text_color";i:1;s:11:"hover_color";i:1;}}}}s:6:"column";a:3:{s:5:"count";i:8;s:15:"control_percent";i:0;s:8:"controls";a:2:{s:6:"layout";a:1:{s:6:"layout";a:1:{s:12:"_inline_size";i:4;}}s:5:"style";a:1:{s:13:"section_style";a:1:{s:21:"background_background";i:3;}}}}s:7:"section";a:3:{s:5:"count";i:6;s:15:"control_percent";i:3;s:8:"controls";a:3:{s:6:"layout";a:2:{s:14:"section_layout";a:8:{s:13:"content_width";i:3;s:3:"gap";i:5;s:6:"height";i:1;s:13:"custom_height";i:1;s:20:"custom_height_tablet";i:1;s:20:"custom_height_mobile";i:1;s:15:"stretch_section";i:1;s:6:"layout";i:1;}s:17:"section_structure";a:1:{s:9:"structure";i:1;}}s:5:"style";a:1:{s:18:"section_background";a:5:{s:21:"background_background";i:2;s:16:"background_image";i:2;s:19:"background_position";i:2;s:17:"background_repeat";i:2;s:15:"background_size";i:2;}}s:8:"advanced";a:1:{s:16:"section_advanced";a:2:{s:7:"padding";i:2;s:11:"css_classes";i:1;}}}}s:5:"image";a:3:{s:5:"count";i:4;s:15:"control_percent";i:4;s:8:"controls";a:3:{s:7:"content";a:1:{s:13:"section_image";a:6:{s:5:"image";i:4;s:10:"image_size";i:3;s:7:"caption";i:3;s:7:"link_to";i:3;s:14:"caption_source";i:3;s:4:"link";i:3;}}s:5:"style";a:2:{s:19:"section_style_image";a:2:{s:22:"css_filters_hover_blur";i:3;s:27:"background_hover_transition";i:3;}s:21:"section_style_caption";a:2:{s:10:"text_color";i:3;s:13:"caption_space";i:1;}}s:8:"advanced";a:1:{s:14:"_section_style";a:2:{s:7:"_margin";i:3;s:14:"_margin_mobile";i:3;}}}}s:9:"shortcode";a:3:{s:5:"count";i:2;s:15:"control_percent";i:0;s:8:"controls";a:1:{s:7:"content";a:1:{s:17:"section_shortcode";a:1:{s:9:"shortcode";i:2;}}}}s:7:"divider";a:3:{s:5:"count";i:1;s:15:"control_percent";i:1;s:8:"controls";a:2:{s:5:"style";a:1:{s:21:"section_divider_style";a:1:{s:5:"color";i:1;}}s:7:"content";a:1:{s:15:"section_divider";a:2:{s:5:"width";i:1;s:5:"align";i:1;}}}}}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_elementor_page_assets]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -5279,9 +5293,13 @@ with Woostify™</h2>
 		<dc:creator><![CDATA[woostify]]></dc:creator>
 		<guid isPermaLink="false">https://woostify.com/demos/urbanstyle/?page_id=201</guid>
 		<description></description>
-		<content:encoded><![CDATA[		
+		<content:encoded><![CDATA[<iframe loading="lazy"
+					src="https://maps.google.com/maps?q=London%20Eye%2C%20London%2C%20United%20Kingdom&#038;t=m&#038;z=10&#038;output=embed&#038;iwloc=near"
+					title="London Eye, London, United Kingdom"
+					aria-label="London Eye, London, United Kingdom"
+			></iframe>
 			<h2>Contact us for any further 
-questions, possible projects &amp;
+questions, possible projects &
 business partnerships.</h2>		
 			<h2>Contact Directly</h2>		
 		<p>shop@urbanstyle.com</p><p>+01 3425 682 582</p>		
@@ -5295,8 +5313,8 @@ business partnerships.</h2>
 		<wp:post_id>201</wp:post_id>
 		<wp:post_date><![CDATA[2018-10-23 07:33:09]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2018-10-23 07:33:09]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2018-10-23 07:33:09]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2018-10-23 07:33:09]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2023-06-20 02:05:39]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-06-20 02:05:39]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[contact]]></wp:post_name>
@@ -5320,19 +5338,19 @@ business partnerships.</h2>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_elementor_data]]></wp:meta_key>
-		<wp:meta_value><![CDATA[[{"id":"e825f20","elType":"section","settings":{"stretch_section":"section-stretched","layout":"full_width","gap":"no"},"elements":[{"id":"9e0717b","elType":"column","settings":{"_column_size":100},"elements":[{"id":"b0a9a20","elType":"widget","settings":{"address":"London Eye, London, United Kingdom","height":{"unit":"px","size":660},"height_tablet":{"unit":"px","size":480},"height_mobile":{"unit":"px","size":320},"css_filters_hue":{"unit":"px","size":144}},"elements":[],"widgetType":"google_maps"}],"isInner":false}],"isInner":false},{"id":"dc9cb92","elType":"section","settings":{"content_width":{"unit":"px","size":450,"sizes":[]},"margin":{"unit":"px","top":"100","right":0,"bottom":"0","left":0,"isLinked":false},"margin_mobile":{"unit":"px","top":"50","right":0,"bottom":"0","left":0,"isLinked":false}},"elements":[{"id":"e44477b","elType":"column","settings":{"_column_size":100},"elements":[{"id":"b591d31","elType":"widget","settings":{"title":"Contact us for any further \nquestions, possible projects &\nbusiness partnerships.","align":"center","typography_typography":"custom","typography_font_size":{"unit":"px","size":28,"sizes":[]},"typography_font_weight":"400","typography_line_height":{"unit":"px","size":38,"sizes":[]}},"elements":[],"widgetType":"heading"}],"isInner":false}],"isInner":false},{"id":"0331280","elType":"section","settings":{"structure":"30","margin":{"unit":"px","top":"100","right":0,"bottom":"100","left":0,"isLinked":false},"margin_mobile":{"unit":"px","top":"50","right":0,"bottom":"0","left":0,"isLinked":false}},"elements":[{"id":"6d44bc6","elType":"column","settings":{"_column_size":33,"_inline_size":null},"elements":[{"id":"575733c","elType":"widget","settings":{"title":"Contact Directly","align":"center","typography_typography":"custom","typography_font_size":{"unit":"px","size":18,"sizes":[]}},"elements":[],"widgetType":"heading"},{"id":"538a8d9","elType":"widget","settings":{"width":{"unit":"%","size":8,"sizes":[]},"align":"center","gap":{"unit":"px","size":0,"sizes":[]}},"elements":[],"widgetType":"divider"},{"id":"a7a8a8e","elType":"widget","settings":{"editor":"<p>shop@urbanstyle.com<\/p><p>+01 3425 682 582<\/p>","align":"center","typography_typography":"custom","typography_line_height":{"unit":"px","size":18,"sizes":[]}},"elements":[],"widgetType":"text-editor"}],"isInner":false},{"id":"80ba17f","elType":"column","settings":{"_column_size":33,"_inline_size":null},"elements":[{"id":"b8c9365","elType":"widget","settings":{"title":"Visit Our Store","align":"center","typography_typography":"custom","typography_font_size":{"unit":"px","size":18,"sizes":[]}},"elements":[],"widgetType":"heading"},{"id":"8bb8416","elType":"widget","settings":{"width":{"unit":"%","size":8,"sizes":[]},"align":"center","gap":{"unit":"px","size":0,"sizes":[]}},"elements":[],"widgetType":"divider"},{"id":"2b47063","elType":"widget","settings":{"editor":"<p>16\/23 5th Avenue, Manhattan<\/p><p>New York, 10001, United States<\/p>","align":"center","typography_typography":"custom","typography_line_height":{"unit":"px","size":18,"sizes":[]}},"elements":[],"widgetType":"text-editor"}],"isInner":false},{"id":"caeee92","elType":"column","settings":{"_column_size":33,"_inline_size":null},"elements":[{"id":"a0bba79","elType":"widget","settings":{"title":"Time Opening","align":"center","typography_typography":"custom","typography_font_size":{"unit":"px","size":18,"sizes":[]}},"elements":[],"widgetType":"heading"},{"id":"ae9f9f8","elType":"widget","settings":{"width":{"unit":"%","size":8,"sizes":[]},"align":"center","gap":{"unit":"px","size":0,"sizes":[]}},"elements":[],"widgetType":"divider"},{"id":"f4754df","elType":"widget","settings":{"editor":"<p>Weekdays: 9.00 - 20.00<\/p><p>Weekend: 9.00 - 22.00<\/p>","align":"center","typography_typography":"custom","typography_line_height":{"unit":"px","size":18,"sizes":[]}},"elements":[],"widgetType":"text-editor"}],"isInner":false}],"isInner":false},{"id":"8c1000f","elType":"section","settings":{"stretch_section":"section-stretched","layout":"full_width","gap":"no","background_background":"classic","background_color":"#f3f3f3","margin":{"unit":"px","top":"50","right":0,"bottom":"0","left":0,"isLinked":false},"padding":{"unit":"px","top":"100","right":"0","bottom":"100","left":"0","isLinked":false},"padding_mobile":{"unit":"px","top":"50","right":"0","bottom":"50","left":"0","isLinked":false}},"elements":[{"id":"b00d1a4","elType":"column","settings":{"_column_size":100},"elements":[{"id":"4a5547f","elType":"section","settings":[],"elements":[{"id":"43b9248","elType":"column","settings":{"_column_size":100,"_inline_size":null},"elements":[{"id":"4b5bd87","elType":"widget","settings":{"title":"Get in touch","align":"center"},"elements":[],"widgetType":"heading"},{"id":"4b18c49","elType":"widget","settings":{"color":"#ac8e4d","width":{"unit":"%","size":4,"sizes":[]},"align":"center"},"elements":[],"widgetType":"divider"},{"id":"11e41fc","elType":"widget","settings":{"shortcode":"[contact-form-7 id=\"213\" title=\"Contact Form\"]"},"elements":[],"widgetType":"shortcode"}],"isInner":true}],"isInner":true}],"isInner":false}],"isInner":false}]]]></wp:meta_value>
+		<wp:meta_value><![CDATA[[{"id":"47d2005","elType":"container","settings":{"stretch_section":"section-stretched","content_width":"full","flex_gap":{"size":0,"unit":"px"},"flex_direction":"row","flex_align_items":"stretch","padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true}},"elements":[{"id":"44e9f18","elType":"container","settings":{"_column_size":100,"content_width":"full","padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true}},"elements":[{"id":"64f436c","elType":"widget","settings":{"address":"London Eye, London, United Kingdom","height":{"unit":"px","size":660},"height_tablet":{"unit":"px","size":480},"height_mobile":{"unit":"px","size":320},"css_filters_hue":{"unit":"px","size":144}},"elements":[],"widgetType":"google_maps"}],"isInner":false}],"isInner":false},{"id":"b58fb96","elType":"container","settings":{"boxed_width":{"unit":"px","size":450,"sizes":[]},"margin":{"unit":"px","top":"100","right":0,"bottom":"0","left":0,"isLinked":false},"margin_mobile":{"unit":"px","top":"50","right":0,"bottom":"0","left":0,"isLinked":false},"flex_direction":"row","flex_align_items":"stretch","flex_gap":{"size":0,"unit":"px"},"padding":{"unit":"px","top":"0","right":"15","bottom":"0","left":"15","isLinked":false}},"elements":[{"id":"b82f6f4","elType":"container","settings":{"_column_size":100,"content_width":"full"},"elements":[{"id":"4e59948","elType":"widget","settings":{"title":"Contact us for any further \nquestions, possible projects &\nbusiness partnerships.","align":"center","typography_typography":"custom","typography_font_size":{"unit":"px","size":28,"sizes":[]},"typography_font_weight":"400","typography_line_height":{"unit":"px","size":38,"sizes":[]}},"elements":[],"widgetType":"heading"}],"isInner":false}],"isInner":false},{"id":"e705cec","elType":"container","settings":{"structure":"30","margin":{"unit":"px","top":"100","right":0,"bottom":"100","left":0,"isLinked":false},"margin_mobile":{"unit":"px","top":"50","right":0,"bottom":"0","left":0,"isLinked":false},"flex_direction":"row","flex_align_items":"stretch","flex_gap":{"size":0,"unit":"px"},"padding":{"unit":"px","top":"0","right":"15","bottom":"0","left":"15","isLinked":false}},"elements":[{"id":"3bb6439","elType":"container","settings":{"_column_size":33,"width":{"size":null,"unit":"%"},"content_width":"full"},"elements":[{"id":"77bf895","elType":"widget","settings":{"title":"Contact Directly","align":"center","typography_typography":"custom","typography_font_size":{"unit":"px","size":18,"sizes":[]}},"elements":[],"widgetType":"heading"},{"id":"31b42ef","elType":"widget","settings":{"width":{"unit":"%","size":8,"sizes":[]},"align":"center","gap":{"unit":"px","size":0,"sizes":[]},"text":"Divider"},"elements":[],"widgetType":"divider"},{"id":"5865c03","elType":"widget","settings":{"editor":"<p>shop@urbanstyle.com<\/p><p>+01 3425 682 582<\/p>","align":"center","typography_typography":"custom","typography_line_height":{"unit":"px","size":18,"sizes":[]}},"elements":[],"widgetType":"text-editor"}],"isInner":false},{"id":"04e86ad","elType":"container","settings":{"_column_size":33,"width":{"size":null,"unit":"%"},"content_width":"full"},"elements":[{"id":"b6ed55d","elType":"widget","settings":{"title":"Visit Our Store","align":"center","typography_typography":"custom","typography_font_size":{"unit":"px","size":18,"sizes":[]}},"elements":[],"widgetType":"heading"},{"id":"039fe56","elType":"widget","settings":{"width":{"unit":"%","size":8,"sizes":[]},"align":"center","gap":{"unit":"px","size":0,"sizes":[]},"text":"Divider"},"elements":[],"widgetType":"divider"},{"id":"3335070","elType":"widget","settings":{"editor":"<p>16\/23 5th Avenue, Manhattan<\/p><p>New York, 10001, United States<\/p>","align":"center","typography_typography":"custom","typography_line_height":{"unit":"px","size":18,"sizes":[]}},"elements":[],"widgetType":"text-editor"}],"isInner":false},{"id":"ba04b91","elType":"container","settings":{"_column_size":33,"width":{"size":null,"unit":"%"},"content_width":"full"},"elements":[{"id":"aa88e84","elType":"widget","settings":{"title":"Time Opening","align":"center","typography_typography":"custom","typography_font_size":{"unit":"px","size":18,"sizes":[]}},"elements":[],"widgetType":"heading"},{"id":"3a6e1a5","elType":"widget","settings":{"width":{"unit":"%","size":8,"sizes":[]},"align":"center","gap":{"unit":"px","size":0,"sizes":[]},"text":"Divider"},"elements":[],"widgetType":"divider"},{"id":"2ddc737","elType":"widget","settings":{"editor":"<p>Weekdays: 9.00 - 20.00<\/p><p>Weekend: 9.00 - 22.00<\/p>","align":"center","typography_typography":"custom","typography_line_height":{"unit":"px","size":18,"sizes":[]}},"elements":[],"widgetType":"text-editor"}],"isInner":false}],"isInner":false},{"id":"4620deb","elType":"container","settings":{"stretch_section":"section-stretched","content_width":"full","flex_gap":{"size":0,"unit":"px"},"background_background":"classic","background_color":"#f3f3f3","margin":{"unit":"px","top":"50","right":0,"bottom":"0","left":0,"isLinked":false},"padding":{"unit":"px","top":"100","right":"0","bottom":"100","left":"0","isLinked":false},"padding_mobile":{"unit":"px","top":"50","right":"0","bottom":"50","left":"0","isLinked":false},"flex_direction":"row"},"elements":[{"id":"789103b","elType":"container","settings":{"_column_size":100,"content_width":"full","padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true}},"elements":[{"id":"64e93cb","elType":"container","settings":{"flex_direction":"row","flex_gap":{"size":0,"unit":"px"},"padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true}},"elements":[{"id":"6109c0f","elType":"container","settings":{"_column_size":100,"width":{"size":null,"unit":"%"},"content_width":"full"},"elements":[{"id":"0247200","elType":"widget","settings":{"title":"Get in touch","align":"center"},"elements":[],"widgetType":"heading"},{"id":"3c804eb","elType":"widget","settings":{"color":"#ac8e4d","width":{"unit":"%","size":4,"sizes":[]},"align":"center","text":"Divider"},"elements":[],"widgetType":"divider"},{"id":"10200e5","elType":"widget","settings":{"shortcode":"[contact-form-7 id=\"213\" title=\"Contact Form\"]"},"elements":[],"widgetType":"shortcode"}],"isInner":false}],"isInner":false}],"isInner":false}],"isInner":false}]]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_elementor_version]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2.5.16]]></wp:meta_value>
+		<wp:meta_value><![CDATA[3.13.4]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_elementor_template_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[post]]></wp:meta_value>
+		<wp:meta_value><![CDATA[wp-post]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[site-container]]></wp:meta_key>
-		<wp:meta_value><![CDATA[full-width]]></wp:meta_value>
+		<wp:meta_value><![CDATA[full-width-stretched]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[site-header-transparent]]></wp:meta_key>
@@ -5358,6 +5376,14 @@ business partnerships.</h2>
 		<wp:meta_key><![CDATA[_wxr_import_user_slug]]></wp:meta_key>
 		<wp:meta_value><![CDATA[woostify]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_elementor_page_assets]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Shop Full Width]]></title>
@@ -5371,8 +5397,8 @@ business partnerships.</h2>
 		<wp:post_id>590</wp:post_id>
 		<wp:post_date><![CDATA[2019-03-08 07:02:16]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2019-03-08 07:02:16]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2019-03-08 07:02:16]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2019-03-08 07:02:16]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2023-06-20 02:10:44]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-06-20 02:10:44]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[shop-full-width]]></wp:post_name>
@@ -5408,7 +5434,7 @@ business partnerships.</h2>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_elementor_template_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[post]]></wp:meta_value>
+		<wp:meta_value><![CDATA[wp-post]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
@@ -5416,11 +5442,11 @@ business partnerships.</h2>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_elementor_data]]></wp:meta_key>
-		<wp:meta_value><![CDATA[[{"id":"9b73450","elType":"section","settings":[],"elements":[{"id":"e4d35eb","elType":"column","settings":{"_column_size":100},"elements":[{"id":"ecb9792","elType":"widget","settings":{"shortcode":"[products limit=8 paginate=true columns=4 orderby=\"date\"]"},"elements":[],"widgetType":"shortcode"}],"isInner":false}],"isInner":false}]]]></wp:meta_value>
+		<wp:meta_value><![CDATA[[{"id":"4a3db3a","elType":"container","settings":{"flex_direction":"row","flex_align_items":"stretch","flex_gap":{"size":0,"unit":"px"},"padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true}},"elements":[{"id":"113fd71","elType":"container","settings":{"_column_size":100,"content_width":"full"},"elements":[{"id":"3acb68c","elType":"widget","settings":{"shortcode":"[products limit=8 paginate=true columns=4 orderby=\"date\"]"},"elements":[],"widgetType":"shortcode"}],"isInner":false}],"isInner":false}]]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_elementor_version]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0.4]]></wp:meta_value>
+		<wp:meta_value><![CDATA[3.13.4]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wxr_import_user_slug]]></wp:meta_key>
@@ -5433,6 +5459,10 @@ business partnerships.</h2>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wxr_import_user_slug]]></wp:meta_key>
 		<wp:meta_value><![CDATA[woostify]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_elementor_page_assets]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -6521,8 +6551,8 @@ Lorem turpis egestas magna, in lacinia felis arcu sit amet arcu. Cras eu risus u
 		<wp:post_type><![CDATA[post]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="category" nicename="fashion"><![CDATA[Fashion]]></category>
-		<category domain="post_tag" nicename="fashion"><![CDATA[fashion]]></category>
+										<category domain="post_tag" nicename="fashion"><![CDATA[fashion]]></category>
+		<category domain="category" nicename="fashion"><![CDATA[Fashion]]></category>
 		<category domain="category" nicename="life-style"><![CDATA[Life Style]]></category>
 		<category domain="category" nicename="lookbook"><![CDATA[Lookbook]]></category>
 		<category domain="post_tag" nicename="man"><![CDATA[man]]></category>
@@ -6656,8 +6686,8 @@ Lorem turpis egestas magna, in lacinia felis arcu sit amet arcu. Cras eu risus u
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
 										<category domain="post_tag" nicename="baby"><![CDATA[baby]]></category>
-		<category domain="category" nicename="fashion"><![CDATA[Fashion]]></category>
 		<category domain="post_tag" nicename="fashion"><![CDATA[fashion]]></category>
+		<category domain="category" nicename="fashion"><![CDATA[Fashion]]></category>
 		<category domain="category" nicename="life-style"><![CDATA[Life Style]]></category>
 		<category domain="category" nicename="lookbook"><![CDATA[Lookbook]]></category>
 						<wp:postmeta>
@@ -6722,8 +6752,8 @@ Lorem turpis egestas magna, in lacinia felis arcu sit amet arcu. Cras eu risus u
 		<wp:is_sticky>0</wp:is_sticky>
 										<category domain="post_tag" nicename="beauty"><![CDATA[beauty]]></category>
 		<category domain="category" nicename="editorial"><![CDATA[Editorial]]></category>
-		<category domain="category" nicename="fashion"><![CDATA[Fashion]]></category>
 		<category domain="post_tag" nicename="fashion"><![CDATA[fashion]]></category>
+		<category domain="category" nicename="fashion"><![CDATA[Fashion]]></category>
 		<category domain="category" nicename="trending"><![CDATA[Trending]]></category>
 						<wp:postmeta>
 		<wp:meta_key><![CDATA[_elementor_controls_usage]]></wp:meta_key>
@@ -6994,8 +7024,8 @@ Lorem turpis egestas magna, in lacinia felis arcu sit amet arcu. Cras eu risus u
 		<wp:is_sticky>0</wp:is_sticky>
 										<category domain="post_tag" nicename="beauty"><![CDATA[beauty]]></category>
 		<category domain="category" nicename="editorial"><![CDATA[Editorial]]></category>
-		<category domain="category" nicename="fashion"><![CDATA[Fashion]]></category>
 		<category domain="post_tag" nicename="fashion"><![CDATA[fashion]]></category>
+		<category domain="category" nicename="fashion"><![CDATA[Fashion]]></category>
 		<category domain="category" nicename="life-style"><![CDATA[Life Style]]></category>
 		<category domain="post_tag" nicename="woostify"><![CDATA[woostify]]></category>
 						<wp:postmeta>
@@ -7362,7 +7392,7 @@ Eum culpa assumenda eligendi fugit laborum vitae odit deleniti illo quasi volupt
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[pageview]]></wp:meta_key>
-		<wp:meta_value><![CDATA[20]]></wp:meta_value>
+		<wp:meta_value><![CDATA[56]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -7395,8 +7425,8 @@ Eum culpa assumenda eligendi fugit laborum vitae odit deleniti illo quasi volupt
 										<category domain="product_tag" nicename="fashion"><![CDATA[fashion]]></category>
 		<category domain="product_type" nicename="simple"><![CDATA[simple]]></category>
 		<category domain="product_tag" nicename="summer"><![CDATA[summer]]></category>
-		<category domain="product_cat" nicename="womens"><![CDATA[womens]]></category>
 		<category domain="product_tag" nicename="womens"><![CDATA[womens]]></category>
+		<category domain="product_cat" nicename="womens"><![CDATA[womens]]></category>
 						<wp:postmeta>
 		<wp:meta_key><![CDATA[_elementor_controls_usage]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
@@ -7559,7 +7589,7 @@ Eum culpa assumenda eligendi fugit laborum vitae odit deleniti illo quasi volupt
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[pageview]]></wp:meta_key>
-		<wp:meta_value><![CDATA[18]]></wp:meta_value>
+		<wp:meta_value><![CDATA[50]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -7774,7 +7804,7 @@ Eum culpa assumenda eligendi fugit laborum vitae odit deleniti illo quasi volupt
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[pageview]]></wp:meta_key>
-		<wp:meta_value><![CDATA[140]]></wp:meta_value>
+		<wp:meta_value><![CDATA[545]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:comment>
 			<wp:comment_id>4</wp:comment_id>
@@ -8211,8 +8241,8 @@ Eum culpa assumenda eligendi fugit laborum vitae odit deleniti illo quasi volupt
 										<category domain="product_tag" nicename="autumn"><![CDATA[autumn]]></category>
 		<category domain="product_type" nicename="external"><![CDATA[external]]></category>
 		<category domain="product_tag" nicename="fashion"><![CDATA[fashion]]></category>
-		<category domain="product_cat" nicename="man"><![CDATA[Man]]></category>
 		<category domain="product_tag" nicename="man"><![CDATA[man]]></category>
+		<category domain="product_cat" nicename="man"><![CDATA[Man]]></category>
 						<wp:postmeta>
 		<wp:meta_key><![CDATA[_elementor_controls_usage]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
@@ -8383,7 +8413,7 @@ Eum culpa assumenda eligendi fugit laborum vitae odit deleniti illo quasi volupt
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[pageview]]></wp:meta_key>
-		<wp:meta_value><![CDATA[28]]></wp:meta_value>
+		<wp:meta_value><![CDATA[229]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -8584,7 +8614,7 @@ Eum culpa assumenda eligendi fugit laborum vitae odit deleniti illo quasi volupt
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[pageview]]></wp:meta_key>
-		<wp:meta_value><![CDATA[109]]></wp:meta_value>
+		<wp:meta_value><![CDATA[367]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -8617,8 +8647,8 @@ Eum culpa assumenda eligendi fugit laborum vitae odit deleniti illo quasi volupt
 										<category domain="product_tag" nicename="fashion"><![CDATA[fashion]]></category>
 		<category domain="product_type" nicename="simple"><![CDATA[simple]]></category>
 		<category domain="product_tag" nicename="summer"><![CDATA[summer]]></category>
-		<category domain="product_cat" nicename="womens"><![CDATA[womens]]></category>
 		<category domain="product_tag" nicename="womens"><![CDATA[womens]]></category>
+		<category domain="product_cat" nicename="womens"><![CDATA[womens]]></category>
 						<wp:postmeta>
 		<wp:meta_key><![CDATA[_elementor_controls_usage]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
@@ -8777,7 +8807,7 @@ Eum culpa assumenda eligendi fugit laborum vitae odit deleniti illo quasi volupt
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[pageview]]></wp:meta_key>
-		<wp:meta_value><![CDATA[130]]></wp:meta_value>
+		<wp:meta_value><![CDATA[491]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:comment>
 			<wp:comment_id>47</wp:comment_id>
@@ -9235,7 +9265,7 @@ Eum culpa assumenda eligendi fugit laborum vitae odit deleniti illo quasi volupt
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[pageview]]></wp:meta_key>
-		<wp:meta_value><![CDATA[76]]></wp:meta_value>
+		<wp:meta_value><![CDATA[247]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:comment>
 			<wp:comment_id>43</wp:comment_id>

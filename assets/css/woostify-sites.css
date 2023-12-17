@@ -3145,3 +3145,18 @@ body.exiting .merlin__content--content .merlin__content__footer {
 .merlin__demo-button--primary:active {
 	color: #fff;
 }
+
+.warning-before-install-demo {
+	background: #fff2b2;
+	padding: 8px 15px;
+	display: inline-block;
+}
+
+.warning-before-install-demo .dashicons-warning{
+    margin-top: 2px;
+    color: #000000;
+}
+
+.warning-before-install-demo .warning-content {
+	display: inline-block;
+}
