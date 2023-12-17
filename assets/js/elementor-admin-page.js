@@ -58,8 +58,6 @@
 							btn.addClass('loading');
 						},
 						success: function (response) {
-							console.log( response );
-							console.log(index);
 							btn.removeClass('loading');
 							var page_content = response.data;
 							if ( undefined !== page_content && '' !== page_content ) {
