@@ -43,9 +43,7 @@ class Woostify_Sites_Elementor {
 		add_action( 'wp_ajax_nopriv_woostify_modal_template', array( $this, 'modal_template' ) );
 		add_action( 'elementor/editor/wp_head', array( $this, 'register_widget_style' ), 10 );
 		add_action( 'wp_ajax_woostify_get_template', array( $this, 'get_template' ) );
-		add_action( 'wp_ajax_nopriv_woostify_get_template', array( $this, 'get_template' ) );
 		add_action( 'wp_ajax_woostify_import_template', array( $this, 'import_template' ) );
-		add_action( 'wp_ajax_nopriv_woostify_import_template', array( $this, 'import_template' ) );
 		add_action( 'rest_api_init', array( $this, 'create_api_posts_meta_field' ) );
 		add_action( 'template_redirect',  array( $this, 'collect_post_id' ) );
 		add_action( 'wp_ajax_woostify_select_demo_type', array( $this, 'select_demo_type' ) );

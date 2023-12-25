@@ -925,6 +925,13 @@ class Woostify_Sites {
 	 * Introduction step
 	 */
 	protected function welcome() {
+		if(!is_user_logged_in()) {
+			wp_redirect( wp_login_url() );
+		}
+		if ( ! current_user_can( 'administrator' ) ) {
+			echo esc_html__( 'Sorry, you are not allowed to access this page.', 'woostify-sites-library');
+			return;
+		}
 
 		// Has this theme been setup yet? Compare this to the option set when you get to the last panel.
 		$already_setup = get_option( 'woostify_sites_' . $this->slug . '_completed' );
@@ -1076,6 +1083,13 @@ class Woostify_Sites {
 	 * Child theme generator.
 	 */
 	protected function child() {
+		if(!is_user_logged_in()) {
+			wp_redirect( wp_login_url() );
+		}
+		if ( ! current_user_can( 'administrator' ) ) {
+			echo esc_html__( 'Sorry, you are not allowed to access this page.', 'woostify-sites-library');
+			return;
+		}
 
 		// Variables.
 		$is_child_theme     = is_child_theme();
@@ -1136,6 +1150,14 @@ class Woostify_Sites {
 	 * Theme plugins
 	 */
 	protected function plugins() {
+		if(!is_user_logged_in()) {
+			wp_redirect( wp_login_url() );
+		}
+		if ( ! current_user_can( 'administrator' ) ) {
+			wp_redirect( home_url( '/' ) );
+			echo esc_html__( 'Sorry, you are not allowed to access this page.', 'woostify-sites-library');
+			return;
+		}
 
 		// Variables.
 		$url    = wp_nonce_url( add_query_arg( array( 'plugins' => 'go' ) ), 'woostify-sites' );
@@ -1263,6 +1285,14 @@ class Woostify_Sites {
 	}
 
 	protected function modules() {
+		if(!is_user_logged_in()) {
+			wp_redirect( wp_login_url() );
+		}
+		if ( ! current_user_can( 'administrator' ) ) {
+			echo esc_html__( 'You don\'t give permission', 'woostify-sites-library');
+			return;
+		}
+
 		// Strings passed in from the config file.
 		$strings = $this->strings;
 		// Text strings.
@@ -1361,6 +1391,14 @@ class Woostify_Sites {
 	 * Page setup
 	 */
 	protected function content() {
+		if(!is_user_logged_in()) {
+			wp_redirect( wp_login_url() );
+		}
+		if ( ! current_user_can( 'administrator' ) ) {
+			echo esc_html__( 'You don\'t give permission', 'woostify-sites-library');
+			return;
+		}
+
 		$import_info = $this->get_import_data_info();
 
 		// Strings passed in from the config file.
@@ -1495,6 +1533,14 @@ class Woostify_Sites {
 	 * Page Install
 	 */
 	protected function install() {
+		if(!is_user_logged_in()) {
+			wp_redirect( wp_login_url() );
+		}
+		if ( ! current_user_can( 'administrator' ) ) {
+			echo esc_html__( 'You don\'t give permission', 'woostify-sites-library');
+			return;
+		}
+
 		$import_info          = $this->get_import_data_info( $_COOKIE['demo'] );
 		$this->selected_index = ! isset( $_COOKIE['demo'] ) ? false : intval( $_COOKIE['demo'] );
 
@@ -1577,6 +1623,13 @@ class Woostify_Sites {
 	 * Final step
 	 */
 	protected function ready() {
+		if(!is_user_logged_in()) {
+			wp_redirect( wp_login_url() );
+		}
+		if ( ! current_user_can( 'administrator' ) ) {
+			echo esc_html__( 'You don\'t give permission', 'woostify-sites-library');
+			return;
+		}
 
 		// Author name.
 		$author = $this->theme->author;
@@ -1692,6 +1745,17 @@ class Woostify_Sites {
 	 * Generate the child theme via AJAX.
 	 */
 	public function woostify_sites_generate_child() {
+
+		if(!is_user_logged_in()) {
+			wp_redirect( wp_login_url() );
+		}
+		if ( ! current_user_can( 'administrator' ) ) {
+			echo esc_html__( 'You don\'t give permission', 'woostify-sites-library');
+			return;
+		}
+
+
+		check_ajax_referer( 'woostify_sites_nonce', 'wpnonce' );
 
 		// Strings passed in from the config file.
 		$strings = $this->strings;
