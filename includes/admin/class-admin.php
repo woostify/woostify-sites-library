@@ -49,11 +49,10 @@ class Admin {
 	 */
 	public function hooks() {
 		add_action( 'wp_ajax_woostify_admin_list_page_demo', array( $this, 'list_page_demo' ), 10, 0 );
-		add_action( 'wp_ajax_nopriv_woostify_admin_list_page_demo', array( $this, 'list_page_demo' ) );
 	}
 
 	public function list_page_demo() {
-		// check_ajax_referer( 'woostify_admin_template_nonce', 'security' );
+		check_ajax_referer( 'woostify_admin_template_nonce', 'security' );
 		$id = $_GET['id'];
 		$all_demo = woostify_sites_local_import_files();
 		$demo = $all_demo[$id];

@@ -929,7 +929,7 @@ class Woostify_Sites {
 			wp_redirect( wp_login_url() );
 		}
 		if ( ! current_user_can( 'administrator' ) ) {
-			echo esc_html__( 'Sorry, you are not allowed to access this page.', 'woostify-sites-library');
+			wp_redirect( home_url( '/' ) );
 			return;
 		}
 
@@ -1087,7 +1087,7 @@ class Woostify_Sites {
 			wp_redirect( wp_login_url() );
 		}
 		if ( ! current_user_can( 'administrator' ) ) {
-			echo esc_html__( 'Sorry, you are not allowed to access this page.', 'woostify-sites-library');
+			wp_redirect( home_url( '/' ) );
 			return;
 		}
 
@@ -1151,11 +1151,10 @@ class Woostify_Sites {
 	 */
 	protected function plugins() {
 		if(!is_user_logged_in()) {
-			wp_redirect( wp_login_url() );
+			wp_redirect( home_url( '/' ) );
 		}
 		if ( ! current_user_can( 'administrator' ) ) {
 			wp_redirect( home_url( '/' ) );
-			echo esc_html__( 'Sorry, you are not allowed to access this page.', 'woostify-sites-library');
 			return;
 		}
 
@@ -1286,10 +1285,10 @@ class Woostify_Sites {
 
 	protected function modules() {
 		if(!is_user_logged_in()) {
-			wp_redirect( wp_login_url() );
+			wp_redirect( home_url( '/' ) );
 		}
 		if ( ! current_user_can( 'administrator' ) ) {
-			echo esc_html__( 'You don\'t give permission', 'woostify-sites-library');
+			wp_redirect( home_url( '/' ) );
 			return;
 		}
 
@@ -1395,7 +1394,7 @@ class Woostify_Sites {
 			wp_redirect( wp_login_url() );
 		}
 		if ( ! current_user_can( 'administrator' ) ) {
-			echo esc_html__( 'You don\'t give permission', 'woostify-sites-library');
+			wp_redirect( home_url( '/' ) );
 			return;
 		}
 
@@ -1537,7 +1536,7 @@ class Woostify_Sites {
 			wp_redirect( wp_login_url() );
 		}
 		if ( ! current_user_can( 'administrator' ) ) {
-			echo esc_html__( 'You don\'t give permission', 'woostify-sites-library');
+			wp_redirect( home_url( '/' ) );
 			return;
 		}
 
@@ -1627,7 +1626,7 @@ class Woostify_Sites {
 			wp_redirect( wp_login_url() );
 		}
 		if ( ! current_user_can( 'administrator' ) ) {
-			echo esc_html__( 'You don\'t give permission', 'woostify-sites-library');
+			wp_redirect( home_url( '/' ) );
 			return;
 		}
 
@@ -1746,16 +1745,16 @@ class Woostify_Sites {
 	 */
 	public function woostify_sites_generate_child() {
 
+		check_ajax_referer( 'woostify_sites_nonce', 'wpnonce' );
+
 		if(!is_user_logged_in()) {
 			wp_redirect( wp_login_url() );
 		}
 		if ( ! current_user_can( 'administrator' ) ) {
-			echo esc_html__( 'You don\'t give permission', 'woostify-sites-library');
+			wp_redirect( home_url( '/' ) );
 			return;
 		}
 
-
-		check_ajax_referer( 'woostify_sites_nonce', 'wpnonce' );
 
 		// Strings passed in from the config file.
 		$strings = $this->strings;
@@ -2206,6 +2205,7 @@ class Woostify_Sites {
 	 */
 	public function woostify_sites_ajax_content() {
 		static $content = null;
+		check_ajax_referer( 'woostify_sites_nonce', 'wpnonce' );
 
 		$selected_import = intval( $_POST['selected_index'] );
 
@@ -2838,6 +2838,7 @@ class Woostify_Sites {
 	 * AJAX callback for the 'merlin_update_selected_import_data_info' action.
 	 */
 	public function woostify_sites_selected_import_data_info() {
+		check_ajax_referer( 'woostify_sites_nonce' );
 		$this->selected_index = ! isset( $_POST['selected_index'] ) ? false : intval( $_POST['selected_index'] );
 
 		if ( false === $this->selected_index ) {
@@ -2918,6 +2919,7 @@ class Woostify_Sites {
 	 * AJAX call for cleanup after the importing steps are done -> import finished.
 	 */
 	public function woostify_sites_import_finished() {
+		check_ajax_referer( 'woostify_sites_nonce' );
 		delete_transient( 'woostify_sites_import_file_base_name' );
 		wp_send_json_success();
 	}
