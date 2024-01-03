@@ -925,11 +925,11 @@ class Woostify_Sites {
 	 * Introduction step
 	 */
 	protected function welcome() {
-		if(!is_user_logged_in()) {
+		if ( ! is_user_logged_in() ) {
 			wp_redirect( wp_login_url() );
 		}
 		if ( ! current_user_can( 'administrator' ) ) {
-			echo esc_html__( 'Sorry, you are not allowed to access this page.', 'woostify-sites-library');
+			echo esc_html__( 'Sorry, you are not allowed to access this page.', 'woostify-sites-library' );
 			return;
 		}
 
@@ -1083,11 +1083,11 @@ class Woostify_Sites {
 	 * Child theme generator.
 	 */
 	protected function child() {
-		if(!is_user_logged_in()) {
+		if ( ! is_user_logged_in() ) {
 			wp_redirect( wp_login_url() );
 		}
 		if ( ! current_user_can( 'administrator' ) ) {
-			echo esc_html__( 'Sorry, you are not allowed to access this page.', 'woostify-sites-library');
+			echo esc_html__( 'Sorry, you are not allowed to access this page.', 'woostify-sites-library' );
 			return;
 		}
 
@@ -1150,12 +1150,12 @@ class Woostify_Sites {
 	 * Theme plugins
 	 */
 	protected function plugins() {
-		if(!is_user_logged_in()) {
+		if ( ! is_user_logged_in() ) {
 			wp_redirect( wp_login_url() );
 		}
 		if ( ! current_user_can( 'administrator' ) ) {
 			wp_redirect( home_url( '/' ) );
-			echo esc_html__( 'Sorry, you are not allowed to access this page.', 'woostify-sites-library');
+			echo esc_html__( 'Sorry, you are not allowed to access this page.', 'woostify-sites-library' );
 			return;
 		}
 
@@ -1285,11 +1285,11 @@ class Woostify_Sites {
 	}
 
 	protected function modules() {
-		if(!is_user_logged_in()) {
+		if ( ! is_user_logged_in() ) {
 			wp_redirect( wp_login_url() );
 		}
 		if ( ! current_user_can( 'administrator' ) ) {
-			echo esc_html__( 'You don\'t give permission', 'woostify-sites-library');
+			echo esc_html__( 'You don\'t give permission', 'woostify-sites-library' );
 			return;
 		}
 
@@ -1391,11 +1391,11 @@ class Woostify_Sites {
 	 * Page setup
 	 */
 	protected function content() {
-		if(!is_user_logged_in()) {
+		if ( ! is_user_logged_in() ) {
 			wp_redirect( wp_login_url() );
 		}
 		if ( ! current_user_can( 'administrator' ) ) {
-			echo esc_html__( 'You don\'t give permission', 'woostify-sites-library');
+			echo esc_html__( 'You don\'t give permission', 'woostify-sites-library' );
 			return;
 		}
 
@@ -1533,11 +1533,11 @@ class Woostify_Sites {
 	 * Page Install
 	 */
 	protected function install() {
-		if(!is_user_logged_in()) {
+		if ( ! is_user_logged_in() ) {
 			wp_redirect( wp_login_url() );
 		}
 		if ( ! current_user_can( 'administrator' ) ) {
-			echo esc_html__( 'You don\'t give permission', 'woostify-sites-library');
+			echo esc_html__( 'You don\'t give permission', 'woostify-sites-library' );
 			return;
 		}
 
@@ -1623,11 +1623,11 @@ class Woostify_Sites {
 	 * Final step
 	 */
 	protected function ready() {
-		if(!is_user_logged_in()) {
+		if ( ! is_user_logged_in() ) {
 			wp_redirect( wp_login_url() );
 		}
 		if ( ! current_user_can( 'administrator' ) ) {
-			echo esc_html__( 'You don\'t give permission', 'woostify-sites-library');
+			echo esc_html__( 'You don\'t give permission', 'woostify-sites-library' );
 			return;
 		}
 
@@ -1746,14 +1746,13 @@ class Woostify_Sites {
 	 */
 	public function woostify_sites_generate_child() {
 
-		if(!is_user_logged_in()) {
+		if ( ! is_user_logged_in() ) {
 			wp_redirect( wp_login_url() );
 		}
 		if ( ! current_user_can( 'administrator' ) ) {
-			echo esc_html__( 'You don\'t give permission', 'woostify-sites-library');
+			echo esc_html__( 'You don\'t give permission', 'woostify-sites-library' );
 			return;
 		}
-
 
 		check_ajax_referer( 'woostify_sites_nonce', 'wpnonce' );
 
@@ -2110,6 +2109,14 @@ class Woostify_Sites {
 	 * @internal    Used as a calback.
 	 */
 	public function woostify_sites_ajax_plugins() {
+		if ( ! is_user_logged_in() ) {
+			wp_redirect( wp_login_url() );
+		}
+
+		if ( ! current_user_can( 'administrator' ) ) {
+			echo esc_html__( 'Sorry, you are not allowed to access this page. haha', 'woostify-sites-library' );
+			return;
+		}
 
 		if ( ! check_ajax_referer( 'woostify_sites_nonce', 'wpnonce' ) || empty( $_POST['slug'] ) ) {
 			exit( 0 );
@@ -3216,6 +3223,16 @@ class Woostify_Sites {
 	 * Activate or Deactivated module using ajax.
 	 */
 	public function woostify_ajax_module_action() {
+
+		if ( ! is_user_logged_in() ) {
+			wp_redirect( wp_login_url() );
+		}
+
+		if ( ! current_user_can( 'administrator' ) ) {
+			echo esc_html__( 'Sorry, you are not allowed to access this page.', 'woostify-sites-library' );
+			return;
+		}
+
 		check_ajax_referer( 'woostify_sites_nonce', 'ajax_nonce' );
 
 		if ( isset( $_POST['name'] ) ) {
