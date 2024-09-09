@@ -881,6 +881,42 @@ function woostify_sites_local_import_files() {
 			),
 		),
 
+		array(
+			'id'                           => 25,
+			'import_file_name'             => 'Pod',
+			'local_import_file'            => WOOSTIFY_SITES_DIR . 'demos/demo-26/demo-content.xml',
+			'local_import_widget_file'     => WOOSTIFY_SITES_DIR . 'demos/demo-26/widgets.wie',
+			'local_import_customizer_file' => WOOSTIFY_SITES_DIR . 'demos/demo-26/customizer.dat',
+			'import_preview_image_url'     => WOOSTIFY_SITES_URI . 'demos/demo-26/demo-26.jpg',
+			'import_notice'                => __( 'After you import this demo, you should update permalink.', 'woostify' ),
+			'preview_url'                  => 'https://demo.woostify.com/pod/',
+			'homepage'                     => 'Home',
+			'blog_page'                    => 'Blog',
+			'primary_menu'                 => 'Menu Primary',
+			'footer_menu'                  => '',
+			'type'                         => 'pro',
+			'page_builder'                 => 'elementor',
+			'font_page'                    => 18,
+			'page'                         => array(
+				'18' => array(
+					'title'   => 'Home',
+					'id'      => 18,
+					'preview' => WOOSTIFY_SITES_URI . 'demos/demo-26/demo-26.jpg',
+
+				),
+				'193' => array(
+					'title'   => 'Contact Us',
+					'id'      => 193,
+					'preview' => WOOSTIFY_SITES_URI . 'demos/demo-26/contact.jpg',
+				),
+				'238' => array(
+					'title'   => 'About Us',
+					'id'      => 238,
+					'preview' => WOOSTIFY_SITES_URI . 'demos/demo-26/about.jpg',
+				),
+			),
+		),
+
 	);
 }
 add_filter( 'woostify_sites_import_files', 'woostify_sites_local_import_files' );
