@@ -917,6 +917,42 @@ function woostify_sites_local_import_files() {
 			),
 		),
 
+		array(
+			'id'                           => 26,
+			'import_file_name'             => 'Handy',
+			'local_import_file'            => WOOSTIFY_SITES_DIR . 'demos/demo-27/demo-content.xml',
+			'local_import_widget_file'     => WOOSTIFY_SITES_DIR . 'demos/demo-27/widgets.wie',
+			'local_import_customizer_file' => WOOSTIFY_SITES_DIR . 'demos/demo-27/customizer.dat',
+			'import_preview_image_url'     => WOOSTIFY_SITES_URI . 'demos/demo-27/demo-27.jpg',
+			'import_notice'                => __( 'After you import this demo, you should update permalink.', 'woostify' ),
+			'preview_url'                  => 'https://demo.woostify.com/handy/',
+			'homepage'                     => 'Home',
+			'blog_page'                    => 'Blog',
+			'primary_menu'                 => 'Primary menu',
+			'footer_menu'                  => '',
+			'type'                         => 'pro',
+			'page_builder'                 => 'elementor',
+			'font_page'                    => 21,
+			'page'                         => array(
+				'21' => array(
+					'title'   => 'Home',
+					'id'      => 21,
+					'preview' => WOOSTIFY_SITES_URI . 'demos/demo-27/demo-27.jpg',
+
+				),
+				'286' => array(
+					'title'   => 'Contact Us',
+					'id'      => 286,
+					'preview' => WOOSTIFY_SITES_URI . 'demos/demo-27/contact.jpg',
+				),
+				'374' => array(
+					'title'   => 'About Us',
+					'id'      => 374,
+					'preview' => WOOSTIFY_SITES_URI . 'demos/demo-27/about.jpg',
+				),
+			),
+		),
+
 	);
 }
 add_filter( 'woostify_sites_import_files', 'woostify_sites_local_import_files' );
