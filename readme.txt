@@ -4,7 +4,7 @@ Tags: demo, theme demos, one click import
 Requires at least: 4.4
 Requires PHP: 7.0
 Tested up to: 6.4.2
-Stable tag: 1.5.0
+Stable tag: 1.5.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -42,13 +42,19 @@ It can also be installed manually.
 ## Privacy Policy
 Woostify Sites Library uses [Appsero](https://appsero.com) SDK to collect some telemetry data upon user's confirmation. This helps us to troubleshoot problems faster & make product improvements.
 
-Appsero SDK **does not gather any data by default.** The SDK only starts gathering basic telemetry data **when a user allows it via the admin notice**. We collect the data to ensure a great user experience for all our users. 
+Appsero SDK **does not gather any data by default.** The SDK only starts gathering basic telemetry data **when a user allows it via the admin notice**. We collect the data to ensure a great user experience for all our users.
 
 Integrating Appsero SDK **DOES NOT IMMEDIATELY** start gathering data, **without confirmation from users in any case.**
 
 Learn more about how [Appsero collects and uses this data](https://appsero.com/privacy-policy/).
 
 == Changelog ==
+= 1.5.1 =
+* Add Liquory Demo
+* Remove a warning message before importing demo.
+* Fix warning load_text_domain_just_in_time was called incorrectly.
+* Fix Getting Error while importing starter template issue.
+
 = 1.5.0 =
 * Add Handy Demo
 
@@ -62,7 +68,7 @@ Learn more about how [Appsero collects and uses this data](https://appsero.com/p
 * Fix security issue
 
 = 1.4.6 =
-* Add a warning message before importing demo to require activate Flexbox container in Elementor Setting. 
+* Add a warning message before importing demo to require activate Flexbox container in Elementor Setting.
 
 = 1.4.5 =
 * Update All demos use new Elementor Flex container
@@ -162,7 +168,7 @@ Learn more about how [Appsero collects and uses this data](https://appsero.com/p
 
 = 1.1.5 =
 * Fix some demos with missing background images
- 
+
 = 1.1.4 =
 * Update for all starter sites
 

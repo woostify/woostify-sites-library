@@ -2,7 +2,7 @@
 /**
  * Plugin Name:  Woostify Sites Library
  * Description:  Import site demos built with Woostify theme
- * Version:      1.5.0
+ * Version:      1.5.1
  * Author:       Woostify
  * Author URI:   https://woostify.com
  * License:      GPLv2 or later
@@ -25,7 +25,7 @@ add_action( 'init', function() {
 	}
 
 	if ( ! defined( 'WOOSTIFY_SITES_VER' ) ) {
-		define( 'WOOSTIFY_SITES_VER', '1.5.0' );
+		define( 'WOOSTIFY_SITES_VER', '1.5.1' );
 	}
 
 	if ( ! defined( 'WOOSTIFY_SITES_FILE' ) ) {
