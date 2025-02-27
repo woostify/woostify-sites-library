@@ -953,6 +953,42 @@ function woostify_sites_local_import_files() {
 			),
 		),
 
+		array(
+			'id'                           => 27,
+			'import_file_name'             => 'Liquory',
+			'local_import_file'            => WOOSTIFY_SITES_DIR . 'demos/demo-28/demo-content.xml',
+			'local_import_widget_file'     => WOOSTIFY_SITES_DIR . 'demos/demo-28/widgets.wie',
+			'local_import_customizer_file' => WOOSTIFY_SITES_DIR . 'demos/demo-28/customizer.dat',
+			'import_preview_image_url'     => WOOSTIFY_SITES_URI . 'demos/demo-28/demo-28.jpg',
+			'import_notice'                => __( 'After you import this demo, you should update permalink.', 'woostify' ),
+			'preview_url'                  => 'https://demo.woostify.com/liquory/',
+			'homepage'                     => 'Home',
+			'blog_page'                    => 'Blog',
+			'primary_menu'                 => 'Primary menu',
+			'footer_menu'                  => '',
+			'type'                         => 'pro',
+			'page_builder'                 => 'elementor',
+			'font_page'                    => 28,
+			'page'                         => array(
+				'28' => array(
+					'title'   => 'Home',
+					'id'      => 28,
+					'preview' => WOOSTIFY_SITES_URI . 'demos/demo-28/demo-28.jpg',
+
+				),
+				'30' => array(
+					'title'   => 'Contact Us',
+					'id'      => 30,
+					'preview' => WOOSTIFY_SITES_URI . 'demos/demo-28/contact.jpg',
+				),
+				'32' => array(
+					'title'   => 'About Us',
+					'id'      => 32,
+					'preview' => WOOSTIFY_SITES_URI . 'demos/demo-28/about.jpg',
+				),
+			),
+		),
+
 	);
 }
 add_filter( 'woostify_sites_import_files', 'woostify_sites_local_import_files' );
