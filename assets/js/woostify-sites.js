@@ -378,7 +378,9 @@ var Woostify_Sites = (function($){
                         find_next();
                     }else {
                         current_item_hash = response.hash;
-                        jQuery.post(response.url, response, ajax_callback).fail(ajax_callback);
+                        // jQuery.post(response.url, response, ajax_callback).fail(ajax_callback);
+                        response['action'] = 'woostify_plugin_active';
+                        jQuery.post(woostify_sites_params.ajaxurl, response, ajax_callback).fail(ajax_callback);
                     }
                 }else{
                     // error processing this plugin

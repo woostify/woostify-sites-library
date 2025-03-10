@@ -265,6 +265,7 @@ class Woostify_Sites {
 		add_action( 'wp_ajax_woostify_sites_activate_license', array( $this, 'woostify_sites_ajax_activate_license' ), 10, 0 );
 		add_action( 'wp_ajax_woostify_sites_selected_import_data_info', array( $this, 'woostify_sites_selected_import_data_info' ), 10, 0 );
 		add_action( 'wp_ajax_woostify_sites_import_finished', array( $this, 'woostify_sites_import_finished' ), 10, 0 );
+		add_action( 'wp_ajax_woostify_plugin_active', array( $this, 'woostify_plugin_active' ), 10, 0 );
 		add_filter( 'pt-importer/new_ajax_request_response_data', array( $this, 'woostify_sites_pt_importer_new_ajax_request_response_data' ) );
 		add_action( 'import_start', array( $this, 'woostify_sites_before_content_import_setup' ) );
 		add_action( 'woostify_sites_after_all_import', array( $this, 'woostify_sites_after_content_import_setup' ) );
@@ -2946,6 +2947,21 @@ class Woostify_Sites {
 		wp_send_json_success();
 	}
 
+	public function woostify_plugin_active() {
+		if ( ! is_user_logged_in() ) {
+			wp_redirect( wp_login_url() );
+		}
+		if ( ! current_user_can( 'install_plugins' ) ) {
+			wp_redirect( home_url( '/' ) );
+			echo esc_html__( 'Sorry, you are not allowed to access this page.', 'woostify-sites-library' );
+			return;
+		}
+		
+		$_GET['page'] = 'tgmpa-install-plugins';
+		// Kích hoạt plugin
+		require_once ABSPATH . 'wp-admin/admin.php';
+		exit;
+	}
 
 	/**
 	 * Choose Plugin current demo.
