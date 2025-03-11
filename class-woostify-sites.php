@@ -2946,7 +2946,6 @@ class Woostify_Sites {
 		wp_send_json_success();
 	}
 
-
 	/**
 	 * Choose Plugin current demo.
 	 */
