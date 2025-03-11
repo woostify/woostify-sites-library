@@ -260,7 +260,6 @@ class Woostify_Sites {
 		add_action( 'init', array( $this, 'woostify_sites_set_cookie' ), 10, 0 );
 		add_action( 'wp_ajax_woostify_sites_get_total_content_import_items', array( $this, 'woostify_sites_ajax_get_total_content_import_items' ), 10, 0 );
 		add_action( 'wp_ajax_woostify_sites_update_selected_import_data_info', array( $this, 'woostify_sites_update_selected_import_data_info' ), 10, 0 );
-		add_action( 'wp_ajax_woostify_sites_plugins', array( $this, 'woostify_sites_ajax_plugins' ), 10, 0 );
 		add_action( 'wp_ajax_woostify_sites_child_theme', array( $this, 'woostify_sites_generate_child' ), 10, 0 );
 		add_action( 'wp_ajax_woostify_sites_activate_license', array( $this, 'woostify_sites_ajax_activate_license' ), 10, 0 );
 		add_action( 'wp_ajax_woostify_sites_selected_import_data_info', array( $this, 'woostify_sites_selected_import_data_info' ), 10, 0 );
@@ -2102,109 +2101,6 @@ class Woostify_Sites {
 			$this->logger->debug( __( 'The child theme screenshot was not generated, because of these results', 'woostify-sites-library' ), array( 'screenshot' => $screenshot ) );
 		}
 	}
-
-	/**
-	 * Do plugins' AJAX
-	 *
-	 * @internal    Used as a calback.
-	 */
-	public function woostify_sites_ajax_plugins() {
-		if ( ! is_user_logged_in() ) {
-			wp_redirect( wp_login_url() );
-		}
-
-		if ( ! current_user_can( 'install_plugins' ) ) {
-			echo esc_html__( 'Sorry, you are not allowed to access this page.', 'woostify-sites-library' );
-			return;
-		}
-
-		if ( ! check_ajax_referer( 'woostify_sites_nonce', 'wpnonce' ) || empty( $_POST['slug'] ) ) {
-			exit( 0 );
-		}
-
-		$json      = array();
-		$tgmpa_url = $this->tgmpa->get_tgmpa_url();
-		$plugins   = $this->get_tgmpa_plugins();
-
-		foreach ( $plugins['activate'] as $slug => $plugin ) {
-			if ( $_POST['slug'] === $slug ) {
-				$json = array(
-					'url'           => $tgmpa_url,
-					'plugin'        => array( $slug ),
-					'tgmpa-page'    => $this->tgmpa->menu,
-					'plugin_status' => 'all',
-					'_wpnonce'      => wp_create_nonce( 'bulk-plugins' ),
-					'action'        => 'tgmpa-bulk-activate',
-					'action2'       => - 1,
-					'message'       => esc_html__( 'Activating', 'woostify-sites-library' ),
-				);
-				break;
-			}
-		}
-
-		foreach ( $plugins['update'] as $slug => $plugin ) {
-			if ( $_POST['slug'] === $slug ) {
-				$json = array(
-					'url'           => $tgmpa_url,
-					'plugin'        => array( $slug ),
-					'tgmpa-page'    => $this->tgmpa->menu,
-					'plugin_status' => 'all',
-					'_wpnonce'      => wp_create_nonce( 'bulk-plugins' ),
-					'action'        => 'tgmpa-bulk-update',
-					'action2'       => - 1,
-					'message'       => esc_html__( 'Updating', 'woostify-sites-library' ),
-				);
-				break;
-			}
-		}
-
-		foreach ( $plugins['install'] as $slug => $plugin ) {
-			if ( $_POST['slug'] === $slug ) {
-				$json = array(
-					'url'           => $tgmpa_url,
-					'plugin'        => array( $slug ),
-					'tgmpa-page'    => $this->tgmpa->menu,
-					'plugin_status' => 'all',
-					'_wpnonce'      => wp_create_nonce( 'bulk-plugins' ),
-					'action'        => 'tgmpa-bulk-install',
-					'action2'       => - 1,
-					'message'       => esc_html__( 'Installing', 'woostify-sites-library' ),
-				);
-				break;
-			}
-		}
-
-		if ( $json ) {
-			$this->logger->debug(
-				__( 'A plugin with the following data will be processed', 'woostify-sites-library' ),
-				array(
-					'plugin_slug' => $_POST['slug'],
-					'message'     => $json['message'],
-				)
-			);
-
-			$json['hash']    = md5( serialize( $json ) );
-			$json['message'] = esc_html__( 'Installing', 'woostify-sites-library' );
-			wp_send_json( $json );
-		} else {
-			$this->logger->debug(
-				__( 'A plugin with the following data was processed', 'woostify-sites-library' ),
-				array(
-					'plugin_slug' => $_POST['slug'],
-				)
-			);
-
-			wp_send_json(
-				array(
-					'done'    => 1,
-					'message' => esc_html__( 'Success', 'woostify-sites-library' ),
-				)
-			);
-		}
-
-		exit;
-	}
-
 
 	/**
 	 * Do content's AJAX
