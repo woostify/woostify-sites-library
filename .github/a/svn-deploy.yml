@@ -14,5 +14,5 @@ jobs:
         with:
           svn_username: ${{ secrets.duongancol }}
           svn_password: ${{ secrets.svn_yjoWfLwtHuP0QgN3DI6aWypZkLq43RRE6c833b58 }}
-          svn_repo: https://plugins.svn.wordpress.org/my-plugin  # Replace "my-plugin" with your plugin slug
-          git_tag: ${{ github.ref_name }}  # Uses the GitHub release tag (e.g., "v1.0.0")
+          svn_repo: https://plugins.svn.wordpress.org/woostify-sites-library  # Replace "my-plugin" with your plugin slug
+          git_tag: ${{ github.v1.5.4 }}  # Uses the GitHub release tag (e.g., "v1.0.0")
