@@ -1,0 +1,18 @@
+name: Deploy to WordPress.org
+on:
+  release:
+    types: [published]  # Triggers when a GitHub release is published
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout GitHub code
+        uses: actions/checkout@v4
+
+      - name: Push to WordPress SVN
+        uses: 10up/action-wordpress-plugin-deploy@stable
+        with:
+          svn_username: ${{ secrets.duongancol }}
+          svn_password: ${{ secrets.svn_yjoWfLwtHuP0QgN3DI6aWypZkLq43RRE6c833b58 }}
+          svn_repo: https://plugins.svn.wordpress.org/my-plugin  # Replace "my-plugin" with your plugin slug
+          git_tag: ${{ github.ref_name }}  # Uses the GitHub release tag (e.g., "v1.0.0")
