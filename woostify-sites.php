@@ -2,8 +2,8 @@
 /**
  * Plugin Name:  Woostify Sites Library
  * Description:  Import site demos built with Woostify theme
- * Version:      1.5.3
- * Author:       Woostify
+ * Version:      1.5.4
+ * Author:       duongancol
  * Author URI:   https://woostify.com
  * License:      GPLv2 or later
  * License URI:  https://www.gnu.org/licenses/gpl-2.0.html
@@ -24,7 +24,7 @@ if ( ! defined( 'WOOSTIFY_SITES_NAME' ) ) {
 }
 
 if ( ! defined( 'WOOSTIFY_SITES_VER' ) ) {
-	define( 'WOOSTIFY_SITES_VER', '1.5.3' );
+	define( 'WOOSTIFY_SITES_VER', '1.5.4' );
 }
 
 if ( ! defined( 'WOOSTIFY_SITES_FILE' ) ) {
@@ -47,7 +47,7 @@ require_once WOOSTIFY_SITES_DIR . 'class-woostify-sites.php';
 require_once WOOSTIFY_SITES_DIR . 'vendor/autoload.php';
 
 function woostify_sites_load_textdomain() {
-    load_plugin_textdomain( 'woostify_sites', false, dirname( plugin_basename( __FILE__ ) ) . '/languages/' );
+	load_plugin_textdomain( 'woostify_sites', false, dirname( plugin_basename( __FILE__ ) ) . '/languages/' );
 }
 add_action( 'plugins_loaded', 'woostify_sites_load_textdomain' );
 
@@ -135,27 +135,30 @@ $wizard      = new Woostify_Sites(
 	)
 );
 
-add_action( 'init', function() {
-	require_once WOOSTIFY_SITES_DIR . 'demos/demos.php';
-	// require_once WOOSTIFY_SITES_DIR . 'includes/class-woostify-sites-elementor.php';
+add_action(
+	'init',
+	function() {
+		require_once WOOSTIFY_SITES_DIR . 'demos/demos.php';
+		// require_once WOOSTIFY_SITES_DIR . 'includes/class-woostify-sites-elementor.php';
 
-	/**
-	 * Initialize the tracker
-	 *
-	 * @return void
-	 */
-	function appsero_init_tracker_woostify_sites_library() {
+		/**
+		 * Initialize the tracker
+		 *
+		 * @return void
+		 */
+		function appsero_init_tracker_woostify_sites_library() {
 
-		if ( ! class_exists( 'Appsero\Client' ) ) {
-			require_once __DIR__ . '/appsero/client/src/Client.php';
+			if ( ! class_exists( 'Appsero\Client' ) ) {
+				require_once __DIR__ . '/appsero/client/src/Client.php';
+			}
+
+			$client = new Appsero\Client( '424aa9f8-2435-4fa7-a61c-fad11ff04249', 'Woostify Sites Library', __FILE__ );
+
+			// Active insights
+			$client->insights()->hide_notice()->init();
+
 		}
 
-		$client = new Appsero\Client( '424aa9f8-2435-4fa7-a61c-fad11ff04249', 'Woostify Sites Library', __FILE__ );
-
-		// Active insights
-		$client->insights()->hide_notice()->init();
-
+		appsero_init_tracker_woostify_sites_library();
 	}
-
-	appsero_init_tracker_woostify_sites_library();
-});
+);
