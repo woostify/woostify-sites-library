@@ -4,7 +4,7 @@ Tags: demo, theme demos, one click import
 Requires at least: 4.4
 Requires PHP: 7.0
 Tested up to: 6.4.2
-Stable tag: 1.5.6
+Stable tag: 1.5.7
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -49,6 +49,9 @@ Integrating Appsero SDK **DOES NOT IMMEDIATELY** start gathering data, **without
 Learn more about how [Appsero collects and uses this data](https://appsero.com/privacy-policy/).
 
 == Changelog ==
+= 1.5.7 =
+* Add Fishing Demo
+
 = 1.5.6 =
 * Fix the error install the plugin before importing demo.
 * Remove the icon warning before importing demo.
