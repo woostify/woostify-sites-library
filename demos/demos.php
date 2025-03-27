@@ -989,6 +989,42 @@ function woostify_sites_local_import_files() {
 			),
 		),
 
+		array(
+			'id'                           => 28,
+			'import_file_name'             => 'Fishing',
+			'local_import_file'            => WOOSTIFY_SITES_DIR . 'demos/demo-29/demo-content.xml',
+			'local_import_widget_file'     => WOOSTIFY_SITES_DIR . 'demos/demo-29/widgets.wie',
+			'local_import_customizer_file' => WOOSTIFY_SITES_DIR . 'demos/demo-29/customizer.dat',
+			'import_preview_image_url'     => WOOSTIFY_SITES_URI . 'demos/demo-29/demo-29.jpg',
+			'import_notice'                => __( 'After you import this demo, you should update permalink.', 'woostify' ),
+			'preview_url'                  => 'https://demo.woostify.com/fishing/',
+			'homepage'                     => 'Home',
+			'blog_page'                    => 'Blog',
+			'primary_menu'                 => 'Menu Primary',
+			'footer_menu'                  => '',
+			'type'                         => 'pro',
+			'page_builder'                 => 'elementor',
+			'font_page'                    => 29,
+			'page'                         => array(
+				'29' => array(
+					'title'   => 'Home',
+					'id'      => 29,
+					'preview' => WOOSTIFY_SITES_URI . 'demos/demo-29/demo-29.jpg',
+
+				),
+				'270' => array(
+					'title'   => 'Contact',
+					'id'      => 270,
+					'preview' => WOOSTIFY_SITES_URI . 'demos/demo-29/contact.jpg',
+				),
+				'296' => array(
+					'title'   => 'About Us',
+					'id'      => 296,
+					'preview' => WOOSTIFY_SITES_URI . 'demos/demo-29/about.jpg',
+				),
+			),
+		),
+
 	);
 }
 add_filter( 'woostify_sites_import_files', 'woostify_sites_local_import_files' );
