@@ -842,24 +842,8 @@ svg:not(:root) {
 	zoom: 1;
 }
 
-.merlin__content.merlin__content--content {
-	height: calc( 100vh - 30px);
-	margin: 10px 0;
-	padding: 20px 60px 35px;
-	/* width */
-	/* Track */
-	/* Handle */
-	/* Handle on hover */
-}
-
 .merlin__content.merlin__content--content .icon {
 	margin-bottom: 0;
-}
-
-.merlin__content.merlin__content--content .merlin__demos-wrapper {
-	max-height: calc( 100vh - 205px);
-	overflow-x: hidden;
-	overflow-y: scroll;
 }
 
 .merlin__content.merlin__content--content .merlin__page-builder {
@@ -3028,6 +3012,7 @@ body.exiting .merlin__content--content .merlin__content__footer {
 		-webkit-flex-wrap: wrap;
 		-ms-flex-wrap: wrap;
 		flex-wrap: wrap;
+		height: calc(100% - 205px);
 	}
 	.merlin__demo {
 		margin-left: 15px;
