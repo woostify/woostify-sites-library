@@ -19,10 +19,6 @@
 /**
  * Set constants.
  */
-if ( ! defined( 'WOOSTIFY_SITES_NAME' ) ) {
-	define( 'WOOSTIFY_SITES_NAME', __( 'Woostify Sites', 'woostify-sites-library' ) );
-}
-
 if ( ! defined( 'WOOSTIFY_SITES_VER' ) ) {
 	define( 'WOOSTIFY_SITES_VER', '1.5.8' );
 }
