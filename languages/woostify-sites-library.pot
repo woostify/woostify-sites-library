@@ -1092,166 +1092,178 @@ msgstr ""
 msgid "Woostify Sites"
 msgstr ""
 
-#: woostify-sites.php:70
+#: woostify-sites-library.php:365
 msgid "Woostify Sites Library"
 msgstr ""
 
-#: woostify-sites.php:73
+#: woostify-sites-library.php:368
 #, php-format
 msgid "%1$s%2$s Themes &lsaquo; Theme Setup: %3$s%4$s"
 msgstr ""
 
-#: woostify-sites.php:74
+#: woostify-sites-library.php:369
 msgid "Return to the dashboard"
 msgstr ""
 
-#: woostify-sites.php:75
+#: woostify-sites-library.php:370
 msgid "Disable this wizard"
 msgstr ""
 
-#: woostify-sites.php:77
+#: woostify-sites-library.php:372
 msgid "Skip"
 msgstr ""
 
-#: woostify-sites.php:78
+#: woostify-sites-library.php:373
 msgid "Next"
 msgstr ""
 
-#: woostify-sites.php:79
+#: woostify-sites-library.php:374
 msgid "Start"
 msgstr ""
 
-#: woostify-sites.php:84
+#: woostify-sites-library.php:375
+msgid "Cancel"
+msgstr ""
+
+#: woostify-sites-library.php:376, woostify-sites-library.php:377, woostify-sites-library.php:378
+msgid "Install"
+msgstr ""
+
+#: woostify-sites-library.php:379
 msgid "Start Import"
 msgstr ""
 
-#: woostify-sites.php:86
+#: woostify-sites-library.php:381
 msgid "Later"
 msgstr ""
 
-#: woostify-sites.php:89
+#: woostify-sites-library.php:384
 #, php-format
 msgid "Activate %s"
 msgstr ""
 
-#: woostify-sites.php:91
+#: woostify-sites-library.php:386
 #, php-format
 msgid "%s is Activated"
 msgstr ""
 
-#: woostify-sites.php:93
+#: woostify-sites-library.php:388
 msgid "Enter your license key to enable remote updates and theme support."
 msgstr ""
 
-#: woostify-sites.php:94
+#: woostify-sites-library.php:389
 msgid "License key"
 msgstr ""
 
-#: woostify-sites.php:95
+#: woostify-sites-libarary.php:390
 msgid "The theme is already registered, so you can go to the next step!"
 msgstr ""
 
-#: woostify-sites.php:96
+#: woostify-sites-library.php:391
 msgid "Your theme is activated! Remote updates and theme support are enabled."
 msgstr ""
 
-#: woostify-sites.php:97
+#: woostify-sites-library.php:392
 msgid "Need help?"
 msgstr ""
 
-#: woostify-sites.php:100
+#: woostify-sites-library.php:395
 #, php-format
 msgid "Welcome to %s"
 msgstr ""
 
-#: woostify-sites.php:101
+#: woostify-sites-library.php:396
 msgid "Hi. Welcome back"
 msgstr ""
 
-#: woostify-sites.php:102
+#: woostify-sites-library.php:397
 msgid "This wizard will set up your theme, install plugins, and import content. It is optional & should take only a few minutes."
 msgstr ""
 
-#: woostify-sites.php:103
+#: woostify-sites-library.php:398
 msgid "You may have already run this theme setup wizard. If you would like to proceed anyway, click on the \"Start\" button below."
 msgstr ""
 
-#: woostify-sites.php:105
+#: woostify-sites-library.php:400
 msgid "Install Child Theme"
 msgstr ""
 
-#: woostify-sites.php:106
+#: woostify-sites-library.php:401
 msgid "You're good to go!"
 msgstr ""
 
-#: woostify-sites.php:107
+#: woostify-sites-library.php:402
 msgid "Let's build & activate a child theme so you may easily make theme changes."
 msgstr ""
 
-#: woostify-sites.php:108
+#: woostify-sites-library.php:403
 msgid "Your child theme has already been installed and is now activated, if it wasn't already."
 msgstr ""
 
-#: woostify-sites.php:109
+#: woostify-sites-library.php:404
 msgid "Learn about child themes"
 msgstr ""
 
-#: woostify-sites.php:110
+#: woostify-sites-library.php:405
 msgid "Awesome. Your child theme has already been installed and is now activated."
 msgstr ""
 
-#: woostify-sites.php:111
+#: woostify-sites-library.php:406
 msgid "Awesome. Your child theme has been created and is now activated."
 msgstr ""
 
-#: woostify-sites.php:114
+#: woostify-sites-library.php:408
+msgid "Install Plugins"
+msgstr ""
+
+#: woostify-sites-library.php:409
 msgid "You're up to speed!"
 msgstr ""
 
-#: woostify-sites.php:115
+#: woostify-sites-library.php:410
 msgid "Let's install some essential WordPress plugins to get your site up to speed."
 msgstr ""
 
-#: woostify-sites.php:116
+#: woostify-sites-library.php:411
 msgid "The required WordPress plugins are all installed and up to date. Press \"Next\" to continue the setup wizard."
 msgstr ""
 
-#: woostify-sites.php:117 woostify-sites.php:121
+#: woostify-sites-library.php:412 woostify-sites-library.php:416
 msgid "Advanced"
 msgstr ""
 
-#: woostify-sites.php:119
+#: woostify-sites-library.php:414
 msgid "Import Starter Site"
 msgstr ""
 
-#: woostify-sites.php:120
+#: woostify-sites-library.php:415
 msgid "Let's import content to your website, to help you get familiar with the theme."
 msgstr ""
 
-#: woostify-sites.php:123
+#: woostify-sites-library.php:418
 msgid "All done. Have fun!"
 msgstr ""
 
-#: woostify-sites.php:126
+#: woostify-sites-library.php:421
 msgid "Your theme has been all set up. Enjoy your new theme by Woostify."
 msgstr ""
 
-#: woostify-sites.php:127
+#: woostify-sites-library.php:422
 msgid "Extras"
 msgstr ""
 
-#: woostify-sites.php:128
+#: woostify-sites-library.php:423
 msgid "View your website"
 msgstr ""
 
-#: woostify-sites.php:129
+#: woostify-sites-library.php:424
 msgid "Explore Woostify"
 msgstr ""
 
-#: woostify-sites.php:130
+#: woostify-sites-library.php:425
 msgid "Get Theme Support"
 msgstr ""
 
-#: woostify-sites.php:131
+#: woostify-sites-library.php:426
 msgid "Start Customizing"
 msgstr ""

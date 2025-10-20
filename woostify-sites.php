@@ -19,10 +19,6 @@
 /**
  * Set constants.
  */
-if ( ! defined( 'WOOSTIFY_SITES_NAME' ) ) {
-	define( 'WOOSTIFY_SITES_NAME', __( 'Woostify Sites', 'woostify-sites-library' ) );
-}
-
 if ( ! defined( 'WOOSTIFY_SITES_VER' ) ) {
 	define( 'WOOSTIFY_SITES_VER', '1.5.8' );
 }
@@ -68,70 +64,6 @@ $wizard      = new Woostify_Sites(
 		'edd_item_name'        => '', // EDD_Theme_Updater_Admin item_name.
 		'edd_theme_slug'       => '', // EDD_Theme_Updater_Admin item_slug.
 		'ready_big_button_url' => '', // Link for the big button on the ready step.
-	),
-	$strings = array(
-		'admin-menu'               => esc_html__( 'Woostify Sites Library', 'woostify-sites-library' ),
-
-		/* translators: 1: Title Tag 2: Theme Name 3: Closing Title Tag */
-		'title%s%s%s%s'            => esc_html__( '%1$s%2$s Themes &lsaquo; Theme Setup: %3$s%4$s', 'woostify-sites-library' ),
-		'return-to-dashboard'      => esc_html__( 'Return to the dashboard', 'woostify-sites-library' ),
-		'ignore'                   => esc_html__( 'Disable this wizard', 'woostify-sites-library' ),
-
-		'btn-skip'                 => esc_html__( 'Skip', 'woostify-sites-library' ),
-		'btn-next'                 => esc_html__( 'Next', 'woostify-sites-library' ),
-		'btn-start'                => esc_html__( 'Start', 'woostify-sites-library' ),
-		'btn-no'                   => esc_html__( 'Cancel', 'woostify-sites-library' ),
-		'btn-plugins-install'      => esc_html__( 'Install', 'woostify-sites-library' ),
-		'btn-child-install'        => esc_html__( 'Install', 'woostify-sites-library' ),
-		'btn-content-install'      => esc_html__( 'Install', 'woostify-sites-library' ),
-		'btn-import'               => esc_html__( 'Start Import', 'woostify-sites-library' ),
-		'btn-license-activate'     => esc_html__( 'Activate', 'woostify-sites-library' ),
-		'btn-license-skip'         => esc_html__( 'Later', 'woostify-sites-library' ),
-
-		/* translators: Theme Name */
-		'license-header%s'         => esc_html__( 'Activate %s', 'woostify-sites-library' ),
-		/* translators: Theme Name */
-		'license-header-success%s' => esc_html__( '%s is Activated', 'woostify-sites-library' ),
-		/* translators: Theme Name */
-		'license%s'                => esc_html__( 'Enter your license key to enable remote updates and theme support.', 'woostify-sites-library' ),
-		'license-label'            => esc_html__( 'License key', 'woostify-sites-library' ),
-		'license-success%s'        => esc_html__( 'The theme is already registered, so you can go to the next step!', 'woostify-sites-library' ),
-		'license-json-success%s'   => esc_html__( 'Your theme is activated! Remote updates and theme support are enabled.', 'woostify-sites-library' ),
-		'license-tooltip'          => esc_html__( 'Need help?', 'woostify-sites-library' ),
-
-		/* translators: Theme Name */
-		'welcome-header%s'         => esc_html__( 'Welcome to %s', 'woostify-sites-library' ),
-		'welcome-header-success%s' => esc_html__( 'Hi. Welcome back', 'woostify-sites-library' ),
-		'welcome%s'                => esc_html__( 'This wizard will set up your theme, install plugins, and import content. It is optional & should take only a few minutes.', 'woostify-sites-library' ),
-		'welcome-success%s'        => esc_html__( 'You may have already run this theme setup wizard. If you would like to proceed anyway, click on the "Start" button below.', 'woostify-sites-library' ),
-
-		'child-header'             => esc_html__( 'Install Child Theme', 'woostify-sites-library' ),
-		'child-header-success'     => esc_html__( 'You\'re good to go!', 'woostify-sites-library' ),
-		'child'                    => esc_html__( 'Let\'s build & activate a child theme so you may easily make theme changes.', 'woostify-sites-library' ),
-		'child-success%s'          => esc_html__( 'Your child theme has already been installed and is now activated, if it wasn\'t already.', 'woostify-sites-library' ),
-		'child-action-link'        => esc_html__( 'Learn about child themes', 'woostify-sites-library' ),
-		'child-json-success%s'     => esc_html__( 'Awesome. Your child theme has already been installed and is now activated.', 'woostify-sites-library' ),
-		'child-json-already%s'     => esc_html__( 'Awesome. Your child theme has been created and is now activated.', 'woostify-sites-library' ),
-
-		'plugins-header'           => esc_html__( 'Install Plugins', 'woostify-sites-library' ),
-		'plugins-header-success'   => esc_html__( 'You\'re up to speed!', 'woostify-sites-library' ),
-		'plugins'                  => esc_html__( 'Let\'s install some essential WordPress plugins to get your site up to speed.', 'woostify-sites-library' ),
-		'plugins-success%s'        => esc_html__( 'The required WordPress plugins are all installed and up to date. Press "Next" to continue the setup wizard.', 'woostify-sites-library' ),
-		'plugins-action-link'      => esc_html__( 'Advanced', 'woostify-sites-library' ),
-
-		'import-header'            => esc_html__( 'Import Starter Site', 'woostify-sites-library' ),
-		'import'                   => esc_html__( 'Let\'s import content to your website, to help you get familiar with the theme.', 'woostify-sites-library' ),
-		'import-action-link'       => esc_html__( 'Advanced', 'woostify-sites-library' ),
-
-		'ready-header'             => esc_html__( 'All done. Have fun!', 'woostify-sites-library' ),
-
-		/* translators: Theme Author */
-		'ready%s'                  => esc_html__( 'Your theme has been all set up. Enjoy your new theme by Woostify.', 'woostify-sites-library' ),
-		'ready-action-link'        => esc_html__( 'Extras', 'woostify-sites-library' ),
-		'ready-big-button'         => esc_html__( 'View your website', 'woostify-sites-library' ),
-		'ready-link-1'             => sprintf( '<a href="%1$s" target="_blank">%2$s</a>', 'https://woostify.com/', esc_html__( 'Explore Woostify', 'woostify-sites-library' ) ),
-		'ready-link-2'             => sprintf( '<a href="%1$s" target="_blank">%2$s</a>', 'https://woostify.com/contact/', esc_html__( 'Get Theme Support', 'woostify-sites-library' ) ),
-		'ready-link-3'             => sprintf( '<a href="%1$s">%2$s</a>', admin_url( 'customize.php' ), esc_html__( 'Start Customizing', 'woostify-sites-library' ) ),
 	)
 );
 
