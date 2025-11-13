@@ -1025,6 +1025,42 @@ function woostify_sites_local_import_files() {
 			),
 		),
 
+		array(
+			'id'                           => 29,
+			'import_file_name'             => 'Eciton',
+			'local_import_file'            => WOOSTIFY_SITES_DIR . 'demos/demo-30/demo-content.xml',
+			'local_import_widget_file'     => WOOSTIFY_SITES_DIR . 'demos/demo-30/widgets.wie',
+			'local_import_customizer_file' => WOOSTIFY_SITES_DIR . 'demos/demo-30/customizer.dat',
+			'import_preview_image_url'     => WOOSTIFY_SITES_URI . 'demos/demo-30/demo-30.jpg',
+			'import_notice'                => __( 'After you import this demo, you should update permalink.', 'woostify' ),
+			'preview_url'                  => 'https://demo.woostify.com/eciton/',
+			'homepage'                     => 'Home',
+			'blog_page'                    => 'Blog',
+			'primary_menu'                 => 'Primary Menu',
+			'footer_menu'                  => '',
+			'type'                         => 'pro',
+			'page_builder'                 => 'elementor',
+			'font_page'                    => 382,
+			'page'                         => array(
+				'382' => array(
+					'title'   => 'Home',
+					'id'      => 382,
+					'preview' => WOOSTIFY_SITES_URI . 'demos/demo-30/demo-30.jpg',
+
+				),
+				'411' => array(
+					'title'   => 'Contact',
+					'id'      => 411,
+					'preview' => WOOSTIFY_SITES_URI . 'demos/demo-30/contact.jpg',
+				),
+				'413' => array(
+					'title'   => 'About Us',
+					'id'      => 413,
+					'preview' => WOOSTIFY_SITES_URI . 'demos/demo-30/about.jpg',
+				),
+			),
+		),
+
 	);
 }
 add_filter( 'woostify_sites_import_files', 'woostify_sites_local_import_files' );
