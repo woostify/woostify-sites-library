@@ -2662,7 +2662,8 @@ class Woostify_Sites {
 
 			$this->logger->debug( __( 'The blog page was set', 'woostify-sites-library' ), array( 'blog_page_id' => $blogpage ) );
 		}
-
+		// Update elementor page settings
+		$this->woostify_site_update_elementor_page_settings( $selected_demo );
 	}
 
 	/**
@@ -3381,4 +3382,48 @@ class Woostify_Sites {
 
 		wp_send_json_error();
 	}
+
+	/**
+	 * Update Elementor Site Settings after import.
+	 */
+	public function woostify_site_update_elementor_page_settings( $selected_demo ) {
+		$local_import_file = isset( $selected_demo[ 'local_import_file' ] ) ? $selected_demo[ 'local_import_file' ] : '';
+		if ( empty( $local_import_file ) ) {
+			return;
+		}
+
+		if ( !file_exists( $local_import_file ) ) {
+			return;
+		}
+		// Load XML file.
+		$xml = simplexml_load_file($local_import_file, 'SimpleXMLElement', LIBXML_NOCDATA);
+		$meta_value = '';
+		if ( $xml !== false ) {
+			foreach ($xml->channel->item as $item) {
+				foreach ($item->children('wp', true)->postmeta as $meta) {
+
+					$key   = (string) $meta->meta_key;
+					$value = (string) $meta->meta_value;
+
+					if ($key === '_elementor_page_settings') {
+						$meta_value = $value;
+						break;
+					}
+				}
+			}
+		}
+		// Get active kit ID.
+		$kit_id = \Elementor\Plugin::$instance->kits_manager->get_active_id();
+		$settings = [];
+		if ( $kit_id && !empty( $meta_value ) ) {
+			$settings = unserialize( $meta_value );			
+			update_post_meta( $kit_id, '_elementor_page_settings', $settings );
+			// Clear cache
+			$fm = \Elementor\Plugin::$instance->files_manager;
+			if ( method_exists( $fm, 'clear_cache' ) ) {
+				$fm->clear_cache();
+			}
+		}
+	}
+
 }
