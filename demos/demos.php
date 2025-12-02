@@ -1037,6 +1037,7 @@ function woostify_sites_local_import_files() {
 			'homepage'                     => 'Home',
 			'blog_page'                    => 'Blog',
 			'primary_menu'                 => 'Primary Menu',
+			'vertical_menu'                => 'Menu Vertical',
 			'footer_menu'                  => '',
 			'type'                         => 'pro',
 			'page_builder'                 => 'elementor',
