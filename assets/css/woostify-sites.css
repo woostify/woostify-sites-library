@@ -798,6 +798,10 @@ svg:not(:root) {
 	overflow: hidden;
 }
 
+.merlin__content--transition svg.icon {
+	max-width: 165px;
+}
+
 .icon {
 	margin-bottom: 2.8em;
 	max-width: 100%;
