@@ -1062,6 +1062,42 @@ function woostify_sites_local_import_files() {
 			),
 		),
 
+		array(
+			'id'                           => 30,
+			'import_file_name'             => 'Vitax',
+			'local_import_file'            => WOOSTIFY_SITES_DIR . 'demos/demo-31/demo-content.xml',
+			'local_import_widget_file'     => WOOSTIFY_SITES_DIR . 'demos/demo-31/widgets.wie',
+			'local_import_customizer_file' => WOOSTIFY_SITES_DIR . 'demos/demo-31/customizer.dat',
+			'import_preview_image_url'     => WOOSTIFY_SITES_URI . 'demos/demo-31/demo-31.jpg',
+			'import_notice'                => __( 'After you import this demo, you should update permalink.', 'woostify' ),
+			'preview_url'                  => 'https://demo.woostify.com/vitax/',
+			'homepage'                     => 'Home',
+			'blog_page'                    => 'Blog',
+			'primary_menu'                 => 'Menu Primary',
+			'footer_menu'                  => '',
+			'type'                         => 'pro',
+			'page_builder'                 => 'elementor',
+			'font_page'                    => 62,
+			'page'                         => array(
+				'62' => array(
+					'title'   => 'Home',
+					'id'      => 62,
+					'preview' => WOOSTIFY_SITES_URI . 'demos/demo-31/demo-31.jpg',
+
+				),
+				'68' => array(
+					'title'   => 'Contact',
+					'id'      => 68,
+					'preview' => WOOSTIFY_SITES_URI . 'demos/demo-31/contact.jpg',
+				),
+				'430' => array(
+					'title'   => 'About Us',
+					'id'      => 430,
+					'preview' => WOOSTIFY_SITES_URI . 'demos/demo-31/about.jpg',
+				),
+			),
+		),
+
 	);
 }
 add_filter( 'woostify_sites_import_files', 'woostify_sites_local_import_files' );
