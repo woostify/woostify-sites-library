@@ -3,8 +3,8 @@ Contributors: duongancol, ptp
 Tags: demo, theme demos, one click import
 Requires at least: 4.4
 Requires PHP: 7.0
-Tested up to: 6.4.2
-Stable tag: 1.6.0
+Tested up to: 6.9
+Stable tag: 1.6.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -49,6 +49,10 @@ Integrating Appsero SDK **DOES NOT IMMEDIATELY** start gathering data, **without
 Learn more about how [Appsero collects and uses this data](https://appsero.com/privacy-policy/).
 
 == Changelog ==
+= 1.6.1 =
+* Add Vitax Demo
+* Add Drinks Demo
+
 = 1.6.0 =
 * Add Eciton Demo
 
