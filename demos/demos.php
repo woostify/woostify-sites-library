@@ -1098,6 +1098,42 @@ function woostify_sites_local_import_files() {
 			),
 		),
 
+		array(
+			'id'                           => 31,
+			'import_file_name'             => 'Drinks',
+			'local_import_file'            => WOOSTIFY_SITES_DIR . 'demos/demo-32/demo-content.xml',
+			'local_import_widget_file'     => WOOSTIFY_SITES_DIR . 'demos/demo-32/widgets.wie',
+			'local_import_customizer_file' => WOOSTIFY_SITES_DIR . 'demos/demo-32/customizer.dat',
+			'import_preview_image_url'     => WOOSTIFY_SITES_URI . 'demos/demo-32/demo-32.jpg',
+			'import_notice'                => __( 'After you import this demo, you should update permalink.', 'woostify' ),
+			'preview_url'                  => 'https://demo.woostify.com/drinks/',
+			'homepage'                     => 'Home',
+			'blog_page'                    => 'Blog',
+			'primary_menu'                 => 'Menu Primary',
+			'footer_menu'                  => '',
+			'type'                         => 'pro',
+			'page_builder'                 => 'elementor',
+			'font_page'                    => 691,
+			'page'                         => array(
+				'691' => array(
+					'title'   => 'Home',
+					'id'      => 691,
+					'preview' => WOOSTIFY_SITES_URI . 'demos/demo-32/demo-32.jpg',
+
+				),
+				'279' => array(
+					'title'   => 'Contact',
+					'id'      => 279,
+					'preview' => WOOSTIFY_SITES_URI . 'demos/demo-32/contact.jpg',
+				),
+				'326' => array(
+					'title'   => 'About Us',
+					'id'      => 326,
+					'preview' => WOOSTIFY_SITES_URI . 'demos/demo-32/about.jpg',
+				),
+			),
+		),
+
 	);
 }
 add_filter( 'woostify_sites_import_files', 'woostify_sites_local_import_files' );
