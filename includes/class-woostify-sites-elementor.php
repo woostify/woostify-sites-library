@@ -10,6 +10,171 @@
 class Woostify_Sites_Elementor {
 
 	/**
+	 * Extract CSS rules from a URL by searching for <style> tags and elementor-element classes.
+	 */
+	private function extract_css_from_url( $url ) {
+		$response = wp_remote_get( $url, [ 'timeout' => 15 ] );
+		if ( is_wp_error( $response ) || 200 !== wp_remote_retrieve_response_code( $response ) ) {
+			return [];
+		}
+
+		$html = wp_remote_retrieve_body( $response );
+		if ( empty( $html ) ) return [];
+
+		$css_contents = [];
+		// Extract all style blocks
+		if ( preg_match_all( '/<style[^>]*>(.*?)<\/style>/is', $html, $matches ) ) {
+			$css_contents = array_merge( $css_contents, $matches[1] );
+		}
+
+		// Also look for external Elementor CSS files
+		if ( preg_match_all( '/<link[^>]+href=[\'"]([^\'"]+elementor\/css\/post-[^\'"]+\.css[^\'"]*)[\'"]/i', $html, $link_matches ) ) {
+			foreach ( $link_matches[1] as $css_url ) {
+				$css_res = wp_remote_get( $css_url, [ 'timeout' => 10 ] );
+				if ( ! is_wp_error( $css_res ) && 200 === wp_remote_retrieve_response_code( $css_res ) ) {
+					$css_contents[] = wp_remote_retrieve_body( $css_res );
+				}
+			}
+		}
+
+		$css_rules = [];
+		foreach ( $css_contents as $content ) {
+			// Find blocks of { ... }
+			if ( preg_match_all( '/([^{]+)\{([^}]+)\}/i', $content, $matches ) ) {
+				foreach ( $matches[1] as $i => $selector_block ) {
+					$declarations = trim( $matches[2][$i] );
+					$parsed_props = $this->parse_css_declarations( $declarations );
+					if ( empty( $parsed_props ) ) continue;
+
+					$selectors = explode( ',', $selector_block );
+					foreach ( $selectors as $selector ) {
+						$selector = trim( $selector );
+						// Find .elementor-element-{id}
+						if ( preg_match( '/\.elementor-element-([a-f0-9]+)/i', $selector, $m_id ) ) {
+							$el_id = $m_id[1];
+							if ( ! isset( $css_rules[$el_id] ) ) {
+								$css_rules[$el_id] = [ 'main' => [], 'backgrounds' => [] ];
+							}
+
+							// Determine if this selector targets the main element or a sub-element
+							// If it has spaces after the ID (excluding pseudo-classes), it likely targets a child
+							$after_id = substr( $selector, strpos( $selector, $m_id[0] ) + strlen( $m_id[0] ) );
+							
+							// Check if it targets common descendants
+							$sub_targets = [ 
+								'overlay' => '.elementor-background-overlay',
+								'container' => '.elementor-widget-container',
+								'wrap' => '.elementor-widget-wrap',
+								'column_wrap' => '.elementor-column-wrap',
+								'button' => '.elementor-button',
+								'heading' => '.elementor-heading-title'
+							];
+
+							reset($sub_targets);
+							$matched_sub = false;
+							foreach ( $sub_targets as $key => $target_class ) {
+								if ( strpos( $selector, $target_class ) !== false ) {
+									if ( ! isset( $css_rules[$el_id][$key] ) ) $css_rules[$el_id][$key] = [];
+									$css_rules[$el_id][$key] = array_merge( $css_rules[$el_id][$key], $parsed_props );
+									$matched_sub = true;
+									break;
+								}
+							}
+
+							// If no specific sub-target, check if it's a "main" modifier (pseudo-classes, or direct element)
+							if ( ! $matched_sub ) {
+								// If it has spaces, but doesn't match above, it might be a generic descendant
+								if ( preg_match( '/\s+[a-z0-9#\._-]/i', $after_id ) ) {
+									// Generic descendant
+									$css_rules[$el_id]['main'] = array_merge( $css_rules[$el_id]['main'], $parsed_props );
+								} else {
+									// Modifier or exact match
+									$css_rules[$el_id]['main'] = array_merge( $css_rules[$el_id]['main'], $parsed_props );
+								}
+							}
+
+							// Track background-image separately regardless of selector specificity as a strong hint
+							if ( isset( $parsed_props['background-image'] ) && strpos( $parsed_props['background-image'], 'url(' ) !== false ) {
+								$css_rules[$el_id]['fallback_background'] = $parsed_props['background-image'];
+							}
+						}
+					}
+				}
+			}
+		}
+
+		return $css_rules;
+	}
+
+	/**
+	 * Parse dimensions (padding/margin/border-radius) into Elementor format.
+	 */
+	private function parse_dimensions( $val ) {
+		$unit = 'px';
+		if ( preg_match( '/(px|em|rem|%|vh|vw|pt)/i', $val, $u_m ) ) {
+			$unit = $u_m[1];
+		}
+		
+		$clean_val = preg_replace( '/[a-z%]/i', '', $val );
+		$values = preg_split( '/\s+/', trim( $clean_val ) );
+		$struct = [ 'unit' => $unit, 'isLinked' => false ];
+		
+		$count = count( $values );
+		if ( $count === 1 ) {
+			$v = $values[0];
+			$struct['top'] = $struct['right'] = $struct['bottom'] = $struct['left'] = $v;
+			$struct['isLinked'] = true;
+		} elseif ( $count === 2 ) {
+			$struct['top'] = $struct['bottom'] = $values[0];
+			$struct['left'] = $struct['right'] = $values[1];
+		} elseif ( $count === 3 ) {
+			$struct['top'] = $values[0];
+			$struct['right'] = $struct['left'] = $values[1];
+			$struct['bottom'] = $values[2];
+		} elseif ( $count >= 4 ) {
+			$struct['top'] = $values[0];
+			$struct['right'] = $values[1];
+			$struct['bottom'] = $values[2];
+			$struct['left'] = $values[3];
+		} else {
+			$v = $values[0];
+			if ( '' === $v ) $v = '0';
+			$struct['top'] = $struct['right'] = $struct['bottom'] = $struct['left'] = $v;
+		}
+		return $struct;
+	}
+
+	/**
+	 * Parse CSS declarations string into an associative array of properties.
+	 */
+	private function parse_css_declarations( $css_text ) {
+		$properties = [];
+		// Filter out !important and clean up
+		$css_text = preg_replace( '/\s*!important/i', '', $css_text );
+		// Basic comment removal
+		$css_text = preg_replace( '/\/\*.*?\*\//s', '', $css_text );
+		$rules = explode( ';', $css_text );
+		foreach ( $rules as $rule ) {
+			$parts = explode( ':', $rule, 2 );
+			if ( count( $parts ) === 2 ) {
+				$key = strtolower( trim( $parts[0] ) );
+				$val = trim( $parts[1] );
+				if ( $key && $val ) {
+					// Clean up values (remove extra quotes, etc)
+					$properties[$key] = $val;
+				}
+			}
+		}
+		return $properties;
+	}
+
+	/**
+	 * Property to hold external CSS during parsing.
+	 */
+	private $external_css = [];
+	private $last_parsed_count = 0;
+
+	/**
 	 * Instance of Astra_Sites
 	 *
 	 * @since  1.0.0
@@ -151,13 +316,18 @@ class Woostify_Sites_Elementor {
 
 
 	public function create_api_posts_meta_field() {
+		$types = array( 'page', 'hf_builder', 'woo_builder', 'btf_builder' );
 
-		// register_rest_field ( 'name-of-post-type', 'name-of-field-to-return', array-of-callbacks-and-schema() )
-		register_rest_field( 'page', 'post-meta', array(
-				'get_callback' => array( $this, 'get_post_meta_for_api' ),
-				'schema'       => null,
-			)
-		);
+		foreach ( $types as $type ) {
+			register_rest_field(
+				$type,
+				'post-meta',
+				array(
+					'get_callback' => array( $this, 'get_post_meta_for_api' ),
+					'schema'       => null,
+				)
+			);
+		}
 	}
 
 	public function get_post_meta_for_api( $object ) {
@@ -474,9 +644,14 @@ class Woostify_Sites_Elementor {
 			default:
 				$all_demo = woostify_sites_local_import_files();
 				$rest_url = 'wp-json/wp/v2/pages/';
-				$demo     = $all_demo[$id];
+				$demo     = isset( $all_demo[$id] ) ? $all_demo[$id] : null;
 				break;
 		}
+
+		if ( ! $demo ) {
+			wp_send_json_error( __( 'Demo data not found.', 'woostify-sites-library' ) );
+		}
+
 
 		if ( ! current_user_can( 'edit_posts' ) ) {
 			wp_send_json_error( __( 'You are not allowed to perform this action', 'woostify-sites-library' ) );
@@ -487,34 +662,755 @@ class Woostify_Sites_Elementor {
 		}
 		$url = $demo['preview_url'] . $rest_url . $page;
 
-		$response = wp_remote_get( $url );
+		$response = wp_remote_get( $url, [ 'timeout' => 20 ] );
+		$response_code = wp_remote_retrieve_response_code( $response );
 
 		if ( is_wp_error( $response ) ) {
-			wp_send_json_error( wp_remote_retrieve_body( $response ) );
+			wp_send_json_error( $response->get_error_message() );
+		}
+
+		if ( 200 !== $response_code ) {
+			wp_send_json_error( sprintf( __( 'Remote API returned error code %d', 'woostify-sites-library' ), $response_code ) );
 		}
 
 		$body = wp_remote_retrieve_body( $response );
 		$data = json_decode( $body, true );
-		if ( ! isset( $data['post-meta']['_elementor_data'] ) ) {
-			wp_send_json_error( __( 'Invalid Post Meta', 'woostify-sites-library' ) );
+
+		if ( ! is_array( $data ) ) {
+			wp_send_json_error( __( 'Invalid API response format', 'woostify-sites-library' ) );
 		}
 
-		$meta    = json_decode( $data['post-meta']['_elementor_data'][0], true );
+		$meta_json = '';
+		if ( isset( $data['post-meta']['_elementor_data'] ) ) {
+			$meta_json = $data['post-meta']['_elementor_data'][0];
+		} else if ( isset( $data['_elementor_data'] ) ) {
+			$meta_json = $data['_elementor_data'];
+		} else if ( isset( $data['meta']['_elementor_data'] ) ) {
+			$meta_json = $data['meta']['_elementor_data'];
+		}
+
+		$meta = [];
+		if ( ! empty( $meta_json ) ) {
+			$meta = json_decode( $meta_json, true );
+		}
+
+		// Try local XML fallback if remote API failed
+		if ( empty( $meta ) ) {
+			if ( isset( $demo['local_import_file'] ) && file_exists( $demo['local_import_file'] ) ) {
+				$local_meta_raw = $this->get_elementor_data_from_xml( $demo['local_import_file'], $page );
+				if ( ! empty( $local_meta_raw ) ) {
+					$meta = json_decode( $local_meta_raw, true );
+				}
+			}
+		}
+
+		// Search in ALL demo XMLs if still empty (Blocks are often hidden in other demo XMLs)
+		if ( empty( $meta ) ) {
+			$cache_key = 'woostify_sites_xml_path_' . $page;
+			$cached_path = get_transient( $cache_key );
+			
+			if ( $cached_path && file_exists( $cached_path ) ) {
+				$local_meta_raw = $this->get_elementor_data_from_xml( $cached_path, $page );
+				if ( ! empty( $local_meta_raw ) ) {
+					$meta = json_decode( $local_meta_raw, true );
+				}
+			}
+
+			if ( empty( $meta ) ) {
+				$all_demos = apply_filters( 'woostify_sites_import_files', [] );
+				$searched_files = [];
+				$count = 0;
+				foreach ( $all_demos as $d ) {
+					$xml_file = isset( $d['local_import_file'] ) ? $d['local_import_file'] : '';
+					if ( ! empty( $xml_file ) && file_exists( $xml_file ) && ! in_array( $xml_file, $searched_files ) ) {
+						$searched_files[] = $xml_file;
+						$local_meta_raw = $this->get_elementor_data_from_xml( $xml_file, $page );
+						if ( ! empty( $local_meta_raw ) ) {
+							$meta = json_decode( $local_meta_raw, true );
+							if ( ! empty( $meta ) ) {
+								set_transient( $cache_key, $xml_file, WEEK_IN_SECONDS );
+								break;
+							}
+						}
+						// Limit search to first 50 files to prevent total timeout
+						if ( ++$count > 50 ) break;
+					}
+				}
+			}
+		}
+
+		// Final fallback: parse Elementor structure from content.rendered HTML
+		if ( empty( $meta ) && isset( $data['content']['rendered'] ) && ! empty( $data['content']['rendered'] ) ) {
+			// Try to fetch full page CSS if JSON is missing
+			$full_page_css = [];
+			if ( isset( $data['link'] ) ) {
+				$full_page_css = $this->extract_css_from_url( $data['link'] );
+			}
+			$meta = $this->parse_elementor_from_rendered_html( $data['content']['rendered'], $full_page_css );
+		}
+
+		if ( empty( $meta ) ) {
+			$error_msg = __( 'Elementor data not found in this block.', 'woostify-sites-library' );
+			if ( empty( $data['content']['rendered'] ) ) {
+				$error_msg .= ' ' . __( 'The API response has empty content.', 'woostify-sites-library' );
+			} else {
+				$error_msg .= ' HTML Length: ' . strlen($data['content']['rendered']);
+				$error_msg .= ' HTML Snippet: ' . htmlspecialchars(substr($data['content']['rendered'], 0, 100));
+				$error_msg .= ' Elements: ' . $this->last_parsed_count;
+			}
+			wp_send_json_error( $error_msg );
+		}
+
 		$post_id = (int) $_POST['post_id'];
 
-		if ( empty( $post_id ) || empty( $meta ) ) {
-			wp_send_json_error( __( 'Invalid Post ID or Elementor Meta', 'woostify-sites-library' ) );
+		if ( empty( $post_id ) ) {
+			wp_send_json_error( __( 'Invalid Post ID', 'woostify-sites-library' ) );
 		}
 		if ( array_key_exists( 'contact_form', $demo ) ) {
 			$contact_form = $demo['contact_form'];
 		}
 
 		$import      = new Woostify_Sites_Elementor_Pages();
-		$import_data = $import->import( $post_id, $meta, $contact_form );
-
+		$import_data = $import->import( $post_id, $meta, $contact_form, false );
 		wp_send_json_success( $import_data );
+	}
 
-		die();
+	/**
+	 * Get elementor data from XML file
+	 *
+	 * @param string $xml_path Path to XML file.
+	 * @param int    $post_id  Post ID.
+	 * @return string|bool
+	 */
+	public function get_elementor_data_from_xml( $xml_path, $post_id ) {
+		$handle = fopen( $xml_path, 'r' );
+		if ( ! $handle ) {
+			return false;
+		}
+		
+		$id_string = '<wp:post_id>' . $post_id . '</wp:post_id>';
+		$meta_key  = '<wp:meta_key><![CDATA[_elementor_data]]></wp:meta_key>';
+		
+		$found_post = false;
+		$buffer     = '';
+		$result     = false;
+
+		while ( ! feof( $handle ) ) {
+			$chunk = fread( $handle, 16384 ); // Read 16KB at a time
+			$buffer .= $chunk;
+
+			// Step 1: Find the post_id
+			if ( ! $found_post ) {
+				$pos = strpos( $buffer, $id_string );
+				if ( $pos !== false ) {
+					$found_post = true;
+					$buffer = substr( $buffer, $pos ); // Keep from post_id onwards
+				}
+			}
+
+			// Step 2: Once post is found, look for Elementor data key
+			if ( $found_post ) {
+				// Prevent buffer from growing too large if metadata is far away
+				// But we must be careful not to cut off the meta_key
+				if ( strlen( $buffer ) > 500000 ) {
+					// Check if we passed the next post_id (meaning we skipped the meta)
+					if ( strpos( substr( $buffer, 100 ), '<wp:post_id>' ) !== false ) {
+						break; // Moved to another post, stop
+					}
+					$buffer = substr( $buffer, -1000 ); // Just keep the end
+				}
+
+				if ( strpos( $buffer, $meta_key ) !== false ) {
+					// Step 3: Extract the CDATA value
+					$val_start = strpos( $buffer, '<wp:meta_value><![CDATA[', strpos( $buffer, $meta_key ) );
+					if ( $val_start !== false ) {
+						$val_start += strlen( '<wp:meta_value><![CDATA[' );
+						
+						// Now read until we find the ending ]]>
+						while ( strpos( $buffer, ']]></wp:meta_value>', $val_start ) === false && ! feof( $handle ) ) {
+							$buffer .= fread( $handle, 32768 );
+							if ( strlen( $buffer ) > 5000000 ) break; // Safety break (5MB meta is huge)
+						}
+						
+						$val_end = strpos( $buffer, ']]></wp:meta_value>', $val_start );
+						if ( $val_end !== false ) {
+							$result = substr( $buffer, $val_start, $val_end - $val_start );
+							break;
+						}
+					}
+				}
+			}
+
+			// Keep the buffer reasonable (last 100 chars to handle split tags)
+			if ( ! $found_post && strlen( $buffer ) > 2000 ) {
+				$buffer = substr( $buffer, -100 );
+			}
+		}
+		
+		fclose( $handle );
+		return $result;
+	}
+
+	/**
+	 * Parse Elementor from rendered HTML
+	 * 
+	 * @param string $html HTML content.
+	 * @param array  $css  Optional external CSS rules.
+	 * @return array
+	 */
+	private function parse_elementor_from_rendered_html( $html, $css = [] ) {
+		if ( empty( $html ) ) {
+			return [];
+		}
+
+		// Handle UTF-8 properly for DOMDocument
+		$html = mb_convert_encoding( $html, 'HTML-ENTITIES', 'UTF-8' );
+
+		// Suppress HTML parsing warnings
+		$prev = libxml_use_internal_errors( true );
+		$dom  = new DOMDocument();
+		// Avoid LIBXML_HTML_NOIMPLIED to ensure we have a valid DOM tree
+		$dom->loadHTML( '<?xml encoding="utf-8" ?>' . $html );
+		libxml_clear_errors();
+		libxml_use_internal_errors( $prev );
+
+		$xpath = new DOMXPath( $dom );
+
+		// Find all elementor elements (sections, containers, widgets)
+		$all_elements = $xpath->query( '//*[@data-id or @data-element_type]' );
+		$this->last_parsed_count = $all_elements ? $all_elements->length : 0;
+		$this->external_css = $css;
+
+		$elements = [];
+		if ( $all_elements ) {
+			foreach ( $all_elements as $node ) {
+				// A node is top-level if none of its ancestors have data-element_type
+				$parent       = $node->parentNode;
+				$is_top_level = true;
+				while ( $parent && $parent->nodeType === XML_ELEMENT_NODE ) {
+					if ( $parent->hasAttribute( 'data-element_type' ) ) {
+						$is_top_level = false;
+						break;
+					}
+					$parent = $parent->parentNode;
+				}
+
+				if ( $is_top_level ) {
+					$element = $this->parse_elementor_node( $node, $xpath, $dom );
+					if ( $element ) {
+						$elements[] = $element;
+					}
+				}
+			}
+		}
+		return $elements;
+	}
+
+	/**
+	 * Apply styles from a DOM node to Elementor settings array.
+	 * 
+	 * @param DOMElement $node     The node to extract styles from.
+	 * @param array      $settings Reference to the settings array.
+	 * @param string     $el_type  The element type (section, column, widget).
+	 * @param bool       $is_child Whether this is a child node.
+	 */
+	/**
+	 * Apply styles from a DOM node to Elementor settings array.
+	 */
+	private function apply_styles_to_settings( $node, &$settings, $el_type, $is_child = false, $extra_css_props = [] ) {
+		$inline_style = $node->getAttribute( 'style' );
+		$props = array_merge( $extra_css_props, $this->parse_css_declarations( $inline_style ) );
+
+		if ( empty( $props ) ) {
+			return;
+		}
+
+		$widget_type_raw = $node->getAttribute( 'data-widget_type' );
+		$class_attr      = $node->getAttribute( 'class' );
+		$is_button       = ( strpos( $widget_type_raw, 'button' ) !== false ) || ( strpos( $class_attr, 'elementor-button' ) !== false ) || ( 'widget' === $el_type && strpos( $widget_type_raw, 'button' ) !== false );
+		$is_heading      = ( strpos( $widget_type_raw, 'heading' ) !== false ) || ( strpos( $class_attr, 'elementor-heading' ) !== false );
+
+		foreach ( $props as $key => $val ) {
+			$clean_val = trim( $val, " \t\n\r\0\x0B;\"'" );
+
+			// Background Handling
+			if ( 'background' === $key || 'background-image' === $key || 'background-color' === $key ) {
+				if ( preg_match( '/url\([\'"]?([^\'"]+)[\'"]?\)/i', $val, $m ) ) {
+					$settings['background_image'] = [ 'url' => $m[1] ];
+					$settings['background_background'] = 'classic';
+				}
+				if ( preg_match( '/(#[a-f0-9]{3,6}|rgba?\([^\)]+\)|[a-z]+)(?![^\(]*\))/i', $val, $m ) && ! strpos( $val, 'url' ) ) {
+					$color = $m[1];
+					if ( 'none' !== $color && 'transparent' !== $color ) {
+						$settings['background_color'] = $color;
+						$settings['background_background'] = 'classic';
+						if ( $is_button ) {
+							$settings['button_background_color'] = $color;
+							$settings['background_color'] = $color;
+						}
+					}
+				}
+				if ( preg_match( '/(no-repeat|repeat|repeat-x|repeat-y)/i', $val, $m ) ) $settings['background_repeat'] = $m[1];
+				if ( preg_match( '/(center|top|bottom|left|right)/i', $val, $m ) ) {
+					$pos = $m[1];
+					if ( preg_match( '/(center|top|bottom|left|right)\s+(center|top|bottom|left|right)/i', $val, $m2 ) ) {
+						$pos = $m2[1] . ' ' . $m2[2];
+					}
+					$settings['background_position'] = $pos;
+				}
+				if ( preg_match( '/(cover|contain|[0-9]+%)/i', $val, $m ) ) $settings['background_size'] = $m[1];
+			}
+
+			// Background Details
+			if ( 'background-size' === $key ) $settings['background_size'] = $val;
+			if ( 'background-position' === $key ) $settings['background_position'] = $val;
+			if ( 'background-repeat' === $key ) $settings['background_repeat'] = $val;
+
+			// Text Color
+			if ( 'color' === $key ) {
+				if ( $is_button ) {
+					$settings['button_text_color'] = $val;
+					$settings['text_color'] = $val;
+				} elseif ( $is_heading ) {
+					$settings['title_color'] = $val;
+				} elseif ( ! $is_child || empty( $settings['text_color'] ) ) {
+					$settings['text_color'] = $val;
+				}
+			}
+
+			// Typography
+			if ( 'font-size' === $key || 'font-weight' === $key || 'font-family' === $key || 'line-height' === $key || 'text-transform' === $key || 'font-style' === $key || 'text-decoration' === $key ) {
+				$settings['typography_typography'] = 'custom';
+				if ( $is_button ) $settings['button_typography_typography'] = 'custom';
+
+				if ( 'font-size' === $key && preg_match( '/([0-9\.]+)(px|em|rem|vh|vw|%)/i', $val, $m ) ) {
+					$settings['typography_font_size'] = [ 'unit' => $m[2], 'size' => $m[1] ];
+				}
+				if ( 'font-weight' === $key ) {
+					$settings['typography_font_weight'] = $val;
+				}
+				if ( 'font-family' === $key ) {
+					$settings['typography_font_family'] = trim( $val, " '\"" );
+				}
+				if ( 'line-height' === $key ) {
+					$lh_unit = 'em';
+					$lh_val = $val;
+					if ( preg_match( '/([0-9\.]+)(px|em|rem|%)/i', $val, $m ) ) {
+						$lh_unit = $m[2];
+						$lh_val = $m[1];
+					}
+					$settings['typography_line_height'] = [ 'unit' => $lh_unit, 'size' => $lh_val ];
+				}
+				if ( 'text-transform' === $key ) $settings['typography_text_transform'] = $val;
+				if ( 'font-style' === $key ) $settings['typography_font_style'] = $val;
+				if ( 'text-decoration' === $key ) $settings['typography_text_decoration'] = $val;
+			}
+
+			if ( 'text-align' === $key || 'justify-content' === $key || 'float' === $key || 'align-items' === $key || 'align-self' === $key ) {
+				$align_val = $val;
+				// Map flex and other values to Elementor align values
+				if ( strpos( $val, 'flex-start' ) !== false || strpos( $val, 'left' ) !== false || strpos( $val, 'start' ) !== false ) $align_val = 'left';
+				elseif ( strpos( $val, 'flex-end' ) !== false || strpos( $val, 'right' ) !== false || strpos( $val, 'end' ) !== false ) $align_val = 'right';
+				elseif ( strpos( $val, 'center' ) !== false ) $align_val = 'center';
+				elseif ( strpos( $val, 'justify' ) !== false ) $align_val = 'justify';
+
+				// Set multiple potential keys for better compatibility
+				if ( ! $is_child || empty( $settings['align'] ) ) $settings['align'] = $align_val;
+				if ( ! $is_child || empty( $settings['text_align'] ) ) $settings['text_align'] = $align_val;
+				if ( $is_button && ( ! $is_child || empty( $settings['button_align'] ) ) ) {
+					$settings['button_align'] = $align_val;
+				}
+			}
+
+			// Spacing
+			if ( 'padding' === $key || 'margin' === $key ) {
+				// Avoid overwriting from child wraps
+				if ( ! $is_child || empty( $settings[$key] ) || $is_button ) {
+					$struct = $this->parse_dimensions( $val );
+					if ( $is_button && 'padding' === $key ) {
+						$settings['button_padding'] = $struct;
+						$settings['padding'] = $struct;
+					} else {
+						$settings[$key] = $struct;
+					}
+				}
+			}
+
+			// Individual Spacing
+			if ( preg_match( '/^(padding|margin)-(top|right|bottom|left)$/i', $key, $m_side ) ) {
+				$prop = $m_side[1];
+				$side = $m_side[2];
+				$target = $is_button && 'padding' === $prop ? 'button_padding' : $prop;
+
+				if ( ! $is_child || ! isset( $settings[$target][$side] ) ) { // Check if specific side is not set
+					if ( ! isset( $settings[$target] ) ) $settings[$target] = [ 'unit' => 'px', 'isLinked' => false ];
+					if ( preg_match( '/([0-9\.]+)/', $val, $m_val ) ) {
+						$settings[$target][$side] = $m_val[1];
+					}
+				}
+			}
+
+			// Borders
+			if ( 'border' === $key ) {
+				if ( preg_match( '/([0-9\.]+)px/i', $val, $m ) ) {
+					$w = $m[1];
+					$struct = [ 'unit' => 'px', 'top' => $w, 'right' => $w, 'bottom' => $w, 'left' => $w, 'isLinked' => true ];
+					if ( $is_button ) {
+						$settings['button_border_width'] = $struct;
+						$settings['border_width'] = $struct;
+						if ( ! isset( $settings['button_border_border'] ) ) $settings['button_border_border'] = 'solid';
+						if ( ! isset( $settings['border_border'] ) ) $settings['border_border'] = 'solid';
+					} else {
+						$settings['border_width'] = $struct;
+						if ( ! isset( $settings['border_border'] ) ) $settings['border_border'] = 'solid';
+					}
+				}
+				if ( preg_match( '/(solid|dashed|dotted|double|none)/i', $val, $m ) ) {
+					if ( $is_button ) $settings['button_border_border'] = $m[1];
+					else $settings['border_border'] = $m[1];
+				}
+				if ( preg_match( '/(#[a-f0-9]{3,6}|rgba?\([^\)]+\)|[a-z]+)/i', $val, $m ) ) {
+					if ( $is_button ) $settings['button_border_color'] = $m[1];
+					else $settings['border_color'] = $m[1];
+				}
+			}
+			if ( 'border-radius' === $key ) {
+				$struct = $this->parse_dimensions( $val );
+				if ( $is_button ) {
+					$settings['button_border_radius'] = $struct;
+					$settings['border_radius'] = $struct;
+				} else {
+					$settings['border_radius'] = $struct;
+				}
+			}
+			if ( preg_match( '/^border-(top|bottom)-(left|right)-radius$/i', $key, $m_rad ) ) {
+				$v_side = $m_rad[1]; // top or bottom
+				$h_side = $m_rad[2]; // left or right
+				$target = $is_button ? 'button_border_radius' : 'border_radius';
+				if ( ! isset( $settings[$target] ) ) $settings[$target] = [ 'unit' => 'px', 'isLinked' => false ];
+				
+				$map = [ 'top_left' => 'top', 'top_right' => 'right', 'bottom_right' => 'bottom', 'bottom_left' => 'left' ];
+				$corner = $v_side . '_' . $h_side;
+				if ( isset( $map[$corner] ) && preg_match( '/([0-9]+)/', $val, $m_val ) ) {
+					$settings[$target][$map[$corner]] = (int) $m_val[1];
+				}
+			}
+			if ( 'border-style' === $key ) {
+				if ( $is_button ) $settings['button_border_border'] = $val;
+				else $settings['border_border'] = $val;
+			}
+			if ( 'border-width' === $key && preg_match( '/([0-9]+)px/i', $val, $m ) ) {
+				$w = (int) $m[1];
+				$struct = [ 'unit' => 'px', 'top' => $w, 'right' => $w, 'bottom' => $w, 'left' => $w, 'isLinked' => true ];
+				if ( $is_button ) $settings['button_border_width'] = $struct;
+				else $settings['border_width'] = $struct;
+			}
+			if ( 'border-color' === $key ) {
+				if ( $is_button ) $settings['button_border_color'] = $val;
+				else $settings['border_color'] = $val;
+			}
+
+			// Opacity
+			if ( 'opacity' === $key ) {
+				$settings['opacity'] = [ 'unit' => 'px', 'size' => (float) $val ];
+			}
+		}
+
+		// Support for background overlay classes
+		if ( strpos( $class_attr, 'elementor-background-overlay' ) !== false ) {
+			if ( isset( $settings['background_image']['url'] ) ) {
+				$settings['background_overlay_image'] = $settings['background_image'];
+				$settings['background_overlay_background'] = 'classic';
+				unset( $settings['background_image'] );
+			}
+			if ( isset( $settings['background_color'] ) ) {
+				$settings['background_overlay_color'] = $settings['background_color'];
+				$settings['background_overlay_background'] = 'classic';
+				unset( $settings['background_color'] );
+			}
+		}
+	}
+
+
+	/**
+	 * Recursively parse a DOM node into an Elementor element array.
+	 *
+	 * @param DOMElement  $node  The DOM node.
+	 * @param DOMXPath    $xpath XPath object.
+	 * @param DOMDocument $dom   DOMDocument object.
+	 * @return array|null The element array or null if invalid.
+	 */
+	private function parse_elementor_node( $node, $xpath, $dom ) {
+		if ( ! ( $node instanceof DOMElement ) ) {
+			return null;
+		}
+
+		// Generate a new ID to avoid conflicts
+		$id = substr( md5( uniqid( rand(), true ) ), 0, 7 );
+
+		$el_type      = $node->getAttribute( 'data-element_type' );
+		$raw_settings = $node->getAttribute( 'data-settings' );
+
+		if ( empty( $id ) || empty( $el_type ) ) {
+			return null;
+		}
+
+		// Decode HTML entity-encoded JSON settings
+		$settings = [];
+		if ( ! empty( $raw_settings ) ) {
+			$decoded = html_entity_decode( $raw_settings, ENT_QUOTES, 'UTF-8' );
+			$parsed  = json_decode( $decoded, true );
+			if ( is_array( $parsed ) ) {
+				$settings = $parsed;
+			}
+		}
+
+		$element = [
+			'id'       => $id,
+			'elType'   => $el_type,
+			'settings' => $settings,
+			'elements' => [],
+			'isInner'  => false,
+		];
+
+		$widget_type_raw = $node->getAttribute( 'data-widget_type' );
+		$class_attr      = $node->getAttribute( 'class' );
+		$is_button       = ( strpos( $widget_type_raw, 'button' ) !== false ) || ( strpos( $class_attr, 'elementor-button' ) !== false );
+		$is_heading      = ( strpos( $widget_type_raw, 'heading' ) !== false ) || ( strpos( $class_attr, 'elementor-heading' ) !== false );
+
+		// Improved style extraction from 'style' and external CSS
+		$data_id = $node->getAttribute( 'data-id' );
+		$extra_css_props = [];
+		if ( isset( $this->external_css[$data_id] ) ) {
+			// Merge 'main' styles and any matching sub-selectors
+			$extra_css_props = isset( $this->external_css[$data_id]['main'] ) ? $this->external_css[$data_id]['main'] : [];
+			
+			// For buttons, prioritize button sub-selector
+			if ( $is_button && isset( $this->external_css[$data_id]['button'] ) ) {
+				$extra_css_props = array_merge( $extra_css_props, $this->external_css[$data_id]['button'] );
+			}
+			// For headings, honor .elementor-heading-title
+			if ( $is_heading && isset( $this->external_css[$data_id]['heading'] ) ) {
+				$extra_css_props = array_merge( $extra_css_props, $this->external_css[$data_id]['heading'] );
+			}
+			// Generic widget container fallback
+			if ( ! empty( $widget_type_raw ) && isset( $this->external_css[$data_id]['container'] ) ) {
+				$extra_css_props = array_merge( $extra_css_props, $this->external_css[$data_id]['container'] );
+			}
+			// Wrap styles (common for column/section backgrounds)
+			if ( isset( $this->external_css[$data_id]['wrap'] ) ) {
+				$extra_css_props = array_merge( $extra_css_props, $this->external_css[$data_id]['wrap'] );
+			}
+			if ( isset( $this->external_css[$data_id]['column_wrap'] ) ) {
+				$extra_css_props = array_merge( $extra_css_props, $this->external_css[$data_id]['column_wrap'] );
+			}
+
+			// Apply overlay styles if found
+			if ( isset( $this->external_css[$data_id]['overlay'] ) ) {
+				$overlay_settings = [];
+				$this->apply_styles_to_settings( $node, $overlay_settings, $el_type, true, $this->external_css[$data_id]['overlay'] );
+				foreach ( $overlay_settings as $ok => $ov ) {
+					$settings['background_overlay_' . $ok] = $ov;
+				}
+				$settings['background_overlay_background'] = 'classic';
+			}
+
+			// Final fallback background for the section/column if still empty
+			if ( empty( $settings['background_image']['url'] ) && isset( $this->external_css[$data_id]['fallback_background'] ) ) {
+				if ( preg_match( '/url\([\'"]?([^\'"]+)[\'"]?\)/i', $this->external_css[$data_id]['fallback_background'], $fb_m ) ) {
+					$settings['background_image'] = [ 'url' => $fb_m[1] ];
+					$settings['background_background'] = 'classic';
+				}
+			}
+		}
+		
+		$this->apply_styles_to_settings( $node, $element['settings'], $el_type, false, $extra_css_props );
+
+		// Also check key descendant wraps for backgrounds/overlays
+		$wrap_nodes = $xpath->query( './/*[contains(@class, "-wrap") or contains(@class, "elementor-background") or contains(@class, "elementor-widget-container")]', $node );
+		foreach ( $wrap_nodes as $wrap ) {
+			$this->apply_styles_to_settings( $wrap, $element['settings'], $el_type, true );
+		}
+
+
+		// Try to extract background image from settings if set in data-settings
+		if ( isset( $element['settings']['background_image'] ) && is_array( $element['settings']['background_image'] ) && isset( $element['settings']['background_image']['url'] ) ) {
+			// Already has it
+		} elseif ( isset( $element['settings']['background_image'] ) && is_string( $element['settings']['background_image'] ) ) {
+			$element['settings']['background_image'] = [ 'url' => $element['settings']['background_image'] ];
+		}
+
+		// Detect if it is an inner section
+		if ( 'section' === $el_type ) {
+			$parent = $node->parentNode;
+			while ( $parent && $parent->nodeType === XML_ELEMENT_NODE ) {
+				if ( $parent->hasAttribute( 'data-element_type' ) && 'column' === $parent->getAttribute( 'data-element_type' ) ) {
+					$element['isInner'] = true;
+					break;
+				}
+				$parent = $parent->parentNode;
+			}
+		}
+
+		// Extract column width for columns
+		if ( 'column' === $el_type ) {
+			$class = $node->getAttribute( 'class' );
+			if ( preg_match( '/elementor-col-([0-9]+)/', $class, $matches ) ) {
+				$element['settings']['_column_size'] = (int) $matches[1];
+				$element['settings']['_inline_size'] = (int) $matches[1];
+			} elseif ( preg_match( '/elementor-element-populate/', $class ) ) {
+				// Often columns are 100% if they are the only ones
+				$element['settings']['_column_size'] = 100;
+				$element['settings']['_inline_size'] = 100;
+			}
+		}
+
+		if ( 'widget' === $el_type ) {
+			$widget_type_raw   = $node->getAttribute( 'data-widget_type' );
+			$widget_type_parts = explode( '.', $widget_type_raw );
+			$element['widgetType'] = isset( $widget_type_parts[0] ) ? $widget_type_parts[0] : 'text-editor';
+
+			$containers = $xpath->query( './/div[contains(@class,"elementor-widget-container")]', $node );
+			if ( $containers->length > 0 ) {
+				$inner_html = '';
+				foreach ( $containers->item( 0 )->childNodes as $child ) {
+					$inner_html .= $dom->saveHTML( $child );
+				}
+				$inner_html = trim( $inner_html );
+
+				switch ( $element['widgetType'] ) {
+					case 'heading':
+					case 'woostify-heading':
+						$heading_els = $xpath->query( './/*[self::h1 or self::h2 or self::h3 or self::h4 or self::h5 or self::h6 or contains(@class, "elementor-heading-title")]', $containers->item( 0 ) );
+						if ( $heading_els->length > 0 ) {
+							$h_node = $heading_els->item( 0 );
+							$element['settings']['title'] = trim( $h_node->textContent );
+							$this->apply_styles_to_settings( $h_node, $element['settings'], 'widget' );
+						}
+						break;
+					case 'text-editor':
+					case 'editor':
+						$element['settings']['editor'] = $inner_html;
+						break;
+					case 'image-box':
+						$img_els = $xpath->query( './/img', $containers->item( 0 ) );
+						if ( $img_els->length > 0 ) {
+							$element['settings']['image'] = [ 'url' => $img_els->item( 0 )->getAttribute( 'src' ) ];
+						}
+						$title_els = $xpath->query( './/*[contains(@class, "elementor-image-box-title")]', $containers->item( 0 ) );
+						if ( $title_els->length > 0 ) {
+							$element['settings']['title_text'] = trim( $title_els->item( 0 )->textContent );
+						}
+						$desc_els = $xpath->query( './/*[contains(@class, "elementor-image-box-description")]', $containers->item( 0 ) );
+						if ( $desc_els->length > 0 ) {
+							$element['settings']['description_text'] = trim( $desc_els->item( 0 )->textContent );
+						}
+						break;
+					case 'icon-box':
+						$icon_els = $xpath->query( './/*[contains(@class, "elementor-icon-box-icon")]//i', $containers->item( 0 ) );
+						if ( $icon_els->length > 0 ) {
+							$element['settings']['icon'] = str_replace( 'fa fa-', '', $icon_els->item( 0 )->getAttribute( 'class' ) );
+						}
+						$title_els = $xpath->query( './/*[contains(@class, "elementor-icon-box-title")]', $containers->item( 0 ) );
+						if ( $title_els->length > 0 ) {
+							$element['settings']['title_text'] = trim( $title_els->item( 0 )->textContent );
+						}
+						$desc_els = $xpath->query( './/*[contains(@class, "elementor-icon-box-description")]', $containers->item( 0 ) );
+						if ( $desc_els->length > 0 ) {
+							$element['settings']['description_text'] = trim( $desc_els->item( 0 )->textContent );
+						}
+						break;
+					case 'button':
+						$btn_els = $xpath->query( './/span[contains(@class,"elementor-button-text")] | .//a[contains(@class, "elementor-button")]', $containers->item( 0 ) );
+						if ( $btn_els->length > 0 ) {
+							$element['settings']['text'] = trim( $btn_els->item( 0 )->textContent );
+							// Extract style from the actual button anchor if possible
+							$btn_node = $xpath->query( './/a[contains(@class, "elementor-button")]', $containers->item( 0 ) );
+							if ( $btn_node->length > 0 ) {
+								$this->apply_styles_to_settings( $btn_node->item(0), $element['settings'], 'widget' );
+							}
+						}
+						$link_els = $xpath->query( './/a', $containers->item( 0 ) );
+						if ( $link_els->length > 0 ) {
+							$element['settings']['link'] = [ 'url' => $link_els->item( 0 )->getAttribute( 'href' ) ];
+						}
+						break;
+					case 'image':
+						$img_els = $xpath->query( './/img', $containers->item( 0 ) );
+						if ( $img_els->length > 0 ) {
+							$element['settings']['image'] = [
+								'url' => $img_els->item( 0 )->getAttribute( 'src' ),
+								'alt' => $img_els->item( 0 )->getAttribute( 'alt' ),
+							];
+						}
+						break;
+					case 'icon':
+						$icon_els = $xpath->query( './/i', $containers->item( 0 ) );
+						if ( $icon_els->length > 0 ) {
+							$element['settings']['icon'] = str_replace( 'fa fa-', '', $icon_els->item( 0 )->getAttribute( 'class' ) );
+							$element['settings']['selected_icon'] = [
+								'value' => $icon_els->item( 0 )->getAttribute( 'class' ),
+								'library' => 'fa-solid',
+							];
+						}
+						break;
+					case 'spacer':
+						$spacer_els = $xpath->query( './/div[contains(@class, "elementor-spacer-inner")]', $containers->item( 0 ) );
+						// Settings usually already has space size from data-settings
+						break;
+					default:
+						// Try to extract content from widget-container if no specific logic
+						if ( empty( $element['settings'] ) && ! empty( $inner_html ) ) {
+							$element['settings']['content'] = $inner_html;
+						}
+						break;
+				}
+			}
+			// Important: Ensure widgetType is correctly formatted for Elementor
+			$element['widgetType'] = $element['widgetType'];
+			
+			// Widgets have no child elements
+			return $element;
+		}
+
+		// Find child nodes
+		$child_nodes = null;
+		if ( 'section' === $el_type ) {
+			// For sections: find child columns
+			$child_nodes = $xpath->query( './/*[@data-element_type="column"]', $node );
+		} elseif ( 'column' === $el_type || 'container' === $el_type ) {
+			// For Columns and Flexbox Containers: find direct Elementor children
+			$child_nodes = $xpath->query( './/*[@data-id]', $node );
+		}
+
+		if ( $child_nodes ) {
+			foreach ( $child_nodes as $child ) {
+				// We only want DIRECT children that have a data-element_type or data-id
+				$parent_el = $child->parentNode;
+				$is_direct = false;
+				
+				// Traverse up to find the first ancestor with a data-id or data-element_type
+				while ( $parent_el && $parent_el->nodeType === XML_ELEMENT_NODE ) {
+					if ( $parent_el->hasAttribute( 'data-element_type' ) ) {
+						// If the first Elementor ancestor is NOT our current node, then this is not a direct child
+						if ( $parent_el->isSameNode( $node ) ) {
+							$is_direct = true;
+						}
+						break;
+					}
+					$parent_el = $parent_el->parentNode;
+				}
+
+				if ( $is_direct ) {
+					$child_element = $this->parse_elementor_node( $child, $xpath, $dom );
+					if ( $child_element ) {
+						$element['elements'][] = $child_element;
+					}
+				}
+			}
+		}
+
+		return $element;
 	}
 
 	public function select_demo_type() {
