@@ -43,7 +43,7 @@ class Woostify_Sites_Elementor_Pages extends Source_Local {
 	 * @param  array   $data Elementor Data.
 	 * @return array   $data Elementor Imported Data.
 	 */
-	public function import( $post_id = 0, $data = array(), $contact_form = '' ) {
+	public function import( $post_id = 0, $data = array(), $contact_form = '', $save = true ) {
 
 		if ( ! empty( $post_id ) && ! empty( $data ) ) {
 
@@ -89,8 +89,11 @@ class Woostify_Sites_Elementor_Pages extends Source_Local {
 
 			// Import the data.
 			$data = $this->process_export_import_content( $data, 'on_import' );
-			// Update processed meta.
-			update_metadata( 'post', $post_id, '_elementor_data', $data );
+			
+			if ( $save ) {
+				// Update processed meta.
+				update_metadata( 'post', $post_id, '_elementor_data', $data );
+			}
 
 			// !important, Clear the cache after images import.
 			\Elementor\Plugin::$instance->files_manager->clear_cache();
