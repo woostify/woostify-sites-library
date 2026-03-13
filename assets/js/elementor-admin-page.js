@@ -306,7 +306,8 @@
 					beforeSend: function (response) {
 					},
 					success: function (response) {
-						$('#woostify-sites-modal').css('display', 'block');
+						$('#woostify-sites-modal').css('display', 'flex');
+						$('#woostify-sites-modal').css('justify-content', 'center');
 						$('#woostify-sites-modal').html(response);
 						if (tab) {
 							tab.parent().find('.elementor-active').removeClass('active');
